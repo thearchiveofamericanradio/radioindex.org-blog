@@ -1,18 +1,52 @@
-# Solving "Date Unknown" Radio Mysteries: Forensic Audio & Primary Newspaper Scans
+# Solving "Date Unknown" Radio Mysteries: Forensic Audio, Multi-Platform Transcripts & Primary Newspaper Scans
 
 **Date**: 2026-08-21  
 **Author**: RadioIndex Archival Team  
-**Tags**: OTR, Archival Discovery, Primary Scans, The Whistler, The Shadow, The Green Hornet, Dragnet
+**Tags**: OTR History, Audio AI, Whisper ASR, YouTube Transcripts, Spreaker, Primary Scans, Cultural Preservation
 
 ---
 
 ## The 76,000-Recording Challenge
 
-In Old Time Radio (OTR) preservation, collector tapes have circulated for over half a century labeled with vague tags like *"Date Unknown"*, *"The Part 19"*, or completely blank titles. Across the 273,234 recordings in the radioindex source-of-record archive, **76,321 recordings** entered our catalog without verified calendar airdates.
+In Old Time Radio (OTR) preservation, collector tapes have circulated for over half a century labeled with vague tags like *"Date Unknown"*, *"The Part 19"*, or completely blank titles. Across the 273,234 recordings in the RadioIndex source-of-record archive, **76,321 recordings** entered our catalog without verified calendar airdates.
 
-Today, we established a deterministic forensic discovery pipeline. What makes this approach definitive is the fusion of **in-broadcast Whisper ASR dialogue extraction** with **our vast collection of primary newspaper scans, daily radio highlight columns, and trade periodicals**.
+Today, we established a deterministic forensic discovery pipeline. What makes this approach definitive is the fusion of **our multi-tier audio transcription ensemble** with **our vast collection of primary newspaper scans, daily radio highlight columns, and trade periodicals**.
 
 When internal audio clues (character names, sponsor commercials, local station call letters) line up with the **actual newspaper scans from the morning of the broadcast**, we can confirm the exact historical transmission beyond all doubt.
+
+---
+
+## The Multi-Source Audio Transcription Ensemble
+
+Rather than relying on a single speech recognition pass, our archival pipeline ingests, correlates, and aligns dialogue from multiple complementary sources:
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                 MULTI-SOURCE SPEECH RECOGNITION ENSEMBLE                │
+├───────────────────┬───────────────────┬─────────────────────────────────┤
+│ YouTube Captions  │ Spreaker Transcripts│ Local Neural Whisper ASR      │
+│ & Archive Uploads │ & Podcast Feeds   │ (Apple Silicon GPU / MLX)       │
+└─────────┬─────────┴─────────┬─────────┴────────────────┬────────────────┘
+          │                   │                          │
+          └───────────────────┼──────────────────────────┘
+                              ▼
+        ┌───────────────────────────────────────────────┐
+        │     Dialogue, Sponsor & Cue Entity Matcher    │
+        └─────────────────────┬─────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│               PRIMARY NEWSPAPER & NETWORK LOG VERIFICATION              │
+├───────────────────────────────────┬─────────────────────────────────────┤
+│ Morning Radio Grids & Highlights  │ Jerry Haendiges (jjonez) & Goldin   │
+│ (NYT, Chicago Trib, LA Times, WP) │ Master Network Broadcast Logs       │
+└───────────────────────────────────┴─────────────────────────────────────┘
+```
+
+1. **Existing YouTube Audio Transcripts & Captions**: Ingesting and indexing existing high-fidelity human and auto-generated transcripts across hundreds of thousands of historical OTR broadcasts on YouTube.
+2. **Spreaker & Podcast Syndication Streams**: Extracting dialogue tracks, timed episode summaries, and audio markers from syndicated distribution feeds.
+3. **Local High-Precision Neural Whisper ASR**: Running local `mlx_whisper` on Apple Silicon GPUs for master audio streams directly from our source-of-record storage, capturing faint announcer billings and background music themes.
+4. **YouTube Upload Alignment**: Linking resolved broadcast metadata directly to our canonical audio stream files and public media endpoints.
 
 ---
 
