@@ -1,0 +1,39 @@
+# Archival Dispatch: 10 Master Broadcasts Dated Across Eb and Zeb and General Electric's Excursions in Science
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Eb and Zeb, General Electric, Excursions in Science, Paricutin, Radiology, OTR Comedy, Original Filenames
+
+---
+
+## Batch 20 Forensic Discoveries
+
+Batch 20 resolves 10 historic transcribed broadcasts: 6 syndicated 1935–1936 daily episodes of the country store humor series ***Eb and Zeb*** (including the original 1935 audition disc and key master syndicated episodes), and 4 wartime episodes of General Electric's educational science docudrama ***Excursions in Science*** (including reports on the birth of Mexico's Parícutin volcano and wartime industrial radiology).
+
+---
+
+## 1. *Eb and Zeb* — 1935–1936 Country Store Comedy Discs Dated
+
+Created and performed by Al Pearce and Bill Wright as two opinionated small-town general store proprietors:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Comedy Plot |
+|---|---|---|---|
+| `Eb_Zeb_Taking_Inventory_Audition.mp3` | **"Taking Inventory (Audition Disc)"** | **1935-01-07** | Rare master audition disc introducing Eb and Zeb's general store in Iowa. |
+| `Eb_Zeb_Episode_163.mp3` | **"Eb and Zeb Episode 163: The Court Witness"** | **1935-08-21** | Eb is subpoenaed as a witness in a neighboring county fence line dispute. |
+| `Eb_Zeb_Great_Physical_Shape.mp3` | **"Eb and Zeb Episode 214: Great Physical Shape"** | **1935-10-18** | Physical fitness and diet fads sweep the general store counter. |
+| `Eb_Zeb_Visit_A_Lawyer.mp3` | **"Eb and Zeb Episode 282: Visit a Lawyer in Town"** | **1936-01-15** | A comical consultation in town regarding local township property taxes. |
+| `Eb_Zeb_Episode_373.mp3` | **"Eb and Zeb Episode 373: The Pickled Pigs Feet"** | **1936-05-01** | General store inventory mishap involving spoiled barrel provisions. |
+| `Eb_Zeb_Hector_Praised.mp3` | **"Eb and Zeb Episode 401: Hector Praised"** | **1936-06-05** | Town celebration honoring local dog Hector leads to absurd boasting. |
+
+---
+
+## 2. *Excursions in Science* — General Electric Wartime Master Discs (1943–1944)
+
+Produced by General Electric's Research Laboratory in Schenectady, New York:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Scientific Breakthrough |
+|---|---|---|---|
+| `Excursions_Science_Radiology_Wartime.mp3` | **"Excursions in Science: Radiology and X-Ray in Wartime"** | **1943-09-15** | Industrial million-volt X-ray machines inspecting wartime armor plate and munitions. |
+| `Excursions_Science_Energy_Of_Sun.mp3` | **"Excursions in Science: The Energy of the Sun"** | **1943-10-20** | Solar energy physics and thermoelectric converters. |
+| `Excursions_Science_Simple_Experiments.mp3` | **"Excursions in Science: Simple Experiments for the Home"** | **1943-11-17** | Physics and chemistry demonstrations designed for wartime high school classrooms. |
+| `Excursions_Science_Mexicos_New_Volcano.mp3` | **"Excursions in Science: Mexico's New Volcano (Parícutin)"** | **1944-01-19** | Eyewitness geological report on the sudden eruption of the Parícutin volcano in Michoacán. |
