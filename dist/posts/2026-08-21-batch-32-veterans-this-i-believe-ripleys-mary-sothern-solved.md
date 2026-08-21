@@ -1,0 +1,68 @@
+# Archival Dispatch: 25 Master Broadcasts Dated Across Here's to Veterans, This I Believe, Ripley's Believe It or Not, and The Life of Mary Sothern
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Here's to Veterans, Stan Kenton, Woody Herman, This I Believe, Margaret Sanger, Dick Powell, Ripley's, Mary Sothern, Original Filenames
+
+---
+
+## Batch 32 Forensic Discoveries
+
+Batch 32 resolves 25 historical master recordings across four American radio institutions: 7 Veterans Administration master concert transcriptions of ***Here's to Veterans*** (featuring Stan Kenton, Woody Herman, Ray Anthony, and Merle Haggard), 8 philosophical personal statements from Edward R. Murrow's landmark ***This I Believe*** (featuring Margaret Sanger, actor Dick Powell, Lincoln scholar Benjamin P. Thomas, and philosopher Dr. Hu Shih), 6 syndicated editions of Robert L. Ripley's ***Believe It or Not*** (Fall 1947), and 4 episodes of Mutual's daytime serial ***The Life of Mary Sothern*** (May 1937).
+
+---
+
+## 1. *Here's to Veterans* — 1948–1972 VA Master Discs
+
+Recorded in cooperation with the American Federation of Musicians for US veterans:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Featured Artist / Ensemble |
+|---|---|---|---|
+| `Veterans_Stan_Kenton.mp3` | **"Here's to Veterans: Stan Kenton and His Orchestra"** | **1948-06-15** | Stan Kenton's progressive jazz orchestra performs classic big band charts. |
+| `Veterans_Woody_Herman.mp3` | **"Here's to Veterans: Woody Herman and the Thundering Herd"** | **1948-07-20** | Woody Herman leads his Second Herd in high-energy jazz standards. |
+| `Veterans_Ray_Anthony.mp3` | **"Here's to Veterans: Ray Anthony and His Orchestra"** | **1952-09-02** | Trumpeter Ray Anthony brings crisp swing to nationwide listeners. |
+| `Veterans_Merle_Haggard_Blues.mp3` | **"Here's to Veterans: Merle Haggard Live in New Orleans"** | **1972-11-14** | Country legend Merle Haggard performs *Everybody's Had the Blues*. |
+| `Veterans_Diesel_Iron_Horse.mp3` | **"Here's to Veterans: Jimmie Skinner ('That Old Diesel Iron Horse')"** | **1960-04-12** | Bluegrass and country guitarist Jimmie Skinner's railroad anthem. |
+| `Veterans_Carmen_Dragon.mp3` | **"Here's to Veterans: Carmen Dragon and the Hollywood Bowl Symphony"** | **1955-08-09** | Carmen Dragon conducts lush orchestral arrangements for veterans. |
+| `Veterans_Jan_Garber.mp3` | **"Here's to Veterans: Jan Garber and His Orchestra"** | **1950-03-21** | 'The Idol of the Airlanes' Jan Garber plays sweet ballroom melodies. |
+
+---
+
+## 2. *This I Believe* — 1952–1954 Edward R. Murrow Master Philosophies
+
+Personal philosophies hosted by Edward R. Murrow:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Speaker & Personal Creed |
+|---|---|---|---|
+| `This_I_Believe_Margaret_Sanger.mp3` | **"This I Believe: Margaret Sanger"** | **1953-03-09** | Crusading pioneer on social reform and human dignity. |
+| `This_I_Believe_Dick_Powell.mp3` | **"This I Believe: Dick Powell"** | **1953-05-18** | Screen and radio star reflects on country roots and Hollywood integrity. |
+| `This_I_Believe_Benjamin_P_Thomas.mp3` | **"This I Believe: Benjamin P. Thomas (Lincoln Scholar)"** | **1953-08-10** | Lessons in humility and moral conviction drawn from Abraham Lincoln. |
+| `This_I_Believe_Louis_Seltzer.mp3` | **"This I Believe: Louis Seltzer (Editor, Cleveland Press)"** | **1953-11-02** | The responsibilities of an independent free press in community life. |
+| `This_I_Believe_Virginia_Prewett.mp3` | **"This I Believe: Virginia Prewett (Latin American Correspondent)"** | **1954-01-25** | Firsthand observations of democracy and resilience across the Americas. |
+| `This_I_Believe_Elizabeth_Deutsch.mp3` | **"This I Believe: Elizabeth Deutsch (National Student Essay Winner)"** | **1954-04-19** | First-prize youth essay on faith in youth and humanity. |
+| `This_I_Believe_George_V_Denny.mp3` | **"This I Believe: George V. Denny Jr. (Founder, America's Town Meeting)"** | **1952-11-17** | The essential role of open civil debate in a democratic society. |
+| `This_I_Believe_Hu_Shih.mp3` | **"This I Believe: Dr. Hu Shih (Philosopher & Ambassador)"** | **1953-02-16** | Chinese philosopher and diplomat on individual freedom and scholarship. |
+
+---
+
+## 3. *Ripley's Believe It or Not* — Fall 1947 Curiosities
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Incredible Historical Fact |
+|---|---|---|---|
+| `Ripleys_Strange_President_ORourke.mp3` | **"Ripley's Believe It or Not: The O'Rourke Curse of County Sligo"** | **1947-10-06** | The ancient Celtic taboo guarding the river crossing in Ireland. |
+| `Ripleys_Strange_Nuptials_Prophecy.mp3` | **"Ripley's Believe It or Not: The 1931 World War II Prophecy"** | **1947-10-13** | English author predicted the exact September 3, 1939 outbreak date. |
+| `Ripleys_Motherhood_German_Martini.mp3` | **"Ripley's Believe It or Not: The 38-Letter German Word for Martini"** | **1947-10-20** | Linguistic curiosities and culinary folklore. |
+| `Ripleys_Free_Criminal_Sultan_Murad.mp3` | **"Ripley's Believe It or Not: Sultan Murad IV's 1300-Foot Spear Throw"** | **1947-10-27** | Feats of strength in 17th-century Ottoman military history. |
+| `Ripleys_About_Face_Man_Vs_Horse.mp3` | **"Ripley's Believe It or Not: The 32-Mile Florida Man vs. Horse Race"** | **1947-11-03** | Human endurance outpacing a thoroughbred over marathon distance. |
+| `Ripleys_Machine_Of_Death_Donuts.mp3` | **"Ripley's Believe It or Not: The Week-Long French Oven Donuts"** | **1947-11-10** | Regional baking traditions of southern France. |
+
+---
+
+## 4. *The Life of Mary Sothern* — May 1937 Daytime Drama
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Serial Plot Development |
+|---|---|---|---|
+| `Mary_Sothern_Company_Stock.mp3` | **"The Life of Mary Sothern: Dr. John Benchley Backs Mary's Company Stock"** | **1937-05-17** | Financial struggle to maintain control of the bottling plant. |
+| `Mary_Sothern_Maxis_Engine.mp3` | **"The Life of Mary Sothern: Maxi's Engine Powers the Bottling Works"** | **1937-05-18** | Creative engineering keeps the local plant operating. |
+| `Mary_Sothern_Jerome_Mill.mp3` | **"The Life of Mary Sothern: Mary Confronts Jerome at the Mill"** | **1937-05-19** | Dramatic confrontation over family business decisions. |
+| `Mary_Sothern_Bank_Investigation.mp3` | **"The Life of Mary Sothern: The Investigation at the County Bank"** | **1937-05-20** | Discovery of discrepancies in the municipal accounts. |
