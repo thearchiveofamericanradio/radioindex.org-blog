@@ -46,6 +46,9 @@ During World War II, Jim and Marian Jordan regularly dedicated closing segments 
 ## 3. *The Shadow* — 50th Anniversary Documentary
 
 - **Original Circulating Filename**: `The_Story_of_The_Shadow_1985_Radio_Documentary.mp3`
+
 - **Canonical Title**: **"The Story of The Shadow: 50th Anniversary Documentary"**
+
 - **Verified Airdate**: **1985-05-12**
+
 - **Forensic Audio Discovery**: Original announcer recounts the 1930s Street & Smith origin: *"Over 50 years ago, on the original radio program called The Shadow..."*

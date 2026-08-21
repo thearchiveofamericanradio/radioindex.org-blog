@@ -67,96 +67,23 @@ function parseMarkdown(content: string, filename: string): BlogPost {
   };
 }
 
+import { marked } from "marked";
+
+marked.setOptions({
+  gfm: true,
+  breaks: false,
+});
+
 function renderGfmToHtml(md: string): string {
-  let text = md;
-
-  // 1. Fenced code blocks
-  const codeBlocks: string[] = [];
-  text = text.replace(/```([a-z0-9_-]*)\n([\s\S]*?)```/gi, (_, lang, code) => {
-    const idx = codeBlocks.length;
-    codeBlocks.push(`<pre><code class="language-${lang || 'text'}">${escapeHtml(code.trim())}</code></pre>`);
-    return `<!--CODE_BLOCK_${idx}-->`;
-  });
-
-  // 2. GitHub Alert / Callout Blocks (> [!NOTE], > [!TIP], > [!IMPORTANT], > [!WARNING], > [!CAUTION])
-  text = text.replace(/^>\s*\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*\n((?:>.*\n?)*)/gim, (_, kind, bodyLines) => {
+  // Pre-process GitHub alerts (> [!NOTE], > [!TIP], > [!IMPORTANT], > [!WARNING], > [!CAUTION])
+  let text = md.replace(/^>\s*\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*\n((?:>.*\n?)*)/gim, (_, kind, bodyLines) => {
     const lowerKind = kind.toLowerCase();
     const cleanBody = bodyLines.split('\n').map((l: string) => l.replace(/^>\s?/, '')).join('\n').trim();
-    return `<div class="markdown-alert markdown-alert-${lowerKind}"><div class="markdown-alert-title">${kind}</div><p>${cleanBody}</p></div>\n\n`;
+    const renderedBody = marked.parse(cleanBody) as string;
+    return `<div class="markdown-alert markdown-alert-${lowerKind}"><div class="markdown-alert-title">${kind}</div>${renderedBody}</div>\n\n`;
   });
 
-  // 3. Tables
-  text = text.replace(/((?:^\|[^\n]+\|\r?\n)+)/gm, (tableMatch) => {
-    const lines = tableMatch.trim().split('\n').map((l: string) => l.trim());
-    if (lines.length < 2) return tableMatch;
-    
-    const headers = lines[0].split('|').map((c: string) => c.trim()).filter(Boolean);
-    const rows = lines.slice(2).map((rowLine: string) => {
-      const cells = rowLine.split('|').map((c: string) => c.trim()).filter(Boolean);
-      return `<tr>${cells.map((c: string) => `<td>${inlineFormat(c)}</td>`).join('')}</tr>`;
-    });
-
-    return `<table><thead><tr>${headers.map((h: string) => `<th>${inlineFormat(h)}</th>`).join('')}</tr></thead><tbody>${rows.join('')}</tbody></table>\n\n`;
-  });
-
-  // 4. Headings
-  text = text.replace(/^### (.*$)/gim, "<h3>$1</h3>");
-  text = text.replace(/^## (.*$)/gim, "<h2>$1</h2>");
-  text = text.replace(/^# (.*$)/gim, "<h1>$1</h1>");
-
-  // 5. Horizontal rules
-  text = text.replace(/^---$/gim, "<hr>");
-
-  // 6. Blockquotes
-  text = text.replace(/^> (.*$)/gim, "<blockquote><p>$1</p></blockquote>");
-
-  // 7. Lists & Paragraphs
-  const blocks = text.split(/\n\n+/);
-  const formatted = blocks.map((block: string) => {
-    const trimmed = block.trim();
-    if (!trimmed) return "";
-    if (trimmed.startsWith("<!--CODE_BLOCK_") || trimmed.startsWith("<h1>") || trimmed.startsWith("<h2>") || 
-        trimmed.startsWith("<h3>") || trimmed.startsWith("<table>") || trimmed.startsWith("<div class=\"markdown-alert") ||
-        trimmed.startsWith("<blockquote>") || trimmed.startsWith("<hr>")) {
-      return trimmed;
-    }
-    if (trimmed.startsWith("- ") || trimmed.startsWith("* ")) {
-      const items = trimmed.split(/\n/).map((l: string) => {
-        let itemText = l.replace(/^[-*]\s+/, "");
-        if (itemText.startsWith("[x] ") || itemText.startsWith("[X] ")) {
-          itemText = `<input type="checkbox" checked disabled> ${itemText.slice(4)}`;
-        } else if (itemText.startsWith("[ ] ")) {
-          itemText = `<input type="checkbox" disabled> ${itemText.slice(4)}`;
-        }
-        return `<li>${inlineFormat(itemText)}</li>`;
-      }).join("");
-      return `<ul>${items}</ul>`;
-    }
-    if (/^\d+\.\s/.test(trimmed)) {
-      const items = trimmed.split(/\n/).map((l: string) => `<li>${inlineFormat(l.replace(/^\d+\.\s+/, ""))}</li>`).join("");
-      return `<ol>${items}</ol>`;
-    }
-    return `<p>${inlineFormat(trimmed).replace(/\n/g, "<br>")}</p>`;
-  });
-
-  let output = formatted.join("\n\n");
-  output = output.replace(/<!--CODE_BLOCK_(\d+)-->/g, (_, idx) => codeBlocks[Number(idx)] || "");
-  return output;
-}
-
-function inlineFormat(str: string): string {
-  let s = str;
-  s = s.replace(/\*\*\*(.*?)\*\*\*/g, "<strong><em>$1</em></strong>");
-  s = s.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
-  s = s.replace(/\*(.*?)\*/g, "<em>$1</em>");
-  s = s.replace(/~~(.*?)~~/g, "<del>$1</del>");
-  s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
-  s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
-  return s;
-}
-
-function escapeHtml(str: string): string {
-  return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  return marked.parse(text) as string;
 }
 
 function generateRss(posts: BlogPost[], meta: SiteMeta): string {

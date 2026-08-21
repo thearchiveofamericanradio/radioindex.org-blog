@@ -65,6 +65,9 @@ Contemporaneous General Mills (*Cheerios* / *Wheaties*) on-air sponsor billboard
 ## 4. *Box 13* — Alan Ladd Syndication Master
 
 - **Original Filename**: `Box_13_The_Bitter_Bitten_NoDate.mp3`
+
 - **Canonical Title**: **"The Bitter Bitten"** (Episode #32)
+
 - **Verified Airdate**: **1949-03-27**
+
 - **Forensic Audio Discovery**: Alan Ladd opens: *"Box 13, care of the Star-Times... Come to Room 507, Hotel Belvedere. Please waste no time because this is a matter of life and death..."*
