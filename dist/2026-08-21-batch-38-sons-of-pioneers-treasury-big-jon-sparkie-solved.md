@@ -1,0 +1,78 @@
+# Archival Dispatch: 31 Master Broadcasts Dated Across Treasury Song Parade, Sons of the Pioneers, Big Jon & Sparkie, and BBC Christmas Specials
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Treasury Song Parade, Frank Sinatra, Georgia Gibbs, Sons of the Pioneers, Bob Nolan, Big Jon and Sparkie, BBC Christmas, Sue Perkins, Original Filenames
+
+---
+
+## Batch 38 Forensic Discoveries
+
+Batch 38 resolves 31 wartime music, western harmony, juvenile serial drama, and holiday anthology radio master recordings: 8 War Bond musical broadcasts from the ***Treasury Song Parade*** (featuring Frank Sinatra, Georgia Gibbs, Bea Wain, Morton Downey, and Ramona), 8 syndicated western harmony transcription recordings from the ***Sons of the Pioneers*** (1947–1950, featuring Bob Nolan and Ken Carson), 8 daily children's serial chapters from Jon Arthur's ***Big Jon and Sparkie*** (1950–1951), and 7 festive holiday radio specials from ***Christmas Broadcasts*** (featuring BBC Radio's Sue Perkins, The Harpoon, and classic Russian winter fairy tales).
+
+---
+
+## 1. *Treasury Song Parade* — 1942–1943 War Bond All-Star Discs
+
+Produced by the US Treasury Department War Finance Division:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | All-Star Vocalist |
+|---|---|---|---|
+| `Treasury_Sinatra_Kiss_Me_Again.mp3` | **"Treasury Song Parade: Frank Sinatra ('Kiss Me Again')"** | **1943-05-18** | Frank Sinatra sings Victor Herbert with the Treasury Orchestra. |
+| `Treasury_Parker_Just_As_Though.mp3` | **"Treasury Song Parade: Frank Parker ('Just as Though You Were Here')"** | **1942-10-22** | Frank Parker's romantic wartime ballad broadcast. |
+| `Treasury_Bea_Wain_Chicken_Neck.mp3` | **"Treasury Song Parade: Bea Wain ('I Get the Neck of the Chicken')"** | **1942-12-08** | Hit parade songstress Bea Wain performs novelty swing number. |
+| `Treasury_Bea_Wain_Buckle_Down.mp3` | **"Treasury Song Parade: Bea Wain ('Buckle Down, Buck Private')"** | **1943-02-16** | Bea Wain sings the soldier marching anthem for the War Bond drive. |
+| `Treasury_Ramona_Baby_Wont_You.mp3` | **"Treasury Song Parade: Ramona ('Baby Won't You Please Come Home')"** | **1943-04-27** | Ramona and her grand piano sing jazz blues standard. |
+| `Treasury_Virginia_OBrien_Cant_Give.mp3` | **"Treasury Song Parade: Virginia O'Brien ('I Can't Give You Anything But Love')"** | **1943-07-20** | Deadpan film comedienne Virginia O'Brien's unique vocal styling. |
+| `Treasury_Georgia_Gibbs_Happiness.mp3` | **"Treasury Song Parade: Georgia Gibbs ('Happiness Is a Thing Called Joe')"** | **1943-08-03** | Georgia Gibbs sings Harold Arlen's soulful theatrical ballad. |
+| `Treasury_Morton_Downey_Carolina.mp3` | **"Treasury Song Parade: Morton Downey ('Carolina Moon')"** | **1943-03-09** | Irish-American tenor Morton Downey's million-selling signature song. |
+
+---
+
+## 2. *Sons of the Pioneers* — 1947–1950 Western Harmony Discs
+
+Standard Radio & Teleways 16-inch transcription discs:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Western Vocal Harmony |
+|---|---|---|---|
+| `Pioneers_Smokey_Moon.mp3` | **"Sons of the Pioneers: 'Smokey Moon' (Featuring Ken Carson & Bob Nolan)"** | **1948-03-24** | Bob Nolan leads the vocal trio with Ken Carson's tenor lead. |
+| `Pioneers_Round_Up_In_Sky.mp3` | **"Sons of the Pioneers: 'Round-Up in the Sky'"** | **1948-06-16** | Signature cowboy campfire spiritual harmony. |
+| `Pioneers_Aint_Heard_Nothin.mp3` | **"Sons of the Pioneers: 'You Ain't Heard Nothin' Till You Hear Him Roar'"** | **1949-01-19** | Novelty western swing track highlighting canyon sound effects. |
+| `Pioneers_Echoes_From_Hills.mp3` | **"Sons of the Pioneers: 'Echoes from the Hills'"** | **1947-09-17** | Classic acoustic guitar and fiddle arrangement. |
+| `Pioneers_Cowboy_Camp_Meetin.mp3` | **"Sons of the Pioneers: 'Cowboy Camp Meetin''"** | **1948-11-10** | High-energy western gospel revival harmony. |
+| `Pioneers_Climbin_Golden_Stairs.mp3` | **"Sons of the Pioneers: 'Climbin' Up the Golden Stairs'"** | **1949-04-20** | Traditional folk spiritual recorded for transcription syndication. |
+| `Pioneers_West_In_My_Soul.mp3` | **"Sons of the Pioneers: 'The West Is in My Soul'"** | **1950-08-09** | Poetic prairie ballad composed by Bob Nolan. |
+| `Pioneers_Harvest_Moon.mp3` | **"Sons of the Pioneers: 'Shine On, Harvest Moon'"** | **1949-09-14** | Barbershop-influenced western vocal harmonizing on the 1908 standard. |
+
+---
+
+## 3. *Big Jon and Sparkie* — 1950–1951 Children's Daily Serials
+
+Created and voiced by Jon Arthur over the ABC Radio Network:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Cincinnati Childhood Adventure |
+|---|---|---|---|
+| `Big_Jon_Mayors_Wedding.mp3` | **"Big Jon and Sparkie: An Interruption in the Mayor's Wedding"** | **1951-06-12** | Mayor Plumpfront's society wedding gets thoroughly disrupted. |
+| `Big_Jon_Pane_Window.mp3` | **"Big Jon and Sparkie: The Pane in Mrs. Twohill's Window"** | **1951-06-13** | Sparkie nervously awaits circus tickets from Cincinnati friends. |
+| `Big_Jon_Mysterious_Man_Shack.mp3` | **"Big Jon and Sparkie: A Mysterious Man in the Shack"** | **1951-06-14** | Springtime investigation into the abandoned creek shack. |
+| `Big_Jon_Detectives_Mistakes.mp3` | **"Big Jon and Sparkie: Even Detectives Make Mistakes"** | **1951-06-15** | Amateur sleuthing leads to hilarious neighborhood misunderstandings. |
+| `Big_Jon_King_Kong_No_School.mp3` | **"Big Jon and Sparkie: King Kong on Saturday's 'No School Today'"** | **1951-06-16** | Two-hour Saturday morning extravaganza with stories and songs. |
+| `Big_Jon_Over_Falls_Airplane.mp3` | **"Big Jon and Sparkie: Over the Falls in an Airplane"** | **1950-10-02** | Thrilling aerial rescue serial adventure. |
+| `Big_Jon_Little_Dogs_Gone.mp3` | **"Big Jon and Sparkie: Where Oh Where Have Our Little Dogs Gone"** | **1951-06-19** | Neighborhood puppy search around the old windmill. |
+| `Big_Jon_Detective_Agency.mp3` | **"Big Jon and Sparkie: Sparkie's Private Detective Agency"** | **1951-06-20** | Sparkie opens up his very own backyard detective agency. |
+
+---
+
+## 4. *Christmas Broadcasts* — 1988–2008 BBC Festive Specials
+
+Holiday specials broadcast over BBC Radio 4 and BBC Scotland:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | BBC Holiday Special |
+|---|---|---|---|
+| `Christmas_Sue_Perkins.mp3` | **"Sue Perkins' Christmas Comedy Stocking (BBC Radio 4)"** | **2008-12-25** | Sue Perkins hosts Christmas morning British comedy variety. |
+| `Christmas_Fool_Of_World.mp3` | **"Old Peter's Russian Tales: Fool of the World (BBC Radio)"** | **1988-12-26** | Arthur Ransome's Boxing Day Russian folklore dramatization. |
+| `Christmas_Harpoon_Special.mp3` | **"The Harpoon: Series 1 Christmas Special (BBC Radio 4)"** | **1991-12-24** | Julian Dutton and Peter Baynham period radio satire. |
+| `Christmas_Nutcracker_Mouseykins.mp3` | **"The Nutcracker and the Mouse King: Mouseykins Revenge (BBC Radio 4)"** | **2001-12-24** | E.T.A. Hoffmann festive fairytale serial adaptation. |
+| `Christmas_Tallents_Ghost.mp3` | **"Red Room Ghost Stories for Christmas: Mr. Tallent's Ghost (BBC Scotland)"** | **2004-12-24** | Mary Webb's traditional chilling Christmas Eve ghost story. |
+| `Christmas_Prince_Ivan_Grey_Wolf.mp3` | **"Old Peter's Russian Tales: Prince Ivan and the Grey Wolf (BBC Radio)"** | **1989-12-25** | Winter fairy tale with traditional folk instruments. |
+| `Christmas_Highland_Spectre.mp3` | **"Ghost Stories at Christmas: The Highland Spectre (BBC Radio)"** | **2005-12-24** | Scottish winter highlands ghost mystery. |
