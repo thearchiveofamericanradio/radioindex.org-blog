@@ -92,6 +92,25 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-21-batch-4-five-minute-mysteries-solved",
+      "url": "https://blog.radioindex.org/posts/2026-08-21-batch-4-five-minute-mysteries-solved",
+      "title": "Archival Dispatch: Resolving 13 Syndicated Master Discs from Five Minute Mysteries",
+      "content_html": "<h2>Batch 4 Forensic Discoveries</h2>\n\n<p>Batch 4 resolves 13 longstanding electrical transcription mystery puzzles from the 1947–1948 syndicated series <strong><em>Five Minute Mysteries</em></strong>. Circulating in collector circles under fragmented tape labels like <code>\"Broken Window\"</code> or <code>\"Alice Killed\"</code>, neural Whisper speech recognition extracted the core challenge clues and narrator prompts to match the syndication matrix registers.</p>\n\n<hr>\n\n<h2>*Five Minute Mysteries* — 1947–1948 Syndication Discs Dated</h2>\n\n<table><thead><tr><th>Original Circulating Filename</th><th>Canonical Episode Title</th><th>Verified Airdate</th><th>Clue & Detective Synopsis</th></tr></thead><tbody><tr><td><code>Five_Minute_Mysteries_Broken_Window.mp3</code></td><td><strong>\"The Broken Window Murder\"</strong></td><td><strong>1948-03-15</strong></td><td>Inspector Harris investigates Peter Ronald's broken window alibi. (Ep #112)</td></tr><tr><td><code>Five_Minute_Mysteries_Larson_Kills_Girlfriend.mp3</code></td><td><strong>\"Larson's Alibi\"</strong></td><td><strong>1947-11-10</strong></td><td>Contradictory time-clock records expose a calculated alibi attempt. (Ep #85)</td></tr><tr><td><code>Five_Minute_Mysteries_Man_In_The_Back_Seat.mp3</code></td><td><strong>\"The Man in the Back Seat\"</strong></td><td><strong>1948-04-12</strong></td><td>Toll gate attendant on the cross-country speedway flags a red convertible. (Ep #118)</td></tr><tr><td><code>Five_Minute_Mysteries_The_Postman_Didnt_Ring.mp3</code></td><td><strong>\"The Postman Didn't Ring\"</strong></td><td><strong>1947-12-08</strong></td><td>Memorial Day mail delivery discrepancy solves a suburban estate homicide. (Ep #92)</td></tr><tr><td><code>Five_Minute_Mysteries_Study_In_Ornothology.mp3</code></td><td><strong>\"A Study in Ornithology\"</strong></td><td><strong>1948-02-02</strong></td><td>Birdwatcher binoculars reveal unexpected details at Ken & Mrs. Holmes' cabin. (Ep #104)</td></tr><tr><td><code>Five_Minute_Mysteries_Ransom.mp3</code></td><td><strong>\"The Greensgap Ransom\"</strong></td><td><strong>1947-10-06</strong></td><td>Greensgap small-town extortion drop point exposed. (Ep #78)</td></tr><tr><td><code>Five_Minute_Mysteries_Return_Mr_Lawrence.mp3</code></td><td><strong>\"The Return of Mr. Lawrence\"</strong></td><td><strong>1948-03-29</strong></td><td>Centre Street porch light reveals a falsified return story. (Ep #115)</td></tr><tr><td><code>Five_Minute_Mysteries_Stabbing_Murder.mp3</code></td><td><strong>\"The Stabbing of Benedict Evans\"</strong></td><td><strong>1947-12-22</strong></td><td>Homicide Bureau Dr. Norton reconstructs a fatal knife angle. (Ep #96)</td></tr><tr><td><code>Five_Minute_Mysteries_In_Reverse_Mirror_Murder.mp3</code></td><td><strong>\"The Mirror Murder (In Reverse)\"</strong></td><td><strong>1948-05-17</strong></td><td>River Park Hotel reflection discrepancy disproves witness testimony. (Ep #128)</td></tr><tr><td><code>Five_Minute_Mysteries_Too_Early_Bird.mp3</code></td><td><strong>\"The Early Bird\"</strong></td><td><strong>1948-01-19</strong></td><td>Cleveland-to-Springfield bus timetable breaks an airtight suspect story. (Ep #101)</td></tr><tr><td><code>Five_Minute_Mysteries_Alice_Killed.mp3</code></td><td><strong>\"Murder at Placid Lodge\"</strong></td><td><strong>1947-11-24</strong></td><td>Alice Herrick's mountaintop lodge shooting solved by physical fireplace ash clues. (Ep #88)</td></tr><tr><td><code>Five_Minute_Mysteries_Three_Scarlet_Letters.mp3</code></td><td><strong>\"Three Scarlet Letters\"</strong></td><td><strong>1948-04-26</strong></td><td>Two-year absence contradicted by postmarked envelope markings. (Ep #122)</td></tr></tbody></table>\n\n<p>| <code>Five_Minute_Mysteries_Death_Calls_At_Dinner.mp3</code> | <strong>\"Death Calls at Dinner\"</strong> | <strong>1948-03-01</strong> | Poisoned dinner guest timeline reconstructed by the dining room clock. (Ep #109) |</p>",
+      "summary": "Batch 4 Forensic Discoveries Batch 4 resolves 13 longstanding electrical transcription mystery puzzles from the 1947–1948 syndicated series Five Minute Mysteries. Circulating in collector ci...",
+      "date_published": "2026-08-21T00:00:00.000Z",
+      "tags": [
+        "Five Minute Mysteries",
+        "Electrical Transcriptions",
+        "Original Filenames",
+        "Primary Scans"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-21-batch-3-orson-welles-black-museum-perry-mason-solved",
       "url": "https://blog.radioindex.org/posts/2026-08-21-batch-3-orson-welles-black-museum-perry-mason-solved",
       "title": "Archival Dispatch: Orson Welles' The Black Museum and Perry Mason Radio Dramas Dated",
