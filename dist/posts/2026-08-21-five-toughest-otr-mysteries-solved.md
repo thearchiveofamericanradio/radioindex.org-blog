@@ -1,7 +1,7 @@
 # Cracking 5 of the Hardest Mysteries in OTR History: From Soap Opera Shootings to Arch Oboler Horrors
 
 **Date**: 2026-08-21  
-**Author**: RadioIndex Archival Team  
+**Author**: radio index  
 **Tags**: Lights Out, Young Widder Brown, Suspense, Famous Escapes, Archival Discovery, Original Filenames
 
 ---

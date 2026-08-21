@@ -15,14 +15,14 @@ const SITE_META: SiteMeta = {
   title: "RadioIndex Archival Journal",
   description: "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   url: "https://blog.radioindex.org",
-  author: "RadioIndex Archival Team",
+  author: "radio index",
 };
 
 function parseMarkdown(content: string, filename: string): BlogPost {
   const lines = content.split("\n");
   let title = "";
   let date = "";
-  let author = "RadioIndex Archival Team";
+  let author = "radio index";
   let tags: string[] = [];
   
   const slug = filename.replace(/\.md$/, "");
@@ -167,7 +167,7 @@ function generateRss(posts: BlogPost[], meta: SiteMeta): string {
       <guid isPermaLink="true">${meta.url}/posts/${p.slug}</guid>
       <description><![CDATA[${p.excerpt}]]></description>
       <pubDate>${new Date(p.date).toUTCString()}</pubDate>
-      <author>noreply@radioindex.org (${p.author})</author>
+      <author>radio index</author>
       ${p.tags.map((t) => `<category>${t}</category>`).join("")}
     </item>`).join("");
 

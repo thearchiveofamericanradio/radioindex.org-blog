@@ -1,7 +1,7 @@
 # Solving What Was "Lost to Time": How Audio AI and Primary Newspaper Scans Are Dating 76,000 Mystery Broadcasts
 
 **Date**: 2026-08-21  
-**Author**: RadioIndex Archival Team  
+**Author**: radio index  
 **Tags**: OTR History, Audio AI, Primary Scans, Cultural Preservation
 
 ---

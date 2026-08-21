@@ -1,7 +1,7 @@
 # Unlocking 50 "Date Unknown" Radio Classics: Forensic Transcripts Solve Longstanding OTR Mysteries
 
 **Date**: 2026-08-21  
-**Author**: RadioIndex Archival Team  
+**Author**: radio index  
 **Tags**: Gunsmoke, The Whistler, Sherlock Holmes, Fibber McGee, Escape, Archival Discovery
 
 ---

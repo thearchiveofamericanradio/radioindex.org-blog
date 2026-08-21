@@ -1,7 +1,7 @@
 # Solving "Date Unknown" Radio Mysteries: Forensic Audio, Multi-Platform Transcripts & Primary Newspaper Scans
 
 **Date**: 2026-08-21  
-**Author**: RadioIndex Archival Team  
+**Author**: radio index  
 **Tags**: OTR History, Audio AI, Whisper ASR, YouTube Transcripts, Spreaker, Primary Scans, Collector Tapes
 
 ---
