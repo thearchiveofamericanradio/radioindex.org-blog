@@ -4,14 +4,17 @@ import { renderLayout } from "./render-layout";
 export function renderPost(post: BlogPost, meta: SiteMeta): string {
   const canonical = `${meta.url}/posts/${post.slug}`;
   const body = `
-    <article class="entry">
+    <article class="entry markdown-body">
       <header class="entry-header">
-        <h1 class="page-title">${post.title}</h1>
+        <h1 class="entry-page-title">${post.title}</h1>
         <div class="entry-log-box">
-          <div class="entry-log-item"><strong>Date:</strong> <time datetime="${post.date}">${post.date}</time></div>
-          <div class="entry-log-item"><strong>Author:</strong> ${post.author}</div>
-          <div class="entry-log-item"><strong>Reading:</strong> ${post.readingTimeMinutes} min</div>
-          <div class="entry-log-item"><strong>Tags:</strong> ${post.tags.map((t) => `#${t}`).join(", ")}</div>
+          <div class="entry-log-items">
+            <div class="entry-log-item"><strong>Date:</strong> <time datetime="${post.date}">${post.date}</time></div>
+            <div class="entry-log-item"><strong>Author:</strong> ${post.author}</div>
+            <div class="entry-log-item"><strong>Reading:</strong> ${post.readingTimeMinutes} min</div>
+            <div class="entry-log-item"><strong>Tags:</strong> ${post.tags.map((t) => `#${t}`).join(", ")}</div>
+          </div>
+          <a href="/posts/${post.slug}.md" class="entry-raw-link" target="_blank" rel="noopener">Raw .md</a>
         </div>
       </header>
       <div class="content">

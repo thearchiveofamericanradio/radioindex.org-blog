@@ -41,25 +41,40 @@ app.get("/", (c) => {
   return c.html(html, 200, CACHE_HEADERS);
 });
 
+// Raw Markdown endpoints
+app.get("/posts/:slug.md", (c) => {
+  const slug = c.req.param("slug");
+  const post = POSTS.find((p) => p.slug === slug);
+  if (!post) return c.text("404 Not Found", 404);
+  return c.text(post.markdown, 200, { "Content-Type": "text/markdown; charset=utf-8", ...CACHE_HEADERS });
+});
+
+app.get("/:slug.md", (c) => {
+  const slug = c.req.param("slug");
+  const post = POSTS.find((p) => p.slug === slug);
+  if (!post) return c.text("404 Not Found", 404);
+  return c.text(post.markdown, 200, { "Content-Type": "text/markdown; charset=utf-8", ...CACHE_HEADERS });
+});
+
 // Post Detail Pages
 app.get("/posts/:slug", (c) => {
   const slug = c.req.param("slug");
   const post = POSTS.find((p) => p.slug === slug);
   if (!post) {
-    return c.html(`<h1>404 Not Found</h1><p><a href="/">Return to blog home</a></p>`, 404);
+    return c.html(`<h1>404 Not Found</h1><p><a href="/">Return to journal</a></p>`, 404);
   }
   const html = renderPost(post, SITE_META);
   return c.html(html, 200, CACHE_HEADERS);
 });
 
-// Short URL redirect or direct serve
+// Short URL redirect
 app.get("/:slug", (c) => {
   const slug = c.req.param("slug");
   const post = POSTS.find((p) => p.slug === slug);
   if (post) {
     return c.redirect(`/posts/${slug}`, 301);
   }
-  return c.html(`<h1>404 Not Found</h1><p><a href="/">Return to blog home</a></p>`, 404);
+  return c.html(`<h1>404 Not Found</h1><p><a href="/">Return to journal</a></p>`, 404);
 });
 
 export default {
