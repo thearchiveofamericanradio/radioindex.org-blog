@@ -1,0 +1,73 @@
+# Archival Dispatch: 30 Master Broadcasts Dated Across Cecil and Sally, Easy Aces, Eb and Zeb, and Aunt Mary
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Cecil and Sally, Easy Aces, Jane Ace, Eb and Zeb, Aunt Mary, Daytime Drama, 1930s Radio, Original Filenames
+
+---
+
+## Batch 31 Forensic Discoveries
+
+Batch 31 resolves 30 classic radio broadcasts across four long-running serial giants: 8 early episodes of Johnny Patrick & Helen Troy's ***Cecil and Sally*** (August 1930), 7 network master broadcasts of Goodman & Jane Ace's ***Easy Aces*** (October 1936), 8 episodes of Pacific Coast storekeepers ***Eb and Zeb*** (May 1936), and 7 courtroom and family episodes of daytime drama ***Aunt Mary*** (February 1947).
+
+---
+
+## 1. *Cecil and Sally* — August 1930 Master Discs
+
+Preserved from early 16-inch electrical transcription discs:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Comedy Situation |
+|---|---|---|---|
+| `Cecil_And_Sally_Math_Problem.mp3` | **"Cecil and Sally: Cecil Solves Sally's Math Problem"** | **1930-08-18** | Sally enlists Cecil to settle an impossible riddle. |
+| `Cecil_And_Sally_Half_Built_House.mp3` | **"Cecil and Sally: Adventures in a Half-Built House"** | **1930-08-19** | Exploring neighborhood construction on an evening stroll. |
+| `Cecil_And_Sally_Short_Changed.mp3` | **"Cecil and Sally: Sally Insists She Was Short-Changed at the Movies"** | **1930-08-20** | Mary Pickford movie tickets and ticket-booth confusion. |
+| `Cecil_And_Sally_Alexander_Calls.mp3` | **"Cecil and Sally: Alexander Calls Sally and Cecil Is Jealous"** | **1930-08-21** | A rival suitor's telephone call sparks banter. |
+| `Cecil_And_Sally_Diner_Order.mp3` | **"Cecil and Sally: Ordering Lunch at the Crowded Diner"** | **1930-08-22** | Fast-talking counter service at the downtown diner. |
+| `Cecil_And_Sally_Spend_15_Dollars.mp3` | **"Cecil and Sally: Cecil Plans How to Spend Fifteen Dollars"** | **1930-08-25** | Cecil's unexpected financial windfall leads to big dreams. |
+| `Cecil_And_Sally_Little_Otis.mp3` | **"Cecil and Sally: Introduction to Little Otis"** | **1930-08-26** | First appearance of mischievous neighborhood kid Otis. |
+| `Cecil_And_Sally_Uncle_Thomas.mp3` | **"Cecil and Sally: Preparing for Uncle Thomas's Visit"** | **1930-08-27** | Housecleaning ahead of Uncle Thomas's arrival. |
+
+---
+
+## 2. *Easy Aces* — October 1936 Network Master Broadcasts
+
+Written by Goodman Ace and starring Jane Ace:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Ace Household Shenanigans |
+|---|---|---|---|
+| `Easy_Aces_Newspaper_Job.mp3` | **"Easy Aces: Ace Learns About His New Newspaper Job"** | **1936-10-13** | Ace starts selling real estate advertising for the newspaper. |
+| `Easy_Aces_Betty_Fight.mp3` | **"Easy Aces: Betty Talks to Jane About the Honeymoon Fight"** | **1936-10-14** | Niece Betty returns home unexpectedly from her honeymoon. |
+| `Easy_Aces_Carl_Betty.mp3` | **"Easy Aces: Carl Asks Betty to Marry Him"** | **1936-10-15** | Family complications arise from the impending wedding proposal. |
+| `Easy_Aces_Cook_Boyfriend.mp3` | **"Easy Aces: Ace's Cook Is Feeding Her Boyfriend"** | **1936-10-20** | Ace discovers why the kitchen budget has skyrocketed. |
+| `Easy_Aces_Neighbor_Mrs_Feather.mp3` | **"Easy Aces: Jane Meets Her New Neighbor Mrs. Feather"** | **1936-10-21** | Jane encounters an overbearing neighbor who claims credit for everything. |
+| `Easy_Aces_Bridge_Lessons.mp3` | **"Easy Aces: Jane Takes Bridge Lessons"** | **1936-10-22** | Jane's unique logic bewilders the local bridge instructors. |
+| `Easy_Aces_Book_Review.mp3` | **"Easy Aces: Jane Talks About a Book She Dislikes"** | **1936-10-27** | Jane offers her unconventional literary critiques. |
+
+---
+
+## 3. *Eb and Zeb* — May 1936 General Store Serials
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Storefront Chronicle |
+|---|---|---|---|
+| `Eb_And_Zeb_Ep_305.mp3` | **"Eb and Zeb: Collecting the Store Bill from Mr. Idy (Episode 305)"** | **1936-05-18** | The partners attempt to collect $11.20 in overdue store credit. |
+| `Eb_And_Zeb_Ep_306.mp3` | **"Eb and Zeb: Closing Up the General Store (Episode 306)"** | **1936-05-19** | Nighttime closing rituals and tallying daily accounts. |
+| `Eb_And_Zeb_Ep_307.mp3` | **"Eb and Zeb: Hector's Career as a Wrestler (Episode 307)"** | **1936-05-20** | Discussion of Hector's athletic ambitions at the county ring. |
+| `Eb_And_Zeb_Ep_308.mp3` | **"Eb and Zeb: The County Fair Sheep Auction (Episode 308)"** | **1936-05-21** | Livestock trading and auction house bargaining. |
+| `Eb_And_Zeb_Ep_309.mp3` | **"Eb and Zeb: Major Barnes Tells About Hector (Episode 309)"** | **1936-05-22** | Major Barnes visits the store with town gossip. |
+| `Eb_And_Zeb_Ep_310.mp3` | **"Eb and Zeb: Morning Duties at the Store (Episode 310)"** | **1936-05-25** | Sweep-up and unlocking for morning customers. |
+| `Eb_And_Zeb_Ep_311.mp3` | **"Eb and Zeb: County Tax Bills and New Tariffs (Episode 311)"** | **1936-05-26** | Rural debates over town taxes and merchandise pricing. |
+| `Eb_And_Zeb_Ep_312.mp3` | **"Eb and Zeb: Fresh Fish at 15 Cents a Pound (Episode 312)"** | **1936-05-27** | Store marketing strategies and perishable inventory. |
+
+---
+
+## 4. *Aunt Mary* — February 1947 Daytime Drama
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Oakdale Community Narrative |
+|---|---|---|---|
+| `Aunt_Mary_Jessie_Brett.mp3` | **"Aunt Mary: Jessie Agrees to Brett's Plan"** | **1947-02-03** | Jessie and Ben Calvert navigate business partnerships. |
+| `Aunt_Mary_Bill_Peggy_Date.mp3` | **"Aunt Mary: Bill Asks for a Date with Peggy"** | **1947-02-04** | Romantic tensions at the Lane Farm on Willow Road. |
+| `Aunt_Mary_Brett_Jessie_Kitt.mp3` | **"Aunt Mary: Brett and Jessie Talk About Kitt"** | **1947-02-05** | Family loyalties are tested in Wakefield. |
+| `Aunt_Mary_Mario_Carla.mp3` | **"Aunt Mary: Mario Has Doubts About Carla"** | **1947-02-06** | Secrets revealed as Carla prepares dinner. |
+| `Aunt_Mary_Thorndyke_Court.mp3` | **"Aunt Mary: Miss Thorndyke Discredited in Huntsville Court"** | **1947-02-07** | Dramatic courtroom climax at the county seat. |
+| `Aunt_Mary_Nick_Peggy_Jessie.mp3` | **"Aunt Mary: Nick and Peggy Run into Jessie"** | **1947-02-10** | Unexpected confrontation on Main Street. |
+| `Aunt_Mary_Kitt_Landlady.mp3` | **"Aunt Mary: Kitt's Landlady Wants Her to Move"** | **1947-02-11** | Housing troubles disrupt the Wakefield community. |
