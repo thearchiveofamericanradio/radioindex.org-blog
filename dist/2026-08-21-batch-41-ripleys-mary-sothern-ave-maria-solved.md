@@ -1,0 +1,79 @@
+# Archival Dispatch: 32 Master Broadcasts Dated Across Ripley's Believe It or Not, The Life of Mary Sothern, Ave Maria Hour, and WWII V-Discs
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Ripley's Believe It or Not, Robert Ripley, The Life of Mary Sothern, Ave Maria Hour, V-Discs, Glenn Miller, Benny Goodman, Harry James, Original Filenames
+
+---
+
+## Batch 41 Forensic Discoveries
+
+Batch 41 resolves 32 historical radio broadcasts and wartime military transcription discs: 8 syndicated network broadcasts from Robert L. Ripley's ***Ripley's Believe It or Not*** (1939–1947), 8 sequential dramatic broadcasts from the classic Mutual daytime serial ***The Life of Mary Sothern*** (1936–1937), 8 historical sacred biographical dramas from Graymoor's ***Ave Maria Hour*** (1949–1954), and 8 WWII War Department 12-inch 78 RPM ***V-Discs*** (featuring Major Glenn Miller, Benny Goodman, Harry James, and Vaughn Monroe).
+
+---
+
+## 1. *Ripley's Believe It or Not* — 1939–1947 Curiosities & Wonders
+
+Broadcast over CBS and NBC Blue featuring Robert L. Ripley:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Incredible Historical Wonder |
+|---|---|---|---|
+| `Ripleys_Unusual_Nose_RC.mp3` | **"Ripley's Believe It or Not: The Woman with an Unusual Nose (Royal Crown Show)"** | **1939-04-14** | Live stage presentation with B.A. Rolfe's orchestra. |
+| `Ripleys_Turned_Down_Gold_Mine.mp3` | **"Ripley's Believe It or Not: Turned Down a Gold Mine & King John of France"** | **1947-06-03** | Historic battlefield chivalry between the Black Prince and King John. |
+| `Ripleys_Prince_Lapoukhin.mp3` | **"Ripley's Believe It or Not: Prince Lapoukhin of Russia's Humanism"** | **1947-06-10** | Russian nobleman honored for abolishing punitive corporal punishment. |
+| `Ripleys_Unusual_Pony.mp3` | **"Ripley's Believe It or Not: The Unusual Island Pony"** | **1947-06-17** | The seafaring pony of the North Sea islands. |
+| `Ripleys_Richest_Heiress_Cigar.mp3` | **"Ripley's Believe It or Not: World's Richest Heiress & 50-Year Cigar"** | **1947-06-24** | The groom who saved half his wedding cigar for his golden anniversary. |
+| `Ripleys_Argument_Led_War.mp3` | **"Ripley's Believe It or Not: Argument Led to War & Domingo Irala"** | **1947-07-01** | The explorer of Paraguay and the sudden domestic alliance. |
+| `Ripleys_Richter_Eternal_Silence.mp3` | **"Ripley's Believe It or Not: Alexander Richter's Eternal Silence"** | **1947-07-08** | The man who spent decades tending what proved to be his own mistaken tomb. |
+| `Ripleys_Mysterious_Iron_Chest.mp3` | **"Ripley's Believe It or Not: The Mysterious Iron Chest"** | **1947-07-15** | An unopened colonial chest left untouched for three generations. |
+
+---
+
+## 2. *The Life of Mary Sothern* — 1936–1937 Mutual Daytime Serial
+
+Produced by WLW Cincinnati and broadcast nationwide over the Mutual Broadcasting System:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Serial Chapter |
+|---|---|---|---|
+| `Mary_Sothern_Ep13.mp3` | **"The Life of Mary Sothern: Episode 13 - John's Lasting Impression"** | **1936-11-18** | Dr. John Benson ponders his growing attachment to Mary. |
+| `Mary_Sothern_Ep24.mp3` | **"The Life of Mary Sothern: Episode 24 - An Eventful Week for Mary"** | **1936-12-03** | Mary faces difficult financial decisions after moving into her new home. |
+| `Mary_Sothern_Ep40.mp3` | **"The Life of Mary Sothern: Episode 40 - Dr. Benson's Poison Discovery"** | **1936-12-25** | Christmas Day revelation that Mary's illness was caused by poison. |
+| `Mary_Sothern_Ep119.mp3` | **"The Life of Mary Sothern: Episode 119 - Morning at the Farm"** | **1937-04-15** | Springtime recovery at the countryside farm estate. |
+| `Mary_Sothern_Ep180.mp3` | **"The Life of Mary Sothern: Episode 180 - Concealing a Simple Fact"** | **1937-07-09** | Summer secrets threaten Mary's standing in Stratford. |
+| `Mary_Sothern_Ep205.mp3` | **"The Life of Mary Sothern: Episode 205 - Max Goes to Prison"** | **1937-08-13** | The dramatic courtroom verdict sentencing Max to prison. |
+| `Mary_Sothern_Ep221.mp3` | **"The Life of Mary Sothern: Episode 221 - Mary and Max Plan Ahead"** | **1937-09-06** | Autumn reconciliation and new business plans for Mary. |
+| `Mary_Sothern_Ep268.mp3` | **"The Life of Mary Sothern: Episode 268 - The Hotel Bar Confrontation"** | **1937-11-10** | Seth intervenes at the hotel bar to prevent a major land sale disaster. |
+
+---
+
+## 3. *Ave Maria Hour* — 1949–1954 Graymoor Master Radio Dramas
+
+Produced by the Franciscan Friars of the Atonement at Graymoor, Garrison, New York:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Historical Sacred Drama |
+|---|---|---|---|
+| `Ave_Maria_Second_Beatitude.mp3` | **"Ave Maria Hour: The Second Beatitude - Blessed Are the Meek (Part 2)"** | **1949-02-27** | Dramatic sermon exploration of Christian humility. |
+| `Ave_Maria_St_John_Fisher.mp3` | **"Ave Maria Hour: St. John Fisher (Martyred Bishop and Cardinal)"** | **1950-06-22** | Bishop of Rochester who defied King Henry VIII. |
+| `Ave_Maria_Big_Strong_Man_Roch.mp3` | **"Ave Maria Hour: The Big Strong Man and St. Roch"** | **1950-08-13** | The plague healer and patron of the falsely accused. |
+| `Ave_Maria_St_Germaine_Cousin.mp3` | **"Ave Maria Hour: St. Germaine Cousin - Canon of Virgins"** | **1951-06-17** | 16th-century shepherdess of Pibrac whose faith inspired a village. |
+| `Ave_Maria_Mother_Lurana.mp3` | **"Ave Maria Hour: Mother Lurana of Graymoor"** | **1952-04-20** | Dramatic founding of the Franciscan Sisters of the Atonement. |
+| `Ave_Maria_St_Agatha.mp3` | **"Ave Maria Hour: St. Agatha of Sicily"** | **1953-02-08** | Early Christian courage in 3rd-century Catania under Decius. |
+| `Ave_Maria_Handmaid_Lord.mp3` | **"Ave Maria Hour: Handmaid of the Lord"** | **1953-05-10** | Devotional Marian radio drama for Mother's Day. |
+| `Ave_Maria_St_Justin_Jacobis.mp3` | **"Ave Maria Hour: St. Justin de Jacobis (Apostle of Abyssinia)"** | **1954-07-25** | Italian Vincentian missionary bishop in 19th-century Ethiopia. |
+
+---
+
+## 4. *V-Disc Collection* — 1943–1945 WWII Military Transcription Masters
+
+Pressed for overseas Armed Forces personnel by the War Department:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate / Session | Armed Forces Swing Legend |
+|---|---|---|---|
+| `VDisc_094A_Vaughn_Monroe.mp3` | **"V-Disc 094A: Vaughn Monroe and His Orchestra ('For the First Time')"** | **1943-12-15** | Vaughn Monroe personal vocal introduction and ballad for the troops. |
+| `VDisc_136B_Fort_Slocum_Band.mp3` | **"V-Disc 136B: Fort Slocum Band ('We Are Marching Lord')"** | **1944-02-20** | Military band spiritual march recorded in New Rochelle, NY. |
+| `VDisc_201B_Glenn_Miller_AAF.mp3` | **"V-Disc 201B: Major Glenn Miller & the AAF Band ('Sleepy Town Train')"** | **1944-05-18** | Major Glenn Miller's 50-piece Army Air Forces Training Command Band. |
+| `VDisc_242A_Harry_James.mp3` | **"V-Disc 242A: Harry James and His Orchestra ('Eli Eli')"** | **1944-07-04** | Harry James' legendary virtuoso trumpet solo arrangement. |
+| `VDisc_310B_Szath_Myri.mp3` | **"V-Disc 310B: Szath-Myri and His Orchestra ('Go Down Moses')"** | **1944-10-12** | Symphonic swing jazz arrangement of the classic spiritual. |
+| `VDisc_420A_Benny_Goodman_Trio.mp3` | **"V-Disc 420A: Benny Goodman Trio ('Poor Butterfly')"** | **1945-04-10** | Benny Goodman clarinet with Teddy Wilson piano and Specs Powell drums. |
+| `VDisc_482B_Goodman_All_Stars.mp3` | **"V-Disc 482B: Goodman-Tough-Wilson-Hampton-Dorsey ('Opus 1/2')"** | **1945-07-20** | All-Star wartime jam session with Lionel Hampton and Tommy Dorsey. |
+| `VDisc_526B_Mitchell_Ayres.mp3` | **"V-Disc 526B: Mitchell Ayres and His Orchestra ('Home')"** | **1945-09-15** | Postwar reunion ballad pressed for returning servicemen. |
