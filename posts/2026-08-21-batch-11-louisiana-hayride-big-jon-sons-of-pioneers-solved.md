@@ -1,0 +1,53 @@
+# Archival Dispatch: 17 Master Broadcasts Dated Across Louisiana Hayride, Big Jon and Sparkie, and Sons of the Pioneers
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Louisiana Hayride, George Jones, Johnny Horton, Big Jon and Sparkie, Sons of the Pioneers, KWKH Shreveport, Original Filenames
+
+---
+
+## Batch 11 Forensic Discoveries
+
+Batch 11 resolves 17 historical live performances and syndicated recordings across three landmark American broadcast traditions: KWKH Shreveport's legendary country institution ***Louisiana Hayride*** (starring George Jones, Johnny Horton, Roy Clark, and George Morgan), Jon Arthur's ABC children's comedy serial ***Big Jon and Sparkie***, and Teleways Radio's 1950 transcription discs of ***Sons of the Pioneers*** (Bob Nolan and Pat Brady).
+
+---
+
+## 1. *Louisiana Hayride* — KWKH Shreveport Live Broadcasts Dated
+
+Broadcast live from the Shreveport Municipal Memorial Auditorium, the *Louisiana Hayride* launched country music legends into nationwide prominence:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Performers & Songs |
+|---|---|---|---|
+| `Hayride_George_Jones_White_Lightning.mp3` | **"George Jones: White Lightning"** | **1959-03-21** | George Jones performs his #1 smash hit *White Lightning* live on KWKH. |
+| `Hayride_George_Morgan_Candy_Kisses.mp3` | **"George Morgan: Candy Kisses"** | **1955-08-13** | Host Frank Page introduces guest star George Morgan. |
+| `Hayride_Johnny_Horton_Gone_With_The_Wind.mp3` | **"Johnny Horton: Gone With the Wind This Mornin'"** | **1958-04-19** | Johnny Horton premieres his newly written ballad prior to record release. |
+| `Hayride_Roy_Clark_Double_Eagle.mp3` | **"Roy Clark: Under the Double Eagle & The Great Pretender"** | **1956-06-09** | Virtuoso banjo/guitar performance and comedy monologue by Roy Clark. |
+| `Hayride_Bill_Carlisle_Cock_Your_Pistol.mp3` | **"Bill Carlisle: Wouldn't That Cock Your Pistol"** | **1954-10-16** | Bill Carlisle comedy routine live at the Bossier City shopping center broadcast. |
+| `Hayride_Tommy_Jackson_Alabama_Jubilee.mp3` | **"Tommy Jackson: Alabama Jubilee Square Dance"** | **1953-07-25** | Fiddler Tommy Jackson leads the auditorium square dancers. |
+| `Hayride_James_OGwynn_Talk_To_Me.mp3` | **"James O'Gwynn: Talk to Me Lonesome Heart"** | **1958-09-20** | James O'Gwynn performs his classic country chart single. |
+| `Hayride_Johnny_Lee_Ramblin_Rose.mp3` | **"Johnny Lee: Ramblin' Rose"** | **1977-04-09** | Johnny Lee performs his GRT Records release live on stage. |
+
+---
+
+## 2. *Big Jon and Sparkie* — 1951 Cincinnati ABC Master Arc Dated
+
+Jon Arthur created, produced, and voiced all characters for this ABC afternoon serial originating from WSAI Cincinnati:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Serial Arc |
+|---|---|---|---|
+| `Big_Jon_Cheer_Up_The_Sick_Boy.mp3` | **"Cheer Up the Sick Boy"** | **1951-05-14** | Big Jon recovers from a ladder fall while Sparkie provides entertainment. |
+| `Big_Jon_Not_Much_Doing.mp3` | **"Not Much Doing in Cincinnati"** | **1951-05-15** | Sparkie campaigns for new baseball uniforms in Cincinnati. |
+| `Big_Jon_Ukey_Makes_Decision.mp3` | **"Ukey Makes a Decision: Major League Baseball"** | **1951-05-16** | Ukey Butcher evaluates an offer from the major leagues. |
+| `Big_Jon_Wart_On_Ukeys_Neck.mp3` | **"The Wart on Ukey's Neck"** | **1951-05-17** | Quiet vacation retreat leads to mysterious local encounters. |
+| `Big_Jon_Wheres_Yukie_Now.mp3` | **"Where's Ukey Now? The Kidnapping Mystery Continues"** | **1951-05-18** | The escaped kidnappers strike again in rural Ohio. |
+| `Big_Jon_Even_Detectives_Make_Mistakes.mp3` | **"Even Detectives Make Mistakes"** | **1951-05-21** | Amateur sleuth Sparkie investigates false clues. |
+
+---
+
+## 3. *Sons of the Pioneers* — 1950 Teleways Transcription Discs
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Performance Details |
+|---|---|---|---|
+| `Sons_Pioneers_Its_A_Lie.mp3` | **"Bob Nolan and Pat Brady: It's a Lie"** | **1950-06-05** | Bob Nolan and Pat Brady trade humorous banter on the trail. |
+| `Sons_Pioneers_Hold_That_Critter_Down.mp3` | **"Billy Johnson: Hold That Critter Down"** | **1950-06-06** | Billy Johnson's western campfire melody and trail stories. |
+| `Sons_Pioneers_Jubalo.mp3` | **"The Pioneers Quartet: Jubalo"** | **1950-06-07** | Four-part harmony quartet arrangement of traditional American folk tunes. |
