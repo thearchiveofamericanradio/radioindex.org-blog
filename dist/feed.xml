@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RadioIndex Archival Journal</title>
+    <link>https://blog.radioindex.org</link>
+    <description>Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.</description>
+    <language>en-us</language>
+    <atom:link href="https://blog.radioindex.org/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 21 Aug 2026 20:44:21 GMT</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Solving "Date Unknown" Radio Mysteries: Forensic Audio & Primary Newspaper Scans]]></title>
+      <link>https://blog.radioindex.org/posts/2026-08-21-solving-lost-otr-broadcasts</link>
+      <guid isPermaLink="true">https://blog.radioindex.org/posts/2026-08-21-solving-lost-otr-broadcasts</guid>
+      <description><![CDATA[The 76,000-Recording Challenge In Old Time Radio OTR preservation, collector tapes have circulated for over half a century labeled with vague tags like "Date Unknown", "The Part 19", or comp...]]></description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <author>noreply@radioindex.org (RadioIndex Archival Team)</author>
+      <category>OTR</category><category>Archival Discovery</category><category>Primary Scans</category><category>The Whistler</category><category>The Shadow</category><category>The Green Hornet</category><category>Dragnet</category>
+    </item>
+    <item>
+      <title><![CDATA[Unlocking 50 "Date Unknown" Radio Classics: Forensic Transcripts Solve Longstanding OTR Mysteries]]></title>
+      <link>https://blog.radioindex.org/posts/2026-08-21-solving-50-mystery-otr-broadcasts</link>
+      <guid isPermaLink="true">https://blog.radioindex.org/posts/2026-08-21-solving-50-mystery-otr-broadcasts</guid>
+      <description><![CDATA[Major Forensic Breakthroughs Through systematic local Whisper ASR dialogue extraction combined with Jerry Haendiges jjonez network logs, J. David Goldin's database, and contemporary broadcas...]]></description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <author>noreply@radioindex.org (RadioIndex Archival Team)</author>
+      <category>Gunsmoke</category><category>The Whistler</category><category>Sherlock Holmes</category><category>Fibber McGee</category><category>Escape</category><category>Archival Discovery</category>
+    </item>
+    <item>
+      <title><![CDATA[Cracking 5 of the Hardest Mysteries in OTR History: From Soap Opera Shootings to Arch Oboler Horrors]]></title>
+      <link>https://blog.radioindex.org/posts/2026-08-21-five-toughest-otr-mysteries-solved</link>
+      <guid isPermaLink="true">https://blog.radioindex.org/posts/2026-08-21-five-toughest-otr-mysteries-solved</guid>
+      <description><![CDATA[The Toughest Cases in Audio Archaeology Some Old Time Radio recordings are easy to identify: the announcer speaks the date and title in the first ten seconds. But others have baffled collect...]]></description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <author>noreply@radioindex.org (RadioIndex Archival Team)</author>
+      <category>Lights Out</category><category>Young Widder Brown</category><category>Suspense</category><category>Famous Escapes</category><category>Archival Discovery</category>
+    </item>
+    <item>
+      <title><![CDATA[Solving What Was "Lost to Time": How Audio AI and Primary Newspaper Scans Are Dating 76,000 Mystery Broadcasts]]></title>
+      <link>https://blog.radioindex.org/posts/2026-08-21-a-new-era-in-otr-preservation</link>
+      <guid isPermaLink="true">https://blog.radioindex.org/posts/2026-08-21-a-new-era-in-otr-preservation</guid>
+      <description><![CDATA[A 70-Year Impasse in Broadcast History For over half a century, the Old Time Radio OTR community has lived with a persistent frustration: thousands of surviving recordings have had no verifi...]]></description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <author>noreply@radioindex.org (RadioIndex Archival Team)</author>
+      <category>OTR History</category><category>Audio AI</category><category>Primary Scans</category><category>Cultural Preservation</category>
+    </item>
+  </channel>
+</rss>

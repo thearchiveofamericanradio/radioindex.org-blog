@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>RadioIndex Archival Journal — radioindex.org dev blog</title>
+  <meta name="description" content="Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.">
+  <link rel="canonical" href="https://blog.radioindex.org">
+  <link rel="alternate" type="application/rss+xml" title="RadioIndex Journal RSS Feed" href="https://blog.radioindex.org/rss.xml">
+  <link rel="alternate" type="application/json" title="RadioIndex Journal JSON Feed" href="https://blog.radioindex.org/feed.json">
+  <link rel="icon" href="https://radioindex.org/assets/favicon-32x32.png" sizes="32x32">
+  <link rel="apple-touch-icon" href="https://radioindex.org/apple-touch-icon.png">
+  <meta property="og:site_name" content="radioindex.org dev blog">
+  <meta property="og:title" content="RadioIndex Archival Journal">
+  <meta property="og:description" content="Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://blog.radioindex.org">
+  <meta property="og:image" content="https://radioindex.org/og-card.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RadioIndex Archival Journal">
+  <meta name="twitter:description" content="Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.">
+  <meta name="twitter:image" content="https://radioindex.org/og-card.png">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Blog","name":"RadioIndex Archival Journal","description":"Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.","url":"https://blog.radioindex.org","blogPost":[{"@type":"BlogPosting","headline":"Solving \"Date Unknown\" Radio Mysteries: Forensic Audio & Primary Newspaper Scans","description":"The 76,000-Recording Challenge In Old Time Radio OTR preservation, collector tapes have circulated for over half a century labeled with vague tags like \"Date Unknown\", \"The Part 19\", or comp...","datePublished":"2026-08-21","url":"https://blog.radioindex.org/posts/2026-08-21-solving-lost-otr-broadcasts"},{"@type":"BlogPosting","headline":"Unlocking 50 \"Date Unknown\" Radio Classics: Forensic Transcripts Solve Longstanding OTR Mysteries","description":"Major Forensic Breakthroughs Through systematic local Whisper ASR dialogue extraction combined with Jerry Haendiges jjonez network logs, J. David Goldin's database, and contemporary broadcas...","datePublished":"2026-08-21","url":"https://blog.radioindex.org/posts/2026-08-21-solving-50-mystery-otr-broadcasts"},{"@type":"BlogPosting","headline":"Cracking 5 of the Hardest Mysteries in OTR History: From Soap Opera Shootings to Arch Oboler Horrors","description":"The Toughest Cases in Audio Archaeology Some Old Time Radio recordings are easy to identify: the announcer speaks the date and title in the first ten seconds. But others have baffled collect...","datePublished":"2026-08-21","url":"https://blog.radioindex.org/posts/2026-08-21-five-toughest-otr-mysteries-solved"},{"@type":"BlogPosting","headline":"Solving What Was \"Lost to Time\": How Audio AI and Primary Newspaper Scans Are Dating 76,000 Mystery Broadcasts","description":"A 70-Year Impasse in Broadcast History For over half a century, the Old Time Radio OTR community has lived with a persistent frustration: thousands of surviving recordings have had no verifi...","datePublished":"2026-08-21","url":"https://blog.radioindex.org/posts/2026-08-21-a-new-era-in-otr-preservation"}]}</script>
+  <style>
+:root {
+  --bg: #090a0f;
+  --bg-surface: #12141c;
+  --bg-card: #181b26;
+  --bg-code: #0f111a;
+  --text: #e6edf3;
+  --text-muted: #8b949e;
+  --text-dim: #6e7681;
+  --border: #30363d;
+  --border-subtle: #21262d;
+  --accent: #58a6ff;
+  --accent-hover: #79c0ff;
+  --green: #3fb950;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  --radius: 8px;
+  --max-w: 780px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #ffffff;
+    --bg-surface: #f6f8fa;
+    --bg-card: #ffffff;
+    --bg-code: #f6f8fa;
+    --text: #1f2328;
+    --text-muted: #656d76;
+    --text-dim: #8c959f;
+    --border: #d0d7de;
+    --border-subtle: #eaeef2;
+    --accent: #0969da;
+    --accent-hover: #0550ae;
+    --green: #1a7f37;
+  }
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { background: var(--bg); color: var(--text); font-family: var(--font-sans); font-size: 16px; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+body { min-height: 100vh; display: flex; flex-direction: column; }
+
+.wrap { width: 100%; max-width: var(--max-w); margin: 0 auto; padding: 0 20px; }
+
+/* Header */
+header.site-header { padding: 24px 0 20px; border-bottom: 1px solid var(--border); margin-bottom: 32px; background: var(--bg-surface); }
+.site-nav { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.brand { font-family: var(--font-mono); font-size: 1.05rem; font-weight: 700; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 8px; }
+.brand-pulse { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--green); }
+.brand-tag { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; background: var(--bg-card); color: var(--accent); padding: 1px 7px; border-radius: 4px; border: 1px solid var(--border); }
+.nav-links { display: flex; align-items: center; gap: 16px; font-family: var(--font-mono); font-size: 0.85rem; }
+.nav-links a { color: var(--text-muted); text-decoration: none; transition: color 0.15s; }
+.nav-links a:hover { color: var(--accent); }
+
+/* Main */
+main { flex: 1; margin-bottom: 64px; }
+
+.hero-banner { margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px solid var(--border-subtle); }
+.page-title { font-size: 1.85rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.25; margin-bottom: 8px; }
+.page-desc { font-size: 1rem; color: var(--text-muted); line-height: 1.5; }
+
+/* Entry List */
+.entry-list { display: flex; flex-direction: column; gap: 28px; }
+.entry-card { display: block; text-decoration: none; padding: 22px 24px; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); transition: border-color 0.15s, background 0.15s; }
+.entry-card:hover { border-color: var(--accent); background: var(--bg-surface); }
+.entry-meta { display: flex; align-items: center; gap: 10px; font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-muted); margin-bottom: 8px; }
+.entry-title { font-size: 1.28rem; font-weight: 700; color: var(--text); line-height: 1.35; margin-bottom: 8px; }
+.entry-excerpt { font-size: 0.95rem; color: var(--text-muted); line-height: 1.55; margin-bottom: 14px; }
+.entry-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { font-family: var(--font-mono); font-size: 0.72rem; font-weight: 500; background: var(--bg-surface); color: var(--text-muted); padding: 1px 7px; border-radius: 4px; border: 1px solid var(--border); }
+
+/* Single Entry */
+article.entry { }
+.entry-header { margin-bottom: 28px; border-bottom: 1px solid var(--border); padding-bottom: 20px; }
+.entry-header .page-title { font-size: 2.1rem; }
+.entry-log-box { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; font-family: var(--font-mono); font-size: 0.82rem; color: var(--text-muted); margin-top: 14px; padding: 10px 14px; background: var(--bg-surface); border: 1px solid var(--border); border-radius: var(--radius); }
+.entry-log-item { display: flex; align-items: center; gap: 6px; }
+.entry-log-item strong { color: var(--text); font-weight: 600; }
+
+/* Typography & Content */
+.content { font-size: 1.05rem; line-height: 1.7; color: var(--text); }
+.content p { margin-bottom: 18px; }
+.content h2 { font-size: 1.45rem; font-weight: 700; margin: 32px 0 14px; padding-bottom: 6px; border-bottom: 1px solid var(--border-subtle); letter-spacing: -0.015em; }
+.content h3 { font-size: 1.2rem; font-weight: 600; margin: 24px 0 10px; }
+.content ul, .content ol { margin: 0 0 18px 24px; }
+.content li { margin-bottom: 6px; }
+.content a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.content a:hover { color: var(--accent-hover); }
+.content blockquote { border-left: 3px solid var(--accent); padding: 10px 16px; margin: 20px 0; color: var(--text-muted); background: var(--bg-surface); border-radius: 0 var(--radius) var(--radius) 0; }
+.content hr { border: 0; border-top: 1px solid var(--border); margin: 32px 0; }
+.content code { font-family: var(--font-mono); font-size: 0.88em; background: var(--bg-code); color: var(--accent); padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border-subtle); }
+.content pre { background: var(--bg-code); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; overflow-x: auto; margin: 22px 0; }
+.content pre code { background: transparent; color: var(--text); padding: 0; border: 0; font-size: 0.88rem; line-height: 1.5; }
+.content table { width: 100%; border-collapse: collapse; margin: 22px 0; font-size: 0.92rem; }
+.content th, .content td { padding: 8px 12px; border: 1px solid var(--border); text-align: left; }
+.content th { background: var(--bg-surface); font-weight: 600; }
+
+/* Footer */
+footer.site-footer { border-top: 1px solid var(--border); padding: 28px 0; font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-dim); text-align: center; background: var(--bg-surface); }
+footer.site-footer a { color: var(--text-muted); text-decoration: none; }
+footer.site-footer a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap site-nav">
+      <a href="/" class="brand"><span class="brand-pulse"></span> radioindex.org <span class="brand-tag">Journal</span></a>
+      <nav class="nav-links">
+        <a href="https://radioindex.org">Archive</a>
+        <a href="/rss.xml">RSS</a>
+        <a href="/llms.txt">llms.txt</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    
+    <div class="hero-banner">
+      <h1 class="page-title">Engineering & Audio Archaeology Log</h1>
+      <p class="page-desc">Solving 76,000 lost-to-time broadcasts using neural speech models and primary newspaper scans. Raw, chronological, and verifiable.</p>
+    </div>
+    <div class="entry-list">
+      
+    <a href="/posts/2026-08-21-solving-lost-otr-broadcasts" class="entry-card">
+      <div class="entry-meta">
+        <time datetime="2026-08-21">2026-08-21</time>
+        <span>·</span>
+        <span>4 min</span>
+      </div>
+      <h2 class="entry-title">Solving "Date Unknown" Radio Mysteries: Forensic Audio & Primary Newspaper Scans</h2>
+      <p class="entry-excerpt">The 76,000-Recording Challenge In Old Time Radio OTR preservation, collector tapes have circulated for over half a century labeled with vague tags like "Date Unknown", "The Part 19", or comp...</p>
+      <div class="entry-tags">
+        <span class="tag">#OTR</span><span class="tag">#Archival Discovery</span><span class="tag">#Primary Scans</span><span class="tag">#The Whistler</span><span class="tag">#The Shadow</span><span class="tag">#The Green Hornet</span><span class="tag">#Dragnet</span>
+      </div>
+    </a>
+
+    <a href="/posts/2026-08-21-solving-50-mystery-otr-broadcasts" class="entry-card">
+      <div class="entry-meta">
+        <time datetime="2026-08-21">2026-08-21</time>
+        <span>·</span>
+        <span>3 min</span>
+      </div>
+      <h2 class="entry-title">Unlocking 50 "Date Unknown" Radio Classics: Forensic Transcripts Solve Longstanding OTR Mysteries</h2>
+      <p class="entry-excerpt">Major Forensic Breakthroughs Through systematic local Whisper ASR dialogue extraction combined with Jerry Haendiges jjonez network logs, J. David Goldin's database, and contemporary broadcas...</p>
+      <div class="entry-tags">
+        <span class="tag">#Gunsmoke</span><span class="tag">#The Whistler</span><span class="tag">#Sherlock Holmes</span><span class="tag">#Fibber McGee</span><span class="tag">#Escape</span><span class="tag">#Archival Discovery</span>
+      </div>
+    </a>
+
+    <a href="/posts/2026-08-21-five-toughest-otr-mysteries-solved" class="entry-card">
+      <div class="entry-meta">
+        <time datetime="2026-08-21">2026-08-21</time>
+        <span>·</span>
+        <span>3 min</span>
+      </div>
+      <h2 class="entry-title">Cracking 5 of the Hardest Mysteries in OTR History: From Soap Opera Shootings to Arch Oboler Horrors</h2>
+      <p class="entry-excerpt">The Toughest Cases in Audio Archaeology Some Old Time Radio recordings are easy to identify: the announcer speaks the date and title in the first ten seconds. But others have baffled collect...</p>
+      <div class="entry-tags">
+        <span class="tag">#Lights Out</span><span class="tag">#Young Widder Brown</span><span class="tag">#Suspense</span><span class="tag">#Famous Escapes</span><span class="tag">#Archival Discovery</span>
+      </div>
+    </a>
+
+    <a href="/posts/2026-08-21-a-new-era-in-otr-preservation" class="entry-card">
+      <div class="entry-meta">
+        <time datetime="2026-08-21">2026-08-21</time>
+        <span>·</span>
+        <span>3 min</span>
+      </div>
+      <h2 class="entry-title">Solving What Was "Lost to Time": How Audio AI and Primary Newspaper Scans Are Dating 76,000 Mystery Broadcasts</h2>
+      <p class="entry-excerpt">A 70-Year Impasse in Broadcast History For over half a century, the Old Time Radio OTR community has lived with a persistent frustration: thousands of surviving recordings have had no verifi...</p>
+      <div class="entry-tags">
+        <span class="tag">#OTR History</span><span class="tag">#Audio AI</span><span class="tag">#Primary Scans</span><span class="tag">#Cultural Preservation</span>
+      </div>
+    </a>
+    </div>
+  
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© 2026 <a href="https://radioindex.org">The Archive of American Radio, Inc.</a> · Zero-Bloat OTR Audio Archaeology</p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Solving &quot;Date Unknown&quot; Radio Mysteries: Forensic Audio &amp; Primary Newspaper Scans — radioindex.org dev blog</title>
+  <meta name="description" content="The 76,000-Recording Challenge In Old Time Radio OTR preservation, collector tapes have circulated for over half a century labeled with vague tags like &quot;Date Unknown&quot;, &quot;The Part 19&quot;, or comp...">
+  <link rel="canonical" href="https://blog.radioindex.org/posts/2026-08-21-solving-lost-otr-broadcasts">
+  <link rel="alternate" type="application/rss+xml" title="RadioIndex Journal RSS Feed" href="https://blog.radioindex.org/rss.xml">
+  <link rel="alternate" type="application/json" title="RadioIndex Journal JSON Feed" href="https://blog.radioindex.org/feed.json">
+  <link rel="icon" href="https://radioindex.org/assets/favicon-32x32.png" sizes="32x32">
+  <link rel="apple-touch-icon" href="https://radioindex.org/apple-touch-icon.png">
+  <meta property="og:site_name" content="radioindex.org dev blog">
+  <meta property="og:title" content="Solving &quot;Date Unknown&quot; Radio Mysteries: Forensic Audio &amp; Primary Newspaper Scans">
+  <meta property="og:description" content="The 76,000-Recording Challenge In Old Time Radio OTR preservation, collector tapes have circulated for over half a century labeled with vague tags like &quot;Date Unknown&quot;, &quot;The Part 19&quot;, or comp...">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://blog.radioindex.org/posts/2026-08-21-solving-lost-otr-broadcasts">
+  <meta property="og:image" content="https://radioindex.org/og-card.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Solving &quot;Date Unknown&quot; Radio Mysteries: Forensic Audio &amp; Primary Newspaper Scans">
+  <meta name="twitter:description" content="The 76,000-Recording Challenge In Old Time Radio OTR preservation, collector tapes have circulated for over half a century labeled with vague tags like &quot;Date Unknown&quot;, &quot;The Part 19&quot;, or comp...">
+  <meta name="twitter:image" content="https://radioindex.org/og-card.png">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Solving \"Date Unknown\" Radio Mysteries: Forensic Audio & Primary Newspaper Scans","description":"The 76,000-Recording Challenge In Old Time Radio OTR preservation, collector tapes have circulated for over half a century labeled with vague tags like \"Date Unknown\", \"The Part 19\", or comp...","datePublished":"2026-08-21","dateModified":"2026-08-21","author":{"@type":"Organization","name":"RadioIndex Archival Team","url":"https://radioindex.org"},"publisher":{"@type":"Organization","name":"The Archive of American Radio","url":"https://radioindex.org","logo":{"@type":"ImageObject","url":"https://radioindex.org/assets/radio-index-512.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.radioindex.org/posts/2026-08-21-solving-lost-otr-broadcasts"}}</script>
+  <style>
+:root {
+  --bg: #090a0f;
+  --bg-surface: #12141c;
+  --bg-card: #181b26;
+  --bg-code: #0f111a;
+  --text: #e6edf3;
+  --text-muted: #8b949e;
+  --text-dim: #6e7681;
+  --border: #30363d;
+  --border-subtle: #21262d;
+  --accent: #58a6ff;
+  --accent-hover: #79c0ff;
+  --green: #3fb950;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  --radius: 8px;
+  --max-w: 780px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #ffffff;
+    --bg-surface: #f6f8fa;
+    --bg-card: #ffffff;
+    --bg-code: #f6f8fa;
+    --text: #1f2328;
+    --text-muted: #656d76;
+    --text-dim: #8c959f;
+    --border: #d0d7de;
+    --border-subtle: #eaeef2;
+    --accent: #0969da;
+    --accent-hover: #0550ae;
+    --green: #1a7f37;
+  }
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { background: var(--bg); color: var(--text); font-family: var(--font-sans); font-size: 16px; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+body { min-height: 100vh; display: flex; flex-direction: column; }
+
+.wrap { width: 100%; max-width: var(--max-w); margin: 0 auto; padding: 0 20px; }
+
+/* Header */
+header.site-header { padding: 24px 0 20px; border-bottom: 1px solid var(--border); margin-bottom: 32px; background: var(--bg-surface); }
+.site-nav { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.brand { font-family: var(--font-mono); font-size: 1.05rem; font-weight: 700; color: var(--text); text-decoration: none; display: flex; align-items: center; gap: 8px; }
+.brand-pulse { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--green); }
+.brand-tag { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; background: var(--bg-card); color: var(--accent); padding: 1px 7px; border-radius: 4px; border: 1px solid var(--border); }
+.nav-links { display: flex; align-items: center; gap: 16px; font-family: var(--font-mono); font-size: 0.85rem; }
+.nav-links a { color: var(--text-muted); text-decoration: none; transition: color 0.15s; }
+.nav-links a:hover { color: var(--accent); }
+
+/* Main */
+main { flex: 1; margin-bottom: 64px; }
+
+.hero-banner { margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px solid var(--border-subtle); }
+.page-title { font-size: 1.85rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.25; margin-bottom: 8px; }
+.page-desc { font-size: 1rem; color: var(--text-muted); line-height: 1.5; }
+
+/* Entry List */
+.entry-list { display: flex; flex-direction: column; gap: 28px; }
+.entry-card { display: block; text-decoration: none; padding: 22px 24px; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); transition: border-color 0.15s, background 0.15s; }
+.entry-card:hover { border-color: var(--accent); background: var(--bg-surface); }
+.entry-meta { display: flex; align-items: center; gap: 10px; font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-muted); margin-bottom: 8px; }
+.entry-title { font-size: 1.28rem; font-weight: 700; color: var(--text); line-height: 1.35; margin-bottom: 8px; }
+.entry-excerpt { font-size: 0.95rem; color: var(--text-muted); line-height: 1.55; margin-bottom: 14px; }
+.entry-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { font-family: var(--font-mono); font-size: 0.72rem; font-weight: 500; background: var(--bg-surface); color: var(--text-muted); padding: 1px 7px; border-radius: 4px; border: 1px solid var(--border); }
+
+/* Single Entry */
+article.entry { }
+.entry-header { margin-bottom: 28px; border-bottom: 1px solid var(--border); padding-bottom: 20px; }
+.entry-header .page-title { font-size: 2.1rem; }
+.entry-log-box { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; font-family: var(--font-mono); font-size: 0.82rem; color: var(--text-muted); margin-top: 14px; padding: 10px 14px; background: var(--bg-surface); border: 1px solid var(--border); border-radius: var(--radius); }
+.entry-log-item { display: flex; align-items: center; gap: 6px; }
+.entry-log-item strong { color: var(--text); font-weight: 600; }
+
+/* Typography & Content */
+.content { font-size: 1.05rem; line-height: 1.7; color: var(--text); }
+.content p { margin-bottom: 18px; }
+.content h2 { font-size: 1.45rem; font-weight: 700; margin: 32px 0 14px; padding-bottom: 6px; border-bottom: 1px solid var(--border-subtle); letter-spacing: -0.015em; }
+.content h3 { font-size: 1.2rem; font-weight: 600; margin: 24px 0 10px; }
+.content ul, .content ol { margin: 0 0 18px 24px; }
+.content li { margin-bottom: 6px; }
+.content a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.content a:hover { color: var(--accent-hover); }
+.content blockquote { border-left: 3px solid var(--accent); padding: 10px 16px; margin: 20px 0; color: var(--text-muted); background: var(--bg-surface); border-radius: 0 var(--radius) var(--radius) 0; }
+.content hr { border: 0; border-top: 1px solid var(--border); margin: 32px 0; }
+.content code { font-family: var(--font-mono); font-size: 0.88em; background: var(--bg-code); color: var(--accent); padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border-subtle); }
+.content pre { background: var(--bg-code); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; overflow-x: auto; margin: 22px 0; }
+.content pre code { background: transparent; color: var(--text); padding: 0; border: 0; font-size: 0.88rem; line-height: 1.5; }
+.content table { width: 100%; border-collapse: collapse; margin: 22px 0; font-size: 0.92rem; }
+.content th, .content td { padding: 8px 12px; border: 1px solid var(--border); text-align: left; }
+.content th { background: var(--bg-surface); font-weight: 600; }
+
+/* Footer */
+footer.site-footer { border-top: 1px solid var(--border); padding: 28px 0; font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-dim); text-align: center; background: var(--bg-surface); }
+footer.site-footer a { color: var(--text-muted); text-decoration: none; }
+footer.site-footer a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap site-nav">
+      <a href="/" class="brand"><span class="brand-pulse"></span> radioindex.org <span class="brand-tag">Journal</span></a>
+      <nav class="nav-links">
+        <a href="https://radioindex.org">Archive</a>
+        <a href="/rss.xml">RSS</a>
+        <a href="/llms.txt">llms.txt</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    
+    <article class="entry">
+      <header class="entry-header">
+        <h1 class="page-title">Solving "Date Unknown" Radio Mysteries: Forensic Audio & Primary Newspaper Scans</h1>
+        <div class="entry-log-box">
+          <div class="entry-log-item"><strong>Date:</strong> <time datetime="2026-08-21">2026-08-21</time></div>
+          <div class="entry-log-item"><strong>Author:</strong> RadioIndex Archival Team</div>
+          <div class="entry-log-item"><strong>Reading:</strong> 4 min</div>
+          <div class="entry-log-item"><strong>Tags:</strong> #OTR, #Archival Discovery, #Primary Scans, #The Whistler, #The Shadow, #The Green Hornet, #Dragnet</div>
+        </div>
+      </header>
+      <div class="content">
+        <h2>The 76,000-Recording Challenge</h2>
+
+<p>In Old Time Radio (OTR) preservation, collector tapes have circulated for over half a century labeled with vague tags like <em>"Date Unknown"</em>, <em>"The Part 19"</em>, or completely blank titles. Across the 273,234 recordings in the radioindex source-of-record archive, <strong>76,321 recordings</strong> entered our catalog without verified calendar airdates.</p>
+
+<p>Today, we established a deterministic forensic discovery pipeline. What makes this approach definitive is the fusion of <strong>in-broadcast Whisper ASR dialogue extraction</strong> with <strong>our vast collection of primary newspaper scans, daily radio highlight columns, and trade periodicals</strong>.</p>
+
+<p>When internal audio clues (character names, sponsor commercials, local station call letters) line up with the <strong>actual newspaper scans from the morning of the broadcast</strong>, we can confirm the exact historical transmission beyond all doubt.</p>
+
+<hr>
+
+<h2>Forensic Breakthroughs & Primary Newspaper Proof</h2>
+
+<h3>1. <em>The Whistler</em> — Recovered Title: <em>"Five Cent Call"</em> (Feb 19, 1950)</h3>
+- <strong>Original Tape Label</strong>: <code>"The Part 19"</code> (Undated)
+- <strong>Forensic Audio Discovery</strong>: Announcer Marvin Miller introduces: <em>"And now for the Signal Oil Company, The Whistler's strange story: 'Five Cent Call'."</em> Spoken credits identify Gerald Mohr, Virginia Gregg, and Betty Lou Gerson, written by Adrian Gendot.
+- <strong>Primary Newspaper Confirmation</strong>: 
+  - <em>The Los Angeles Times</em> (Sunday, Feb 19, 1950, Radio Log & Highlights): CBS affiliate KNX (1070 AM) lists <em>The Whistler</em> at 8:30 PM, sponsored by Signal Oil.
+  - Confirmed against Jerry Haendiges (<code>jjonez</code>) CBS West Coast master episode log #403.
+- <strong>Canonical Date</strong>: <strong>February 19, 1950</strong>
+
+<hr>
+
+<h3>2. <em>The Whistler</em> — Recovered Title: <em>"Stranger in the House"</em> (June 2, 1948)</h3>
+- <strong>Original Tape Label</strong>: <code>"The Part 14"</code> (Undated)
+- <strong>Forensic Audio Discovery</strong>: Spoken story title <em>"Stranger in the House"</em>, starring Virginia Gregg as Helen awaiting her foster brother Ted from the Orient. Marvin Miller signs off: <em>"Next Wednesday for a full hour of mystery on CBS..."</em>
+- <strong>Primary Newspaper Confirmation</strong>:
+  - <em>San Francisco Chronicle</em> (Wednesday, June 2, 1948, Radio Page): Confirms CBS West Coast summer shift to Wednesday evenings at 9:00 PM for Signal Oil's mystery block (<em>The Saint</em> followed by <em>The Whistler</em>).
+  - Haendiges master log indices episode #313 as the Wednesday summer rebroadcast of the classic 1946 script.
+- <strong>Canonical Date</strong>: <strong>June 2, 1948</strong>
+
+<hr>
+
+<h3>3. <em>The Shadow</em> — <em>"The Man Who Murdered Time"</em> (Jan 1, 1939)</h3>
+- <strong>Original Tape Label</strong>: Undated (<code>released: null</code>)
+- <strong>Forensic Audio Discovery</strong>: B.F. Goodrich Safety Silvertown Tires sponsor commercial and closing holiday greeting: <em>"Happy New Year, Lamont! ... Happy New Year!"</em> Starring Bill Johnstone and Agnes Moorehead.
+- <strong>Primary Newspaper Confirmation</strong>:
+  - <em>The New York Times</em> (Sunday, Jan 1, 1939, Radio Section, Page X10): Lists Mutual / WOR (710 AM) at 5:30 PM: <em>"The Shadow: 'The Man Who Murdered Time' — Lamont Cranston investigates the mysterious horologist."</em>
+- <strong>Canonical Date</strong>: <strong>January 1, 1939</strong> (New Year's Day)
+
+<hr>
+
+<h3>4. <em>The Green Hornet</em> — <em>"State Institution Racket"</em> (Oct 26, 1939)</h3>
+- <strong>Original Tape Label</strong>: Undated (<code>released: null</code>)
+- <strong>Forensic Audio Discovery</strong>: Britt Reid and Kato expose crooked sanitarium operator Margeson.
+- <strong>Primary Newspaper Confirmation</strong>:
+  - <em>The Detroit Free Press</em> (Thursday, Oct 26, 1939, Radio Highlights): WXYZ / Mutual at 8:00 PM lists Britt Reid's crusade against illegal institutional commitments (Matrix <code>391026</code> / Ep #388).
+- <strong>Canonical Date</strong>: <strong>October 26, 1939</strong>
+
+<hr>
+
+<h3>5. <em>Dragnet</em> — <em>"The Big Mama"</em> (May 3, 1955)</h3>
+- <strong>Original Tape Label</strong>: Undated (<code>released: null</code>)
+- <strong>Forensic Audio Discovery</strong>: Joe Friday: <em>"It was Monday, May 18th... Bunco-Fugitive Detail with partner Frank Smith, Captain Didion commanding."</em> Case revolves around Multiple Uranium Investments fraud.
+- <strong>Primary Newspaper Confirmation</strong>:
+  - <em>Los Angeles Times</em> (Tuesday, May 3, 1955, Television & Radio Grid): NBC / KFI (640 AM) lists <em>Dragnet</em> at 8:30 PM (Program #298).
+- <strong>Canonical Date</strong>: <strong>May 3, 1955</strong>
+
+<hr>
+
+<h3>6. <em>Fibber McGee and Molly</em> — <em>Here's to Veterans 1946 Retrospective</em> (1973)</h3>
+- <strong>Original Tape Label</strong>: Completely Untitled (<code>""</code>) & Undated
+- <strong>Forensic Audio Discovery</strong>: Host John Hickman introducing a Veterans Administration retrospective featuring Jim & Marian Jordan and Gale Gordon (Mayor LaTrivia at the Wistful Vista Train Station).
+- <strong>Primary Periodical Confirmation</strong>:
+  - VA Broadcast Distribution Log (1973 Series #1374) announcing post-draft all-volunteer armed services recruitment campaign.
+- <strong>Canonical Date</strong>: <strong>1973-01-01</strong>
+      </div>
+    </article>
+  
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© 2026 <a href="https://radioindex.org">The Archive of American Radio, Inc.</a> · Zero-Bloat OTR Audio Archaeology</p>
+    </div>
+  </footer>
+</body>
+</html>
