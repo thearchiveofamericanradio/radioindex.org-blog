@@ -9,12 +9,12 @@ export function renderHome(posts: BlogPost[], meta: SiteMeta): string {
       <div class="entry-meta">
         <time datetime="${p.date}">${p.date}</time>
         <span>·</span>
-        <span>${p.readingTimeMinutes} min</span>
+        <span>${p.readingTimeMinutes} min read</span>
       </div>
       <h2 class="entry-title">${p.title}</h2>
       <p class="entry-excerpt">${p.excerpt}</p>
       <div class="entry-tags">
-        ${p.tags.map((t) => `<span class="tag">#${t}</span>`).join("")}
+        ${p.tags.map((t) => `<span class="tag">${t}</span>`).join("")}
       </div>
     </a>`
     )
@@ -22,8 +22,8 @@ export function renderHome(posts: BlogPost[], meta: SiteMeta): string {
 
   const body = `
     <div class="hero-banner">
-      <h1 class="page-title">Engineering & Audio Archaeology Log</h1>
-      <p class="page-desc">Solving 76,000 lost-to-time broadcasts using neural speech models and primary newspaper scans. Raw, chronological, and verifiable.</p>
+      <h1 class="hero-title">Archival Notes & Research</h1>
+      <p class="hero-desc">Historical broadcast research, date verification, and catalog updates.</p>
     </div>
     <div class="entry-list">
       ${postItems}

@@ -12,9 +12,9 @@ export function renderPost(post: BlogPost, meta: SiteMeta): string {
             <div class="entry-log-item"><strong>Date:</strong> <time datetime="${post.date}">${post.date}</time></div>
             <div class="entry-log-item"><strong>Author:</strong> ${post.author}</div>
             <div class="entry-log-item"><strong>Reading:</strong> ${post.readingTimeMinutes} min</div>
-            <div class="entry-log-item"><strong>Tags:</strong> ${post.tags.map((t) => `#${t}`).join(", ")}</div>
+            <div class="entry-log-item"><strong>Tags:</strong> ${post.tags.join(", ")}</div>
           </div>
-          <a href="/posts/${post.slug}.md" class="entry-raw-link" target="_blank" rel="noopener">Raw .md</a>
+          <a href="/posts/${post.slug}.md" class="entry-raw-link" target="_blank" rel="noopener">Raw Markdown</a>
         </div>
       </header>
       <div class="content">
