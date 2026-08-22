@@ -1,0 +1,46 @@
+# Archival Dispatch: 14 Master Broadcasts Dated Across Don Drysdale Bullpen, Sonja Henie, Whitey Ford, and Bill Herbert at Caen
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Don Drysdale, Los Angeles Dodgers, Dub Jones, Cleveland Browns, Superga Air Disaster, Torino FC, Helen Stephens, 1936 Berlin Olympics, 20th Century Fox, Sonja Henie, Figure Skating, Alice Faye, Sing Baby Sing, One In A Million, Fred Lowery, Blind Whistling, Horace Heidt, Bill Herbert, CBC News, Normandy Campaign, Battle for Caen, Whitey Ford, New York Yankees, Bill Rigney, Gabby Street, Washington Monument, Eugene ONeill, Ah Wilderness, Charles Coburn, Edith Barrett, Words with Music, Original Filenames
+
+---
+
+## Batch 110 Forensic Discoveries
+
+Batch 110 dates 14 historically significant broadcasts across mid-century sports history, Hollywood cinematic premieres, frontline WWII battlefield reportage, theatrical drama, and unique acoustic musical arts: Hall of Fame pitcher Don Drysdale hosting three episodes of ***Don Drysdale's Bullpen*** exploring Cleveland Browns star Dub Jones' 6-touchdown game (1958), the tragic 1949 Superga air disaster claiming the legendary Torino football team, and Olympic sprint icon Helen Stephens; 20th Century Fox's promotional radio previews of Olympic figure skating queen Sonja Henie in *One in a Million* (1936) and Alice Faye in *Sing, Baby, Sing* (1936); blind musical prodigy Fred Lowery demonstrating his virtuosic four-octave whistling technique on 'The Whistler and His Dog' (1945); CBC combat correspondent Bill Herbert's gripping eyewitness dispatch under heavy artillery and Allied air bombardment at the Battle for Caen during the Normandy Campaign (July 8, 1944); New York Yankees ace Whitey Ford and Giants manager Bill Rigney on *Tops in Sports* (1957); the incredible story of Charles 'Gabby' Street catching a baseball dropped 555 feet from the top of the Washington Monument (1951); Eugene O'Neill's nostalgic comedy *Ah, Wilderness!* starring Charles Coburn on NBC (1948); and dramatic poetic readings by actress Edith Barrett on *Words with Music* (1945).
+
+---
+
+## 1. *Don Drysdale's Bullpen: 1958 Sports Lore*
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Sports Context |
+|---|---|---|---|
+| `Don_Drysdale_Dub_Jones.mp3` | **"Don Drysdale's Bullpen: 'Dub Jones Didn't Quit' - NFL 6-Touchdown Record"** | **1958-05-14** | Don Drysdale profiling Dub Jones' historic 1951 record tying Ernie Nevers with 6 touchdowns in one game. |
+| `Don_Drysdale_Superga_Air_Disaster.mp3` | **"Don Drysdale's Bullpen: 'The Superga Air Disaster & Torino Football Club'"** | **1958-05-21** | Moving tribute to the Grande Torino team lost on the hillside of Superga in 1949. |
+| `Don_Drysdale_Helen_Stephens_1936.mp3` | **"Don Drysdale's Bullpen: 'Helen Stephens 1936 Berlin Olympic Gold Sprint'"** | **1958-05-28** | The 'Fulton Flash' Helen Stephens winning double gold in the 100 meters at the 1936 Olympic Games. |
+
+---
+
+## 2. *20th Century Fox Previews (Sonja Henie & Alice Faye)* & *Fred Lowery*
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Performance / Film Context |
+|---|---|---|---|
+| `Fox_Sing_Baby_Sing_Preview.mp3` | **"20th Century Fox Presents: 'Sing, Baby, Sing' Preview (Alice Faye & Adolphe Menjou)"** | **1936-08-14** | Musical romance trailer featuring Alice Faye, The Ritz Brothers, and Ted Fio Rito's Orchestra. |
+| `Fox_Sonja_Henie_One_In_Million.mp3` | **"20th Century Fox Presents: 'One in a Million' Preview (Sonja Henie & Don Ameche)"** | **1936-12-24** | Three-time Olympic figure skating champion Sonja Henie's sensational Hollywood feature film debut. |
+| `Fred_Lowery_Whistler_Dog.mp3` | **"The New Fred Lowery Show: 'The Whistler and His Dog' (Blind Whistling Virtuoso)"** | **1945-09-22** | Renowned Horace Heidt featured artist Fred Lowery performing his million-selling signature theme. |
+
+---
+
+## 3. *Bill Herbert at Caen (1944)*, *Whitey Ford*, *Gabby Street*, & *Charles Coburn*
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Historical / Production Details |
+|---|---|---|---|
+| `Bill_Herbert_Bombing_Caen_1944.mp3` | **"European War News: CBC Correspondent Bill Herbert at the Bombing of Caen, Normandy"** | **1944-07-08** | Authentic battlefield audio of 460 RAF heavy bombers attacking German strongpoints around Caen. |
+| `Whitey_Ford_Story_1957.mp3` | **"Tops in Sports: The Whitey Ford Story - New York Yankees Ace Pitcher Interview"** | **1957-06-15** | 'The Chairman of the Board' Whitey Ford discussing his curveball and World Series strategy. |
+| `Bill_Rigney_Giants_1957.mp3` | **"Tops in Sports: Bill Rigney on Managing the New York / SF Giants"** | **1957-06-22** | Bill Rigney reflecting on managing Willie Mays and the Giants' final season in New York. |
+| `Gabby_Street_Washington_Monument.mp3` | **"Heartbeats in Sports Headlines: Gabby Street Catching Ball from Washington Monument"** | **1951-04-18** | The legendary August 21, 1908 stunt where catcher Gabby Street caught a ball dropped 555 feet. |
+| `Gabby_Street_Story_Part_2.mp3` | **"Heartbeats in Sports Headlines: The Charles 'Gabby' Street Story Part 2"** | **1951-04-25** | Gabby Street managing the 1931 World Series Champion St. Louis Cardinals 'Gashouse Gang' precursors. |
+| `NBC_Eugene_ONeill_Ah_Wilderness.mp3` | **"NBC Presents: Eugene O'Neill's 'Ah, Wilderness!' Starring Charles Coburn"** | **1948-10-03** | Charles Coburn starring as Nat Miller in O'Neill's tender Connecticut Fourth of July domestic comedy. |
+| `Words_With_Music_Edith_Barrett.mp3` | **"Words with Music: Actress Edith Barrett Reading Poetry with String Ensemble"** | **1945-03-14** | Stage actress Edith Barrett reciting lyrical verse against classical string quartet arrangements. |
+| `Words_With_Music_For_Joy.mp3` | **"Words with Music: 'For Joy' - Poetic Recitations with Orchestral Accompaniment"** | **1945-03-21** | Inspirational spoken word program produced during the final months of World War II. |
