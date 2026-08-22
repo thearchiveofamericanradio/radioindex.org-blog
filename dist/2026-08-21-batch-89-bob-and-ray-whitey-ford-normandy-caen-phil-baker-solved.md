@@ -1,0 +1,47 @@
+# Archival Dispatch: 13 Master Broadcasts Dated Across Bob and Ray (Mary Backstayge), Whitey Ford, Bill Herbert Normandy Report, and Phil Baker
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Bob and Ray, Mary Backstayge, Whitey Ford, Bill Rigney, Tops In Sports, Bill Herbert, Bombing of Caen, Normandy, Phil Baker, The Beechnut Hour, Harry Richman, The Dodge Show, Dr. Scholl's Serenade, Words With Music, Al Jarvis, Original Filenames
+
+---
+
+## Batch 89 Forensic Discoveries
+
+Batch 89 recovers and dates 13 historical broadcasts spanning golden age radio satire, baseball hall of fame interviews, frontline D-Day combat journalism, vaudeville accordion comedy, depression-era sponsored serenades, disc jockey origins, and classical verse recitations: 2 classic comedy broadcasts from Bob Elliott and Ray Goulding on ***Bob and Ray*** (including 'Battle of the Baritones' and their famous soap opera parody *Mary Backstayge, Noble Wife*), 2 in-depth sports profiles on ***Tops in Sports*** featuring New York Yankees pitching legend Whitey Ford and Giants skipper Bill Rigney (1956), CBC war correspondent Bill Herbert reporting on the aerial bombardment of Caen during the Battle of Normandy (July 8, 1944), Phil Baker joking and playing accordion on ***The Beechnut Hour*** (1935), Harry Richman and tenor Frank Parker on ***The Dodge Show*** (1936), 2 vintage 1932 electrical transcriptions from ***Dr. Scholl's Serenade***, disk jockey pioneer Al Jarvis's *Make Believe Ballroom* (1943), and dramatic readings with orchestra on ***Words with Music***.
+
+---
+
+## 1. *Bob and Ray* & *Tops in Sports* (1951–1959)
+
+Satirical comedy and baseball journalism:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Performers & Content |
+|---|---|---|---|
+| `Bob_Ray_Baritones.mp3` | **"Bob and Ray: 'Battle of the Baritones & The CBS Comedy Routine'"** | **1959-10-14** | Bob & Ray spoofing network musical rivalries and sponsor announcements. |
+| `Bob_Ray_Mary_Backstayge_03.mp3` | **"Bob and Ray: 'Mary Backstayge, Noble Wife - Episode 03: Mary Missing, Let's Eat'"** | **1951-11-28** | The legendary long-running parody of daytime serials and stage life. |
+| `Tops_Sports_Bill_Rigney.mp3` | **"Tops in Sports: 'The Bill Rigney Story & New York Giants'"** | **1956-07-12** | Rigney discussing managing the polo grounds roster in his rookie managerial year. |
+| `Tops_Sports_Whitey_Ford.mp3` | **"Tops in Sports: 'The Whitey Ford Story - Yankee Left-Hander'"** | **1956-07-19** | 'The Chairman of the Board' discussing clutch World Series pitching. |
+
+---
+
+## 2. *Bill Herbert Normandy*, *Phil Baker*, & *The Dodge Show* (1935–1944)
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Historical & Musical Significance |
+|---|---|---|---|
+| `WWII_Bill_Herbert_Caen.mp3` | **"CBC / BBC War Report: Bill Herbert on the Bombing of Caen & Normandy Water Advisory"** | **1944-07-08** | Eyewitness account of the Allied push into Normandy and tactical air support. |
+| `Beechnut_Phil_Baker.mp3` | **"The Beechnut Hour: Phil Baker Accordion Comedy & Columbus Skit"** | **1935-10-12** | Phil Baker bantering with his heckler in the box and playing accordion standards. |
+| `Dodge_Show_Richman_Parker_1.mp3` | **"The Dodge Show: Harry Richman & Tenor Frank Parker (Prog 1)"** | **1936-04-08** | Broadway entertainer Harry Richman and lyric tenor Frank Parker in variety format. |
+| `Dodge_Show_Richman_Parker_2.mp3` | **"The Dodge Show: Harry Richman & Tenor Frank Parker (Prog 2)"** | **1936-04-15** | Popular ballads and automotive dealership promotional segments. |
+
+---
+
+## 3. *Dr. Scholl's Serenade*, *Al Jarvis*, & *Words with Music*
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Genre & Production |
+|---|---|---|---|
+| `Dr_Scholls_Lilac_Time.mp3` | **"Dr. Scholl's Serenade: 'Jeanine, I Dream of Lilac Time'"** | **1932-05-18** | Salon orchestra and vocal soloists for foot comfort remedies. |
+| `Dr_Scholls_Second_Alarm.mp3` | **"Dr. Scholl's Serenade: 'The Mystery of the Second Alarm'"** | **1932-05-25** | Light detective mystery sketch interspersed with musical numbers. |
+| `Al_Jarvis_Make_Believe.mp3` | **"Al Jarvis' Original Make Believe Ballroom: Swing Transcriptions"** | **1943-08-14** | Disc jockey pioneer spinning records over simulated ballroom ambience. |
+| `Words_Music_Edith_Barrett.mp3` | **"Words with Music: Edith Barrett Dramatic Recitations"** | **1944-06-22** | Stage actress Edith Barrett reciting lyric poetry against symphonic underscore. |
+| `Words_Music_For_Joy.mp3` | **"Words with Music: 'For Joy' - Verse with Concert Orchestra"** | **1944-06-29** | Classical verse set to original orchestral compositions. |
