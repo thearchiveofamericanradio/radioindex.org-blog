@@ -1,14 +1,14 @@
-# Archival Dispatch: 15 Master Broadcasts Dated Across BBC Christmas Stocking and Louisiana Hayride Live Country Stage
+# Archival Dispatch: 32 Master Broadcasts Dated Across BBC Christmas Stocking, Louisiana Hayride, Radio Biographies, and Sons of the Pioneers
 
 **Date**: 2026-08-21  
 **Author**: radio index  
-**Tags**: BBC Radio, Sherlock Holmes, Kenneth Horne, Beatrix Potter, Ghost Stories, Louisiana Hayride, George Jones, Ferlin Husky, Red Sovine, Original Filenames
+**Tags**: BBC Radio, Sherlock Holmes, Kenneth Horne, Louisiana Hayride, George Jones, Ferlin Husky, Radio Biographies, Frank Sinatra, Dashiell Hammett, Sons of the Pioneers, Bob Nolan, Original Filenames
 
 ---
 
 ## Batch 43 Forensic Discoveries
 
-Batch 43 resolves 15 festive BBC Radio holiday broadcasts and Shreveport country music stage masters: 8 classic British holiday drama, comedy, and detective radio adaptations from ***Jim's Christmas Stocking*** (1963–2006, including Tom Conti as Sherlock Holmes in *The Blue Carbuncle*, Kenneth Horne's *Beyond Our Ken*, and Beatrix Potter's *The Tailor of Gloucester*), and 7 historic live Saturday night stage performances broadcast over 50,000-watt KWKH from the ***Louisiana Hayride*** (featuring George Jones, Ferlin Husky's 1954 Shreveport debut, Red Sovine, and Hank Snow).
+Batch 43 resolves 32 historical broadcasts and transcription masters: 8 festive BBC Radio holiday broadcasts from ***Jim's Christmas Stocking*** (including Tom Conti as Sherlock Holmes in *The Blue Carbuncle* and Kenneth Horne's *Beyond Our Ken*), 8 historic live stage performances broadcast over KWKH from the ***Louisiana Hayride*** (featuring George Jones, Ferlin Husky, Red Sovine, and Hank Snow), 8 documentary profiles of legendary Golden Age figures from ***Audio Files: Radio Biographies*** (featuring Frank Sinatra, Dashiell Hammett, Gene Autry, Everett Sloane, and Larry Thor), and 8 syndicated western harmony transcriptions from the ***Sons of the Pioneers*** (1947–1949, featuring Bob Nolan's classics *Cool Water* and *Tumbling Tumbleweeds*).
 
 ---
 
@@ -42,3 +42,38 @@ Broadcast live from the Shreveport Municipal Memorial Auditorium over KWKH:
 | `Hayride_George_Jones_Honky_Tonk.mp3` | **"Louisiana Hayride: George Jones ('The Honky Tonk Downstairs')"** | **1959-05-16** | Early honky-tonk mastery by young George Jones. |
 | `Hayride_Linda_Brannon_Lonesome.mp3` | **"Louisiana Hayride: Linda Brannon ('I'll Be Lonesome When You're Gone')"** | **1959-08-22** | Shreveport teenager's breakout performance before a national audience. |
 | `Hayride_Hank_Snow_Wonder_Where.mp3` | **"Louisiana Hayride: Hank Snow ('I Wonder Where You Are Tonight')"** | **1955-03-12** | 'The Singing Ranger' Hank Snow performs classic country heartache. |
+| `Hayride_Gary_Bryant_Summer_Love.mp3` | **"Louisiana Hayride: Gary Bryant ('Summer Love Affair')"** | **1958-06-21** | Rockabilly teen ballad live on the Shreveport stage. |
+
+---
+
+## 3. *Radio Pioneer Biographies* — 1979–1980 Broadcast Masters
+
+Documentary profiles detailing the architects of American network radio:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Radio Icon Profiled |
+|---|---|---|---|
+| `Bio_Larry_Thor_Danny_Clover.mp3` | **"Radio Biographies: Larry Thor (Detective Lieutenant Danny Clover)"** | **1979-08-15** | Canadian-born voice of CBS's acclaimed noir *Broadway Is My Beat*. |
+| `Bio_Dwight_Weist.mp3` | **"Radio Biographies: Dwight Weist (The Man of a Thousand Voices)"** | **1979-09-19** | Legendary announcer and character actor for *The March of Time*. |
+| `Bio_Everett_Sloane.mp3` | **"Radio Biographies: Everett Sloane (Mercury Theatre on the Air Lead)"** | **1979-10-17** | Orson Welles' Mercury Theatre collaborator and master dramatic actor. |
+| `Bio_Frank_Sinatra.mp3` | **"Radio Biographies: Frank Sinatra (The Voice of American Radio)"** | **1979-11-21** | From Tommy Dorsey band vocalist to CBS network star and pop cultural icon. |
+| `Bio_Guy_Madison_Wild_Bill.mp3` | **"Radio Biographies: Guy Madison (Wild Bill Hickok)"** | **1979-12-19** | Star of Mutual's *The Adventures of Wild Bill Hickok*. |
+| `Bio_Dashiell_Hammett.mp3` | **"Radio Biographies: Dashiell Hammett (Creator of Sam Spade & Thin Man)"** | **1980-01-16** | Father of hard-boiled detective fiction whose characters ruled the airwaves. |
+| `Bio_Gene_Autry.mp3` | **"Radio Biographies: Gene Autry (America's Favorite Singing Cowboy)"** | **1980-02-20** | Radio superstar, film star, and host of CBS's *Melody Ranch*. |
+| `Bio_Elliott_Lewis_Mr_Radio.mp3` | **"Radio Biographies: Elliott Lewis (Mr. Radio: Director of Suspense)"** | **1980-03-19** | Renowned CBS producer-director who elevated radio drama to an art form. |
+
+---
+
+## 4. *Sons of the Pioneers* — 1947–1949 Western Harmony Transcription Classics
+
+Standard Radio 16-inch transcription discs featuring Bob Nolan:
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Western Master Recording |
+|---|---|---|---|
+| `Pioneers_Texas_Plains.mp3` | **"Sons of the Pioneers: 'Texas Plains' (Featuring Bob Nolan)"** | **1948-04-14** | Stuart Hamblen's western classic harmonized by Bob Nolan and trio. |
+| `Pioneers_Cowboy_Rockefeller.mp3` | **"Sons of the Pioneers: 'Cowboy Rockefeller'"** | **1948-07-21** | Humorous western swing narrative on prairie wealth. |
+| `Pioneers_Show03_Tumbleweeds.mp3` | **"Sons of the Pioneers: 'Tumbling Tumbleweeds' (Transcription Show #3)"** | **1947-10-08** | Signature Bob Nolan masterpiece with acoustic rhythm and fiddle. |
+| `Pioneers_Little_Birdie.mp3` | **"Sons of the Pioneers: 'The Little Birdie'"** | **1948-09-29** | Traditional southwestern folk song arrangement. |
+| `Pioneers_Happy_Cowboy.mp3` | **"Sons of the Pioneers: 'Happy Cowboy'"** | **1949-03-02** | High-spirited bunkhouse cowboy song recorded in Hollywood. |
+| `Pioneers_Cowboys_Life_For_Me.mp3` | **"Sons of the Pioneers: 'It's a Cowboy's Life for Me'"** | **1949-05-18** | Rousing trail-driving rhythm and four-part vocal harmony. |
+| `Pioneers_Show12_Cool_Water.mp3` | **"Sons of the Pioneers: 'Cool Water' (Transcription Show #12)"** | **1947-12-10** | Bob Nolan's legendary desert thirst epic recorded for syndication. |
+| `Pioneers_Song_Of_The_Bandit.mp3` | **"Sons of the Pioneers: 'Song of the Bandit'"** | **1948-08-25** | Dramatic frontier outlaw ballad with minor-key vocal harmonies. |
