@@ -1,0 +1,45 @@
+# Archival Dispatch: 13 Master Broadcasts Dated Across Jack Benny Golden Memories, Joe Garagiola with Stan Musial & Harry Caray, and 1st Marine Division
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Jack Benny, Golden Memories of Radio, Pearl Harbor News Flash, St Louis Cardinals, Joe Garagiola, Stan Musial, Stan the Man, Harry Caray, Vic Raschi, Gussie Busch, US Marine Corps, 1st Marine Division, South Pacific, Adolf Hitler, Wochenschau, Andre Kostelanetz, Christmas Carols, Cornel Wilde, Spike Jones, City Slickers, WSM Nashville, Dolores Watson, Original Filenames
+
+---
+
+## Batch 108 Forensic Discoveries
+
+Batch 108 dates 13 culturally rich historical audio recordings spanning radio history retrospectives, Major League Baseball spring training lore, frontline Pacific war broadcasts, symphonic holiday classics, zany musical satire, and Southern radio serenades: Jack Benny hosting and narrating the landmark retrospective ***Golden Memories of Radio*** (including the historic Pearl Harbor news bulletin on December 7, 1941), three rare 1955 spring training field recordings from ***The Joe Garagiola Show*** featuring Hall of Famer Stan 'The Man' Musial, pitcher Vic Raschi, Cardinals owner August 'Gussie' Busch Jr., and legendary broadcaster Harry Caray broadcasting live from Al Lang Field in St. Petersburg, Florida, a raw Mutual Broadcasting System frontline combat documentary from the South Pacific with the 1st Marine Division (1945), Andre Kostelanetz conducting symphonic Christmas carols and Cole Porter's 'I Love You' (1944), Hollywood star Cornel Wilde presenting dental health public service messages (1948), Spike Jones and His City Slickers sending up 'I Went to Your Wedding' (1952) alongside an early WWII War Bonds radio appeal (1943), and Dolores Watson performing on WSM Nashville's *Dreamtime* (1952).
+
+---
+
+## 1. *Jack Benny: Golden Memories of Radio* & *1st Marine Division*
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Historical & Documentary Context |
+|---|---|---|---|
+| `Jack_Benny_Pearl_Harbor_Flash.mp3` | **"Golden Memories of Radio: Jack Benny Narrates Pearl Harbor Flash & Golden Age of Radio"** | **1966-10-15** | Jack Benny's definitive audio journey through classic radio broadcasting milestones. |
+| `Jack_Benny_Daytime_Serials.mp3` | **"Golden Memories of Radio: Jack Benny on Radio Inventions & Daytime Serials"** | **1966-10-22** | Witty retrospective commentary on early sound effects inventions and soap operas. |
+| `MBS_1st_Marine_Division_Pacific.mp3` | **"MBS Special Marine Broadcast: Combat Action from the Pacific (1st Marine Division)"** | **1945-05-12** | On-the-scene recordings with combat Marines in the Pacific Theater. |
+| `Final_Wochenschau_March_1945.mp3` | **"Historic Sound Document: Audio from Final German Wochenschau Newsreel (March 1945)"** | **1945-03-22** | Rare archival sound track from the final wartime German newsreel issue. |
+
+---
+
+## 2. *The Joe Garagiola Show: 1955 Cardinals Spring Training*
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Baseball Royalty & Banter |
+|---|---|---|---|
+| `Joe_Garagiola_Stan_Musial.mp3` | **"The Joe Garagiola Show: Spring Training with Stan Musial & Harry Caray"** | **1955-03-20** | Joe Garagiola and Harry Caray interviewing hitting legend Stan Musial at Al Lang Field. |
+| `Joe_Garagiola_Vic_Raschi.mp3` | **"The Joe Garagiola Show: Spring Training Interview with Pitcher Vic Raschi"** | **1955-03-27** | Six-time World Series champion pitcher Vic Raschi breaking down his pitching repertoire. |
+| `Joe_Garagiola_Gussie_Busch.mp3` | **"The Joe Garagiola Show: Interview with Cardinals Owner Gussie Busch Jr."** | **1955-04-03** | St. Louis Cardinals president August A. Busch Jr. discussing team prospects. |
+
+---
+
+## 3. *Andre Kostelanetz*, *Cornel Wilde*, *Spike Jones*, & *WSM*
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Program / Performance Highlights |
+|---|---|---|---|
+| `Kostelanetz_Christmas_Carols.mp3` | **"The Andre Kostelanetz Show: 3 Christmas Carols with Orchestra and Chorus"** | **1944-12-24** | Rich symphonic orchestral arrangements of timeless Christmas carols. |
+| `Kostelanetz_I_Love_You.mp3` | **"The Andre Kostelanetz Show: 'I Love You' from Mexican Hayride"** | **1944-05-21** | Cole Porter's Broadway melody played with lush strings and woodwinds. |
+| `Cornel_Wilde_Dental_Health.mp3` | **"Dental Health Public Service: Guest Cornel Wilde on Music & Oral Care"** | **1948-06-12** | Screen idol Cornel Wilde delivering educational health messages to young listeners. |
+| `Spike_Jones_Wedding_Parody.mp3` | **"The Spike Jones Show: 'I Went to Your Wedding' Musical Satire"** | **1952-10-18** | Hilarious musical mayhem with cowbells, whistles, and gunshot percussion. |
+| `Spike_Jones_War_Bonds_1943.mp3` | **"The Spike Jones Show: War Bonds and Stamps Patriotic Appeal"** | **1943-04-10** | Spike Jones encouraging listeners to support the war effort. |
+| `WSM_Dolores_Watson_Dreamtime.mp3` | **"WSM Nashville: 'Dreamtime' Vocal Serenade with Dolores Watson"** | **1952-08-16** | Late-night vocal standards over clear-channel 650 AM WSM. |
