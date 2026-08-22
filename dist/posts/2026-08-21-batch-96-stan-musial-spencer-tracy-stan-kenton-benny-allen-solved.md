@@ -1,0 +1,46 @@
+# Archival Dispatch: 14 Master Broadcasts Dated Across Stan Musial, Spencer Tracy, Stan Kenton, and Benny-Allen Feud
+
+**Date**: 2026-08-21  
+**Author**: radio index  
+**Tags**: Stan Musial, Hal Newhouser, Sid Gordon, Harry Caray, Russ Hodges, American Legion Baseball, Spencer Tracy, Yarns for Yanks, AFRS, Stan Kenton, June Christy, Artistry and Rhythm, George Cukor, Hollywood Calling, Walter Brennan, Jack Benny, Fred Allen, Benny-Allen Feud, Fitch Bandwagon, Woody Herman, George Hamilton IV, Original Filenames
+
+---
+
+## Batch 96 Forensic Discoveries
+
+Batch 96 recovers and dates 14 essential historical broadcasts spanning legendary baseball immortals, Hollywood acting royalty, progressive big band innovations, comedy feuds, and circus remote broadcasts: legendary broadcaster Harry Caray interviewing St. Louis Cardinals icon Stan 'The Man' Musial alongside Harry Heilmann interviewing Detroit Tigers MVP pitcher Hal Newhouser and Russ Hodges interviewing Sid Gordon on ***American Legion Junior Baseball*** (1950), two-time Academy Award-winner Spencer Tracy reading the gripping short story 'Extra! Extra!' for Allied soldiers overseas on AFRS ***Yarns for Yanks*** (1944), 3 electrifying modern jazz broadcasts from Stan Kenton and His Orchestra featuring vocal sensation June Christy on ***Artistry and Rhythm*** (1951), Oscar-winning director George Cukor discussing screen directing on ***Hollywood Calling*** (1949), three-time Academy Award-winner Walter Brennan sharing country folklore and Houdini tales (1962), Fred Allen roasting Jack Benny on ***The Benny-Allen Feud*** ('King for a Day', 1945), a live Ringling Bros. and Barnum & Bailey Circus remote from Madison Square Garden alongside Woody Herman on ***The Fitch Bandwagon*** (1944), and country hitmaker George Hamilton IV singing 'Take That Night Train to Memphis' on his National Guard recruiting series (1960).
+
+---
+
+## 1. *Stan Musial*, *Hal Newhouser*, & *Spencer Tracy* (1944–1950)
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Baseball & Archival Context |
+|---|---|---|---|
+| `Harry_Caray_Stan_Musial.mp3` | **"American Legion Junior Baseball: Harry Caray Interviews St. Louis Cardinals Legend Stan 'The Man' Musial"** | **1950-06-29** | Harry Caray interviewing Stan Musial on hitting consistency and youth sports development. |
+| `Hal_Newhouser_Baseball.mp3` | **"American Legion Junior Baseball: Harry Heilmann Interviews MVP Pitcher Hal Newhouser"** | **1950-06-15** | Tigers MVP southpaw Newhouser discussing pitching mechanics and fastball control. |
+| `Sid_Gordon_Baseball.mp3` | **"American Legion Junior Baseball: Russ Hodges Interviews All-Star Slugger Sid Gordon"** | **1950-06-22** | New York Giants and Boston Braves slugger Sid Gordon with broadcaster Russ Hodges. |
+| `Spencer_Tracy_Extra_Extra.mp3` | **"AFRS Yarns for Yanks: Spencer Tracy Reading 'Extra! Extra!'"** | **1944-10-18** | Spencer Tracy performing a dramatic story for military radio syndication. |
+
+---
+
+## 2. *Stan Kenton*, *June Christy*, & *George Cukor* (1949–1951)
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Performers & Repertoire |
+|---|---|---|---|
+| `Stan_Kenton_June_Christy_1.mp3` | **"Artistry and Rhythm: Stan Kenton and His Orchestra featuring June Christy & Ray Wetzel (Prog 1)"** | **1951-08-12** | Kenton's wall-of-brass modern jazz arrangements backed by Navy recruitment. |
+| `Stan_Kenton_Lady_In_Red.mp3` | **"Artistry and Rhythm: Stan Kenton and His Orchestra - 'The Lady in Red' (Prog 2)"** | **1951-08-19** | Latin-infused progressive jazz standard arrangement. |
+| `Stan_Kenton_Jazz_Concert.mp3` | **"Artistry and Rhythm: Stan Kenton and His Orchestra - Progressive Jazz Concert (Prog 3)"** | **1951-08-26** | Showcase of Pete Rugolo arrangements and innovative brass counterpoint. |
+| `George_Cukor_Interview.mp3` | **"Hollywood Calling: Director George Cukor on Filmmaking and Screen Adaptations"** | **1949-06-12** | Master filmmaker Cukor discussing classic MGM film production. |
+
+---
+
+## 3. *Jack Benny vs. Fred Allen*, *Woody Herman Circus*, & *Walter Brennan*
+
+| Original Circulating Filename | Canonical Title | Verified Airdate | Significance |
+|---|---|---|---|
+| `Fred_Allen_Jack_Benny_Feud.mp3` | **"The Benny-Allen Feud: Fred Allen with Jack Benny in 'King for a Day'"** | **1945-05-27** | One of the most famous radio comedy feud episodes in network history. |
+| `Fitch_Bandwagon_Circus_MSG.mp3` | **"The Fitch Bandwagon: Ringling Bros. and Barnum & Bailey Circus Remote from Madison Square Garden"** | **1944-04-30** | Live remote from the center ring with clowns, acrobats, and brass band. |
+| `Fitch_Bandwagon_Woody_Herman.mp3` | **"The Fitch Bandwagon: Woody Herman and His Orchestra with Mary Jane Walsh"** | **1944-05-07** | The First Herd swinging hot arrangements for Fitch Shampoo. |
+| `Walter_Brennan_Rockin_Chairs.mp3` | **"Walter Brennan: 'Two Rockin' Chairs' Country Folklore & Reminiscences"** | **1962-04-18** | Character actor Walter Brennan spinning rural Americana stories. |
+| `Walter_Brennan_Houdini.mp3` | **"Walter Brennan: 'Houdini & The Legend of Escapology'"** | **1962-04-25** | Brennan recounting early vaudeville memories of Harry Houdini. |
+| `George_Hamilton_Night_Train.mp3` | **"The George Hamilton IV Show: 'Take That Night Train to Memphis' National Guard Remote"** | **1960-09-14** | Country-pop star performing signature railroad and rockabilly tunes. |
