@@ -6,6 +6,36 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-22-walk-04-mail-call-big-story-maisie-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-22-walk-04-mail-call-big-story-maisie-enriched",
+      "title": "Archival Dispatch: August 22 Calendar Walk — Mail Call, The Big Story, Maisie, and A Life in Your Hands",
+      "content_html": "<h2>August 22 Calendar Walk Archival Enrichment</h2>\n<p>This archival dispatch documents the deep enrichment and historical provenance discovery of 6 historical broadcasts transmitting on <strong>August 22</strong> across American and Canadian network broadcasting history (1945–1998):</p>\n<hr>\n<h2>1. <em>August 22 Broadcast Inventory &amp; Provenance Record</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Primary Evidence, Provenance &amp; Factual Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Mail_Call_1945_08_22_Mercer.mp3</code></td>\n<td><strong>&quot;Mail Call No. 157: Johnny Mercer &amp; Jo Stafford&quot;</strong></td>\n<td><strong>1945-08-22</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Comedy&quot;]</code></td>\n<td><strong>Source</strong>: AFRS Program No. 157 master disc pressing. Johnny Mercer emcees an Armed Forces Radio Service broadcast for troops overseas, singing humorous topical tunes with Jo Stafford, the Pied Pipers performing vocal hits, and Meredith Willson conducting the AFRS Orchestra.</td>\n</tr>\n<tr>\n<td><code>Big_Story_1951_08_22_Brennan.mp3</code></td>\n<td><strong>&quot;Vanished in Mid-Air (Reporter William E. Brennan)&quot;</strong></td>\n<td><strong>1951-08-22</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Crime&quot;, &quot;Detective&quot;]</code></td>\n<td><strong>Source</strong>: NBC Network master log &amp; <em>The New York Times</em> (8/22/1951). Dramatization of reporter William E. Brennan&#39;s real-life investigation for <em>The Fairfield County Herald</em>, tracking down a supposedly deceased aviator who staged an offshore plane crash to fraudulently claim life insurance proceeds. Narrated by Bob Sloane.</td>\n</tr>\n<tr>\n<td><code>Maisie_1945_08_22_Floorwalker.mp3</code></td>\n<td><strong>&quot;The Department Store Floorwalker&quot;</strong></td>\n<td><strong>1945-08-22</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;]</code></td>\n<td><strong>Source</strong>: CBS Network schedule &amp; <em>Chicago Tribune</em> radio highlights (8/22/1945). Ann Sothern stars as spirited Brooklyn showgirl Maisie Ravier, who takes a temporary job demonstrating beauty products at a posh department store, only to uncover an employee skimming luxury merchandise.</td>\n</tr>\n<tr>\n<td><code>Life_Your_Hands_1950_08_22_Judge.mp3</code></td>\n<td><strong>&quot;The Judge Is Shot&quot;</strong></td>\n<td><strong>1950-08-22</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td><strong>Source</strong>: NBC broadcast log &amp; John Dunning&#39;s <em>On the Air</em> (p. 396). Jonathan Kegg (Jonathan Hole) reconstructs the timeline of an assassination attempt on a presiding judge in his private chambers, exposing how forensic ballistics and a forged court transcript point to the real shooter. Created by Erle Stanley Gardner.</td>\n</tr>\n<tr>\n<td><code>Mystery_Project_1998_08_22_Lady.mp3</code></td>\n<td><strong>&quot;Find the Lady: In Which Andrew Loses His Way&quot;</strong></td>\n<td><strong>1998-08-22</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td><strong>Source</strong>: CBC Radio drama archive for August 22, 1998. A modern atmospheric detective drama produced for CBC Radio, following investigator Andrew as he descends into Montreal&#39;s art underground searching for a vanished socialite whose disappearance masks a multi-million-dollar forgery syndicate.</td>\n</tr>\n<tr>\n<td><code>Forty_Million_1953_08_22_Sound.mp3</code></td>\n<td><strong>&quot;Sound Bodies for Sound Minds&quot;</strong></td>\n<td><strong>1953-08-22</strong></td>\n<td><code>[&quot;Documentary&quot;, &quot;Educational&quot;, &quot;Historical&quot;]</code></td>\n<td><strong>Source</strong>: NBC / National Education Association archives &amp; <em>Washington Post</em> (8/22/1953). An NBC public service documentary examining public school physical education, community health screenings, and nutritional hygiene initiatives for post-war American youth.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 22</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 22</strong>: 38</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 22 Calendar Walk Archival Enrichment This archival dispatch documents the deep enrichment and historical provenance discovery of 6 historical broadcasts transmitting on August 22 acro...",
+      "date_published": "2026-08-22T00:00:00.000Z",
+      "tags": [
+        "August 22",
+        "Calendar Walk",
+        "Mail Call",
+        "Johnny Mercer",
+        "Jo Stafford",
+        "The Big Story",
+        "William E Brennan",
+        "The Adventures of Maisie",
+        "Ann Sothern",
+        "A Life in Your Hands",
+        "Erle Stanley Gardner",
+        "Jonathan Hole",
+        "The Mystery Project",
+        "The Forty Million",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-22-walk-03-kraft-shadow-rocky-jordan-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-22-walk-03-kraft-shadow-rocky-jordan-enriched",
       "title": "Archival Dispatch: August 22 Calendar Walk — Kraft Music Hall, The Shadow, Rocky Jordan, and Satan's Waitin'",
