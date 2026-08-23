@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Transatlantic Call, Lily Pons, and The Witch's Tale
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Transatlantic Call, River Clyde, Glasgow Shipyards, BBC, Edgar Bergen, Charlie McCarthy, Miriam Hopkins, Alan Mowbray, Chesterfield Presents, Lily Pons, Andre Kostelanetz, Night Editor, Hal Burdick, Sears Radio Theater, Lorne Greene, Fletcher Markle, The Witch's Tale, Alonzo Deen Cole, Old Nancy, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 217)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American, British, and Australian radio, Scottish shipyard workers on *Transatlantic Call*, Edgar Bergen and Charlie McCarthy sparring with Miriam Hopkins and Alan Mowbray, coloratura soprano Lily Pons and Andre Kostelanetz for Chesterfield, Hal Burdick's *Night Editor*, Lorne Greene hosting *Sears Radio Theater* (Western Night), and Alonzo Deen Cole's foundational horror drama *The Witch's Tale* (1931–1979):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 217)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Transatlantic_Call_1944c.mp3` <br>*Alt*: `The River Clyde`, `Glasgow 1944` | **"The River Clyde (Glasgow Shipyards)"** | **BBC / CBS**<br>1944-08-27<br>1:30 PM EWT | **Sustaining**<br>Joint Wartime Series | **BBC Scottish Dramatic Unit** | **Glasgow Shipyard Workers** | `["Documentary", "Wartime", "British", "Industrial", "Historical"]` | A documentary profile of Scottish shipyard workers along the River Clyde constructing merchant vessels and battleships under round-the-clock blackout conditions. |
+| `Bergen_McCarthy_1939_Alt.mp3` <br>*Alt*: `With Miriam Hopkins And Alan Mowbray` | **"Guest Miriam Hopkins & Alan Mowbray"** | **NBC Red (WEAF)**<br>1939-08-27<br>8:00 PM EDST | **Standard Brands**<br>Chase & Sanborn Coffee | **Edgar Bergen**, **Miriam Hopkins**, **Alan Mowbray** | **Robert Armbruster**, **NBC Staff** | `["Comedy", "Variety", "Vaudeville", "Hollywood", "Music"]` | Charlie McCarthy trades flirtatious barbs with film star Miriam Hopkins and engages Alan Mowbray in a mock Shakespearean duel while Edgar Bergen contends with Mortimer Snerd. |
+| `Chesterfield_Presents_1944.mp3` <br>*Alt*: `Lily Pons`, `Chesterfield 1944` | **"Lily Pons & Andre Kostelanetz"** | **CBS (WABC)**<br>1944-08-27<br>8:00 PM EWT | **Liggett & Myers**<br>Chesterfield ("They Satisfy!") | **Lily Pons**, **Andre Kostelanetz** | **Kostelanetz Orchestra** | `["Music", "Classical", "Opera", "Vocal", "Concert"]` | Coloratura soprano Lily Pons performs French operatic arias and romantic melodies accompanied by maestro Andre Kostelanetz and his concert orchestra. |
+| `Night_Editor_1939.mp3` <br>*Alt*: `Episode`, `Blood-Stained Fingerprints` | **"The Blood-Stained Fingerprints"** | **NBC Red (WEAF)**<br>1939-08-27<br>9:00 PM EDST | **Sustaining / Richfield**<br>Dramatic Broadcast | **Hal Burdick** (Night Editor) | **Hal Burdick** (Creator/Narrator) | `["Drama", "Newspaper", "Crime", "Mystery", "Anthology"]` | The Night Editor narrates the gripping tale of a small-town detective who discovers his own brother's fingerprints smeared in blood across a murder weapon. |
+| `Sears_Theater_1979.mp3` <br>*Alt*: `Afrso-Westener`, `Westerner 1979` | **"The Westerner (Western Night)"** | **CBS (WCBS)**<br>1979-08-27<br>9:00 PM | **Sears, Roebuck & Co.**<br>Sears Department Stores | **Lorne Greene** (Host), **Elliott Reid** | **Fletcher Markle** (Director) | `["Western", "Drama", "Frontier", "Anthology", "Action"]` | A lone wandering cowboy rides into an isolated New Mexico border town caught in a violent feud between a cattle baron and homesteading farmers. |
+| `Witchs_Tale_1931.mp3` <br>*Alt*: `The Evil Eye`, `Old Nancy 1931` | **"The Evil Eye"** | **WOR / Synd**<br>1931-08-27<br>10:30 PM | **Sustaining**<br>Early Horror Drama | **Adelaide Fitz-Allen** (Old Nancy) | **Alonzo Deen Cole** (Creator) | `["Horror", "Supernatural", "Mystery", "Occult", "Anthology"]` | Old Nancy the Witch and her black cat Satan tell the chilling supernatural tale of an envious antique dealer who inherits a cursed medallion that blinds anyone who looks upon it. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 215
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
