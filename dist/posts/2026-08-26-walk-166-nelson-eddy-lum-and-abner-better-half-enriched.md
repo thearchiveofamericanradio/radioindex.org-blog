@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — Nelson Eddy, Lum & Abner, and The Better Half
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, Nelson Eddy, The Electric Hour, The Old Gold Show, Nadine Conner, Robert Armbruster, Old Gold Cigarettes, Electric Companies, The Better Half, Tiny Ruffner, Walt Framer, Lum and Abner, Chester Lauck, Norris Goff, Horlicks Malted Milk, Pine Ridge, Jot Em Down Store, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 166)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American network and syndicated radio, America's premier baritone Nelson Eddy starring in two gala concert programs with soprano Nadine Conner and Robert Armbruster's Orchestra (for Old Gold Cigarettes and America's Electric Companies), Chester Lauck and Norris Goff in two *Lum and Abner* Pine Ridge Arkansas comedies for Horlick's Malted Milk, and Tiny Ruffner's *The Better Half* (1935–1949):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 166)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Nelson_Eddy_1942.mp3` <br>*Alt*: `First Song - Only My Song`, `Only My Song Nelson Eddy` | **"Only My Song & Shortnin' Bread (Nelson Eddy & Nadine Conner — Old Gold)"** | **CBS (WABC/KNX)**<br>1942-08-26<br>8:00 PM EWT | **P. Lorillard Co.**<br>Old Gold Cigarettes | **Nelson Eddy** (Baritone), **Nadine Conner** | **Robert Armbruster**, **Frank Graham** | `["Music", "Operetta", "Vocal", "Classical", "Pop Standards"]` | "Old Gold Cigarettes presents The Nelson Eddy Show, starring America's premier baritone, Nelson Eddy!" Nelson Eddy sings Franz Lehár's 'Only My Song' and 'Shortnin' Bread', joined by operatic soprano Nadine Conner and Robert Armbruster's Orchestra for an elegant musical evening for Old Gold. |
+| `Nelson_Eddy_1945.mp3` <br>*Alt*: `Nelson Eddy 1945-08-26`, `The Electric Hour 1945-08-26` | **"Operetta Classics & Folk Airs (Nelson Eddy & Nadine Conner — The Electric Hour)"** | **CBS (KNX/WABC)**<br>1945-08-26<br>4:30 PM EWT | **167 Electric Cos.**<br>Electric Light & Power | **Nelson Eddy**, **Nadine Conner**, **Armbruster** | **Charles Herbert**, **Frank Graham** | `["Music", "Operetta", "Vocal", "Classical", "Pop Standards"]` | "The Electric Hour, brought to you by 167 of America's business-managed Electric Light and Power Companies, starring Nelson Eddy!" Nelson Eddy performs rousing operetta standards and popular folk ballads alongside Metropolitan Opera soprano Nadine Conner and Robert Armbruster's Orchestra. |
+| `Better_Half_1948.mp3` <br>*Alt*: `Better Half 1948-08-26`, `Husband vs Wife Quiz` | **"Husband vs. Wife Battle of the Sexes (Tiny Ruffner — Mutual The Better Half)"** | **Mutual (WOR)**<br>1948-08-26<br>8:30 PM EDT | **Local Merchants**<br>Volupté Compacts | **Tiny Ruffner** (Quizmaster), **Rosa Rio** | **Walt Framer**, **Ted Cott** | `["Game Show", "Panel Show", "Comedy", "Domestic", "Quiz"]` | "The Better Half, the hilarious quiz show that settles once and for all which is the better half of the human race—the husbands or the wives!" Quizmaster Tiny Ruffner puts married couples through comedic household trivia rounds and stunt challenges to award household appliances and cash prizes. |
+| `Better_Half_1949.mp3` <br>*Alt*: `Better Half 1949-08-26`, `Battle of the Spouses` | **"Battle of the Spouses & Blindfold Stunts (Tiny Ruffner — Mutual)"** | **Mutual (WOR)**<br>1949-08-26<br>8:30 PM EDT | **Local Merchants**<br>Volupté Compacts | **Tiny Ruffner** (Host), **Married Couples** | **Walt Framer**, **Carl Warren** | `["Game Show", "Panel Show", "Comedy", "Domestic", "Quiz"]` | "The Better Half, with your genial host Tiny Ruffner!" Married couples compete in a riotous battle of the sexes, answering embarrassing domestic habit questions and undergoing blindfold physical stunts to win kitchen appliances and defense bonds. |
+| `Lum_Abner_1935.mp3` <br>*Alt*: `Stockholders Are Upset With Squire`, `Pine Ridge Stockholders` | **"Stockholders Are Upset with Squire (Chester Lauck & Norris Goff — Horlick's)"** | **NBC Blue (WJZ)**<br>1935-08-26<br>7:30 PM EDST | **Horlick's Malted Milk**<br>The Original Malted Milk | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Lauck & Goff**, **Gene Hamilton** | `["Comedy", "Sitcom", "Rural", "Americana", "Short Form"]` | "Horlick's, the Original Malted Milk, presents Lum and Abner!" At the Jot 'Em Down Store in Pine Ridge, angry town stockholders confront scheming Squire Skimp over his missing financial records and fraudulent dividends, leaving Lum and Abner to mediate the rustic boardroom chaos for Horlick's. |
+| `Lum_Abner_1937.mp3` <br>*Alt*: `True Detective Mysteries Shipboard`, `Shipboard Play Rehearsal` | **"Rehearsing the Shipboard Detective Play (Chester Lauck & Norris Goff — Horlick's)"** | **NBC Blue (WJZ)**<br>1937-08-26<br>7:30 PM EDST | **Horlick's Malted Milk**<br>Malted Milk Tablets | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Lauck & Goff**, **Gene Hamilton** | `["Comedy", "Sitcom", "Rural", "Americana", "Short Form"]` | "Horlick's Malted Milk presents Lum and Abner from Pine Ridge, Arkansas!" Inspired by the radio mystery 'The Case of the Shipboard Beauty', Lum and Abner stage a hilarious amateur detective melodrama rehearsal in the back of the Jot 'Em Down Store, casting Grandpap Spears and Cedric in absurd maritime roles for Horlick's. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 221
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
