@@ -1,0 +1,33 @@
+# Archival Dispatch: August 24 Calendar Walk — Joel McCrea, Billie Burke, and Bulldog Drummond
+
+**Date**: 2026-08-24  
+**Author**: radio index  
+**Tags**: August 24, Calendar Walk, Tales of the Texas Rangers, Joel McCrea, Stacy Keach Sr, Wheaties, The Billie Burke Show, Billie Burke, Earle Ross, Lillian Randolph, Listerine, The Silver Eagle, Jim Ameche, Cheerios, The Big Business Lark, Stephen Murray, Jon Pertwee, Leslie Phillips, Bulldog Drummond, Ned Wever, Himan Brown, Backstage Wife, Mary Noble, Claire Niesen, Dr Lyons Tooth Powder, Alternate Titles, Original Filenames
+
+---
+
+## August 24 Exhaustive Archival Metadata Enrichment (Increment 21)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 24** across American network, British BBC Radio 4, and daytime drama broadcasting history (1942–1969):
+
+---
+
+## 1. *August 24 Archival Inventory (Increment 21)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Billie_Burke_1946_08_24.mp3` <br>*Alt*: `Thousand Dollar Bill`, `Billie Burke Listerine 1946` | **"The Thousand Dollar Bill (Starring Billie Burke — Listerine)"** | **CBS (WABC)**<br>1946-08-24<br>11:30 AM EDT | **Lambert Pharmacal**<br>Listerine Antiseptic | **Billie Burke**, **Earle Ross**, **Lillian Randolph** | **Ruth Brooks Flippen**, **Axel Gruenberg**, **Marvin Miller** | `["Comedy", "Domestic", "Sitcom", "Humor", "Vocal"]` | Fluffy-headed socialite Billie Burke inadvertently discovers a thousand-dollar banknote tucked inside an antique cookbook, embarking on a comically bewildering spree to return the money to its eccentric rightful owner while dodging opportunistic neighbor relatives. |
+| `Texas_Rangers_1952_08_24.mp3` <br>*Alt*: `Three Victims`, `Joel McCrea Wheaties 1952` | **"Three Victims (Starring Joel McCrea as Ranger Jace Pearson — Wheaties)"** | **NBC (WNBC)**<br>1952-08-24<br>6:30 PM EDT | **General Mills**<br>Wheaties - "Breakfast of Champions" | **Joel McCrea** (Ranger Jace Pearson), **Herb Vigran** | **Stacy Keach Sr.** (Director), **Joel Murcott**, **Hal Gibney** | `["Western", "Police", "Procedural", "Action", "True Crime"]` | Texas Ranger Jace Pearson investigates a deadly hit-and-run crash on a lonely highway near San Angelo that claimed three victims, utilizing tire impressions, paint chip forensics, and cattle-guard dent analysis to track down a reckless rancher's son. |
+| `Silver_Eagle_1954_08_24.mp3` <br>*Alt*: `Ghost Town Ambush`, `Jim Ameche Silver Eagle` | **"The Case of the Ghost Town Ambush (Starring Jim Ameche as The Silver Eagle)"** | **ABC (WJZ)**<br>1954-08-24<br>7:30 PM EDT | **General Mills**<br>Cheerios & Wheaties | **Jim Ameche** (Jim West), **Jack Lester** (Joe Bideaux) | **James E. Jewell** (Creator/Director), **Ed Prentiss** | `["Western", "Adventure", "Canadian", "Action", "Juvenile"]` | Canadian Mountie Jim West—the Silver Eagle—and French-Canadian guide Joe Bideaux brave a blizzard in the Canadian Rockies to infiltrate an abandoned mining camp, breaking up an armed counterfeit fur-trading operation. |
+| `Big_Business_1969_08_24.mp3` <br>*Alt*: `Dining Out`, `Stephen Murray Jon Pertwee` | **"The Big Business Lark: Dining Out (Stephen Murray & Jon Pertwee)"** | **BBC Radio 4**<br>1969-08-24<br>2:00 PM BST | **Sustaining**<br>BBC Radio 4 Comedy | **Stephen Murray**, **Jon Pertwee**, **Leslie Phillips** | **Lawrie Wyman** (Writer), **Alastair Scott Johnston** | `["Comedy", "Satire", "British", "Corporate", "Sitcom"]` | In this business-world spin-off of *The Navy Lark*, the directors of British United Plastics attempt to host an extravagant expense-account dinner to impress an aristocratic investor, unravelling into hilarious gastronomic pandemonium when the wrong table is booked. |
+| `Bulldog_1942_08_24.mp3` <br>*Alt*: `Bull-Pen Mystery`, `Ned Wever Drummond 1942` | **"The Bull-Pen Mystery (Starring Ned Wever as Bulldog Drummond)"** | **Mutual (WOR)**<br>1942-08-24<br>8:00 PM EWT | **Sustaining**<br>Action Adventure | **Ned Wever** (Bulldog Drummond), **Luis Van Rooten** | **H.C. McNeile**, **Himan Brown**, **Dan Seymour** | `["Detective", "Adventure", "Hardboiled", "Action", "British"]` | British adventurer Captain Hugh 'Bulldog' Drummond and loyal valet Denny investigate the midnight stabbing murder of a championship prize bull breeder inside a locked stockyard barn, uncovering a ring of international livestock saboteurs. |
+| `Backstage_1950_08_24.mp3` <br>*Alt*: `Claudia Play Director`, `Mary Noble Dr Lyons 1950` | **"Claudia and the Play's Director (Starring Claire Niesen as Mary Noble — Dr. Lyon's)"** | **NBC (WNBC)**<br>1950-08-24<br>4:00 PM EDT | **Sterling Drug Inc.**<br>Dr. Lyon's Tooth Powder | **Claire Niesen** (Mary Noble), **James Meighan** | **Frank & Anne Hummert**, **Richard Leonard**, **Harry Clark** | `["Soap Opera", "Drama", "Theater", "Romance", "Domestic"]` | In Manhattan's theater district, Mary Noble strives to keep peace during Broadway rehearsals as tempestuous leading lady Claudia clashes furiously with the director, threatening to derail Larry Noble's new theatrical production. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 24
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 24**: 126
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
