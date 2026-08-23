@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Bill Lance, The Cisco Kid, and Hop Harrigan
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Bill Lance, John McIntire, Planters Peanuts, The Cisco Kid, Jack Mather, Harry Lang, Butter-Nut Bread, Jerry of the Circus, Claudia and David, Rose Franken, Patricia Ryan, Richard Kollmar, Hop Harrigan, Chester Stratton, Ken Lynch, Aviation, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 221)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio and syndication, John McIntire as globe-trotting sleuth *Bill Lance* for Planters Peanuts, two frontier Western adventures with Jack Mather & Harry Lang on *The Cisco Kid* (1953 Butter-Nut Bread gold claim, 1957 convict revenge), 1937 big-top drama *Jerry of the Circus*, Rose Franken's *Claudia and David*, and Chester Stratton flying high in *Hop Harrigan* (1937–1957):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 221)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Bill_Lance_1944.mp3` <br>*Alt*: `The Killing of a Corpse`, `Planters` | **"The Killing of a Corpse"** | **CBS West Coast (KNX)**<br>1944-08-27<br>9:00 PM PWT | **Planters Peanuts**<br>Jumbo Peanuts | **John McIntire** (Bill Lance), **Howard McNear** | **J. Benton Cheney** (Creator) | `["Detective", "Mystery", "Hardboiled", "Noir", "Crime"]` | Globe-trotting investigator Bill Lance takes the case of a wealthy heir whose body is found shot twice—hours after the coroner determined he had already died of poison. |
+| `Cisco_Kid_1953.mp3` <br>*Alt*: `The Gold Claim Swindle`, `Butter-Nut` | **"The Gold Claim Swindle"** | **Syndicated (Ziv)**<br>1953-08-27 | **Interstate Bakeries**<br>Butter-Nut Bread | **Jack Mather** (Cisco), **Harry Lang** (Pancho) | **Frederic W. Ziv Production** | `["Western", "Adventure", "Frontier", "Juvenile", "Americana"]` | Cisco and Pancho intercept a crooked frontier land speculator trying to forge gold mine deeds and cheat an elderly prospector out of his claim. |
+| `Cisco_Kid_1957.mp3` <br>*Alt*: `Convict's Revenge`, `1957` | **"Convict's Revenge"** | **Syndicated (Ziv)**<br>1957-08-27 | **Commercial**<br>Western Sponsors | **Jack Mather** (Cisco), **Harry Lang** (Pancho) | **Frederic W. Ziv Production** | `["Western", "Adventure", "Frontier", "Juvenile", "Americana"]` | Cisco and Pancho race across the desert to protect a reformed town marshal from an escaped territorial convict seeking deadly vengeance. |
+| `Jerry_Circus_1937.mp3` <br>*Alt*: `Lion Captured Jerry Hears From Lawyer` | **"Lion Captured & The Lawyer's Letter"** | **Syndicated Elec**<br>1937-08-27 | **Sustaining**<br>Circus Serial | **Jerry Randolph**, **Biff the Clown** | **Lorenz Circus Troupe** | `["Children", "Adventure", "Circus", "Serial", "Americana"]` | Young circus apprentice Jerry helps the trainers capture an escaped lion before receiving an urgent legal letter revealing a clue to his family inheritance. |
+| `Claudia_David_1948.mp3` <br>*Alt*: `Talks About Summer Love`, `1948` | **"Talks About Summer Love"** | **Syndicated Elec**<br>1948-08-27<br>4:30 PM EDT | **Commercial**<br>Domestic Drama | **Patricia Ryan** (Claudia), **Richard Kollmar** | **Rose Franken** (Creator) | `["Drama", "Romance", "Comedy", "Domestic", "Marriage"]` | Claudia and David enjoy a quiet summer afternoon in their country home, reflecting on the humor and misunderstandings of young married romance. |
+| `Hop_Harrigan_1947.mp3` <br>*Alt*: `The Channel Wing Plane 01`, `1947` | **"The Channel Wing Plane (Episode 1)"** | **Mutual (WOR)**<br>1947-08-27<br>5:15 PM EDT | **Sustaining**<br>Aviation Serial | **Chester Stratton** (Hop), **Ken Lynch** (Tank) | **Glenn Riggs** (Announcer) | `["Aviation", "Adventure", "Juvenile", "Mystery", "Serial"]` | Aces of the Airways Hop Harrigan and mechanic Tank Tinker test an experimental channel-wing aircraft and uncover a corporate sabotage plot targeting the test flight. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 239
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

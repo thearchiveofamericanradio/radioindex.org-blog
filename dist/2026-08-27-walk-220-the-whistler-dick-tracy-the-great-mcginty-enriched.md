@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — The Whistler, Dick Tracy, and The Great McGinty
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Armchair Adventures, Marvin Miller, Dick Tracy, Chester Gould, Matt Crowley, Tootsie Roll, The Whistler, Bill Forman, Signal Oil, Elliott Lewis, Joseph Kearns, Screen Guild Theater, Brian Donlevy, Akim Tamiroff, Preston Sturges, Lady Esther, Family on Tour, National Parks, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 220)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio, Marvin Miller in *Armchair Adventures*, Chester Gould's *Dick Tracy* hunting counterfeit rings for Tootsie Roll, two noir psychological thrillers on *The Whistler* for Signal Oil ("Summer Night" and "Opus 32"), Preston Sturges's political satire *The Great McGinty* on *The Screen Guild Theater* for Lady Esther, and a 1930s family automobile expedition on *Family on Tour* (1936–1952):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 220)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Armchair_Adv_1952.mp3` <br>*Alt*: `The Hunch That Worked`, `1952` | **"The Hunch That Worked"** | **Syndicated (Goodman)**<br>1952-08-27 | **Commercial**<br>Mystery Anthology | **Marvin Miller** (Host/Narrator) | **Harry S. Goodman Production** | `["Drama", "Mystery", "Detective", "Adventure", "Anthology"]` | An intuitive police detective acts on a hunch during a bank robbery investigation, uncovering a secret passage in the vault wall. |
+| `Dick_Tracy_1945.mp3` <br>*Alt*: `Counterfeit Rings`, `Tootsie Roll` | **"The Case of the Counterfeit Rings"** | **ABC (WJZ)**<br>1945-08-27<br>5:00 PM EWT | **Sweets Co. of America**<br>Tootsie Rolls & V.M. | **Matt Crowley** (Tracy), **Howard Smith**, **Jackie Kelk** | **Chester Gould** (Creator) | `["Detective", "Juvenile", "Comics", "Adventure", "Crime"]` | Detective Dick Tracy and junior partner Junior pursue a ruthless counterfeiting gang using hollow imitation rings to smuggle stolen jewelry. |
+| `The_Whistler_1943.mp3` <br>*Alt*: `Summer Night`, `Signal Oil 1943` | **"Summer Night"** | **CBS West Coast (KNX)**<br>1943-08-27<br>9:00 PM PWT | **Signal Oil Co.**<br>Signal Gasoline | **Bill Forman** (Whistler), **Elliott Lewis** | **George Allen** (Director) | `["Noir", "Psychological Thriller", "Mystery", "Suspense", "Crime"]` | A desperate embezzler plots to murder his suspicious business partner during a suffocating summer heatwave at a lakeside cabin. |
+| `The_Whistler_1944.mp3` <br>*Alt*: `Opus 32`, `Signal Oil 1944` | **"Opus 32"** | **CBS West Coast (KNX)**<br>1944-08-27<br>8:30 PM PWT | **Signal Oil Co.**<br>Signal Gasoline | **Bill Forman** (Whistler), **Joseph Kearns**, **Cathy Lewis** | **George Allen** (Director) | `["Noir", "Psychological Thriller", "Mystery", "Suspense", "Crime"]` | A jealous classical composer murders his brilliant protege to steal the young prodigy's unfinished symphony and pass it off as his own masterpiece. |
+| `Screen_Guild_1945.mp3` <br>*Alt*: `The Great Mcginty`, `Lady Esther` | **"The Great McGinty"** | **CBS (WABC)**<br>1945-08-27<br>10:00 PM EWT | **Lady Esther Cosmetics**<br>Face Cream & Powder | **Brian Donlevy**, **Akim Tamiroff**, **Muriel Angelus** | **Truman Bradley**, **Preston Sturges** | `["Comedy", "Satire", "Political", "Hollywood", "Anthology"]` | A derelict hobo rises through a crooked political machine from ward heeler to state governor until a burst of honest conscience causes his downfall. |
+| `Family_on_Tour_1936.mp3` <br>*Alt*: `Exploring the National Parks`, `1936` | **"Exploring the National Parks"** | **NBC Red (WEAF)**<br>1936-08-27<br>7:15 PM EDST | **Sustaining**<br>Travelogue Broadcast | **Tour Family Dramatic Ensemble** | **NBC Production Staff** | `["Travelogue", "Educational", "Americana", "Family", "Adventure"]` | A vacationing American family travels by motorcar through Yellowstone and Grand Teton National Parks, encountering geysers and mountain wildlife. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 233
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
