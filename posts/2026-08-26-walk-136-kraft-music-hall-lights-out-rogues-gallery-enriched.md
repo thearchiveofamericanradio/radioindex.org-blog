@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — Kraft Music Hall (Joe Louis, Bing Crosby, Nelson Eddy) and Arch Oboler
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, Kraft Music Hall, Bing Crosby, Rags Ragland, Mary Martin, Nelson Eddy, Nadine Conner, Kraft Foods, Miracle Whip, Joe Louis, Tommy Farr, Heavyweight Championship, Boxing, Yankee Stadium, Clem McCarthy, Rogues Gallery, Dick Powell, Fitch Shampoo, Jason and the Golden Fleece, Macdonald Carey, Lights Out, Arch Oboler, Danse Macabre, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 136)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American network, Clem McCarthy's iconic blow-by-blow call of the Joe Louis vs. Tommy Farr World Heavyweight Championship live from Yankee Stadium pre-empting the *Kraft Music Hall*, Bing Crosby swinging for victory on *Kraft Music Hall* with Rags Ragland, Nelson Eddy's Kraft rehearsal tracks, Dick Powell solving *The Triangle of Death* on *Rogue's Gallery* for Fitch Shampoo, Macdonald Carey sailing the South China Sea in *Jason and the Golden Fleece*, and Arch Oboler's bone-chilling *Danse Macabre* on *Lights Out* (1936–1954):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 136)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Rogues_Gallery_1945.mp3` <br>*Alt*: `Rogues Gallery 1945-08-26`, `The Triangle of Death` | **"The Triangle of Death (Dick Powell as Richard Rogue — Fitch Shampoo)"** | **NBC/Mutual**<br>1945-08-26<br>8:30 PM EWT | **F.W. Fitch Co.**<br>Fitch Dandruff Remover | **Dick Powell** (Richard Rogue), **Peter Leeds** (Eugor) | **Ray Buffum**, **Dee Engelbach**, **Jim Doyle** | `["Detective", "Hardboiled", "Mystery", "Noir", "Psychological"]` | "Fitch Shampoo presents Rogue's Gallery, starring Dick Powell as Richard Rogue!" Hardboiled private eye Richard Rogue is knocked unconscious while investigating an extortion racket targeting a wealthy socialite, journeying into 'Cloud Eight' to converse with his sarcastic alter-ego Eugor before waking up to expose a deadly love triangle for Fitch Shampoo. |
+| `Golden_Fleece_1954.mp3` <br>*Alt*: `Jason and the Golden Fleece 1954-08-26`, `Case Jade Goddess` | **"The Case of the Jade Goddess (Macdonald Carey as Jason Brian — NBC)"** | **NBC (WNBC)**<br>1954-08-26<br>8:00 PM EDT | **Sustaining**<br>Island Adventure Mystery | **Macdonald Carey** (Jason), **William Conrad** (Dum-Dum) | **Kenneth Perkins**, **Bill Karn**, **Don Pardo** | `["Adventure", "Mystery", "Exotic", "Maritime", "Action"]` | "Jason and the Golden Fleece, starring Macdonald Carey!" Globetrotting adventurer Jason Brian sails his chartered schooner into the South China Sea to retrieve a stolen antique jade deity for an American museum curator, battling ruthless pirate warlords operating out of Macao. |
+| `Lights_Out_1936.mp3` <br>*Alt*: `Danse Macabre`, `Danse Macabre Arch Oboler` | **"Danse Macabre by Arch Oboler (Raymond Edward Johnson — Lights Out)"** | **NBC Red (WMAQ)**<br>1936-08-26<br>12:30 AM EDST | **Sustaining**<br>Midnight Macabre Horror | **Arch Oboler** (Host/Writer), **Raymond Edward Johnson** | **Arch Oboler** (Creator/Dir.), **Fred Jacky** | `["Horror", "Macabre", "Supernatural", "Psychological", "Anthology"]` | "Lights Out, everybody! This is Arch Oboler bringing you stories of the dark and unusual..." In 'Danse Macabre', an arrogant concert pianist who murders his romantic rival at a midnight masquerade ball finds himself relentlessly stalked by skeletal phantom hands compelled to play Saint-Saëns' demonic waltz on his grand piano. |
+| `Kraft_Music_Hall_1937.mp3` <br>*Alt*: `[Pre-empted for broadcast of Joe Louis vs. Tommy Farr]`, `Joe Louis 1937` | **"Joe Louis vs. Tommy Farr World Championship (Clem McCarthy — Live Yankee Stadium)"** | **NBC Red (WEAF)**<br>1937-08-26<br>10:00 PM EDST | **Kraft / Special Event**<br>Miracle Whip & Buick | **Clem McCarthy** (Blow-by-Blow), **Joe Louis**, **Tommy Farr** | **NBC Sports**, **Edwin C. Hill** | `["Sports", "Historical", "Live", "Special Event", "Boxing"]` | "Live from Yankee Stadium in New York! The World Heavyweight Championship Bout between Champion Joe Louis and Welsh contender Tommy Farr, pre-empting Kraft Music Hall!" Clem McCarthy calls the blistering 15-round slugfest as 'The Brown Bomber' Joe Louis defends his world heavyweight crown against rugged Welshman Tommy Farr in a legendary championship battle. |
+| `Kraft_Music_Hall_1943.mp3` <br>*Alt*: `First Song - Comin' In On A Wing And A Prayer`, `Bing Crosby Rags Ragland` | **"Comin' In on a Wing and a Prayer (Bing Crosby & Rags Ragland — Kraft)"** | **NBC (WEAF)**<br>1943-08-26<br>9:00 PM EWT | **Kraft Cheese Co.**<br>Kraft Miracle Whip | **Bing Crosby**, **Rags Ragland**, **Mary Martin** | **Carroll Carroll**, **Cal Kuhl**, **Ken Carpenter** | `["Music", "Variety", "Comedy", "Big Band", "Americana"]` | "The Kraft Music Hall, starring Bing Crosby, brought to you by Kraft Miracle Whip!" Der Bingle opens with the patriotic wartime hit 'Comin' In on a Wing and a Prayer', engages in hilarious vaudeville banter with burlesque comedian Rags Ragland, and duets with Mary Martin for Kraft. |
+| `Kraft_Music_Hall_1948.mp3` <br>*Alt*: `Get Happy, Guest Host Nelson Eddy (Rehearsal,)`, `Nelson Eddy Kraft` | **"Get Happy: Studio Rehearsal (Nelson Eddy & Nadine Conner — Kraft Music Hall)"** | **NBC Network**<br>1948-08-26<br>(Studio Track) | **Kraft Foods Co.**<br>Kraft Miracle Whip | **Nelson Eddy** (Guest Host), **Nadine Conner** | **Kraft Radio Productions**, **Ken Carpenter** | `["Music", "Variety", "Vocal", "Classical", "Operetta"]` | "Studio Rehearsal Recording: The Kraft Music Hall, guest hosted by Nelson Eddy for Kraft Miracle Whip!" Operatic baritone Nelson Eddy leads the orchestra and cast through lively run-throughs and banter, singing Harold Arlen's 'Get Happy' alongside classic operetta duets with Nadine Conner. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 41
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
