@@ -1,0 +1,33 @@
+# Archival Dispatch: August 25 Calendar Walk — Glenn Miller (Moonlight Serenade), Gene Autry (2 Decades), and BBC Sherlock Holmes
+
+**Date**: 2026-08-25  
+**Author**: radio index  
+**Tags**: August 25, Calendar Walk, Glenn Miller, Chesterfield Moonlight Serenade, Marion Hutton, The Modernaires, Gene Autrys Melody Ranch, Gene Autry, Pat Buttram, Wrigleys Doublemint, The Further Adventures of Sherlock Holmes, Clive Merrison, Andrew Sachs, Bert Coules, BBC Radio 4, Dr Finlay, Bill Simpson, Andrew Cruickshank, The Quiz Kids, Joe Kelly, Joel Kupperman, Alka-Seltzer, Alternate Titles, Original Filenames
+
+---
+
+## August 25 Exhaustive Archival Metadata Enrichment (Increment 88)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, Glenn Miller's swing classics for Chesterfield, singing cowboy Gene Autry's Melody Ranch adventures, BBC Radio 4 Sherlock Holmes locked-room mysteries starring Clive Merrison & Andrew Sachs, child prodigy math battles on The Quiz Kids, and Scottish medical chronicles (1942–2002):
+
+---
+
+## 1. *August 25 Archival Inventory (Increment 88)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Holmes_Eichorn_2002.mp3` <br>*Alt*: `Lady Sylvia Eichorn`, `Clive Merrison Andrew Sachs Holmes` | **"The Strange Death of Lady Sylvia Eichorn (Clive Merrison & Andrew Sachs — BBC)"** | **BBC Radio 4**<br>2002-08-25<br>9:00 PM BST | **Sustaining**<br>Sherlock Holmes Drama | **Clive Merrison** (Holmes), **Andrew Sachs** (Watson) | **Bert Coules** (Writer), **Patrick Rayner** | `["Detective", "Mystery", "Victorian", "Crime", "British"]` | "The Further Adventures of Sherlock Holmes, by Bert Coules..." Sherlock Holmes and Dr. Watson travel to a remote country manor to investigate the baffling death of Lady Sylvia Eichorn, who was discovered lifeless inside a locked conservatory with no mark of violence. |
+| `Dr_Finlay_1976.mp3` <br>*Alt*: `The Visitors`, `Dr Finlay Tannochbrae 1976` | **"The Visitors (Bill Simpson & Andrew Cruickshank — Dr. Finlay — BBC)"** | **BBC Radio 4**<br>1976-08-25<br>8:15 PM BST | **Sustaining**<br>Scottish Drama | **Bill Simpson** (Finlay), **Andrew Cruickshank** | **Donald Bull**, **A.J. Cronin**, **Tom Kinninmont** | `["Drama", "Medical", "Scottish", "Period", "Human Interest"]` | "Dr. Finlay: The Further Adventures of a Black Bag, by A.J. Cronin..." In the fictional Scottish village of Tannochbrae, Dr. Finlay and Dr. Cameron handle the arrival of wealthy eccentric visitors whose demands disrupt the local cottage hospital. |
+| `Melody_Ranch_1946.mp3` <br>*Alt*: `Melody Ranch 1946-08-25`, `Gene Autry Sierra Nevada` | **"Sierra Nevada (Gene Autry & Pat Buttram — Wrigley's Doublemint)"** | **CBS (KNX)**<br>1946-08-25<br>5:30 PM EDT | **Wm. Wrigley Jr. Co.**<br>Doublemint Chewing Gum | **Gene Autry**, **Pat Buttram**, **Cass County Boys** | **Ted Bliss** (Director), **Charlie Lyon** | `["Western", "Music", "Country", "Comedy", "Variety"]` | "From Gene Autry's Melody Ranch in Hollywood, brought to you by Wrigley's Doublemint Chewing Gum!" Singing cowboy Gene Autry and sidekick Pat Buttram entertain ranch visitors with frontier tunes including 'Back in the Saddle Again' and 'Sierra Nevada' for Doublemint. |
+| `Melody_Ranch_1951.mp3` <br>*Alt*: `Plane Crashes in Snow`, `Gene Autry Blizzard Rescue` | **"The Mountain Blizzard Plane Rescue (Gene Autry — Wrigley's Doublemint)"** | **CBS (KNX)**<br>1951-08-25<br>8:00 PM EDT | **Wm. Wrigley Jr. Co.**<br>Doublemint Chewing Gum | **Gene Autry**, **Pat Buttram**, **Carl Cotner** | **Ted Bliss** (Producer), **Charlie Lyon** | `["Western", "Music", "Adventure", "Country", "Variety"]` | "Gene Autry's Melody Ranch!" Gene Autry and Pat Buttram lead a daring rescue party into a snowy mountain blizzard after an emergency charter plane crashes into the peaks, performing 'Memories' and cowboy classics for Doublemint Gum. |
+| `Quiz_Kids_1946.mp3` <br>*Alt*: `Quiz Kids 1946-08-25`, `Joel Kupperman Quiz Kids` | **"Child Prodigy Joel Kupperman Answers (Joe Kelly — Alka-Seltzer)"** | **NBC Red (WMAQ)**<br>1946-08-25<br>4:00 PM EDT | **Miles Laboratories**<br>Alka-Seltzer & One-A-Day | **Joe Kelly** (Quizmaster), **Joel Kupperman** | **Louis G. Cowan**, **Jack Kelly**, **Bob Murphy** | `["Quiz", "Game Show", "Educational", "Juvenile", "Panel"]` | "Listen to the Quiz Kids, brought to you by Alka-Seltzer!" Jolly quizmaster Joe Kelly tests child prodigies Joel Kupperman and Ruthie Duskin with challenging listener questions on astronomy, Shakespeare, and mental arithmetic for Alka-Seltzer. |
+| `Glenn_Miller_1942.mp3` <br>*Alt*: `Glennmiller 420825`, `Moonlight Serenade Kalamazoo` | **"Moonlight Serenade & Kalamazoo (Glenn Miller — Chesterfield Cigarettes)"** | **CBS (WABC)**<br>1942-08-25<br>10:00 PM EWT | **Liggett & Myers**<br>Chesterfield — "They Satisfy" | **Glenn Miller Orchestra**, **Marion Hutton** | **Newell-Emmett Co.**, **Martin Block** | `["Music", "Big Band", "Swing", "Jazz", "Vocal"]` | "It's the Chesterfield Moonlight Serenade starring Glenn Miller and his Orchestra!" Glenn Miller conducts swing masterpieces including 'Moonlight Serenade', 'In the Mood', and 'Kalamazoo' featuring Marion Hutton and The Modernaires for Chesterfield. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 143
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
