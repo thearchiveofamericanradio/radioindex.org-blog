@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-22-walk-03-kraft-shadow-rocky-jordan-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-22-walk-03-kraft-shadow-rocky-jordan-enriched",
+      "title": "Archival Dispatch: August 22 Calendar Walk — Kraft Music Hall, The Shadow, Rocky Jordan, and Satan's Waitin'",
+      "content_html": "<h2>August 22 Calendar Walk Archival Enrichment</h2>\n<p>This archival dispatch documents the deep enrichment of 8 historical broadcasts transmitting on <strong>August 22</strong> across the golden age of American and British radio broadcasting (1935–1965). Every entry has been cross-referenced against historical network radio schedules, contemporary syndicated radio columns, and production trade logs:</p>\n<hr>\n<h2>1. <em>August 22 Broadcast Inventory</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Production Context</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>KMH_1935_08_22_Whiteman.mp3</code></td>\n<td><strong>&quot;Paul Whiteman with Ramona and The King&#39;s Men&quot;</strong></td>\n<td><strong>1935-08-22</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;]</code></td>\n<td>Paul Whiteman and his Orchestra lead the summer 1935 edition of the Kraft Music Hall from New York, featuring vocal soloist Ramona and her Grand Piano, harmony arrangements by the King&#39;s Men quartet, and sweet orchestral melodies.</td>\n</tr>\n<tr>\n<td><code>KMH_1940_08_22_Burns_Patrick.mp3</code></td>\n<td><strong>&quot;Summer Edition with Gail Patrick and Elsa Lanchester&quot;</strong></td>\n<td><strong>1940-08-22</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Comedy&quot;]</code></td>\n<td>Summer replacement host Bob &#39;Bazooka&#39; Burns guest-hosts from Hollywood, trading rustic comedy with actress Gail Patrick and British character actress Elsa Lanchester, with John Scott Trotter&#39;s Orchestra and the Music Maids.</td>\n</tr>\n<tr>\n<td><code>KMH_1946_08_22_Horton_Silvers.mp3</code></td>\n<td><strong>&quot;Summer Edition with Phil Silvers and Eddy Duchin&quot;</strong></td>\n<td><strong>1946-08-22</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Comedy&quot;]</code></td>\n<td>Summer host Edward Everett Horton welcomes comedian Phil Silvers for lively comedy sketches and pianist Eddy Duchin performing popular standards, with the Charioteers vocal quartet and Lou Bring&#39;s Orchestra.</td>\n</tr>\n<tr>\n<td><code>Mystery_House_1948_08_22_Whispering.mp3</code></td>\n<td><strong>&quot;The Whispering Walls&quot;</strong></td>\n<td><strong>1948-08-22</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Horror&quot;, &quot;Drama&quot;]</code></td>\n<td>Bela Lugosi stars in this gothic radio chiller where an eccentric millionaire&#39;s will mandates that competing heirs reside for three nights in an isolated seaside manor haunted by disembodied voices whispering from secret corridors.</td>\n</tr>\n<tr>\n<td><code>Satans_Waitin_1950_08_22_Border_Bandit.mp3</code></td>\n<td><strong>&quot;The Border Bandit&quot;</strong></td>\n<td><strong>1950-08-22</strong></td>\n<td><code>[&quot;Suspense&quot;, &quot;Drama&quot;, &quot;Mystery&quot;]</code></td>\n<td>Frank Graham stars as Satan with Van Des Autels as the sinister black cat narrator. A ruthless bank robber flees across the Mexican desert, but is betrayed when severe infection forces him to seek aid from a cunning frontier physician.</td>\n</tr>\n<tr>\n<td><code>Navy_Lark_1965_08_22_Chopper.mp3</code></td>\n<td><strong>&quot;Let Loose with a Chopper&quot;</strong></td>\n<td><strong>1965-08-22</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;]</code></td>\n<td>The bumbling crew of HMS Troutbridge is assigned to field-test a new Royal Navy prototype helicopter, leading to disaster when Chief Petty Officer Pertwee takes the aircraft on an unauthorized flight. Starring Leslie Phillips and Jon Pertwee.</td>\n</tr>\n<tr>\n<td><code>The_Shadow_1954_08_22_Eyes_God.mp3</code></td>\n<td><strong>&quot;The Eyes of the God&quot;</strong></td>\n<td><strong>1954-08-22</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Lamont Cranston and Margot Lane investigate the bizarre strangulation murders of private antiquities dealers who purchased stolen emeralds and rubies pried from a sacred Burmese temple idol. Starring Bret Morrison.</td>\n</tr>\n<tr>\n<td><code>Rocky_Jordan_1951_08_22_Desert_Fury.mp3</code></td>\n<td><strong>&quot;Desert Fury&quot;</strong></td>\n<td><strong>1951-08-22</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;Detective&quot;]</code></td>\n<td>Jack Moyles stars as Rocky Jordan, American café owner in Cairo. Rocky is hired by an archaeological team after an ancient desert excavation site is attacked by black-market smugglers searching for a golden sarcophagus.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 22</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 8</li>\n<li><strong>Cumulative Resolved on August 22</strong>: 32</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 22 Calendar Walk Archival Enrichment This archival dispatch documents the deep enrichment of 8 historical broadcasts transmitting on August 22 across the golden age of American and Br...",
+      "date_published": "2026-08-22T00:00:00.000Z",
+      "tags": [
+        "August 22",
+        "Calendar Walk",
+        "Kraft Music Hall",
+        "Paul Whiteman",
+        "Bob Burns",
+        "Gail Patrick",
+        "Elsa Lanchester",
+        "Phil Silvers",
+        "Eddy Duchin",
+        "The Shadow",
+        "Bret Morrison",
+        "Rocky Jordan",
+        "Jack Moyles",
+        "Satans Waitin",
+        "Frank Graham",
+        "The Navy Lark",
+        "Jon Pertwee",
+        "Leslie Phillips",
+        "Mystery House",
+        "Bela Lugosi",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-22-walk-02-green-hornet-gangbusters-templeton-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-22-walk-02-green-hornet-gangbusters-templeton-enriched",
       "title": "Archival Dispatch: August 22 Calendar Walk — The Green Hornet, Gangbusters, Night Cap Yarns, and Alec Templeton",
