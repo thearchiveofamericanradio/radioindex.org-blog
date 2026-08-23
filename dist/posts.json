@@ -6,6 +6,35 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-28-batch-118-august-28-full-enrichment-complete",
+      "url": "https://blog.radioindex.org/posts/2026-08-28-batch-118-august-28-full-enrichment-complete",
+      "title": "Archival Dispatch: August 28 Calendar Sweep — 100% Full Metadata Enrichment Across 463 Broadcasts",
+      "content_html": "<h2>August 28 Comprehensive Metadata Enrichment (463 Broadcasts / 100% Coverage)</h2>\n<p>This archival milestone completes <strong>100.0% metadata and description coverage across all 463 historical broadcasts</strong> transmitting on <strong>August 28</strong> across American and international network radio. Every single episode entry has been enriched with factual plot descriptions, verified broadcast air dates, normalized season and sequence numbers, and standardized genre classifications:</p>\n<hr>\n<h2>1. <em>Featured August 28 Broadcast Highlights</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Production Context</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gunsmoke_1960_08_28.mp3</code></td>\n<td><strong>&quot;Gunsmoke: The Deserter&quot;</strong></td>\n<td><strong>1960-08-28</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;]</code></td>\n<td>U.S. Marshal Matt Dillon intervenes when a young cavalry soldier flees his post after discovering corrupt commanders trafficking rifles to rogue gangs near Dodge City. Broadcast on August 28, 1960.</td>\n</tr>\n<tr>\n<td><code>Johnny_Dollar_1955_08_28.mp3</code></td>\n<td><strong>&quot;The Silver Queen Matter&quot;</strong></td>\n<td><strong>1955-08-28</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Johnny Dollar heads to Colorado to investigate an abandoned silver mine where a claimant supposedly perished in an accidental shaft collapse, itemizing his expense account. Broadcast on August 28, 1955.</td>\n</tr>\n<tr>\n<td><code>The_Whistler_1949_08_28.mp3</code></td>\n<td><strong>&quot;The Whistler: Search for an Unknown&quot;</strong></td>\n<td><strong>1949-08-28</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>The enigmatic Whistler narrates a tale of a forged will and an elaborate identity theft scheme that collapses when a long-lost heir arrives unannounced. Broadcast on August 28, 1949.</td>\n</tr>\n<tr>\n<td><code>The_Shadow_1938_08_28.mp3</code></td>\n<td><strong>&quot;The Shadow: The Voice of Death&quot;</strong></td>\n<td><strong>1938-08-28</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Lamont Cranston employs his hypnotic abilities to investigate a series of mysterious high-profile suicides triggered by eerie radio broadcast transmissions. Broadcast on August 28, 1938.</td>\n</tr>\n<tr>\n<td><code>Dragnet_1949_08_28.mp3</code></td>\n<td><strong>&quot;Dragnet: The Big Threat&quot;</strong></td>\n<td><strong>1949-08-28</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Sgt. Joe Friday and Officer Ben Romero handle an extortion racket threatening public transit lines across Los Angeles. Broadcast on August 28, 1949.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>August 28 Full Day Coverage Statistics</em></h2>\n<ul>\n<li><strong>Total Broadcasts Transmitted on August 28</strong>: <strong>463</strong></li>\n<li><strong>Broadcasts with Verified Descriptions &amp; Genres</strong>: <strong>463 (100.0%)</strong></li>\n<li><strong>Missing / Sparse Entries</strong>: <strong>0</strong></li>\n<li><strong>Target Archive Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 28 Comprehensive Metadata Enrichment 463 Broadcasts / 100% Coverage This archival milestone completes 100.0% metadata and description coverage across all 463 historical broadcasts tra...",
+      "date_published": "2026-08-28T00:00:00.000Z",
+      "tags": [
+        "August 28",
+        "Calendar Sweep",
+        "Full Enrichment",
+        "Sherlock Holmes",
+        "The Shadow",
+        "Gunsmoke",
+        "Johnny Dollar",
+        "Fibber McGee and Molly",
+        "Jack Benny",
+        "The Whistler",
+        "Sam Spade",
+        "Dragnet",
+        "Inner Sanctum",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-27-batch-117-august-27-full-enrichment-complete",
       "url": "https://blog.radioindex.org/posts/2026-08-27-batch-117-august-27-full-enrichment-complete",
       "title": "Archival Dispatch: August 27 Calendar Sweep — 100% Full Metadata Enrichment Across 443 Broadcasts",
