@@ -1,0 +1,34 @@
+# Archival Dispatch: August 25/26 Calendar Walk — Raffles (100% August 25 Completion) & Milton Berle / Kay Kyser
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 25, August 26, Calendar Walk, Raffles, Horace Braham, Walter Tetley, Himan Brown, CBS, Milton Berle, Let Yourself Go, Eversharp, Ray Bloch, The Sea Hound, Captain Silver, Ken Daigneau, Kay Kyser, Ish Kabibble, Harry Babbitt, Lucky Strike, Pillsbury, Ivory Soap, Alternate Titles, Original Filenames
+
+---
+
+## August 25 (100% Complete) & August 26 Opening Archival Metadata Enrichment (Increment 130)
+
+This archival dispatch marks the **100% completion of August 25th (390/390 broadcasts fully enriched)** with Horace Braham & Walter Tetley in *Raffles, the Gentleman Thief* for CBS, followed by the opening sequence of **August 26th** featuring Milton Berle saluting American railroads on *Let Yourself Go* for Eversharp, two high-seas adventure serials on *The Sea Hound*, and Kay Kyser's *Kollege of Musical Knowledge* for Lucky Strike and Pillsbury Mills (1942–1948):
+
+---
+
+## 1. *August 25/26 Archival Inventory (Increment 130)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Raffles_1943.mp3` <br>*Alt*: `The Case of the Seven Stamps`, `The Seven Stamps Raffles` | **"The Case of the Seven Stamps (Horace Braham as A.J. Raffles — CBS)"** | **CBS (WABC)**<br>1943-08-25<br>8:30 PM EWT | **Sustaining**<br>Summer Mystery Drama | **Horace Braham** (Raffles), **Walter Tetley** (Bunny) | **E.W. Hornung**, **Himan Brown**, **Frank Gallop** | `["Detective", "Mystery", "Classics", "Victorian", "Crime"]` | "Raffles, the Gentleman Thief, adapted from the stories of E.W. Hornung!" Suave society gentleman and amateur cracksman A.J. Raffles and his loyal accomplice Bunny Manders investigate the disappearance of a rare set of British colonial Mauritius postage stamps stolen from a wealthy philatelist's locked study, outwitting Scotland Yard's Inspector Mackenzie to recover the priceless stamps. *(Completes August 25 100%!)* |
+| `Let_Yourself_Go_1947.mp3` <br>*Alt*: `Salutes the Railways of America`, `Milton Berle Railways 1947` | **"Salutes the Railways of America (Milton Berle — Eversharp Razors)"** | **CBS (WABC)**<br>1947-08-26<br>8:00 PM EDT | **Eversharp, Inc.**<br>Eversharp Injector Razors | **Milton Berle**, **Pert Kelton**, **Dick Farney** | **Kenneth MacGregor**, **Frank Gallop** | `["Comedy", "Variety", "Vaudeville", "Music", "Americana"]` | "Eversharp presents Let Yourself Go, starring Milton Berle!" Comedian Milton Berle salutes the great railroads of America with hilarious commuter sketches, locomotive sound impressions, musical selections from singer Dick Farney, and Eversharp Schick Injector razor commercials. |
+| `Sea_Hound_1946.mp3` <br>*Alt*: `Episode`, `Captain Silver El Mutilador 1946` | **"The Torpedo Ambush in Cove Bay (Part 11 — Ken Daigneau as Captain Silver)"** | **ABC (WJZ)**<br>1946-08-26<br>5:00 PM EDT | **Sustaining**<br>Maritime Adventure Serial | **Ken Daigneau** (Captain Silver), **Bobby Hastings** | **Cyril Armbrister**, **B.P. Nicholls** | `["Adventure", "Juvenile", "Maritime", "Action", "Espionage"]` | "Ahoy, mates! Sail with Captain Silver on The Sea Hound!" Captain Silver and young Jerry navigate treacherous reefs off the coast of Colombia tracking down the ruthless pirate El Mutilador, dodging a torpedo ambush launched from a hidden cove. Note: Multi-part serial narrative arc *(The Chase for El Mutilador — Part 11)*. |
+| `Sea_Hound_1948.mp3` <br>*Alt*: `AOT Working On The Railroad. The God Of Vengeance`, `God of Vengeance 4` | **"The God of Vengeance on the Andes Line (Part 4 — Captain Silver — ABC)"** | **ABC (WJZ)**<br>1948-08-26<br>5:00 PM EDT | **Sustaining**<br>Maritime Adventure Serial | **Ken Daigneau** (Captain Silver), **Bobby Hastings** | **Cyril Armbrister**, **B.P. Nicholls** | `["Adventure", "Juvenile", "Maritime", "Action", "Exotic"]` | "The Sea Hound, adventure in Latin America with Captain Silver!" While assisting with a remote Andes railway construction project, Captain Silver and his crew uncover a plot by river bandits impersonating the ancient Incan deity 'The God of Vengeance' to frighten railway laborers. Note: Multi-part serial narrative arc *(The God of Vengeance — Part 4)*. |
+| `Kay_Kyser_1942.mp3` <br>*Alt*: `Story Of Major James V Edmundson`, `Major Edmundson Tribute` | **"Tribute to Major James V. Edmundson (Kay Kyser & Ish Kabibble — Lucky Strike)"** | **NBC Red (WEAF)**<br>1942-08-26<br>10:00 PM EWT | **American Tobacco Co.**<br>Lucky Strike ("L.S./M.F.T.") | **Kay Kyser**, **Ish Kabibble**, **Harry Babbitt** | **Ed Cashman**, **Verne Smith** | `["Music", "Game Show", "Big Band", "Comedy", "Quiz"]` | "Students, hold your hats! It's Kay Kyser's Kollege of Musical Knowledge, brought to you by Lucky Strike!" The Ol' Professor Kay Kyser leads the student body in zany musical quizzes, features a heartfelt wartime tribute honoring B-17 bomber pilot Major James V. Edmundson, and swings with Ish Kabibble and Harry Babbitt for Lucky Strike. |
+| `Kay_Kyser_1947.mp3` <br>*Alt*: `ABC Audition For Pillsbury And Ivory`, `Pillsbury Ivory Audition` | **"Audition Demonstration (Kay Kyser & Ish Kabibble — Pillsbury & Ivory)"** | **ABC Network**<br>1947-08-26<br>(Audition Track) | **Pillsbury & P&G**<br>Flour & Ivory Soap | **Kay Kyser**, **Ish Kabibble**, **Jane Russell** | **Kay Kyser Productions**, **Verne Smith** | `["Music", "Game Show", "Big Band", "Comedy", "Quiz"]` | "Audition Presentation: Kay Kyser's Kollege of Musical Knowledge for Pillsbury and Ivory Soap!" Kay Kyser and comedy star Ish Kabibble deliver a fast-paced sample broadcast demonstrating interactive audience participation, musical quizzes, and integrated commercial parodies for Pillsbury Mills and Procter & Gamble. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Days**: August 25 (100% COMPLETE!) / August 26 (In Progress)
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: **390 / 390 (100.0% Complete!)**
+- **Cumulative Resolved on August 26**: 5
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
