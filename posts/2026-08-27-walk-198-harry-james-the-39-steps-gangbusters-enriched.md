@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Harry James, Sammy Kaye, and The 39 Steps
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, One Night Stand, Harry James, Kitty Kallen, Hollywood Palladium, Sammy Kaye, Astor Roof, AFRS, The 39 Steps, John Buchan, Richard Hannay, David Robb, BBC, General Motors on Safari, Springbok Radio, Tsavo, Gangbusters, Phillips H Lord, Sloans Liniment, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 198)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American, British, and South African radio, Harry James live from the Hollywood Palladium and Sammy Kaye from the Astor Roof on AFRS *One Night Stand*, John Buchan's classic espionage two-parter *The 39 Steps* starring David Robb as Richard Hannay on BBC Radio 4, the historical adventure *The Man-Eaters of Tsavo* on Springbok Radio, and Phillips H. Lord's *Gang Busters* for Sloan's Liniment (1943–1972):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 198)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `One_Night_Stand_1944.mp3` <br>*Alt*: `Stumbling (Opening Cut)`, `#360` | **"Harry James Live at the Hollywood Palladium"** | **AFRS**<br>1944-08-27<br>Program #360 | **US War Dept**<br>AFRS One Night Stand | **Harry James**, **Kitty Kallen**, **Corky Corcoran** | **AFRS Hollywood Staff** | `["Music", "Big Band", "Swing", "Jazz", "Live Performance"]` | Harry James and his Music Makers perform 'Stumbling', 'Two O'Clock Jump', and trumpet swing arrangements live from the Hollywood Palladium. |
+| `One_Night_Stand_1945.mp3` <br>*Alt*: `Sentimental Journey (Sammy Kaye)` | **"Sammy Kaye & His 'Swing and Sway' Orchestra"** | **AFRS**<br>1945-08-27<br>Program #721 | **US War Dept**<br>AFRS One Night Stand | **Sammy Kaye**, **Billy Williams**, **The Kaydets** | **AFRS New York Staff** | `["Music", "Big Band", "Swing", "Sweet Band", "Pop Standards"]` | Sammy Kaye leads his orchestra in 'Sentimental Journey', 'Gotta Be This or That', and sweet swing dance numbers for Allied service members. |
+| `The_39_Steps_Part_1_1972.mp3` <br>*Alt*: `The 39 Steps Part 1 of 2` | **"The 39 Steps (Part 1)"** | **BBC Radio 4**<br>1972-08-27<br>7:00 PM | **Sustaining**<br>BBC Radio Drama | **David Robb** (Hannay), **Ronald Baddiley** | **Peter Ling**, **Brian Miller** | `["Espionage", "Thriller", "British", "Classics", "Mystery"]` | Richard Hannay flees to the Scottish Highlands after finding a murdered spy in his London flat, evading police while carrying secrets about an enemy espionage ring. |
+| `The_39_Steps_Part_2_1972.mp3` <br>*Alt*: `The 39 Steps Part 2 of 2` | **"The 39 Steps (Part 2)"** | **BBC Radio 4**<br>1972-08-27<br>7:30 PM | **Sustaining**<br>BBC Radio Drama | **David Robb** (Hannay), **Ronald Baddiley** | **Peter Ling**, **Brian Miller** | `["Espionage", "Thriller", "British", "Classics", "Mystery"]` | Richard Hannay uncovers the covert coastal rendezvous of the German spy network, racing against time to prevent the theft of British naval defense plans. |
+| `Safari_Tsavo_1965.mp3` <br>*Alt*: `The Man Eaters of Tsabu`, `1965` | **"The Man-Eaters of Tsavo"** | **Springbok Radio**<br>1965-08-27<br>8:00 PM | **General Motors**<br>Vauxhall & Chevrolet | **John Hussey** (Narrator), **Patrick Mynhardt** | **Springbok Staff** | `["Adventure", "Historical", "Action", "Drama", "Nature"]` | Col. J.H. Patterson tracks a pair of rogue man-eating lions that have halted construction on the Uganda Railway in British East Africa. |
+| `Gangbusters_1943.mp3` <br>*Alt*: `The Case Of The Baby Faced Killer` | **"The Case of the Baby-Faced Killer"** | **NBC Blue (WJZ)**<br>1943-08-27<br>9:00 PM EWT | **Dr. Earl S. Sloan**<br>Sloan's Liniment | **Phillips H. Lord**, **H. Norman Schwarzkopf** | **Phillips H. Lord Production** | `["Docudrama", "Crime", "Police", "Investigative", "Action"]` | Law enforcement detectives track an elusive youthful gunman and armed robbery gang across state lines following a fatal daylight payroll heist. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 101
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
