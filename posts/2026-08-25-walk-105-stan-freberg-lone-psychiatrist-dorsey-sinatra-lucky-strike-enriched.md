@@ -1,0 +1,33 @@
+# Archival Dispatch: August 25 Calendar Walk — Stan Freberg (Lone Psychiatrist), Sinatra & Dorsey (Lucky Strike), and Phillips H. Lord
+
+**Date**: 2026-08-25  
+**Author**: radio index  
+**Tags**: August 25, Calendar Walk, Stan Freberg, Daws Butler, June Foray, Billy May, The Lone Psychiatrist, CBS, Frank Sinatra, Tommy Dorsey, Martha Tilton, Lucky Strike, All-Time Hit Parade, Special Investigator, Phillips H Lord, Norway Anti-Freeze, Authors Studio, Malcolm Bradbury, Martin Jarvis, BBC Radio 4, Proudly We Hail, Ken Banghart, Fred Waring, General Electric, Alternate Titles, Original Filenames
+
+---
+
+## August 25 Exhaustive Archival Metadata Enrichment (Increment 105)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, Stan Freberg's legendary western satire *The Lone Psychiatrist* with Billy May's Orchestra, Tommy Dorsey & Frank Sinatra headlining *Your All-Time Hit Parade* for Lucky Strike, Phillips H. Lord busting GI postwar housing rackets on *Special Investigator*, Malcolm Bradbury's satire on BBC Radio 4, and Fred Waring on GE (1943–1975):
+
+---
+
+## 1. *August 25 Archival Inventory (Increment 105)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lucky_Strike_1943.mp3` <br>*Alt*: `Episode`, `Tommy Dorsey Sinatra Lucky Strike` | **"All-Time Hit Parade: Frank Sinatra & Martha Tilton (Tommy Dorsey — Lucky Strike)"** | **NBC (WEAF)**<br>1943-08-25<br>8:00 PM EWT | **American Tobacco**<br>Lucky Strike Cigarettes | **Tommy Dorsey**, **Frank Sinatra**, **Martha Tilton** | **Foote, Cone & Belding**, **Basil Ruysdael** | `["Music", "Big Band", "Swing", "Pop", "Vocal"]` | "The Lucky Strike All-Time Hit Parade, brought to you by Lucky Strike Cigarettes! Tommy Dorsey leads his orchestra in America's all-time favorite musical melodies, featuring Frank Sinatra's swooning vocals on 'Night and Day' alongside Martha Tilton and The Pied Pipers for Lucky Strike." |
+| `Stan_Freberg_1957.mp3` <br>*Alt*: `The Lone Psyciatrist`, `Stan Freberg Western Satire` | **"The Lone Psychiatrist (Stan Freberg & Daws Butler — Billy May Orchestra)"** | **CBS (KNX)**<br>1957-08-25<br>7:30 PM EDT | **Sustaining**<br>Satirical Comedy | **Stan Freberg**, **Daws Butler**, **June Foray** | **Stan Freberg**, **Billy May**, **Babette Tweed** | `["Comedy", "Satire", "Parody", "Sketch", "Vocal"]` | "The Stan Freberg Show! A completely un-inhibited half hour of satire and music!" Stan Freberg skewers Western pop radio tropes in 'The Lone Psychiatrist', featuring a psychoanalyst who rides through the Old West on a couch treating neurotic gunslingers and masked vigilantes with Billy May's Orchestra. |
+| `Special_Investigator_1946.mp3` <br>*Alt*: `The Dream House Swindle`, `GI Housing Swindle Norway` | **"The Dream House Swindle (Phillips H. Lord as Special Investigator — Nor'way)"** | **Mutual (WOR)**<br>1946-08-25<br>8:30 PM EDT | **Commercial Solvents**<br>Nor'way Anti-Freeze | **Phillips H. Lord**, **Donald Cook** | **Phillips H. Lord** (Creator), **Frank Gallop** | `["Detective", "Procedural", "True Crime", "Crime", "Drama"]` | "Special Investigator, bringing you authentic exposés of rackets and swindles!" The Special Investigator goes undercover to bust a ruthless postwar real estate racket selling fake prefabricated suburban 'dream houses' to returning GI veterans and their families. |
+| `Authors_Studio_1975.mp3` <br>*Alt*: `Authors Studio 1975-08-25`, `Rates of Exchange Bradbury` | **"Rates of Exchange by Malcolm Bradbury (Martin Jarvis — BBC Radio 4)"** | **BBC Radio 4**<br>1975-08-25<br>8:30 PM BST | **Sustaining**<br>BBC Drama Workshop | **Martin Jarvis**, **Nigel Stock**, **Penelope Wilton** | **Malcolm Bradbury**, **Richard Wortley** | `["Drama", "British", "Literary", "Satire", "Human Interest"]` | "Author's Studio, the contemporary radio drama workshop from BBC Radio 4!" Malcolm Bradbury's witty academic satire explores the awkward encounters and cultural miscommunications of an innocent British linguist attending a fraught literary conference behind the Iron Curtain. |
+| `Proudly_We_Hail_1957.mp3` <br>*Alt*: `The Battle of Beef Stew Hill`, `Beef Stew Hill Army 1957` | **"The Battle of Beef Stew Hill (Host Ken Banghart — U.S. Army)"** | **U.S. Army Synd.**<br>1957-08-25<br>(Procurement Div.) | **Sustaining**<br>Army Recruiting | **Ken Banghart** (Host), **John Beal** | **U.S. Army Band**, **Ken Banghart** | `["Military", "Drama", "Action", "Historical", "Americana"]` | "Proudly We Hail, presented by the United States Army and Air Force!" Host Ken Banghart presents 'The Battle of Beef Stew Hill', recounting the gritty heroism of a stranded frontline infantry platoon that defends an isolated ridge against heavy odds while subsisting entirely on C-ration beef stew. |
+| `Fred_Waring_1947.mp3` <br>*Alt*: `Japanese Sandman`, `Fred Waring General Electric` | **"The Japanese Sandman (Fred Waring & The Pennsylvanians — General Electric)"** | **NBC (WEAF)**<br>1947-08-25<br>10:00 AM EDT | **General Electric**<br>GE Household Appliances | **Fred Waring Pennsylvanians**, **Jane Wilson** | **Waring Enterprises**, **Bill Bivens** | `["Music", "Choral", "Easy Listening", "Vocal", "Pop"]` | "The Fred Waring Show, brought to you by General Electric!" Fred Waring leads his magnificent 60-voice chorus and orchestra in lush morning harmonies, featuring an enchanting arrangement of 'The Japanese Sandman' alongside popular American standards for General Electric appliances. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 245
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
