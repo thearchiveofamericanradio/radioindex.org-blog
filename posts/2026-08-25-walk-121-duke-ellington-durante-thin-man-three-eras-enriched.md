@@ -1,0 +1,33 @@
+# Archival Dispatch: August 25 Calendar Walk — Duke Ellington (400 Club), Jimmy Durante (Camels), and The Thin Man (3 Eras)
+
+**Date**: 2026-08-25  
+**Author**: radio index  
+**Tags**: August 25, Calendar Walk, Duke Ellington, Johnny Hodges, Harry Carney, Treasury Department, War Bonds, Jimmy Durante, Garry Moore, Georgia Gibbs, Camel Cigarettes, Murder Clinic, The Thinking Machine, Jacques Futrelle, Adventures of the Thin Man, Nick and Nora Charles, Les Tremayne, David Gothard, Joseph Curtin, Claudia Morgan, Post Toasties, Pabst Blue Ribbon, Magnavox, Alternate Titles, Original Filenames
+
+---
+
+## August 25 Exhaustive Archival Metadata Enrichment (Increment 121)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, Duke Ellington's live Treasury broadcast from the 400 Restaurant in Manhattan, Jimmy Durante & Garry Moore on the *Camel Caravan*, Jacques Futrelle's 'The Thinking Machine' solving *The Flaming Phantom* on *Murder Clinic*, and three iconic eras of *The Adventures of the Thin Man* with Nick & Nora Charles (1942–1950):
+
+---
+
+## 1. *August 25 Archival Inventory (Increment 121)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Duke_Ellington_1945.mp3` <br>*Alt*: `Mood Indigo`, `Duke Ellington 400 Club 1945` | **"Mood Indigo: Live at the 400 Club (Duke Ellington & His Famous Orchestra — Treasury)"** | **ABC (WJZ)**<br>1945-08-25<br>5:00 PM EWT | **U.S. Treasury**<br>War Bonds & Stamps | **Duke Ellington Orchestra**, **Johnny Hodges** | **U.S. Treasury**, **Ernest Ricca** | `["Music", "Jazz", "Big Band", "Swing", "Live"]` | "Your Date with the Duke, starring Duke Ellington and his Famous Orchestra, presented by the United States Treasury Department!" Live from the 400 Restaurant in Manhattan, Duke Ellington leads his orchestra in a sublime performance of 'Mood Indigo', 'Frantic Fantasy', and 'In a Sentimental Mood' in support of the War Bond campaign. |
+| `Jimmy_Durante_1944.mp3` <br>*Alt*: `Jimmy Durante 1944-08-25`, `Durante Moore Camel 1944` | **"Musical Arguments and Mrs. Calabash (Jimmy Durante & Garry Moore — Camel Cigarettes)"** | **CBS (WABC)**<br>1944-08-25<br>10:00 PM EWT | **R.J. Reynolds**<br>Camel Cigarettes | **Jimmy Durante**, **Garry Moore**, **Georgia Gibbs** | **Phil Cohan** (Dir.), **Howard Petrie** | `["Comedy", "Variety", "Vaudeville", "Music", "Parody"]` | "The Camel Caravan, starring Jimmy Durante and Garry Moore!" Jimmy 'The Schnozzola' Durante and Garry Moore team up for hilarious musical arguments, vaudeville banter, and Georgia Gibbs' swinging vocals, ending with Jimmy's affectionate signoff 'Goodnight, Mrs. Calabash, wherever you are!' for Camel Cigarettes. |
+| `Murder_Clinic_1942.mp3` <br>*Alt*: `The Flaming Phantom`, `Thinking Machine Flaming Phantom` | **"The Flaming Phantom by Jacques Futrelle (The Thinking Machine — Murder Clinic)"** | **Mutual (WOR)**<br>1942-08-25<br>9:30 PM EWT | **Sustaining**<br>Master Detective Series | **Arthur Hughes** (Thinking Machine), **Carl Eastman** | **Jacques Futrelle**, **Jock MacGregor**, **Frank Waldecker** | `["Detective", "Mystery", "Classics", "Cerebral", "Crime"]` | "The Murder Clinic, presenting the world's greatest fictional detectives!" In Jacques Futrelle's 'The Flaming Phantom', brilliant logician Professor Augustus S.F.X. Van Dusen (The Thinking Machine) applies cold deduction to expose a spectral luminous apparition haunting a secluded estate as a chemical parlor trick masking a murder plot. |
+| `Thin_Man_1944.mp3` <br>*Alt*: `TCOT Jitterbugging Cop`, `The Case of the Jitterbugging Cop` | **"The Case of the Jitterbugging Cop (Les Tremayne & Claudia Morgan — Post Toasties)"** | **CBS (WABC)**<br>1944-08-25<br>8:30 PM EWT | **General Foods**<br>Post Toasties Corn Flakes | **Les Tremayne** (Nick), **Claudia Morgan** (Nora) | **Dashiell Hammett**, **Himan Brown**, **Ron Rawson** | `["Detective", "Comedy", "Mystery", "Hardboiled", "Marriage"]` | "The Adventures of the Thin Man, created by Dashiell Hammett, brought to you by Post Toasties!" Suave detective Nick Charles and his glamorous wife Nora investigate the baffling homicide of an off-duty patrolman found dancing in a swing ballroom before collapsing from poison, unmasking a dance-hall smuggling ring for Post Toasties. |
+| `Thin_Man_1948.mp3` <br>*Alt*: `TCOT Lonely Fifty Grand --- [same title as - 44/09/29]`, `Case Lonely Fifty Grand` | **"The Case of the Lonely Fifty Grand (David Gothard & Claudia Morgan — Pabst Blue Ribbon)"** | **NBC (WEAF)**<br>1948-08-25<br>9:00 PM EDT | **Pabst Brewing Co.**<br>Pabst Blue Ribbon Beer | **David Gothard** (Nick), **Claudia Morgan** (Nora) | **Dashiell Hammett**, **Himan Brown**, **Frank Gallop** | `["Detective", "Comedy", "Mystery", "Hardboiled", "Marriage"]` | "Pabst Blue Ribbon presents The Adventures of the Thin Man!" Nick and Nora Charles are approached by a nervous Broadway bookmaker who finds an unclaimed satchel containing $50,000 in marked ransom bills, drawing the witty couple into an extortion racket with lethal stakes for Pabst Blue Ribbon. |
+| `Thin_Man_1950.mp3` <br>*Alt*: `Thin Man 1950-08-25`, `The Case of the Wandering Corpse` | **"The Case of the Wandering Corpse (Joseph Curtin & Claudia Morgan — Magnavox)"** | **ABC (WJZ)**<br>1950-08-25<br>9:00 PM EDT | **Magnavox Co.**<br>Magnavox TV & Radio | **Joseph Curtin** (Nick), **Claudia Morgan** (Nora) | **Dashiell Hammett**, **Himan Brown**, **Ron Rawson** | `["Detective", "Comedy", "Mystery", "Hardboiled", "Marriage"]` | "The Adventures of the Thin Man, starring Joseph Curtin and Claudia Morgan!" Nick and Nora Charles investigate the bizarre disappearance of a wealthy recluse's body from a locked family mausoleum, discovering a hidden subterranean gambling casino underneath the cemetery for Magnavox. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 341
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
