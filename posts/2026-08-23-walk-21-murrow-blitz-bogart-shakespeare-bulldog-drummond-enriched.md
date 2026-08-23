@@ -1,0 +1,33 @@
+# Archival Dispatch: August 23 Calendar Walk — Edward R. Murrow's London Blitz, Bogart's Shakespeare, and Bulldog Drummond
+
+**Date**: 2026-08-23  
+**Author**: radio index  
+**Tags**: August 23, Calendar Walk, CBS World News Tonight, Edward R Murrow, Elmer Davis, Battle of Britain, London Blitz, The Silver Eagle, Jim Ameche, General Mills Kix, Easy Money, Willard Waterman, Columbia Presents Shakespeare, Walter Huston, Humphrey Bogart, Brian Aherne, Bulldog Drummond, Ned Wever, Himan Brown, Mary Noble Backstage Wife, Claire Niesen, Procter and Gamble, Alternate Titles, Original Filenames
+
+---
+
+## August 23 Exhaustive Archival Metadata Enrichment (Increment 21)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American network broadcasting history (1937–1951):
+
+---
+
+## 1. *August 23 Archival Inventory (Increment 21)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `CBS_News_1940_08_23.mp3` <br>*Alt*: `Nighttime Blitzkrieg London`, `Murrow London Rooftop` | **"CBS World News Tonight: Nighttime Blitzkrieg Opens on London (Edward R. Murrow)"** | **CBS (WABC)**<br>1940-08-23<br>6:45 PM EDST | **Sustaining**<br>CBS News Presentation | **Elmer Davis** (New York), **Edward R. Murrow** (London), **William L. Shirer** | **Paul White** (News Director), CBS News | `["News", "War", "Historical", "Documentary"]` | Anchor Elmer Davis coordinates live CBS shortwave reports as Edward R. Murrow reports live from a London rooftop amidst air raid sirens during the first nighttime German Luftwaffe bombing incendiary raids over central London. |
+| `Silver_Eagle_1951_08_23.mp3` <br>*Alt*: `Black Fox Hudson Bay`, `Jim West Kix 1951` | **"The Black Fox of Hudson Bay (Inspector Jim West — Kix)"** | **ABC (WENR)**<br>1951-08-23<br>7:30 PM EDT | **General Mills**<br>Kix Corn Cereal & Wheaties | **Jim Ameche** (Inspector Jim West), **Jack Lester** (Joe Bideaux) | **Gibson Scott Fox** (Writer), **James E. Jewell** (Creator), **Ed Prentiss** | `["Western", "Adventure", "Action", "Children"]` | Inspector Jim West of the Royal Canadian Mounted Police and French-Canadian woodsman Joe Bideaux mush through blinding blizzards along Hudson Bay to capture a ruthless fur-poaching outlaw known as the Black Fox. |
+| `Easy_Money_1946_08_23.mp3` <br>*Alt*: `Staged Accident Racket`, `Fake Injury Swindle` | **"The Staged Automobile Accident Racket (Inspector Mike Ryan)"** | **Mutual (WOR)**<br>1946-08-23<br>8:30 PM EDT | **Sustaining**<br>Public Service Crime Expose | **Willard Waterman** (Inspector Mike Ryan), **Herb Butterfield**, **Janet Logan** | **Robert Newman** (Writer), **Sherman H. Dryer** (Director), **Carl Warren** | `["Crime", "Drama", "Docudrama", "True Crime"]` | Inspector Mike Ryan exposes the fraudulent inner workings of an organized insurance scam where crooked mechanics and staged car crashes bilk insurance companies out of hundreds of thousands in fraudulent bodily injury claims. |
+| `Shakespeare_1937_08_23.mp3` <br>*Alt*: `Henry IV`, `Shakespeare Huston Bogart` | **"King Henry IV (Starring Walter Huston, Brian Aherne & Humphrey Bogart as Hotspur)"** | **CBS (WABC)**<br>1937-08-23<br>9:00 PM EDST | **Sustaining**<br>CBS Cultural Presentation | **Walter Huston** (Henry IV), **Brian Aherne**, **Walter Hampden**, **Humphrey Bogart** | **Brewster Morgan** (Adapter & Director), **Victor Bay**, **Bob Trout** | `["Drama", "Historical", "Literature", "Theatre"]` | Walter Huston stars as King Henry IV alongside Brian Aherne as Prince Hal, Walter Hampden as Falstaff, and Humphrey Bogart as Hotspur in Brewster Morgan's acclaimed radio adaptation of William Shakespeare's historical epic culminating in the Battle of Shrewsbury. |
+| `Bulldog_Drummond_1943_08_23.mp3` <br>*Alt*: `Lobster Secret`, `Maine Lobster Microfilm` | **"The Case of the Lobster Secret (Starring Ned Wever)"** | **Mutual (WOR)**<br>1943-08-23<br>8:30 PM EWT | **Sustaining**<br>Mutual Mystery Drama | **Ned Wever** (Bulldog Drummond), **Luis Van Rooten**, **Ray Collins** | **B.P. Freeman** (Writer), **Himan Brown** (Director), **Henry Morgan** | `["Detective", "Mystery", "Adventure", "Crime"]` | Captain Hugh 'Bulldog' Drummond and loyal valet Denny investigate a Maine coastal fishing village where live lobsters are being used to smuggle microfilmed military secrets to foreign agents aboard a waiting offshore trawler. |
+| `Mary_Noble_1950_08_23.mp3` <br>*Alt*: `Julia Decided Run Away`, `Backstage Wife Cheer` | **"Julia's Impulsive Elopement with Oliver (Procter & Gamble Cheer)"** | **NBC (WNBC)**<br>1950-08-23<br>4:00 PM EDT | **Procter & Gamble**<br>White Naptha Soap & Cheer | **Claire Niesen** (Mary Noble), **Guy Sorel**, **Patricia Dunlap**, **Mandel Kramer** | **Elizabeth Todd** (Writer), **Richard Leonard** (Director), **Ford Bond** | `["Soap Opera", "Romance", "Drama"]` | Mary Noble frantically races against time to counsel headstrong young Julia before she makes the fatal mistake of eloping with deceptive fortune-hunter Oliver, risking the ruin of the Noble family's Broadway theatrical production. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 126
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
