@@ -1,0 +1,33 @@
+# Archival Dispatch: August 25 Calendar Walk — Smiley Burnette (Weber's Bread), Milton Cross (Lower Basin Street), and Voice of the Army
+
+**Date**: 2026-08-25  
+**Author**: radio index  
+**Tags**: August 25, Calendar Walk, All-Star Western Theater, Smiley Burnette, Foy Willing, Webers Bread, Chamber Music Society of Lower Basin Street, Milton Cross, Loumell Morgan Trio, Woodbury Soap, Voice of the Army, SSgt Dick Dudley, US Army, Audition Theatre, Michael Kitchen, James Saunders, BBC Radio 4, Up for Parole, Bill Johnstone, William N Robson, Alternate Titles, Original Filenames
+
+---
+
+## August 25 Exhaustive Archival Metadata Enrichment (Increment 87)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, Western musical comedy starring Smiley Burnette, satirical Dixieland chamber jazz with Milton Cross, immediate post-war military retrospectives, criminal justice parole board docudramas, and British psychological medical plays starring Michael Kitchen (1941–1990):
+
+---
+
+## 1. *August 25 Archival Inventory (Increment 87)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Voice_Army_1945.mp3` <br>*Alt*: `Unfinished Story`, `Soldier Unfinished Story` | **"The Soldier's Unfinished Story (SSgt. Dick Dudley — U.S. Army)"** | **U.S. Army Synd.**<br>1945-08-25<br>(Recruiting Bureau) | **Sustaining**<br>Army Demobilization | **SSgt. Dick Dudley** (Host), **U.S. Army Band** | **Army Recruiting Publicity Bureau**, **Bob Warren** | `["Documentary", "Military", "Historical", "World War II", "Public Affairs"]` | "Voice of the Army! Dedicated to the men and women of the United States Army!" A poignant post-V-J Day dramatization reflecting on the sacrifices of GI soldiers and the vital ongoing mission of occupation forces and military rehabilitation in the post-war world. |
+| `Lower_Basin_1941.mp3` <br>*Alt*: `Guests Lumel Morgan Trio`, `Loumell Morgan Woodbury` | **"Guest The Loumell Morgan Chamber Trio (Milton Cross — Woodbury Soap)"** | **NBC Blue (WJZ)**<br>1941-08-25<br>9:00 PM EDST | **Andrew Jergens Co.**<br>Woodbury Facial Soap | **Milton Cross**, **Loumell Morgan Trio**, **Henry Levine** | **Welbourn Kelley**, **Joseph Losey**, **Jimmy Wallington** | `["Music", "Jazz", "Dixieland", "Comedy", "Satire"]` | "The Chamber Music Society of Lower Basin Street, devoted to the three Ts: Barrelhouse, Boogie-Woogie, and the Blues!" Stately opera announcer Milton Cross satirizes classical concerts, welcoming the swinging Loumell Morgan Chamber Trio for hot jazz versions of 'Bow Wow Blues' for Woodbury Soap. |
+| `Audition_Bronson_Take1.mp3` <br>*Alt*: `The Last Of Dr Bronson`, `Michael Kitchen Bronson Take 1` | **"The Last of Dr. Bronson (Take 1 — Starring Michael Kitchen — BBC Radio 4)"** | **BBC Radio 4**<br>1990-08-25<br>10:15 PM BST | **Sustaining**<br>BBC Drama Showcase | **Michael Kitchen** (Dr. Bronson), **Harriet Walter** | **James Saunders** (Writer), **Richard Wortley** | `["Drama", "Psychological", "Medical", "Mystery", "British"]` | "Audition Theatre presents The Last of Dr. Bronson..." Michael Kitchen stars as an aging, reclusive medical researcher whose controversial final clinical findings threaten to unravel his career and expose long-buried academic deception. |
+| `Audition_Bronson_Master.mp3` <br>*Alt*: `The Last Of Dr Bronson Master`, `Michael Kitchen Bronson BBC` | **"The Last of Dr. Bronson (Broadcast Master — Michael Kitchen — BBC Radio 4)"** | **BBC Radio 4**<br>1990-08-25<br>11:00 PM BST | **Sustaining**<br>BBC Radio 4 Drama | **Michael Kitchen** (Dr. Bronson), **Harriet Walter** | **James Saunders**, **Richard Wortley**, **Ilona Sekacz** | `["Drama", "Psychological", "Medical", "Mystery", "British"]` | In this complete broadcast presentation of James Saunders' tense psychological drama, Dr. Bronson confronts his estranged colleagues during a fateful midnight laboratory gathering to reveal the dangerous truth about his life's work. |
+| `Up_For_Parole_1950.mp3` <br>*Alt*: `Up For Parole 1950`, `Frank Nolan Bill Johnstone` | **"The Case of Frank Nolan (Bill Johnstone — Up for Parole — CBS)"** | **CBS (KNX)**<br>1950-08-25<br>9:30 PM EDT | **Sustaining**<br>Criminal Justice Drama | **Bill Johnstone** (Chairman), **Virginia Gregg** | **William N. Robson** (Dir.), **E. Jack Neuman**, **Roy Rowan** | `["Drama", "Docudrama", "Legal", "Prison", "Crime"]` | "Up for Parole... the dramatized true case histories of men and women behind prison walls seeking a second chance." The parole board reviews the petition of a reformed embezzler who served seven years in state prison, debating whether society is ready to welcome his rehabilitation. |
+| `All_Star_Western_1946.mp3` <br>*Alt*: `Guest Smiley Burnette`, `Smiley Burnette Webers Bread` | **"Guest Smiley Burnette (Foy Willing & The Purple Sage — Weber's Bread)"** | **CBS Pacific**<br>1946-08-25<br>5:30 PM PST | **Interstate Bakeries**<br>Weber's Bread | **Smiley Burnette**, **Foy Willing & Purple Sage** | **Walter Johnson**, **Cottonseed Clark**, **Arthur Gilmore** | `["Western", "Music", "Comedy", "Country", "Variety"]` | "All-Star Western Theater, brought to you by Weber's Bread!" Cowboy comedy legend Smiley Burnette joins Foy Willing and the Riders of the Purple Sage for uproarious frontier western songs, accordion antics, and the comedic musical tale of 'Frog Millpond' for Weber's Bread. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 137
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
