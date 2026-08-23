@@ -1,0 +1,33 @@
+# Archival Dispatch: August 23 Calendar Walk — Gene Autry, Information Please, and The Quiz Kids
+
+**Date**: 2026-08-23  
+**Author**: radio index  
+**Tags**: August 23, Calendar Walk, Gene Autry, Melody Ranch, Pat Buttram, Cass County Boys, Doublemint Gum, All-Star Western Theater, Foy Willing, Riders of the Purple Sage, Jimmy Wakely, Information Please, Clifton Fadiman, Franklin P Adams, John Kieran, The Quiz Kids, Joe Kelly, Gerard Darrow, Alka-Seltzer, Columbia Presents, Shakespeare, Walter Huston, Humphrey Bogart, Alternate Titles, Original Filenames
+
+---
+
+## August 23 Exhaustive Archival Metadata Enrichment (Increment 26)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American network broadcasting history (1937–1953):
+
+---
+
+## 1. *August 23 Archival Inventory (Increment 26)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Western_Theater_1947_08_23.mp3` <br>*Alt*: `Music Excerpts Only`, `Foy Willing Purple Sage` | **"Foy Willing & the Riders of the Purple Sage with Guest Jimmy Wakely"** | **Don Lee / Mutual**<br>1947-08-23<br>9:00 PM PST | **Weber's Bread**<br>Pacific Advertisers | **Foy Willing & Riders of the Purple Sage**, **Jimmy Wakely** | **James Vandiveer** (Producer), **Cottonseed Clark** | `["Western", "Country", "Music", "Variety"]` | Foy Willing and the Riders of the Purple Sage join singing cowboy Jimmy Wakely in a high-spirited session of western swing and cowboy ballads, featuring 'Texas Plains', 'Cool Water', and 'Along the Navajo Trail'. |
+| `Info_Please_1938_08_23.mp3` <br>*Alt*: `015 Percy Waxman`, `Information Please 15` | **"Information Please #15: Clifton Fadiman with Guests Percy Waxman & Marcus Duffield"** | **NBC Blue (WJZ)**<br>1938-08-23<br>8:00 PM EDST | **Sustaining**<br>NBC Cultural Quiz | **Clifton Fadiman** (Quizmaster), **F.P.A.**, **John Kieran**, **Percy Waxman** | **Dan Golenpaul** (Producer), **Milton Cross** (Announcer) | `["Game Show", "Quiz", "Educational", "Literature", "Comedy"]` | Quizmaster Clifton Fadiman stumps regular savants Franklin P. Adams and John Kieran alongside guest editors Percy Waxman and Marcus Duffield with listeners' intellectual queries spanning 19th-century British poetry, classical opera scores, and baseball history. |
+| `Columbia_Presents_1937_08_23.mp3` <br>*Alt*: `Henry Iv`, `Shakespeare Huston Bogart` | **"William Shakespeare's King Henry IV (Starring Walter Huston & Humphrey Bogart)"** | **CBS (WABC)**<br>1937-08-23<br>9:00 PM EDST | **Sustaining**<br>CBS Cultural Drama | **Walter Huston** (Henry IV), **Brian Aherne**, **Walter Hampden**, **Humphrey Bogart** | **Brewster Morgan** (Director), **Victor Bay**, **Bob Trout** | `["Drama", "Historical", "Literature", "Theatre"]` | Walter Huston stars as King Henry IV alongside Brian Aherne as Prince Hal, Walter Hampden as Falstaff, and Humphrey Bogart as Hotspur in Brewster Morgan's acclaimed radio adaptation of William Shakespeare's historical epic culminating in the Battle of Shrewsbury. |
+| `Melody_Ranch_1952_08_23.mp3` <br>*Alt*: `Sonora Trail`, `Melody Ranch Doublemint 1952` | **"Gene Autry's Melody Ranch with Pat Buttram & The Cass County Boys (Doublemint)"** | **CBS (KNX)**<br>1952-08-23<br>8:00 PM EDT | **Wm. Wrigley Jr. Co.**<br>Doublemint Chewing Gum | **Gene Autry**, **Pat Buttram**, **The Cass County Boys**, **The Pinafores** | **Bill Burch** (Director), **Charlie Lyon** (Announcer) | `["Western", "Music", "Country", "Comedy", "Variety"]` | America's favorite cowboy Gene Autry and sidekick Pat Buttram entertain ranch visitors with rustic western comedy and classic cowboy tunes, featuring 'Back in the Saddle Again', 'Tweedle-O-Twill', and western harmonizing by The Cass County Boys. |
+| `Melody_Ranch_1953_08_23.mp3` <br>*Alt*: `Cattle Rustlers Red Rock`, `Gene Autry 1953` | **"Cattle Rustlers of Red Rock Canyon (Doublemint Gum)"** | **CBS (KNX)**<br>1953-08-23<br>7:00 PM EDT | **Wm. Wrigley Jr. Co.**<br>Doublemint Chewing Gum | **Gene Autry**, **Pat Buttram**, **The Cass County Boys**, **The King Sisters** | **Bill Burch** (Director), **Charlie Lyon** (Announcer) | `["Western", "Music", "Country", "Comedy", "Variety"]` | Gene Autry stars in a fast-paced ranch adventure tracking cattle rustlers through Red Rock Canyon before joining Pat Buttram and The Cass County Boys for songs including 'Sierra Nevada' and 'Riders in the Sky'. |
+| `Quiz_Kids_1940_08_23.mp3` <br>*Alt*: `Quiz Kids 9`, `Gerard Darrow Nature Quiz` | **"The Quiz Kids: Joe Kelly with Prodigies Gerard Darrow & Joan Bishop (Alka-Seltzer)"** | **NBC Blue (WJZ)**<br>1940-08-23<br>10:30 PM EDST | **Miles Laboratories**<br>Alka-Seltzer & One-A-Day | **Joe Kelly** (Quizmaster), **Gerard Darrow**, **Joan Bishop**, **Van Dyke Tiers** | **Louis G. Cowan** (Creator), **Bob Brown** (Announcer) | `["Game Show", "Quiz", "Children", "Educational"]` | Master of ceremonies Joe Kelly grills child prodigies Gerard Darrow, Joan Bishop, and Van Dyke Tiers with brain-twisting questions submitted by listeners on ornithology, algebraic equations, and world geography for Alka-Seltzer savings bonds. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 156
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
