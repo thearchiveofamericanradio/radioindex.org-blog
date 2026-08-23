@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Bob and Ray, Speed Gibson, and The Navy Lark
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Bob and Ray, Bob Elliott, Ray Goulding, WHDH Boston, Mary Backstayge, NBC, Speed Gibson, Secret Police, International Secret Police, Gold Coast Revue, Springbok Radio, SABC, The Navy Lark, Stephen Murray, Leslie Phillips, Jon Pertwee, Ronnie Barker, BBC, Gasoline Alley, Skeezix, Frank King, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 200)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American, British, and South African radio, two comedic showcases with Bob Elliott and Ray Goulding on *Bob and Ray* (1948 WHDH Boston and 1952 NBC), aviation secret police serial *Speed Gibson*, highlife and Afro-jazz on *Gold Coast Revue*, Stephen Murray and Ronnie Barker in *The Navy Lark* on the BBC, and Frank King's beloved comic strip adaptation *Gasoline Alley* (1938–1967):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 200)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Bob_and_Ray_1948.mp3` <br>*Alt*: `Matinee With Bob and Ray`, `WHDH 1948` | **"Matinee with Bob and Ray"** | **WHDH Boston**<br>1948-08-27<br>2:00 PM | **Sustaining**<br>Boston Variety | **Bob Elliott**, **Ray Goulding** | **Bob & Ray Production** | `["Comedy", "Satire", "Improv", "Parody", "Sketch"]` | Bob and Ray satirize local Boston radio commercials, trade dry deadpan banter, and improvise spoofs of daytime advice programs. |
+| `Bob_and_Ray_1952.mp3` <br>*Alt*: `Mary Backstayge Gunk Experiment` | **"Mary Backstayge & The Gunk Experiment"** | **NBC (WNBC)**<br>1952-08-27<br>5:45 PM EDT | **Sustaining**<br>NBC Comedy | **Bob Elliott**, **Ray Goulding** | **Bob & Ray**, **NBC Staff** | `["Comedy", "Satire", "Improv", "Parody", "Sketch"]` | Bob and Ray present a new chapter of 'Mary Backstayge, Noble Wife', followed by an interview with a clueless laboratory scientist inventing a miraculous sludge. |
+| `Speed_Gibson_1938.mp3` <br>*Alt*: `Splinter And Wu Are Captured`, `Part 34` | **"Splinter and Barney Captured (Part 34)"** | **Syndicated**<br>1938-08-27<br>Serial | **Sustaining**<br>Children's Serial | **John Gibson** (Speed), **Elliott Lewis** (Barlow) | **Howard McNear**, **World Broadcasting** | `["Adventure", "Aviation", "Juvenile", "Action", "Espionage"]` | Speed Gibson flies his aircraft into the Himalayan mountains to rescue Splinter and Barney after they are ambushed by the Octopus cartel's henchmen. |
+| `Gold_Coast_Revue_1957.mp3` <br>*Alt*: `African Jazz & Rhythms`, `Springbok 1957` | **"African Jazz & Rhythms"** | **Springbok Radio**<br>1957-08-27 | **Commercial**<br>Variety Sponsors | **Gold Coast Revue Troupe**, **Dance Band** | **SABC Production** | `["Music", "Jazz", "Variety", "World", "Afro-Jazz"]` | An energetic musical variety showcase presenting highlife rhythms, West African brass arrangements, and comedic sketches. |
+| `Navy_Lark_1967.mp3` <br>*Alt*: `Mr. Murray's Endurance Course`, `BBC 1967` | **"Mr. Murray's Endurance Course"** | **BBC Light**<br>1967-08-27<br>1:30 PM | **Sustaining**<br>BBC Comedy | **Stephen Murray**, **Leslie Phillips**, **Ronnie Barker** | **Lawrie Wyman**, **Alastair Scott Johnston** | `["Comedy", "Military", "British", "Satire", "Sitcom"]` | The crew of HMS Troutbridge attempts to navigate Sub-Lieutenant Phillips through Number One's rigorous physical fitness obstacle course. |
+| `Gasoline_Alley_1948.mp3` <br>*Alt*: `Skeezix and Uncle Walt`, `Carburetor Repair` | **"Skeezix and Uncle Walt's New Invention"** | **Mutual / Synd**<br>1948-08-27<br>5:30 PM | **Local Sponsors**<br>Family Sitcom | **Bill Lipton** (Skeezix), **Cliff Soubier** (Walt) | **Frank King** (Creator) | `["Comedy", "Americana", "Domestic", "Family", "Sitcom"]` | Uncle Walt Wallet and Skeezix attempt to fix an unruly automobile carburetor in the garage before Nina and Aunt Phyllis discover the mess. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 113
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
