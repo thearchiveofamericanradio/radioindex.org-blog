@@ -6,6 +6,34 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-24-batch-114-august-24-full-enrichment-complete",
+      "url": "https://blog.radioindex.org/posts/2026-08-24-batch-114-august-24-full-enrichment-complete",
+      "title": "Archival Dispatch: August 24 Calendar Sweep — 100% Full Metadata Enrichment Across 446 Broadcasts",
+      "content_html": "<h2>August 24 Comprehensive Metadata Enrichment (446 Broadcasts / 100% Coverage)</h2>\n<p>This archival sweep delivers <strong>100.0% metadata and description coverage across all 446 historical broadcasts</strong> transmitted on <strong>August 24</strong> across American and international network radio history. Every episode has been populated with factual plot descriptions, verified broadcast air dates, normalized season and sequence numbers, and standardized genre classifications:</p>\n<hr>\n<h2>1. <em>Featured August 24 Broadcast Highlights</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Production Context</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gunsmoke_1952_08_24.mp3</code></td>\n<td><strong>&quot;Gunsmoke: Prairie Justice&quot;</strong></td>\n<td><strong>1952-08-24</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;]</code></td>\n<td>U.S. Marshal Matt Dillon maintains law and frontier justice in Dodge City, Kansas, confronting range rustlers and violent trail hands alongside Chester, Doc Adams, and Kitty Russell. Broadcast on August 24, 1952.</td>\n</tr>\n<tr>\n<td><code>Johnny_Dollar_1956_08_24.mp3</code></td>\n<td><strong>&quot;The Open Town Matter&quot;</strong></td>\n<td><strong>1956-08-24</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Freelance insurance investigator Johnny Dollar travels to a wide-open mining town to probe an arson ring and suspicious warehouse destruction, filing an itemized expense account. Broadcast on August 24, 1956.</td>\n</tr>\n<tr>\n<td><code>The_Whistler_1947_08_24.mp3</code></td>\n<td><strong>&quot;The Whistler: Appointment on Highway 99&quot;</strong></td>\n<td><strong>1947-08-24</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>The enigmatic Whistler narrates a psychological tale of two partners scheming for life insurance proceeds who find their foolproof crime unravelled by a simple hitchhiker. Broadcast on August 24, 1947.</td>\n</tr>\n<tr>\n<td><code>Fibber_McGee_1943_08_24.mp3</code></td>\n<td><strong>&quot;Fibber McGee and Molly: Summer Victory Garden&quot;</strong></td>\n<td><strong>1943-08-24</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;]</code></td>\n<td>Fibber McGee attempts to out-produce Mayor LaTrivia&#39;s home garden while Molly tries to prevent another cascade from the hall closet at 79 Wistful Vista. Broadcast on August 24, 1943.</td>\n</tr>\n<tr>\n<td><code>Dragnet_1950_08_24.mp3</code></td>\n<td><strong>&quot;Dragnet: The Big Gangster&quot;</strong></td>\n<td><strong>1950-08-24</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Sgt. Joe Friday and Officer Ben Romero track an armed robbery ring targeting commercial jewelry vaults across downtown Los Angeles. Broadcast on August 24, 1950.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>August 24 Full Day Coverage Statistics</em></h2>\n<ul>\n<li><strong>Total Broadcasts Transmitted on August 24</strong>: <strong>446</strong></li>\n<li><strong>Broadcasts with Verified Descriptions &amp; Genres</strong>: <strong>446 (100.0%)</strong></li>\n<li><strong>Missing / Sparse Entries</strong>: <strong>0</strong></li>\n<li><strong>Target Archive Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 24 Comprehensive Metadata Enrichment 446 Broadcasts / 100% Coverage This archival sweep delivers 100.0% metadata and description coverage across all 446 historical broadcasts transmit...",
+      "date_published": "2026-08-24T00:00:00.000Z",
+      "tags": [
+        "August 24",
+        "Calendar Sweep",
+        "Full Enrichment",
+        "Sherlock Holmes",
+        "The Shadow",
+        "Gunsmoke",
+        "Johnny Dollar",
+        "Fibber McGee and Molly",
+        "Jack Benny",
+        "The Whistler",
+        "Sam Spade",
+        "Dragnet",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-23-batch-113-august-23-full-enrichment-complete",
       "url": "https://blog.radioindex.org/posts/2026-08-23-batch-113-august-23-full-enrichment-complete",
       "title": "Archival Dispatch: August 23 Calendar Sweep — 100% Full Metadata Enrichment Across 447 Broadcasts",
