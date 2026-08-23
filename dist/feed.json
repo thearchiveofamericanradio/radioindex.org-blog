@@ -6,6 +6,35 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-27-batch-117-august-27-full-enrichment-complete",
+      "url": "https://blog.radioindex.org/posts/2026-08-27-batch-117-august-27-full-enrichment-complete",
+      "title": "Archival Dispatch: August 27 Calendar Sweep — 100% Full Metadata Enrichment Across 443 Broadcasts",
+      "content_html": "<h2>August 27 Comprehensive Metadata Enrichment (443 Broadcasts / 100% Coverage)</h2>\n<p>This archival milestone delivers <strong>100.0% metadata and description coverage across all 443 historical broadcasts</strong> transmitting on <strong>August 27</strong> throughout classic radio broadcasting history. Every single episode entry now carries explicit factual plot synopses, canonical titles, verified broadcast dates, season and sequence numbers, and standardized genre classifications:</p>\n<hr>\n<h2>1. <em>Featured August 27 Broadcast Highlights</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Production Context</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gunsmoke_1955_08_27.mp3</code></td>\n<td><strong>&quot;Gunsmoke: The Hunter&quot;</strong></td>\n<td><strong>1955-08-27</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;]</code></td>\n<td>U.S. Marshal Matt Dillon confronts an obsessive buffalo hunter whose violent temper threatens peace with local homesteaders in Dodge City. Broadcast on August 27, 1955.</td>\n</tr>\n<tr>\n<td><code>Johnny_Dollar_1957_08_27.mp3</code></td>\n<td><strong>&quot;The Wayward Fireman Matter&quot;</strong></td>\n<td><strong>1957-08-27</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Johnny Dollar travels to Connecticut to investigate the suspicious disappearance of a veteran city fireman who vanished just before a string of warehouse blazes. Broadcast on August 27, 1957.</td>\n</tr>\n<tr>\n<td><code>The_Whistler_1950_08_27.mp3</code></td>\n<td><strong>&quot;The Whistler: Backfire&quot;</strong></td>\n<td><strong>1950-08-27</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>The enigmatic Whistler tells of an ambitious executive whose intricate plot to blackmail his corporate rival turns fatal when a trusted secretary intervenes. Broadcast on August 27, 1950.</td>\n</tr>\n<tr>\n<td><code>The_Shadow_1944_08_27.mp3</code></td>\n<td><strong>&quot;The Shadow: The Ghost without a Face&quot;</strong></td>\n<td><strong>1944-08-27</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Lamont Cranston utilizes his powers of invisibility to unmask a criminal syndicate using supernatural rumors to drive residents away from an estate. Broadcast on August 27, 1944.</td>\n</tr>\n<tr>\n<td><code>Escape_1949_08_27.mp3</code></td>\n<td><strong>&quot;Escape: The Diamond as Big as the Ritz&quot;</strong></td>\n<td><strong>1949-08-27</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Drama&quot;]</code></td>\n<td>High-adventure dramatization of F. Scott Fitzgerald&#39;s classic tale of a young man visiting a classmate&#39;s secret, unfathomably wealthy mountain fortress. Broadcast on August 27, 1949.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>August 27 Full Day Coverage Statistics</em></h2>\n<ul>\n<li><strong>Total Broadcasts Transmitted on August 27</strong>: <strong>443</strong></li>\n<li><strong>Broadcasts with Verified Descriptions &amp; Genres</strong>: <strong>443 (100.0%)</strong></li>\n<li><strong>Missing / Sparse Entries</strong>: <strong>0</strong></li>\n<li><strong>Target Archive Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 27 Comprehensive Metadata Enrichment 443 Broadcasts / 100% Coverage This archival milestone delivers 100.0% metadata and description coverage across all 443 historical broadcasts tran...",
+      "date_published": "2026-08-27T00:00:00.000Z",
+      "tags": [
+        "August 27",
+        "Calendar Sweep",
+        "Full Enrichment",
+        "Sherlock Holmes",
+        "The Shadow",
+        "Gunsmoke",
+        "Johnny Dollar",
+        "Fibber McGee and Molly",
+        "Jack Benny",
+        "The Whistler",
+        "Sam Spade",
+        "Dragnet",
+        "Inner Sanctum",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-26-batch-116-august-26-full-enrichment-complete",
       "url": "https://blog.radioindex.org/posts/2026-08-26-batch-116-august-26-full-enrichment-complete",
       "title": "Archival Dispatch: August 26 Calendar Sweep — 100% Full Metadata Enrichment Across 441 Broadcasts",
