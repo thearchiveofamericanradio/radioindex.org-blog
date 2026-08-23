@@ -1,0 +1,33 @@
+# Archival Dispatch: August 24 Calendar Walk — The Mysterious Traveler, Johnny Dollar, and Inspector Thorne
+
+**Date**: 2026-08-24  
+**Author**: radio index  
+**Tags**: August 24, Calendar Walk, The Mysterious Traveler, Maurice Tarplin, Robert A Arthur, David Kogan, Mutual, Yours Truly Johnny Dollar, Bob Bailey, Edmond OBrien, Jack Johnstone, Jaime del Valle, Inspector Thorne, Karl Weber, Danny Ocko, NBC, Alternate Titles, Original Filenames
+
+---
+
+## August 24 Exhaustive Archival Metadata Enrichment (Increment 49)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 24** across American network, psychological horror, and insurance detective radio history (1947–1958):
+
+---
+
+## 1. *August 24 Archival Inventory (Increment 49)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Johnny_Dollar_Rehearsal.mp3` <br>*Alt*: `Trans Pacific Rehearsal`, `Edmond OBrien Studio 1950` | **"The Trans Pacific Matter: Studio Rehearsal Recording (Edmond O'Brien — CBS)"** | **CBS Studio**<br>1950-08-24<br>2:00 PM PDT | **Sustaining**<br>Pre-Broadcast Rehearsal | **Edmond O'Brien** (Johnny), **Virginia Gregg**, **Lawrence Dobkin** | **Gil Doud & Paul Dudley**, **Jaime del Valle** (Director) | `["Detective", "Hardboiled", "Behind-the-Scenes", "Rehearsal", "Noir"]` | A rare behind-the-scenes recording capturing Edmond O'Brien and director Jaime del Valle fine-tuning line readings, musical cues, and sound effects during pre-broadcast rehearsals of *The Trans Pacific Import-Export Matter*. |
+| `Johnny_Dollar_1956_08_24_B.mp3` <br>*Alt*: `Kranesburg Matter Part 5`, `Johnny Dollar Bob Bailey 1956` | **"The Kranesburg Matter (Part 5 — Bob Bailey as Johnny Dollar — CBS)"** | **CBS (WCBS)**<br>1956-08-24<br>8:00 PM EDT | **Sustaining**<br>Radio Mystery Serial | **Bob Bailey** (Johnny Dollar), **Virginia Gregg**, **Parley Baer** | **John Dawson** (Writer), **Jack Johnstone**, **Roy Rowan** | `["Detective", "Hardboiled", "Mystery", "Noir", "Insurance"]` | Insurance investigator Johnny Dollar brings the Kranesburg estate investigation to a dramatic conclusion, staking out a lakeside boathouse to recover stolen European masterworks and expose the smuggling ring. |
+| `Johnny_Dollar_1958_08_24.mp3` <br>*Alt*: `Noxious Needle Matter`, `Johnny Dollar Bob Bailey 1958` | **"The Noxious Needle Matter (Starring Bob Bailey as Johnny Dollar — CBS)"** | **CBS (WCBS)**<br>1958-08-24<br>6:05 PM EDT | **Sustaining**<br>Radio Mystery Drama | **Bob Bailey** (Johnny Dollar), **Carleton Young**, **Virginia Gregg** | **Jack Johnstone** (Writer/Dir.), **Dan Cubberly** (Announcer) | `["Detective", "Hardboiled", "Mystery", "Noir", "Insurance"]` | "Expense account submitted by special investigator Johnny Dollar..." Johnny travels to a Florida horse racing stable to investigate the death of a million-dollar thoroughbred stallion, discovering microscopic puncture marks and lethal toxins. |
+| `Inspector_Thorne_1951_08_24.mp3` <br>*Alt*: `Master Mind Murder Case`, `Inspector Thorne 1951` | **"The Master Mind Murder Case (Karl Weber as Inspector Thorne — NBC)"** | **NBC (WNBC)**<br>1951-08-24<br>9:00 PM EDT | **Sustaining**<br>Police Procedural | **Karl Weber** (Inspector Thorne), **Danny Ocko** (Muggin) | **George Anderson** (Writer), **Kenneth MacGregor**, **Jack Costello** | `["Police", "Detective", "Mystery", "Procedural", "Whodunit"]` | Inspector Thorne of Scotland Yard and Detective Muggin reconstruct a seemingly airtight locked-room jewel robbery, exposing a criminal mastermind who faked his own kidnapping to frame an innocent business associate. |
+| `Mysterious_Traveler_1947.mp3` <br>*Alt*: `Murder Goes Free`, `Maurice Tarplin 1947` | **"Murder Goes Free (Narrated by Maurice Tarplin — The Mysterious Traveler)"** | **Mutual (WOR)**<br>1947-08-24<br>8:00 PM EDT | **Sustaining**<br>Radio Mystery Anthology | **Maurice Tarplin** (Narrator), **Jackson Beck**, **Elspeth Eric** | **Robert A. Arthur & David Kogan**, **Carl Caruso** | `["Suspense", "Horror", "Psychological", "Mystery", "Noir"]` | "This is the Mysterious Traveler, inviting you to join me on another strange and startling journey..." A scheming husband executes an undetectable plan to poison his wealthy spouse, only to find himself trapped in a horrifying web of poetic justice on a runaway midnight express train. |
+| `Mysterious_Traveler_1948.mp3` <br>*Alt*: `Murder By Proxy`, `Mysterious Traveler 1948` | **"Murder by Proxy (Narrated by Maurice Tarplin — The Mysterious Traveler)"** | **Mutual (WOR)**<br>1948-08-24<br>8:00 PM EDT | **Sustaining**<br>Radio Mystery Anthology | **Maurice Tarplin** (Narrator), **Santos Ortega**, **Lyle Sudrow** | **Robert A. Arthur & David Kogan**, **Carl Caruso** | `["Suspense", "Horror", "Psychological", "Mystery", "Noir"]` | An arrogant corporate executive hires an impoverished hitman through an intermediary to eliminate a business rival, only to discover that the contract killer was hired to murder him instead in an inescapable double-cross. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 24
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 24**: 294
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
