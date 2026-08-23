@@ -1,0 +1,33 @@
+# Archival Dispatch: August 23 Calendar Walk — The Falcon, My Friend Irma, and Buster Brown
+
+**Date**: 2026-08-23  
+**Author**: radio index  
+**Tags**: August 23, Calendar Walk, The Falcon, John Hunter, Les Damon, George Petrie, Drexel Drake, Kraft Mayonnaise, My Friend Irma, Marie Wilson, Cathy Lewis, Cy Howard, Swan Soap, Buster Brown Gang, Smilin Ed McConnell, Froggy the Gremlin, America's Town Meeting, George V Denny Jr, Warren Magnuson, Reader's Digest, Alternate Titles, Original Filenames
+
+---
+
+## August 23 Exhaustive Archival Metadata Enrichment (Increment 64)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American network broadcasting history (1945–1954):
+
+---
+
+## 1. *August 23 Archival Inventory (Increment 64)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Irma_1948_08_23.mp3` <br>*Alt*: `Fortune Teller Prediction`, `Marie Wilson Swan Soap` | **"The Fortune Teller's Prediction (Starring Marie Wilson as Irma Peterson — Swan Soap)"** | **CBS (WCBS)**<br>1948-08-23<br>10:00 PM EDT | **Lever Brothers**<br>Swan Soap | **Marie Wilson** (Irma), **Cathy Lewis** (Jane), **John Brown** (Al) | **Cy Howard** (Creator), **Parke Levy**, **Frank Bingman** | `["Comedy", "Sitcom", "Domestic", "Romantic Comedy"]` | Dizzy blonde Irma Peterson visits an eccentric boardwalk fortune teller who predicts she will marry a wealthy count, causing deadbeat boyfriend Al to frantically impersonate European royalty to prevent Irma from ditching him. |
+| `Falcon_1948_08_23.mp3` <br>*Alt*: `Murder Cant Buy Substitute`, `John Hunter Falcon` | **"Murder Can't Buy a Substitute (Starring John Hunter as The Falcon)"** | **Mutual (WOR)**<br>1948-08-23<br>8:00 PM EDT | **Sustaining**<br>Mutual Crime Presentation | **John Hunter** (Mike Waring), **Mandel Kramer**, **Joan Alexander** | **Eugene Wang** (Writer), **Carlo De Angelo**, **Ed Herlihy** | `["Detective", "Hardboiled", "Mystery", "Crime", "Action"]` | Suave freelance investigator Mike Waring (The Falcon) is called in when a ruthless synthetic chemical industrialist is shot dead in his high-security laboratory, unmasking a deadly ring of industrial spies. |
+| `Falcon_1950_08_23.mp3` <br>*Alt*: `Larcenous Lark`, `Les Damon Kraft Mayonnaise` | **"The Case of the Larcenous Lark (Starring Les Damon as The Falcon — Kraft Mayonnaise)"** | **Mutual (WOR)**<br>1950-08-23<br>8:00 PM EDT | **Kraft Foods**<br>Kraft Mayonnaise & Miracle Whip | **Les Damon** (Mike Waring), **Ken Lynch** (Sgt. O'Hara) | **Eugene Wang** (Writer), **Richard Lewis**, **Bob Sherry** | `["Detective", "Hardboiled", "Mystery", "Crime", "Action"]` | Mike Waring investigates a series of daring jewel heists at Manhattan high-society penthouses where the burglar leaves behind a live caged singing lark as a mocking calling card. |
+| `Falcon_1954_08_23.mp3` <br>*Alt*: `TCOT Great Ego`, `George Petrie Falcon 1954` | **"The Case of the Great Ego (Starring George Petrie as The Falcon)"** | **Mutual (WOR)**<br>1954-08-23<br>8:00 PM EDT | **Sustaining**<br>Mutual Mystery Presentation | **George Petrie** (Mike Waring), **Robert Dryden**, **Joan Lazer** | **Stanley Niss** (Writer), **Carlo De Angelo**, **Carl Caruso** | `["Detective", "Hardboiled", "Mystery", "Crime", "Action"]` | Freelance adventurer Mike Waring tangles with a narcissistic Broadway theatrical producer who orchestrates a real-life murder on stage during opening night to generate sensational headlines for his failing show. |
+| `Buster_Brown_1952_08_23.mp3` <br>*Alt*: `Zacha Mutiny`, `Smilin Ed Froggy 1952` | **"Gunga Ram & Zacha: Mutiny on the River Steamer (Buster Brown Shoes)"** | **ABC (WJZ)**<br>1952-08-23<br>11:30 AM EDT | **Brown Shoe Company**<br>Buster Brown Shoes | **Smilin' Ed McConnell**, **June Foray**, **Billy Gilbert** | **Frank Ferrin** (Producer), **Archie Presby** (Announcer) | `["Children's", "Comedy", "Adventure", "Puppetry", "Fantasy"]` | Smilin' Ed McConnell tells the thrilling tale of jungle boy Gunga Ram and his elephant friend Zacha stopping a mutiny on a river steamer, accompanied by mischievous antics from Froggy the Gremlin. |
+| `Town_Meeting_1945_08_23.mp3` <br>*Alt*: `Town Meeting Pacific Bases`, `Readers Digest 1945` | **"Should We or an International Authority Control Pacific Bases? (Reader's Digest)"** | **ABC (WJZ)**<br>1945-08-23<br>8:30 PM EWT | **Reader's Digest**<br>The Reader's Digest Association | **George V. Denny Jr.** (MC), **Sen. Warren Magnuson** | **Town Hall New York**, Live Broadcast | `["Debate", "Public Affairs", "Politics", "Historical", "Military"]` | In a historic live broadcast just days after the Japanese surrender ending World War II, Senator Warren Magnuson and military analyst Hanson Baldwin debate whether the United States or an international UN trusteeship should control strategic Pacific island bases. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 384
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
