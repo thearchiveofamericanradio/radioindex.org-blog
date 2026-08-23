@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — Dan Duryea, William Bendix, and Front Page Drama
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, Movietown Radio Theater, Dan Duryea, Lurene Tuttle, William Bendix, Sheldon Leonard, Les Mitchel, Front Page Drama, The American Weekly, Frank Dahm, John McIntire, Brett Morrison, Himan Brown, Hearst, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 162)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American syndicated radio, Dan Duryea starring as a blind defense attorney in *The Sound of Her Voice* on *Movietown Radio Theater*, William Bendix as an aging prizefighter fighting underworld corruption in *Death Counts to Ten*, and two true-crime/adventure docudramas from *The American Weekly* on *Front Page Drama* directed by Himan Brown (1939–1951):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 162)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Movietown_1949_1.mp3` <br>*Alt*: `The Sound Of Her Voice`, `Dan Duryea Movietown 1949` | **"The Sound of Her Voice (Dan Duryea & Lurene Tuttle — Movietown Radio Theater)"** | **Syndicated**<br>1949-08-26<br>(Hollywood Drama) | **Local Merchants**<br>Hollywood Star Playhouse | **Dan Duryea**, **Lurene Tuttle**, **Elliott Lewis** | **Les Mitchel**, **Robert Libott**, **Del Sharbutt** | `["Drama", "Noir", "Suspense", "Psychological", "Mystery"]` | "Movietown Radio Theater presents Hollywood's Dan Duryea!" In 'The Sound of Her Voice', a blind criminal defense attorney played by Dan Duryea recognizes the distinct vocal inflection of a female witness as belonging to a ruthless blackmailer from his past who framed an innocent defendant, using acoustic clues to unmask her perjury in court. |
+| `Movietown_1949_2.mp3` <br>*Alt*: `Sound Of Her Voice`, `Dan Duryea Hollywood Drama` | **"The Sound of Her Voice (Dan Duryea & Lurene Tuttle — Movietown Radio Theater)"** | **Syndicated**<br>1949-08-26<br>(Hollywood Drama) | **Local Merchants**<br>Hollywood Star Playhouse | **Dan Duryea**, **Lurene Tuttle**, **Elliott Lewis** | **Les Mitchel**, **Robert Libott**, **Del Sharbutt** | `["Drama", "Noir", "Suspense", "Psychological", "Mystery"]` | "Movietown Radio Theater presents Hollywood's Dan Duryea!" In 'The Sound of Her Voice', a blind criminal defense attorney played by Dan Duryea recognizes the distinct vocal inflection of a female witness as belonging to a ruthless blackmailer from his past who framed an innocent defendant, using acoustic clues to unmask her perjury in court. |
+| `Movietown_1949_3.mp3` <br>*Alt*: `The Sound Of Her Voice`, `Sound of Her Voice Duryea` | **"The Sound of Her Voice (Dan Duryea & Lurene Tuttle — Movietown Radio Theater)"** | **Syndicated**<br>1949-08-26<br>(Hollywood Drama) | **Local Merchants**<br>Hollywood Star Playhouse | **Dan Duryea**, **Lurene Tuttle**, **Elliott Lewis** | **Les Mitchel**, **Robert Libott**, **Del Sharbutt** | `["Drama", "Noir", "Suspense", "Psychological", "Mystery"]` | "Movietown Radio Theater presents Hollywood's Dan Duryea!" In 'The Sound of Her Voice', a blind criminal defense attorney played by Dan Duryea recognizes the distinct vocal inflection of a female witness as belonging to a ruthless blackmailer from his past who framed an innocent defendant, using acoustic clues to unmask her perjury in court. |
+| `Movietown_1951.mp3` <br>*Alt*: `Death Counts To Ten`, `William Bendix Death Counts to Ten` | **"Death Counts to Ten (William Bendix & Sheldon Leonard — Movietown Theater)"** | **Syndicated**<br>1951-08-26<br>(Hollywood Drama) | **Local Merchants**<br>Hollywood Star Playhouse | **William Bendix**, **Joan Banks**, **Sheldon Leonard** | **Les Mitchel**, **Frank Burt**, **Del Sharbutt** | `["Drama", "Sports", "Boxing", "Crime", "Noir"]` | "Movietown Radio Theater, starring William Bendix in Death Counts to Ten!" An aging heavyweight prizefighter played by William Bendix refuses to take a dive for the underworld mob during a championship title fight in Madison Square Garden, battling both a ruthless syndicate and his own fading stamina in the ring. |
+| `Front_Page_1939.mp3` <br>*Alt*: `The Case of the Marked Bullet`, `Marked Bullet American Weekly` | **"The Case of the Marked Bullet (Frank Dahm & John McIntire — The American Weekly)"** | **Syndicated**<br>1939-08-26<br>(Hearst Series) | **Hearst Magazines**<br>The American Weekly | **Frank Dahm** (Narrator), **John McIntire** | **Himan Brown**, **George Hicks** | `["Detective", "Docudrama", "Crime", "Mystery", "Short Form"]` | "Front Page Drama, dramatizing the thrilling true stories from the pages of The American Weekly!" In 'The Case of the Marked Bullet', forensic ballistics experts and homicide detectives trace a microscopic manufacturing defect on an extracted lead bullet to solve the mysterious woodland hunting death of an eccentric lumber baron. |
+| `Front_Page_1951.mp3` <br>*Alt*: `Jack Stockton`, `Jack Stockton Midnight Courier` | **"Jack Stockton: High Sierra Courier (Brett Morrison — The American Weekly)"** | **Syndicated**<br>1951-08-26<br>(Hearst Series) | **Hearst Publications**<br>The American Weekly | **Brett Morrison** (Narrator), **Lawson Zerbe** | **Himan Brown**, **Lyle Van** | `["Adventure", "Docudrama", "Historical", "Action", "Short Form"]` | "Front Page Drama, bringing you real life stories from the colorful pages of The American Weekly!" The harrowing true story of frontier courier Jack Stockton, who rode through hostile blizzard territory in the High Sierras to deliver emergency medical vaccines to a quarantined mining camp cut off by winter avalanches. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 197
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
