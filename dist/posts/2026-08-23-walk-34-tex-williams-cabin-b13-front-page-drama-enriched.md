@@ -1,0 +1,33 @@
+# Archival Dispatch: August 23 Calendar Walk — Tex Williams, Cabin B-13, and Front Page Drama
+
+**Date**: 2026-08-23  
+**Author**: radio index  
+**Tags**: August 23, Calendar Walk, Rodeo Review, Tex Williams, Western Caravan, Smokey Rogers, Cabin B-13, John Dickson Carr, Arnold Moss, Dr Fabian, SF 68, SABC Science Fiction, Front Page Drama, The American Weekly, Hearst, True Crime, Docudrama, John McIntire, Santos Ortega, Alternate Titles, Original Filenames
+
+---
+
+## August 23 Exhaustive Archival Metadata Enrichment (Increment 34)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American and international broadcasting history (1935–1968):
+
+---
+
+## 1. *August 23 Archival Inventory (Increment 34)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Rodeo_Review_1947_08_23.mp3` <br>*Alt*: `Ridin Down To Santa Fe`, `Tex Williams Caravan` | **"Tex Williams and his Western Caravan: 'Ridin' Down to Santa Fe'"** | **Mutual (KHJ)**<br>1947-08-23<br>7:30 PM EDT | **Sustaining**<br>Mutual Western Music | **Tex Williams & Caravan**, **Smokey Rogers**, **Deuce Spriggens** | **Don Lee Studios**, **Larry Keating** (Announcer) | `["Western", "Country", "Music", "Variety"]` | Western swing bandleader Tex Williams and his Western Caravan perform a lively set of cowboy swing numbers, featuring 'Ridin' Down to Santa Fe', 'Smoke! Smoke! Smoke! (That Cigarette)', and comedy tunes with Smokey Rogers. |
+| `Cabin_B13_1948_08_23.mp3` <br>*Alt*: `Below Suspicion`, `Dr Fabian Cabin B13` | **"Below Suspicion (Starring Arnold Moss as Dr. Fabian)"** | **CBS (WCBS)**<br>1948-08-23<br>8:30 PM EDT | **Sustaining**<br>CBS Mystery Presentation | **Arnold Moss** (Dr. Fabian), **Lesley Woods**, **Luis Van Rooten** | **John Dickson Carr** (Author), **John Dietz** | `["Mystery", "Detective", "Thriller", "Suspense"]` | Ship's doctor Fabian of the luxury liner S.S. *Mauretania* relates the baffling murder of a wealthy English country gentleman who was poisoned inside a locked room where every member of the household appeared entirely above suspicion. |
+| `SF68_1968_08_23.mp3` <br>*Alt*: `Escape Mechanism`, `SABC Science Fiction 1968` | **"SF 68: Escape Mechanism (SABC Science Fiction)"** | **SABC English**<br>1968-08-23<br>9:30 PM | **Non-commercial**<br>South African Radio | **Michael Mayer**, **Colin Fish**, **Diane Appleby** | **Tommy Read** (Producer), **David Gretton** | `["Science Fiction", "Anthology", "Speculative", "Psychological", "South African"]` | A hyper-advanced psychological space probe unit discovers that its astronaut pilot is retreating into an impenetrable dream world to escape the overwhelming isolation of deep interstellar space. |
+| `Front_Page_1935_08_23.mp3` <br>*Alt*: `Beauty`, `Fatal Beauty Queen` | **"The Fatal Beauty Queen (The American Weekly)"** | **Syndication**<br>1935-08-23<br>(Transcribed) | **The American Weekly**<br>Hearst Sunday Magazine | **Frank Readick**, **Adelaide Klein** | **Hearst Radio**, **George Ansbro** (Announcer) | `["Docudrama", "True Crime", "Drama", "Journalism"]` | Dramatized from real-life investigative reports in *The American Weekly*, a dazzling Broadway beauty pageant winner becomes embroiled in a dangerous blackmail ring when a jealous admirer plots her downfall. |
+| `Front_Page_1940_08_23.mp3` <br>*Alt*: `King Of The Prairies`, `Texas Cattle Baron` | **"King of the Prairies: The Texas Cattle Baron (The American Weekly)"** | **Syndication**<br>1940-08-23<br>(Transcribed) | **The American Weekly**<br>Hearst Sunday Magazine | **John McIntire**, **Jeanette Nolan** | **Hearst Radio**, **George Ansbro** (Announcer) | `["Docudrama", "True Crime", "Western", "Historical"]` | Based on sensational historical features in *The American Weekly*, a legendary 19th-century Texas cattle baron fights off ruthless range rustlers to defend his sprawling open-range cattle empire. |
+| `Front_Page_1941_08_23.mp3` <br>*Alt*: `Galloping Gold`, `Racetrack Gold Swindle` | **"Galloping Gold: The Racetrack Swindle (The American Weekly)"** | **Syndication**<br>1941-08-23<br>(Transcribed) | **The American Weekly**<br>Hearst Sunday Magazine | **Santos Ortega**, **Karl Swenson** | **Hearst Radio**, **George Ansbro** (Announcer) | `["Docudrama", "True Crime", "Sports", "Mystery"]` | Dramatized from real investigative accounts in *The American Weekly*, track detectives expose a syndicate of thoroughbred horse-racing ringers substituting champion racers for look-alike steeds to collect fraudulent betting payouts. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 204
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
