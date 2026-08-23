@@ -1,0 +1,33 @@
+# Archival Dispatch: August 25 Calendar Walk — Morey Amsterdam, Your Hit Parade (1937), and This I Believe
+
+**Date**: 2026-08-25  
+**Author**: radio index  
+**Tags**: August 25, Calendar Walk, Chuck Schaden Interviews, Morey Amsterdam, Dick Van Dyke Show, Your Hit Parade, Freddie Rich, Lanny Ross, Lucky Strike, Salad Bowl Revue, George Olsen, Ethel Shutta, Miracle Whip, Kraft, This I Believe, Edward R Murrow, Ruth Cranston, Alexander Bloch, Harold Clurman, Group Theatre, Alternate Titles, Original Filenames
+
+---
+
+## August 25 Exhaustive Archival Metadata Enrichment (Increment 118)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, Morey Amsterdam reminiscing on his vaudeville and comedy writing career with Chuck Schaden, *Your Hit Parade* counting down 1937 chart-toppers for Lucky Strike, George Olsen & Ethel Shutta spoofing matrimonial agencies on the *Kraft Salad Bowl Revue*, and three deeply moving personal philosophy essays on Edward R. Murrow's *This I Believe* from Ruth Cranston, violinist Alexander Bloch, and theater director Harold Clurman (1933–1977):
+
+---
+
+## 1. *August 25 Archival Inventory (Increment 118)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Morey_Amsterdam_1977.mp3` <br>*Alt*: `Maury Amsterdam Hyatt Regency Ohare`, `Morey Amsterdam 1977` | **"Morey Amsterdam: The Human Joke Machine (Chuck Schaden Interview — Hyatt O'Hare)"** | **WNIB Chicago**<br>1977-08-25<br>(Speaking of Radio) | **Sustaining**<br>Comedy Oral History | **Chuck Schaden** (Interviewer), **Morey Amsterdam** | **Chuck Schaden** (Producer) | `["Interview", "History", "Comedy", "Oral History", "Biography"]` | "Speaking of Radio, with host Chuck Schaden!" Radio historian Chuck Schaden interviews legendary comedian and 'Human Joke Machine' Morey Amsterdam at the Hyatt Regency O'Hare in Chicago, reminiscing about writing jokes for vaudeville headliners, starring in *The Morey Amsterdam Show* on radio and TV, and playing Buddy Sorrell on *The Dick Van Dyke Show*. |
+| `Hit_Parade_1937.mp3` <br>*Alt*: `First Song - The Merry-Go-Round Broke Down (#10)`, `Hit Parade 1937` | **"The Merry-Go-Round Broke Down: Hit Parade #10 (Freddie Rich & Lanny Ross — Lucky Strike)"** | **CBS (WABC)**<br>1937-08-25<br>10:00 PM EDST | **American Tobacco Co.**<br>Lucky Strike ("It's Toasted") | **Freddie Rich Orchestra**, **Lanny Ross** | **Mark Warnow**, **Andre Baruch** | `["Music", "Countdown", "Pop", "Big Band", "Vocal"]` | "Lucky Strike presents Your Hit Parade! Surveying the nation to bring you America's top popular songs in the order of their popularity!" Maestro Freddie Rich conducts the countdown of the week's greatest hits, opening with #10 'The Merry-Go-Round Broke Down' and culminating in the nation's #1 melody sung by tenor Lanny Ross for Lucky Strike Cigarettes. |
+| `Salad_Bowl_1933.mp3` <br>*Alt*: `Aching Hearts Matrimonial Agency`, `Salad Bowl Revue 1933` | **"Aching Hearts Matrimonial Agency (George Olsen & Ethel Shutta — Miracle Whip)"** | **NBC Red (WEAF)**<br>1933-08-25<br>9:00 PM EDST | **Kraft-Phenix Cheese**<br>Miracle Whip Salad Dressing | **George Olsen and his Music**, **Ethel Shutta** | **J. Walter Thompson**, **Charles O'Connor** | `["Music", "Variety", "Comedy", "Big Band", "Vocal"]` | "The Kraft Salad Bowl Revue, starring George Olsen and Ethel Shutta, brought to you by Miracle Whip Salad Dressing!" Bandleader George Olsen and comedy songstress Ethel Shutta present sparkling musical numbers alongside a madcap vaudeville sketch, 'The Aching Hearts Matrimonial Agency', lampooning lonely-hearts bureaus for Miracle Whip. |
+| `This_I_Believe_1952_1.mp3` <br>*Alt*: `Ruth Cranston`, `Ruth Cranston This I Believe` | **"Universal Faith and World Peace (Ruth Cranston — Edward R. Murrow This I Believe)"** | **CBS (WCBS)**<br>1952-08-25<br>6:55 PM EDT | **Sustaining**<br>Personal Philosophy | **Edward R. Murrow** (Host), **Ruth Cranston** | **Raymond Swing** (Producer) | `["Philosophy", "Human Interest", "Inspirational", "Documentary", "Educational"]` | "This I Believe, with Edward R. Murrow!" Author and world religions scholar Ruth Cranston articulates her core spiritual conviction that the universal moral truths shared across Eastern and Western faiths offer humanity's only enduring pathway toward global peace and brotherhood. |
+| `This_I_Believe_1952_2.mp3` <br>*Alt*: `Alexander Bloch`, `Alexander Bloch Violinist` | **"Artistic Discipline and the Human Soul (Alexander Bloch — Edward R. Murrow)"** | **CBS (WCBS)**<br>1952-08-25<br>10:40 PM EDT | **Sustaining**<br>Personal Philosophy | **Edward R. Murrow** (Host), **Alexander Bloch** | **Raymond Swing** (Producer) | `["Philosophy", "Human Interest", "Music", "Inspirational", "Documentary"]` | "This I Believe, hosted by Edward R. Murrow!" Renowned concert violinist and conductor Alexander Bloch reflects on how a lifetime dedicated to classical music taught him patience, reverence for artistic discipline, and the profound interconnectedness of human souls. |
+| `This_I_Believe_1952_3.mp3` <br>*Alt*: `Harold Clurman`, `Harold Clurman Group Theatre` | **"Theater as a Moral Force (Harold Clurman — Edward R. Murrow This I Believe)"** | **CBS (WCBS)**<br>1952-08-25<br>11:15 PM EDT | **Sustaining**<br>Personal Philosophy | **Edward R. Murrow** (Host), **Harold Clurman** | **Raymond Swing** (Producer) | `["Philosophy", "Human Interest", "Theater", "Inspirational", "Documentary"]` | "This I Believe, with Edward R. Murrow!" Legendary Broadway director, theater critic, and Group Theatre co-founder Harold Clurman shares his personal philosophy that theater is not mere entertainment, but a vital moral collective that challenges society to live with greater empathy and passion. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 323
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
