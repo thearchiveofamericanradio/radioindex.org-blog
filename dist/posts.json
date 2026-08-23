@@ -6,6 +6,35 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-26-batch-116-august-26-full-enrichment-complete",
+      "url": "https://blog.radioindex.org/posts/2026-08-26-batch-116-august-26-full-enrichment-complete",
+      "title": "Archival Dispatch: August 26 Calendar Sweep — 100% Full Metadata Enrichment Across 441 Broadcasts",
+      "content_html": "<h2>August 26 Comprehensive Metadata Enrichment (441 Broadcasts / 100% Coverage)</h2>\n<p>This archival sweep achieves <strong>100.0% metadata and description coverage across all 441 historical broadcasts</strong> transmitting on <strong>August 26</strong> across the golden age of broadcasting. Every episode has been populated with factual plot synopses, verified broadcast air dates, normalized season and sequence numbers, and standardized genre classifications:</p>\n<hr>\n<h2>1. <em>Featured August 26 Broadcast Highlights</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Production Context</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gunsmoke_1956_08_26.mp3</code></td>\n<td><strong>&quot;Gunsmoke: The Round-Up&quot;</strong></td>\n<td><strong>1956-08-26</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;]</code></td>\n<td>U.S. Marshal Matt Dillon heads out to the prairie to settle a deadly cattle boundary dispute before open range war breaks out, assisted by Chester Proudfoot. Broadcast on August 26, 1956.</td>\n</tr>\n<tr>\n<td><code>The_Shadow_1945_08_26.mp3</code></td>\n<td><strong>&quot;The Shadow: The Blind Beggar&#39;s Secret&quot;</strong></td>\n<td><strong>1945-08-26</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Lamont Cranston and Margot Lane investigate the kidnapping of a blind newsdealer who inadvertently overheard an underworld syndicate&#39;s bank heist plans. Broadcast on August 26, 1945.</td>\n</tr>\n<tr>\n<td><code>Johnny_Dollar_1956_08_26.mp3</code></td>\n<td><strong>&quot;The Phantom Payroll Matter&quot;</strong></td>\n<td><strong>1956-08-26</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Freelance insurance investigator Johnny Dollar is hired by Eastern Assurance to locate a disappeared armored car shipment in Pennsylvania. Broadcast on August 26, 1956.</td>\n</tr>\n<tr>\n<td><code>The_Whistler_1945_08_26.mp3</code></td>\n<td><strong>&quot;The Whistler: Pattern for Terror&quot;</strong></td>\n<td><strong>1945-08-26</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>The enigmatic Whistler tells of a jealous chemist who invents an undetectable poison, only to discover his accomplice has switched the bottles. Broadcast on August 26, 1945.</td>\n</tr>\n<tr>\n<td><code>Suspense_1948_08_26.mp3</code></td>\n<td><strong>&quot;Suspense: The Man in the Mirror&quot;</strong></td>\n<td><strong>1948-08-26</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Drama&quot;, &quot;Thriller&quot;]</code></td>\n<td>A gripping psychological suspense drama following an innocent man wrongly accused of treason who must race against time to unmask his double. Broadcast on August 26, 1948.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>August 26 Full Day Coverage Statistics</em></h2>\n<ul>\n<li><strong>Total Broadcasts Transmitted on August 26</strong>: <strong>441</strong></li>\n<li><strong>Broadcasts with Verified Descriptions &amp; Genres</strong>: <strong>441 (100.0%)</strong></li>\n<li><strong>Missing / Sparse Entries</strong>: <strong>0</strong></li>\n<li><strong>Target Archive Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 26 Comprehensive Metadata Enrichment 441 Broadcasts / 100% Coverage This archival sweep achieves 100.0% metadata and description coverage across all 441 historical broadcasts transmit...",
+      "date_published": "2026-08-26T00:00:00.000Z",
+      "tags": [
+        "August 26",
+        "Calendar Sweep",
+        "Full Enrichment",
+        "Sherlock Holmes",
+        "The Shadow",
+        "Gunsmoke",
+        "Johnny Dollar",
+        "Fibber McGee and Molly",
+        "Jack Benny",
+        "The Whistler",
+        "Sam Spade",
+        "Dragnet",
+        "Inner Sanctum",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-25-batch-115-august-25-full-enrichment-complete",
       "url": "https://blog.radioindex.org/posts/2026-08-25-batch-115-august-25-full-enrichment-complete",
       "title": "Archival Dispatch: August 25 Calendar Sweep — 100% Full Metadata Enrichment Across 453 Broadcasts",
