@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — Stars Over Hollywood, Death Valley Sheriff, and The Clitheroe Kid
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, Stars Over Hollywood, Janet Blair, Macdonald Carey, Boweys Dari Rich, Armour Dial Soap, Death Valley Sheriff, Robert Haag, 20 Mule Team Borax, Boraxo, The Clitheroe Kid, Jimmy Clitheroe, Peter Sinclair, BBC, This Is Our Enemy, JB Powell, John McIntire, OWI, Good Morning Everyone, AJ Alan, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 174)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American, British, and South African radio, two glamorous *Stars Over Hollywood* comedies starring Janet Blair (for Bowey's Dari-Rich) and Macdonald Carey (for Armour Dial Soap), Robert Haag cracking *The Case of the Troublesome Parrot* on *Death Valley Sheriff* for 20 Mule Team Borax, Jimmy Clitheroe on BBC's *The Clitheroe Kid*, the harrowing true story of journalist J.B. Powell on *This Is Our Enemy*, and A.J. Alan's *The Dream* (1943–1975):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 174)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `AJ_Alan_1975.mp3` <br>*Alt*: `A J Alan The Dream`, `The Dream AJ Alan` | **"The Dream by A.J. Alan (Michael Mayer — Springbok Good Morning Everyone)"** | **Springbok Radio**<br>1975-08-26<br>6:45 AM | **Commercial Sponsors**<br>Morning Monologue | **Michael Mayer** (Narrator) | **A.J. Alan**, **Springbok Radio** | `["Mystery", "British", "Storytelling", "Short Form", "Humor"]` | "Good Morning Everyone on Springbok Radio!" A wry, understated British gentleman recounts a chilling recurring nightmare about an antique mahogany armoire that mysteriously appears in his study, revealing a hidden compartment concealing a Victorian ruby necklace. |
+| `Clitheroe_Kid_1957.mp3` <br>*Alt*: `Pilot Episode 9`, `The Great Scavenger Hunt` | **"The Great Scavenger Hunt (Jimmy Clitheroe & Peter Sinclair — BBC Clitheroe Kid)"** | **BBC Home**<br>1957-08-26<br>7:00 PM | **Sustaining**<br>BBC Northern Comedy | **Jimmy Clitheroe**, **Peter Sinclair** (Grandad) | **James Casey**, **Frank Roscoe** | `["Comedy", "Sitcom", "British", "Family", "Vaudeville"]` | "The BBC presents The Clitheroe Kid, starring that cheeky little scamp Jimmy Clitheroe!" Jimmy organizes an anarchic neighborhood scavenger hunt across Blackley to win a prize bicycle, blackmailer-style borrowing Grandad's false teeth and Susan's prospective boyfriend's bowling trophy to complete his list. |
+| `Stars_Hollywood_1944.mp3` <br>*Alt*: `The High Cost Of Living`, `Janet Blair Dari-Rich` | **"The High Cost of Living (Janet Blair — Bowey's Dari-Rich Stars Over Hollywood)"** | **CBS (KNX/WABC)**<br>1944-08-26<br>12:30 PM EWT | **Bowey's, Inc.**<br>Dari-Rich ("Taste Sensation!") | **Janet Blair** (Connie), **Alan Baxter** | **Paul Pierce**, **Frank Goss** | `["Comedy", "Romance", "Domestic", "Drama", "Americana"]` | "Bowey's Dari-Rich presents Stars Over Hollywood, starring Columbia Pictures star Janet Blair!" In 'The High Cost of Living', an ambitious newlyweds couple in wartime Los Angeles struggles to furnish their first apartment on a shoestring budget, leading the wife (Janet Blair) to enter a chaotic home demonstration cooking contest for Dari-Rich. |
+| `Stars_Hollywood_1950.mp3` <br>*Alt*: `Your Grandfather's Necktie`, `Macdonald Carey Dial` | **"Your Grandfather's Necktie (Macdonald Carey — Armour Dial Soap Stars Over Hollywood)"** | **CBS (KNX/WCBS)**<br>1950-08-26<br>1:00 PM EDT | **Armour and Co.**<br>Dial Deodorant Soap | **Macdonald Carey**, **Joan Banks** | **Paul Pierce**, **Marvin Miller** | `["Comedy", "Romance", "Domestic", "Americana", "Anthology"]` | "Armour and Company, makers of Dial Soap, brings you Stars Over Hollywood, starring Macdonald Carey!" In 'Your Grandfather's Necktie', an eccentric family heirloom necktie brings inexplicable good luck and hilarious romantic complications to an earnest young advertising copywriter played by Macdonald Carey for Dial Soap. |
+| `Death_Valley_Sheriff_1949.mp3` <br>*Alt*: `The Case of Troublesome Parrot`, `Borax Sheriff 1949` | **"The Case of the Troublesome Parrot (Robert Haag — 20 Mule Team Borax)"** | **CBS (KNX/WCBS)**<br>1949-08-26<br>8:30 PM EDT | **Pacific Coast Borax**<br>20 Mule Team Borax & Boraxo | **Robert Haag** (Sheriff Chase), **Olyn Landick** | **Ruth Cornwall Woodman**, **Fred Foy** | `["Western", "Detective", "Mystery", "Comedy", "Americana"]` | "20 Mule Team Borax and Boraxo present Death Valley Sheriff, starring Robert Haag as Sheriff Mark Chase!" Sheriff Mark Chase investigates the mysterious disappearance of a desert prospector whose chatty, squawking green parrot keeps repeating incriminating names and mining coordinates across the saloons of Mojave for Boraxo. |
+| `This_Is_Our_Enemy_1943.mp3` <br>*Alt*: `JB Powell - lost feet`, `The Ordeal of JB Powell` | **"The Ordeal of J.B. Powell (John McIntire & Berry Kroeger — OWI This Is Our Enemy)"** | **Mutual (WOR)**<br>1943-08-26<br>10:30 PM EWT | **U.S. Government**<br>Office of War Information | **Berry Kroeger** (Narrator), **John McIntire** | **OWI War Dept.**, **Ken Roberts** | `["Wartime", "Docudrama", "Historical", "Propaganda", "Military"]` | "This Is Our Enemy! Prepared by the United States Government to present the true nature of the ruthless enemies we fight!" The harrowing true story of veteran American journalist J.B. Powell, editor of the *China Weekly Review* in Shanghai, who survived brutal torture, frostbite, and amputation in a Japanese military prison camp without breaking his patriotic allegiance. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 269
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
