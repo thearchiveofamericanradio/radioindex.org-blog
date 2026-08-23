@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — Lum & Abner Across the Years (1941–1948)
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, Lum and Abner, Chester Lauck, Norris Goff, Alka Seltzer, Miles Laboratories, Frigidaire, General Motors, Pine Ridge, Jot Em Down Store, Foundling Serial, Bank Guard Uniform, Piano Tuner, Sauerkraut, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 167)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American network radio, Chester Lauck and Norris Goff in six classic *Lum and Abner* episodes from Pine Ridge, Arkansas spanning 1941 to 1948, including Lum's bank guard uniform, Part 8 of the baby foundling serial, correspondence piano tuning, emergency sauerkraut fundraising, and the Jot 'Em Down Store five-cent grab bag sale (for Alka-Seltzer and Frigidaire):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 167)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lum_Abner_1941.mp3` <br>*Alt*: `Lum Buys Bank Guard Uniform`, `Bank Guard Uniform` | **"Lum Buys a Bank Guard Uniform (Chester Lauck & Norris Goff — Alka-Seltzer)"** | **NBC Blue (WJZ)**<br>1941-08-26<br>8:15 PM EDST | **Miles Laboratories**<br>Alka-Seltzer & One-A-Day | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Lauck & Goff**, **Lou Crosby** | `["Comedy", "Sitcom", "Rural", "Americana", "Short Form"]` | "Miles Laboratories, makers of Alka-Seltzer and One-A-Day Vitamins, brings you Lum and Abner!" Lum purchases an elaborate gold-braided bank guard uniform from a mail-order catalog to protect the Pine Ridge community savings vault, strutting through town until Abner discovers the uniform came without an ammunition holster for Alka-Seltzer. |
+| `Lum_Abner_1942.mp3` <br>*Alt*: `Baby's Father Shows Up`, `Foundling Serial Part 8` | **"The Baby's Father Shows Up (Part 8 — Lauck & Goff — Alka-Seltzer Foundling Serial)"** | **Blue (WJZ)**<br>1942-08-26<br>8:15 PM EWT | **Miles Laboratories**<br>Alka-Seltzer & One-A-Day | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Lauck & Goff**, **Lou Crosby** | `["Comedy", "Sitcom", "Rural", "Americana", "Short Form"]` | "Alka-Seltzer presents Lum and Abner!" Lum and Abner's frantic foster parenting duties are thrown into emotional upheaval when a traveling stranger arrives at the Jot 'Em Down Store claiming to be the long-lost father of the abandoned baby left on their doorstep for Alka-Seltzer. Note: Multi-part serial narrative arc *(The Pine Ridge Foundling Baby — Part 8)*. |
+| `Lum_Abner_1946.mp3` <br>*Alt*: `Lum To Become A Piano Tuner`, `Piano Tuner Lum` | **"Lum to Become a Piano Tuner (Chester Lauck & Norris Goff — Alka-Seltzer)"** | **ABC (WJZ)**<br>1946-08-26<br>8:00 PM EDT | **Miles Laboratories**<br>Alka-Seltzer & One-A-Day | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Lauck & Goff**, **Lou Crosby** | `["Comedy", "Sitcom", "Rural", "Americana", "Short Form"]` | "Alka-Seltzer brings you Lum and Abner!" Convinced there is a fortune in tuning musical instruments across the county, Lum sends away for a correspondence course in piano tuning, testing his pitch pipe on Widow Abernathy's upright parlor piano with disastrously discordant results for Alka-Seltzer. |
+| `Lum_Abner_1947.mp3` <br>*Alt*: `Raising Money To Pay For Sauerkraut`, `Paying for Sauerkraut` | **"Raising Money to Pay for the Sauerkraut (Lauck & Goff — Alka-Seltzer)"** | **ABC (WJZ)**<br>1947-08-26<br>8:00 PM EDT | **Miles Laboratories**<br>Alka-Seltzer & One-A-Day | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Lauck & Goff**, **Lou Crosby** | `["Comedy", "Sitcom", "Rural", "Americana", "Short Form"]` | "Alka-Seltzer and One-A-Day Vitamins present Lum and Abner!" Facing a massive supplier debt after accidentally ordering ten barrels of fermented cabbage, Lum and Abner launch an emergency church social fund drive to pay off the wholesale sauerkraut distributor before Squire Skimp forecloses for Alka-Seltzer. |
+| `Lum_Abner_1948_1.mp3` <br>*Alt*: `Abner To Get Rid Of His Half Of Store`, `Abner Sells Half` | **"Abner Sells His Half of the Store (Chester Lauck & Norris Goff — Frigidaire)"** | **CBS (WCBS)**<br>1948-08-26<br>10:00 PM EDT | **General Motors**<br>Frigidaire Home Appliances | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Lauck & Goff**, **Wendell Niles** | `["Comedy", "Sitcom", "Rural", "Americana", "Short Form"]` | "Frigidaire presents Lum and Abner, starring Chester Lauck and Norris Goff!" Following a bitter argument over inventory accounting at the Jot 'Em Down Store, Abner decides to auction off his half of the business, only to discover that the only interested buyer is the scheming county swindler Squire Skimp for Frigidaire. |
+| `Lum_Abner_1948_2.mp3` <br>*Alt*: `Abner Will Have a Grab Bag Sale`, `Grab Bag Sale` | **"The Jot 'Em Down Store Grab Bag Sale (Chester Lauck & Norris Goff — Frigidaire)"** | **CBS (WCBS)**<br>1948-08-26<br>(Frigidaire Series) | **General Motors**<br>Frigidaire Refrigerators | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Lauck & Goff**, **Wendell Niles** | `["Comedy", "Sitcom", "Rural", "Americana", "Short Form"]` | "Frigidaire brings you Lum and Abner from Pine Ridge, Arkansas!" To clear out unsellable hardware and stale groceries, Abner organizes a five-cent 'Grab Bag Mystery Sale' at the Jot 'Em Down Store, accidentally wrapping Grandpap Spears' gold pocket watch into one of the mystery packages for Frigidaire. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 227
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
