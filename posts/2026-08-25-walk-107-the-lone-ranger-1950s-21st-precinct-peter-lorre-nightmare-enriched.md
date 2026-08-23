@@ -1,0 +1,33 @@
+# Archival Dispatch: August 25 Calendar Walk — The Lone Ranger (1950s ABC), 21st Precinct (Everett Sloane), and Peter Lorre in Cornell Woolrich
+
+**Date**: 2026-08-25  
+**Author**: radio index  
+**Tags**: August 25, Calendar Walk, The Lone Ranger, Brace Beemer, John Todd, Fred Foy, Cheerios, General Mills, 21st Precinct, Everett Sloane, Captain Frank Kennelly, John Meston, CBS, Nightmare, Peter Lorre, Cornell Woolrich, William Irish, Mutual, Alternate Titles, Original Filenames
+
+---
+
+## August 25 Exhaustive Archival Metadata Enrichment (Increment 107)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, three 1950s frontier broadcasts of *The Lone Ranger* for Cheerios, two gritty NYC police procedural investigations on *21st Precinct* starring Everett Sloane (directed by John Meston), and Peter Lorre starring in Cornell Woolrich's psychological horror thriller on *Nightmare* (1950–1954):
+
+---
+
+## 1. *August 25 Archival Inventory (Increment 107)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lone_Ranger_1950.mp3` <br>*Alt*: `Homer with a High Hat`, `Eastern Poet High Hat` | **"Homer with a High Hat (Brace Beemer as The Lone Ranger — Cheerios)"** | **ABC (WJZ)**<br>1950-08-25<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal & Wheaties | **Brace Beemer** (Lone Ranger), **John Todd** (Tonto) | **Fran Striker**, **Charles Livingstone**, **Fred Foy** | `["Western", "Adventure", "Action", "Heroes", "Americana"]` | "Cheerios presents The Lone Ranger!" An eccentric eastern poet wearing a silk high hat arrives in a rugged frontier territory to write western verse, unwittingly becoming the prime target of a ruthless highwayman who believes he carries secret diamonds. |
+| `Lone_Ranger_1952.mp3` <br>*Alt*: `Condemned Men`, `The Condemned Prisoners` | **"Condemned Men (Brace Beemer as The Lone Ranger — Cheerios)"** | **ABC (WJZ)**<br>1952-08-25<br>7:30 PM EDT | **General Mills**<br>Cheerios & Sugar Jets | **Brace Beemer** (Lone Ranger), **John Todd** (Tonto) | **Fran Striker**, **Charles Livingstone**, **Fred Foy** | `["Western", "Adventure", "Action", "Heroes", "Americana"]` | "Hi-Yo Silver! The Lone Ranger, presented by General Mills!" The Lone Ranger and Tonto uncover a conspiracy to frame two innocent cowhands for a stagecoach murder, racing across the territory to stop an illegal hanging at sunrise. |
+| `Lone_Ranger_1954.mp3` <br>*Alt*: `Prisoners at Large`, `Telegraph Station Hostage` | **"Prisoners at Large (Brace Beemer as The Lone Ranger — Cheerios)"** | **ABC (WABC)**<br>1954-08-25<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal & Wheaties | **Brace Beemer** (Lone Ranger), **John Todd** (Tonto) | **Fran Striker**, **Charles Livingstone**, **Fred Foy** | `["Western", "Adventure", "Action", "Heroes", "Americana"]` | "The Lone Ranger, brought to you by Cheerios!" Three desperate escaped convicts from the territorial penitentiary seize a remote telegraph station, threatening to murder the operator unless the Lone Ranger rides unarmed into their mountain trap for Cheerios. |
+| `21st_Precinct_1953.mp3` <br>*Alt*: `The Bookkeeper`, `Garment District Bookkeeper` | **"The Bookkeeper (Everett Sloane as Captain Frank Kennelly — CBS)"** | **CBS (WCBS)**<br>1953-08-25<br>9:30 PM EDT | **Sustaining**<br>NYPD Procedural | **Everett Sloane** (Capt. Kennelly), **Ken Lynch** | **John Meston** (Writer/Dir.), **Hugh James** | `["Police", "Procedural", "Detective", "Crime", "Drama"]` | "21st Precinct! It's just lines on a map of the city of New York... 160,000 people, 9 patrol cars, and 173 precinct patrolmen!" Captain Frank Kennelly investigates a mild-mannered garment district bookkeeper who has vanished with $40,000 in payroll cash, discovering he has been abducted by ruthless loan sharks. |
+| `21st_Precinct_1954.mp3` <br>*Alt*: `The Wreck`, `Tenth Avenue Hit and Run` | **"The Wreck (Everett Sloane as Captain Frank Kennelly — CBS)"** | **CBS (WCBS)**<br>1954-08-25<br>9:30 PM EDT | **Sustaining**<br>NYPD Procedural | **Everett Sloane** (Capt. Kennelly), **Ken Lynch** | **John Meston** (Writer/Dir.), **Hugh James** | `["Police", "Procedural", "Detective", "Crime", "Drama"]` | "21st Precinct, presented by CBS!" Captain Frank Kennelly leads precinct detectives through a rain-soaked Manhattan night to piece together physical clues from a catastrophic hit-and-run collision on Tenth Avenue that left an elderly pedestrian critically injured. |
+| `Nightmare_1954.mp3` <br>*Alt*: `If I Should Die Before I Wake`, `Peter Lorre Woolrich Nightmare` | **"If I Should Die Before I Wake by Cornell Woolrich (Starring Peter Lorre — Mutual)"** | **Mutual (WOR)**<br>1954-08-25<br>8:30 PM EDT | **Sustaining**<br>Psychological Suspense | **Peter Lorre** (Host/Star), **Bill Johnstone** | **Cornell Woolrich**, **John Dietz**, **Carl Caruso** | `["Horror", "Psychological", "Suspense", "Thriller", "Anthology"]` | "Nightmare! Stories of dark terror and the unknown, starring Peter Lorre!" Peter Lorre stars in Cornell Woolrich's harrowing psychological thriller *If I Should Die Before I Wake*, portraying an insomniac criminal tormented by terrifying recurring visions of a lethal subway trap set by his vengeful former partner. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 257
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
