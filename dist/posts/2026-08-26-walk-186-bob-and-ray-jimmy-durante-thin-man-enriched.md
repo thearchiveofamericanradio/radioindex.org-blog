@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — Bob & Ray, Jimmy Durante, and Thin Man
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, Bob and Ray, Bob Elliott, Ray Goulding, WHDH Boston, The Chicago Fire, Alice the Ripper, Jimmy Durante, Garry Moore, Georgia Gibbs, Camel Cigarettes, Meet Me at Parkys, Harry Einstein, Nick Parkyakarkus, Old Gold, The Thin Man, Les Damon, Claudia Morgan, Dashiell Hammett, Post Toasties, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 186)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American network and regional radio, three surreal comedy satires from Bob Elliott and Ray Goulding on *Bob and Ray* (Boston Common roving reporter, the Chicago Fire, and Alice the Ripper), Jimmy Durante and Garry Moore running a Catskills resort on *The Camel Comedy Caravan*, Harry Einstein on *Meet Me at Parky's* for Old Gold, and Les Damon & Claudia Morgan solving a fur vault murder on *The Adventures of the Thin Man* (1942–1952):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 186)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Bob_Ray_1948.mp3` <br>*Alt*: `Roving Reporter Ray Goulding`, `Boston Common` | **"Roving Reporter Ray Goulding on Boston Common (WHDH Boston — Bob and Ray)"** | **WHDH Boston**<br>1948-08-26<br>2:15 PM EDT | **Local Sponsors**<br>Matinee with Bob & Ray | **Bob Elliott**, **Ray Goulding** | **Bob Elliott**, **Ray Goulding** | `["Comedy", "Satire", "Parody", "Sketch", "Short Form"]` | "Matinee with Bob and Ray from the studios of WHDH Boston!" Roving reporter Ray Goulding wanders Boston Common with a portable wire recorder trying to interview bewildered park-bench pigeons and disinterested statues, while Bob anchors from the studio desk with mock weather forecasts. |
+| `Bob_Ray_1949.mp3` <br>*Alt*: `The Chicago Fire`, `Chicago Fire Bob and Ray` | **"The Chicago Fire & Mrs. O'Leary's Cow (WHDH Boston — Bob and Ray)"** | **WHDH Boston**<br>1949-08-26<br>2:15 PM EDT | **Local Sponsors**<br>Matinee with Bob & Ray | **Bob Elliott**, **Ray Goulding** | **Bob Elliott**, **Ray Goulding** | `["Comedy", "Satire", "Parody", "Sketch", "Short Form"]` | "WHDH presents Bob and Ray!" Bob and Ray stage an absurd eyewitness docudrama parody of the Great Chicago Fire of 1871, interviewing Mrs. O'Leary's cow who claims the lantern was knocked over by an itinerant tap dancer looking for pasture. |
+| `Bob_Ray_1952.mp3` <br>*Alt*: `Alice The Ripper`, `NBC Bob and Ray 1952` | **"Alice the Ripper & The Hoboken Paper Cup Plant (NBC — Bob and Ray)"** | **NBC (WNBC)**<br>1952-08-26<br>5:45 PM EDT | **Sustaining**<br>Network Comedy Revue | **Bob Elliott**, **Ray Goulding** | **Jack Hurdle**, **Arthur Van Horn** | `["Comedy", "Satire", "Parody", "Sketch", "Short Form"]` | "NBC presents Bob and Ray!" Bob and Ray present an installment of their continuing Victorian melodrama spoof 'Alice the Ripper: The Seamstress Who Couldn't Sew Straight', followed by an interview with Wally Ballou at the Hoboken paper cup flattening plant. |
+| `Jimmy_Durante_1943.mp3` <br>*Alt*: `Jimmy Durante 1943-08-26`, `Camel Caravan 1943` | **"Catskills Summer Resort & Inka Dinka Doo (Jimmy Durante & Garry Moore — Camel)"** | **CBS (KNX/WABC)**<br>1943-08-26<br>10:00 PM EWT | **R.J. Reynolds**<br>Camel Cigarettes & Prince Albert | **Jimmy Durante**, **Garry Moore**, **Georgia Gibbs** | **Phil Cohan**, **Howard Petrie** | `["Comedy", "Variety", "Vaudeville", "Music", "Americana"]` | "Camel Cigarettes presents The Camel Comedy Caravan, starring Jimmy 'The Schnozzola' Durante and Garry Moore!" Jimmy and Garry open a summer resort hotel in the Catskills, navigating rowdy guests, songstress Georgia Gibbs singing 'Shoo-Shoo Baby', and Durante's piano-pounding anthem 'Inka Dinka Doo' for Camel Cigarettes. |
+| `Meet_Parkys_1945.mp3` <br>*Alt*: `Parky Gets A Medal`, `Old Gold Parkys 1945` | **"Parky Gets a Medal (Harry Einstein as Nick Parkyakarkus — Old Gold)"** | **NBC (WEAF/KFI)**<br>1945-08-26<br>10:30 PM EWT | **P. Lorillard Co.**<br>Old Gold ("Treat Not Treatment") | **Harry Einstein**, **Sheldon Leonard** | **Hal Fimberg**, **Art Baker** | `["Comedy", "Sitcom", "Domestic", "Vaudeville", "Americana"]` | "Old Gold Cigarettes presents Meet Me at Parky's, starring Harry Einstein as Nick Parkyakarkus!" In his neighborhood diner, Parky is mistakenly awarded a civic hero medal by the mayor after supposedly rescuing a cat from a smokestack, leading to frantic comedic cover-ups when the real rescuer shows up for Old Gold. |
+| `Thin_Man_1942.mp3` <br>*Alt*: `Dutiful Husband`, `Post Toasties Thin Man` | **"The Case of the Dutiful Husband (Les Damon & Claudia Morgan — Post Toasties)"** | **NBC (WEAF)**<br>1942-08-26<br>8:00 PM EWT | **General Foods**<br>Post Toasties & Sanka Coffee | **Les Damon** (Nick), **Claudia Morgan** (Nora) | **Dashiell Hammett**, **Himan Brown** | `["Detective", "Mystery", "Comedy", "Sophisticated", "Crime"]` | "Post Toasties presents The Adventures of the Thin Man, starring Les Damon and Claudia Morgan as Nick and Nora Charles!" While Nick Charles tries to secretly preview Nora's surprise birthday mink coat inside an upscale Manhattan fur salon, he opens the storage vault only to stumble across the strangled body of a wealthy diamond merchant. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 341
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
