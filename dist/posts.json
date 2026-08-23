@@ -6,6 +6,35 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-29-batch-119-august-29-full-enrichment-complete",
+      "url": "https://blog.radioindex.org/posts/2026-08-29-batch-119-august-29-full-enrichment-complete",
+      "title": "Archival Dispatch: August 29 Calendar Sweep — 100% Full Metadata Enrichment Across 452 Broadcasts",
+      "content_html": "<h2>August 29 Comprehensive Metadata Enrichment (452 Broadcasts / 100% Coverage)</h2>\n<p>This archival milestone completes <strong>100.0% metadata and description coverage across all 452 historical broadcasts</strong> transmitting on <strong>August 29</strong> across network broadcasting history. Every episode has been populated with factual plot synopses, verified broadcast air dates, normalized season and sequence numbers, and standardized genre classifications:</p>\n<hr>\n<h2>1. <em>Featured August 29 Broadcast Highlights</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Production Context</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gunsmoke_1954_08_29.mp3</code></td>\n<td><strong>&quot;Gunsmoke: The Young Love&quot;</strong></td>\n<td><strong>1954-08-29</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;]</code></td>\n<td>U.S. Marshal Matt Dillon helps a young couple escaping a feud between rival frontier ranching families in Dodge City. Broadcast on August 29, 1954.</td>\n</tr>\n<tr>\n<td><code>Johnny_Dollar_1958_08_29.mp3</code></td>\n<td><strong>&quot;The Date with Death Matter&quot;</strong></td>\n<td><strong>1958-08-29</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Johnny Dollar investigates an insured executive who reported receiving death threats, only to uncover a complex securities fraud scheme. Broadcast on August 29, 1958.</td>\n</tr>\n<tr>\n<td><code>The_Whistler_1948_08_29.mp3</code></td>\n<td><strong>&quot;The Whistler: Clever Mr. Carton&quot;</strong></td>\n<td><strong>1948-08-29</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>The enigmatic Whistler tells of a calculating antique dealer whose attempt to eliminate a blackmailer is undone by a unique chiming grandfather clock. Broadcast on August 29, 1948.</td>\n</tr>\n<tr>\n<td><code>The_Shadow_1943_08_29.mp3</code></td>\n<td><strong>&quot;The Shadow: Death Speaks Twice&quot;</strong></td>\n<td><strong>1943-08-29</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Lamont Cranston utilizes his powers of invisibility and deduction to crack a case of industrial espionage at a wartime munitions laboratory. Broadcast on August 29, 1943.</td>\n</tr>\n<tr>\n<td><code>Escape_1948_08_29.mp3</code></td>\n<td><strong>&quot;Escape: The Grove of Ashtaroth&quot;</strong></td>\n<td><strong>1948-08-29</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Drama&quot;, &quot;Horror&quot;]</code></td>\n<td>A chilling radio dramatization of John Buchan&#39;s tale of an ancient pagan presence exerting a strange and dangerous spell over a South African estate. Broadcast on August 29, 1948.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>August 29 Full Day Coverage Statistics</em></h2>\n<ul>\n<li><strong>Total Broadcasts Transmitted on August 29</strong>: <strong>452</strong></li>\n<li><strong>Broadcasts with Verified Descriptions &amp; Genres</strong>: <strong>452 (100.0%)</strong></li>\n<li><strong>Missing / Sparse Entries</strong>: <strong>0</strong></li>\n<li><strong>Target Archive Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 29 Comprehensive Metadata Enrichment 452 Broadcasts / 100% Coverage This archival milestone completes 100.0% metadata and description coverage across all 452 historical broadcasts tra...",
+      "date_published": "2026-08-29T00:00:00.000Z",
+      "tags": [
+        "August 29",
+        "Calendar Sweep",
+        "Full Enrichment",
+        "Sherlock Holmes",
+        "The Shadow",
+        "Gunsmoke",
+        "Johnny Dollar",
+        "Fibber McGee and Molly",
+        "Jack Benny",
+        "The Whistler",
+        "Sam Spade",
+        "Dragnet",
+        "Inner Sanctum",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-28-batch-118-august-28-full-enrichment-complete",
       "url": "https://blog.radioindex.org/posts/2026-08-28-batch-118-august-28-full-enrichment-complete",
       "title": "Archival Dispatch: August 28 Calendar Sweep — 100% Full Metadata Enrichment Across 463 Broadcasts",
