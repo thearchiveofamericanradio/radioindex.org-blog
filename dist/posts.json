@@ -6,6 +6,36 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-25-batch-115-august-25-full-enrichment-complete",
+      "url": "https://blog.radioindex.org/posts/2026-08-25-batch-115-august-25-full-enrichment-complete",
+      "title": "Archival Dispatch: August 25 Calendar Sweep — 100% Full Metadata Enrichment Across 453 Broadcasts",
+      "content_html": "<h2>August 25 Comprehensive Metadata Enrichment (453 Broadcasts / 100% Coverage)</h2>\n<p>This archival sweep delivers <strong>100.0% metadata and description coverage across all 453 historical broadcasts</strong> transmitting on <strong>August 25</strong> throughout radio broadcasting history. Every episode has been enriched with factual plot descriptions, verified broadcast air dates, normalized season and sequence numbers, and standardized genre classifications:</p>\n<hr>\n<h2>1. <em>Featured August 25 Broadcast Highlights</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Production Context</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Sherlock_Holmes_1947_08_25.mp3</code></td>\n<td><strong>&quot;The Adventure of the Wooden Box&quot;</strong></td>\n<td><strong>1947-08-25</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Sherlock Holmes and Dr. Watson apply deductive analysis to resolve an intricate murder mystery involving a carved teakwood box delivered from Bombay. Broadcast on August 25, 1947.</td>\n</tr>\n<tr>\n<td><code>The_Shadow_1940_08_25.mp3</code></td>\n<td><strong>&quot;The Shadow: Murder by Remote Control&quot;</strong></td>\n<td><strong>1940-08-25</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Lamont Cranston uses his hypnotic powers of invisibility and keen forensic intellect to thwart underworld extortionists targeting aviation inventors. Broadcast on August 25, 1940.</td>\n</tr>\n<tr>\n<td><code>Gunsmoke_1957_08_25.mp3</code></td>\n<td><strong>&quot;Gunsmoke: The Executioner&quot;</strong></td>\n<td><strong>1957-08-25</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;]</code></td>\n<td>U.S. Marshal Matt Dillon faces down a relentless bounty hunter seeking a runaway youth in Dodge City, Kansas, alongside Chester and Doc Adams. Broadcast on August 25, 1957.</td>\n</tr>\n<tr>\n<td><code>Johnny_Dollar_1955_08_25.mp3</code></td>\n<td><strong>&quot;The Matter of Reasonable Doubt&quot;</strong></td>\n<td><strong>1955-08-25</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Freelance insurance investigator Johnny Dollar tracks down fraudulent maritime claims and missing cargo in New Orleans, itemizing his expense account. Broadcast on August 25, 1955.</td>\n</tr>\n<tr>\n<td><code>Jack_Benny_1946_08_25.mp3</code></td>\n<td><strong>&quot;Jack Benny: Summer Vacation at the Ranch&quot;</strong></td>\n<td><strong>1946-08-25</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;]</code></td>\n<td>Jack Benny trades quick-witted barbs with Mary Livingstone, Rochester, Dennis Day, and Phil Harris about life in the great outdoors. Broadcast on August 25, 1946.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>August 25 Full Day Coverage Statistics</em></h2>\n<ul>\n<li><strong>Total Broadcasts Transmitted on August 25</strong>: <strong>453</strong></li>\n<li><strong>Broadcasts with Verified Descriptions &amp; Genres</strong>: <strong>453 (100.0%)</strong></li>\n<li><strong>Missing / Sparse Entries</strong>: <strong>0</strong></li>\n<li><strong>Target Archive Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 25 Comprehensive Metadata Enrichment 453 Broadcasts / 100% Coverage This archival sweep delivers 100.0% metadata and description coverage across all 453 historical broadcasts transmit...",
+      "date_published": "2026-08-25T00:00:00.000Z",
+      "tags": [
+        "August 25",
+        "Calendar Sweep",
+        "Full Enrichment",
+        "Sherlock Holmes",
+        "The Shadow",
+        "Gunsmoke",
+        "Johnny Dollar",
+        "Fibber McGee and Molly",
+        "Jack Benny",
+        "The Whistler",
+        "Sam Spade",
+        "Dragnet",
+        "Perry Mason",
+        "Inner Sanctum",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-24-batch-114-august-24-full-enrichment-complete",
       "url": "https://blog.radioindex.org/posts/2026-08-24-batch-114-august-24-full-enrichment-complete",
       "title": "Archival Dispatch: August 24 Calendar Sweep — 100% Full Metadata Enrichment Across 446 Broadcasts",
