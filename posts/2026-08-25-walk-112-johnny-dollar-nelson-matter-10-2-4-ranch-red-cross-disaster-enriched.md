@@ -1,0 +1,33 @@
+# Archival Dispatch: August 25 Calendar Walk — Johnny Dollar (Nelson Matter), 10-2-4 Ranch (Dr Pepper), and Red Cross Disaster
+
+**Date**: 2026-08-25  
+**Author**: radio index  
+**Tags**: August 25, Calendar Walk, Yours Truly Johnny Dollar, John Lund, Jaime del Valle, CBS, 10-2-4 Time, 10-2-4 Ranch, Dr Pepper, Martha Mears, Sons of the Pioneers, Bob Nolan, Hugh Farr, Karl Farr, Disaster, American Red Cross, Don Pardo, Fred Waring, General Electric, Alternate Titles, Original Filenames
+
+---
+
+## August 25 Exhaustive Archival Metadata Enrichment (Increment 112)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, John Lund as Johnny Dollar probing a staged roadster fire insurance conspiracy, three harmonious western swing sessions with Martha Mears & The Sons of the Pioneers on the *10-2-4 Ranch* for Dr Pepper, Don Pardo narrating the 1957 Texas tornadoes for the Red Cross, and Fred Waring on GE (1943–1957):
+
+---
+
+## 1. *August 25 Archival Inventory (Increment 112)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `1024_Time_1943.mp3` <br>*Alt*: `10-2-4 Time 1943-08-25`, `Tumbling Tumbleweeds Dr Pepper` | **"Tumbling Tumbleweeds (Martha Mears & Sons of the Pioneers — Dr Pepper)"** | **Mutual (WFAA)**<br>1943-08-25<br>4:30 PM CWT | **Dr Pepper Co.**<br>"Drink a Bite to Eat at 10, 2, and 4!" | **Martha Mears**, **Sons of the Pioneers** (Bob Nolan) | **Tracy-Locke Agency**, **Bill Ring** | `["Western", "Country", "Music", "Vocal", "Harmony"]` | "Drink a bite to eat at 10, 2, and 4 o'clock! It's 10-2-4 Time, starring the Sons of the Pioneers and Martha Mears, brought to you by Dr Pepper!" Songstress Martha Mears and Bob Nolan's Sons of the Pioneers sing stirring frontier harmonies including 'Tumbling Tumbleweeds' and 'Cool Water' for Dr Pepper. |
+| `1024_Time_1944.mp3` <br>*Alt*: `First Song - My Isle of Golden Dreams`, `My Isle Golden Dreams` | **"My Isle of Golden Dreams (Martha Mears & Sons of the Pioneers — Dr Pepper)"** | **Mutual (WFAA)**<br>1944-08-25<br>4:30 PM CWT | **Dr Pepper Co.**<br>"Drink a Bite to Eat at 10, 2, and 4!" | **Martha Mears**, **Sons of the Pioneers** | **Tracy-Locke Agency**, **Bill Ring** | `["Western", "Country", "Music", "Vocal", "Harmony"]` | "Welcome to the 10-2-4 Ranch, brought to you by Dr Pepper!" Martha Mears lends her rich contralto to the island standard 'My Isle of Golden Dreams', while the Sons of the Pioneers perform cowboy ballads and upbeat western swing for Dr Pepper. |
+| `1024_Time_1945.mp3` <br>*Alt*: `First Song - I've Got Music`, `Ive Got Music Dr Pepper` | **"I've Got Music (Hugh & Karl Farr with Sons of the Pioneers — Dr Pepper)"** | **Mutual (WFAA)**<br>1945-08-25<br>4:30 PM CWT | **Dr Pepper Co.**<br>"Drink a Bite to Eat at 10, 2, and 4!" | **Martha Mears**, **Hugh & Karl Farr** (Fiddles) | **Tracy-Locke Agency**, **Bill Ring** | `["Western", "Country", "Music", "Vocal", "Harmony"]` | "It's 10-2-4 Time at the Dr Pepper Ranch!" Karl and Hugh Farr lead a barn-burning twin-fiddle instrumental breakdown on 'I've Got Music', followed by Martha Mears and the Pioneers harmonizing on beloved prairie classics for Dr Pepper. |
+| `Disaster_1957.mp3` <br>*Alt*: `The Southern Tornadoes of 1957`, `Dallas Tornado Red Cross` | **"The Southern Tornadoes of 1957 (Narrator Don Pardo — American Red Cross)"** | **Red Cross Synd.**<br>1957-08-25<br>(PR Division) | **Sustaining**<br>Red Cross Public Service | **Don Pardo** (Narrator), **Lawson Zerbe** | **American National Red Cross** | `["Documentary", "Historical", "Drama", "Public Service", "Emergency"]` | "Disaster! Presented by the American National Red Cross!" Narrator Don Pardo dramatizes the devastating EF4 tornadoes that ripped through Texas and the American South in the spring of 1957, recounting the courageous emergency medical response and relief shelter operations launched by Red Cross volunteers. |
+| `Fred_Waring_1947_2.mp3` <br>*Alt*: `Japanese Sandman`, `Fred Waring Show 1947` | **"The Japanese Sandman (Fred Waring & The Pennsylvanians — General Electric)"** | **NBC (WEAF)**<br>1947-08-25<br>10:00 AM EDT | **General Electric**<br>GE Household Appliances | **Fred Waring**, **Jane Wilson**, **Gordon Goodman** | **Waring Enterprises**, **Bill Bivens** | `["Music", "Choral", "Easy Listening", "Vocal", "Pop"]` | "The Fred Waring Show, brought to you by General Electric!" Fred Waring and his 60-voice glee club present a sparkling morning choral suite featuring 'The Japanese Sandman' and popular melodies for General Electric appliances. |
+| `Johnny_Dollar_1953.mp3` <br>*Alt*: `The Nelson Matter`, `The Nelson Insurance Fraud` | **"The Nelson Matter (John Lund as Johnny Dollar — CBS)"** | **CBS (KNX)**<br>1953-08-25<br>9:00 PM EDT | **Sustaining**<br>Insurance Investigator | **John Lund** (Johnny Dollar), **Virginia Gregg** | **Jaime del Valle** (Producer/Dir.), **Roy Rowan** | `["Detective", "Hardboiled", "Mystery", "Procedural", "Crime"]` | "Yours Truly, Johnny Dollar! The transcribed adventures of the man with the action-packed expense account — America's fabulous freelance insurance investigator!" Freelance investigator Johnny Dollar travels to upstate New York to probe the fatal fiery crash of an antique roadster, uncovering an audacious life insurance fraud scheme engineered by the supposedly dead playboy policyholder. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 287
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
