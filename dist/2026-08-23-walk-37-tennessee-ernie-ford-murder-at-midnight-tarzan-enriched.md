@@ -1,0 +1,33 @@
+# Archival Dispatch: August 23 Calendar Walk — Tennessee Ernie Ford, Murder at Midnight, and Tarzan
+
+**Date**: 2026-08-23  
+**Author**: radio index  
+**Tags**: August 23, Calendar Walk, The Ford Road Show, Tennessee Ernie Ford, Ford Motor Company, Murder at Midnight, Raymond Edward Johnson, Louis Vittes, Anton M Leader, The Adventures of Tarzan, Lamont Johnson, Commodore Productions, The Carrington Playhouse, Elaine Carrington, Donald Buka, The Johnson Family, Jimmy Scribner, Solo Voice, Alternate Titles, Original Filenames
+
+---
+
+## August 23 Exhaustive Archival Metadata Enrichment (Increment 37)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American network and syndicated broadcasting history (1946–1958):
+
+---
+
+## 1. *August 23 Archival Inventory (Increment 37)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Tarzan_1951_08_23_33.mp3` <br>*Alt*: `Lord Jungle Trophy Room`, `Tarzan Episode 33` | **"The Adventures of Tarzan #33: The Trophy Room (Starring Lamont Johnson)"** | **Commodore Syndication**<br>1951-08-23<br>(Transcribed Ep 33) | **Local Commercials**<br>Commodore Advertisers | **Lamont Johnson** (Tarzan), **Carlton KaDell**, **Lou Krugman** | **Walter White Jr.** (Producer), **Bud Ernest** (Director) | `["Adventure", "Jungle", "Action", "Pulp"]` | Tarzan matches wits with a deranged big-game trophy hunter who captures rare African animals and jungle explorers for his macabre private museum collection inside a fortified jungle compound. |
+| `Tarzan_1952_08_23.mp3` <br>*Alt*: `Trouble San Lorenca`, `Tarzan Lamont Johnson 1952` | **"Trouble Off San Lorenca (Starring Lamont Johnson as Tarzan)"** | **Commodore Syndication**<br>1952-08-23<br>(Transcribed) | **Local Commercials**<br>Commodore Advertisers | **Lamont Johnson** (Tarzan), **Gerald Mohr**, **Herb Butterfield** | **Walter White Jr.** (Producer), **Michael Rye** (Announcer) | `["Adventure", "Jungle", "Action", "Pulp"]` | Tarzan travels to the African coastal port of San Lorenca to stop an illegal gun-running syndicate supplying heavy weapons to renegade bandits threatening native peaceful villages. |
+| `Ford_Road_Show_1958_08_23.mp3` <br>*Alt*: `If I Could Be With You`, `Tennessee Ernie Ford Road` | **"The Ford Road Show with Tennessee Ernie Ford: 'If I Could Be with You' (Ford Motors)"** | **CBS (WCBS)**<br>1958-08-23<br>11:05 AM EDT | **Ford Motor Company**<br>Ford Fairlane & Thunderbird | **Tennessee Ernie Ford**, **Voices of Walter Schumann**, **Jack Fascinato** | **CBS Music Bureau**, **Jack Narz** (Announcer) | `["Music", "Country", "Vocal", "Gospel", "Pop"]` | Tennessee Ernie Ford entertains weekend motorists for the Ford Motor Company with warm country wit and gospel-tinged pop standards, singing 'If I Could Be with You (One Hour Tonight)' and 'Sixteen Tons'. |
+| `Carrington_1946_08_23.mp3` <br>*Alt*: `Enter Youth`, `Elaine Carrington 1946` | **"Elaine Carrington's Enter Youth (Starring Donald Buka & Joan Tetzel)"** | **Mutual (WOR)**<br>1946-08-23<br>8:00 PM EDT | **Sustaining**<br>Mutual Radio Theater | **Elaine Carrington** (Hostess), **Donald Buka**, **Joan Tetzel** | **Elaine Carrington** (Author), **Carlo De Angelo** | `["Drama", "Anthology", "Romance", "Coming of Age"]` | Radio playwright Elaine Carrington presents an original coming-of-age drama following an ambitious young art student from the Midwest struggling to establish his artistic identity and find true love in bohemian Greenwich Village. |
+| `Murder_Midnight_1946_08_23.mp3` <br>*Alt*: `Death Tolls Requiem`, `Murder at Midnight Requiem` | **"Death Tolls a Requiem (Hosted by Raymond Edward Johnson)"** | **Syndication**<br>1946-08-23<br>(Transcribed) | **Local Commercials**<br>Syndicated Advertisers | **Raymond Edward Johnson** (The Host), **Berry Kroeger**, **Robert Dryden** | **Louis Vittes** (Writer), **Anton M. Leader** (Director) | `["Horror", "Mystery", "Thriller", "Supernatural", "Macabre"]` | An arrogant church bell-ringer murders his wealthy rival in the dark bell tower belfry, only to be driven mad when the heavy funeral bronze bell begins tolling a terrifying supernatural requiem on its own. |
+| `Johnson_Family_1949_08_23.mp3` <br>*Alt*: `Pee Wee Counterfeiters`, `Jimmy Scribner Chickazaw` | **"Brother Johnson and Pee Wee Meet the Counterfeiters (Jimmy Scribner)"** | **Mutual (WOR)**<br>1949-08-23<br>4:45 PM EDT | **Sustaining**<br>Mutual Daytime Drama | **Jimmy Scribner** (Solo Voice Actor for all 22 characters) | **Jimmy Scribner** (Creator, Writer & Performer) | `["Comedy", "Drama", "Small Town", "Solo Voice"]` | Virtuoso solo voice actor Jimmy Scribner portrays all 22 characters of Chickazaw town as Brother Johnson and young Pee Wee unwittingly get entangled with a gang of smooth-talking city counterfeiters passing bogus five-dollar bills. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 222
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
