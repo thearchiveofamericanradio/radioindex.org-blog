@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Host Planet Earth, Fletcher Henderson, and W.C. Fields
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Host Planet Earth, Charles Chilton, BBC, AFRS, Jubilee, Fletcher Henderson, Ernie Bubbles Whitman, Chase and Sanborn, Edgar Bergen, Charlie McCarthy, WC Fields, Don Ameche, Dorothy Lamour, Guest Star, Agnes Moorehead, Ricky Nelson, US Treasury, Faces of Love, Jackson Beck, Joan Copeland, Joan Lorring, Himan Brown, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 196)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American and British radio, Charles Chilton's British sci-fi serial *Host Planet Earth*, Fletcher Henderson on AFRS *Jubilee*, W.C. Fields feuding with Charlie McCarthy on *The Chase and Sanborn Program*, Agnes Moorehead and Ricky Nelson on *Guest Star* for U.S. Savings Bonds, and Himan Brown's *The Faces of Love* (1939–1975):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 196)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Host_Planet_Earth_1967.mp3` <br>*Alt*: `Part 5 The Arrival`, `BBC 1967` | **"The Arrival (Part 5)"** | **BBC Light**<br>1967-08-27<br>6:30 PM | **Sustaining**<br>Sci-Fi Serial | **David Brierley**, **Noel Johnson** | **Charles Chilton** | `["Science Fiction", "Thriller", "British", "Serial", "Space"]` | An alien reconnaissance vessel penetrates Earth's upper atmosphere, prompting international scientists to attempt emergency radio communication before global panic erupts. |
+| `AFRS_Jubilee_1945.mp3` <br>*Alt*: `AFRS Jubilee Fletcher Henderson` | **"Jubilee with Fletcher Henderson & His Orchestra"** | **AFRS**<br>1945-08-27<br>Program #146 | **US War Dept**<br>AFRS Jubilee | **Ernie 'Bubbles' Whitman** (MC), **Fletcher Henderson** | **AFRS Hollywood Production** | `["Music", "Jazz", "Big Band", "Swing", "Variety"]` | Ernie 'Bubbles' Whitman introduces swing arrangements and jump blues performances by Fletcher Henderson and His Orchestra recorded for Allied troops overseas. |
+| `Chase_and_Sanborn_1939.mp3` <br>*Alt*: `Guest - W.C. Fields, Jane Powell` | **"Guest W.C. Fields & The Pool Game Feud"** | **NBC Red (WEAF)**<br>1939-08-27<br>8:00 PM EDST | **Standard Brands**<br>Chase & Sanborn Coffee | **Edgar Bergen**, **Charlie McCarthy**, **W.C. Fields** | **Don Ameche**, **Dorothy Lamour** | `["Comedy", "Variety", "Ventriloquism", "Satire", "Music"]` | Charlie McCarthy trades insult comedy with W.C. Fields regarding temperance and pool games while Don Ameche and Dorothy Lamour perform romantic duets. |
+| `Guest_Star_1950.mp3` <br>*Alt*: `Guest Agnes Moorehead`, `The Trap` | **"Agnes Moorehead in 'The Trap'"** | **US Treasury**<br>1950-08-27<br>Program #179 | **US Treasury**<br>U.S. Savings Bonds | **Agnes Moorehead** (Lead), **Harry Von Zell** | **US Treasury Staff** | `["Drama", "Americana", "Western", "Historical", "Public Affairs"]` | Agnes Moorehead stars in a dramatic sketch about a courageous pioneer woman outwitting a frontier swindler, followed by an appeal for U.S. Savings Bonds. |
+| `Guest_Star_1961.mp3` <br>*Alt*: `First Song - Travelin' Man`, `1961` | **"Ricky Nelson Sings 'Travelin' Man'"** | **US Treasury**<br>1961-08-27<br>Program #753 | **US Treasury**<br>U.S. Savings Bonds | **Ricky Nelson**, **Jimmie Haskell Orchestra** | **US Treasury Staff** | `["Music", "Rock & Roll", "Pop Standards", "Vocal", "Americana"]` | Ricky Nelson performs his chart-topping hit 'Travelin' Man' and 'Hello Mary Lou' alongside musical arrangements in support of U.S. Savings Bonds. |
+| `Faces_of_Love_1975.mp3` <br>*Alt*: `Guy Repp, Jackson Beck, Joan Copeland` | **"The Two Sisters"** | **Syndicated**<br>1975-08-27 | **Sustaining**<br>Drama Anthology | **Joan Copeland**, **Joan Lorring**, **Jackson Beck** | **Himan Brown**, **Ian Martin** | `["Drama", "Romance", "Mystery", "Psychological", "Anthology"]` | Two estranged sisters reunite at a secluded country manor to settle an inheritance dispute, uncovering a buried family secret involving a forged love letter. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 89
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
