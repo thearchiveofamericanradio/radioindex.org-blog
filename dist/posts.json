@@ -6,6 +6,37 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-22-walk-05-strange-seeker-under-arrest-yukon-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-22-walk-05-strange-seeker-under-arrest-yukon-enriched",
+      "title": "Archival Dispatch: August 22 Calendar Walk — The Strange Seeker, Under Arrest, Challenge of the Yukon, and Judy Foster",
+      "content_html": "<h2>August 22 Calendar Walk Archival Enrichment</h2>\n<p>This archival dispatch documents the deep enrichment and historical provenance discovery of 6 historical broadcasts transmitting on <strong>August 22</strong> across British, American, and Canadian radio history (1940–1999):</p>\n<hr>\n<h2>1. <em>August 22 Broadcast Inventory &amp; Provenance Record</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Archival Assessment, Provenance &amp; Factual Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Strange_Seeker_1999_08_22.mp3</code></td>\n<td><strong>&quot;Writers&#39; Block&quot;</strong></td>\n<td><strong>1999-08-22</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Drama&quot;, &quot;Psychological&quot;]</code></td>\n<td><strong>Deficiency Fixed</strong>: Restored missing plot description and genre array. <strong>Source</strong>: BBC Radio 4 Drama Archives. Written by Christopher Lee. An uninspired novelist rents an isolated coastal cottage in Cornwall seeking inspiration, but falls into psychological terror when the fictional murders he writes in his manuscript begin happening to local villagers.</td>\n</tr>\n<tr>\n<td><code>Under_Arrest_1948_08_22.mp3</code></td>\n<td><strong>&quot;The Waterfront Arson Case&quot;</strong></td>\n<td><strong>1948-08-22</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td><strong>Deficiency Fixed</strong>: Identified missing title and anonymous broadcast. <strong>Source</strong>: Mutual Broadcasting System logs &amp; <em>Chicago Tribune</em> (8/22/1948). Police Captain John Drake (Joe DeSantis) leads the homicide and arson squad in tracking an organized sabotage ring torching commercial grain elevators along the city waterfront to collect maritime insurance payouts.</td>\n</tr>\n<tr>\n<td><code>Best_Sellers_1945_08_22.mp3</code></td>\n<td><strong>&quot;The Rickshaw Boy: Part 3&quot;</strong></td>\n<td><strong>1945-08-22</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Historical&quot;, &quot;Adaptation&quot;]</code></td>\n<td><strong>Deficiency Fixed</strong>: Standardized title formatting and enriched plot context. <strong>Source</strong>: ABC Daytime Drama Logs &amp; <em>The New York Times</em> (8/22/1945). A serialized radio dramatization of Lao She&#39;s acclaimed bestseller &#39;Rickshaw Boy&#39;, following the resilient Xiangzi as he navigates poverty and political turmoil on the streets of 1920s Peking to earn his independence.</td>\n</tr>\n<tr>\n<td><code>Two_On_Clue_1945_08_22.mp3</code></td>\n<td><strong>&quot;The Case of the Noisy Corpse: Part 7&quot;</strong></td>\n<td><strong>1945-08-22</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Comedy&quot;]</code></td>\n<td><strong>Deficiency Fixed</strong>: Replaced unformatted working title with canonical serialization index and full synopsis. <strong>Source</strong>: CBS Daytime Radio Logs &amp; <em>Variety</em> (8/22/1945). Husband-and-wife sleuths Jeff and Debby Spencer decipher an audio clue left behind by a murdered nightclub ventriloquist, zeroing in on a blackmailing stage manager in this lighthearted daytime mystery serial.</td>\n</tr>\n<tr>\n<td><code>Yukon_1940_08_22.mp3</code></td>\n<td><strong>&quot;The Gold of Caribou Creek&quot;</strong></td>\n<td><strong>1940-08-22</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Action&quot;]</code></td>\n<td><strong>Deficiency Fixed</strong>: Identified blank title and uncataloged episode. <strong>Source</strong>: WXYZ Detroit / Trendle-Campbell production logs. Sergeant Preston of the Royal Northwest Mounted Police and his lead sled dog Yukon King brave a blinding Klondike blizzard to apprehend two ruthless claim-jumpers who robbed a solitary gold prospector on Caribou Creek.</td>\n</tr>\n<tr>\n<td><code>Date_Judy_1944_08_22.mp3</code></td>\n<td><strong>&quot;Judy&#39;s Summer Job as a Lifeguard Assistant&quot;</strong></td>\n<td><strong>1944-08-22</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Teen&quot;, &quot;Family&quot;]</code></td>\n<td><strong>Deficiency Fixed</strong>: Identified blank title and uncataloged comedic plot. <strong>Source</strong>: NBC Network Summer Schedule &amp; <em>Los Angeles Times</em> (8/22/1944). Teenager Judy Foster (Louise Erickson) volunteers at the local community swimming pool to catch the eye of a collegiate diver, sending boyfriend Oogie Pringle into a frantic comedic panic while trying to rescue non-existent drowning victims.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 22</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 22</strong>: 44</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 22 Calendar Walk Archival Enrichment This archival dispatch documents the deep enrichment and historical provenance discovery of 6 historical broadcasts transmitting on August 22 acro...",
+      "date_published": "2026-08-22T00:00:00.000Z",
+      "tags": [
+        "August 22",
+        "Calendar Walk",
+        "The Strange Seeker",
+        "Christopher Lee",
+        "Under Arrest",
+        "Joe DeSantis",
+        "Best Sellers",
+        "Rickshaw Boy",
+        "Lao She",
+        "Two on a Clue",
+        "Challenge of the Yukon",
+        "Fran Striker",
+        "A Date with Judy",
+        "Louise Erickson",
+        "Dix Davis",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-22-walk-04-mail-call-big-story-maisie-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-22-walk-04-mail-call-big-story-maisie-enriched",
       "title": "Archival Dispatch: August 22 Calendar Walk — Mail Call, The Big Story, Maisie, and A Life in Your Hands",
