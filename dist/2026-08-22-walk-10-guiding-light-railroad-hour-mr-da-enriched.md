@@ -1,0 +1,33 @@
+# Archival Dispatch: August 22 Calendar Walk — Guiding Light, College All-Star Game, Railroad Hour, and Mr. District Attorney
+
+**Date**: 2026-08-22  
+**Author**: radio index  
+**Tags**: August 22, Calendar Walk, Guiding Light, Irna Phillips, Charita Bauer, James Lipton, Procter and Gamble, Duz, Bulldog Drummond, College All-Star Game, Red Grange, Bob Elson, Soldier Field, This Changing World, John KM McCaffery, Russ Morgan, Club Del Mar, Railroad Hour, Gordon MacRae, Evelyn Wyckoff, Carmen Dragon, Mr District Attorney, Dwight Weist, Pepsodent, Alternate Titles, Original Filenames
+
+---
+
+## August 22 Exhaustive Archival Metadata Enrichment
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for 6 historical broadcasts transmitting on **August 22** across American network broadcasting history (1939–1959):
+
+---
+
+## 1. *August 22 Exhaustive Archival Inventory*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Guiding_Light_1950_08_22.mp3` <br>*Alt*: `Ted Returns From Trip`, `Ted White Confession` | **"Ted White's Confession"** | **CBS (WABC)**<br>1950-08-22<br>1:45 PM EDT | **Procter & Gamble**<br>Duz Detergent ("Duz Does Everything") & Ivory Soap | **Lyle Sudrow** (Dr. Bill Bauer), **Charita Bauer** (Bert Bauer), **James Lipton** (Dr. Dick Grant), **William Smith** (Ted White) | **Irna Phillips** (Creator), **Walter Gorman** (Director), **Bernice Yanacek** (Organist), **Hal Simms** (Announcer) | `["Drama", "Soap Opera", "Serial"]` | Ted White returns unexpectedly to Selby Flats after an unexplained two-week absence in Chicago, confessing to Dr. Bill Bauer that he accumulated insurmountable gambling debts and fears loan sharks are staking out his family's home. |
+| `Bulldog_Drummond_1947_08_22.mp3` <br>*Alt*: `Preempted All Star Football`, `14th College All Star Game` | **"Special Sports Broadcast: 14th Annual College All-Star Football Game"** | **Mutual (WGN / WOR)**<br>1947-08-22<br>9:30 PM EDT | **Non-commercial**<br>Chicago Tribune Charities | **Red Grange & Bob Elson** (Sports Commentators), Soldier Field Chicago | **Mutual Sports Division**, Live remote from Soldier Field | `["Sports", "Live Event", "Historical"]` | Red Grange and Bob Elson provide live play-by-play coverage from Soldier Field in Chicago as the College All-Stars deliver a stunning 16–0 shutout victory over the NFL World Champion Chicago Bears before a crowd of 105,000 spectators. |
+| `This_Changing_World_1944_08_22.mp3` <br>*Alt*: `This Changing World ( )`, `McCaffery Paris Report` | **"This Changing World: European Liberation and Reconstruction"** | **CBS (WABC)**<br>1944-08-22<br>10:30 AM EWT | **Standard Brands**<br>Fleischmann's Yeast | **John K.M. McCaffery** (Commentator / Host) | **CBS Public Affairs Division**, New York | `["Talk", "News", "Public Affairs"]` | Commentator John K.M. McCaffery analyzes the rapid liberation of Paris and Allied advance across the Seine, discussing post-war European industrial reconstruction plans and food rationing adjustments for American households. |
+| `Russ_Morgan_1959_08_22.mp3` <br>*Alt*: `Russ Morgan - Club Delmar`, `Music In Morgan Manner` | **"Russ Morgan Live at Club Del Mar"** | **NBC (KFI Los Angeles)**<br>1959-08-22<br>11:30 PM PDT | **Sustaining**<br>NBC Remote Broadcast | **Russ Morgan and his Orchestra** (featuring Russ Morgan on trombone & piano, **Morgan Sisters** vocalists) | **NBC Remote Engineering**, Club Del Mar, Santa Monica CA | `["Music", "Big Band", "Swing"]` | Russ Morgan and his Orchestra broadcast live from the oceanfront Club Del Mar in Santa Monica, performing trademark smooth dance arrangements of 'So Tired', 'Does Your Heart Beat for Me?', 'Cruising Down the River', and 'Wabash Blues'. |
+| `Railroad_Hour_1949_08_22.mp3` <br>*Alt*: `Call Me Mister`, `Harold Rome Review` | **"Call Me Mister (Starring Gordon MacRae & Evelyn Wyckoff)"** | **ABC (WJZ)**<br>1949-08-22<br>8:00 PM EDT | **Assoc. of American Railroads**<br>Institutional Railway Advertising | **Gordon MacRae** (Host / Baritone), **Evelyn Wyckoff** (Guest Soprano), **The Sportsmen Quartet**, **Carmen Dragon Orchestra** | **Jean Holloway** (Writer), **Kenneth Burton** (Director), **Marvin Miller** (Announcer) | `["Music", "Musical Theatre", "Variety"]` | Gordon MacRae and guest soprano Evelyn Wyckoff headline a radio adaptation of Harold Rome's Broadway musical hit 'Call Me Mister', performing celebratory post-war showtunes including 'South America, Take It Away', 'Along With Me', and 'The Red Ball Express'. |
+| `Mr_DA_1939_08_22.mp3` <br>*Alt*: `Counterfeit Bonds`, `Wall Street Forgery` | **"The Case of the Counterfeit Bonds"** | **NBC Red (WEAF)**<br>1939-08-22<br>8:00 PM EDT | **The Pepsodent Co.**<br>Pepsodent Toothpaste & Dentifrice | **Dwight Weist** (The District Attorney), **Vicki Vola** (Miss Miller), **Len Doyle** (Harrington) | **Phillips H. Lord** (Creator), **Edward A. Byron** (Director), **Jerry O'Brien** (Sound Effects), **Fred Cole** (Announcer) | `["Crime", "Detective", "Drama"]` | The District Attorney and investigator Harrington track a sophisticated Wall Street counterfeiting syndicate flooding municipal bond markets with forged securities, trapping the ringleader during an attempted transfer at a Grand Central Terminal luggage locker. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 22
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 22**: 74
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

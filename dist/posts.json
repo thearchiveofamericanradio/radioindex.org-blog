@@ -6,6 +6,47 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-22-walk-10-guiding-light-railroad-hour-mr-da-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-22-walk-10-guiding-light-railroad-hour-mr-da-enriched",
+      "title": "Archival Dispatch: August 22 Calendar Walk — Guiding Light, College All-Star Game, Railroad Hour, and Mr. District Attorney",
+      "content_html": "<h2>August 22 Exhaustive Archival Metadata Enrichment</h2>\n<p>This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for 6 historical broadcasts transmitting on <strong>August 22</strong> across American network broadcasting history (1939–1959):</p>\n<hr>\n<h2>1. <em>August 22 Exhaustive Archival Inventory</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story-First Plot Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Guiding_Light_1950_08_22.mp3</code> <br><em>Alt</em>: <code>Ted Returns From Trip</code>, <code>Ted White Confession</code></td>\n<td><strong>&quot;Ted White&#39;s Confession&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1950-08-22<br>1:45 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Detergent (&quot;Duz Does Everything&quot;) &amp; Ivory Soap</td>\n<td><strong>Lyle Sudrow</strong> (Dr. Bill Bauer), <strong>Charita Bauer</strong> (Bert Bauer), <strong>James Lipton</strong> (Dr. Dick Grant), <strong>William Smith</strong> (Ted White)</td>\n<td><strong>Irna Phillips</strong> (Creator), <strong>Walter Gorman</strong> (Director), <strong>Bernice Yanacek</strong> (Organist), <strong>Hal Simms</strong> (Announcer)</td>\n<td><code>[&quot;Drama&quot;, &quot;Soap Opera&quot;, &quot;Serial&quot;]</code></td>\n<td>Ted White returns unexpectedly to Selby Flats after an unexplained two-week absence in Chicago, confessing to Dr. Bill Bauer that he accumulated insurmountable gambling debts and fears loan sharks are staking out his family&#39;s home.</td>\n</tr>\n<tr>\n<td><code>Bulldog_Drummond_1947_08_22.mp3</code> <br><em>Alt</em>: <code>Preempted All Star Football</code>, <code>14th College All Star Game</code></td>\n<td><strong>&quot;Special Sports Broadcast: 14th Annual College All-Star Football Game&quot;</strong></td>\n<td><strong>Mutual (WGN / WOR)</strong><br>1947-08-22<br>9:30 PM EDT</td>\n<td><strong>Non-commercial</strong><br>Chicago Tribune Charities</td>\n<td><strong>Red Grange &amp; Bob Elson</strong> (Sports Commentators), Soldier Field Chicago</td>\n<td><strong>Mutual Sports Division</strong>, Live remote from Soldier Field</td>\n<td><code>[&quot;Sports&quot;, &quot;Live Event&quot;, &quot;Historical&quot;]</code></td>\n<td>Red Grange and Bob Elson provide live play-by-play coverage from Soldier Field in Chicago as the College All-Stars deliver a stunning 16–0 shutout victory over the NFL World Champion Chicago Bears before a crowd of 105,000 spectators.</td>\n</tr>\n<tr>\n<td><code>This_Changing_World_1944_08_22.mp3</code> <br><em>Alt</em>: <code>This Changing World ( )</code>, <code>McCaffery Paris Report</code></td>\n<td><strong>&quot;This Changing World: European Liberation and Reconstruction&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-08-22<br>10:30 AM EWT</td>\n<td><strong>Standard Brands</strong><br>Fleischmann&#39;s Yeast</td>\n<td><strong>John K.M. McCaffery</strong> (Commentator / Host)</td>\n<td><strong>CBS Public Affairs Division</strong>, New York</td>\n<td><code>[&quot;Talk&quot;, &quot;News&quot;, &quot;Public Affairs&quot;]</code></td>\n<td>Commentator John K.M. McCaffery analyzes the rapid liberation of Paris and Allied advance across the Seine, discussing post-war European industrial reconstruction plans and food rationing adjustments for American households.</td>\n</tr>\n<tr>\n<td><code>Russ_Morgan_1959_08_22.mp3</code> <br><em>Alt</em>: <code>Russ Morgan - Club Delmar</code>, <code>Music In Morgan Manner</code></td>\n<td><strong>&quot;Russ Morgan Live at Club Del Mar&quot;</strong></td>\n<td><strong>NBC (KFI Los Angeles)</strong><br>1959-08-22<br>11:30 PM PDT</td>\n<td><strong>Sustaining</strong><br>NBC Remote Broadcast</td>\n<td><strong>Russ Morgan and his Orchestra</strong> (featuring Russ Morgan on trombone &amp; piano, <strong>Morgan Sisters</strong> vocalists)</td>\n<td><strong>NBC Remote Engineering</strong>, Club Del Mar, Santa Monica CA</td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;]</code></td>\n<td>Russ Morgan and his Orchestra broadcast live from the oceanfront Club Del Mar in Santa Monica, performing trademark smooth dance arrangements of &#39;So Tired&#39;, &#39;Does Your Heart Beat for Me?&#39;, &#39;Cruising Down the River&#39;, and &#39;Wabash Blues&#39;.</td>\n</tr>\n<tr>\n<td><code>Railroad_Hour_1949_08_22.mp3</code> <br><em>Alt</em>: <code>Call Me Mister</code>, <code>Harold Rome Review</code></td>\n<td><strong>&quot;Call Me Mister (Starring Gordon MacRae &amp; Evelyn Wyckoff)&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1949-08-22<br>8:00 PM EDT</td>\n<td><strong>Assoc. of American Railroads</strong><br>Institutional Railway Advertising</td>\n<td><strong>Gordon MacRae</strong> (Host / Baritone), <strong>Evelyn Wyckoff</strong> (Guest Soprano), <strong>The Sportsmen Quartet</strong>, <strong>Carmen Dragon Orchestra</strong></td>\n<td><strong>Jean Holloway</strong> (Writer), <strong>Kenneth Burton</strong> (Director), <strong>Marvin Miller</strong> (Announcer)</td>\n<td><code>[&quot;Music&quot;, &quot;Musical Theatre&quot;, &quot;Variety&quot;]</code></td>\n<td>Gordon MacRae and guest soprano Evelyn Wyckoff headline a radio adaptation of Harold Rome&#39;s Broadway musical hit &#39;Call Me Mister&#39;, performing celebratory post-war showtunes including &#39;South America, Take It Away&#39;, &#39;Along With Me&#39;, and &#39;The Red Ball Express&#39;.</td>\n</tr>\n<tr>\n<td><code>Mr_DA_1939_08_22.mp3</code> <br><em>Alt</em>: <code>Counterfeit Bonds</code>, <code>Wall Street Forgery</code></td>\n<td><strong>&quot;The Case of the Counterfeit Bonds&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-08-22<br>8:00 PM EDT</td>\n<td><strong>The Pepsodent Co.</strong><br>Pepsodent Toothpaste &amp; Dentifrice</td>\n<td><strong>Dwight Weist</strong> (The District Attorney), <strong>Vicki Vola</strong> (Miss Miller), <strong>Len Doyle</strong> (Harrington)</td>\n<td><strong>Phillips H. Lord</strong> (Creator), <strong>Edward A. Byron</strong> (Director), <strong>Jerry O&#39;Brien</strong> (Sound Effects), <strong>Fred Cole</strong> (Announcer)</td>\n<td><code>[&quot;Crime&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>The District Attorney and investigator Harrington track a sophisticated Wall Street counterfeiting syndicate flooding municipal bond markets with forged securities, trapping the ringleader during an attempted transfer at a Grand Central Terminal luggage locker.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 22</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 22</strong>: 74</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 22 Exhaustive Archival Metadata Enrichment This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-22T00:00:00.000Z",
+      "tags": [
+        "August 22",
+        "Calendar Walk",
+        "Guiding Light",
+        "Irna Phillips",
+        "Charita Bauer",
+        "James Lipton",
+        "Procter and Gamble",
+        "Duz",
+        "Bulldog Drummond",
+        "College All-Star Game",
+        "Red Grange",
+        "Bob Elson",
+        "Soldier Field",
+        "This Changing World",
+        "John KM McCaffery",
+        "Russ Morgan",
+        "Club Del Mar",
+        "Railroad Hour",
+        "Gordon MacRae",
+        "Evelyn Wyckoff",
+        "Carmen Dragon",
+        "Mr District Attorney",
+        "Dwight Weist",
+        "Pepsodent",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-22-walk-09-candy-matson-pete-kelly-chandu-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-22-walk-09-candy-matson-pete-kelly-chandu-enriched",
       "title": "Archival Dispatch: August 22 Calendar Walk — Candy Matson, Pete Kelly's Blues, Chandu, and Meet the Press",
