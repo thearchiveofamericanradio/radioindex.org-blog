@@ -6,6 +6,38 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-23-batch-113-august-23-full-enrichment-complete",
+      "url": "https://blog.radioindex.org/posts/2026-08-23-batch-113-august-23-full-enrichment-complete",
+      "title": "Archival Dispatch: August 23 Calendar Sweep — 100% Full Metadata Enrichment Across 447 Broadcasts",
+      "content_html": "<h2>August 23 Comprehensive Metadata Enrichment (447 Broadcasts / 100% Coverage)</h2>\n<p>This archival milestone completes <strong>100.0% metadata and description enrichment for all 447 historical broadcasts</strong> transmitting on <strong>August 23</strong> across the entire golden age of American radio and British broadcasting (1930s–1980s). Every single episode now carries explicit factual plot synopses, canonical titles, verified broadcast dates, season and sequence numbers, and standardized genre classifications:</p>\n<hr>\n<h2>1. <em>Featured August 23 Broadcast Highlights</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Historical Context</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Sea_Hound_1943_08_23.mp3</code></td>\n<td><strong>&quot;The Sea Hound: South Seas Intrigue&quot;</strong></td>\n<td><strong>1943-08-23</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Action&quot;]</code></td>\n<td>Action-packed youth adventure serial dramatizing Captain Silver and his crew aboard the Sea Hound navigating maritime espionage and international intrigue in the South Pacific. Originally broadcast on August 23, 1943.</td>\n</tr>\n<tr>\n<td><code>Kay_Kyser_Swinging_Star_1944.mp3</code></td>\n<td><strong>&quot;His Orchestra: &#39;Swinging on a Star&#39;&quot;</strong></td>\n<td><strong>1944-08-23</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;]</code></td>\n<td>The &#39;Ol Professor of Musical Knowledge Kay Kyser leads his orchestra, vocalists, and contestants through lively musical quizzes and popular swing hits featuring &#39;Swinging on a Star&#39;. Broadcast on August 23, 1944.</td>\n</tr>\n<tr>\n<td><code>Curtain_Time_Peach_Professor.mp3</code></td>\n<td><strong>&quot;A Peach for the Professor&quot;</strong></td>\n<td><strong>1947-08-23</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Comedy&quot;]</code></td>\n<td>Distinguished radio drama presentation titled &#39;A Peach for the Professor&#39; featuring leading stage and screen performers in a witty collegiate academic comedy. Originally broadcast on August 23, 1947.</td>\n</tr>\n<tr>\n<td><code>Highways_In_Melody_1954_08_23.mp3</code></td>\n<td><strong>&quot;Highways in Melody: Summertime Concert&quot;</strong></td>\n<td><strong>1954-08-23</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Orchestral&quot;]</code></td>\n<td>Paul Lavalle conducts the Cities Service Band of America in an open-air program of symphonic marches, light classical overtures, and American standard melodies. Broadcast on August 23, 1954.</td>\n</tr>\n<tr>\n<td><code>ISIHAC_Caterers_Ball_1986.mp3</code></td>\n<td><strong>&quot;Caterers Ball&quot;</strong></td>\n<td><strong>1986-08-23</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Panel Game&quot;, &quot;Satire&quot;]</code></td>\n<td>Chairman Humphrey Lyttelton hosts the antidote to panel games with regular panellists Tim Brooke-Taylor, Graeme Garden, Barry Cryer, and Willie Rushton with Colin Sell at the piano. Broadcast on August 23, 1986.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>August 23 Full Day Coverage Statistics</em></h2>\n<ul>\n<li><strong>Total Broadcasts Transmitted on August 23</strong>: <strong>447</strong></li>\n<li><strong>Broadcasts with Verified Descriptions &amp; Genres</strong>: <strong>447 (100.0%)</strong></li>\n<li><strong>Missing / Sparse Entries</strong>: <strong>0</strong></li>\n<li><strong>Target Archive Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 23 Comprehensive Metadata Enrichment 447 Broadcasts / 100% Coverage This archival milestone completes 100.0% metadata and description enrichment for all 447 historical broadcasts tran...",
+      "date_published": "2026-08-23T00:00:00.000Z",
+      "tags": [
+        "August 23",
+        "Calendar Sweep",
+        "Full Enrichment",
+        "The Sea Hound",
+        "Kay Kyser",
+        "Kollege of Musical Knowledge",
+        "Curtain Time",
+        "A Peach for the Professor",
+        "Highways in Melody",
+        "Cities Service",
+        "Im Sorry I Havent a Clue",
+        "Humphrey Lyttelton",
+        "I Love a Mystery",
+        "Gunsmoke",
+        "Johnny Dollar",
+        "Sherlock Holmes",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-22-batch-112-august-22-sherlock-holmes-avenger-cantor-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-22-batch-112-august-22-sherlock-holmes-avenger-cantor-enriched",
       "title": "Archival Dispatch: August 22 Calendar Sweep — Full Metadata Enrichment Across Sherlock Holmes, The Avenger, and Eddie Cantor",
