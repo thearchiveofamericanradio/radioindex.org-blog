@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Squad Cars SA, Michael Shayne, and Charlie McCarthy
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Squad Cars, Springbok Radio, SABC, General Motors, Colin Fish, Hugh Rouse, Michael Shayne, Brett Halliday, Wally Maher, Cathy Lewis, Union Oil, Jeff Chandler, Charlie McCarthy, Edgar Bergen, Miriam Hopkins, Alan Mowbray, Chase and Sanborn, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 208)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across South African and American radio, three police investigations on South Africa's legendary *Squad Cars* (1971 dud cheque con, 1976 stolen car infant rescue, 1982 runaway juvenile burglary ring), two hardboiled cases with Brett Halliday's *Michael Shayne* (Wally Maher in 1945 for Union Oil, Jeff Chandler in 1949), and Edgar Bergen & Charlie McCarthy bantering with Miriam Hopkins and Alan Mowbray on *The Chase and Sanborn Program* (1939–1982):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 208)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Squad_Cars_1971.mp3` <br>*Alt*: `Dud Cheque Spending Spree`, `1971` | **"Dud Cheque Spending Spree"** | **Springbok Radio**<br>1971-08-27<br>8:00 PM | **General Motors**<br>Chevrolet SA | **Colin Fish**, **Hugh Rouse** | **David Gooden** (Director) | `["Police", "Procedural", "Crime", "Action", "South African"]` | Flying Squad patrolmen pursue a brazen con artist passing forged cashier's cheques across luxury Johannesburg retail shops. |
+| `Squad_Cars_1976.mp3` <br>*Alt*: `The Unintentional Kidnap`, `1976` | **"The Unintentional Kidnap"** | **Springbok Radio**<br>1976-08-27<br>8:00 PM | **General Motors**<br>General Motors SA | **Colin Fish**, **Hugh Rouse** | **Springbok Drama Staff** | `["Police", "Procedural", "Crime", "Action", "South African"]` | Police launch an urgent search when car thieves steal a luxury sedan from a suburban driveway unaware that an infant is sleeping in the backseat. |
+| `Squad_Cars_1982.mp3` <br>*Alt*: `Only a Boy`, `Springbok 1982` | **"Only a Boy"** | **Springbok Radio**<br>1982-08-27<br>8:00 PM | **Commercial**<br>Police Drama Sponsors | **Colin Fish**, **Springbok Players** | **SABC Production** | `["Police", "Procedural", "Crime", "Action", "South African"]` | Detectives trace an escalating string of armed suburban burglaries to a troubled runaway teenager manipulated by a seasoned fence. |
+| `Michael_Shayne_1945.mp3` <br>*Alt*: `TAO Dancer Estelle Carroll Knifed` | **"Estelle Carroll Knifed in Dressing Room"** | **Mutual (KHJ)**<br>1945-08-27<br>8:30 PM EWT | **Union Oil Co.**<br>76 Gasoline & Oil | **Wally Maher** (Shayne), **Cathy Lewis** | **Brett Halliday** (Creator) | `["Detective", "Hardboiled", "Mystery", "Noir", "Crime"]` | Miami private investigator Michael Shayne investigates when a headline nightclub dancer is stabbed to death inside her locked dressing room minutes before her routine. |
+| `Michael_Shayne_1949.mp3` <br>*Alt*: `The Hate That Killed`, `Chandler 1949` | **"The Hate That Killed"** | **Mutual (WOR)**<br>1949-08-27<br>8:00 PM EDT | **Sustaining**<br>Mystery Drama | **Jeff Chandler** (Shayne), **Patricia Dunlap** | **Mutual Dramatic Staff** | `["Detective", "Hardboiled", "Mystery", "Noir", "Crime"]` | Michael Shayne is hired by a wealthy patriarch who suspects one of his resentful heirs is poisoning his evening brandy. |
+| `Charlie_McCarthy_1939.mp3` <br>*Alt*: `Guest Miriam Hopkins, Alan Mowbray` | **"Guest Miriam Hopkins & Alan Mowbray"** | **NBC Red (WEAF)**<br>1939-08-27<br>8:00 PM EDST | **Standard Brands**<br>Chase & Sanborn Coffee | **Edgar Bergen**, **Miriam Hopkins**, **Alan Mowbray** | **Robert Armbruster**, **Ben Alexander** | `["Comedy", "Variety", "Vaudeville", "Hollywood", "Music"]` | Charlie McCarthy trades flirtatious barbs with film star Miriam Hopkins and engages Alan Mowbray in a mock Shakespearean duel while Edgar Bergen contends with Mortimer Snerd. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 161
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
