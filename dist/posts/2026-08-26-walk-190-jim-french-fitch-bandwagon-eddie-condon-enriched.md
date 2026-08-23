@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — Jim French, Fitch Bandwagon, and Eddie Condon
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, Imagination Theatre, Jim French, Harry Nile, Larry Albert, Kincaid The Strangeseeker, Terry Rose, John Patrick Lowrie, Fitch Bandwagon, Harry James, Dick Powell, Cass Daley, Fitch Shampoo, Eddie Condons Jazz Concert, Eddie Condon, Muggsy Spanier, Town Hall, Blue Network, Saturday Night Theatre, The Tokolosh, Ronald Segal, Paterson Joseph, BBC, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 190)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American, British, and South African radio, three premier audio drama productions from Jim French's *Imagination Theatre* (Crisis: The Voice of Alec Bellamy, Kincaid's Games Without Frontiers, and Harry Nile in Hush Money), Harry James and Cass Daley headlining *The Fitch Bandwagon*, Eddie Condon's live Town Hall jazz concert with Muggsy Spanier, and Ronald Segal's South African anti-apartheid drama *The Tokolosh* on the BBC (1944–2012):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 190)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Saturday_Night_1995.mp3` <br>*Alt*: `The Tokolosh`, `Ronald Segal Tokolosh` | **"The Tokolosh by Ronald Segal (Paterson Joseph & Burt Caesar — BBC)"** | **BBC Radio 4**<br>1995-08-26<br>7:50 PM | **Sustaining**<br>Play of the Week | **Paterson Joseph**, **Burt Caesar** | **Ronald Segal**, **Ned Chaillet** | `["Drama", "Political", "South African", "Apartheid", "Folklore"]` | "BBC Radio 4 presents Saturday Night Theatre in Ronald Segal's powerful political drama, The Tokolosh!" In apartheid-era South Africa, an impoverished township's non-violent bus boycott against soaring fares becomes intertwined with the mythical figure of the Tokolosh, inspiring oppressed factory workers to stand up against brutal state security forces. |
+| `Imagination_2001.mp3` <br>*Alt*: `Crisis-The Voice of Alec Bellamy`, `Crisis 2001` | **"Crisis: The Voice of Alec Bellamy & First Hand Experience (Jim French)"** | **Syndicated**<br>2001-08-26<br>(KIXI Seattle) | **Syndicated Sponsors**<br>Mystery Audio Drama | **John Patrick Lowrie**, **Terry Rose** | **Jim French**, **Larry Albert** | `["Mystery", "Suspense", "Audio Drama", "Modern OTR", "Anthology"]` | "From the mystery capital of the world, Jim French presents Imagination Theatre!" In 'The Voice of Alec Bellamy', a late-night talk radio host receives chilling live on-air phone calls from a convicted killer claiming he was framed, followed by 'First Hand Experience', where a private investigator takes a case that turns deadly. |
+| `Imagination_2007.mp3` <br>*Alt*: `Kn-Games Without Frontiers`, `Kincaid 2007` | **"Kincaid, The Strangeseeker: Games Without Frontiers (Terry Rose — Jim French)"** | **Syndicated**<br>2007-08-26<br>(KIXI Seattle) | **Syndicated Sponsors**<br>Audio Drama | **Terry Rose** (Kincaid), **John Patrick Lowrie** | **M.J. Elliott**, **Jim French** | `["Mystery", "Supernatural", "Detective", "Audio Drama", "Occult"]` | "Jim French's Imagination Theatre presents Kincaid, The Strangeseeker!" Occult investigator Kincaid probes an ancient board game unearthed in an English manor whose antique carved pieces compel players to reenact fatal medieval curses in 'Games Without Frontiers', followed by a classic drawing-room murder mystery in 'Murder Among Nice People'. |
+| `Imagination_2012.mp3` <br>*Alt*: `Hush Money and HN`, `Harry Nile Hush Money` | **"Harry Nile: Hush Money & The Case of the Bogus Bettor (Larry Albert — Jim French)"** | **Syndicated**<br>2012-08-26<br>(KIXI Seattle) | **Syndicated Sponsors**<br>Audio Mystery | **Larry Albert** (Harry Nile), **Dorward** | **Jim French**, **John Patrick Lowrie** | `["Detective", "Hardboiled", "Noir", "Audio Drama", "Mystery"]` | "Jim French's Imagination Theatre presents The Adventures of Harry Nile, starring Larry Albert as Seattle private eye Harry Nile!" In 'Hush Money', Harry is hired to deliver blackmail payoffs for a prominent shipping tycoon, followed by 'The Case of the Bogus Bettor', unmasking a crooked horse-racing syndicate rigging off-track betting parlors in post-war Seattle. |
+| `Fitch_Bandwagon_1945.mp3` <br>*Alt*: `Fitch Bandwagon 1945-08-26`, `Harry James Fitch` | **"Guest Harry James & Cass Daley in Ciribiribin (Dick Powell — Fitch Bandwagon)"** | **NBC (WEAF/KFI)**<br>1945-08-26<br>7:30 PM EWT | **F.W. Fitch Co.**<br>Fitch's Dandruff Shampoo | **Harry James Orchestra**, **Dick Powell** | **Ward Wheelock**, **Toby Reed** | `["Music", "Big Band", "Swing", "Jazz", "Variety"]` | "Fitch Shampoo presents The Fitch Bandwagon, with guest maestro Harry James and His Music Makers!" Dick Powell welcomes trumpet king Harry James performing 'Ciribiribin', 'It's Been a Long, Long Time' with Kitty Kallen, and riotous slapstick vocal duets with Cass Daley for Fitch Shampoo. |
+| `Eddie_Condon_1944.mp3` <br>*Alt*: `California, Here I Come!`, `Eddie Condon 1944` | **"California, Here I Come! Live from Town Hall (Eddie Condon & Muggsy Spanier)"** | **Blue (WJZ)**<br>1944-08-26<br>3:30 PM EWT | **Sustaining**<br>Town Hall Concert | **Eddie Condon**, **Muggsy Spanier** | **Ernest Anderson**, **Fred Robbins** | `["Music", "Jazz", "Dixieland", "Swing", "Live"]` | "The Blue Network presents Eddie Condon's Jazz Concert, broadcast live from Town Hall in New York City!" Eddie Condon leads his all-star ensemble through blazing Dixieland jam sessions of 'California, Here I Come', 'Impromptu Ensemble in G', 'Strut Miss Lizzie', and sultry blues vocals by Lee Wiley. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 365
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
