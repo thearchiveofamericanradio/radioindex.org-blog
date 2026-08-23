@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — The Goldbergs, Brave New World, and Renfrew of the Mounted
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, The Goldbergs, Gertrude Berg, James R Waters, Duz Soap, BBC Drama, Aldous Huxley, Brave New World, Kenneth Cranham, Brian Cox, Renfrew of the Mounted, House Jameson, Wonder Bread, Authors Studio, Somerset Maugham, The Painted Veil, Springbok Radio, Proudly We Hail, Lee Bowman, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 171)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American, British, and South African radio, Gertrude Berg's *The Goldbergs* in two classic Duz Soap Bronx installments (Sammy's mobilization preparations and keeping Birdie), BBC Radio 4's Bank Holiday dramatization of Aldous Huxley's *Brave New World* starring Kenneth Cranham and Brian Cox, *Renfrew of the Mounted* for Wonder Bread, Somerset Maugham's *The Painted Veil* on *Author's Studio*, and Lee Bowman on *Proudly We Hail* (1939–1991):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 171)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Goldbergs_1942.mp3` <br>*Alt*: `Emma To Stay And Help Molly`, `Emma Helps Molly` | **"Emma to Stay and Help Molly (Part 14 — Gertrude Berg — Duz The Goldbergs)"** | **CBS (WABC)**<br>1942-08-26<br>1:45 PM EWT | **Procter & Gamble**<br>Duz Laundry Soap | **Gertrude Berg** (Molly), **James R. Waters** | **Gertrude Berg**, **Worthington Miner** | `["Comedy", "Sitcom", "Domestic", "Family", "Americana"]` | "Duz presents The Goldbergs, created and written by Gertrude Berg!" At 1030 Park Place in the Bronx, cousin Emma agrees to extend her visit to assist Molly with heavy household preparations for Sammy's military mobilization farewell party for Duz Soap. Note: Multi-part serial narrative arc *(Emma's Visit & Sammy's Service — Part 14)*. |
+| `Goldbergs_1943.mp3` <br>*Alt*: `Trying To Keep Birdie From Leaving`, `Keeping Birdie` | **"Trying to Keep Birdie from Leaving (Part 9 — Gertrude Berg — Duz The Goldbergs)"** | **CBS (WABC)**<br>1943-08-26<br>1:45 PM EWT | **Procter & Gamble**<br>Duz ("Duz Does Everything") | **Gertrude Berg** (Molly), **Zena Colaer** | **Gertrude Berg**, **Bud Collyer** | `["Comedy", "Sitcom", "Domestic", "Family", "Americana"]` | "Duz Does Everything! Procter & Gamble brings you The Goldbergs!" Molly Goldberg schemes frantically with Jake to convince their devoted housekeeper Birdie to stay with the family, cooking an extravagant kosher feast to prove how indispensable Birdie is to the household for Duz. Note: Multi-part serial narrative arc *(Keeping Birdie in the Family — Part 9)*. |
+| `BBC_Brave_New_World_1991.mp3` <br>*Alt*: `Brave New World`, `Aldous Huxley Brave New World` | **"Aldous Huxley's Brave New World (Kenneth Cranham & Brian Cox — BBC Drama)"** | **BBC Radio 4**<br>1991-08-26<br>8:00 PM | **Sustaining**<br>BBC Bank Holiday Drama | **Kenneth Cranham**, **Jonathan Firth**, **Brian Cox** | **Harry Sackler**, **Janet Whitaker** | `["Dystopian", "Sci-Fi", "Drama", "Literary", "British"]` | "BBC Radio 4 presents Aldous Huxley's visionary masterpiece, Brave New World!" In a genetically stratified future London where human emotions are suppressed by soma and consumerist conditioning, misfit Bernard Marx and John the Savage challenge the totalitarian stability enforced by World Controller Mustapha Mond. |
+| `Renfrew_Mounted_1939.mp3` <br>*Alt*: `Renfrew of the Mounted 1939-08-26`, `Ghost Bear Cariboo` | **"The Ghost Bear of Cariboo Creek (House Jameson — Wonder Bread Renfrew)"** | **NBC Blue (WJZ)**<br>1939-08-26<br>6:30 PM EDST | **Continental Baking**<br>Wonder Bread & Hostess | **House Jameson** (Renfrew), **Brad Barker** (Kelly) | **Laurie York Erskine**, **Ralph Bell** | `["Western", "Adventure", "Action", "Juvenile", "Canadian"]` | "Wonder Bread presents Renfrew of the Mounted, with Kelly the Wonder Dog!" Inspector Douglas Renfrew tracks a series of payroll robberies and grizzly bear attacks in the Cariboo wilderness, unmasking a ruthless claim-jumper wearing bear-skin camouflage to terrorize gold prospectors for Wonder Bread. |
+| `Authors_Studio_1975.mp3` <br>*Alt*: `Author's Studio 1975-08-26`, `The Painted Veil Maugham` | **"The Painted Veil by W. Somerset Maugham (Michael Mayer — Springbok Author's Studio)"** | **Springbok Radio**<br>1975-08-26<br>8:30 PM | **Commercial Sponsors**<br>World Literature Drama | **Michael Mayer** (Narrator), **Shirley Firth** | **W. Somerset Maugham**, **Michael Mayer** | `["Drama", "Literary", "Romance", "Historical", "South African"]` | "Author's Studio, bringing the world's greatest literature to Springbok Radio!" An adulterous British woman in colonial Hong Kong is forced by her bacteriologist husband to accompany him into a remote Chinese mainland village ravished by a cholera epidemic, discovering spiritual redemption and selfless devotion among the dying. |
+| `Proudly_We_Hail_1956.mp3` <br>*Alt*: `The Champ`, `Lee Bowman Recruiting Show` | **"The Champ: Golden Gloves to Drill Sergeant (Lee Bowman — Proudly We Hail)"** | **Syndicated**<br>1956-08-26<br>(Recruiting #492) | **U.S. Armed Forces**<br>Army & Air Force Recruiting | **Lee Bowman** (Star), **Joan Banks**, **Herb Ellis** | **C.P. MacGregor**, **Martin Block** | `["Drama", "Sports", "Boxing", "Military", "Americana"]` | "Proudly We Hail! Dedicated to the young men and women serving in our nation's Armed Forces, starring Lee Bowman!" In 'The Champ', a former golden gloves champion who gave up boxing after injuring an opponent finds a second chance at athletic greatness and leadership as a physical training instructor in the United States Army. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 251
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
