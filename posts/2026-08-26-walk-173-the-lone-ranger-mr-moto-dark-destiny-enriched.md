@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — The Lone Ranger, Mr. Moto, and Dark Destiny
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, The Lone Ranger, Brace Beemer, John Todd, Tonto, Cheerios, General Mills, Fred Foy, Mr IA Moto, James Monks, John P Marquand, Dark Destiny, Robert Dryden, Jerry Devine, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 173)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American network radio, four post-war adventures of *The Lone Ranger* starring Brace Beemer and John Todd for General Mills Cheerios (The Welcome Guest, When the Trapper Was Trapped, Mystery Hotel, and The Sarsaparilla Kid), James Monks as John P. Marquand's sleuth *Mr. I.A. Moto* solving the case of the stolen Ming fan on NBC, and Robert Dryden in *Dark Destiny* (1942–1955):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 173)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lone_Ranger_1946.mp3` <br>*Alt*: `The Welcome Guest`, `Cheerios Lone Ranger 1946` | **"The Welcome Guest (Brace Beemer & John Todd — Cheerios Lone Ranger)"** | **ABC (WJZ/WXYZ)**<br>1946-08-26<br>7:30 PM EDT | **General Mills, Inc.**<br>Cheerios & Wheaties | **Brace Beemer** (The Ranger), **John Todd** | **Fran Striker**, **Livingstone**, **Fred Foy** | `["Western", "Adventure", "Action", "Juvenile", "Americana"]` | "Cheerios presents The Lone Ranger! Hi-Yo, Silver, Away!" An unsuspecting elderly frontier couple unwittingly shelters an escaped bank bandit believing he is their long-lost nephew, until the Lone Ranger and Tonto expose the imposter before he can rob the valley stagecoach for Cheerios. |
+| `Lone_Ranger_1949.mp3` <br>*Alt*: `When the Trapper Was Trapped`, `Trapper Trapped` | **"When the Trapper Was Trapped (Brace Beemer & John Todd — Cheerios Lone Ranger)"** | **ABC (WJZ/WXYZ)**<br>1949-08-26<br>7:30 PM EDT | **General Mills, Inc.**<br>Cheerios & Kix Cereal | **Brace Beemer**, **John Todd** | **Fran Striker**, **Livingstone**, **Fred Foy** | `["Western", "Adventure", "Action", "Juvenile", "Americana"]` | "The Lone Ranger, brought to you by Cheerios!" A renegade fur poacher sets deadly steel-jaw bear traps along Native reservation boundary lines to terrify Indian hunters and steal their pelts, until the masked rider turns the trapper's own snares against his gang. |
+| `Lone_Ranger_1953.mp3` <br>*Alt*: `Mystery Hotel`, `Mystery Hotel Lone Ranger` | **"Mystery Hotel (Brace Beemer & John Todd — Cheerios Lone Ranger)"** | **ABC (WABC/WXYZ)**<br>1953-08-26<br>7:30 PM EDT | **General Mills, Inc.**<br>Cheerios & Sugar Jets | **Brace Beemer**, **John Todd** | **Fran Striker**, **Livingstone**, **Fred Foy** | `["Western", "Adventure", "Action", "Juvenile", "Americana"]` | "From out of the past come the thundering hoofbeats of the great horse Silver! The Lone Ranger rides again for Cheerios!" In a deserted ghost town, travelers seeking shelter in an old mining hotel are held hostage by an outlaw boss using hidden passageways to disappear with their gold shipments. |
+| `Lone_Ranger_1955.mp3` <br>*Alt*: `Sasparilla Kid`, `The Sarsaparilla Kid` | **"The Sarsaparilla Kid (Brace Beemer & John Todd — Cheerios Lone Ranger)"** | **ABC (WABC/WXYZ)**<br>1955-08-26<br>7:30 PM EDT | **General Mills, Inc.**<br>Cheerios & Wheaties | **Brace Beemer**, **John Todd** | **Fran Striker**, **Livingstone**, **Fred Foy** | `["Western", "Adventure", "Action", "Juvenile", "Americana"]` | "Cheerios presents The Lone Ranger! Hi-Yo, Silver, Away!" A boastful young gunslinger nicknamed the Sarsaparilla Kid tries to establish a reputation in town by calling out the masked rider, only to be saved by the Lone Ranger when a real gang of bushwhackers surrounds him for Cheerios. |
+| `Dark_Destiny_1942.mp3` <br>*Alt*: `It Is Later Then You Think`, `It Is Later Than You Think` | **"It Is Later Than You Think (Robert Dryden — Dark Destiny)"** | **Mutual (WOR)**<br>1942-08-26<br>8:30 PM EWT | **Sustaining**<br>Psychological Thriller | **Robert Dryden** (Narrator), **Lawson Zerbe** | **Jerry Devine**, **Ted Cott**, **Rosa Rio** | `["Suspense", "Psychological", "Noir", "Horror", "Short Form"]` | "Dark Destiny! A journey into the shadowy realms of fate and human retribution!" In 'It Is Later Than You Think', an embezzling bank accountant murders his auditor and sets an elaborate clockwork alibi, only to be trapped when a power outage resets the electric clock at the precise minute of the crime. |
+| `Mr_Moto_1951.mp3` <br>*Alt*: `The Shen Tsung Fan`, `Shen Tsung Fan Mr Moto` | **"The Case of the Shen Tsung Fan (James Monks as Mr. I.A. Moto — NBC)"** | **NBC (WEAF)**<br>1951-08-26<br>8:00 PM EDT | **Sustaining**<br>International Mystery | **James Monks** (Mr. Moto), **Mandel Kramer** | **John P. Marquand**, **Harry W. Junkin** | `["Detective", "Espionage", "Mystery", "Adventure", "International"]` | "NBC presents John P. Marquand's famous international investigator, Mr. I.A. Moto, starring James Monks!" In 'The Case of the Shen Tsung Fan', Mr. Moto tracks a stolen priceless Ming Dynasty silk fan containing microphotographed submarine defense blueprints across the Macau waterfront before enemy espionage agents can smuggle it aboard an outward-bound freighter. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 263
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
