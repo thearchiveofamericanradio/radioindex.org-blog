@@ -6,6 +6,82 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-01-gildersleeve-burns-yukon-family-fibber-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-01-gildersleeve-burns-yukon-family-fibber-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Gildersleeve, Burns and Allen, Challenge of the Yukon, Family Theater, and Fibber McGee",
+      "content_html": "<h2>August 31 Exhaustive Archival Metadata Enrichment</h2>\n<p>This archival dispatch documents the comprehensive provenance, broadcast scheduling, sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for 5 historical broadcasts transmitting on <strong>August 31</strong> across American network broadcasting history (1941–1954):</p>\n<hr>\n<h2>1. <em>August 31 Exhaustive Archival Inventory</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Characters</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story-First Plot Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gildersleeve_1941_08_31.mp3</code> <br><em>Alt</em>: <code>The Gildy Arrives At Summerfield</code></td>\n<td><strong>&quot;Gildy Arrives in Summerfield&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1941-08-31<br>6:30 PM EDST</td>\n<td><strong>Kraft</strong><br>Parkay margarine</td>\n<td><strong>Harold Peary</strong> (Throckmorton P. Gildersleeve), <strong>Lurene Tuttle</strong> (Marjorie), <strong>Walter Tetley</strong> (Leroy), <strong>Lillian Randolph</strong> (Birdie)</td>\n<td><strong>Leonard L. Levinson</strong> (Writer)</td>\n<td><code>[&quot;Comedy&quot;]</code></td>\n<td>Gildersleeve leaves the Girdle Works in Wistful Vista on the overnight sleeper for Summerfield, where his orphaned niece Marjorie and nephew Leroy wait for an uncle they have never met; after a berth mix-up on the train he means only to settle the estate, then stays to raise them.</td>\n</tr>\n<tr>\n<td><code>Burns_Allen_1943_08_31.mp3</code> <br><em>Alt</em>: <code>Guest Frank Sinatra Get&#39;s Bad News, 1st Song - Dancing The Victory Polka</code></td>\n<td><strong>&quot;Guest Frank Sinatra&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-08-31<br>9:00 PM EWT</td>\n<td><strong>Lever Brothers</strong><br>Swan soap</td>\n<td><strong>George Burns</strong>, <strong>Gracie Allen</strong>, <strong>Bill Goodwin</strong> (Announcer), <strong>Felix Mills</strong> (Orchestra), <strong>Mel Blanc</strong>, <strong>Clarence Nash</strong>, <strong>Frank Sinatra</strong> (Guest)</td>\n<td><strong>Felix Mills</strong> (Music), <strong>Bill Goodwin</strong> (Announcer)</td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Music&quot;]</code></td>\n<td>Back from an eight-week army-camp tour, Gracie goes to Sinatra&#39;s house to warn him that George has decided to become a crooner and put Frankie out of a job; they trade songs, and the Swan Ten close with the Victory Polka.</td>\n</tr>\n<tr>\n<td><code>Yukon_1949_08_31.mp3</code> <br><em>Alt</em>: <code>The Minister&#39;s Missing Money</code></td>\n<td><strong>&quot;The Minister&#39;s Missing Money&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1949-08-31<br>5:00 PM EDT</td>\n<td><strong>Quaker Oats</strong><br>Puffed Wheat &amp; Puffed Rice</td>\n<td><strong>Paul Sutton</strong> (Sergeant Preston), <strong>Yukon King</strong></td>\n<td><strong>Tom Dougall</strong> (Writer), <strong>George W. Trendle</strong> (Producer)</td>\n<td><code>[&quot;Adventure&quot;, &quot;Western&quot;, &quot;Mystery&quot;]</code></td>\n<td>A minister coming into Dawson is murdered for the building-fund cash in his bag; a young newspaperman&#39;s son switched look-alike suitcases with him on the steamer Portland at Skagway, and Preston and King must recover the money before the killer does.</td>\n</tr>\n<tr>\n<td><code>Family_Theater_1949_08_31.mp3</code> <br><em>Alt</em>: <code>The Denver Express</code></td>\n<td><strong>&quot;The Denver Express&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-08-31<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Family Rosary / Holy Cross Family Theater</td>\n<td><strong>Lizabeth Scott</strong> (Hostess), <strong>Regis Toomey</strong> (Major Harry Sinclair), <strong>Jean Ruth</strong></td>\n<td>Family Theater (Hollywood)</td>\n<td><code>[&quot;Drama&quot;, &quot;Historical&quot;, &quot;Adventure&quot;]</code></td>\n<td>On the first run of the Denver Express, engine No. 17, Major Sinclair—who will not use a gun—is hemmed in by Big Jeff Johnson and the gamblers who want the railroad stopped, and has to get the train through without becoming the man he refuses to be.</td>\n</tr>\n<tr>\n<td><code>Fibber_1954_08_31.mp3</code> <br><em>Alt</em>: <code>Fishing Boat Sinks</code>, <code>Robinson Crusoe McGee</code></td>\n<td><strong>&quot;Fishing Boat Sinks&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1954-08-31<br>10:00 PM EDT</td>\n<td><strong>Lewis-Howe</strong><br>Tums</td>\n<td><strong>Jim Jordan</strong> (Fibber McGee), <strong>Marian Jordan</strong> (Molly), <strong>Arthur Q. Bryan</strong> (Doc Gamble), <strong>Harlow Wilcox</strong> (Announcer)</td>\n<td><strong>Phil Leslie &amp; Ralph Goodman</strong> (Writers), <strong>Max Hutto</strong> (Director)</td>\n<td><code>[&quot;Comedy&quot;]</code></td>\n<td>After their fishing boat sinks, Fibber, Molly, and Doc Gamble wake stiff on an island in Lake Winnahoppa, eighty miles from Wistful Vista, and have to get off before Fibber&#39;s Robinson Crusoe schemes make the rescue worse.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 5</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 5</li>\n<li><strong>Deferred</strong>: Archie Andrews (<code>Trying To Listen To A Baseball Game</code>) — circulating date conflicts with a Sunday 1951 logging; not stamped to 1946-08-31</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Exhaustive Archival Metadata Enrichment This archival dispatch documents the comprehensive provenance, broadcast scheduling, sponsorship, credited cast, production personnel, alter...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "The Great Gildersleeve",
+        "Harold Peary",
+        "Kraft",
+        "Parkay",
+        "Burns and Allen",
+        "Frank Sinatra",
+        "Lever Brothers",
+        "Swan",
+        "Challenge of the Yukon",
+        "Paul Sutton",
+        "Quaker Oats",
+        "Family Theater",
+        "Lizabeth Scott",
+        "Regis Toomey",
+        "Fibber McGee and Molly",
+        "Tums",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-22-walk-25-mario-lanza-beulah-jimmy-dorsey-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-22-walk-25-mario-lanza-beulah-jimmy-dorsey-enriched",
+      "title": "Archival Dispatch: August 22 Calendar Walk — Mario Lanza, Beulah, Jimmy Dorsey, and Straight Arrow",
+      "content_html": "<h2>August 22 Exhaustive Archival Metadata Enrichment</h2>\n<p>This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for 6 historical broadcasts transmitting on <strong>August 22</strong> across American network, military, and syndicated broadcasting history (1945–1952):</p>\n<hr>\n<h2>1. <em>August 22 Exhaustive Archival Inventory</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story-First Plot Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Straight_Arrow_1949_08_22.mp3</code> <br><em>Alt</em>: <code>The Renegade</code>, <code>Comanche Outlaw 64</code></td>\n<td><strong>&quot;The Renegade&quot;</strong></td>\n<td><strong>Mutual-Don Lee (KHJ)</strong><br>1949-08-22<br>5:00 PM PST</td>\n<td><strong>Nabisco</strong><br>Nabisco Shredded Wheat (&quot;Injun Cards&quot;)</td>\n<td><strong>Howard Culver</strong> (Straight Arrow / Steve Adams), <strong>Gwen Delano</strong>, <strong>Fred Howard</strong></td>\n<td><strong>Sheldon Stark</strong> (Creator), <strong>Ted Robertson</strong> (Director), <strong>Frank Bingman</strong> (Announcer)</td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Children&quot;]</code></td>\n<td>Rancher Steve Adams dons the secret ceremonial garments of Comanche warrior Straight Arrow and mounts his golden palomino Fury, galloping into the badlands to stop a rogue outlaw from framing peaceful reservation braves for stagecoach robberies.</td>\n</tr>\n<tr>\n<td><code>Secret_Missions_1949_08_22.mp3</code> <br><em>Alt</em>: <code>Arctic Mission</code>, <code>Spitsbergen Sabotage</code></td>\n<td><strong>&quot;Arctic Mission: Sabotage at Spitsbergen&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-08-22<br>8:30 PM EDT</td>\n<td><strong>U.S. Navy ONI</strong><br>Office of Naval Intelligence</td>\n<td><strong>Rear Admiral Ellis M. Zacharias</strong> (Host / Narrator), naval dramatic cast</td>\n<td><strong>Ellis M. Zacharias</strong> (Writer), <strong>Arthur V. Jones</strong> (Director), <strong>Ed Herlihy</strong> (Announcer)</td>\n<td><code>[&quot;Espionage&quot;, &quot;Military&quot;, &quot;Historical&quot;, &quot;Drama&quot;]</code></td>\n<td>Rear Admiral Ellis M. Zacharias narrates the declassified true intelligence mission of a U.S. Navy submarine reconnaissance team sent into the frozen Spitsbergen archipelago to locate and destroy a clandestine German meteorological outpost transmitting vital North Atlantic storm data.</td>\n</tr>\n<tr>\n<td><code>Big_Band_Remotes_1945_08_22.mp3</code> <br><em>Alt</em>: <code>AFRS Magic Carpet 104</code>, <code>Jimmy Dorsey Casino Gardens</code></td>\n<td><strong>&quot;Jimmy Dorsey Live at Casino Gardens Ballroom (AFRS Magic Carpet 104)&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1945-08-22<br>(Ocean Park CA)</td>\n<td><strong>Non-commercial</strong><br>Armed Forces Radio Service</td>\n<td><strong>Jimmy Dorsey and his Orchestra</strong>, <strong>Bob Eberly</strong>, <strong>Kitty Kallen</strong></td>\n<td><strong>AFRS Los Angeles</strong>, Casino Gardens Ocean Park Remote</td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Military&quot;]</code></td>\n<td>Jimmy Dorsey and his Orchestra broadcast live from the Casino Gardens Ballroom on the Santa Monica shore, entertaining troops around the globe on AFRS Magic Carpet with swinging arrangements of &#39;Green Eyes&#39;, &#39;Tangerine&#39;, and &#39;Besame Mucho&#39;.</td>\n</tr>\n<tr>\n<td><code>Mario_Lanza_1952_08_22.mp3</code> <br><em>Alt</em>: <code>Be My Love</code>, <code>Mario Lanza Coca-Cola</code></td>\n<td><strong>&quot;Mario Lanza Sings &#39;Be My Love&#39; and &#39;Granada&#39; with Giselle MacKenzie&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-08-22<br>9:00 PM EDT</td>\n<td><strong>The Coca-Cola Co.</strong><br>&quot;Coke adds life&quot;</td>\n<td><strong>Mario Lanza</strong> (Tenor), <strong>Giselle MacKenzie</strong> (Soprano), <strong>Ray Sinatra Orchestra</strong></td>\n<td><strong>Ray Sinatra</strong> (Music), <strong>Bill Goodwin</strong> (Announcer)</td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Opera&quot;, &quot;Easy Listening&quot;]</code></td>\n<td>Acclaimed tenor Mario Lanza thrills listeners with passionate operatic arias and romantic popular ballads for Coca-Cola, performing &#39;Be My Love&#39;, &#39;Granada&#39;, and a romantic duet with guest soprano Giselle MacKenzie backed by Ray Sinatra&#39;s Orchestra.</td>\n</tr>\n<tr>\n<td><code>Beulah_1949_08_22.mp3</code> <br><em>Alt</em>: <code>Bill&#39;s Fix-It Business</code>, <code>Vacuum Mower 1949</code></td>\n<td><strong>&quot;Bill&#39;s Garage Fix-It Shop and the Vacuum Mower&quot;</strong></td>\n<td><strong>CBS (KNX / WCBS)</strong><br>1949-08-22<br>7:00 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Dreft Detergent &amp; Oxydol</td>\n<td><strong>Hattie McDaniel</strong> (Beulah), <strong>Ernest Whitman</strong> (Bill), <strong>Ruby Dandridge</strong>, <strong>Hugh Studebaker</strong></td>\n<td><strong>Charles Stewart &amp; Arthur Phillips</strong> (Writers), <strong>Helen Mack</strong> (Director)</td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;]</code></td>\n<td>Beulah helps her boyfriend Bill Jackson launch a neighborhood fix-it shop in the Henderson garage, but comedic chaos ensues when Bill accidentally reassembles Mr. Henderson&#39;s gasoline lawnmower with parts from Mrs. Henderson&#39;s electric vacuum cleaner.</td>\n</tr>\n<tr>\n<td><code>Lets_Talk_Hollywood_1948_08_22.mp3</code> <br><em>Alt</em>: <code>Eve Arden Bracken Sidney</code>, <code>Lucky Strike Quiz 1948</code></td>\n<td><strong>&quot;Hollywood Trivia Panel: Eve Arden, Eddie Bracken, and George Sidney&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1948-08-22<br>7:00 PM EDT</td>\n<td><strong>American Tobacco Co.</strong><br>Lucky Strike (&quot;First again with tobacco men!&quot;)</td>\n<td><strong>George Murphy</strong> (Host), <strong>Erskine Johnson</strong>, <strong>Eddie Bracken</strong>, <strong>George Sidney</strong>, <strong>Eve Arden</strong></td>\n<td><strong>Glenhall Taylor</strong> (Writer), <strong>Frank Martin</strong> (Announcer)</td>\n<td><code>[&quot;Quiz&quot;, &quot;Game Show&quot;, &quot;Talk&quot;, &quot;Show Business&quot;]</code></td>\n<td>Host George Murphy challenges a celebrity panel—including quick-witted Eve Arden, comic Eddie Bracken, and director George Sidney—to answer listener-submitted trivia questions about Hollywood movie history and backstage studio legends for Lucky Strike.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 22</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 22</strong>: 164</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 22 Exhaustive Archival Metadata Enrichment This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-22T00:00:00.000Z",
+      "tags": [
+        "August 22",
+        "Calendar Walk",
+        "Straight Arrow",
+        "Howard Culver",
+        "Nabisco Shredded Wheat",
+        "Secret Missions",
+        "Ellis Zacharias",
+        "Naval Intelligence",
+        "Big Band Remotes",
+        "Jimmy Dorsey",
+        "Casino Gardens",
+        "AFRS Magic Carpet",
+        "The Mario Lanza Show",
+        "Coca-Cola",
+        "Giselle MacKenzie",
+        "Beulah",
+        "Hattie McDaniel",
+        "Ernest Whitman",
+        "Procter and Gamble",
+        "Dreft",
+        "Lets Talk Hollywood",
+        "Eve Arden",
+        "Eddie Bracken",
+        "Lucky Strike",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-22-walk-24-casey-crime-photographer-boston-blackie-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-22-walk-24-casey-crime-photographer-boston-blackie-enriched",
       "title": "Archival Dispatch: August 22 Calendar Walk — Casey Crime Photographer, Boston Blackie, and Let George Do It",
