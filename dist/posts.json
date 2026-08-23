@@ -6,6 +6,52 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-22-batch-112-august-22-sherlock-holmes-avenger-cantor-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-22-batch-112-august-22-sherlock-holmes-avenger-cantor-enriched",
+      "title": "Archival Dispatch: August 22 Calendar Sweep — Full Metadata Enrichment Across Sherlock Holmes, The Avenger, and Eddie Cantor",
+      "content_html": "<h2>August 22 Forensic Discoveries &amp; Full Metadata Enrichment</h2>\n<p>This archival sweep provides comprehensive metadata enrichment across 12 broadcasts originally transmitted on <strong>August 22</strong> between 1936 and 1978. Every entry has been enriched with canonical titles, verified air dates, normalized season/sequence numbers, standardized taxonomy genres, and factual cast/plot descriptions verified against contemporary newspaper radio schedules and daily listening highlight columns:</p>\n<hr>\n<h2>1. <em>Drama, Mystery, &amp; Detective Serials (August 22)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Cast Details</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Sherlock_Holmes_Waxworks.mp3</code></td>\n<td><strong>&quot;Murder in the Waxworks&quot;</strong></td>\n<td><strong>1936-08-22</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Sherlock Holmes and Dr. Watson investigate a bizarre murder inside Madame Tussaud&#39;s Chamber of Horrors where a corpse is disguised among wax figures of notorious criminals. Starring Louis Hector as Holmes and Harry West as Watson.</td>\n</tr>\n<tr>\n<td><code>Flamond_Dancing_Death_1944.mp3</code></td>\n<td><strong>&quot;The Case of the Dancing Death&quot;</strong></td>\n<td><strong>1944-08-22</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;]</code></td>\n<td>Criminologist and psychologist Dr. Flamond investigates the mysterious collapse of a premier ballerina during opening night rehearsals, uncovering a plot involving poisoned stage makeup. Starring Everett Clarke.</td>\n</tr>\n<tr>\n<td><code>The_Avenger_Skyway_Robbery.mp3</code></td>\n<td><strong>&quot;The Skyway Robbery&quot;</strong></td>\n<td><strong>1941-08-22</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;Science Fiction&quot;]</code></td>\n<td>Biochemist Jim Brandon uses his inventions of the telepathic indicator and invisibility fluid to thwart a syndicate hijacking commercial passenger planes. Starring James Monks.</td>\n</tr>\n<tr>\n<td><code>Curtain_Time_Husband_Harriet.mp3</code></td>\n<td><strong>&quot;A Husband for Harriet&quot;</strong></td>\n<td><strong>1945-08-22</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Comedy&quot;, &quot;Romance&quot;]</code></td>\n<td>A lighthearted domestic comedy concerning a well-meaning family&#39;s elaborate schemes to find a suitable suitor for their spirited daughter. Starring Harry Elders and Nanette Sargent.</td>\n</tr>\n<tr>\n<td><code>Jane_Cowl_Ghosts.mp3</code></td>\n<td><strong>&quot;First Topic - Ghosts and Superstitions&quot;</strong></td>\n<td><strong>1944-08-22</strong></td>\n<td><code>[&quot;Talk&quot;, &quot;Historical&quot;, &quot;Drama&quot;]</code></td>\n<td>Renowned stage actress Jane Cowl hosts an intimate conversational radio talk discussing theatrical folklore, supernatural legends, and historical ghost stories from London playhouses.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Comedy, Music, &amp; Variety (August 22)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename</th>\n<th>Canonical Title</th>\n<th>Verified Airdate</th>\n<th>Genres</th>\n<th>Factual Plot Synopsis &amp; Cast Details</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Texaco_Town_Hollywood_Return.mp3</code></td>\n<td><strong>&quot;Preparing to Return to Hollywood&quot;</strong></td>\n<td><strong>1937-08-22</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Music&quot;]</code></td>\n<td>Eddie Cantor jokes with announcer Jimmy Wallington and the town council about packing up summer camp to head back to the West Coast studios. Featuring Deanna Durbin and Jacques Renard&#39;s Orchestra.</td>\n</tr>\n<tr>\n<td><code>Hildegarde_Block_Sully.mp3</code></td>\n<td><strong>&quot;Guest Stars Block and Sully&quot;</strong></td>\n<td><strong>1944-08-22</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Comedy&quot;]</code></td>\n<td>International songstress Hildegarde welcomes vaudeville comedy duo Jesse Block and Eve Sully to the Raleigh Room, featuring sophisticated romantic melodies, comedy patter, and the Harry Sosnik Orchestra.</td>\n</tr>\n<tr>\n<td><code>Candid_Microphone_Scented_Letters.mp3</code></td>\n<td><strong>&quot;The Scented Letters &amp; Clock Repair Stunt&quot;</strong></td>\n<td><strong>1950-08-22</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Reality&quot;, &quot;Documentary&quot;]</code></td>\n<td>Allen Funt uses concealed recording equipment to capture unsuspecting citizens reacting to eccentric scenarios involving perfumed mystery mail and a clockmaker with impossible demands.</td>\n</tr>\n<tr>\n<td><code>Gold_Coast_Rhythm_WBBM.mp3</code></td>\n<td><strong>&quot;The Gold Coast Rhythm Show: Live from WBBM Chicago&quot;</strong></td>\n<td><strong>1944-08-22</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Big Band&quot;]</code></td>\n<td>An energetic mid-day broadcast of swing arrangements and vocal harmonies originating from CBS affiliate WBBM in Chicago, featuring the Caesar Petrillo Orchestra.</td>\n</tr>\n<tr>\n<td><code>James_Melton_Jane_Pickens.mp3</code></td>\n<td><strong>&quot;Summer Concert with Guest Jane Pickens&quot;</strong></td>\n<td><strong>1943-08-22</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Variety&quot;]</code></td>\n<td>Operatic tenor James Melton performs light classical favorites and Broadway ballads alongside guest vocalist Jane Pickens with Robert Russell Bennett conducting the orchestra.</td>\n</tr>\n<tr>\n<td><code>Cities_Service_Paul_Lavalle.mp3</code></td>\n<td><strong>&quot;Summertime Symphonic Melodies with Paul Lavalle&quot;</strong></td>\n<td><strong>1955-08-22</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Orchestral&quot;]</code></td>\n<td>Paul Lavalle leads the Cities Service Band of America in a program of patriotic marches, semi-classical overtures, and light opera selections.</td>\n</tr>\n<tr>\n<td><code>ISIHAC_Mad_Scientists_Ball.mp3</code></td>\n<td><strong>&quot;Mad Scientists Ball&quot;</strong></td>\n<td><strong>1978-08-22</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Panel Game&quot;, &quot;Satire&quot;]</code></td>\n<td>Chairman Humphrey Lyttelton referees the antidote to panel games with regular contestants Tim Brooke-Taylor, Graeme Garden, Barry Cryer, and John Junkin, with Colin Sell at the piano.</td>\n</tr>\n</tbody></table>\n",
+      "summary": "August 22 Forensic Discoveries & Full Metadata Enrichment This archival sweep provides comprehensive metadata enrichment across 12 broadcasts originally transmitted on August 22 between 1936...",
+      "date_published": "2026-08-22T00:00:00.000Z",
+      "tags": [
+        "August 22",
+        "Sherlock Holmes",
+        "Louis Hector",
+        "Madame Tussauds",
+        "Waxworks",
+        "Hildegarde",
+        "Raleigh Room",
+        "Block and Sully",
+        "Curtain Time",
+        "The Crime Files of Flamond",
+        "Everett Clarke",
+        "Candid Microphone",
+        "Allen Funt",
+        "Gold Coast Rhythm",
+        "Caesar Petrillo",
+        "WBBM Chicago",
+        "James Melton",
+        "Jane Pickens",
+        "The Avenger",
+        "Jim Brandon",
+        "Invisibility",
+        "Texaco Town",
+        "Eddie Cantor",
+        "Deanna Durbin",
+        "Jane Cowl",
+        "Cities Service Band of America",
+        "Paul Lavalle",
+        "Im Sorry I Havent a Clue",
+        "Humphrey Lyttelton",
+        "Original Filenames",
+        "Full Enrichment"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-21-solving-lost-otr-broadcasts",
       "url": "https://blog.radioindex.org/posts/2026-08-21-solving-lost-otr-broadcasts",
       "title": "Solving \"Date Unknown\" Radio Mysteries: Forensic Audio, Multi-Platform Transcripts & Primary Newspaper Scans",
