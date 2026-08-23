@@ -1,0 +1,33 @@
+# Archival Dispatch: August 26 Calendar Walk — Casey Crime Photographer, Texaco Star Theater, and Joe & Ethel Turp
+
+**Date**: 2026-08-26  
+**Author**: radio index  
+**Tags**: August 26, Calendar Walk, Casey Crime Photographer, Matt Crowley, Staats Cotsworth, Alice Reinheart, Jan Miner, John Gibson, Blue Note, Herman Chittison, Anchor Hocking, Toni Home Permanent, Texaco Star Theater, James Melton, Nancy Walker, Frank Fay, Joe and Ethel Turp, Damon Runyon, Jackson Beck, Patsy Campbell, Red Cross Shoes, Tales from a Long Room, Robin Bailey, Peter Tinniswood, Alternate Titles, Original Filenames
+
+---
+
+## August 26 Exhaustive Archival Metadata Enrichment (Increment 176)
+
+This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American and British radio, three classic hardboiled investigations of *Casey, Crime Photographer* at the Blue Note Cafe (Matt Crowley for Anchor Hocking Glass and Staats Cotsworth for Toni Home Permanent), James Melton welcoming Nancy Walker on the *Texaco Star Theater*, Damon Runyon's *Joe and Ethel Turp* for Red Cross Shoes, and Peter Tinniswood's *Tales from a Long Room* on BBC Radio 4 (1941–1981):
+
+---
+
+## 1. *August 26 Archival Inventory (Increment 176)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Texaco_Star_1946.mp3` <br>*Alt*: `Texaco Star Theater 1946-08-26`, `James Melton Nancy Walker` | **"James Melton with Nancy Walker & Frank Fay (Al Goodman — Texaco Star Theater)"** | **CBS (WABC)**<br>1946-08-26<br>9:30 PM EDT | **The Texas Company**<br>Texaco Sky Chief Gasoline | **James Melton**, **Nancy Walker**, **Frank Fay** | **Ed Cashman**, **Jimmy Wallington** | `["Variety", "Music", "Comedy", "Pop Standards", "Big Band"]` | "The Texas Company presents the Texaco Star Theater, starring Metropolitan Opera tenor James Melton!" James Melton welcomes Broadway comic dynamo Nancy Walker and stage star Frank Fay for an evening of musical parodies, operatic arias, and summer banter for Texaco. |
+| `Joe_Ethel_Turp_1941.mp3` <br>*Alt*: `Joe and Ethel Turp 1941-08-26`, `Brooklyn Bridge Debate` | **"The Brooklyn Bridge Argument (Jackson Beck & Patsy Campbell — Red Cross Shoes)"** | **CBS (WABC)**<br>1941-08-26<br>10:15 AM EDST | **U.S. Shoe Corp.**<br>Red Cross Shoes ("Unchallenged") | **Jackson Beck** (Joe), **Patsy Campbell** (Ethel) | **Damon Runyon**, **George Bryan** | `["Comedy", "Sitcom", "Domestic", "Americana", "Short Form"]` | "Red Cross Shoes presents Damon Runyon's Joe and Ethel Turp, the hilarious adventures of a regular Brooklyn couple!" Joe and Ethel get into a stubborn domestic debate over whether to walk across the Brooklyn Bridge during an afternoon stroll, drawing advice and interference from half the neighborhood for Red Cross Shoes. |
+| `Tales_Long_Room_1981.mp3` <br>*Alt*: `The Lady Wife`, `Tales from a Long Room 1981` | **"The Lady Wife (Robin Bailey reading Peter Tinniswood — BBC Tales from a Long Room)"** | **BBC Radio 4**<br>1981-08-26<br>10:45 PM | **Sustaining**<br>Cricket Humor Monologue | **Robin Bailey** (The Brigadier / Narrator) | **Peter Tinniswood**, **John Tydeman** | `["Comedy", "British", "Storytelling", "Sports", "Short Form"]` | "BBC Radio 4 presents Tales from a Long Room by Peter Tinniswood, read by Robin Bailey!" The eccentric Brigadier holds court in the pavilion's Long Room, reminiscing about the formidable 'Lady Wife' of a legendary English county batsman who took to the pitch in full Victorian crinoline to defend her husband's batting average against ferocious Yorkshire fast bowling. |
+| `Casey_Crime_1943.mp3` <br>*Alt*: `Five Thousand Dollar Reward`, `5000 Dollar Reward Casey` | **"Five Thousand Dollar Reward (Matt Crowley & Alice Reinheart — Anchor Hocking Casey)"** | **CBS (WABC)**<br>1943-08-26<br>10:30 PM EWT | **Anchor Hocking Glass**<br>Fire-King Oven Glassware | **Matt Crowley** (Casey), **Alice Reinheart** (Ann) | **George Harmon Coxe**, **Tony Marvin** | `["Detective", "Hardboiled", "Noir", "Mystery", "Crime"]` | "Anchor Hocking Glass brings you Casey, Press Photographer, starring Matt Crowley with Alice Reinheart!" At the Blue Note Cafe, *Morning Express* ace lensman Flashgun Casey investigates a suspicious five-thousand-dollar reward offered by an insurance company for a missing diamond pendant, discovering the claimant is the mastermind behind a string of armed jewelry heists for Anchor Hocking Glass. |
+| `Casey_Crime_1944.mp3` <br>*Alt*: `Victory Garden Murder`, `Anchor Hocking Casey 1944` | **"The Victory Garden Murder (Matt Crowley & Alice Reinheart — Fire-King Casey)"** | **CBS (WABC)**<br>1944-08-26<br>9:30 PM EWT | **Anchor Hocking Glass**<br>Fire-King Oven Glassware | **Matt Crowley** (Casey), **Alice Reinheart** (Ann) | **George Harmon Coxe**, **Tony Marvin** | `["Detective", "Hardboiled", "Noir", "Mystery", "Crime"]` | "Fire-King Oven Glassware presents Casey, Crime Photographer!" When an amateur suburban horticulturist unearths human remains buried beneath the tomato patch of a wartime community Victory Garden, Flashgun Casey snaps crime scene photographs that reveal a ruthless black-market ration coupon racketeer silenced his partner for Anchor Hocking Glass. |
+| `Casey_Crime_1948.mp3` <br>*Alt*: `Kangaroo Court`, `Toni Casey Crime Photographer` | **"Kangaroo Court (Staats Cotsworth & Jan Miner — Toni Casey Crime Photographer)"** | **CBS (WCBS)**<br>1948-08-26<br>9:30 PM EDT | **The Toni Company**<br>Toni Home Permanent ("Which Twin") | **Staats Cotsworth** (Casey), **Jan Miner** (Ann) | **George Harmon Coxe**, **Bob Hite** | `["Detective", "Hardboiled", "Noir", "Mystery", "Crime"]` | "Which Twin Has the Toni? The Toni Company presents Casey, Crime Photographer, starring Staats Cotsworth as Casey and Jan Miner as Ann!" Kidnapped by a vengeful waterfront syndicate and subjected to a mock midnight kangaroo court inside a deserted warehouse, Flashgun Casey uses his flashbulb camera capacitor to blind the armed guards and escape with Ann Williams for Toni. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 281
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
