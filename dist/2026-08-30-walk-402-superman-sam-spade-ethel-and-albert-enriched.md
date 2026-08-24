@@ -1,0 +1,33 @@
+# Archival Dispatch: August 30 Calendar Walk — Superman, Sam Spade, and Ethel and Albert
+
+**Date**: 2026-08-30  
+**Author**: radio index  
+**Tags**: August 30, Calendar Walk, The Adventures of Superman, Bud Collyer, Joan Alexander, Kellogg's Pep, Professor Thorpe's Bathysphere, Civil Air Patrol, The Adventures of Sam Spade, Howard Duff, Lurene Tuttle, Wildroot Cream-Oil, Ethel and Albert, Peg Lynch, Alan Bunce, Stories of Ray Bradbury, Son of Cliche, Alternate Titles, Original Filenames
+
+---
+
+## August 30 Archival Metadata Enrichment (Increment 402)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and British BBC comedy, Bud Collyer as the Man of Steel in two serialized multi-part storylines on *The Adventures of Superman* (*Professor Thorpe's Bathysphere* in 1940 and *The Civil Air Patrol* for Kellogg's Pep in 1943), Howard Duff as *The Adventures of Sam Spade* for Wildroot Cream-Oil (1946), Peg Lynch's domestic classic *Ethel and Albert* (1948), Ray Bradbury sci-fi (2010), and BBC's *Son of Cliché* (1940–2010):
+
+---
+
+## 1. *August 30 Archival Inventory (Increment 402)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Sam_Spade_1946_Tiara.mp3` <br>*Alt*: `Scythian Tiara Caper` | **"Sam and the Scythian Tiara"** | **ABC (WJZ)**<br>1946-08-30<br>8:00 PM EDT | **Wildroot Co.**<br>Wildroot Cream-Oil | **Howard Duff**, **Tuttle** | **Bob Tallman & Jason James** | `["Detective", "Hardboiled", "Mystery", "Noir", "Private Eye"]` | Private investigator Sam Spade is hired to authenticate a supposedly ancient gold tiara and encounters a web of murder and antiquities forgery. |
+| `Ethel_Albert_1948.mp3` <br>*Alt*: `Susie Poses Ad` | **"Susie Poses for an Ad"** | **ABC (WJZ)**<br>1948-08-30<br>6:45 PM EDT | **Sustaining**<br>Domestic Comedy | **Peg Lynch**, **Bunce** | **Peg Lynch (Creator/Writer)** | `["Sitcom", "Comedy", "Domestic", "Family", "Peg Lynch"]` | Albert enthusiastically agrees to let baby Susie model for a local baby-food advertisement, sparking chaotic photo-studio mishaps. |
+| `Stories_Bradbury_2010.mp3` <br>*Alt*: `All Summer Day Fog Horn` | **"All Summer in a Day & The Fog Horn"** | **NPR Audio Drama**<br>2010-08-30 | **Sustaining**<br>Literary Drama | **Ray Bradbury** (Host) | **Dramatic Voice Ensemble** | `["Science Fiction", "Drama", "Modern OTR", "Anthology", "Adaptation"]` | Two classic sci-fi stories explore Venusian schoolchildren seeing sunlight for an hour and a prehistoric sea creature drawn to a lighthouse beacon. |
+| `Son_Cliche_1983.mp3` <br>*Alt*: `Weird Dimension 1983` | **"Weird Dimension"** | **BBC Radio 4**<br>1983-08-30<br>10:30 PM BST | **Sustaining**<br>BBC Comedy | **Chris Barrie**, **Maloney** | **Rob Grant & Doug Naylor** | `["Comedy", "Sketch Comedy", "British", "Satire", "Surreal"]` | Surreal sketch comedy parodies alternate-dimension science fiction tropes and everyday British bureaucratic absurdities. |
+| `Superman_1940_Bath3.mp3` <br>*Alt*: `Thorpe Bathysphere Part 3` | **"Professor Thorpe's Bathysphere (Part 3)"** | **Mutual (WOR)**<br>1940-08-30<br>5:15 PM EDST | **Sustaining / Kellogg**<br>Pep Cereal | **Bud Collyer**, **Noa** | **Superman Audio Staff** | `["Adventure", "Superheroes", "Action", "Science Fiction", "Serial"]` | Clark Kent races underwater to assist Professor Thorpe whose deep-sea diving sphere is sabotaged by hostile agents. |
+| `Superman_1943_CAP9.mp3` <br>*Alt*: `Civil Air Patrol Part 9` | **"The Civil Air Patrol (Part 9)"** | **Mutual (WOR)**<br>1943-08-30<br>5:15 PM EWT | **Kellogg Company**<br>Kellogg's Pep Cereal | **Bud Collyer**, **Alexander** | **Superman Audio Staff** | `["Adventure", "Superheroes", "Action", "World War II", "Serial"]` | Superman and young Civil Air Patrol cadets intercept enemy saboteurs attempting to detonate explosive mines near a coastal radar installation. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 84 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
