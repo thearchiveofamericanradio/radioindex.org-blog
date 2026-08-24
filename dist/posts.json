@@ -41,6 +41,42 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-29-walk-360-perry-mason-eddie-cantor-hour-of-charm-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-29-walk-360-perry-mason-eddie-cantor-hour-of-charm-enriched",
+      "title": "Archival Dispatch: August 29 Calendar Walk — Perry Mason, Eddie Cantor, and The Hour of Charm",
+      "content_html": "<h2>August 29 Archival Metadata Enrichment (Increment 360)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 29</strong> across American network radio and syndication, John Larkin &amp; Joan Alexander in Erle Stanley Gardner&#39;s <em>Perry Mason</em> for Tide (1951), Eddie Cantor&#39;s Hollywood Shakespeare burlesque for Texaco (1937), Phil Spitalny &amp; Evelyn&#39;s All-Girl Orchestra on <em>The Hour of Charm</em> for General Electric (1943), Lyle Talbot in <em>Proudly We Hail</em>, <em>The Pendleton Story</em>, and speculative audio drama on <em>Author&#39;s Studio</em> (1937–1975):</p>\n<hr>\n<h2>1. <em>August 29 Archival Inventory (Increment 360)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Pendleton_1951_09.mp3</code> <br><em>Alt</em>: <code>The Mischianza</code></td>\n<td><strong>&quot;The Mischianza (Episode 9)&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1951-08-29<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Historical Drama</td>\n<td><strong>Dramatic Repertory</strong></td>\n<td><strong>NBC Drama Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Historical&quot;, &quot;American Revolution&quot;, &quot;Family&quot;, &quot;Period Drama&quot;]</code></td>\n<td>A Philadelphia socialite family navigates shifting loyalties and British military occupations during the Revolutionary War gala ball.</td>\n</tr>\n<tr>\n<td><code>Perry_Mason_1951.mp3</code> <br><em>Alt</em>: <code>Reluctant Witness Mason</code></td>\n<td><strong>&quot;The Case of the Reluctant Witness&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-29<br>2:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide / Camay</td>\n<td><strong>John Larkin</strong>, <strong>Alexander</strong></td>\n<td><strong>Erle Stanley Gardner</strong></td>\n<td><code>[&quot;Legal Drama&quot;, &quot;Mystery&quot;, &quot;Detective&quot;, &quot;Serial&quot;, &quot;Courtroom&quot;]</code></td>\n<td>Perry Mason investigates a missing key witness whose testimony could clear a young bank teller framed for vault embezzlement.</td>\n</tr>\n<tr>\n<td><code>Hour_Charm_1943.mp3</code> <br><em>Alt</em>: <code>UN on the March</code></td>\n<td><strong>&quot;The United Nations on the March&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-08-29<br>10:00 PM EWT</td>\n<td><strong>General Electric</strong><br>Mazda Lamps</td>\n<td><strong>Phil Spitalny</strong>, <strong>Evelyn</strong></td>\n<td><strong>All-Girl Orchestra &amp; Choir</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Orchestral&quot;, &quot;Choral&quot;, &quot;Classical&quot;, &quot;Patriotic&quot;]</code></td>\n<td>Phil Spitalny leads Evelyn and the All-Girl Orchestra in an uplifting concert of Allied anthems and classical hymns.</td>\n</tr>\n<tr>\n<td><code>Authors_Studio_1975.mp3</code> <br><em>Alt</em>: <code>Sound of Thunder</code></td>\n<td><strong>&quot;The Sound of Thunder&quot;</strong></td>\n<td><strong>Syndicated Drama</strong><br>1975-08-29</td>\n<td><strong>Sustaining</strong><br>Speculative Fiction</td>\n<td><strong>Dramatic Repertory</strong></td>\n<td><strong>Speculative Fiction Staff</strong></td>\n<td><code>[&quot;Science Fiction&quot;, &quot;Drama&quot;, &quot;Time Travel&quot;, &quot;Anthology&quot;, &quot;Adaptation&quot;]</code></td>\n<td>Time-travel safari hunters trigger devastating historical consequences after accidentally stepping off a designated prehistoric path.</td>\n</tr>\n<tr>\n<td><code>Eddie_Cantor_1937.mp3</code> <br><em>Alt</em>: <code>Shakespeare In Hollywood</code></td>\n<td><strong>&quot;Shakespeare in Hollywood&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1937-08-29<br>8:30 PM EDST</td>\n<td><strong>The Texas Company</strong><br>Texaco Fire-Chief Gas</td>\n<td><strong>Eddie Cantor</strong>, <strong>Durbin</strong></td>\n<td><strong>Jacques Renard Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Music&quot;, &quot;Vaudeville&quot;, &quot;Parody&quot;]</code></td>\n<td>Eddie Cantor stages a chaotic burlesque production of Shakespearean tragedy adapted for movie studio executives.</td>\n</tr>\n<tr>\n<td><code>Proudly_Hail_1948.mp3</code> <br><em>Alt</em>: <code>Haven in Darkness</code></td>\n<td><strong>&quot;A Haven in Darkness&quot;</strong></td>\n<td><strong>US Army/AF Synd</strong><br>1948-08-29</td>\n<td><strong>US Armed Forces</strong><br>Recruiting Service</td>\n<td><strong>Lyle Talbot</strong> (Star)</td>\n<td><strong>Military Drama Staff</strong></td>\n<td><code>[&quot;Military&quot;, &quot;Drama&quot;, &quot;Medical&quot;, &quot;Inspirational&quot;, &quot;Anthology&quot;]</code></td>\n<td>An American army doctor sets up a field surgical unit during a raging hurricane to save injured island villagers.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 29</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 29</strong>: 228</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 29 Archival Metadata Enrichment Increment 360 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-29T00:00:00.000Z",
+      "tags": [
+        "August 29",
+        "Calendar Walk",
+        "Perry Mason",
+        "John Larkin",
+        "Joan Alexander",
+        "Erle Stanley Gardner",
+        "Tide",
+        "The Eddie Cantor Show",
+        "Eddie Cantor",
+        "Deanna Durbin",
+        "Texaco Fire-Chief",
+        "The Hour of Charm",
+        "Phil Spitalny",
+        "Evelyn and Her Magic Violin",
+        "General Electric",
+        "Proudly We Hail",
+        "Lyle Talbot",
+        "The Pendleton Story",
+        "Authors Studio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-29-walk-359-jack-benny-rudy-vallee-charles-boyer-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-29-walk-359-jack-benny-rudy-vallee-charles-boyer-enriched",
       "title": "Archival Dispatch: August 29 Calendar Walk — Jack Benny, Rudy Vallee, and Presenting Charles Boyer",
