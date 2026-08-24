@@ -1,0 +1,33 @@
+# Archival Dispatch: August 28 Calendar Walk — Strange As It Seems, Special Agent, and WWII News
+
+**Date**: 2026-08-28  
+**Author**: radio index  
+**Tags**: August 28, Calendar Walk, Strange As It Seems, John Hix, Devils Footprints, Special Agent, James Meighan, Wynn Wright, WNBC 30th Anniversary, Ben Grauer, Living 1949, Lou Hazam, Jane Cowl, Mutual Overseas War Report, Sigrid Schultz, Berlin Bureau, NBC News of the World, John W Vandercook, World War II, Alternate Titles, Original Filenames
+
+---
+
+## August 28 Archival Metadata Enrichment (Increment 276)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio and syndication, John Hix investigating the 1855 Devonshire 'Devil's Footprints' phenomenon on *Strange As It Seems*, James Meighan busting counterfeit postage stamps on *Special Agent*, Ben Grauer celebrating 30 years of WNBC broadcasting history, post-war synthetic chemistry on *Living 1949*, Sigrid Schultz reporting from Berlin on the eve of World War II, and John W. Vandercook analyzing Mediterranean air raids (1936–1952):
+
+---
+
+## 1. *August 28 Archival Inventory (Increment 276)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Strange_Seems_1936.mp3` <br>*Alt*: `[Pre-Empted]`, `Devils Footprints` | **"The Devil's Footprints"** | **Syndicated Elec**<br>1936-08-28 | **Commercial**<br>Regional Sponsors | **John Hix** (Host / Creator) | **Dramatic Repertory** | `["Docudrama", "Historical", "Oddities", "Mystery", "Anthology"]` | Host John Hix dramatizes the mysterious 1855 snowfall in Devonshire where unbroken cloven hoof-prints appeared over rooftops, walls, and fields. |
+| `Special_Agent_1948.mp3` <br>*Alt*: `Special Agent`, `Counterfeit Stamps` | **"The Case of the Counterfeit Stamps"** | **Mutual (WOR)**<br>1948-08-28<br>8:30 PM EDT | **Sustaining**<br>Secret Service Drama | **James Meighan** (Alan Drake) | **Wynn Wright** (Director) | `["Police Procedural", "Detective", "Hardboiled", "True Crime", "Action"]` | A US Treasury special agent goes undercover inside a waterfront print shop to dismantle an international counterfeit postage stamp ring. |
+| `WNBC_30th_1952.mp3` <br>*Alt*: `WNBC 30th Anniversary` | **"Thirty Years of Radio History"** | **WNBC New York**<br>1952-08-28<br>10:30 PM EDT | **Sustaining**<br>Historical Retrospective | **Ben Grauer** (Host) | **NBC Announcing Staff** | `["Historical", "Documentary", "Broadcast Journalism", "Tribute", "Americana"]` | Host Ben Grauer celebrates thirty years of broadcasting on flagship station WEAF/WNBC with historic audio excerpts of early radio breakthroughs. |
+| `Living_1949_1949.mp3` <br>*Alt*: `The Chemical Kingdom Today` | **"The Chemical Kingdom Today"** | **NBC (WNBC)**<br>1949-08-28<br>4:35 PM EDT | **Sustaining**<br>Documentary Series | **Ben Grauer**, **Jane Cowl** | **Lou Hazam** (Writer) | `["Documentary", "Educational", "Science", "Public Affairs", "Industry"]` | A documentary dramatization exploring how modern synthetic chemistry, plastics, and miracle fibers transform postwar American industry and domestic life. |
+| `MBS_War_1939.mp3` <br>*Alt*: `MBS Sigrid Schultz In Berlin` | **"Sigrid Schultz in Berlin"** | **Mutual (WOR)**<br>1939-08-28<br>10:00 PM EDST | **Sustaining**<br>Pre-War Crisis News | **Sigrid Schultz** (Berlin Chief) | **Mutual News Staff** | `["News", "Broadcast Journalism", "Wartime", "Historical", "World War II"]` | Pioneering female war correspondent Sigrid Schultz reports from Berlin on food rationing decrees and German military mobilization days before the invasion of Poland. |
+| `NBC_News_1943.mp3` <br>*Alt*: `NBC John W Vandercook` | **"John W. Vandercook"** | **NBC (WEAF)**<br>1943-08-28<br>7:15 PM EWT | **Sustaining**<br>Wartime News | **John W. Vandercook** | **Merrill Mueller** | `["News", "Broadcast Journalism", "Wartime", "Historical", "World War II"]` | NBC newsman John W. Vandercook analyzes Allied air offensives against southern European rail junctions following the liberation of Sicily. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 126
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
