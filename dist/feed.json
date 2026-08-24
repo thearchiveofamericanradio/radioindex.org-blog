@@ -41,6 +41,85 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-29-walk-348-rocky-jordan-this-is-jazz-rudy-vallee-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-29-walk-348-rocky-jordan-this-is-jazz-rudy-vallee-enriched",
+      "title": "Archival Dispatch: August 29 Calendar Walk — Rocky Jordan, This Is Jazz, and Rudy Vallee",
+      "content_html": "<h2>August 29 Archival Metadata Enrichment (Increment 348)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 29</strong> across American network radio and syndication, Jack Moyles starring as Rocky Jordan in Istanbul smuggling intrigues on <em>A Man Named Jordan</em> (1951), Rudi Blesh hosting New Orleans jazz icons on <em>This Is Jazz</em> (1947), Rudy Vallee interviewing cartoonist Robert Ripley and paying tribute to the Dionne Quintuplets for Fleischmann&#39;s Yeast (1935–1940), and Paul Whiteman hosting <em>Duffy&#39;s Tavern</em>&#39;s Ed Gardner for Philco (1935–1951):</p>\n<hr>\n<h2>1. <em>August 29 Archival Inventory (Increment 348)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>This_Is_Jazz_1947.mp3</code> <br><em>Alt</em>: <code>Wild Bill Davison 1947</code></td>\n<td><strong>&quot;Rudi Blesh Welcomes Wild Bill Davison and Albert Nicholas&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-08-29<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Traditional Jazz</td>\n<td><strong>Rudi Blesh</strong>, <strong>Davison</strong></td>\n<td><strong>Archey &amp; Nicholas</strong></td>\n<td><code>[&quot;Jazz&quot;, &quot;Dixieland&quot;, &quot;Music&quot;, &quot;Ragtime&quot;, &quot;Swing&quot;]</code></td>\n<td>Jazz historian Rudi Blesh hosts fiery Dixieland improvisations and authentic New Orleans ragtime ensembles.</td>\n</tr>\n<tr>\n<td><code>Man_Named_Jordan_10.mp3</code> <br><em>Alt</em>: <code>Istanbul Smuggling (10)</code></td>\n<td><strong>&quot;The Istanbul Smuggling Affair (Episode 10)&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-29<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Daytime Adventure</td>\n<td><strong>Jack Moyles</strong> (Jordan)</td>\n<td><strong>Larry Roman (Writer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;Serial&quot;, &quot;Espionage&quot;]</code></td>\n<td>Rocky Jordan interrogates a shady Turkish antique merchant and uncovers a secret compartment containing stolen currency plates.</td>\n</tr>\n<tr>\n<td><code>Man_Named_Jordan_11.mp3</code> <br><em>Alt</em>: <code>Istanbul Smuggling (11)</code></td>\n<td><strong>&quot;The Istanbul Smuggling Affair (Episode 11)&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-29<br>4:45 PM EDT</td>\n<td><strong>Sustaining</strong><br>Daytime Adventure</td>\n<td><strong>Jack Moyles</strong> (Jordan)</td>\n<td><strong>Larry Roman (Writer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;Serial&quot;, &quot;Espionage&quot;]</code></td>\n<td>Rocky Jordan evades waterfront gunmen along the Golden Horn while escorting a frightened courier to the American consulate.</td>\n</tr>\n<tr>\n<td><code>Rudy_Vallee_1935.mp3</code> <br><em>Alt</em>: <code>Quintuplets Ripley 1935</code></td>\n<td><strong>&quot;The Dionne Quintuplets and Robert L. Ripley&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1935-08-29<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Fleischmann&#39;s Yeast</td>\n<td><strong>Rudy Vallee</strong>, <strong>Ripley</strong></td>\n<td><strong>Connecticut Yankees</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Interview&quot;, &quot;Pop Standard&quot;, &quot;Vocal&quot;]</code></td>\n<td>Rudy Vallee interviews cartoonist Robert Ripley about world oddities and presents a live radio remote tribute to the Dionne Quintuplets.</td>\n</tr>\n<tr>\n<td><code>Rudy_Vallee_1940.mp3</code> <br><em>Alt</em>: <code>Alan Reed Peg LaCentra</code></td>\n<td><strong>&quot;Guest Alan Reed and Peg LaCentra&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-08-29<br>8:00 PM EDST</td>\n<td><strong>National Dairy</strong><br>Sealtest Ice Cream / Milk</td>\n<td><strong>Rudy Vallee</strong>, <strong>Reed</strong></td>\n<td><strong>Peg LaCentra (Vocal)</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Vocal&quot;, &quot;Pop Standard&quot;]</code></td>\n<td>Rudy Vallee trades comedic poetry verses with Alan Reed and features lush romantic vocals by songstress Peg LaCentra.</td>\n</tr>\n<tr>\n<td><code>Paul_Whiteman_1943.mp3</code> <br><em>Alt</em>: <code>Guest Ed Archie Gardner</code></td>\n<td><strong>&quot;Guest Ed &#39;Archie&#39; Gardner&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-08-29<br>8:00 PM EWT</td>\n<td><strong>Philco Corporation</strong><br>Philco Radios &amp; Phonographs</td>\n<td><strong>Paul Whiteman</strong>, <strong>Gardner</strong></td>\n<td><strong>Whiteman Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Variety&quot;, &quot;Orchestral&quot;, &quot;Comedy&quot;]</code></td>\n<td>Paul Whiteman and his orchestra welcome Duffy&#39;s Tavern proprietor Ed Gardner for hilarious tavern sketches and symphonic jazz.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 29</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 29</strong>: 156</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 29 Archival Metadata Enrichment Increment 348 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-29T00:00:00.000Z",
+      "tags": [
+        "August 29",
+        "Calendar Walk",
+        "A Man Named Jordan",
+        "Jack Moyles",
+        "Larry Roman",
+        "Rocky Jordan",
+        "This Is Jazz",
+        "Rudi Blesh",
+        "Wild Bill Davison",
+        "Albert Nicholas",
+        "The Rudy Vallee Show",
+        "Robert L Ripley",
+        "Dionne Quintuplets",
+        "Fleischmanns Yeast",
+        "Sealtest",
+        "Alan Reed",
+        "Peg LaCentra",
+        "Paul Whiteman Presents",
+        "Ed Gardner",
+        "Duffys Tavern",
+        "Philco",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-29-walk-347-goon-show-johnny-mercer-beyond-midnight-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-29-walk-347-goon-show-johnny-mercer-beyond-midnight-enriched",
+      "title": "Archival Dispatch: August 29 Calendar Walk — The Goon Show, Johnny Mercer, and Beyond Midnight",
+      "content_html": "<h2>August 29 Archival Metadata Enrichment (Increment 347)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 29</strong> across American network radio, BBC Transcription Services, and South African Springbok Radio, Spike Milligan, Peter Sellers &amp; Harry Secombe in <em>The China Story</em> on <em>The Goon Show</em> (1956), Johnny Mercer &amp; Jo Stafford jamming with Jack Teagarden (1944), Eileen Farrell &amp; the Golden Gate Quartet on <em>Chesterfield Presents</em> (1943), Michael McCabe&#39;s supernatural chiller on <em>Beyond Midnight</em>, Hal Burdick&#39;s <em>Night Editor</em>, and <em>Radio City Playhouse</em> (1937–1969):</p>\n<hr>\n<h2>1. <em>August 29 Archival Inventory (Increment 347)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Goon_Show_1956.mp3</code> <br><em>Alt</em>: <code>China Story Special</code></td>\n<td><strong>&quot;The China Story (Transcription Service Special)&quot;</strong></td>\n<td><strong>BBC Transcription</strong><br>1956-08-29</td>\n<td><strong>Sustaining</strong><br>Surreal Comedy</td>\n<td><strong>Spike Milligan</strong>, <strong>Sellers</strong></td>\n<td><strong>Harry Secombe &amp; Milligan</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Surreal&quot;, &quot;Satire&quot;, &quot;British&quot;, &quot;Parody&quot;]</code></td>\n<td>Neddie Seagoon leads a British military garrison in 19th-century China fighting off siege attacks orchestrated by the villainous Grytpype-Thynne.</td>\n</tr>\n<tr>\n<td><code>Chesterfield_1943.mp3</code> <br><em>Alt</em>: <code>Eileen Farrell Golden Gate</code></td>\n<td><strong>&quot;Eileen Farrell and The Golden Gate Quartet&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-08-29<br>8:00 PM EWT</td>\n<td><strong>Liggett &amp; Myers</strong><br>Chesterfield Cigarettes</td>\n<td><strong>Eileen Farrell</strong>, <strong>Quartet</strong></td>\n<td><strong>Frank Black Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Gospel&quot;, &quot;Classical&quot;, &quot;Pop Standard&quot;]</code></td>\n<td>Soprano Eileen Farrell and the pioneering Golden Gate Quartet perform operatic arias, spiritual harmonies, and wartime pop standards.</td>\n</tr>\n<tr>\n<td><code>Night_Editor_1937.mp3</code> <br><em>Alt</em>: <code>Fatal Matchbook Burdick</code></td>\n<td><strong>&quot;The Fatal Matchbook&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1937-08-29<br>9:00 PM EDST</td>\n<td><strong>Edwards Coffee</strong><br>Edwards Dependable</td>\n<td><strong>Hal Burdick</strong> (Host)</td>\n<td><strong>Hal Burdick (Creator)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Journalism&quot;, &quot;Anthology&quot;, &quot;Storytelling&quot;, &quot;Mystery&quot;]</code></td>\n<td>A veteran newspaper editor recounts how a single discarded matchbook found beside a highway drainage ditch convicted a ruthless hit-and-run driver.</td>\n</tr>\n<tr>\n<td><code>Radio_City_1949.mp3</code> <br><em>Alt</em>: <code>Unguarded Moment Junkin</code></td>\n<td><strong>&quot;The Unguarded Moment&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-08-29<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Radio Drama</td>\n<td><strong>Jan Miner</strong>, <strong>John Larkin</strong></td>\n<td><strong>Harry W. Junkin (Director)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Psychological&quot;, &quot;Suspense&quot;, &quot;Anthology&quot;, &quot;Domestic&quot;]</code></td>\n<td>A devoted suburban wife lets slip a single careless phrase during a dinner party that unravels her husband&#39;s covert embezzlement scheme.</td>\n</tr>\n<tr>\n<td><code>Beyond_Midnight_1969.mp3</code> <br><em>Alt</em>: <code>Take Your Partners</code></td>\n<td><strong>&quot;Take Your Partners&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1969-08-29</td>\n<td><strong>Sustaining</strong><br>Supernatural Drama</td>\n<td><strong>Michael McCabe</strong> (Host)</td>\n<td><strong>Dramatic Mystery Cast</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Supernatural&quot;, &quot;Ghost Story&quot;, &quot;Suspense&quot;, &quot;South Africa&quot;]</code></td>\n<td>A young woman attending a seaside ballroom dance discovers her charming dance partner is a phantom who drowned fifty years earlier.</td>\n</tr>\n<tr>\n<td><code>Johnny_Mercer_1944.mp3</code> <br><em>Alt</em>: <code>Jack Teagarden Jo Stafford</code></td>\n<td><strong>&quot;Guest Jack Teagarden and Jo Stafford&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-08-29<br>8:00 PM EWT</td>\n<td><strong>American Pencils</strong><br>Chesterfield Cigarettes</td>\n<td><strong>Johnny Mercer</strong>, <strong>Stafford</strong></td>\n<td><strong>Jack Teagarden &amp; Weston</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Swing&quot;, &quot;Vocal&quot;, &quot;Variety&quot;]</code></td>\n<td>Johnny Mercer and Jo Stafford welcome jazz trombonist Jack Teagarden for swing tunes, blues jams, and upbeat lyrical banter.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 29</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 29</strong>: 150</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 29 Archival Metadata Enrichment Increment 347 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-29T00:00:00.000Z",
+      "tags": [
+        "August 29",
+        "Calendar Walk",
+        "The Goon Show",
+        "Spike Milligan",
+        "Peter Sellers",
+        "Harry Secombe",
+        "BBC Transcription",
+        "Johnny Mercers Music Shop",
+        "Johnny Mercer",
+        "Jo Stafford",
+        "Jack Teagarden",
+        "Pied Pipers",
+        "Chesterfield Presents",
+        "Eileen Farrell",
+        "Golden Gate Quartet",
+        "Night Editor",
+        "Hal Burdick",
+        "Edwards Coffee",
+        "Beyond Midnight",
+        "Michael McCabe",
+        "Springbok Radio",
+        "Radio City Playhouse",
+        "Harry Junkin",
+        "Jan Miner",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-29-walk-346-melody-ranch-quiz-kids-comic-weekly-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-29-walk-346-melody-ranch-quiz-kids-comic-weekly-enriched",
       "title": "Archival Dispatch: August 29 Calendar Walk — Melody Ranch, The Quiz Kids, and Comic Weekly Man",
