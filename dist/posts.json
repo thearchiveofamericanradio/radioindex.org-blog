@@ -41,6 +41,39 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-28-walk-256-sherlock-holmes-sea-hound-kay-kyser-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-28-walk-256-sherlock-holmes-sea-hound-kay-kyser-enriched",
+      "title": "Archival Dispatch: August 28 Calendar Walk — Sherlock Holmes, The Sea Hound, and Kay Kyser",
+      "content_html": "<h2>August 28 Archival Metadata Enrichment (Increment 256)</h2>\n<p>This archival dispatch launches the <strong>August 28th calendar walk</strong>! It documents historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 28</strong> across American network radio and the BBC, three iconic Sherlock Holmes productions (1944 Basil Rathbone &amp; Nigel Bruce for Petri Wine, and BBC productions in 1964 and 1967 starring Carleton Hobbs &amp; Norman Shelley), Fran Striker&#39;s South Pacific naval adventure on <em>The Sea Hound</em>, Otto Kruger hosting <em>Hollywood Preview</em>, and Kay Kyser&#39;s musical comedy quiz for Lucky Strike (1940–1967):</p>\n<hr>\n<h2>1. <em>August 28 Archival Inventory (Increment 256)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Sherlock_1944.mp3</code> <br><em>Alt</em>: <code>The African Leopard Man</code>, <code>Petri</code></td>\n<td><strong>&quot;The African Leopard Man&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-08-28<br>8:30 PM EWT</td>\n<td><strong>Petri Wine Co.</strong><br>&quot;Ah, Petri Wine!&quot;</td>\n<td><strong>Basil Rathbone</strong>, <strong>Nigel Bruce</strong></td>\n<td><strong>Denis Green &amp; Anthony Boucher</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Victorian&quot;, &quot;Suspense&quot;, &quot;Crime&quot;]</code></td>\n<td>Sherlock Holmes and Dr. Watson investigate a series of gruesome murders in the London docks attributed to an African leopard cult.</td>\n</tr>\n<tr>\n<td><code>Sherlock_1964.mp3</code> <br><em>Alt</em>: <code>The Bruce Parthington Plans</code>, <code>BBC</code></td>\n<td><strong>&quot;The Bruce-Partington Plans&quot;</strong></td>\n<td><strong>BBC Light Programme</strong><br>1964-08-28</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>Carleton Hobbs</strong>, <strong>Norman Shelley</strong></td>\n<td><strong>Arthur Conan Doyle</strong>, <strong>Michael Hardwick</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Espionage&quot;, &quot;Victorian&quot;, &quot;Classic Literature&quot;]</code></td>\n<td>Mycroft Holmes calls upon his brother when a government clerk is found dead on the London Underground tracks with stolen top-secret submarine blueprints.</td>\n</tr>\n<tr>\n<td><code>Sherlock_1967.mp3</code> <br><em>Alt</em>: <code>Thor Bridge</code>, <code>Hobbs and Shelley</code></td>\n<td><strong>&quot;The Problem of Thor Bridge&quot;</strong></td>\n<td><strong>BBC Light Programme</strong><br>1967-08-28</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>Carleton Hobbs</strong>, <strong>Norman Shelley</strong></td>\n<td><strong>Arthur Conan Doyle</strong>, <strong>Michael Hardwick</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Victorian&quot;, &quot;Classic Literature&quot;, &quot;Crime&quot;]</code></td>\n<td>Sherlock Holmes investigates the fatal shooting of an American gold king&#39;s wife on a bridge, attempting to prove the innocence of the governess.</td>\n</tr>\n<tr>\n<td><code>Sea_Hound_1944.mp3</code> <br><em>Alt</em>: <code>The Secret of the Sunken Submarine</code></td>\n<td><strong>&quot;The Secret of the Sunken Submarine&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-08-28<br>5:00 PM EWT</td>\n<td><strong>Commercial</strong><br>Juvenile Sponsors</td>\n<td><strong>Ken Daigneau</strong>, <strong>Bobby Hastings</strong></td>\n<td><strong>Fran Striker</strong> (Creator)</td>\n<td><code>[&quot;Adventure&quot;, &quot;Maritime&quot;, &quot;Wartime&quot;, &quot;Action&quot;, &quot;Juvenile&quot;]</code></td>\n<td>Captain Silver and his young crew aboard the Sea Hound dive into treacherous South Pacific waters to salvage enemy naval codebooks from a sunken U-boat.</td>\n</tr>\n<tr>\n<td><code>Hollywood_Prev_1945.mp3</code> <br><em>Alt</em>: <code>Manhattan at Midnight</code>, <code>Kruger</code></td>\n<td><strong>&quot;Manhattan at Midnight&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-08-28<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Hollywood Showcase</td>\n<td><strong>Otto Kruger</strong> (Host), <strong>Dramatic Guests</strong></td>\n<td><strong>CBS Dramatic Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Noir&quot;, &quot;Hollywood&quot;, &quot;Anthology&quot;]</code></td>\n<td>A cynical Broadway gossip columnist gets trapped in a high-society blackmail scheme when an aspiring actress is discovered murdered in his penthouse.</td>\n</tr>\n<tr>\n<td><code>Kay_Kyser_1940.mp3</code> <br><em>Alt</em>: <code>First Song - Drums In My Heart</code></td>\n<td><strong>&quot;Drums in My Heart&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-08-28<br>10:00 PM EDST</td>\n<td><strong>American Tobacco</strong><br>Lucky Strike (&quot;It&#39;s Toasted!&quot;)</td>\n<td><strong>Kay Kyser</strong>, <strong>Ish Kabibble</strong>, <strong>Ginny Simms</strong></td>\n<td><strong>Harry Babbitt</strong>, <strong>Sully Mason</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Big Band&quot;, &quot;Game Show&quot;]</code></td>\n<td>Kay Kyser tests contestants with madcap musical trivia questions and leads his swinging dance band through the energetic rhythm standard &#39;Drums in My Heart&#39;.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 28</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 28</strong>: 6</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 28 Archival Metadata Enrichment Increment 256 This archival dispatch launches the August 28th calendar walk! It documents historical provenance, broadcast scheduling, commercial spons...",
+      "date_published": "2026-08-28T00:00:00.000Z",
+      "tags": [
+        "August 28",
+        "Calendar Walk",
+        "Sherlock Holmes",
+        "Basil Rathbone",
+        "Nigel Bruce",
+        "Carleton Hobbs",
+        "Norman Shelley",
+        "Petri Wine",
+        "Arthur Conan Doyle",
+        "Michael Hardwick",
+        "The Sea Hound",
+        "Fran Striker",
+        "Hollywood Preview",
+        "Otto Kruger",
+        "Kay Kysers Kollege of Musical Knowledge",
+        "Lucky Strike",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-27-walk-255-jean-shepherd-marvin-miller-raffles-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-27-walk-255-jean-shepherd-marvin-miller-raffles-enriched",
       "title": "Archival Dispatch: August 27 Calendar Walk — Jean Shepherd, Marvin Miller, and Raffles",
