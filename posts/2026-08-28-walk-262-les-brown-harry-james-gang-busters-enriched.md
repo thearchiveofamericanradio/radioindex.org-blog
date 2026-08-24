@@ -1,0 +1,33 @@
+# Archival Dispatch: August 28 Calendar Walk — Les Brown, Harry James, and Gang Busters
+
+**Date**: 2026-08-28  
+**Author**: radio index  
+**Tags**: August 28, Calendar Walk, One Night Stand, Les Brown, Urbie Green, Music with Wings, Johnny Desmond, All Star Parade of Bands, Harry James, Night Cap Yarns, Gang Busters, Phillips H Lord, Norman Schwarzkopf, Sloans Liniment, Alternate Titles, Original Filenames
+
+---
+
+## August 28 Archival Metadata Enrichment (Increment 262)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio and Armed Forces Radio Service, Les Brown & His Band of Renown live from the Hollywood Palladium, jazz trombonist Urbie Green, Sgt. Johnny Desmond singing 'Blue Moon' with the Army Air Forces Orchestra, Harry James and his Music Makers on NBC's *All Star Parade of Bands*, Chuck Schaden's nostalgic *Night Cap Yarns*, and Col. H. Norman Schwarzkopf narrating *Gang Busters: The Dillingers of the Ozarks* for Sloan's Liniment (1939–1959):
+
+---
+
+## 1. *August 28 Archival Inventory (Increment 262)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `One_Night_Stand_1951.mp3` <br>*Alt*: `First Song - Mr. And Mrs. Sippi` | **"Les Brown — Mr. and Mrs. Sippi"** | **AFRS**<br>1951-08-28 | **US Military**<br>AFRS Swing Broadcast | **Les Brown and His Band of Renown** | **Lucy Ann Polk** | `["Music", "Big Band", "Swing", "Dance", "Jazz"]` | Les Brown and his Band of Renown perform energetic dance arrangements and brassy swing orchestrations from the Hollywood Palladium. |
+| `One_Night_Stand_1959.mp3` <br>*Alt*: `First Song - Here's One` | **"Urbie Green — Here's One"** | **AFRS**<br>1959-08-28 | **US Military**<br>AFRS Swing Broadcast | **Urbie Green and his Orchestra** | **AFRS Jazz Staff** | `["Music", "Big Band", "Jazz", "Swing", "Trombone"]` | Master jazz trombonist Urbie Green leads a sharp modern swing ensemble through lyrical ballads and cool jazz solos. |
+| `Music_Wings_1945.mp3` <br>*Alt*: `1st Song - Blue Moon`, `Desmond` | **"Blue Moon"** | **Mutual (WOR)**<br>1945-08-28<br>8:00 PM EWT | **Sustaining**<br>Big Band Showcase | **Army Air Forces Orchestra** | **Sgt. Johnny Desmond** | `["Music", "Big Band", "Swing", "Military", "Vocal"]` | The Army Air Forces Training Command dance band performs lush wartime swing melodies, opening with Rodgers and Hart's classic 'Blue Moon'. |
+| `Parade_Bands_1953.mp3` <br>*Alt*: `Harry James`, `Music Makers` | **"Guest Harry James and his Orchestra"** | **NBC (WNBC)**<br>1953-08-28<br>10:30 PM EDT | **Sustaining**<br>NBC Music Showcase | **Harry James and his Music Makers** | **NBC Music Staff** | `["Music", "Big Band", "Swing", "Jazz", "Trumpet"]` | Trumpeter Harry James leads his powerhouse orchestra in virtuoso brass solos, boogie-woogie showpieces, and romantic ballroom arrangements. |
+| `Night_Cap_1939.mp3` <br>*Alt*: `Official Duty`, `Constable` | **"Official Duty"** | **Syndicated Elec**<br>1939-08-28 | **Commercial**<br>Regional Sponsors | **Syndicated Storyteller** | **Radio Drama Company** | `["Drama", "Storytelling", "Anthology", "Moral", "Americana"]` | An elderly small-town constable must choose between his strict official oath and protecting a desperate runaway youth from a predatory loan shark. |
+| `Gang_Busters_1942.mp3` <br>*Alt*: `The Dillingers Of The Ozarks` | **"The Dillingers of the Ozarks"** | **NBC Blue (WJZ)**<br>1942-08-28<br>8:00 PM EWT | **Dr. Earl S. Sloan**<br>Sloan's Liniment | **Col. H. Norman Schwarzkopf** | **Phillips H. Lord** (Producer) | `["Police Procedural", "True Crime", "Action", "Docudrama", "Hardboiled"]` | Missouri state troopers and local sheriffs wage a relentless armed manhunt across the Ozarks to take down a ruthless family of bank robbers. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 42
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
