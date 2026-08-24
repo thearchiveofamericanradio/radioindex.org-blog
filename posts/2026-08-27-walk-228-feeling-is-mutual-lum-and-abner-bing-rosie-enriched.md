@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Feeling Is Mutual, Lum and Abner, and Bing & Rosie
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Feeling Is Mutual, Caribbean Clipper, Mutual, Lum and Abner, Chester Lauck, Norris Goff, Alka-Seltzer, Frigidaire, Pine Ridge, Jot Em Down Store, Enchanted Hour, Johannes Brahms, Henry Weber, Bing Crosby, Rosemary Clooney, Buddy Cole, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 228)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio, tropical Latin melodies on *The Feeling Is Mutual*, three Pine Ridge episodes with Chester Lauck & Norris Goff on *Lum and Abner* (1942 Squire's scheme, 1946 grand piano delivery, 1948 Frigidaire windfall), Henry Weber conducting Brahms on *The Enchanted Hour*, and Bing Crosby & Rosemary Clooney harmonizing on "Cheek to Cheek" (1942–1962):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 228)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Mutual_Music_1945.mp3` <br>*Alt*: `Caribbean Clipper`, `1945` | **"Caribbean Clipper"** | **Mutual (WOR)**<br>1945-08-27<br>8:30 PM EWT | **Sustaining**<br>Musical Variety | **Mutual Concert Orchestra** | **Mutual Music Staff** | `["Music", "Latin", "Pop Standards", "Orchestral", "Variety"]` | The Mutual Concert Orchestra performs Latin and tropical arrangements celebrating aviation travel across the Caribbean. |
+| `Lum_Abner_1942.mp3` <br>*Alt*: `Is Squire Telling the Truth?`, `Alka` | **"Is Squire Telling the Truth?"** | **NBC Blue (WJZ)**<br>1942-08-27<br>8:15 PM EWT | **Miles Laboratories**<br>Alka-Seltzer & One-A-Day | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Chester Lauck & Norris Goff** | `["Comedy", "Sitcom", "Rural", "Americana", "Serial"]` | Lum and Abner debate whether to trust Squire Skimp's suspicious claims about a lucrative new Pine Ridge community enterprise. |
+| `Lum_Abner_1946.mp3` <br>*Alt*: `New Piano On Approval`, `1946` | **"New Piano on Approval"** | **ABC (WJZ)**<br>1946-08-27<br>8:00 PM EDT | **Miles Laboratories**<br>Alka-Seltzer | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Chester Lauck & Norris Goff** | `["Comedy", "Sitcom", "Rural", "Americana", "Serial"]` | The Jot 'Em Down Store proprietors order a grand piano on approval and struggle to move the massive instrument through the front doorway. |
+| `Lum_Abner_1948.mp3` <br>*Alt*: `Discuss Way For Abner To Spend Money` | **"Ways for Abner to Spend Money"** | **CBS (WCBS)**<br>1948-08-27<br>10:00 PM EDT | **Frigidaire / GM**<br>Frigidaire Refrigerators | **Chester Lauck** (Lum), **Norris Goff** (Abner) | **Chester Lauck & Norris Goff** | `["Comedy", "Sitcom", "Rural", "Americana", "Serial"]` | Lum brainstorms ambitious investment schemes for Abner's sudden windfall before Abner can spend it on eccentric trinkets. |
+| `Enchanted_Hour_1950.mp3` <br>*Alt*: `First Song - Music By Brahms` | **"Brahms Hungarian Dances & Classical Melodies"** | **Mutual (WOR)**<br>1950-08-27<br>10:30 AM EDT | **Sustaining**<br>Classical Concert | **Henry Weber**, **Nancy Carr**, **Bruce Foote** | **Mutual Symphony Orchestra** | `["Music", "Classical", "Orchestral", "Vocal", "Concert"]` | Henry Weber conducts the symphony orchestra and guest vocalists in classical compositions by Johannes Brahms, featuring selections from the Hungarian Dances. |
+| `Bing_Rosie_1962.mp3` <br>*Alt*: `I'm In Heaven`, `Cheek to Cheek` | **"Cheek to Cheek (I'm in Heaven)"** | **CBS (WCBS)**<br>1962-08-27<br>10:45 AM EDT | **Sustaining**<br>Daytime Music | **Bing Crosby**, **Rosemary Clooney**, **Buddy Cole** | **Buddy Cole Trio** | `["Music", "Pop Standards", "Vocal", "Jazz", "Duet"]` | Bing Crosby and Rosemary Clooney trade warm musical banter and sing Irving Berlin's 'Cheek to Cheek' backed by Buddy Cole's jazz combo. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 281
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
