@@ -41,6 +41,40 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-405-meet-the-press-chandu-the-magician-adventurers-club-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-405-meet-the-press-chandu-the-magician-adventurers-club-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Meet the Press, Chandu the Magician, and Adventurers Club",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 405)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio and syndicated transcription drama, three historic editions of <em>Meet the Press</em> featuring Senator Carl A. Hatch (1946), Korean Ambassador Dr. You Chan Yang (1953), and poet Carl Sandburg with photographer Edward Steichen (1959), Gayne Whitman as <em>Chandu the Magician</em> for White King Soap (1932), war correspondent Michael Fielding on <em>Adventurers Club</em> (1947), and international smugglers on <em>Contraband</em> (1932–1959):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 405)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Adv_Club_1947_Field.mp3</code> <br><em>Alt</em>: <code>Fielding Story Part 2</code></td>\n<td><strong>&quot;The Michael Fielding Story (Part 2)&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1947-08-30<br>11:30 AM EDT</td>\n<td><strong>Sustaining</strong><br>True Adventure</td>\n<td><strong>Michael Fielding</strong>, <strong>Cast</strong></td>\n<td><strong>Adventurers Club Staff</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Docudrama&quot;, &quot;War Correspondent&quot;, &quot;Exploration&quot;, &quot;Serial&quot;]</code></td>\n<td>War correspondent Michael Fielding recounts a perilous escape through enemy patrol lines in the North African desert.</td>\n</tr>\n<tr>\n<td><code>Contraband_1955_Tang.mp3</code> <br><em>Alt</em>: <code>Diamond Couriers Tangier</code></td>\n<td><strong>&quot;The Diamond Couriers of Tangier&quot;</strong></td>\n<td><strong>Syndicated Crime</strong><br>1955-08-30</td>\n<td><strong>Sustaining</strong><br>International Adventure</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Contraband Staff</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Smuggling&quot;, &quot;Espionage&quot;, &quot;International&quot;, &quot;Action&quot;]</code></td>\n<td>Customs investigators track an international diamond smuggling courier across the Mediterranean into the free port of Tangier.</td>\n</tr>\n<tr>\n<td><code>Chandu_1932_Lotus.mp3</code> <br><em>Alt</em>: <code>Temple Black Lotus</code></td>\n<td><strong>&quot;The Temple of the Black Lotus&quot;</strong></td>\n<td><strong>Mutual / Don Lee</strong><br>1932-08-30<br>8:00 PM PST</td>\n<td><strong>Los Angeles Soap</strong><br>White King Soap</td>\n<td><strong>Gayne Whitman</strong>, <strong>MacDonald</strong></td>\n<td><strong>Earnshaw &amp; Morgan (Creators)</strong></td>\n<td><code>[&quot;Occult&quot;, &quot;Adventure&quot;, &quot;Fantasy&quot;, &quot;Mystery&quot;, &quot;Serial&quot;]</code></td>\n<td>Chandu employs astral projection and mystic hypnosis to locate Roxor&#39;s hidden desert temple and rescue captive relatives.</td>\n</tr>\n<tr>\n<td><code>Meet_Press_1946_Hatch.mp3</code> <br><em>Alt</em>: <code>Carl A Hatch</code></td>\n<td><strong>&quot;Senator Carl A. Hatch&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-08-30<br>10:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Affairs</td>\n<td><strong>Sen. Carl A. Hatch (D-NM)</strong></td>\n<td><strong>Rountree &amp; Spivak</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Interview&quot;, &quot;Journalism&quot;, &quot;Politics&quot;, &quot;Historical&quot;]</code></td>\n<td>Senator Carl Hatch faces rigorous questioning from top Washington journalists on political ethics reform and federal campaign regulations.</td>\n</tr>\n<tr>\n<td><code>Meet_Press_1953_Yang.mp3</code> <br><em>Alt</em>: <code>Dr You Chan Yang</code></td>\n<td><strong>&quot;Dr. You Chan Yang (Korean Ambassador)&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1953-08-30<br>6:00 PM EDT</td>\n<td><strong>Revere / Pan Am</strong><br>Aviation / Copper</td>\n<td><strong>Dr. You Chan Yang</strong></td>\n<td><strong>Rountree &amp; Spivak</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Interview&quot;, &quot;Journalism&quot;, &quot;Cold War&quot;, &quot;Korean War&quot;]</code></td>\n<td>South Korean Ambassador Dr. You Chan Yang addresses post-armistice reconstruction, prisoner of war exchanges, and Korean reunification.</td>\n</tr>\n<tr>\n<td><code>Meet_Press_1959_Sand.mp3</code> <br><em>Alt</em>: <code>Sandburg Steichen 1959</code></td>\n<td><strong>&quot;Carl Sandburg and Edward Steichen&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1959-08-30<br>6:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Affairs</td>\n<td><strong>Sandburg</strong>, <strong>Steichen</strong></td>\n<td><strong>Ned Brooks &amp; Spivak</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Interview&quot;, &quot;Cultural&quot;, &quot;Literature&quot;, &quot;Photography&quot;]</code></td>\n<td>Poet Carl Sandburg and photographer Edward Steichen discuss American cultural diplomacy following their historic cultural exchange tour of the Soviet Union.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 102 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 405 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "Meet the Press",
+        "Carl A Hatch",
+        "You Chan Yang",
+        "Carl Sandburg",
+        "Edward Steichen",
+        "Martha Rountree",
+        "Lawrence Spivak",
+        "Chandu the Magician",
+        "White King Soap",
+        "Gayne Whitman",
+        "Roxor",
+        "Adventurers Club",
+        "Michael Fielding",
+        "Contraband",
+        "Tangier",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-404-command-performance-lincoln-highway-daniel-boone-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-404-command-performance-lincoln-highway-daniel-boone-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — Command Performance, Lincoln Highway, and Daniel Boone",

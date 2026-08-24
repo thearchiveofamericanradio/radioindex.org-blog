@@ -1,0 +1,33 @@
+# Archival Dispatch: August 30 Calendar Walk — Meet the Press, Chandu the Magician, and Adventurers Club
+
+**Date**: 2026-08-30  
+**Author**: radio index  
+**Tags**: August 30, Calendar Walk, Meet the Press, Carl A Hatch, You Chan Yang, Carl Sandburg, Edward Steichen, Martha Rountree, Lawrence Spivak, Chandu the Magician, White King Soap, Gayne Whitman, Roxor, Adventurers Club, Michael Fielding, Contraband, Tangier, Alternate Titles, Original Filenames
+
+---
+
+## August 30 Archival Metadata Enrichment (Increment 405)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and syndicated transcription drama, three historic editions of *Meet the Press* featuring Senator Carl A. Hatch (1946), Korean Ambassador Dr. You Chan Yang (1953), and poet Carl Sandburg with photographer Edward Steichen (1959), Gayne Whitman as *Chandu the Magician* for White King Soap (1932), war correspondent Michael Fielding on *Adventurers Club* (1947), and international smugglers on *Contraband* (1932–1959):
+
+---
+
+## 1. *August 30 Archival Inventory (Increment 405)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Adv_Club_1947_Field.mp3` <br>*Alt*: `Fielding Story Part 2` | **"The Michael Fielding Story (Part 2)"** | **CBS (WCBS)**<br>1947-08-30<br>11:30 AM EDT | **Sustaining**<br>True Adventure | **Michael Fielding**, **Cast** | **Adventurers Club Staff** | `["Adventure", "Docudrama", "War Correspondent", "Exploration", "Serial"]` | War correspondent Michael Fielding recounts a perilous escape through enemy patrol lines in the North African desert. |
+| `Contraband_1955_Tang.mp3` <br>*Alt*: `Diamond Couriers Tangier` | **"The Diamond Couriers of Tangier"** | **Syndicated Crime**<br>1955-08-30 | **Sustaining**<br>International Adventure | **Dramatic Voice Cast** | **Contraband Staff** | `["Crime", "Smuggling", "Espionage", "International", "Action"]` | Customs investigators track an international diamond smuggling courier across the Mediterranean into the free port of Tangier. |
+| `Chandu_1932_Lotus.mp3` <br>*Alt*: `Temple Black Lotus` | **"The Temple of the Black Lotus"** | **Mutual / Don Lee**<br>1932-08-30<br>8:00 PM PST | **Los Angeles Soap**<br>White King Soap | **Gayne Whitman**, **MacDonald** | **Earnshaw & Morgan (Creators)** | `["Occult", "Adventure", "Fantasy", "Mystery", "Serial"]` | Chandu employs astral projection and mystic hypnosis to locate Roxor's hidden desert temple and rescue captive relatives. |
+| `Meet_Press_1946_Hatch.mp3` <br>*Alt*: `Carl A Hatch` | **"Senator Carl A. Hatch"** | **Mutual (WOR)**<br>1946-08-30<br>10:30 PM EDT | **Sustaining**<br>Public Affairs | **Sen. Carl A. Hatch (D-NM)** | **Rountree & Spivak** | `["Public Affairs", "Interview", "Journalism", "Politics", "Historical"]` | Senator Carl Hatch faces rigorous questioning from top Washington journalists on political ethics reform and federal campaign regulations. |
+| `Meet_Press_1953_Yang.mp3` <br>*Alt*: `Dr You Chan Yang` | **"Dr. You Chan Yang (Korean Ambassador)"** | **NBC (WNBC)**<br>1953-08-30<br>6:00 PM EDT | **Revere / Pan Am**<br>Aviation / Copper | **Dr. You Chan Yang** | **Rountree & Spivak** | `["Public Affairs", "Interview", "Journalism", "Cold War", "Korean War"]` | South Korean Ambassador Dr. You Chan Yang addresses post-armistice reconstruction, prisoner of war exchanges, and Korean reunification. |
+| `Meet_Press_1959_Sand.mp3` <br>*Alt*: `Sandburg Steichen 1959` | **"Carl Sandburg and Edward Steichen"** | **NBC (WNBC)**<br>1959-08-30<br>6:00 PM EDT | **Sustaining**<br>Public Affairs | **Sandburg**, **Steichen** | **Ned Brooks & Spivak** | `["Public Affairs", "Interview", "Cultural", "Literature", "Photography"]` | Poet Carl Sandburg and photographer Edward Steichen discuss American cultural diplomacy following their historic cultural exchange tour of the Soviet Union. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 102 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
