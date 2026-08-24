@@ -41,6 +41,43 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-29-walk-363-counterspy-cbs-news-lets-pretend-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-29-walk-363-counterspy-cbs-news-lets-pretend-enriched",
+      "title": "Archival Dispatch: August 29 Calendar Walk — Counterspy, CBS News, and Let's Pretend",
+      "content_html": "<h2>August 29 Archival Metadata Enrichment (Increment 363)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 29</strong> across American network radio and the BBC, Don MacLaughlin &amp; Mandel Kramer tackling wartime blueprint theft and industrial extortion on <em>Counterspy</em> (1945–1948), Bob Trout &amp; Edward R. Murrow broadcasting live shortwave dispatches during the Battle of Britain (1940), Nila Mack&#39;s adaptation of <em>The Little Mermaid</em> on <em>Let&#39;s Pretend</em> for Cream of Wheat (1942), Martha Scott on <em>Stars Over Hollywood</em>, and BBC comedy <em>Radio Active</em> (1940–1987):</p>\n<hr>\n<h2>1. <em>August 29 Archival Inventory (Increment 363)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Radio_Active_1987.mp3</code> <br><em>Alt</em>: <code>Twenty Years Ago Tuesday</code></td>\n<td><strong>&quot;It Was Twenty Years Ago Last Tuesday&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1987-08-29</td>\n<td><strong>Sustaining</strong><br>British Comedy</td>\n<td><strong>Angus Deayton</strong>, <strong>Perkins</strong></td>\n<td><strong>Deayton &amp; Perkins</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Satire&quot;, &quot;Sketch&quot;, &quot;Parody&quot;]</code></td>\n<td>The Radio Active comedy team parodies BBC local radio broadcasting with satirical news reports, spoof commercials, and musical gags.</td>\n</tr>\n<tr>\n<td><code>Counterspy_1945.mp3</code> <br><em>Alt</em>: <code>Counterfeit Blueprints</code></td>\n<td><strong>&quot;The Case of the Counterfeit Blueprints&quot;</strong></td>\n<td><strong>ABC / Blue (WJZ)</strong><br>1945-08-29<br>8:30 PM EWT</td>\n<td><strong>Mail Pouch Tobacco</strong><br>Kentucky Club Pipe Tob.</td>\n<td><strong>Don MacLaughlin</strong>, <strong>Kramer</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Detective&quot;, &quot;Mystery&quot;, &quot;Crime&quot;, &quot;Thriller&quot;]</code></td>\n<td>David Harding intercepts an undercover espionage ring attempting to smuggle classified naval aviation blueprints to foreign agents.</td>\n</tr>\n<tr>\n<td><code>Counterspy_1948.mp3</code> <br><em>Alt</em>: <code>TCOT Hatless Husband</code></td>\n<td><strong>&quot;The Case of the Hatless Husband&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-08-29<br>5:30 PM EDT</td>\n<td><strong>Schutter Candy Co.</strong><br>Bit-O-Honey / Old Nick</td>\n<td><strong>Don MacLaughlin</strong>, <strong>Kramer</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Detective&quot;, &quot;Mystery&quot;, &quot;Crime&quot;, &quot;Thriller&quot;]</code></td>\n<td>Counterspy Chief David Harding tracks a blackmailed chemist whose missing clothing provides the crucial clue in a sabotage plot.</td>\n</tr>\n<tr>\n<td><code>CBS_News_1940_Britain.mp3</code> <br><em>Alt</em>: <code>CBS The News From Europe</code></td>\n<td><strong>&quot;The News from Europe (Battle of Britain Day 50)&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-08-29<br>6:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>News Service</td>\n<td><strong>Bob Trout</strong>, <strong>Murrow</strong></td>\n<td><strong>CBS Newsroom</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;World War II&quot;, &quot;Journalism&quot;, &quot;Live Broadcast&quot;]</code></td>\n<td>CBS correspondents report live shortwave dispatches on nighttime Luftwaffe aerial raids over London and RAF defensive dogfights.</td>\n</tr>\n<tr>\n<td><code>Lets_Pretend_1942.mp3</code> <br><em>Alt</em>: <code>Little Mermaid Pretend</code></td>\n<td><strong>&quot;The Little Mermaid&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-08-29<br>11:30 AM EWT</td>\n<td><strong>Cream of Wheat</strong><br>Cream of Wheat Cereal</td>\n<td><strong>Nila Mack</strong>, <strong>Players</strong></td>\n<td><strong>Nila Mack (Director)</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Fairy Tale&quot;, &quot;Fantasy&quot;, &quot;Adaptation&quot;, &quot;Anthology&quot;]</code></td>\n<td>A young sea princess rescues a shipwrecked prince from drowning and makes a sacrificial bargain with a sea witch to walk on land.</td>\n</tr>\n<tr>\n<td><code>Stars_Hollywood_1942.mp3</code> <br><em>Alt</em>: <code>Behind The Ball</code></td>\n<td><strong>&quot;Behind the Eight Ball with Martha Scott&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-08-29<br>12:30 PM EWT</td>\n<td><strong>Bowey&#39;s Inc.</strong><br>Dari-Rich Chocolate</td>\n<td><strong>Martha Scott</strong> (Star)</td>\n<td><strong>Dramatic Repertory</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Comedy&quot;, &quot;Hollywood&quot;, &quot;Romance&quot;, &quot;Anthology&quot;]</code></td>\n<td>A resourceful young career woman inadvertently lands in financial peril when an uncashed bonus check gets mixed up in a company takeover.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 29</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 29</strong>: 246</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 29 Archival Metadata Enrichment Increment 363 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-29T00:00:00.000Z",
+      "tags": [
+        "August 29",
+        "Calendar Walk",
+        "Counterspy",
+        "Don MacLaughlin",
+        "Mandel Kramer",
+        "Phillips H Lord",
+        "Kentucky Club",
+        "Bit-O-Honey",
+        "CBS News",
+        "Battle of Britain",
+        "Bob Trout",
+        "Edward R Murrow",
+        "Lets Pretend",
+        "Nila Mack",
+        "Cream of Wheat",
+        "Stars Over Hollywood",
+        "Martha Scott",
+        "Dari-Rich",
+        "Radio Active",
+        "Angus Deayton",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-29-walk-362-lone-ranger-detective-galbraith-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-29-walk-362-lone-ranger-detective-galbraith-enriched",
       "title": "Archival Dispatch: August 29 Calendar Walk — The Lone Ranger and Detective Galbraith",
