@@ -41,6 +41,80 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-29-walk-344-gunsmoke-space-patrol-buddy-clark-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-29-walk-344-gunsmoke-space-patrol-buddy-clark-enriched",
+      "title": "Archival Dispatch: August 29 Calendar Walk — Gunsmoke, Space Patrol, and Buddy Clark",
+      "content_html": "<h2>August 29 Archival Metadata Enrichment (Increment 344)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 29</strong> across American network radio and syndication, William Conrad starring as Marshal Matt Dillon braving flooded prairies on <em>Gunsmoke</em> (1953), Buzz Corry &amp; Cadet Happy battling cosmic pirates on <em>Space Patrol</em> for Ralston Purina (1953), Buddy Clark&#39;s romantic melodies for Bourjois on <em>Here&#39;s to Romance</em> (1943), Arnold Marquis&#39; <em>The Pacific Story</em>, <em>Masters of Mystery</em>, and CBS wartime news (1943–1956):</p>\n<hr>\n<h2>1. <em>August 29 Archival Inventory (Increment 344)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>CBS_News_1943.mp3</code> <br><em>Alt</em>: <code>Air Strikes Over Europe</code></td>\n<td><strong>&quot;CBS World News Today (Allied Air Strikes Over Europe)&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-08-29<br>2:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Wartime News</td>\n<td><strong>John Daly</strong>, <strong>W. Shirer</strong></td>\n<td><strong>CBS Foreign Desk</strong></td>\n<td><code>[&quot;News&quot;, &quot;World War II&quot;, &quot;Journalism&quot;, &quot;Aviation&quot;, &quot;Live Report&quot;]</code></td>\n<td>CBS correspondents report on Allied heavy bomber strikes against Axis rail hubs in Germany and naval maneuvers in the Mediterranean.</td>\n</tr>\n<tr>\n<td><code>Gunsmoke_1953.mp3</code> <br><em>Alt</em>: <code>Spring Freshet</code>, <code>Matt Dillon</code></td>\n<td><strong>&quot;Spring Freshet&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1953-08-29<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Adult Western</td>\n<td><strong>William Conrad</strong>, <strong>P. Baer</strong></td>\n<td><strong>John Meston (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Drama&quot;, &quot;Frontier&quot;, &quot;Law Enforcement&quot;, &quot;Americana&quot;]</code></td>\n<td>Marshal Matt Dillon rides through torrential prairie floodwaters to rescue a trapped homesteader and arrest a fugitive horse thief.</td>\n</tr>\n<tr>\n<td><code>Masters_Mystery_1956.mp3</code> <br><em>Alt</em>: <code>Silent Strings</code>, <code>Stradivarius</code></td>\n<td><strong>&quot;The Case of the Silent Strings&quot;</strong></td>\n<td><strong>Syndicated Elec</strong><br>1956-08-29</td>\n<td><strong>Commercial</strong><br>Regional Sponsors</td>\n<td><strong>Dramatic Mystery Cast</strong></td>\n<td><strong>Syndicated Drama Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Suspense&quot;, &quot;Music&quot;, &quot;Anthology&quot;]</code></td>\n<td>A concert violinist discovers a lethal cyanide capsule concealed within his antique Stradivarius instrument pegbox.</td>\n</tr>\n<tr>\n<td><code>Heres_Romance_1943.mp3</code> <br><em>Alt</em>: <code>Buddy Clark Ray Bloch</code></td>\n<td><strong>&quot;Lyrical Melodies with Buddy Clark and Ray Bloch&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1943-08-29<br>6:05 PM EWT</td>\n<td><strong>Bourjois, Inc.</strong><br>Evening in Paris Perfume</td>\n<td><strong>Buddy Clark</strong>, <strong>Ray Bloch</strong></td>\n<td><strong>Bourjois Production Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Romance&quot;, &quot;Pop Standard&quot;, &quot;Variety&quot;]</code></td>\n<td>Popular baritone Buddy Clark serenades listeners with romantic Broadway ballads and pop standards alongside Ray Bloch&#39;s orchestra.</td>\n</tr>\n<tr>\n<td><code>Pacific_Story_1943.mp3</code> <br><em>Alt</em>: <code>Monsoon Asia Rivalry</code></td>\n<td><strong>&quot;Monsoon Asia — Adventurer and International Rivalry&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-08-29<br>11:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Docudrama</td>\n<td><strong>Dramatic Repertory</strong></td>\n<td><strong>Arnold Marquis (Writer)</strong></td>\n<td><code>[&quot;Documentary&quot;, &quot;Docudrama&quot;, &quot;History&quot;, &quot;Asian History&quot;, &quot;Colonial&quot;]</code></td>\n<td>A historical documentary tracing European colonial expansion, spice trade rivalries, and naval conflicts across Southeast Asia.</td>\n</tr>\n<tr>\n<td><code>Space_Patrol_1953.mp3</code> <br><em>Alt</em>: <code>Trap on Planet X</code>, <code>Ralston</code></td>\n<td><strong>&quot;The Trap on Planet X&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1953-08-29<br>10:30 AM EDT</td>\n<td><strong>Ralston Purina Co.</strong><br>Instant Ralston / Chex</td>\n<td><strong>Ed Kemmer</strong>, <strong>Lyn Osborn</strong></td>\n<td><strong>Lou Huston (Writer)</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Adventure&quot;, &quot;Juvenile&quot;, &quot;Space Opera&quot;, &quot;Action&quot;]</code></td>\n<td>Commander Buzz Corry and Cadet Happy investigate a deactivated space beacon and find themselves ambushed by interstellar outlaw pirates.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 29</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 29</strong>: 132</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 29 Archival Metadata Enrichment Increment 344 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-29T00:00:00.000Z",
+      "tags": [
+        "August 29",
+        "Calendar Walk",
+        "Gunsmoke",
+        "William Conrad",
+        "Parley Baer",
+        "Georgia Ellis",
+        "Howard McNear",
+        "John Meston",
+        "Space Patrol",
+        "Ed Kemmer",
+        "Lyn Osborn",
+        "Ralston Purina",
+        "Heres to Romance",
+        "Buddy Clark",
+        "Ray Bloch",
+        "Bourjois",
+        "The Pacific Story",
+        "Arnold Marquis",
+        "Masters of Mystery",
+        "Radio News",
+        "CBS World News",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-29-walk-343-june-bride-mr-district-attorney-soldiers-press-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-29-walk-343-june-bride-mr-district-attorney-soldiers-press-enriched",
+      "title": "Archival Dispatch: August 29 Calendar Walk — June Bride, Mr. District Attorney, and Soldiers of the Press",
+      "content_html": "<h2>August 29 Archival Metadata Enrichment (Increment 343)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 29</strong> across American network radio and syndication, Bette Davis &amp; James Stewart starring in <em>June Bride</em> on <em>Lux Radio Theatre</em> for Lever Brothers (1949), Jay Jostyn exposing factory conveyor sabotage on <em>Mr. District Attorney</em> for Vitalis (1951), United Press war correspondent Richard McMillan flying over Rome on <em>Soldiers of the Press</em>, Lurene Tuttle on <em>Skippy Hollywood Theater</em>, and teen idol Eddie Fisher on <em>Coke Time</em> (1941–1954):</p>\n<hr>\n<h2>1. <em>August 29 Archival Inventory (Increment 343)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Mr_DA_1951_Worm.mp3</code> <br><em>Alt</em>: <code>Case Revolving Worm</code></td>\n<td><strong>&quot;The Case of the Revolving Worm&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1951-08-29<br>9:30 PM EDT</td>\n<td><strong>Bristol-Myers</strong><br>Vitalis / Sal Hepatica</td>\n<td><strong>Jay Jostyn</strong>, <strong>Len Doyle</strong></td>\n<td><strong>Jerry Devine (Writer)</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Police Procedural&quot;, &quot;Hardboiled&quot;, &quot;Law Enforcement&quot;, &quot;Action&quot;]</code></td>\n<td>District Attorney Paul Garrett exposes a lethal industrial sabotage ring that weaponized high-precision conveyor machinery in an electronics plant.</td>\n</tr>\n<tr>\n<td><code>Soldiers_Press_1943.mp3</code> <br><em>Alt</em>: <code>Raid on Rome UP</code></td>\n<td><strong>&quot;Richard McMillan — The Raid on Rome&quot;</strong></td>\n<td><strong>United Press Synd</strong><br>1943-08-29</td>\n<td><strong>United Press</strong><br>Sustaining Docudrama</td>\n<td><strong>UP Dramatic Cast</strong></td>\n<td><strong>Richard McMillan (Reporter)</strong></td>\n<td><code>[&quot;Docudrama&quot;, &quot;World War II&quot;, &quot;Journalism&quot;, &quot;Aviation&quot;, &quot;Military&quot;]</code></td>\n<td>United Press correspondent Richard McMillan flies inside a heavy Allied bomber to report on precision railway yard strikes over Rome.</td>\n</tr>\n<tr>\n<td><code>Skippy_1947_Distort.mp3</code> <br><em>Alt</em>: <code>Distortion</code>, <code>Skippy</code></td>\n<td><strong>&quot;Distortion&quot;</strong></td>\n<td><strong>C.P. MacGregor</strong><br>1947-08-29</td>\n<td><strong>Rosefield Packing</strong><br>Skippy Peanut Butter</td>\n<td><strong>Lurene Tuttle</strong>, <strong>E. Lewis</strong></td>\n<td><strong>C.P. MacGregor (Producer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Psychological&quot;, &quot;Suspense&quot;, &quot;Mystery&quot;, &quot;Anthology&quot;]</code></td>\n<td>A wealthy socialite suspects her ambitious husband is slowly distorting her sensory perceptions to gain control of her trust inheritance.</td>\n</tr>\n<tr>\n<td><code>Lux_1949_June_Bride.mp3</code> <br><em>Alt</em>: <code>June Bride</code>, <code>Bette Davis</code></td>\n<td><strong>&quot;June Bride&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-08-29<br>9:00 PM EDT</td>\n<td><strong>Lever Brothers Co.</strong><br>Lux Soap / Lux Flakes</td>\n<td><strong>Bette Davis</strong>, <strong>James Stewart</strong></td>\n<td><strong>William Keighley (Host)</strong></td>\n<td><code>[&quot;Romantic Comedy&quot;, &quot;Hollywood&quot;, &quot;Adaptation&quot;, &quot;Journalism&quot;, &quot;Vocal&quot;]</code></td>\n<td>A sharp-witted magazine editor clashes with her cynical foreign correspondent ex-lover while staging a lavish feature wedding in Indiana.</td>\n</tr>\n<tr>\n<td><code>Coke_Time_1954.mp3</code> <br><em>Alt</em>: <code>Everywhere You Go</code></td>\n<td><strong>&quot;Everywhere You Go&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1954-08-29<br>8:00 PM EDT</td>\n<td><strong>The Coca-Cola Co.</strong><br>Coca-Cola / Coke</td>\n<td><strong>Eddie Fisher</strong> (Host)</td>\n<td><strong>Axel Stordahl Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Pop Standard&quot;, &quot;Variety&quot;, &quot;Ballad&quot;]</code></td>\n<td>Teen idol Eddie Fisher sings upbeat romantic chart hits and melodic standards with Axel Stordahl&#39;s orchestra for Sunday evening listeners.</td>\n</tr>\n<tr>\n<td><code>Radio_News_1941.mp3</code> <br><em>Alt</em>: <code>Churchill Great Days</code></td>\n<td><strong>&quot;Winston Churchill — These Are Great Days&quot;</strong></td>\n<td><strong>Shortwave Pool</strong><br>1941-08-29</td>\n<td><strong>Sustaining</strong><br>Wartime News</td>\n<td><strong>Winston Churchill</strong></td>\n<td><strong>BBC News Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;Speech&quot;, &quot;World War II&quot;, &quot;British History&quot;, &quot;Historical&quot;]</code></td>\n<td>Prime Minister Winston Churchill delivers a defiant broadcast rallying British citizens and Dominion forces against Nazi bombardment.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 29</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 29</strong>: 126</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 29 Archival Metadata Enrichment Increment 343 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-29T00:00:00.000Z",
+      "tags": [
+        "August 29",
+        "Calendar Walk",
+        "Lux Radio Theatre",
+        "Bette Davis",
+        "James Stewart",
+        "William Keighley",
+        "Lever Brothers",
+        "Lux Soap",
+        "Mr District Attorney",
+        "Jay Jostyn",
+        "Len Doyle",
+        "Vitalis",
+        "Soldiers of the Press",
+        "Richard McMillan",
+        "United Press",
+        "Skippy Hollywood Theater",
+        "Lurene Tuttle",
+        "Coke Time",
+        "Eddie Fisher",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-29-walk-342-mr-district-attorney-wwii-news-little-things-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-29-walk-342-mr-district-attorney-wwii-news-little-things-enriched",
       "title": "Archival Dispatch: August 29 Calendar Walk — Mr. District Attorney, WWII News, and Little Things in Life",
