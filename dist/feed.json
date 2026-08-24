@@ -41,6 +41,42 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-29-walk-386-cbs-is-there-life-with-luigi-the-falcon-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-29-walk-386-cbs-is-there-life-with-luigi-the-falcon-enriched",
+      "title": "Archival Dispatch: August 29 Calendar Walk — CBS Is There, Life with Luigi, and The Falcon",
+      "content_html": "<h2>August 29 Archival Metadata Enrichment (Increment 386)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 29</strong> across American network radio and syndication, CBS News correspondents covering the 1431 trial and execution of Joan of Arc on <em>CBS Is There</em> (1948), J. Carrol Naish as <em>Life with Luigi</em> facing an antique shop fire for Wrigley&#39;s Gum (1950), Les Damon in <em>The Falcon</em> (1951), Marie Wilson in <em>My Friend Irma</em> for Pepsodent (1949), Santos Ortega in <em>The Affairs of Peter Salem</em> directed by Himan Brown (1949), and Leon Janney in <em>Chick Carter, Boy Detective</em> (1944–1951):</p>\n<hr>\n<h2>1. <em>August 29 Archival Inventory (Increment 386)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Chick_Carter_1944.mp3</code> <br><em>Alt</em>: <code>Kidnapped Scientist</code></td>\n<td><strong>&quot;The Kidnapped Scientist&#39;s Formula&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-08-29<br>5:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Juvenile Detective</td>\n<td><strong>Leon Janney</strong> (Chick), <strong>Lipton</strong></td>\n<td><strong>Stefan Schnabel (Rattler)</strong></td>\n<td><code>[&quot;Juvenile&quot;, &quot;Detective&quot;, &quot;Adventure&quot;, &quot;Serial&quot;, &quot;Youth&quot;]</code></td>\n<td>Chick Carter and Tex trail an armed enemy agent to a secluded waterfront warehouse where a kidnapped research chemist is held hostage.</td>\n</tr>\n<tr>\n<td><code>My_Friend_Irma_1949.mp3</code> <br><em>Alt</em>: <code>Kropotkin Rent Dispute</code></td>\n<td><strong>&quot;Professor Kropotkin&#39;s Rent Dispute&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-08-29<br>10:00 PM EDT</td>\n<td><strong>Lever Brothers</strong><br>Pepsodent Toothpaste</td>\n<td><strong>Marie Wilson</strong>, <strong>Lewis</strong></td>\n<td><strong>Cy Howard &amp; Hans Conried</strong></td>\n<td><code>[&quot;Sitcom&quot;, &quot;Comedy&quot;, &quot;Female Lead&quot;, &quot;Domestic&quot;, &quot;Urban&quot;]</code></td>\n<td>Irma attempts to negotiate a rental compromise between her landlady Mrs. O&#39;Reilly and eccentric violinist Professor Kropotkin.</td>\n</tr>\n<tr>\n<td><code>The_Falcon_1951.mp3</code> <br><em>Alt</em>: <code>TCOT New Dealer</code></td>\n<td><strong>&quot;The Case of the Raw Dealer&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-08-29<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Les Damon</strong> (Falcon), <strong>Lynch</strong></td>\n<td><strong>The Falcon Production Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Crime&quot;, &quot;Action&quot;]</code></td>\n<td>Michael Waring investigates the murder of a high-stakes card sharp found slumped over an illegal gambling table in an underground casino.</td>\n</tr>\n<tr>\n<td><code>CBS_Is_There_1948.mp3</code> <br><em>Alt</em>: <code>Execution Joan Arc</code></td>\n<td><strong>&quot;The Execution of Joan of Arc&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-08-29<br>2:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Historical Docudrama</td>\n<td><strong>John Daly</strong>, <strong>Ken Roberts</strong></td>\n<td><strong>Joseph Liss (Writer)</strong></td>\n<td><code>[&quot;Historical&quot;, &quot;Docudrama&quot;, &quot;News Format&quot;, &quot;Medieval&quot;, &quot;Biography&quot;]</code></td>\n<td>CBS news correspondents broadcast live on-the-scene reports from the marketplace of Rouen in 1431 during the trial and execution of Joan of Arc.</td>\n</tr>\n<tr>\n<td><code>Peter_Salem_1949.mp3</code> <br><em>Alt</em>: <code>Golden Gimmick 1949</code></td>\n<td><strong>&quot;The Affair of the Golden Gimmick&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-08-29<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Santos Ortega</strong>, <strong>Grimes</strong></td>\n<td><strong>Himan Brown (Director)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Small Town&quot;, &quot;Crime&quot;, &quot;Investigation&quot;]</code></td>\n<td>Small-town sleuth Peter Salem unmasks a fraudulent gold-mining promoter after a wealthy investor is found poisoned in his office.</td>\n</tr>\n<tr>\n<td><code>Life_Luigi_1950.mp3</code> <br><em>Alt</em>: <code>Luigi Fire Store</code></td>\n<td><strong>&quot;Luigi Has a Fire in the Store&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-08-29<br>9:00 PM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Wrigley Spearmint Gum</td>\n<td><strong>J. Carrol Naish</strong>, <strong>Reed</strong></td>\n<td><strong>Cy Howard &amp; Jody Gilbert</strong></td>\n<td><code>[&quot;Sitcom&quot;, &quot;Comedy&quot;, &quot;Immigrant&quot;, &quot;Americana&quot;, &quot;Chicago&quot;]</code></td>\n<td>Luigi panics when a minor grease fire breaks out in his antique shop and Pasquale tries to pressure him into an insurance settlement.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 29</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 29</strong>: 384</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 29 Archival Metadata Enrichment Increment 386 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-29T00:00:00.000Z",
+      "tags": [
+        "August 29",
+        "Calendar Walk",
+        "CBS Is There",
+        "Joan of Arc",
+        "John Daly",
+        "Life with Luigi",
+        "J Carrol Naish",
+        "Alan Reed",
+        "Wrigley Chewing Gum",
+        "The Falcon",
+        "Les Damon",
+        "My Friend Irma",
+        "Marie Wilson",
+        "Pepsodent",
+        "Chick Carter Boy Detective",
+        "Leon Janney",
+        "The Affairs of Peter Salem",
+        "Santos Ortega",
+        "Himan Brown",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-29-walk-385-molle-mystery-theatre-mutual-radio-theater-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-29-walk-385-molle-mystery-theatre-mutual-radio-theater-enriched",
       "title": "Archival Dispatch: August 29 Calendar Walk — Molle Mystery Theatre, Mutual Radio Theater, and Howard Miller",
