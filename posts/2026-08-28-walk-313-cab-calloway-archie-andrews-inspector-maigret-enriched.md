@@ -1,0 +1,33 @@
+# Archival Dispatch: August 28 Calendar Walk — Cab Calloway, Archie Andrews, and Inspector Maigret
+
+**Date**: 2026-08-28  
+**Author**: radio index  
+**Tags**: August 28, Calendar Walk, Jubilee, Cab Calloway, Nat King Cole Trio, Ernie Bubbles Whitman, AFRS, Archie Andrews, Bob Hastings, Swift Franks, The Aldrich Family, Ezra Stone, Jell-O, Inspector Maigret, Maurice Denham, Georges Simenon, Bob and Ray, Norm Prescott, Alternate Titles, Original Filenames
+
+---
+
+## August 28 Archival Metadata Enrichment (Increment 313)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio, BBC Radio 4, and Armed Forces Radio Service (AFRS), Cab Calloway & Nat King Cole headlining an electric swing session on *Jubilee* (1944), Archie Andrews scrambling for date apparel for Swift's Franks, Ezra Stone taking boxing lessons on *The Aldrich Family* for Jell-O, Maurice Denham unraveling Parisian nightclub murders on *Inspector Maigret*, and Bob & Ray hosting Norm Prescott (1941–1976):
+
+---
+
+## 1. *August 28 Archival Inventory (Increment 313)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Bob_Ray_1952.mp3` <br>*Alt*: `Norm Prescott Visits` | **"Norm Prescott Visits"** | **NBC (WNBC)**<br>1952-08-28<br>5:45 PM EDT | **Sustaining**<br>Comedy Broadcast | **Bob & Ray**, **Norm Prescott** | **NBC Comedy Staff** | `["Comedy", "Satire", "Parody", "Sketches", "Americana"]` | Bob and Ray welcome Boston radio personality Norm Prescott to parody breathless disc jockey record promotions and absurd soap operas. |
+| `Jubilee_1944_95.mp3` <br>*Alt*: `Cab Calloway King Cole (95)` | **"Guest Cab Calloway and The King Cole Trio (Episode 95)"** | **AFRS Military**<br>1944-08-28 | **AFRS / Sustaining**<br>Military Broadcast | **Ernie Whitman**, **C. Calloway** | **Nat King Cole Trio** | `["Jazz", "Big Band", "Swing", "Vocal", "Wartime"]` | Ernie 'Bubbles' Whitman hosts an electrifying AFRS swing session featuring Cab Calloway's energetic scat routines and Nat King Cole's smooth trio jazz. |
+| `Aldrich_1941.mp3` <br>*Alt*: `Henry Takes Up Boxing`, `Jell-O` | **"Henry Takes Up Boxing"** | **NBC Red (WEAF)**<br>1941-08-28<br>8:30 PM EDST | **General Foods**<br>Jell-O Puddings / Postum | **Ezra Stone**, **Jackie Kelk** | **Clifford Goldsmith** | `["Sitcom", "Comedy", "Teen", "Domestic", "Americana"]` | Henry Aldrich orders mail-order boxing gloves to defend himself against the neighborhood bully, creating chaos in the Aldrich living room. |
+| `Archie_1948.mp3` <br>*Alt*: `Archie Gets Dressed For Date` | **"Archie Gets Dressed for a Date"** | **NBC (WNBC)**<br>1948-08-28<br>10:30 AM EDT | **Swift & Company**<br>Swift's Premium Franks | **Bob Hastings**, **Harlan Stone** | **Gloria Mann** | `["Sitcom", "Comedy", "Teen", "Juvenile", "Americana"]` | Archie frantically scrambles to locate his missing formal tuxedo studs and ironed shirt before picking up Veronica Lodge for a dance. |
+| `Maigret_1976_1.mp3` <br>*Alt*: `Maigret in Montmartre Pt 1` | **"Maigret in Montmartre (Part 1)"** | **BBC Radio 4**<br>1976-08-28 | **Sustaining**<br>BBC Detective Drama | **Maurice Denham**, **M. Gough** | **Georges Simenon (Author)** | `["Police Procedural", "Detective", "Mystery", "French", "Noir"]` | Chief Inspector Maigret investigates a sordid Parisian nightclub after a terrified striptease dancer reports overhearing a murder plot. |
+| `Maigret_1976_2.mp3` <br>*Alt*: `Maigret in Montmartre Pt 2` | **"Maigret in Montmartre (Part 2)"** | **BBC Radio 4**<br>1976-08-28 | **Sustaining**<br>BBC Detective Drama | **Maurice Denham**, **M. Gough** | **Georges Simenon (Author)** | `["Police Procedural", "Detective", "Mystery", "French", "Noir"]` | Maigret unravels the double murder of a countess and an informant by tracing hidden blackmail letters through the Montmartre demimonde. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 342
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
