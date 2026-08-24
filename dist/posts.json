@@ -41,6 +41,45 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-27-walk-240-fbi-spike-jones-man-called-x-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-27-walk-240-fbi-spike-jones-man-called-x-enriched",
+      "title": "Archival Dispatch: August 27 Calendar Walk — This Is Your FBI, Spike Jones, and The Man Called X",
+      "content_html": "<h2>August 27 Archival Metadata Enrichment (Increment 240)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 27</strong> across American network radio, Stacy Harris in <em>This Is Your FBI</em> for Equitable Life, escape from Devil&#39;s Island on <em>High Adventure</em>, Spike Jones and his City Slickers welcoming Anita Ellis for Coca-Cola, two classic daytime dramas on <em>Stepmother</em> starring Sunda Love &amp; Francis X. Bushman (1940 Colgate Dental Cream, 1941 Palmolive Soap), and Herbert Marshall starring as Agent X in <em>The Man Called X</em> for Lucky Strike (1940–1950):</p>\n<hr>\n<h2>1. <em>August 27 Archival Inventory (Increment 240)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>FBI_1948.mp3</code> <br><em>Alt</em>: <code>The Tell-Tale Bracelet</code>, <code>Equitable</code></td>\n<td><strong>&quot;The Tell-Tale Bracelet&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-08-27<br>8:30 PM EDT</td>\n<td><strong>Equitable Life</strong><br>Life Assurance Society</td>\n<td><strong>Stacy Harris</strong> (Jim Taylor)</td>\n<td><strong>Jerry Devine</strong> (Director)</td>\n<td><code>[&quot;Docudrama&quot;, &quot;Police Procedural&quot;, &quot;Crime&quot;, &quot;Mystery&quot;, &quot;FBI&quot;]</code></td>\n<td>Special Agent Jim Taylor tracks down an elusive interstate diamond heist gang after finding an inscribed gold charm bracelet dropped at the getaway scene.</td>\n</tr>\n<tr>\n<td><code>High_Adv_1950.mp3</code> <br><em>Alt</em>: <code>Escape from Devil&#39;s Island</code>, <code>1950</code></td>\n<td><strong>&quot;Escape from Devil&#39;s Island&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-08-27<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Adventure Showcase</td>\n<td><strong>Syndicated Dramatic Cast</strong></td>\n<td><strong>Mutual Production</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Action&quot;, &quot;Prison&quot;, &quot;Jungle&quot;, &quot;Anthology&quot;]</code></td>\n<td>A desperate French prisoner and his companion brave shark-infested waters and dense jungle to escape the penal colony on Devil&#39;s Island.</td>\n</tr>\n<tr>\n<td><code>Spike_Jones_1948.mp3</code> <br><em>Alt</em>: <code>Guest - Anita Ellis</code>, <code>Coke</code></td>\n<td><strong>&quot;Guest Anita Ellis&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-08-27<br>8:00 PM EDT</td>\n<td><strong>The Coca-Cola Co.</strong><br>The Spotlight Revue</td>\n<td><strong>Spike Jones</strong>, <strong>Anita Ellis</strong>, <strong>Doodles Weaver</strong></td>\n<td><strong>George Rock</strong>, <strong>City Slickers</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Music&quot;, &quot;Novelty&quot;, &quot;Variety&quot;, &quot;Parody&quot;]</code></td>\n<td>Spike Jones and his City Slickers tear through frantic musical parodies with sirens and cowbells, welcoming songstress Anita Ellis for sweet vocal ballads.</td>\n</tr>\n<tr>\n<td><code>Stepmother_1940.mp3</code> <br><em>Alt</em>: <code>Episode</code>, <code>Kay&#39;s Conference</code></td>\n<td><strong>&quot;Kay&#39;s Family Conference&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-08-27<br>10:45 AM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Dental Cream</td>\n<td><strong>Sunda Love</strong>, <strong>Francis X. Bushman</strong></td>\n<td><strong>Roy Winsor</strong> (Writer)</td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Domestic&quot;, &quot;Family&quot;, &quot;Serial&quot;]</code></td>\n<td>Kay Fairchild holds an earnest family council to mend rising tensions between her teenage stepdaughter and her husband John.</td>\n</tr>\n<tr>\n<td><code>Stepmother_1941.mp3</code> <br><em>Alt</em>: <code>Episode</code>, <code>John&#39;s Business Crisis</code></td>\n<td><strong>&quot;John&#39;s Business Crisis&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1941-08-27<br>10:45 AM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Soap</td>\n<td><strong>Sunda Love</strong>, <strong>Francis X. Bushman</strong></td>\n<td><strong>Roy Winsor</strong> (Writer)</td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Domestic&quot;, &quot;Family&quot;, &quot;Serial&quot;]</code></td>\n<td>Kay provides steady emotional counsel when John&#39;s banking firm faces sudden regulatory scrutiny and internal betrayal.</td>\n</tr>\n<tr>\n<td><code>Man_Called_X_1946.mp3</code> <br><em>Alt</em>: <code>Episode</code>, <code>Port Said Smuggling</code></td>\n<td><strong>&quot;The Port Said Smuggling Ring&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-08-27<br>8:00 PM EDT</td>\n<td><strong>American Tobacco</strong><br>Lucky Strike (&quot;It&#39;s Toasted!&quot;)</td>\n<td><strong>Herbert Marshall</strong>, <strong>Leon Belasco</strong></td>\n<td><strong>Jack Johnstone</strong> (Director)</td>\n<td><code>[&quot;Espionage&quot;, &quot;Thriller&quot;, &quot;Adventure&quot;, &quot;International&quot;, &quot;Mystery&quot;]</code></td>\n<td>Secret agent Ken Thurston travels to the Suez Canal in Port Said to shut down an international black market weapons pipeline threatening Middle Eastern peace.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 27</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 27</strong>: 353</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 27 Archival Metadata Enrichment Increment 240 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-27T00:00:00.000Z",
+      "tags": [
+        "August 27",
+        "Calendar Walk",
+        "This is Your FBI",
+        "Stacy Harris",
+        "Jerry Devine",
+        "Equitable Life",
+        "High Adventure",
+        "Devils Island",
+        "The Spike Jones Show",
+        "Anita Ellis",
+        "City Slickers",
+        "Coca-Cola",
+        "Stepmother",
+        "Kay Fairchild",
+        "Sunda Love",
+        "Francis X Bushman",
+        "Colgate",
+        "Palmolive",
+        "The Man Called X",
+        "Herbert Marshall",
+        "Leon Belasco",
+        "Lucky Strike",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-27-walk-239-boston-blackie-telephone-hour-cbsrmt-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-27-walk-239-boston-blackie-telephone-hour-cbsrmt-enriched",
       "title": "Archival Dispatch: August 27 Calendar Walk — Boston Blackie, Bell Telephone Hour, and CBSRMT",
