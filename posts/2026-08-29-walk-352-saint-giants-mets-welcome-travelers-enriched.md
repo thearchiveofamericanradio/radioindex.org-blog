@@ -1,0 +1,33 @@
+# Archival Dispatch: August 29 Calendar Walk — The Saint, Giants vs Mets Baseball, and Welcome Travelers
+
+**Date**: 2026-08-29  
+**Author**: radio index  
+**Tags**: August 29, Calendar Walk, The Saint, Brian Aherne, Leslie Charteris, Campbells Soup, Major League Baseball, SF Giants, NY Mets, Willie Mays, Lindsey Nelson, Rheingold Beer, Welcome Travelers, Tommy Bartlett, Spic and Span, Author Meets the Critics, Ring Lardner Jr, Charlotte Greenwood, Hallmark, CBS European News, Alternate Titles, Original Filenames
+
+---
+
+## August 29 Archival Metadata Enrichment (Increment 352)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 29** across American network radio and sports syndication, Brian Aherne starring as Simon Templar exposing cattle rustlers on *The Saint* for Campbell's Soup (1945), Lindsey Nelson, Bob Murphy & Ralph Kiner calling Willie Mays and the Giants facing the Mets at Shea Stadium (1965), Tommy Bartlett's *Welcome Travelers* for Spic and Span, Ring Lardner Jr. on *The Author Meets the Critics*, Charlotte Greenwood for Hallmark, and Edward R. Murrow's London Blitz reporting (1940–1965):
+
+---
+
+## 1. *August 29 Archival Inventory (Increment 352)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Welcome_Trav_1950.mp3` <br>*Alt*: `Gus Tobel Chicago` | **"Interviewing Mr. and Mrs. Gus Tobel in Chicago"** | **NBC (WNBC)**<br>1950-08-29<br>10:00 AM EDT | **Procter & Gamble**<br>Spic and Span / Joy | **Tommy Bartlett** (Host) | **Bob Cunningham (Ann)** | `["Human Interest", "Interview", "Variety", "Travel", "Game Show"]` | Tommy Bartlett interviews arriving rail passengers at the College Inn in Chicago and awards appliances to visiting newlyweds. |
+| `Baseball_1965_Mets.mp3` <br>*Alt*: `Giants At Mets 1965` | **"San Francisco Giants at New York Mets (Shea Stadium Doubleheader)"** | **WABC / Mets Net**<br>1965-08-29<br>1:00 PM EDT | **Rheingold Breweries**<br>Extra Dry Beer | **Lindsey Nelson**, **Murphy** | **Ralph Kiner (Broadcaster)** | `["Sports", "Baseball", "Play-by-Play", "MLB", "Live Broadcast"]` | Live play-by-play coverage from Shea Stadium as Willie Mays and the contending San Francisco Giants face the New York Mets. |
+| `Author_Critics_1948.mp3` <br>*Alt*: `So This Is New York` | **"Ring Lardner Jr. and 'So This Is New York'"** | **NBC (WNBC)**<br>1948-08-29<br>8:30 PM EDT | **Sustaining**<br>Literary Panel | **John K.M. McCaffery** | **Literary Critics Panel** | `["Public Affairs", "Discussion", "Literature", "Film Criticism", "Panel"]` | Literary critics clash over Ring Lardner Jr.'s screenplay adaptation of his father's satire 'The Big Town' starring Henry Morgan. |
+| `CBS_News_1940_Murrow.mp3` <br>*Alt*: `London Air Raid Murrow` | **"London's Longest Air Raid Yet"** | **CBS (WABC)**<br>1940-08-29<br>6:45 PM EDST | **Sustaining**<br>Wartime News | **Edward R. Murrow**, **Trout** | **CBS Foreign Desk** | `["News", "Journalism", "World War II", "Battle of Britain", "Live Report"]` | Edward R. Murrow broadcasts eyewitness accounts from a London rooftop describing incendiary bomb drops and anti-aircraft artillery duels. |
+| `Charlotte_Greenwood_1944.mp3` <br>*Alt*: `Charity Barn Dance` | **"Charlotte Stages a Charity Barn Dance"** | **NBC (WEAF)**<br>1944-08-29<br>8:30 PM EWT | **Hallmark Cards**<br>Greeting Cards | **Charlotte Greenwood** | **Harry James Orchestra** | `["Sitcom", "Comedy", "Domestic", "Music", "Americana"]` | Charlotte organizes a lively community barn dance to raise emergency medical funds for local war relief charities. |
+| `Saint_1945_Range.mp3` <br>*Alt*: `Black Market Range` | **"Black Market on the Range"** | **CBS (WABC)**<br>1945-08-29<br>8:00 PM EWT | **Campbell Soup Co.**<br>Campbell's Soups | **Brian Aherne**, **Arthur** | **Leslie Charteris (Author)** | `["Detective", "Mystery", "Action", "Adventure", "Crime"]` | Simon Templar travels to a Nevada cattle ranch to expose an illegal black-market slaughterhouse operation supplying stolen wartime beef. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 29
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 29**: 180
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
