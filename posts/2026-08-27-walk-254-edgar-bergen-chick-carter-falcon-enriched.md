@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Edgar Bergen, Chick Carter, and The Falcon
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Edgar Bergen, Charlie McCarthy, Miriam Hopkins, Chase and Sanborn, Chick Carter Boy Detective, Leon Janney, The Falcon, Michael Waring, James Meighan, The Affairs of Peter Salem, Santos Ortega, Americas Town Meeting of the Air, George V Denny Jr, Blair of the Mounties, Spencer G Savage, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 254)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio and syndication, Edgar Bergen & Charlie McCarthy flirting with guest Miriam Hopkins for Chase & Sanborn, Leon Janney in *Chick Carter, Boy Detective*, James Meighan as *The Falcon*, Santos Ortega solving sunken treasure murder in *The Affairs of Peter Salem*, wartime farm parity debate on *America's Town Meeting of the Air*, and Canadian wilderness adventure on *Blair of the Mounties* (1935–1950):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 254)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Bergen_1939.mp3` <br>*Alt*: `Charlie McCarthy 121 Guest Miriam` | **"Guest Miriam Hopkins"** | **NBC Red (WEAF)**<br>1939-08-27<br>8:00 PM EDST | **Standard Brands**<br>Chase & Sanborn Coffee | **Edgar Bergen**, **Charlie McCarthy**, **Miriam Hopkins** | **Robert Armbruster Orch** | `["Comedy", "Variety", "Ventriloquism", "Hollywood", "Vocal"]` | Charlie McCarthy shamelessly flirts with glamorous Hollywood star Miriam Hopkins and trades rapid insult comedy with Edgar Bergen. |
+| `Chick_Carter_1943.mp3` <br>*Alt*: `The Trial of Blood`, `1943` | **"The Trail of Blood"** | **Mutual (WOR)**<br>1943-08-27<br>5:30 PM EWT | **Commercial**<br>Juvenile Sponsors | **Leon Janney**, **Bill Lipton**, **Gilbert Mack** | **Fritz Blocki** (Director) | `["Detective", "Juvenile", "Mystery", "Action", "Serial"]` | Chick Carter and Tex track drops of blood from a ransacked jewelry vault into a labyrinthine river warehouse cellar. |
+| `The_Falcon_1946.mp3` <br>*Alt*: `Death Comes In Double-Dealing` | **"Death Comes in Double-Dealing"** | **Mutual (WOR)**<br>1946-08-27<br>8:30 PM EDT | **Commercial**<br>Mystery Sponsors | **James Meighan**, **Ken Lynch** | **Bernard Dougall** (Writer) | `["Detective", "Hardboiled", "Mystery", "Noir", "Crime"]` | Freelance adventurer Michael Waring investigates the double-cross murder of a dishonest casino card dealer in Atlantic City. |
+| `Peter_Salem_1950.mp3` <br>*Alt*: `Affair of Sunken Treasure` | **"The Affair of the Sunken Treasure"** | **Mutual (WOR)**<br>1950-08-27<br>7:00 PM EDT | **Sustaining**<br>Mystery Showcase | **Santos Ortega**, **Jack Grimes** | **Mende Brown** (Director) | `["Detective", "Mystery", "Hardboiled", "Crime", "Maritime"]` | Small-town Connecticut sleuth Peter Salem investigates an offshore deep-sea diving company where crew members are being murdered over Spanish gold. |
+| `Town_Meeting_1942.mp3` <br>*Alt*: `Episode`, `Price Supports Debate` | **"Should the Federal Government Provide Price Supports?"** | **NBC Blue (WJZ)**<br>1942-08-27<br>8:30 PM EWT | **Sustaining**<br>Town Hall Forum | **George V. Denny Jr.**, **Panelists** | **Town Hall Radio Staff** | `["Public Affairs", "Debate", "Economics", "Wartime", "Panel"]` | Congressional delegates and agricultural economists debate wartime food price ceilings and federal farm parity subsidies. |
+| `Blair_Mounties_1935.mp3` <br>*Alt*: `Episode 8`, `The Trapper's Cache` | **"The Trapper's Cache"** | **Syndicated Elec**<br>1935-08-27 | **Commercial**<br>Juvenile Advertisers | **Col. Spencer G. Savage** | **Canadian Radio Drama** | `["Western", "Adventure", "Police Procedural", "Canadian", "Juvenile"]` | Inspector Blair of the Royal Canadian Mounted Police mushes a dog sled team through a blizzard to protect a fur trapper's hidden cache from bandits. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 437
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
