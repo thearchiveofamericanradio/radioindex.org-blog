@@ -41,6 +41,80 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-28-walk-279-spotlight-bands-burns-allen-mr-president-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-28-walk-279-spotlight-bands-burns-allen-mr-president-enriched",
+      "title": "Archival Dispatch: August 28 Calendar Walk — Spotlight Bands, Burns & Allen, and Mr. President",
+      "content_html": "<h2>August 28 Archival Metadata Enrichment (Increment 279)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 28</strong> across American network radio, Armed Forces Radio (AFRTS), and syndication, Bob Crosby and his Bobcats swinging for aviation cadets at Victorville AAFB, elevator murder on <em>Masters of Mystery</em>, traditional mountain fiddle breakdowns on <em>Skip to My Lou</em>, Captain Carney&#39;s South Seas voyage on the <em>Scarlet Queen</em>, Gracie Allen&#39;s chaotic screen test for White Owl Cigars, and Edward Arnold portraying James Madison during the War of 1812 on <em>Mr. President</em> (1935–1957):</p>\n<hr>\n<h2>1. <em>August 28 Archival Inventory (Increment 279)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Spotlight_Bands_1943.mp3</code> <br><em>Alt</em>: <code>Bob Crosby First Song</code>, <code>Victorville</code></td>\n<td><strong>&quot;Bob Crosby and his Orchestra (Victorville AAFB)&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1943-08-28<br>9:30 PM EWT</td>\n<td><strong>The Coca-Cola Co.</strong><br>&quot;Victory Spotlight!&quot;</td>\n<td><strong>Bob Crosby and his Bobcats</strong></td>\n<td><strong>Liz Tilton</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Dixieland&quot;, &quot;Swing&quot;, &quot;Military&quot;]</code></td>\n<td>Bob Crosby and his Bobcats perform Dixieland swing live for air cadets at Victorville Army Airfield, featuring Liz Tilton singing &#39;They&#39;re Either Too Young or Too Old&#39;.</td>\n</tr>\n<tr>\n<td><code>Masters_Mystery_1957.mp3</code> <br><em>Alt</em>: <code>Episode 5</code>, <code>Death by Design</code></td>\n<td><strong>&quot;Death by Design&quot;</strong></td>\n<td><strong>Syndicated Elec</strong><br>1957-08-28</td>\n<td><strong>Commercial</strong><br>Regional Sponsors</td>\n<td><strong>Dramatic Mystery Cast</strong></td>\n<td><strong>Syndicated Mystery Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Crime&quot;, &quot;Suspense&quot;, &quot;Noir&quot;, &quot;Anthology&quot;]</code></td>\n<td>An architectural draftsman plans the perfect murder of his blackmailing business partner by rigging an elevator shaft counterweight.</td>\n</tr>\n<tr>\n<td><code>Skip_Lou_1948.mp3</code> <br><em>Alt</em>: <code>Skip to my lou</code>, <code>Square Dance</code></td>\n<td><strong>&quot;Backwoods Fiddling and Square Dance&quot;</strong></td>\n<td><strong>Syndicated Elec</strong><br>1948-08-28</td>\n<td><strong>Commercial</strong><br>Regional Sponsors</td>\n<td><strong>Country String Band</strong></td>\n<td><strong>Square Dance Caller</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Country&quot;, &quot;Folk&quot;, &quot;Bluegrass&quot;, &quot;Americana&quot;]</code></td>\n<td>A traditional mountain string band plays energetic Appalachian fiddle breakdowns and calls square dance figures for a community barn dance.</td>\n</tr>\n<tr>\n<td><code>Scarlet_Queen_AFRTS_1947.mp3</code> <br><em>Alt</em>: <code>Barefoot Nymph Mother Hubbard</code></td>\n<td><strong>&quot;The Barefoot Nymph and the Mother Hubbard Jacket (AFRTS)&quot;</strong></td>\n<td><strong>AFRTS / Mutual</strong><br>1947-08-28</td>\n<td><strong>US Armed Forces</strong><br>AFRTS Broadcast</td>\n<td><strong>Elliott Lewis</strong>, <strong>Ed Max</strong></td>\n<td><strong>Gil Doud &amp; Robert Tallman</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Maritime&quot;, &quot;Hardboiled&quot;, &quot;Mystery&quot;, &quot;South Seas&quot;]</code></td>\n<td>Captain Carney sails the ketch Scarlet Queen into a remote Polynesian cove to rescue an island trader&#39;s daughter held captive by pearl poachers.</td>\n</tr>\n<tr>\n<td><code>Burns_Gracie_1935.mp3</code> <br><em>Alt</em>: <code>Episode 50</code>, <code>Screen Test</code></td>\n<td><strong>&quot;Gracie&#39;s Hollywood Screen Test&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1935-08-28<br>8:30 PM EDST</td>\n<td><strong>General Cigar Co.</strong><br>White Owl Cigars</td>\n<td><strong>George Burns</strong>, <strong>Gracie Allen</strong></td>\n<td><strong>Guy Lombardo Orchestra</strong></td>\n<td><code>[&quot;Sitcom&quot;, &quot;Comedy&quot;, &quot;Vaudeville&quot;, &quot;Music&quot;, &quot;Hollywood&quot;]</code></td>\n<td>Gracie Allen prepares for a Hollywood screen test by taking dramatic acting coaching from George, resulting in absolute pandemonium on the soundstage.</td>\n</tr>\n<tr>\n<td><code>Mr_President_1949.mp3</code> <br><em>Alt</em>: <code>Mr President</code>, <code>James Madison</code></td>\n<td><strong>&quot;James Madison and the War of 1812&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1949-08-28<br>2:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Historical Drama</td>\n<td><strong>Edward Arnold</strong> (Host)</td>\n<td><strong>Dwight Hauser</strong> (Creator)</td>\n<td><code>[&quot;Historical&quot;, &quot;Docudrama&quot;, &quot;Biography&quot;, &quot;Politics&quot;, &quot;Mystery&quot;]</code></td>\n<td>President James Madison confronts British naval blockades, congressional war hawks, and the burning of Washington during the War of 1812.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 28</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 28</strong>: 144</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 28 Archival Metadata Enrichment Increment 279 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-28T00:00:00.000Z",
+      "tags": [
+        "August 28",
+        "Calendar Walk",
+        "Spotlight Bands",
+        "Bob Crosby",
+        "Victorville AAFB",
+        "Coca-Cola",
+        "Masters of Mystery",
+        "Skip to My Lou",
+        "Appalachian Folk",
+        "The Voyage of the Scarlet Queen",
+        "AFRTS",
+        "Elliott Lewis",
+        "The Adventures of Gracie",
+        "George Burns",
+        "Gracie Allen",
+        "White Owl Cigars",
+        "Mr President",
+        "Edward Arnold",
+        "James Madison",
+        "War of 1812",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-28-walk-278-lux-radio-theatre-ellery-queen-shirer-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-28-walk-278-lux-radio-theatre-ellery-queen-shirer-enriched",
+      "title": "Archival Dispatch: August 28 Calendar Walk — Lux Radio Theatre, Ellery Queen, and Shirer",
+      "content_html": "<h2>August 28 Archival Metadata Enrichment (Increment 278)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 28</strong> across American network radio and international news shortwave, Dana Andrews &amp; Susan Hayward in <em>My Foolish Heart</em> on <em>Lux Radio Theatre</em>, William L. Shirer reporting on the Sudetenland crisis, Edward R. Murrow &amp; H.V. Kaltenborn on the eve of World War II, John W. Vandercook, and two Ellery Queen murder mysteries (<em>The Mysterious Traveler</em> for Bromo-Seltzer and <em>The Doomed Man</em> for Anacin) (1938–1950):</p>\n<hr>\n<h2>1. <em>August 28 Archival Inventory (Increment 278)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Lux_1950.mp3</code> <br><em>Alt</em>: <code>My Foolish Heart</code>, <code>Dana Andrews</code></td>\n<td><strong>&quot;My Foolish Heart&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1950-08-28<br>9:00 PM EDT</td>\n<td><strong>Lever Brothers</strong><br>Lux Toilet Soap</td>\n<td><strong>William Keighley</strong>, <strong>Dana Andrews</strong></td>\n<td><strong>Susan Hayward</strong>, <strong>Lois Corbett</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Wartime&quot;, &quot;Tragedy&quot;, &quot;Hollywood&quot;]</code></td>\n<td>A troubled woman reflects back on her tragic wartime romance with an aviator during World War II and the painful secret she concealed from her husband.</td>\n</tr>\n<tr>\n<td><code>CBS_News_1938.mp3</code> <br><em>Alt</em>: <code>CBS William Shirer In Berlin</code></td>\n<td><strong>&quot;William L. Shirer in Berlin&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1938-08-28<br>8:00 AM EDST</td>\n<td><strong>Sustaining</strong><br>News Roundup</td>\n<td><strong>William L. Shirer</strong>, <strong>Bob Trout</strong></td>\n<td><strong>CBS News Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;Broadcast Journalism&quot;, &quot;Historical&quot;, &quot;Diplomacy&quot;, &quot;World War II&quot;]</code></td>\n<td>William L. Shirer broadcasts from Berlin on German diplomatic pressure against Czechoslovakia during the escalating Sudetenland crisis.</td>\n</tr>\n<tr>\n<td><code>CBS_News_1939.mp3</code> <br><em>Alt</em>: <code>CBS European News</code>, <code>Eve of War</code></td>\n<td><strong>&quot;The Eve of War&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1939-08-28<br>6:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>Pre-War Crisis News</td>\n<td><strong>Edward R. Murrow</strong>, <strong>H.V. Kaltenborn</strong></td>\n<td><strong>William L. Shirer</strong></td>\n<td><code>[&quot;News&quot;, &quot;Broadcast Journalism&quot;, &quot;Wartime&quot;, &quot;Historical&quot;, &quot;World War II&quot;]</code></td>\n<td>Edward R. Murrow and H.V. Kaltenborn report on British mobilization, blackout drills, and feverish diplomatic attempts to avert European war.</td>\n</tr>\n<tr>\n<td><code>NBC_Blue_1943.mp3</code> <br><em>Alt</em>: <code>Nbcb John W Vandercook</code></td>\n<td><strong>&quot;John W. Vandercook (Blue Network)&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1943-08-28<br>11:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Wartime News</td>\n<td><strong>John W. Vandercook</strong></td>\n<td><strong>Blue Network News Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;Broadcast Journalism&quot;, &quot;Wartime&quot;, &quot;Historical&quot;, &quot;World War II&quot;]</code></td>\n<td>John W. Vandercook reviews the strategic Allied naval advances in the Pacific and Red Army counterattacks along the Donets Basin.</td>\n</tr>\n<tr>\n<td><code>Ellery_Queen_1943.mp3</code> <br><em>Alt</em>: <code>The Mysterious Traveler</code></td>\n<td><strong>&quot;The Adventure of the Mysterious Traveler&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-08-28<br>7:30 PM EWT</td>\n<td><strong>The Emerson Drug Co.</strong><br>Bromo-Seltzer</td>\n<td><strong>Sydney Smith</strong>, <strong>Santos Ortega</strong></td>\n<td><strong>Manfred Lee &amp; Frederic Dannay</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Armchair Detective&quot;, &quot;Fair Play Whodunit&quot;, &quot;Puzzle&quot;]</code></td>\n<td>Ellery Queen investigates when an unidentified train passenger is found poisoned in his Pullman berth with a cryptic coded timetable in his pocket.</td>\n</tr>\n<tr>\n<td><code>Ellery_Queen_1946.mp3</code> <br><em>Alt</em>: <code>The Doomed Man</code>, <code>Anacin</code></td>\n<td><strong>&quot;The Adventure of the Doomed Man&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1946-08-28<br>7:30 PM EDT</td>\n<td><strong>Whitehall Pharmacal</strong><br>Anacin</td>\n<td><strong>Sydney Smith</strong>, <strong>Santos Ortega</strong></td>\n<td><strong>Manfred Lee &amp; Frederic Dannay</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Armchair Detective&quot;, &quot;Fair Play Whodunit&quot;, &quot;Puzzle&quot;]</code></td>\n<td>Ellery Queen challenges armchair detectives to solve the fatal shooting of a wealthy collector who received a series of ominous numbered death threats.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 28</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 28</strong>: 138</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 28 Archival Metadata Enrichment Increment 278 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-28T00:00:00.000Z",
+      "tags": [
+        "August 28",
+        "Calendar Walk",
+        "Lux Radio Theatre",
+        "Dana Andrews",
+        "Susan Hayward",
+        "William Keighley",
+        "Lever Brothers",
+        "CBS World News Today",
+        "William L Shirer",
+        "Edward R Murrow",
+        "HV Kaltenborn",
+        "NBC News of the World",
+        "John W Vandercook",
+        "The Adventures of Ellery Queen",
+        "Sydney Smith",
+        "Santos Ortega",
+        "Manfred Lee",
+        "Frederic Dannay",
+        "Bromo-Seltzer",
+        "Anacin",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-28-walk-277-mr-district-attorney-burns-allen-runyon-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-28-walk-277-mr-district-attorney-burns-allen-runyon-enriched",
       "title": "Archival Dispatch: August 28 Calendar Walk — Mr. District Attorney, Burns & Allen, and Damon Runyon",
