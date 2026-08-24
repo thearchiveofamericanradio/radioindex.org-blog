@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Archie Andrews, Wayne King, and The Constitution
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, We Deliver the Goods, Merchant Marine, Curt Massey, Archie Andrews, Bob Montana, Bob Hastings, Harlan Stone, Peter Pan Peanut Butter, Wayne King, Ramona, The Sounds of Darkness, Himan Brown, The Words We Live By, NBC, Ben Grauer, US Constitution, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 249)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio and syndication, Merchant Marine band concert on *We Deliver the Goods*, Bob Hastings & Harlan Stone fixing a broken jalopy on *The Adventures of Archie Andrews* for Peter Pan Peanut Butter, Wayne King's lush waltzes, Himan Brown's insurance scam thriller on *The Sounds of Darkness*, colonial stagecoach mystery *The Old Post Road*, and Ben Grauer narrating *The Words We Live By* exploring the U.S. Constitution (1944–1982):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 249)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `We_Deliver_1944.mp3` <br>*Alt*: `Catalina Island Training Base` | **"Catalina Island Training Base"** | **NBC Blue (WJZ)**<br>1944-08-27<br>11:30 PM EWT | **US Maritime Service**<br>Merchant Marine | **Maritime Training Band**, **Curt Massey** | **US Maritime Service** | `["Music", "Military", "Wartime", "Big Band", "Americana"]` | Merchant Marine cadet trainees perform brass band marches and nautical folk ballads live from the Catalina Island training station. |
+| `Archie_Andrews_1949.mp3` <br>*Alt*: `Episode`, `Archie's Jalopy` | **"Archie's Jalopy Breakdown"** | **NBC (WNBC)**<br>1949-08-27<br>10:30 AM EDT | **Swift & Co.**<br>Peter Pan Peanut Butter | **Bob Hastings**, **Harlan Stone**, **Gloria Mann** | **Bob Montana** (Creator) | `["Sitcom", "Comedy", "Teen", "Comics", "Americana"]` | Archie Andrews and Jughead Jones try to repair their broken-down jalopy on the way to pick up Veronica for the country club dance. |
+| `Wayne_King_1947.mp3` <br>*Alt*: `Romona`, `Ramona` | **"Ramona"** | **Ziv Syndicated**<br>1947-08-27 | **Commercial**<br>Regional Sponsors | **Wayne King and his Orchestra**, **Nancy Martin** | **Frederic W. Ziv** | `["Music", "Easy Listening", "Waltz", "Orchestral", "Pop Standards"]` | Wayne King leads his lush saxophone and string orchestra in romantic ballroom waltzes, featuring Mabel Wayne's vintage standard 'Ramona'. |
+| `Sounds_Darkness_1974.mp3` <br>*Alt*: `Last Bill for Brewer`, `Himan Brown` | **"Last Bill for Brewer"** | **Syndicated Drama**<br>1974-08-27 | **Sustaining**<br>Mystery Thriller | **Barton Yarborough**, **Dramatic Cast** | **Himan Brown** (Director) | `["Mystery", "Suspense", "Crime", "Noir", "Anthology"]` | A desperate embezzler attempts to stage a phony drowning accident to collect his life insurance policy before bank auditors arrive. |
+| `Mystery_1982.mp3` <br>*Alt*: `The Old Post Road`, `1982` | **"The Old Post Road"** | **Syndicated Drama**<br>1982-08-27 | **Sustaining**<br>Historical Showcase | **Syndicated Dramatic Repertory** | **Radio Drama Company** | `["Drama", "Historical", "Mystery", "Colonial", "Anthology"]` | Travelers navigating an isolated colonial stagecoach trail uncover a conspiracy of highwaymen hiding out at a quiet wayside inn. |
+| `Words_Live_By_1950.mp3` <br>*Alt*: `The Words We Live By`, `Constitution` | **"The United States Constitution"** | **NBC (WNBC)**<br>1950-08-27<br>12:30 PM EDT | **Sustaining**<br>NBC Public Affairs | **Ben Grauer** (Narrator), **NBC Repertory** | **NBC Public Affairs Staff** | `["Public Affairs", "Docudrama", "History", "Civics", "Americana"]` | A dramatic historical examination of the Constitutional Convention in Philadelphia and the fundamental principles establishing the Bill of Rights. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 407
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
