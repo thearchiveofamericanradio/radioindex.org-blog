@@ -1,0 +1,33 @@
+# Archival Dispatch: August 29 Calendar Walk — Bob Hope, The Fat Man, and Paul Whiteman
+
+**Date**: 2026-08-29  
+**Author**: radio index  
+**Tags**: August 29, Calendar Walk, The Bob Hope Show, Bob Hope, Shep Fields, Woodbury Soap, The Fat Man, Dashiell Hammett, J Scott Smart, Stairway to the Stars, Paul Whiteman, Martha Tilton, Ray Eberle, Bob and Ray, Bob Elliott, Ray Goulding, The Jack Berch Show, Prudential Insurance, Alternate Titles, Original Filenames
+
+---
+
+## August 29 Archival Metadata Enrichment (Increment 379)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 29** across American network radio and Armed Forces broadcasting, Bob Hope hosting *The Bob Hope Show* for Woodbury Soap (1937), Dashiell Hammett's hardboiled private investigator Brad Runyon in *The Fat Man* (1947), Paul Whiteman's *Sea Fever* series finale on *Stairway to the Stars* (1947), Bob & Ray satirizing soap operas on CBS (1952), and morning cheer on *The Jack Berch Show* for Prudential (1937–1952):
+
+---
+
+## 1. *August 29 Archival Inventory (Increment 379)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Stairway_Stars_1947.mp3` <br>*Alt*: `Sea Fever Whiteman` | **"Sea Fever (Series Finale)"** | **ABC (WJZ)**<br>1947-08-29<br>8:00 PM EDT | **Sustaining**<br>Musical Showcase | **Paul Whiteman**, **Tilton** | **Ray Eberle (Vocal)** | `["Music", "Orchestral", "Big Band", "Vocal", "Easy Listening"]` | Paul Whiteman conducts a lush orchestral farewell program featuring musical arrangements inspired by John Masefield's seafaring poetry. |
+| `Stairway_Stars_AFRS.mp3` <br>*Alt*: `Sea Feaver End Series` | **"Sea Fever (Series Finale, AFRS Rebroadcast)"** | **AFRS Radio**<br>1947-08-29 | **Sustaining**<br>Armed Forces Radio | **Paul Whiteman**, **Tilton** | **Ray Eberle (Vocal)** | `["Music", "Orchestral", "Big Band", "Vocal", "Military"]` | Paul Whiteman conducts a lush orchestral farewell program featuring musical arrangements inspired by John Masefield's seafaring poetry. |
+| `Jack_Berch_1947.mp3` <br>*Alt*: `Its A Good Day` | **"It's a Good Day with The Three Suns"** | **NBC (WNBC)**<br>1947-08-29<br>11:30 AM EDT | **Prudential Insurance**<br>Life Insurance | **Jack Berch**, **Three Suns** | **Charlie Magnante (Music)** | `["Music", "Vocal", "Morning Show", "Easy Listening", "Variety"]` | Jack Berch sings upbeat morning songs and shares cheerful household commentary backed by The Three Suns instrumental trio. |
+| `Fat_Man_1947.mp3` <br>*Alt*: `Portrait of Murder` | **"Portrait of Murder"** | **ABC (WJZ)**<br>1947-08-29<br>8:00 PM EDT | **Sustaining**<br>Hardboiled Detective | **J. Scott Smart** (Runyon) | **Dashiell Hammett (Creator)** | `["Detective", "Mystery", "Hardboiled", "Crime", "Noir"]` | Private investigator Brad Runyon investigates an art gallery heist where an eccentric painter is murdered in front of his unfinished canvas. |
+| `Bob_Ray_1952.mp3` <br>*Alt*: `Gor The Hangman` | **"Gor the Hangman and CBS Network Spoofs"** | **CBS (WCBS)**<br>1952-08-29<br>5:45 PM EDT | **Sustaining**<br>Network Comedy | **Bob Elliott**, **Ray Goulding** | **Bob & Ray (Writers)** | `["Comedy", "Satire", "Parody", "Sketch", "Improv"]` | Bob and Ray satirize radio soap operas and melodrama serials with the recurring spoof 'Gor the Hangman'. |
+| `Bob_Hope_1937.mp3` <br>*Alt*: `American Patrol Mambo` | **"Woodbury Soap Summer Preview with Bob Hope"** | **NBC Blue (WJZ)**<br>1937-08-29<br>9:00 PM EDST | **Andrew Jergens Co.**<br>Woodbury Facial Soap | **Bob Hope**, **Shep Fields** | **Honeychile Wilder** | `["Comedy", "Variety", "Stand-Up", "Music", "Vaudeville"]` | Bob Hope delivers rapid-fire monologue jokes about Hollywood vacation retreats and introduces musical selections by Shep Fields' orchestra. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 29
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 29**: 342
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
