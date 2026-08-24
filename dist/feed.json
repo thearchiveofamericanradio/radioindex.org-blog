@@ -41,6 +41,39 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-27-walk-247-bob-and-ray-bob-hope-jubilee-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-27-walk-247-bob-and-ray-bob-hope-jubilee-enriched",
+      "title": "Archival Dispatch: August 27 Calendar Walk — Bob & Ray, Bob Hope, and Basie on Jubilee",
+      "content_html": "<h2>August 27 Archival Metadata Enrichment (Increment 247)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 27</strong> across American network radio, local Boston broadcasting (WHDH), and Armed Forces Radio, three legendary comedic broadcasts by Bob &amp; Ray (1948 WHDH morning matinee, 1949 rooftop weather satire, and 1952 NBC Mary McGoon recipe parody), Bob Hope&#39;s 1936 summer revue for Atlantic White Flash, and two scorching jazz programs on AFRS <em>Jubilee</em> (1945 swing pioneer Fletcher Henderson and 1948 Count Basie featuring Jimmy Rushing) (1936–1952):</p>\n<hr>\n<h2>1. <em>August 27 Archival Inventory (Increment 247)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Bob_Ray_1948.mp3</code> <br><em>Alt</em>: <code>Matinee With Bob And Ray</code>, <code>WHDH</code></td>\n<td><strong>&quot;Matinee with Bob and Ray (WHDH Boston)&quot;</strong></td>\n<td><strong>WHDH Boston</strong><br>1948-08-27</td>\n<td><strong>Commercial</strong><br>Boston Advertisers</td>\n<td><strong>Bob Elliott</strong>, <strong>Ray Goulding</strong></td>\n<td><strong>Bob &amp; Ray</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Parody&quot;, &quot;Sketch&quot;, &quot;Improv&quot;]</code></td>\n<td>Bob and Ray satirize local Boston radio commercials, spin records at the wrong speed, and stage deadpan spoof interviews.</td>\n</tr>\n<tr>\n<td><code>Bob_Ray_1949.mp3</code> <br><em>Alt</em>: <code>Cliff Fleming&#39;s Weather Station</code></td>\n<td><strong>&quot;Cliff Fleming&#39;s Weather Station&quot;</strong></td>\n<td><strong>WHDH Boston</strong><br>1949-08-27</td>\n<td><strong>Commercial</strong><br>Boston Advertisers</td>\n<td><strong>Bob Elliott</strong>, <strong>Ray Goulding</strong></td>\n<td><strong>Bob &amp; Ray</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Parody&quot;, &quot;Sketch&quot;, &quot;Improv&quot;]</code></td>\n<td>Bob and Ray parody local weather forecasters as meteorologist Cliff Fleming delivers increasingly absurd predictions from atop a roof.</td>\n</tr>\n<tr>\n<td><code>Bob_Ray_1952.mp3</code> <br><em>Alt</em>: <code>Mary McGoon Recommends Sour Cream</code></td>\n<td><strong>&quot;Mary McGoon Recommends Sour Cream&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-08-27<br>5:45 PM EDT</td>\n<td><strong>Sustaining</strong><br>Network Comedy</td>\n<td><strong>Bob Elliott</strong>, <strong>Ray Goulding</strong></td>\n<td><strong>Bob &amp; Ray</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Parody&quot;, &quot;Sketch&quot;, &quot;Absurdist&quot;]</code></td>\n<td>Mary McGoon shares a ridiculous domestic recipe involving excessive sour cream and Bob and Ray parody breathless network announcers.</td>\n</tr>\n<tr>\n<td><code>Bob_Hope_1936.mp3</code> <br><em>Alt</em>: <code>&#39;Ooh La La&#39; by Hollywood Flames</code></td>\n<td><strong>&quot;Summer Comedy Revue&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1936-08-27</td>\n<td><strong>Atlantic Refining</strong><br>Atlantic White Flash</td>\n<td><strong>Bob Hope</strong>, <strong>Honey Chile Wilder</strong></td>\n<td><strong>Red Nichols and his Five Pennies</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Stand-Up&quot;, &quot;Jazz&quot;, &quot;Vocal&quot;]</code></td>\n<td>Bob Hope fires rapid-fire topical one-liners about summer vacations and golf alongside swing jazz by Red Nichols and his Five Pennies.</td>\n</tr>\n<tr>\n<td><code>AFRS_Jubilee_1945.mp3</code> <br><em>Alt</em>: <code>AFRS Fletcher Henderson</code>, <code>Jubilee</code></td>\n<td><strong>&quot;Guest Fletcher Henderson&quot;</strong></td>\n<td><strong>AFRS Jubilee</strong><br>1945-08-27</td>\n<td><strong>US Armed Forces</strong><br>AFRS Military Broadcast</td>\n<td><strong>Ernie Whitman</strong>, <strong>Fletcher Henderson</strong></td>\n<td><strong>The Four Blues</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Live Broadcast&quot;]</code></td>\n<td>MC Ernie Whitman welcomes swing pioneer Fletcher Henderson and his orchestra for scorching big band jazz arrangements and jump blues for WWII troops.</td>\n</tr>\n<tr>\n<td><code>AFRS_Jubilee_1948.mp3</code> <br><em>Alt</em>: <code>Count Basie and his Orchestra</code></td>\n<td><strong>&quot;Count Basie and his Orchestra&quot;</strong></td>\n<td><strong>AFRS Jubilee</strong><br>1948-08-27</td>\n<td><strong>US Armed Forces</strong><br>AFRS Military Broadcast</td>\n<td><strong>Ernie Whitman</strong>, <strong>Count Basie</strong>, <strong>Jimmy Rushing</strong></td>\n<td><strong>Basie Rhythm Section</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Big Band&quot;, &quot;Blues&quot;, &quot;Live Broadcast&quot;]</code></td>\n<td>Count Basie leads his rhythm powerhouse orchestra through propulsive Kansas City swing numbers featuring blues shouter Jimmy Rushing.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 27</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 27</strong>: 395</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 27 Archival Metadata Enrichment Increment 247 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-27T00:00:00.000Z",
+      "tags": [
+        "August 27",
+        "Calendar Walk",
+        "Bob and Ray",
+        "Bob Elliott",
+        "Ray Goulding",
+        "WHDH Boston",
+        "Mary McGoon",
+        "The Bob Hope Show",
+        "Atlantic White Flash",
+        "Red Nichols",
+        "Jubilee",
+        "AFRS",
+        "Ernie Whitman",
+        "Fletcher Henderson",
+        "Count Basie",
+        "Jimmy Rushing",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-27-walk-246-newsreel-hedda-gabler-la-guardia-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-27-walk-246-newsreel-hedda-gabler-la-guardia-enriched",
       "title": "Archival Dispatch: August 27 Calendar Walk — BBC Radio Newsreel, Hedda Gabler, and Fiorello La Guardia",
