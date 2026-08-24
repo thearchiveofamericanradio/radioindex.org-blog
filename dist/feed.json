@@ -41,6 +41,39 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-404-command-performance-lincoln-highway-daniel-boone-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-404-command-performance-lincoln-highway-daniel-boone-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Command Performance, Lincoln Highway, and Daniel Boone",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 404)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio, Armed Forces programming, and South African radio, John Charles Thomas and pin-up model Chili Williams on <em>Command Performance</em> (1949), stage star Ilka Chase on <em>Lincoln Highway</em> (1941), historical docudrama on <em>The American Challenge</em> recounting the life of Daniel Boone (1942), <em>Squad Cars</em> in Johannesburg (1974), Skip Farrell in <em>Big City Serenade</em> (1952), and Martin Lamm&#39;s country guitar favorites (1941–1974):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 404)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Command_Perf_1949.mp3</code> <br><em>Alt</em>: <code>Chili Williams John Thomas</code></td>\n<td><strong>&quot;Host John Charles Thomas with Chili Williams&quot;</strong></td>\n<td><strong>AFRS Command Perf</strong><br>1949-08-30</td>\n<td><strong>Sustaining</strong><br>Military Morale</td>\n<td><strong>John Charles Thomas</strong>, <strong>Williams</strong></td>\n<td><strong>AFRS Orchestra Ensemble</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Vocal&quot;, &quot;Baritone&quot;, &quot;Military&quot;]</code></td>\n<td>Opera star John Charles Thomas sings patriotic anthems and interviews pin-up model Chili Williams for American troops stationed overseas.</td>\n</tr>\n<tr>\n<td><code>Squad_Cars_1974.mp3</code> <br><em>Alt</em>: <code>Vrededorp Combination</code></td>\n<td><strong>&quot;The Vrededorp Combination&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1974-08-30</td>\n<td><strong>General Motors</strong><br>South Africa</td>\n<td><strong>Hugh Rouse</strong> (Narrator)</td>\n<td><strong>Squad Cars Staff</strong></td>\n<td><code>[&quot;Police&quot;, &quot;True Crime&quot;, &quot;South African&quot;, &quot;Action&quot;, &quot;Investigation&quot;]</code></td>\n<td>Johannesburg flying squad officers intercept an elusive gang of car thieves running a chop-shop ring in Vrededorp.</td>\n</tr>\n<tr>\n<td><code>Big_City_1952_Rio.mp3</code> <br><em>Alt</em>: <code>Salute To Rio Janeiro</code></td>\n<td><strong>&quot;A Salute to Rio de Janeiro&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-08-30<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Musical Serenade</td>\n<td><strong>Skip Farrell</strong>, <strong>Dreamers</strong></td>\n<td><strong>Roy Shields and Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Latin&quot;, &quot;Vocal&quot;, &quot;Orchestral&quot;, &quot;Easy Listening&quot;]</code></td>\n<td>Vocalist Skip Farrell and The Honey Dreamers perform samba rhythms and bossa nova melodies honoring the city of Rio de Janeiro.</td>\n</tr>\n<tr>\n<td><code>Amer_Challenge_1942.mp3</code> <br><em>Alt</em>: <code>Life Daniel Boone</code></td>\n<td><strong>&quot;The Life of Daniel Boone&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1942-08-30<br>2:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Heritage Docudrama</td>\n<td><strong>Dramatic Voice Ensemble</strong></td>\n<td><strong>NBC Symphony Orchestra</strong></td>\n<td><code>[&quot;Historical&quot;, &quot;Frontier&quot;, &quot;Biography&quot;, &quot;Americana&quot;, &quot;Docudrama&quot;]</code></td>\n<td>Frontiersman Daniel Boone carves out the Wilderness Road through Kentucky and defends early pioneer settlements against attacks.</td>\n</tr>\n<tr>\n<td><code>Lincoln_Hwy_1941_Chase.mp3</code> <br><em>Alt</em>: <code>Guest Ilka Chase</code></td>\n<td><strong>&quot;Guest Ilka Chase in Small Town Romance&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1941-08-30<br>1:00 PM EDST</td>\n<td><strong>Shinola / Sust</strong><br>Shoe Polish</td>\n<td><strong>Ilka Chase</strong>, <strong>McIntire</strong></td>\n<td><strong>Lincoln Highway Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Anthology&quot;, &quot;Americana&quot;, &quot;Travel&quot;]</code></td>\n<td>A sophisticated Manhattan society woman encounters humorous romantic complications after her car breaks down in an eccentric roadside village.</td>\n</tr>\n<tr>\n<td><code>Martin_Lamm_1964.mp3</code> <br><em>Alt</em>: <code>Candy Kisses 1964</code></td>\n<td><strong>&quot;Country &amp; Western Favorites with Candy Kisses&quot;</strong></td>\n<td><strong>Syndicated Country</strong><br>1964-08-30</td>\n<td><strong>Sustaining</strong><br>Country Showcase</td>\n<td><strong>Martin Lamm</strong> (Guitar)</td>\n<td><strong>Martin Lamm Show Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Country&quot;, &quot;Western&quot;, &quot;Acoustic&quot;, &quot;Guitar&quot;]</code></td>\n<td>Martin Lamm performs acoustic guitar ballads including Candy Kisses and shares country music anecdotes.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 96 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 404 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "Command Performance",
+        "John Charles Thomas",
+        "Chili Williams",
+        "AFRS",
+        "Lincoln Highway",
+        "Ilka Chase",
+        "John McIntire",
+        "Shinola",
+        "The American Challenge",
+        "Daniel Boone",
+        "Squad Cars",
+        "Springbok Radio",
+        "Big City Serenade",
+        "The Martin Lamm Show",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-403-superman-five-eras-tinker-tailor-soldier-spy-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-403-superman-five-eras-tinker-tailor-soldier-spy-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — Five Eras of Superman and Tinker Tailor Soldier Spy",
