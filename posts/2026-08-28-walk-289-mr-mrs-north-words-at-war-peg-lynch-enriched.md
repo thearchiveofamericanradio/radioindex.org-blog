@@ -1,0 +1,33 @@
+# Archival Dispatch: August 28 Calendar Walk — Mr. & Mrs. North, Words at War, and Peg Lynch
+
+**Date**: 2026-08-28  
+**Author**: radio index  
+**Tags**: August 28, Calendar Walk, Mr and Mrs North, Joseph Curtin, Alice Frost, Richard Denning, Barbara Britton, Richard and Frances Lockridge, Halo Shampoo, Palmolive, Words at War, Dr Gordon S Seagrave, Burma Surgeon, Santos Ortega, Hector Chevigny, Front Page Drama, The American Weekly, The Couple Next Door, Peg Lynch, Alan Bunce, Alternate Titles, Original Filenames
+
+---
+
+## August 28 Archival Metadata Enrichment (Increment 289)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio and syndication, Pam and Jerry North solving a Chinatown warehouse stabbing (1946) and an upstate farm poisoning (1951), Santos Ortega portraying Dr. Gordon S. Seagrave in *Burma Surgeon* on *Words at War*, real-life romance on *Front Page Drama*, and Peg Lynch & Alan Bunce in two hilarious domestic dilemmas on *The Couple Next Door* (1937–1959):
+
+---
+
+## 1. *August 28 Archival Inventory (Increment 289)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Mr_North_1946.mp3` <br>*Alt*: `North Faces East`, `Halo` | **"North Faces East"** | **NBC (WEAF)**<br>1946-08-28<br>8:00 PM EDT | **Colgate-Palmolive**<br>Halo Shampoo / Shave Cream | **Joseph Curtin**, **Alice Frost** | **Frank Lovejoy**, **Lockridges** | `["Detective", "Comedy", "Mystery", "Husband and Wife Sleuths", "Chinatown"]` | Pam and Jerry North investigate when an oriental antique importer is found stabbed inside a locked Chinatown tea warehouse. |
+| `Mr_North_1951.mp3` <br>*Alt*: `Murder Farmer's Daughter` | **"Murder and the Farmer's Daughter"** | **CBS (WABC)**<br>1951-08-28<br>8:30 PM EDT | **Colgate-Palmolive**<br>Colgate Dental / Palmolive | **Richard Denning**, **Barbara Britton** | **Francis De Sales** | `["Detective", "Comedy", "Mystery", "Husband and Wife Sleuths", "Rural"]` | Pam and Jerry North travel upstate for a quiet country vacation, only to stumble upon the suspicious poisoning of a local dairy farmer's daughter. |
+| `Words_War_1943.mp3` <br>*Alt*: `Burma Surgeon`, `Dr Seagrave` | **"Burma Surgeon"** | **NBC (WEAF)**<br>1943-08-28<br>8:30 PM EWT | **Council on Books**<br>Sustaining Wartime Drama | **Santos Ortega** (Dr. Seagrave) | **Hector Chevigny (Adapter)** | `["Docudrama", "Medical", "Wartime", "Biography", "World War II"]` | A missionary surgeon and his corps of native nurses perform frontline surgical operations while retreating through jungle mountains following the fall of Burma. |
+| `Front_Page_1937.mp3` <br>*Alt*: `Lucky in Love`, `American Weekly` | **"Lucky in Love"** | **Syndicated Elec**<br>1937-08-28 | **The American Weekly**<br>Hearst Publications | **Dramatic Cast** | **Syndicated Drama Staff** | `["Drama", "Romance", "Journalism", "Anthology", "Americana"]` | A dramatization of a real-life news story following a struggling chorus girl who uncovers an inheritance conspiracy after inheriting a lucky charm. |
+| `Couple_Door_1958.mp3` <br>*Alt*: `Driving Babysitter Home` | **"Driving the Babysitter Home"** | **CBS (WCBS)**<br>1958-08-28<br>1:15 PM EDT | **Sustaining**<br>Daytime Comedy | **Peg Lynch**, **Alan Bunce** | **Peg Lynch** (Creator/Writer) | `["Sitcom", "Comedy", "Domestic", "Marriage", "Americana"]` | Albert experiences a comedy of late-night errors while trying to drive their teenage babysitter home in torrential rain without his eyeglasses. |
+| `Couple_Door_1959.mp3` <br>*Alt*: `Invitation For Lunch` | **"An Invitation for Lunch"** | **CBS (WCBS)**<br>1959-08-28<br>1:15 PM EDT | **Sustaining**<br>Daytime Comedy | **Peg Lynch**, **Alan Bunce** | **Peg Lynch** (Creator/Writer) | `["Sitcom", "Comedy", "Domestic", "Marriage", "Americana"]` | Ethel panics over last-minute menu preparations after impulsively inviting a fastidious neighborhood acquaintance over for an impromptu luncheon. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 198
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
