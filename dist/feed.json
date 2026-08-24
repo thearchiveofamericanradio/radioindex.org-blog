@@ -41,6 +41,44 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-27-walk-246-newsreel-hedda-gabler-la-guardia-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-27-walk-246-newsreel-hedda-gabler-la-guardia-enriched",
+      "title": "Archival Dispatch: August 27 Calendar Walk — BBC Radio Newsreel, Hedda Gabler, and Fiorello La Guardia",
+      "content_html": "<h2>August 27 Archival Metadata Enrichment (Increment 246)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 27</strong> across American network radio, the BBC, and municipal broadcast, two BBC <em>Radio Newsreel</em> dispatches (1944 German re-education debate and live Paris liberation victory celebrations), Joan Lorring &amp; Alexander Scourby in Henrik Ibsen&#39;s <em>Hedda Gabler</em> on <em>The NBC Theater</em>, NYC Mayor Fiorello La Guardia delivering his Sunday &quot;Patience and Fortitude&quot; talk on WNYC, cavalry training on <em>Proudly We Hail</em>, and Dashiell Hammett&#39;s hardboiled sleuth <em>The Fat Man</em> for Pepto-Bismol (1944–1950):</p>\n<hr>\n<h2>1. <em>August 27 Archival Inventory (Increment 246)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BBC_Newsreel_1944a.mp3</code> <br><em>Alt</em>: <code>Can The German People Be Re-Educated</code></td>\n<td><strong>&quot;Can the German People Be Re-Educated?&quot;</strong></td>\n<td><strong>BBC North American</strong><br>1944-08-27</td>\n<td><strong>Sustaining</strong><br>BBC Wartime Newsreel</td>\n<td><strong>BBC Foreign Correspondents</strong></td>\n<td><strong>BBC News Service</strong></td>\n<td><code>[&quot;News&quot;, &quot;Journalism&quot;, &quot;Wartime&quot;, &quot;Historical&quot;, &quot;Debate&quot;]</code></td>\n<td>Allied political analysts and European correspondents debate educational and ideological reconstruction strategies for post-Nazi Germany.</td>\n</tr>\n<tr>\n<td><code>BBC_Newsreel_1944b.mp3</code> <br><em>Alt</em>: <code>The Party</code>, <code>Paris Liberation Party</code></td>\n<td><strong>&quot;The Paris Liberation Victory Party&quot;</strong></td>\n<td><strong>BBC North American</strong><br>1944-08-27</td>\n<td><strong>Sustaining</strong><br>BBC Wartime Newsreel</td>\n<td><strong>BBC Field Reporters in Paris</strong></td>\n<td><strong>BBC News Service</strong></td>\n<td><code>[&quot;News&quot;, &quot;Journalism&quot;, &quot;Wartime&quot;, &quot;Historical&quot;, &quot;Field Recording&quot;]</code></td>\n<td>BBC correspondents capture live audio recordings of joyful street dances, church bells, and public celebrations across liberated Paris.</td>\n</tr>\n<tr>\n<td><code>NBC_Theater_1950.mp3</code> <br><em>Alt</em>: <code>Hedda Gabler</code>, <code>Joan Lorring</code></td>\n<td><strong>&quot;Hedda Gabler&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1950-08-27<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Literary Showcase</td>\n<td><strong>Joan Lorring</strong>, <strong>Alexander Scourby</strong>, <strong>Karl Swenson</strong></td>\n<td><strong>Henrik Ibsen</strong>, <strong>Andrew C. Love</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Classic Literature&quot;, &quot;Psychological Thriller&quot;, &quot;Tragedy&quot;, &quot;Anthology&quot;]</code></td>\n<td>A manipulative, disillusioned general&#39;s daughter ruthlessly meddles in the lives and romantic affairs of those around her with tragic consequences.</td>\n</tr>\n<tr>\n<td><code>La_Guardia_1944.mp3</code> <br><em>Alt</em>: <code>Patience and Fortitude</code>, <code>WNYC</code></td>\n<td><strong>&quot;Talk to the People (Patience and Fortitude)&quot;</strong></td>\n<td><strong>WNYC New York</strong><br>1944-08-27<br>1:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Municipal Broadcast</td>\n<td><strong>Mayor Fiorello H. La Guardia</strong></td>\n<td><strong>WNYC Broadcast Staff</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Speech&quot;, &quot;Local Government&quot;, &quot;Historical&quot;, &quot;Americana&quot;]</code></td>\n<td>New York City Mayor Fiorello La Guardia delivers his weekly Sunday address discussing meat rationing, city playground expansions, and wartime municipal updates.</td>\n</tr>\n<tr>\n<td><code>Proudly_Hail_1950.mp3</code> <br><em>Alt</em>: <code>A Fool on Horseback</code>, <code>1950</code></td>\n<td><strong>&quot;A Fool on Horseback&quot;</strong></td>\n<td><strong>US Military Synd</strong><br>1950-08-27</td>\n<td><strong>US Army &amp; Air Force</strong><br>Recruiting Service</td>\n<td><strong>Kenneth Banghart</strong> (Host)</td>\n<td><strong>Syndicated Dramatic Cast</strong></td>\n<td><code>[&quot;Military&quot;, &quot;Drama&quot;, &quot;Cavalry&quot;, &quot;Americana&quot;, &quot;Anthology&quot;]</code></td>\n<td>An idealistic cavalry recruit learns humility, disciplined horsemanship, and tactical teamwork during rigorous training exercises.</td>\n</tr>\n<tr>\n<td><code>The_Fat_Man_1948.mp3</code> <br><em>Alt</em>: <code>The Black Angel</code>, <code>Pepto-Bismol</code></td>\n<td><strong>&quot;The Black Angel&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-08-27<br>8:00 PM EDT</td>\n<td><strong>Norwich Pharmacal</strong><br>Pepto-Bismol</td>\n<td><strong>J. Scott Smart</strong>, <strong>Mary Patton</strong></td>\n<td><strong>Dashiell Hammett</strong> (Creator)</td>\n<td><code>[&quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;Mystery&quot;, &quot;Noir&quot;, &quot;Crime&quot;]</code></td>\n<td>Brad Runyon investigates the mysterious poisoning of an art gallery curator who was safeguarding a cursed Renaissance statuette.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 27</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 27</strong>: 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 27 Archival Metadata Enrichment Increment 246 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-27T00:00:00.000Z",
+      "tags": [
+        "August 27",
+        "Calendar Walk",
+        "Radio Newsreel",
+        "BBC North American Service",
+        "Post-War Germany",
+        "Paris Liberation",
+        "The NBC Theater",
+        "Henrik Ibsen",
+        "Joan Lorring",
+        "Alexander Scourby",
+        "Hedda Gabler",
+        "Fiorello La Guardia",
+        "WNYC",
+        "Patience and Fortitude",
+        "Proudly We Hail",
+        "Kenneth Banghart",
+        "US Army",
+        "The Fat Man",
+        "Dashiell Hammett",
+        "J Scott Smart",
+        "Pepto-Bismol",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-27-walk-245-nightfall-elliott-lewis-hit-parade-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-27-walk-245-nightfall-elliott-lewis-hit-parade-enriched",
       "title": "Archival Dispatch: August 27 Calendar Walk — CBC Nightfall, Elliott Lewis, and Your Hit Parade",
