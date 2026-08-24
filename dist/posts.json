@@ -41,6 +41,36 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-28-walk-320-jean-shepherd-blair-of-the-mounties-town-meeting-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-28-walk-320-jean-shepherd-blair-of-the-mounties-town-meeting-enriched",
+      "title": "Archival Dispatch: August 28 Calendar Walk — Jean Shepherd, Blair of the Mounties, and Town Meeting",
+      "content_html": "<h2>August 28 Archival Metadata Enrichment (Increment 320)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 28</strong> across American network radio and Canadian syndication, four classic late-night monologues by Jean Shepherd on WOR New York exploring Chicago childhoods, high-society fads, and summer fishing (1960–1973), Sergeant Blair tracking fur smugglers in the Yukon on <em>Blair of the Mounties</em> (1935), and national debates on mid-century American literature and censorship on <em>America&#39;s Town Meeting of the Air</em> (1935–1973):</p>\n<hr>\n<h2>1. <em>August 28 Archival Inventory (Increment 320)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Town_Meeting_1955.mp3</code> <br><em>Alt</em>: <code>Status of American Literature</code></td>\n<td><strong>&quot;What is the Status of American Literature Today?&quot;</strong></td>\n<td><strong>ABC (WABC)</strong><br>1955-08-28<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Affairs Forum</td>\n<td><strong>George V. Denny Jr.</strong></td>\n<td><strong>Literary Panel</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Literature&quot;, &quot;Debate&quot;, &quot;Culture&quot;, &quot;Civics&quot;]</code></td>\n<td>Prominent literary critics and novelists debate mid-century American literature, censorship, paperback trends, and commercial publishing pressures.</td>\n</tr>\n<tr>\n<td><code>Blair_Mounties_1935_9.mp3</code> <br><em>Alt</em>: <code>Yukon Fur Ambush (Ep 9)</code></td>\n<td><strong>&quot;The Yukon Fur Ambush (Episode 9)&quot;</strong></td>\n<td><strong>Syndicated Elec</strong><br>1935-08-28</td>\n<td><strong>Commercial</strong><br>Regional Sponsors</td>\n<td><strong>Dramatic Mountie Cast</strong></td>\n<td><strong>Syndicated Adventure Staff</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Western&quot;, &quot;Mounties&quot;, &quot;Action&quot;, &quot;Canadian&quot;]</code></td>\n<td>Sergeant Blair of the Royal Canadian Mounted Police tracks armed fur thieves across blizzard-swept Yukon mountain passes.</td>\n</tr>\n<tr>\n<td><code>Jean_Shepherd_1960.mp3</code> <br><em>Alt</em>: <code>Givers and Takers, Fishing</code></td>\n<td><strong>&quot;Givers and Takers, Fishing, and Cabin Fever&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1960-08-28<br>11:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Late-Night Monologue</td>\n<td><strong>Jean Shepherd</strong></td>\n<td><strong>WOR Production Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Humor&quot;, &quot;Monologue&quot;, &quot;Storytelling&quot;, &quot;Americana&quot;]</code></td>\n<td>Jean Shepherd delivers an improvisational late-night monologue on human nature, summer fishing trips, cabin fever, and the cold war &#39;red button&#39;.</td>\n</tr>\n<tr>\n<td><code>Jean_Shepherd_1963.mp3</code> <br><em>Alt</em>: <code>The Beautiful People</code></td>\n<td><strong>&quot;The Beautiful People&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1963-08-28<br>11:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Late-Night Monologue</td>\n<td><strong>Jean Shepherd</strong></td>\n<td><strong>WOR Production Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Humor&quot;, &quot;Satire&quot;, &quot;Monologue&quot;, &quot;Americana&quot;]</code></td>\n<td>Jean Shepherd satirizes trendy high-society jet setters and Madison Avenue advertising definitions of &#39;the beautiful people&#39;.</td>\n</tr>\n<tr>\n<td><code>Jean_Shepherd_1965.mp3</code> <br><em>Alt</em>: <code>Betty Boop South Side</code></td>\n<td><strong>&quot;Betty Boop and South Side Chicago&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1965-08-28<br>11:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Late-Night Monologue</td>\n<td><strong>Jean Shepherd</strong></td>\n<td><strong>WOR Production Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Humor&quot;, &quot;Memoir&quot;, &quot;Storytelling&quot;, &quot;Americana&quot;]</code></td>\n<td>Jean Shepherd reminisces over childhood memories growing up in South Side Chicago, movie theater cartoons, and Betty Boop matinees.</td>\n</tr>\n<tr>\n<td><code>Jean_Shepherd_1973.mp3</code> <br><em>Alt</em>: <code>Mythical Creatures Legends</code></td>\n<td><strong>&quot;Mythical Creatures and Childhood Legends&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1973-08-28<br>11:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Late-Night Monologue</td>\n<td><strong>Jean Shepherd</strong></td>\n<td><strong>WOR Production Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Humor&quot;, &quot;Folklore&quot;, &quot;Storytelling&quot;, &quot;Americana&quot;]</code></td>\n<td>Jean Shepherd reflects on suburban folklore, imaginary playground monsters, and the mysterious allure of mythical creatures.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 28</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 28</strong>: 384</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 28 Archival Metadata Enrichment Increment 320 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-28T00:00:00.000Z",
+      "tags": [
+        "August 28",
+        "Calendar Walk",
+        "The Jean Shepherd Show",
+        "WOR New York",
+        "Betty Boop",
+        "South Side Chicago",
+        "Beautiful People",
+        "Blair of the Mounties",
+        "Mounties",
+        "RCMP",
+        "Americas Town Meeting of the Air",
+        "George V Denny",
+        "American Literature",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-28-walk-319-the-falcon-life-with-luigi-town-meeting-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-28-walk-319-the-falcon-life-with-luigi-town-meeting-enriched",
       "title": "Archival Dispatch: August 28 Calendar Walk — The Falcon, Life with Luigi, and America's Town Meeting",
