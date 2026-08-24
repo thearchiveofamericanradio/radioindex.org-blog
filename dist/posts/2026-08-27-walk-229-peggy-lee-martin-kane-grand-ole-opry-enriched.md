@@ -1,0 +1,33 @@
+# Archival Dispatch: August 27 Calendar Walk — Peggy Lee, Martin Kane, and Grand Ole Opry
+
+**Date**: 2026-08-27  
+**Author**: radio index  
+**Tags**: August 27, Calendar Walk, Philco Presents, Paul Whiteman, Bob Crosby, Peggy Lee, Martin Kane Private Eye, William Gargan, Horace McMahon, Model Pipe Tobacco, Father Knows Best, Robert Young, Jean Vander Pyl, Grand Ole Opry, Red Foley, Faron Young, WSM Nashville, Aunt Mary, Safeway, Alternate Titles, Original Filenames
+
+---
+
+## August 27 Archival Metadata Enrichment (Increment 229)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio, Paul Whiteman welcoming Bob Crosby and Peggy Lee on *Philco Presents*, William Gargan cracking an art forgery ring in *Martin Kane, Private Eye* for Model Pipe Tobacco, Robert Young in *Father Knows Best*, two historic country showcases on the *Grand Ole Opry* (1949 Red Foley singing "Tennessee Saturday Night" and 1960 Faron Young hosting), and Jane Morgan in *Aunt Mary* (1944–1960):
+
+---
+
+## 1. *August 27 Archival Inventory (Increment 229)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Philco_Presents_1944.mp3` <br>*Alt*: `Bob Crosby and Peggy Lee`, `1944` | **"Bob Crosby & Peggy Lee"** | **NBC Blue (WJZ)**<br>1944-08-27<br>6:00 PM EWT | **Philco Corp.**<br>Philco Radios | **Paul Whiteman**, **Bob Crosby**, **Peggy Lee** | **Deems Taylor** (Host) | `["Music", "Jazz", "Big Band", "Swing", "Pop Standards"]` | Maestro Paul Whiteman welcomes guest stars Bob Crosby and Peggy Lee for wartime swing duets and Dixieland hits. |
+| `Martin_Kane_1950.mp3` <br>*Alt*: `Counterfeit Artwork Murder`, `Model` | **"The Counterfeit Artwork Murder"** | **Mutual (WOR)**<br>1950-08-27<br>4:30 PM EDT | **US Tobacco Co.**<br>Model Pipe Tobacco | **William Gargan** (Kane), **Horace McMahon** | **Ted Hediger** (Writer) | `["Detective", "Hardboiled", "Mystery", "Noir", "Crime"]` | Private investigator Martin Kane investigates the murder of an art restorer who was forging Renaissance master paintings for an international fence. |
+| `Father_Knows_Best_1953.mp3` <br>*Alt*: `The Mink Coat Woes`, `Post Bran` | **"The Mink Coat Woes"** | **NBC (WNBC)**<br>1953-08-27<br>8:30 PM EDT | **General Foods**<br>Post 40% Bran Flakes | **Robert Young**, **Jean Vander Pyl**, **Rhoda Williams** | **Ed James** (Writer) | `["Sitcom", "Comedy", "Domestic", "Family", "Americana"]` | Jim Anderson borrows a luxury mink coat for Margaret's anniversary surprise, only for the children to mistake it for an unwanted stray dog. |
+| `Opry_1949.mp3` <br>*Alt*: `Tennessee Saturday Night`, `Prince Albert` | **"Tennessee Saturday Night"** | **NBC / WSM**<br>1949-08-27<br>10:30 PM EST | **R.J. Reynolds**<br>Prince Albert Tobacco | **Red Foley**, **The Jordanaires**, **Minnie Pearl** | **Rod Brasfield**, **WSM Staff** | `["Country", "Music", "Bluegrass", "Live Broadcast", "Americana"]` | Red Foley headlines the Ryman Auditorium stage with energetic country dance tunes, featuring Billy Hughes's 'Tennessee Saturday Night'. |
+| `Opry_1960.mp3` <br>*Alt*: `Starring Faron Young`, `WSM 1960` | **"Guest Host Faron Young"** | **WSM Nashville**<br>1960-08-27<br>10:30 PM EST | **Commercial**<br>Country Music Sponsors | **Faron Young**, **The Jordanaires**, **Stringbean** | **Cousin Jody**, **WSM Staff** | `["Country", "Honky Tonk", "Music", "Live Broadcast", "Americana"]` | Faron Young hosts live honky-tonk performances from the Grand Ole Opry stage, backed by country fiddles and traditional hillbilly comedy. |
+| `Aunt_Mary_1946.mp3` <br>*Alt*: `And Lefty Talk`, `Albers 1946` | **"Lefty's Confession"** | **NBC West Coast**<br>1946-08-27<br>3:45 PM EDT | **Safeway Stores**<br>Albers Cereals & Flakes | **Jane Morgan** (Aunt Mary), **Fred Howard** | **Gil Doud** (Writer) | `["Soap Opera", "Drama", "Rural", "Domestic", "Serial"]` | Aunt Mary counsels troubled farmhand Lefty after he confesses to concealing evidence regarding a recent highway accident. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 287
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
