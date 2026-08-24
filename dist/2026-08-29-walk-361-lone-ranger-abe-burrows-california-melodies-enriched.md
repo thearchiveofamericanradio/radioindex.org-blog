@@ -1,0 +1,33 @@
+# Archival Dispatch: August 29 Calendar Walk — The Lone Ranger, Abe Burrows, and California Melodies
+
+**Date**: 2026-08-29  
+**Author**: radio index  
+**Tags**: August 29, Calendar Walk, The Lone Ranger, George Stenius, Earle Graser, John Todd, Fran Striker, Silvercup Bread, The Abe Burrows Show, Abe Burrows, Milton DeLugg, California Melodies, Frank De Vol, Maxine Gray, KHJ Mutual, Alternate Titles, Original Filenames
+
+---
+
+## August 29 Archival Metadata Enrichment (Increment 361)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 29** across American network radio and regional western broadcasts, three classic Western adventures starring George Stenius & Earle Graser as *The Lone Ranger* with John Todd as Tonto for Silvercup Bread (1933–1938), Abe Burrows' musical satire and songwriting parodies (1949), and Frank De Vol's west-coast orchestral showcases on *California Melodies* featuring Maxine Gray (1933–1949):
+
+---
+
+## 1. *August 29 Archival Inventory (Increment 361)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Cal_Melodies_1940.mp3` <br>*Alt*: `Caravan Maxine Gray` | **"Caravan with Maxine Gray and Frank De Vol"** | **Mutual / KHJ**<br>1940-08-29<br>8:30 PM EDST | **Sustaining**<br>Musical Showcase | **Frank De Vol**, **Maxine Gray** | **KHJ Concert Orchestra** | `["Music", "Orchestral", "Big Band", "Vocal", "Easy Listening"]` | Frank De Vol conducts lush west-coast orchestral arrangements featuring vocalist Maxine Gray singing Duke Ellington's 'Caravan'. |
+| `Cal_Melodies_1942.mp3` <br>*Alt*: `Frank De Vol KHJ 1942` | **"Frank De Vol and The KHJ Concert Orchestra"** | **Mutual / KHJ**<br>1942-08-29<br>8:00 PM EWT | **Sustaining**<br>Musical Showcase | **Frank De Vol** (Conductor) | **KHJ Concert Orchestra** | `["Music", "Orchestral", "Big Band", "Variety", "West Coast"]` | The KHJ orchestra performs romantic orchestral medleys and lively Latin dance rhythms broadcast live from Hollywood. |
+| `Abe_Burrows_1949.mp3` <br>*Alt*: `Parody Songbook Burrows` | **"Abe's Parody Songbook and Satire"** | **CBS (WCBS)**<br>1949-08-29<br>9:30 PM EDT | **Sustaining**<br>Comedy & Music | **Abe Burrows**, **DeLugg** | **Ray Charles Singers** | `["Comedy", "Satire", "Music", "Parody", "Piano"]` | Abe Burrows performs humorous piano parody tunes skewering Tin Pan Alley songwriting clichés and operatic melodrama. |
+| `Lone_Ranger_1933.mp3` <br>*Alt*: `Eagle Pass 1933` | **"Outlaws at Eagle Pass"** | **WXYZ / Regional**<br>1933-08-29<br>8:00 PM EDST | **Gordon Baking Co.**<br>Silvercup Bread | **George Stenius**, **Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Action", "Frontier", "Juvenile"]` | The Lone Ranger and Tonto pursue a ruthless outlaw gang attempting to hijack an incoming payroll shipment at Eagle Pass. |
+| `Lone_Ranger_1934.mp3` <br>*Alt*: `Rustlers Red Rock` | **"The Rustlers of Red Rock Canyon"** | **WXYZ / Mutual**<br>1934-08-29<br>8:00 PM EDST | **Gordon Baking Co.**<br>Silvercup Bread | **Earle Graser**, **Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Action", "Frontier", "Juvenile"]` | The Masked Rider intervenes to protect an honest rancher whose prize cattle herd has been targeted by night rustlers. |
+| `Lone_Ranger_1938.mp3` <br>*Alt*: `Stolen Diamond 1938` | **"The Stolen Diamond"** | **Mutual (WOR)**<br>1938-08-29<br>7:30 PM EDST | **Gordon Baking Co.**<br>Silvercup Bread | **Earle Graser**, **Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Action", "Frontier", "Juvenile"]` | The Lone Ranger uncovers a frontier jewelry merchant's fraudulent insurance scheme involving a purportedly stolen uncut diamond. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 29
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 29**: 234
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
