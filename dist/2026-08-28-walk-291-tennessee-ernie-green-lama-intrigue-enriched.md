@@ -1,0 +1,33 @@
+# Archival Dispatch: August 28 Calendar Walk — Tennessee Ernie Ford, Green Lama, and Intrigue
+
+**Date**: 2026-08-28  
+**Author**: radio index  
+**Tags**: August 28, Calendar Walk, The Ford Road Show, Tennessee Ernie Ford, Ford Motor Company, The Damon Runyon Theatre, John Brown, Russell Hughes, Betty and Bob, Arlene Francis, Frank and Anne Hummert, Romance, Helen Hayes, William N Robson, Mary Queen of Scots, Intrigue, Joseph Cotten, Nicholas Blake, The Green Lama, Paul Frees, Alternate Titles, Original Filenames
+
+---
+
+## August 28 Archival Metadata Enrichment (Increment 291)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio and syndication, Tennessee Ernie Ford on *The Ford Road Show*, John Brown in *The Damon Runyon Theatre*, Arlene Francis in *Betty and Bob*, Helen Hayes portraying Mary Queen of Scots on *Romance*, Joseph Cotten in Nicholas Blake's espionage thriller *The Smiler with the Knife* on *Intrigue*, and Paul Frees as *The Green Lama* (1945–1958):
+
+---
+
+## 1. *August 28 Archival Inventory (Increment 291)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Ford_Road_1958.mp3` <br>*Alt*: `First Song I've Got My Love` | **"I've Got My Love to Keep Me Warm"** | **CBS (WCBS)**<br>1958-08-28<br>7:00 PM EDT | **Ford Motor Co.**<br>Ford Dealers of America | **Tennessee Ernie Ford** | **Jack Fascinato Orchestra** | `["Music", "Country", "Pop Standard", "Variety", "Americana"]` | Tennessee Ernie Ford shares down-home humor between lively country and pop standards, leading with Irving Berlin's 'I've Got My Love to Keep Me Warm'. |
+| `Runyon_Ziv_1949.mp3` <br>*Alt*: `Social Error`, `Ziv Mayfair` | **"Social Error (Ziv/Syndication)"** | **Syndicated / Ziv**<br>1949-08-28 | **Commercial**<br>Regional Sponsors | **John Brown**, **Alan Reed** | **Russell Hughes (Adapter)** | `["Comedy", "Crime", "Anthology", "Broadway", "Americana"]` | Broadway narrator recounts how a tough gangster attempts to navigate Manhattan high society by mastering formal ballroom etiquette. |
+| `Betty_Bob_1947.mp3` <br>*Alt*: `A Letter from the Past` | **"A Letter from the Past"** | **Syndicated Elec**<br>1947-08-28 | **Commercial**<br>Regional Sponsors | **Arlene Francis**, **Carl Frank** | **Frank & Anne Hummert** | `["Soap Opera", "Drama", "Marriage", "Domestic", "Serial"]` | Betty discovers an unmailed letter hidden inside Bob's antique desk that threatens to expose a long-buried family secret. |
+| `Romance_1945.mp3` <br>*Alt*: `Mary, Queen Of Scots` | **"Mary, Queen of Scots"** | **CBS (WABC)**<br>1945-08-28<br>8:30 PM EWT | **Sustaining**<br>Historical Drama | **Helen Hayes** (Mary) | **William N. Robson** (Dir) | `["Drama", "Historical", "Biography", "Romance", "British"]` | A dramatic retelling of the turbulent life, political imprisonment, and tragic execution of Mary, Queen of Scots. |
+| `Intrigue_1946.mp3` <br>*Alt*: `Smiler with the Knife` | **"The Smiler with the Knife"** | **CBS (WABC)**<br>1946-08-28<br>8:30 PM EDT | **Sustaining**<br>Espionage Drama | **Joseph Cotten** (Host/Star) | **Nicholas Blake (Author)** | `["Suspense", "Espionage", "Mystery", "Thriller", "British"]` | A woman investigates an underground fascist conspiracy in pre-war England after discovering a coded ring belonging to a secret military society. |
+| `Green_Lama_1949.mp3` <br>*Alt*: `Chopsticks`, `Ivory Secret` | **"The Case of the Chopsticks"** | **CBS (WABC)**<br>1949-08-28<br>5:30 PM EDT | **Sustaining**<br>Superhero Adventure | **Paul Frees**, **Ben Wright** | **Richard Foster** (Creator) | `["Superhero", "Pulp", "Adventure", "Detective", "Occult"]` | Jethro Dumont uses Tibetan mystical arts to track a syndicate of smugglers hiding microfilmed state secrets inside ornamental ivory chopsticks. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 210
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
