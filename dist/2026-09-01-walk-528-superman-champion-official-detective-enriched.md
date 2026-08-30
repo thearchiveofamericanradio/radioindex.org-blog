@@ -1,0 +1,33 @@
+# Archival Dispatch: September 1 Calendar Walk — Superman, Champion, and Official Detective
+
+**Date**: 2026-09-01  
+**Author**: radio index  
+**Tags**: September 1, Calendar Walk, The Adventures of Superman, Clayton Collyer, Joan Alexander, Kelloggs Pep, Serial Story, Metropolis Football, Adventures of Champion, Gene Autry, Mystery Is My Hobby, Glenn Langan, Official Detective, Craig McDonnell, The Haunting Hour, Frances Perkins, Salute to Labor, Alternate Titles, Original Filenames
+
+---
+
+## September 1 Archival Metadata Enrichment (Increment 528)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized comic superhero metadata, and pure narrative synopses for broadcasts transmitting on **September 1** across the Man of Steel's daily serials, western wonder dog and horse adventures, private eye murder mysteries, police procedurals, radio horror, and Labor Day national addresses, Clayton Collyer in *The Adventures of Superman* (1941), Gene Autry in *The Adventures of Champion* (1949), Glenn Langan in *Mystery Is My Hobby* (1946), Craig McDonnell in *Official Detective* (1955), *The Haunting Hour* (1945), and Secretary of Labor Frances Perkins (1941–1955):
+
+---
+
+## 1. *September 1 Archival Inventory (Increment 528)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Champion_1949_BlackMountain4.mp3` <br>*Alt*: `The Ghost of Black Mountain [Chapter 4]` | **"The Ghost of Black Mountain (Chapter 4) with Gene Autry and Champion"** | **Mutual / Synd.**<br>1949-09-01 | **Sustaining**<br>Western Serial | **Gene Autry**, **Champion** | **Gene Autry (Writer)** | `["Western", "Adventure", "Champion", "Gene Autry", "Syndicated"]`<br>*Arc*: **The Ghost of Black Mountain (Chapter 4)** | Champion races up the rocky crags of Black Mountain to rescue a stranded prospector cornered by outlaw claim-jumpers. |
+| `Mystery_Hobby_1946_Engaged.mp3` <br>*Alt*: `Engaged To Death` | **"Engaged to Death with Glenn Langan (Barton Drake)"** | **Syndication**<br>1946-09-01 | **Sustaining**<br>Private Detective | **Glenn Langan**, **Field** | **Syndicated Drama Staff** | `["Detective", "Mystery", "Mystery Is My Hobby", "Glenn Langan"]` | Criminologist Barton Drake investigates the poisoning of a wealthy debutante on the eve of announcing her engagement. |
+| `Official_Det_1955_Salesman.mp3` <br>*Alt*: `Persistant Saleman` | **"The Case of the Persistent Salesman with Craig McDonnell"** | **Mutual (WOR)**<br>1955-09-01<br>8:00 PM EDT | **Sustaining**<br>Police Docudrama | **Craig McDonnell**, **Kramer** | **Wynn Wright (Director)** | `["Police", "Crime", "Docudrama", "Official Detective", "Mutual"]` | Detectives investigate a door-to-door vacuum salesman who becomes the prime suspect in a string of residential burglaries. |
+| `Haunting_1945_NoEscape.mp3` <br>*Alt*: `No Escape The Haunting Hour` | **"No Escape with NBC Radio Production"** | **NBC Syndication**<br>1945-09-01 | **Sustaining**<br>Horror Anthology | **NBC Dramatic Cast** | **Howard Teichmann (Director)** | `["Horror", "Supernatural", "Mystery", "The Haunting Hour", "NBC"]` | A desperate prison escapee takes refuge in a remote swamp manor, only to discover that the inhabitants are vengeful spirits. |
+| `Labor_1941_Perkins.mp3` <br>*Alt*: `Salute to Labor 1941 Episode` | **"Labor Day Cavalcade with Secretary Frances Perkins and NBC Orchestra"** | **NBC Red (WEAF)**<br>1941-09-01<br>10:30 PM EDST | **U.S. Dept. of Labor**<br>Defense Production | **Frances Perkins (Sec. Labor)** | **NBC Concert Ensemble** | `["News", "Special", "Labor Day", "Frances Perkins", "NBC Red"]` | Secretary of Labor Frances Perkins addresses American industrial workers on defense production output ahead of Labor Day. |
+| `Superman_1941_FootballPoison1.mp3` <br>*Alt*: `Metropolis Football Team Poisoned, Part 1` | **"Metropolis Football Team Poisoned (Part 1) with Clayton Collyer"** | **Mutual (WOR)**<br>1941-09-01<br>5:15 PM EDST | **Kellogg Company**<br>Kellogg's Pep Cereal | **Clayton Collyer**, **Alexander** | **Robert & Maxwell (Writers)** | `["Superhero", "Action", "Superman", "Clayton Collyer", "Kellogg"]`<br>*Arc*: **Metropolis Football Team Poisoned (Part 1 of 15)** | Clark Kent and Lois Lane investigate when key players on the Metropolis University football squad collapse from tainted water. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 90 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
