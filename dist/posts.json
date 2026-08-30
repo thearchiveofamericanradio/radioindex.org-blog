@@ -41,6 +41,76 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-432-jungle-jim-let-george-do-it-will-rogers-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-432-jungle-jim-let-george-do-it-will-rogers-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Jungle Jim, Let George Do It, and Will Rogers",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 432)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio and syndicated adventure serials, three Alex Raymond comic strip adventures starring Matt Crowley on <em>Jungle Jim</em> (1941, 1947, 1952), Bob Bailey solving teenage murder suspicions and Mayan artifact heists on <em>Let George Do It</em> for Chevron / Standard Oil (1948, 1954), and American humorist Will Rogers on <em>The Good Gulf Program</em> for Gulf Refining Company (1933–1954):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 432)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Jungle_Jim_1941_Ally.mp3</code> <br><em>Alt</em>: <code>A New Ally Jungle Jim</code></td>\n<td><strong>&quot;A New Ally in the Malayan Jungle&quot;</strong></td>\n<td><strong>Syndicated Comic Strip</strong><br>1941-08-30</td>\n<td><strong>Hearst Comic Features</strong><br>Comic Strip Syndication</td>\n<td><strong>Matt Crowley</strong>, <strong>Hernandez</strong></td>\n<td><strong>Alex Raymond (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;Comic Strip&quot;, &quot;Alex Raymond&quot;, &quot;Hearst&quot;]</code></td>\n<td>Jungle Jim and Kolu ally with an exiled native chieftain to rescue a kidnapped explorer from pirate riverboats.</td>\n</tr>\n<tr>\n<td><code>Jungle_Jim_1947_Bomber.mp3</code> <br><em>Alt</em>: <code>Jim Steals Jap Bomber</code></td>\n<td><strong>&quot;Jim Steals a Japanese Bomber&quot;</strong></td>\n<td><strong>Syndicated Comic Strip</strong><br>1947-08-30</td>\n<td><strong>Hearst Comic Features</strong><br>Comic Strip Syndication</td>\n<td><strong>Matt Crowley</strong>, <strong>Hernandez</strong></td>\n<td><strong>Alex Raymond (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;World War II&quot;, &quot;Aviation&quot;, &quot;Alex Raymond&quot;]</code></td>\n<td>Jungle Jim infiltrates an enemy airfield deep in the Burma jungle to hijack an armed bomber plane for the Allied underground.</td>\n</tr>\n<tr>\n<td><code>Jungle_Jim_1952_Idol.mp3</code> <br><em>Alt</em>: <code>Temple of Golden Idol</code></td>\n<td><strong>&quot;The Temple of the Golden Idol&quot;</strong></td>\n<td><strong>Syndicated Comic Strip</strong><br>1952-08-30</td>\n<td><strong>Hearst Comic Features</strong><br>Comic Strip Syndication</td>\n<td><strong>Matt Crowley</strong>, <strong>Hernandez</strong></td>\n<td><strong>Alex Raymond (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;Treasure&quot;, &quot;Action&quot;, &quot;Alex Raymond&quot;]</code></td>\n<td>Jim protects an ancient temple&#39;s hidden golden artifacts from a ruthless gang of European treasure hunters.</td>\n</tr>\n<tr>\n<td><code>George_1948_MinorMurder.mp3</code> <br><em>Alt</em>: <code>A Minor Case of Murder</code></td>\n<td><strong>&quot;A Minor Case of Murder&quot;</strong></td>\n<td><strong>Mutual-Don Lee</strong><br>1948-08-30<br>8:00 PM PDT</td>\n<td><strong>Standard Oil of Calif.</strong><br>Chevron / Standard</td>\n<td><strong>Bob Bailey</strong>, <strong>Robinson</strong></td>\n<td><strong>David Victor &amp; Gillis</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Bob Bailey&quot;, &quot;Standard Oil&quot;]</code></td>\n<td>Private investigator George Valentine is hired by a precocious teenager convinced his wealthy stepfather is slowly poisoning his mother.</td>\n</tr>\n<tr>\n<td><code>George_1954_Maya.mp3</code> <br><em>Alt</em>: <code>Treasure of the Maya</code></td>\n<td><strong>&quot;The Treasure of the Maya&quot;</strong></td>\n<td><strong>Mutual-Don Lee</strong><br>1954-08-30<br>8:00 PM PDT</td>\n<td><strong>Standard Oil of Calif.</strong><br>Chevron Supreme / RPM</td>\n<td><strong>Bob Bailey</strong>, <strong>Gregg</strong></td>\n<td><strong>David Victor &amp; Gillis</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Adventure&quot;, &quot;Bob Bailey&quot;, &quot;Standard Oil&quot;]</code></td>\n<td>George travels to Central America to recover stolen pre-Columbian jade relics from an armed smuggling ring.</td>\n</tr>\n<tr>\n<td><code>Good_Gulf_1933_Rogers.mp3</code> <br><em>Alt</em>: <code>With Al Goodman Revelers</code></td>\n<td><strong>&quot;Will Rogers with Al Goodman and The Revelers Quartet&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1933-08-30<br>9:00 PM EDST</td>\n<td><strong>Gulf Refining Co.</strong><br>Gulf No-Nox Gasoline</td>\n<td><strong>Will Rogers</strong>, <strong>Revelers</strong></td>\n<td><strong>Al Goodman Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Monologue&quot;, &quot;Will Rogers&quot;, &quot;Gulf&quot;]</code></td>\n<td>Will Rogers delivers folksy philosophical monologues on the New Deal and Washington politics interspersed with close-harmony vocal arrangements.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 264 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 432 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "Jungle Jim",
+        "Alex Raymond",
+        "Matt Crowley",
+        "Juano Hernandez",
+        "Hearst",
+        "Let George Do It",
+        "Bob Bailey",
+        "Frances Robinson",
+        "Virginia Gregg",
+        "Standard Oil",
+        "Chevron",
+        "The Good Gulf Program",
+        "Will Rogers",
+        "Al Goodman",
+        "The Revelers",
+        "Gulf Oil",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-431-stars-over-hollywood-death-valley-sheriff-clitheroe-kid-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-431-stars-over-hollywood-death-valley-sheriff-clitheroe-kid-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Stars Over Hollywood, Death Valley Sheriff, and The Clitheroe Kid",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 431)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio, British BBC light comedy, and wartime dramatic archives, Marsha Hunt and Claire Trevor starring on <em>Stars Over Hollywood</em> for Dari-Rich Chocolate Milk (1941, 1947), Sheriff Mark Chase tackling desert cliff bandits on <em>Death Valley Sheriff</em> for 20 Mule Team Borax (1946), Jimmy Clitheroe&#39;s domestic mishaps on <em>The Clitheroe Kid</em> (1970), moral crisis on <em>This Is Our Enemy</em> (1942), and Paul McGrath in the psychological noir <em>Detour</em> (1941–1970):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 431)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Clitheroe_1970_Cleaners.mp3</code> <br><em>Alt</em>: <code>Taken to the Cleaners BBC</code></td>\n<td><strong>&quot;Taken to the Cleaners (Series 13, Episode 17)&quot;</strong></td>\n<td><strong>BBC Radio 2</strong><br>1970-08-30<br>1:30 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Comedy</td>\n<td><strong>Jimmy Clitheroe</strong>, <strong>Sinclair</strong></td>\n<td><strong>James Casey (Producer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Sitcom&quot;, &quot;Jimmy Clitheroe&quot;, &quot;BBC Radio 2&quot;]</code></td>\n<td>Jimmy attempts to launder Grandad&#39;s prized suit at home to save pocket money, resulting in a shrunken disaster.</td>\n</tr>\n<tr>\n<td><code>Stars_Hwd_1941_Gown.mp3</code> <br><em>Alt</em>: <code>Silver Gown Marsha Hunt</code></td>\n<td><strong>&quot;The Silver Gown with Marsha Hunt&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1941-08-30<br>12:30 PM EDST</td>\n<td><strong>Bowey&#39;s Inc.</strong><br>Dari-Rich Chocolate Milk</td>\n<td><strong>Marsha Hunt</strong>, <strong>Cast</strong></td>\n<td><strong>Stars Over Hollywood Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Anthology&quot;, &quot;Marsha Hunt&quot;, &quot;Dari-Rich&quot;]</code></td>\n<td>A modest seamstress borrows an exquisite designer silver gown for one glamorous evening, attracting the romantic attention of a wealthy bachelor.</td>\n</tr>\n<tr>\n<td><code>Stars_Hwd_1947_Law.mp3</code> <br><em>Alt</em>: <code>Lady and Law Claire Trevor</code></td>\n<td><strong>&quot;The Lady and the Law with Claire Trevor&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1947-08-30<br>12:30 PM EDT</td>\n<td><strong>Bowey&#39;s Inc.</strong><br>Dari-Rich Chocolate Milk</td>\n<td><strong>Claire Trevor</strong>, <strong>Cast</strong></td>\n<td><strong>Stars Over Hollywood Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Courtroom&quot;, &quot;Claire Trevor&quot;, &quot;Dari-Rich&quot;]</code></td>\n<td>A sharp female attorney defends a wrongfully accused suspect in a high-profile city embezzlement scandal.</td>\n</tr>\n<tr>\n<td><code>Death_Sheriff_1946_High.mp3</code> <br><em>Alt</em>: <code>Murder Comes High Sheriff</code></td>\n<td><strong>&quot;Murder Comes High&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1946-08-30<br>8:30 PM EDT</td>\n<td><strong>Pacific Coast Borax</strong><br>20 Mule Team Borax / Boraxo</td>\n<td><strong>Bob Valiant</strong>, <strong>Arthur Allen</strong></td>\n<td><strong>Ruth Cornwall Woodman</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Mystery&quot;, &quot;Sheriff&quot;, &quot;Borax&quot;, &quot;Ruth Cornwall Woodman&quot;]</code></td>\n<td>Sheriff Mark Chase scales treacherous desert cliffs to apprehend an armed claim-jumper who assassinated a silver mine assayer.</td>\n</tr>\n<tr>\n<td><code>Our_Enemy_1942_Richter.mp3</code> <br><em>Alt</em>: <code>Sudeten German Exterminate</code></td>\n<td><strong>&quot;The Conscience of Karl Richter&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1942-08-30<br>10:30 PM EWT</td>\n<td><strong>OWI / WPB</strong><br>War Production Board</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>This Is Our Enemy Staff</strong></td>\n<td><code>[&quot;Propaganda&quot;, &quot;World War II&quot;, &quot;Drama&quot;, &quot;OWI&quot;, &quot;Historical&quot;]</code></td>\n<td>A conscripted Sudeten German soldier faces a moral crisis when ordered to execute innocent civilian hostages in his own boyhood village.</td>\n</tr>\n<tr>\n<td><code>Detour_1950_Fletcher.mp3</code> <br><em>Alt</em>: <code>Story of Fletcher McGrath</code></td>\n<td><strong>&quot;The Story of Fletcher with Paul McGrath&quot;</strong></td>\n<td><strong>Syndicated Drama</strong><br>1950-08-30</td>\n<td><strong>Sustaining</strong><br>Psychological Drama</td>\n<td><strong>Paul McGrath</strong>, <strong>Cast</strong></td>\n<td><strong>Detour Production Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Crime&quot;, &quot;Psychological&quot;, &quot;Noir&quot;, &quot;Suspense&quot;]</code></td>\n<td>An ambitious bank clerk takes a fateful detour into embezzlement, discovering that his co-conspirator has prepared a deadly double-cross.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 258 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 431 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "Stars Over Hollywood",
+        "Marsha Hunt",
+        "Claire Trevor",
+        "Dari-Rich",
+        "Bowey's",
+        "Death Valley Sheriff",
+        "Bob Valiant",
+        "Ruth Cornwall Woodman",
+        "20 Mule Team Borax",
+        "The Clitheroe Kid",
+        "Jimmy Clitheroe",
+        "BBC Radio 2",
+        "This Is Our Enemy",
+        "OWI",
+        "Detour",
+        "Paul McGrath",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-430-counterspy-twelfth-night-lets-pretend-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-430-counterspy-twelfth-night-lets-pretend-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — Counterspy, Orson Welles' Twelfth Night, and Let's Pretend",
