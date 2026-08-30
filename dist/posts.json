@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-485-benny-goodman-inspector-west-lum-and-abner-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-485-benny-goodman-inspector-west-lum-and-abner-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Benny Goodman, Inspector West, and Lum & Abner",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 485)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across big band swing showcases, BBC Scotland Yard detective serials, prison true-crime docudramas, marital game show quizzes, and Arkansas rural comedies, Benny Goodman with Harry James and Gene Krupa on <em>Camel Caravan</em> (1937), Patrick Allen starring in John Creasey&#39;s <em>Inspector West Cries Wolf</em> on BBC Radio 4 (1970), Harry Bartell in <em>Sentenced</em> (1955), <em>The Better Half</em> (1942, 1944), and Chester Lauck with Norris Goff in <em>Lum and Abner</em> for Alka-Seltzer (1937–1970):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 485)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Goodman_1937_Caravan.mp3</code> <br><em>Alt</em>: <code>Camel Caravan Benny Goodman</code></td>\n<td><strong>&quot;Camel Caravan with Harry James and Gene Krupa&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1937-08-31<br>9:30 PM EDST</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Benny Goodman</strong>, <strong>Krupa</strong></td>\n<td><strong>Harry James &amp; Martha Tilton</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Benny Goodman&quot;, &quot;Camel&quot;]</code></td>\n<td>The King of Swing leads his orchestra in virtuosic jazz renditions of Caravan, Sing Sing Sing, and swing arrangements.</td>\n</tr>\n<tr>\n<td><code>Inspector_West_1970_Wolf1.mp3</code> <br><em>Alt</em>: <code>Cries Wolf The Mark of Wolf</code></td>\n<td><strong>&quot;Inspector West Cries Wolf — The Mark of the Wolf with Patrick Allen&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1970-08-31<br>7:30 PM BST</td>\n<td><strong>Sustaining</strong><br>Scotland Yard Serial</td>\n<td><strong>Patrick Allen</strong>, <strong>Lawson</strong></td>\n<td><strong>John Creasey (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Police Procedural&quot;, &quot;British&quot;, &quot;Inspector West&quot;, &quot;BBC&quot;]</code><br><em>Arc</em>: <strong>Inspector West Cries Wolf (Part 1)</strong></td>\n<td>Chief Inspector Roger West investigates a series of brutal London armed robberies linked by the signature calling card of a wolf.</td>\n</tr>\n<tr>\n<td><code>Sentenced_1955_BankRobbers.mp3</code> <br><em>Alt</em>: <code>TCOT Bank Robbers Sentenced</code></td>\n<td><strong>&quot;The Case of the Bank Robbers with Harry Bartell&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1955-08-31<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Prison Docudrama</td>\n<td><strong>Harry Bartell</strong> (Narrator)</td>\n<td><strong>Mutual Production Staff</strong></td>\n<td><code>[&quot;True Crime&quot;, &quot;Prison&quot;, &quot;Drama&quot;, &quot;Sentenced&quot;, &quot;Mutual&quot;]</code></td>\n<td>A penitentiary inmate recounts how desperate debts led to an ill-fated armed bank robbery and long-term imprisonment.</td>\n</tr>\n<tr>\n<td><code>Better_Half_1942_Slater.mp3</code> <br><em>Alt</em>: <code>Better Half 1942 Episode</code></td>\n<td><strong>&quot;Husband vs. Wife Quiz with Tom Slater (1942)&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1942-08-31<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Spousal Battle Quiz</td>\n<td><strong>Tom Slater</strong> (Quizmaster)</td>\n<td><strong>Mutual Production Staff</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Game Show&quot;, &quot;Comedy&quot;, &quot;The Better Half&quot;, &quot;Mutual&quot;]</code></td>\n<td>Married couples compete against each other answering rapid-fire household trivia and situational marital dilemma questions.</td>\n</tr>\n<tr>\n<td><code>Better_Half_1944_Ruffner.mp3</code> <br><em>Alt</em>: <code>Better Half 1944 Episode</code></td>\n<td><strong>&quot;Husband vs. Wife Quiz with Tiny Ruffner (1944)&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-08-31<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Spousal Battle Quiz</td>\n<td><strong>Tiny Ruffner</strong> (Quizmaster)</td>\n<td><strong>Mutual Production Staff</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Game Show&quot;, &quot;Comedy&quot;, &quot;The Better Half&quot;, &quot;Mutual&quot;]</code></td>\n<td>Husbands and wives test their domestic knowledge in a battle of the sexes quiz awarding war bonds to winning spouses.</td>\n</tr>\n<tr>\n<td><code>Lum_Abner_1942_GoldMine.mp3</code> <br><em>Alt</em>: <code>Faking Gold Mine Tale</code></td>\n<td><strong>&quot;Faking the Gold Mine Tale with Chester Lauck and Norris Goff&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1942-08-31<br>8:15 PM EWT</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer / One-A-Day</td>\n<td><strong>Chester Lauck</strong>, <strong>Goff</strong></td>\n<td><strong>Lauck &amp; Goff (Writers)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Rural&quot;, &quot;Lum and Abner&quot;, &quot;Alka-Seltzer&quot;, &quot;NBC Blue&quot;]</code></td>\n<td>Lum and Abner concoct a tall tale about an abandoned Pine Ridge gold mine to discourage out-of-town swindlers.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 210 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 485 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Benny Goodman",
+        "Camel Caravan",
+        "Swing",
+        "Harry James",
+        "Gene Krupa",
+        "Inspector West",
+        "John Creasey",
+        "Patrick Allen",
+        "BBC Radio 4",
+        "Serial Story",
+        "Lum and Abner",
+        "Chester Lauck",
+        "Norris Goff",
+        "Alka-Seltzer",
+        "The Better Half",
+        "Tom Slater",
+        "Tiny Ruffner",
+        "Sentenced",
+        "Harry Bartell",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-484-winston-churchill-gi-journal-heartbeat-theatre-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-484-winston-churchill-gi-journal-heartbeat-theatre-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Winston Churchill, G.I. Journal, and Heartbeat Theatre",
