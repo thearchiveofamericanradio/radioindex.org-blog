@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-561-cbsrmt-this-is-your-fbi-voice-of-firestone-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-561-cbsrmt-this-is-your-fbi-voice-of-firestone-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — CBSRMT, This Is Your FBI, and Voice of Firestone",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 561)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across Seventies radio mystery drama revivals, authentic Federal Bureau of Investigation crime docudramas, exotic high adventure thrillers, musical comedy quizzes, and concert hall symphonic performances, E.G. Marshall in <em>CBS Radio Mystery Theater</em> (1998 replay), Stacy Harris in <em>This Is Your FBI</em> for Equitable Life (1950), Garry Moore in <em>Beat the Band</em> for Kix (1940), Howard Barlow on <em>The Voice of Firestone</em> (1952), and <em>High Adventure</em> (1940–1998):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 561)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>CBSRMT_1998_DeadlineDeath.mp3</code> <br><em>Alt</em>: <code>Deadline For Death CBSRMT</code></td>\n<td><strong>&quot;Deadline for Death with E.G. Marshall and CBS Radio (Rebroadcast)&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1998-09-01</td>\n<td><strong>Sustaining</strong><br>Mystery Drama</td>\n<td><strong>E.G. Marshall (Host)</strong></td>\n<td><strong>Himan Brown (Producer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;CBSRMT&quot;, &quot;EG Marshall&quot;, &quot;Himan Brown&quot;]</code></td>\n<td>A condemned death-row inmate receives an eleventh-hour stay of execution after a relentless reporter uncovers fresh ballistic evidence.</td>\n</tr>\n<tr>\n<td><code>FBI_1950_MusicalStickup.mp3</code> <br><em>Alt</em>: <code>The Musical Stick Up This Is Your FBI</code></td>\n<td><strong>&quot;The Musical Stickup with Stacy Harris and Equitable Life&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1950-09-01<br>8:30 PM EDT</td>\n<td><strong>Equitable Life</strong><br>Life Assurance Society</td>\n<td><strong>Stacy Harris (Agent)</strong></td>\n<td><strong>Jerry Devine (Director)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Docudrama&quot;, &quot;This Is Your FBI&quot;, &quot;Equitable Life&quot;]</code></td>\n<td>FBI special agents track an armed robber who plays classical piano recordings in bank lobbies to disguise the sound of blown vault locks.</td>\n</tr>\n<tr>\n<td><code>High_Adv_1948_SheeAh.mp3</code> <br><em>Alt</em>: <code>Shee Ah O Kaane High Adventure</code></td>\n<td><strong>&quot;Shee-Ah-O-Kaane with Dramatic Adventure Cast&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-09-01<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Island Adventure</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Mutual Adventure Staff</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Action&quot;, &quot;High Adventure&quot;, &quot;Mutual&quot;, &quot;Drama&quot;]</code></td>\n<td>An expedition into Polynesian volcanic islands encounters an isolated tribe guarding sacred mountain jade artifacts.</td>\n</tr>\n<tr>\n<td><code>High_Adv_1953_Saucers.mp3</code> <br><em>Alt</em>: <code>Flying Saucers or Arson High Adventure</code></td>\n<td><strong>&quot;Flying Saucers or Arson with Mutual Network&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1953-09-01<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Mystery Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Mutual Dramatic Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Sci-Fi&quot;, &quot;High Adventure&quot;, &quot;Mutual&quot;, &quot;Drama&quot;]</code></td>\n<td>Investigators determine whether mysterious night-sky fireballs blazing over pine timberlands are extraterrestrial craft or cover for insurance arson.</td>\n</tr>\n<tr>\n<td><code>Beat_Band_1940_Quiz.mp3</code> <br><em>Alt</em>: <code>Beat The Band 1940 Episode</code></td>\n<td><strong>&quot;Musical Knowledge Quiz with Garry Moore, Ted Weems, and General Mills&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-09-01<br>6:30 PM EDST</td>\n<td><strong>General Mills</strong><br>Kix Cereal</td>\n<td><strong>Garry Moore (MC)</strong>, <strong>Weems</strong></td>\n<td><strong>Perry Como &amp; Marvel Maxwell</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Beat The Band&quot;, &quot;Garry Moore&quot;, &quot;Kix&quot;]</code></td>\n<td>Garry Moore tests orchestra members on listener-submitted musical trivia questions while awarding silver dollars for stumpers.</td>\n</tr>\n<tr>\n<td><code>Firestone_1952_LoisHunt.mp3</code> <br><em>Alt</em>: <code>Howard Barlow Conducts - Guest - Lois Hunt</code></td>\n<td><strong>&quot;Howard Barlow Conducts with Guest Soprano Lois Hunt and Firestone Tires&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-09-01<br>8:30 PM EDT</td>\n<td><strong>Firestone Tire</strong><br>Tire &amp; Rubber Co.</td>\n<td><strong>Howard Barlow</strong>, <strong>Hunt</strong></td>\n<td><strong>Firestone Symphony Orch.</strong></td>\n<td><code>[&quot;Classical&quot;, &quot;Concert&quot;, &quot;Opera&quot;, &quot;Voice Of Firestone&quot;, &quot;Howard Barlow&quot;]</code></td>\n<td>Howard Barlow conducts the Firestone Symphony Orchestra and soprano Lois Hunt performs operatic arias and American concert pieces.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 288 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 561 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "CBS Radio Mystery Theater",
+        "CBSRMT",
+        "EG Marshall",
+        "Himan Brown",
+        "This is Your FBI",
+        "Stacy Harris",
+        "Equitable Life Assurance",
+        "High Adventure",
+        "Mutual",
+        "Beat the Band",
+        "Garry Moore",
+        "Ted Weems",
+        "Voice of Firestone",
+        "Howard Barlow",
+        "Lois Hunt",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-560-boston-blackie-ozzie-harriet-ilona-massey-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-560-boston-blackie-ozzie-harriet-ilona-massey-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Boston Blackie, Ozzie & Harriet, and Ilona Massey",
