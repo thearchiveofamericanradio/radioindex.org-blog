@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-768-cavalcade-of-america-dinah-shore-rube-goldberg-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-768-cavalcade-of-america-dinah-shore-rube-goldberg-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Cavalcade of America, Dinah Shore & Rube Goldberg",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 768)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across DuPont&#39;s prestigious historical dramatizations on <em>Cavalcade of America</em> starring Robert Montgomery (1944) and Karl Swenson portraying William Penn (1951), cartoonist Rube Goldberg joining the panel on <em>Twenty Questions</em> for Ronson, Mercedes McCambridge exposing police corruption on <em>Defense Attorney</em>, Dinah Shore singing wartime sweethearts&#39; ballads with Gordon Jenkins, and choral anthems on <em>The Lyn Murray Show</em>, Robert Montgomery &amp; Karl Swenson (1944, 1951), Rube Goldberg (1948), Mercedes McCambridge (1952), and Dinah Shore (1942–1952):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 768)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Cavalcade_1944_WhatMakesHero.mp3</code> <br><em>Alt</em>: <code>What Makes A Hero Cavalcade of America</code></td>\n<td><strong>&quot;What Makes a Hero with Robert Montgomery&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-09-04<br>8:00 PM EWT</td>\n<td><strong>E.I. du Pont de Nemours</strong><br>Better Things for Living</td>\n<td><strong>Robert Montgomery (Star)</strong></td>\n<td><strong>Donald Voorhees and Orch.</strong></td>\n<td><code>[&quot;History&quot;, &quot;Drama&quot;, &quot;Cavalcade of America&quot;, &quot;Robert Montgomery&quot;, &quot;DuPont&quot;]</code></td>\n<td>A stirring Labor Day historical drama examining the quiet everyday courage of merchant sailors and factory workers who sustain frontline soldiers.</td>\n</tr>\n<tr>\n<td><code>Cavalcade_1951_TowardsNewWorld.mp3</code> <br><em>Alt</em>: <code>Towards A New World Cavalcade of America</code></td>\n<td><strong>&quot;Towards a New World (William Penn) with Karl Swenson&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1951-09-04<br>8:00 PM EDT</td>\n<td><strong>E.I. du Pont de Nemours</strong><br>DuPont Products</td>\n<td><strong>Karl Swenson (Penn)</strong></td>\n<td><strong>Robert Tallman &amp; Voorhees</strong></td>\n<td><code>[&quot;History&quot;, &quot;Drama&quot;, &quot;Cavalcade of America&quot;, &quot;Karl Swenson&quot;, &quot;DuPont&quot;]</code></td>\n<td>The pioneering life of seventeenth-century Quaker statesman William Penn as he establishes democratic liberties and religious freedom in Pennsylvania.</td>\n</tr>\n<tr>\n<td><code>DefenseAttorney_1952_CaseFrameUp.mp3</code> <br><em>Alt</em>: <code>Defense Attorney 1952 Episode</code></td>\n<td><strong>&quot;The Case of the Frame-Up with Mercedes McCambridge&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1952-09-04<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Courtroom Drama</td>\n<td><strong>Mercedes McCambridge</strong></td>\n<td><strong>Howard Culver &amp; Malone</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Legal&quot;, &quot;Defense Attorney&quot;, &quot;Mercedes McCambridge&quot;, &quot;ABC&quot;]</code></td>\n<td>Defense lawyer Martha Ellis Bryan investigates an alleged nightclub brawl homicide and exposes corrupt police payoffs framing an ex-convict.</td>\n</tr>\n<tr>\n<td><code>TwentyQuestions_1948_RubeGoldberg.mp3</code> <br><em>Alt</em>: <code>Rube Goldberg Twenty Questions</code></td>\n<td><strong>&quot;Guest Cartoonist Rube Goldberg with Bill Slater&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-09-04<br>8:00 PM EDT</td>\n<td><strong>Ronson Art Metal</strong><br>Ronson Lighters</td>\n<td><strong>Bill Slater &amp; Goldberg</strong></td>\n<td><strong>Fred Van Deventer &amp; Rinard</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Panel&quot;, &quot;Twenty Questions&quot;, &quot;Rube Goldberg&quot;, &quot;Ronson&quot;]</code></td>\n<td>Legendary Pulitzer Prize-winning cartoonist Rube Goldberg joins the panel to guess animal, vegetable, or mineral mystery subjects within twenty questions.</td>\n</tr>\n<tr>\n<td><code>DinahShore_1942_WhoWouldntLoveYou.mp3</code> <br><em>Alt</em>: <code>In Person, Dinah Shore Who Wouldn&#39;t Love You The Dinah Shore Show</code></td>\n<td><strong>&quot;Who Wouldn&#39;t Love You with Gordon Jenkins&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1942-09-04<br>9:30 PM EWT</td>\n<td><strong>Bristol-Myers Co.</strong><br>Sal Hepatica &amp; Mum</td>\n<td><strong>Dinah Shore (Vocalist)</strong></td>\n<td><strong>Gordon Jenkins and Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Dinah Shore&quot;, &quot;Gordon Jenkins&quot;, &quot;Bristol-Myers&quot;]</code></td>\n<td>Dinah Shore sings her trademark sweet vocal renditions of Who Wouldn&#39;t Love You, Blues in the Night, and romantic ballads for servicemen.</td>\n</tr>\n<tr>\n<td><code>LynMurray_1944_LaborDayChoral.mp3</code> <br><em>Alt</em>: <code>Lyn Murray 1944 Episode</code></td>\n<td><strong>&quot;Labor Day Melodies and Choral Harmonies with Lyn Murray&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1944-09-04<br>6:15 PM EWT</td>\n<td><strong>Sustaining</strong><br>Choral Showcase</td>\n<td><strong>Lyn Murray and Chorus</strong></td>\n<td><strong>CBS Music Department</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Choral&quot;, &quot;Lyn Murray&quot;, &quot;CBS&quot;, &quot;Labor Day&quot;]</code></td>\n<td>Lyn Murray conducts vibrant choral harmonies and orchestral arrangements of American patriotic songs and popular standards for Labor Day.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 330 / 471 (77 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 768 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Cavalcade of America",
+        "Robert Montgomery",
+        "Karl Swenson",
+        "William Penn",
+        "DuPont",
+        "Donald Voorhees",
+        "Twenty Questions",
+        "Rube Goldberg",
+        "Bill Slater",
+        "Ronson",
+        "Defense Attorney",
+        "Mercedes McCambridge",
+        "Howard Culver",
+        "Joel Malone",
+        "ABC",
+        "The Dinah Shore Show",
+        "Dinah Shore",
+        "Gordon Jenkins",
+        "Bristol-Myers",
+        "Lyn Murray",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-767-big-town-mysterious-traveler-robert-dollar-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-767-big-town-mysterious-traveler-robert-dollar-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Big Town, Mysterious Traveler & Robert Dollar",
