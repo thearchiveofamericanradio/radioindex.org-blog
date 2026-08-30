@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Sam Spade, Rocky Jordan & Official Detective
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, The Adventures of Sam Spade, Howard Duff, Lurene Tuttle, Wildroot Cream Oil, The Adventures of Rocky Jordan, Jack Moyles, Del Monte, Official Detective, Craig McDonnell, Mutual, Mystery Is My Hobby, Glenn Langan, Adventures in Odyssey, Hal Smith, Focus on the Family, The Human Adventure, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 659)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across hardboiled private eyes in San Francisco, international cafe owners in Cairo, true crime magazine police investigations, criminological poison pen mysteries, children's family audio drama, and university educational science programs, Howard Duff as *Sam Spade* for Wildroot (1950), Jack Moyles as *Rocky Jordan* (1950), Craig McDonnell in *Official Detective* (1953), Glenn Langan in *Mystery Is My Hobby* (1947), *Adventures in Odyssey* (1988), and *The Human Adventure* (1944–1988):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 659)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `SamSpade_1950_FarmersDaughter.mp3` <br>*Alt*: `The Farmer's Daughter Caper The Adventures of Sam Spade` | **"The Farmer's Daughter Caper with Howard Duff as Sam Spade"** | **NBC (KNBC)**<br>1950-09-03<br>5:30 PM EDT | **Wildroot Co.**<br>Wildroot Cream-Oil | **Howard Duff (Spade)** | **Lurene Tuttle & Spier** | `["Detective", "Hardboiled", "Sam Spade", "Howard Duff", "Wildroot"]` | Sam Spade is hired by a rural agricultural magnate to locate his run-away daughter in San Francisco, uncovering an extortion syndicate. |
+| `RockyJordan_1950_AceHighEast.mp3` <br>*Alt*: `Ace High Straight The Adventures of Rocky Jordan` | **"Ace High Straight with Jack Moyles as Rocky Jordan (East Coast)"** | **CBS (WCBS)**<br>1950-09-03<br>6:30 PM EDT | **California Packing**<br>Del Monte Canned Foods | **Jack Moyles (Rocky)** | **Jay Novello & Roman** | `["Detective", "Mystery", "Rocky Jordan", "Jack Moyles", "Del Monte"]` | Rocky Jordan protects a desperate American poker player accused of murdering a shady dealer inside an underground Cairo gaming club. |
+| `OfficialDet_1953_KissingFool.mp3` <br>*Alt*: `TCOT Kissing Fool Official Detective` | **"The Case of the Kissing Fool with Craig McDonnell"** | **Mutual (WOR)**<br>1953-09-03<br>8:00 PM EDT | **Sustaining**<br>Police Procedural | **Craig McDonnell (Britt)** | **William Sweets (Writer)** | `["Police", "Procedural", "Official Detective", "Craig McDonnell", "Mutual"]` | Police detectives investigate a daring jewelry store bandit who leaves lipstick marks on store display counters after every robbery. |
+| `MysteryHobby_1947_65Women.mp3` <br>*Alt*: `The Case Of 65 Women Mystery Is My Hobby` | **"The Case of 65 Women with Glenn Langan as Barton Drake"** | **Syndication**<br>1947-09-03 | **Sustaining**<br>Detective Mystery | **Glenn Langan (Drake)** | **Norman Field (Danton)** | `["Detective", "Mystery", "Mystery Is My Hobby", "Glenn Langan", "Syndicated"]` | Criminologist Barton Drake investigates why sixty-five elderly widows living in a secluded retirement manor are targeted by poison pen letters. |
+| `Odyssey_1988_PetPendulum.mp3` <br>*Alt*: `The Pet and the Pendulum American Family Robinson` | **"The Pet and the Pendulum with Hal Smith as Whit"** | **Syndication**<br>1988-09-03 | **Focus on the Family**<br>Christian Ministry | **Hal Smith (Whit)** | **Katie Leigh & Phil Lollar** | `["Family", "Moral", "Adventures In Odyssey", "Hal Smith", "Focus On The Family"]` | Whit teaches Odyssey youth responsible pet care when a temporary dog-sitting assignment turns into a series of household mishaps. |
+| `HumanAdv_1944_HeredityEnv.mp3` <br>*Alt*: `Which Is More Important, Heredity or Environment The Human Adventure` | **"Heredity vs. Environment with University of Chicago"** | **Mutual (WGN)**<br>1944-09-03<br>9:00 PM EWT | **Sustaining**<br>Educational Science | **U of Chicago Faculty** | **Sherman H. Dryer (Dir)** | `["Educational", "Science", "The Human Adventure", "Mutual", "Docudrama"]` | A scientific dramatization analyzing genetic twin studies and environmental influences on human psychological development. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 145 / 469 (324 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

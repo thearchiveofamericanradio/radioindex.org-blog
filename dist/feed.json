@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-659-sam-spade-rocky-jordan-official-detective-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-659-sam-spade-rocky-jordan-official-detective-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Sam Spade, Rocky Jordan & Official Detective",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 659)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across hardboiled private eyes in San Francisco, international cafe owners in Cairo, true crime magazine police investigations, criminological poison pen mysteries, children&#39;s family audio drama, and university educational science programs, Howard Duff as <em>Sam Spade</em> for Wildroot (1950), Jack Moyles as <em>Rocky Jordan</em> (1950), Craig McDonnell in <em>Official Detective</em> (1953), Glenn Langan in <em>Mystery Is My Hobby</em> (1947), <em>Adventures in Odyssey</em> (1988), and <em>The Human Adventure</em> (1944–1988):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 659)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SamSpade_1950_FarmersDaughter.mp3</code> <br><em>Alt</em>: <code>The Farmer&#39;s Daughter Caper The Adventures of Sam Spade</code></td>\n<td><strong>&quot;The Farmer&#39;s Daughter Caper with Howard Duff as Sam Spade&quot;</strong></td>\n<td><strong>NBC (KNBC)</strong><br>1950-09-03<br>5:30 PM EDT</td>\n<td><strong>Wildroot Co.</strong><br>Wildroot Cream-Oil</td>\n<td><strong>Howard Duff (Spade)</strong></td>\n<td><strong>Lurene Tuttle &amp; Spier</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;Sam Spade&quot;, &quot;Howard Duff&quot;, &quot;Wildroot&quot;]</code></td>\n<td>Sam Spade is hired by a rural agricultural magnate to locate his run-away daughter in San Francisco, uncovering an extortion syndicate.</td>\n</tr>\n<tr>\n<td><code>RockyJordan_1950_AceHighEast.mp3</code> <br><em>Alt</em>: <code>Ace High Straight The Adventures of Rocky Jordan</code></td>\n<td><strong>&quot;Ace High Straight with Jack Moyles as Rocky Jordan (East Coast)&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-09-03<br>6:30 PM EDT</td>\n<td><strong>California Packing</strong><br>Del Monte Canned Foods</td>\n<td><strong>Jack Moyles (Rocky)</strong></td>\n<td><strong>Jay Novello &amp; Roman</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Rocky Jordan&quot;, &quot;Jack Moyles&quot;, &quot;Del Monte&quot;]</code></td>\n<td>Rocky Jordan protects a desperate American poker player accused of murdering a shady dealer inside an underground Cairo gaming club.</td>\n</tr>\n<tr>\n<td><code>OfficialDet_1953_KissingFool.mp3</code> <br><em>Alt</em>: <code>TCOT Kissing Fool Official Detective</code></td>\n<td><strong>&quot;The Case of the Kissing Fool with Craig McDonnell&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1953-09-03<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Craig McDonnell (Britt)</strong></td>\n<td><strong>William Sweets (Writer)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Official Detective&quot;, &quot;Craig McDonnell&quot;, &quot;Mutual&quot;]</code></td>\n<td>Police detectives investigate a daring jewelry store bandit who leaves lipstick marks on store display counters after every robbery.</td>\n</tr>\n<tr>\n<td><code>MysteryHobby_1947_65Women.mp3</code> <br><em>Alt</em>: <code>The Case Of 65 Women Mystery Is My Hobby</code></td>\n<td><strong>&quot;The Case of 65 Women with Glenn Langan as Barton Drake&quot;</strong></td>\n<td><strong>Syndication</strong><br>1947-09-03</td>\n<td><strong>Sustaining</strong><br>Detective Mystery</td>\n<td><strong>Glenn Langan (Drake)</strong></td>\n<td><strong>Norman Field (Danton)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Mystery Is My Hobby&quot;, &quot;Glenn Langan&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Criminologist Barton Drake investigates why sixty-five elderly widows living in a secluded retirement manor are targeted by poison pen letters.</td>\n</tr>\n<tr>\n<td><code>Odyssey_1988_PetPendulum.mp3</code> <br><em>Alt</em>: <code>The Pet and the Pendulum American Family Robinson</code></td>\n<td><strong>&quot;The Pet and the Pendulum with Hal Smith as Whit&quot;</strong></td>\n<td><strong>Syndication</strong><br>1988-09-03</td>\n<td><strong>Focus on the Family</strong><br>Christian Ministry</td>\n<td><strong>Hal Smith (Whit)</strong></td>\n<td><strong>Katie Leigh &amp; Phil Lollar</strong></td>\n<td><code>[&quot;Family&quot;, &quot;Moral&quot;, &quot;Adventures In Odyssey&quot;, &quot;Hal Smith&quot;, &quot;Focus On The Family&quot;]</code></td>\n<td>Whit teaches Odyssey youth responsible pet care when a temporary dog-sitting assignment turns into a series of household mishaps.</td>\n</tr>\n<tr>\n<td><code>HumanAdv_1944_HeredityEnv.mp3</code> <br><em>Alt</em>: <code>Which Is More Important, Heredity or Environment The Human Adventure</code></td>\n<td><strong>&quot;Heredity vs. Environment with University of Chicago&quot;</strong></td>\n<td><strong>Mutual (WGN)</strong><br>1944-09-03<br>9:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Educational Science</td>\n<td><strong>U of Chicago Faculty</strong></td>\n<td><strong>Sherman H. Dryer (Dir)</strong></td>\n<td><code>[&quot;Educational&quot;, &quot;Science&quot;, &quot;The Human Adventure&quot;, &quot;Mutual&quot;, &quot;Docudrama&quot;]</code></td>\n<td>A scientific dramatization analyzing genetic twin studies and environmental influences on human psychological development.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 145 / 469 (324 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 659 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Adventures of Sam Spade",
+        "Howard Duff",
+        "Lurene Tuttle",
+        "Wildroot Cream Oil",
+        "The Adventures of Rocky Jordan",
+        "Jack Moyles",
+        "Del Monte",
+        "Official Detective",
+        "Craig McDonnell",
+        "Mutual",
+        "Mystery Is My Hobby",
+        "Glenn Langan",
+        "Adventures in Odyssey",
+        "Hal Smith",
+        "Focus on the Family",
+        "The Human Adventure",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-658-date-with-judy-woody-guthrie-elmer-davis-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-658-date-with-judy-woody-guthrie-elmer-davis-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — A Date with Judy, Woody Guthrie & Elmer Davis",
