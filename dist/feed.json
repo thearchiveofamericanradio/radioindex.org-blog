@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-524-stan-kenton-beethoven-ninth-under-arrest-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-524-stan-kenton-beethoven-ninth-under-arrest-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Stan Kenton, Beethoven's 9th, and Under Arrest",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 524)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized daytime melodrama metadata, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across progressive big band modern jazz, full classical symphonic masterworks, hard-hitting police procedurals, Canadian mystery theater, early radio comedy-detectives, and serialized romance, Stan Kenton in <em>My World Is Music</em> (1953), Beethoven&#39;s Ninth Symphony on <em>NBC Radio Theater</em> (1959), Joe DeSantis in <em>Under Arrest</em> (1946), <em>The Mystery Project</em> on CBC (2001), <em>Detectives Black and Blue</em> (1931), and <em>Hearts in Harmony</em> (1931–2001):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 524)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Mystery_2001_HilarySpite.mp3</code> <br><em>Alt</em>: <code>The Joke About Hilary Spite</code></td>\n<td><strong>&quot;The Joke About Hilary Spite with CBC Radio Drama&quot;</strong></td>\n<td><strong>CBC Radio</strong><br>2001-09-01</td>\n<td><strong>Sustaining</strong><br>Canadian Mystery</td>\n<td><strong>Canadian Ensemble</strong></td>\n<td><strong>Steve Petch (Writer)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Drama&quot;, &quot;The Mystery Project&quot;, &quot;CBC&quot;, &quot;Canadian&quot;]</code></td>\n<td>A wealthy patriarch&#39;s eccentric will stages an elaborate practical joke that turns deadly when family members compete for the estate.</td>\n</tr>\n<tr>\n<td><code>Kenton_1953_BehindScenes.mp3</code> <br><em>Alt</em>: <code>Behind The Scenes Stan Kenton</code></td>\n<td><strong>&quot;Behind the Scenes with Stan Kenton&quot;</strong></td>\n<td><strong>Syndication</strong><br>1953-09-01</td>\n<td><strong>Sustaining</strong><br>Modern Jazz Series</td>\n<td><strong>Stan Kenton</strong>, <strong>Christy</strong></td>\n<td><strong>Stan Kenton Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Big Band&quot;, &quot;Stan Kenton&quot;, &quot;Progressive Jazz&quot;]</code></td>\n<td>Bandleader Stan Kenton discusses progressive jazz composition techniques and introduces brassy orchestral arrangements of Artistry in Rhythm.</td>\n</tr>\n<tr>\n<td><code>Black_Blue_1931_Diamond.mp3</code> <br><em>Alt</em>: <code>Detectives Black and Blue 1931</code></td>\n<td><strong>&quot;The Case of the Missing Diamond Ring with Jack Smart&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1931-09-01<br>8:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Detective Comedy</td>\n<td><strong>Jack Smart</strong>, <strong>Readick</strong></td>\n<td><strong>CBS Production Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Detective&quot;, &quot;Mystery&quot;, &quot;Black and Blue&quot;, &quot;CBS&quot;]</code></td>\n<td>Two bumbling private investigators attempt to track down a stolen heirloom diamond ring at a society garden party.</td>\n</tr>\n<tr>\n<td><code>NBC_1959_Beethoven9.mp3</code> <br><em>Alt</em>: <code>Symphony #9 ( Beethoven)</code></td>\n<td><strong>&quot;Beethoven&#39;s Symphony No. 9 in D Minor with NBC Symphony&quot;</strong></td>\n<td><strong>NBC (WRCA)</strong><br>1959-09-01<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Classical Symphony</td>\n<td><strong>NBC Symphony Orch.</strong></td>\n<td><strong>Choral Arts Society</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Symphony&quot;, &quot;Beethoven&quot;, &quot;NBC Radio Theater&quot;]</code></td>\n<td>A full broadcast presentation of Ludwig van Beethoven&#39;s Symphony No. 9 in D Minor featuring the climactic Ode to Joy choral finale.</td>\n</tr>\n<tr>\n<td><code>Under_Arrest_1946_NoPlace.mp3</code> <br><em>Alt</em>: <code>No Place To Go Under Arrest</code></td>\n<td><strong>&quot;No Place to Go with Joe DeSantis&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-01<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Joe DeSantis</strong>, <strong>Lynch</strong></td>\n<td><strong>Wynn Wright (Director)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Police&quot;, &quot;Crime&quot;, &quot;Under Arrest&quot;, &quot;Mutual&quot;]</code></td>\n<td>Police Captain John Drake tracks an ex-convict who is hunted down by his former robbery gang after refusing to participate in a bank heist.</td>\n</tr>\n<tr>\n<td><code>Hearts_1947_CapturePenny.mp3</code> <br><em>Alt</em>: <code>Conspirators Capture Penny</code></td>\n<td><strong>&quot;Conspirators Capture Penny (Episode 176) with Jone Allison&quot;</strong></td>\n<td><strong>Syndication</strong><br>1947-09-01</td>\n<td><strong>Kroger Company</strong><br>Kroger Clock Bread</td>\n<td><strong>Jone Allison (Penny)</strong></td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Soap Opera&quot;, &quot;Hearts In Harmony&quot;, &quot;Kroger&quot;]</code><br><em>Arc</em>: <strong>Conspirators Capture Penny (Part 176)</strong></td>\n<td>Penny Ward is lured to a remote country cabin and held captive by corrupt business partners seeking to control her musical career.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 66 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 524 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Stan Kenton",
+        "Progressive Jazz",
+        "NBC Radio Theater",
+        "Beethoven Symphony No 9",
+        "NBC Symphony",
+        "Under Arrest",
+        "Joe DeSantis",
+        "The Mystery Project",
+        "CBC Radio",
+        "Detectives Black and Blue",
+        "Jack Smart",
+        "Hearts in Harmony",
+        "Penny Ward",
+        "Kroger",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-523-the-big-story-fritz-leiber-mischa-elman-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-523-the-big-story-fritz-leiber-mischa-elman-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — The Big Story, Fritz Leiber Sci-Fi, and Mischa Elman",
