@@ -1,0 +1,33 @@
+# Archival Dispatch: August 31 Calendar Walk — Lum & Abner, Bing Crosby, and Popeye
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, Lum and Abner, Chester Lauck, Norris Goff, Alka-Seltzer, Bing Crosby, Rosemary Clooney, Buddy Cole, Popeye the Sailor, Floyd Buckley, Wheatena, Tales of the Texas Rangers, Joel McCrea, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 486)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across Pine Ridge rural Arkansas humor, daytime vocal duet showcases, juvenile comic strip adaptations, and Western police procedurals, Chester Lauck and Norris Goff in three classic *Lum and Abner* broadcasts (1944, 1948), Bing Crosby and Rosemary Clooney with Buddy Cole's trio (1962), Floyd Buckley voicing *Popeye the Sailor* for Wheatena (1936), and Joel McCrea in *Tales of the Texas Rangers* (1936–1962):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 486)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lum_Abner_1944_Charges.mp3` <br>*Alt*: `Telling Lum About Charges` | **"Telling Lum About the Store Charges with Chester Lauck and Norris Goff"** | **NBC Blue (WJZ)**<br>1944-08-31<br>8:15 PM EWT | **Miles Laboratories**<br>Alka-Seltzer / One-A-Day | **Chester Lauck**, **Goff** | **Lauck & Goff (Writers)** | `["Comedy", "Rural", "Lum and Abner", "Alka-Seltzer", "NBC Blue"]` | Abner nervously breaks the news to Lum that local townsfolk have run up unauthorized credit accounts at the Jot 'Em Down Store. |
+| `Lum_Abner_1948_StLouis.mp3` <br>*Alt*: `Abner Calls Lum From St. Louis` | **"Abner Calls Lum from St. Louis with Chester Lauck and Norris Goff"** | **CBS (WCBS)**<br>1948-08-31<br>10:00 PM EDT | **Sustaining**<br>Rural Comedy | **Chester Lauck**, **Goff** | **Lauck & Goff (Writers)** | `["Comedy", "Rural", "Lum and Abner", "Chester Lauck", "CBS"]` | Abner makes a long-distance telephone call from St. Louis to Pine Ridge to update Lum on big-city hotel prices. |
+| `Lum_Abner_1948_NightCall.mp3` <br>*Alt*: `Abner's Middle Of Night Call` | **"Abner's Middle of the Night Call with Chester Lauck and Norris Goff (Master 2)"** | **CBS (WCBS)**<br>1948-08-31<br>10:00 PM EDT | **Sustaining**<br>Rural Comedy | **Chester Lauck**, **Goff** | **Lauck & Goff (Writers)** | `["Comedy", "Rural", "Lum and Abner", "Chester Lauck", "CBS"]` | Lum gets awakened in the middle of the night by an operator connecting another frantic long-distance update from Abner in St. Louis. |
+| `Rangers_1952_Misplaced.mp3` <br>*Alt*: `Misplaced Person Texas Rangers` | **"Misplaced Person with Joel McCrea (Syndicated Remote)"** | **Syndicated Remote**<br>1952-08-31 | **Sustaining**<br>Western Police Drama | **Joel McCrea**, **Ensemble** | **Stacy Keach Sr. (Director)** | `["Western", "Police Procedural", "Joel McCrea", "Texas Rangers", "Syndicated"]` | Texas Ranger Jace Pearson uses forensic ballistics and tyre tracks to clear an innocent ranch hand accused of shooting a cattle foreman. |
+| `Crosby_Clooney_1962_BabyDont.mp3` <br>*Alt*: `Baby Don't You Go Away Mad` | **"Baby, Don't You Go Away Mad with Buddy Cole"** | **CBS (WCBS)**<br>1962-08-31<br>11:30 AM EDT | **Sustaining**<br>Daytime Vocal Show | **Crosby**, **Rosemary Clooney** | **Buddy Cole Trio** | `["Music", "Pop", "Vocal", "Bing Crosby", "Rosemary Clooney"]` | Bing Crosby and Rosemary Clooney sing vocal duets and jazz arrangements including Baby, Don't You Go Away Mad backed by Buddy Cole's trio. |
+| `Popeye_1936_HeroesReturn.mp3` <br>*Alt*: `The Heroes Return Popeye` | **"The Heroes Return with Floyd Buckley and Olive Oyl"** | **CBS (WABC)**<br>1936-08-31<br>7:15 PM EDST | **Wheatena Corp.**<br>Wheatena Cereal | **Floyd Buckley**, **Lamoy** | **Victor Irwin Orchestra** | `["Children", "Comics", "Adventure", "Popeye", "Wheatena"]` | Popeye, Olive Oyl, and Wimpy return home to a hero's welcome in Sweethaven after surviving deep-sea pirate adventures. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 216 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
