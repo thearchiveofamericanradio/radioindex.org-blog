@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-455-greatest-story-henry-morgan-mystery-theater-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-455-greatest-story-henry-morgan-mystery-theater-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Greatest Story, Henry Morgan, and Mystery Theater",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 455)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American biblical drama, comedy satire, U.S. Treasury music showcases, British radio plays, and network mystery theater, Goodyear&#39;s Peabody-winning <em>The Greatest Story Ever Told</em> (1947), Henry Morgan&#39;s sardonic satire on NBC (1949), The Crew Cuts (1952) and Gisele MacKenzie (1958) performing for <em>Guest Star</em>, John Kirkmorris&#39;s <em>The Body in Bixby Slough</em> on BBC Radio 4 (1983), and Alfred Shirley in <em>Murder in the Family</em> on CBS <em>Mystery Theater</em> (1947–1983):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 455)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>30Min_1983_Bixby.mp3</code> <br><em>Alt</em>: <code>The Body in Bixby Slough</code></td>\n<td><strong>&quot;The Body in Bixby Slough by John Kirkmorris&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1983-08-31<br>11:30 AM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>BBC Repertory Co.</strong></td>\n<td><strong>John Kirkmorris (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;British&quot;, &quot;BBC Radio 4&quot;, &quot;Play&quot;]</code></td>\n<td>Local detectives investigate the suspicious discovery of an unidentified body submerged in the marshy waters of Bixby Slough.</td>\n</tr>\n<tr>\n<td><code>Greatest_Story_1947_Matthew.mp3</code> <br><em>Alt</em>: <code>The Calling Of Matthew</code></td>\n<td><strong>&quot;The Calling of Matthew&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1947-08-31<br>6:30 PM EDT</td>\n<td><strong>Goodyear Tire &amp; Rubber</strong><br>Commercial-free format</td>\n<td><strong>Warren Parker</strong>, <strong>Swenson</strong></td>\n<td><strong>Marx Loeb (Director)</strong></td>\n<td><code>[&quot;Religious&quot;, &quot;Drama&quot;, &quot;Biblical&quot;, &quot;Goodyear&quot;, &quot;Classics&quot;]</code></td>\n<td>The dramatic biblical retelling of Jesus calling Matthew the tax collector to abandon worldly wealth and become an apostle.</td>\n</tr>\n<tr>\n<td><code>Morgan_1949_Gadgets.mp3</code> <br><em>Alt</em>: <code>Henry Morgan Show 1949</code></td>\n<td><strong>&quot;Satire on Modern Gadgets and Summertime Vacations&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1949-08-31<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Comedy Satire</td>\n<td><strong>Henry Morgan</strong>, <strong>Stang</strong></td>\n<td><strong>Milton Katims Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Henry Morgan&quot;, &quot;Arnold Stang&quot;, &quot;NBC&quot;]</code></td>\n<td>Henry Morgan delivers sharp satirical monologues and comedy sketches mocking absurd kitchen gadgets and agonizing summer vacations.</td>\n</tr>\n<tr>\n<td><code>Guest_Star_1952_CrewCuts.mp3</code> <br><em>Alt</em>: <code>Guest Crew Cuts 1952</code></td>\n<td><strong>&quot;Guest The Crew Cuts (Treasury Department)&quot;</strong></td>\n<td><strong>Syndicated Treasury</strong><br>1952-08-31</td>\n<td><strong>U.S. Treasury Dept.</strong><br>U.S. Savings Bonds</td>\n<td><strong>The Crew Cuts</strong>, <strong>Sosnik</strong></td>\n<td><strong>Harry Sosnik Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Variety&quot;, &quot;Public Service&quot;, &quot;US Treasury&quot;]</code></td>\n<td>Vocal quartet The Crew Cuts perform upbeat pop harmonies and encourage listeners to invest in U.S. Savings Bonds.</td>\n</tr>\n<tr>\n<td><code>Guest_Star_1958_MacKenzie.mp3</code> <br><em>Alt</em>: <code>Portrait Of A Flirt MacKenzie</code></td>\n<td><strong>&quot;Guest Gisele MacKenzie - Portrait of a Flirt&quot;</strong></td>\n<td><strong>Syndicated Treasury</strong><br>1958-08-31</td>\n<td><strong>U.S. Treasury Dept.</strong><br>U.S. Savings Bonds</td>\n<td><strong>Gisele MacKenzie</strong>, <strong>Sosnik</strong></td>\n<td><strong>Harry Sosnik Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Variety&quot;, &quot;Gisele MacKenzie&quot;, &quot;US Treasury&quot;]</code></td>\n<td>Singer and violinist Gisele MacKenzie performs light classical and pop ballads including Portrait of a Flirt for the U.S. Treasury.</td>\n</tr>\n<tr>\n<td><code>Mystery_1948_Family.mp3</code> <br><em>Alt</em>: <code>Murder in the Family Shirley</code></td>\n<td><strong>&quot;Murder in the Family with Alfred Shirley (CBS)&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-08-31<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Mystery Drama</td>\n<td><strong>Alfred Shirley</strong>, <strong>Voice Cast</strong></td>\n<td><strong>Frank Telford (Director)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Drama&quot;, &quot;Alfred Shirley&quot;, &quot;CBS&quot;]</code></td>\n<td>Inspector Thorne investigates the suspicious poisoning of a wealthy patriarch during a contentious family dinner.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 30 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 455 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "The Greatest Story Ever Told",
+        "Goodyear",
+        "Marx Loeb",
+        "The Henry Morgan Show",
+        "Arnold Stang",
+        "Patsy Kelly",
+        "NBC",
+        "Guest Star",
+        "The Crew Cuts",
+        "Gisele MacKenzie",
+        "US Treasury",
+        "Thirty Minutes to Curtain",
+        "BBC Radio 4",
+        "Mystery Theater",
+        "Alfred Shirley",
+        "CBS",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-454-i-love-a-mystery-call-the-police-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-454-i-love-a-mystery-call-the-police-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — I Love a Mystery and Call the Police",
