@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-580-vincent-price-james-melton-i-love-a-mystery-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-580-vincent-price-james-melton-i-love-a-mystery-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Vincent Price, James Melton & I Love a Mystery",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 580)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across gripping psychological radio theater, classical concert music, serialized cliffhanger adventure serials, Golden Age radio detective mysteries, and pioneering early thirties crime investigations, Vincent Price in Emlyn Williams&#39;s <em>Night Must Fall</em> for Philip Morris (1953), James Melton and Joan Roberts for Texaco (1945), Carlton E. Morse&#39;s <em>I Love a Mystery</em> (1943), <em>The Avenger</em> (1941), <em>Hollywood Mystery Time</em> (1945), and <em>Eno Crime Clues</em> (1931–1953):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 580)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>PM_1953_NightMustFall.mp3</code> <br><em>Alt</em>: <code>The Philip Morris Playhouse 1953 Episode</code></td>\n<td><strong>&quot;Night Must Fall with Vincent Price and Philip Morris&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1953-09-02<br>9:00 PM EDT</td>\n<td><strong>Philip Morris &amp; Co.</strong><br>Philip Morris Cigarettes</td>\n<td><strong>Vincent Price (Dan)</strong></td>\n<td><strong>Emlyn Williams (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Thriller&quot;, &quot;Philip Morris Playhouse&quot;, &quot;Vincent Price&quot;, &quot;Philip Morris&quot;]</code></td>\n<td>A charming young bellhop ingratiates himself with a wealthy invalid widow while harboring a sinister secret in his luggage.</td>\n</tr>\n<tr>\n<td><code>Melton_1945_SummerConcert.mp3</code> <br><em>Alt</em>: <code>The James Melton Show 1945 Episode</code></td>\n<td><strong>&quot;Summer Concert with James Melton, Joan Roberts, and Texaco&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-09-02<br>9:30 PM EWT</td>\n<td><strong>The Texas Company</strong><br>Texaco Fire-Chief Gas</td>\n<td><strong>James Melton</strong>, <strong>Roberts</strong></td>\n<td><strong>Al Goodman Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Concert&quot;, &quot;Operetta&quot;, &quot;James Melton&quot;, &quot;Texaco&quot;]</code></td>\n<td>James Melton and Broadway soprano Joan Roberts perform romantic operetta duets and American popular standards.</td>\n</tr>\n<tr>\n<td><code>ILAM_1943_JeffersonMonk4.mp3</code> <br><em>Alt</em>: <code>The Decapitation of Jefferson Monk - Part 4</code></td>\n<td><strong>&quot;The Decapitation of Jefferson Monk (Part 4) with Carlton E. Morse&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1943-09-02<br>7:00 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Ivory Soap &amp; Oxydol</td>\n<td><strong>Michael Raffetto</strong>, <strong>Yarborough</strong></td>\n<td><strong>Carlton E. Morse (Writer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;I Love A Mystery&quot;, &quot;Carlton E Morse&quot;, &quot;Ivory&quot;]</code></td>\n<td>Jack Packard and Doc Long search the secret underground passages beneath Jefferson Monk&#39;s eccentric estate as midnight approaches.</td>\n</tr>\n<tr>\n<td><code>Avenger_1941_MurderedGhost.mp3</code> <br><em>Alt</em>: <code>The Avenger 1941 Episode</code></td>\n<td><strong>&quot;The Mystery of the Murdered Ghost with James Monks and Syndication&quot;</strong></td>\n<td><strong>Syndication</strong><br>1941-09-02</td>\n<td><strong>Sustaining</strong><br>Pulp Action Mystery</td>\n<td><strong>James Monks (Brandon)</strong></td>\n<td><strong>Helen Adamson (Fern)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Pulp&quot;, &quot;Action&quot;, &quot;The Avenger&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Jim Brandon utilizes telepathic gadgets and his secret laboratory to investigate an apparent spirit haunting an eccentric millionaire&#39;s mansion.</td>\n</tr>\n<tr>\n<td><code>Mystery_Time_1945_PaintedMask.mp3</code> <br><em>Alt</em>: <code>Hollywood Mystery Time 1945 Episode</code></td>\n<td><strong>&quot;The Case of the Painted Mask with Carlton KaDell and Woodbury Soap&quot;</strong></td>\n<td><strong>ABC / Blue</strong><br>1945-09-02<br>8:30 PM EWT</td>\n<td><strong>Andrew Jergens Co.</strong><br>Woodbury Facial Soap</td>\n<td><strong>Carlton KaDell</strong>, <strong>Blondell</strong></td>\n<td><strong>Woodbury Radio Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Hollywood Mystery Time&quot;, &quot;Gloria Blondell&quot;, &quot;Woodbury&quot;]</code></td>\n<td>Amateur sleuth Jim West and movie columnist Patsy Larson investigate the theatrical murder of a costume designer backstage during a movie premiere.</td>\n</tr>\n<tr>\n<td><code>Eno_1931_BrokenKey.mp3</code> <br><em>Alt</em>: <code>Episode 18 Eno Crime Clues</code></td>\n<td><strong>&quot;The Clue of the Broken Key with Edward Reese and Eno Fruit Salt&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1931-09-02<br>9:30 PM EDST</td>\n<td><strong>Harold F. Ritchie</strong><br>Eno Fruit Salt</td>\n<td><strong>Edward Reese (Spencer)</strong></td>\n<td><strong>Stewart Sterling (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Eno Crime Clues&quot;, &quot;Stewart Sterling&quot;, &quot;Eno&quot;]</code></td>\n<td>Inspector Dan Spencer pieces together physical clues left at an estate library break-in involving a snapped brass skeleton key.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 92 / 480 (388 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 580 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Philip Morris Playhouse",
+        "Vincent Price",
+        "Emlyn Williams",
+        "Night Must Fall",
+        "Philip Morris",
+        "The James Melton Show",
+        "Joan Roberts",
+        "Texaco",
+        "I Love a Mystery",
+        "Carlton E Morse",
+        "Jack Packard",
+        "Doc Long",
+        "The Avenger",
+        "James Monks",
+        "Hollywood Mystery Time",
+        "Woodbury Soap",
+        "Eno Crime Clues",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-579-bing-crosby-premiere-paul-harvey-candid-microphone-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-579-bing-crosby-premiere-paul-harvey-candid-microphone-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Bing Crosby Premiere, Paul Harvey, and Allen Funt",
