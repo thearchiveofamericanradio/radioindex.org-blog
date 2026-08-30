@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Everett Sloane, Bing Crosby & FDR
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, 21st Precinct, Everett Sloane, Ken Lynch, John Meston, General Electric Program, Bing Crosby, Ken Carpenter, John Scott Trotter, FDR Fireside Chats, Franklin D Roosevelt, Outbreak of War, Neutrality, International Student Assembly, The Good Word, Ralph Sockman, CBS World News Today, Liberation of Brussels, Douglas Edwards, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 693)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across hard-hitting New York police precinct procedurals penned by John Meston, smooth variety comedy with Bing Crosby for General Electric, historic Oval Office fireside chats and international student addresses by President Roosevelt, uplifting devotional philosophy, and breaking battlefield news of the liberation of Brussels, Everett Sloane in *21st Precinct* (1955), Bing Crosby (1953), President Franklin D. Roosevelt (1939, 1942), Dr. Ralph Sockman (1947), and Douglas Edwards on CBS (1939–1955):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 693)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `21stPrecinct_1955_CoffeeBreak.mp3` <br>*Alt*: `The Coffee Break Twenty First Precinct (21st Precinct)` | **"The Coffee Break with Everett Sloane as Captain Kennelly"** | **CBS (WCBS)**<br>1955-09-03<br>8:30 PM EDT | **Sustaining**<br>Police Procedural | **Everett Sloane (Kennelly)** | **Ken Lynch & Meston** | `["Police", "Drama", "21st Precinct", "Everett Sloane", "CBS"]` | Captain Kennelly investigates an armed diner robbery where an off-duty patrolman was shot while taking an evening coffee break. |
+| `BingCrosby_1953_BankReward.mp3` <br>*Alt*: `At the Bank to Collect 1000 Dollar Reward General Electric Program` | **"At the Bank to Collect $1,000 Reward with Bing Crosby and GE"** | **CBS (KNX)**<br>1953-09-03<br>9:30 PM EDT | **General Electric**<br>GE Radios & Appliances | **Bing Crosby (Host)** | **Ken Carpenter & Trotter** | `["Music", "Variety", "Bing Crosby", "General Electric", "Ken Carpenter"]` | Bing Crosby trades humorous banter with Ken Carpenter about collecting a reward check before singing hit pop tunes and classic melodies. |
+| `FDR_1939_OutbreakFireside.mp3` <br>*Alt*: `Fireside: On the European War FDR Fireside Chat` | **"Fireside Chat on the Outbreak of War and Neutrality with FDR"** | **Combined Networks**<br>1939-09-03<br>10:00 PM EDST | **Sustaining**<br>Presidential Address | **President FDR** | **White House Staff** | `["Speech", "WWII", "FDR", "Fireside Chat", "President"]` | President Franklin D. Roosevelt addresses the nation from the Oval Office outlining national security measures and American neutrality upon the outbreak of war in Europe. |
+| `FDR_1942_StudentAssemblyRelay.mp3` <br>*Alt*: `The President Addresses the International Student Assembly FDR Fireside Chat` | **"Address to the International Student Assembly with FDR"** | **Combined Networks**<br>1942-09-03<br>9:30 PM EWT | **Sustaining**<br>Presidential Address | **President FDR** | **International Youth Staff** | `["Speech", "WWII", "FDR", "International Student Assembly", "Youth"]` | President Franklin D. Roosevelt addresses international student delegates on the global struggle for democratic freedom and democratic post-war reconstruction. |
+| `GoodWord_1947_SockmanDevotion.mp3` <br>*Alt*: `The Good Word 1947 Episode` | **"Faith and Compassion in the Modern World with Dr. Ralph Sockman"** | **NBC (WEAF)**<br>1947-09-03 | **Sustaining**<br>Religious Broadcast | **Dr. Ralph Sockman** | **NBC Religious Staff** | `["Religion", "Inspirational", "The Good Word", "Ralph Sockman", "NBC"]` | Dr. Ralph Sockman delivers an inspiring devotional message on maintaining personal integrity and spiritual compassion amid post-war urban pressures. |
+| `CBSNews_1944_BrusselsSpearhead.mp3` <br>*Alt*: `World News Today News Broadcasts` | **"Allied Spearhead Liberates Brussels on CBS World News Today"** | **CBS (WABC)**<br>1944-09-03<br>2:30 PM EWT | **Sustaining**<br>Wartime News Special | **Douglas Edwards (Anchor)** | **Charles Collingwood** | `["News", "WWII", "CBS News", "Douglas Edwards", "Liberation"]` | Douglas Edwards reports breaking news of the British Second Army liberating Brussels and advancing rapidly toward Antwerp. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 349 / 469 (120 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

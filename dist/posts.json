@@ -6,6 +6,38 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-692-the-lone-ranger-series-finale-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-692-the-lone-ranger-series-finale-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — The Lone Ranger Series Finale & Golden Age Arcs",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 692)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across six landmark episodes of <em>The Lone Ranger</em> starring Brace Beemer and John Todd, highlighted by the historic <strong>final original live studio broadcast</strong> of the legendary 21-year radio series (<em>Cold Spring Showdown</em> on September 3, 1954), alongside classic wartime and post-war adventures for General Mills (1943–1954):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 692)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>LoneRanger_1943_StageDodgeCity.mp3</code> <br><em>Alt</em>: <code>The Stage to Dodge City Lone Ranger</code></td>\n<td><strong>&quot;The Stage to Dodge City with Brace Beemer as The Lone Ranger&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1943-09-03<br>7:30 PM EWT</td>\n<td><strong>General Mills</strong><br>Kix Cereal</td>\n<td><strong>Brace Beemer (Ranger)</strong></td>\n<td><strong>John Todd &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Kix&quot;]</code></td>\n<td>The Lone Ranger guards an overland stagecoach carrying gold shipment payrolls across dangerous outlaw territory to Dodge City.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1945_Restitution.mp3</code> <br><em>Alt</em>: <code>Restitution Lone Ranger</code></td>\n<td><strong>&quot;Restitution on V-J Day with Brace Beemer as The Lone Ranger&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1945-09-03<br>7:30 PM EWT</td>\n<td><strong>General Mills</strong><br>Cheerios Cereal</td>\n<td><strong>Brace Beemer (Ranger)</strong></td>\n<td><strong>John Todd &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Cheerios&quot;]</code></td>\n<td>A reformed safecracker seeks to return stolen bank funds anonymously while dodging former outlaw partners intent on keeping the loot.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1947_FrontierJudge.mp3</code> <br><em>Alt</em>: <code>Frontier Town Judge Lone Ranger</code></td>\n<td><strong>&quot;Frontier Town Judge with Brace Beemer as The Lone Ranger&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1947-09-03<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios Cereal</td>\n<td><strong>Brace Beemer (Ranger)</strong></td>\n<td><strong>John Todd &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Cheerios&quot;]</code></td>\n<td>The masked rider helps an uncompromising frontier circuit judge establish legitimate civil law in a rowdy cattle boomtown.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1951_AceTwoKind.mp3</code> <br><em>Alt</em>: <code>Ace and Two of a Kind Lone Ranger</code></td>\n<td><strong>&quot;Ace and Two of a Kind with Brace Beemer as The Lone Ranger&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1951-09-03<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios &amp; Wheaties</td>\n<td><strong>Brace Beemer (Ranger)</strong></td>\n<td><strong>John Todd &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Cheerios&quot;]</code></td>\n<td>The Lone Ranger exposes a card-sharping ring that uses marked poker decks to swindle local ranchers out of their land deeds.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1952_LoneCedar.mp3</code> <br><em>Alt</em>: <code>Lone Cedar Lone Ranger</code></td>\n<td><strong>&quot;Lone Cedar with Brace Beemer as The Lone Ranger&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1952-09-03<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios Cereal</td>\n<td><strong>Brace Beemer (Ranger)</strong></td>\n<td><strong>John Todd &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Cheerios&quot;]</code></td>\n<td>Tonto and the Lone Ranger investigate an ambush at the landmark Lone Cedar pass where homesteaders were attacked by masked marauders.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1954_ColdSpringFinale.mp3</code> <br><em>Alt</em>: <code>Cold Spring Showdown (Last Original &#39;Live&#39; Broadcast) Lone Ranger</code></td>\n<td><strong>&quot;Cold Spring Showdown (Final Live Broadcast) with Brace Beemer&quot;</strong></td>\n<td><strong>ABC (WXYZ/WJZ)</strong><br>1954-09-03<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios Cereal</td>\n<td><strong>Brace Beemer (Ranger)</strong></td>\n<td><strong>John Todd &amp; Fred Foy</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Fred Foy&quot;]</code></td>\n<td>The Lone Ranger corners a notorious outlaw gang at Cold Spring in the historic final live studio broadcast of the classic radio series.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 343 / 469 (126 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 692 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Lone Ranger",
+        "Brace Beemer",
+        "John Todd",
+        "Fred Foy",
+        "Fran Striker",
+        "General Mills",
+        "Cheerios",
+        "Wheaties",
+        "Kix",
+        "Cold Spring Showdown",
+        "Series Finale",
+        "Historic Radio Milestones",
+        "V-J Day",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-691-the-lone-ranger-eddie-cantor-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-691-the-lone-ranger-eddie-cantor-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — The Lone Ranger & Eddie Cantor",

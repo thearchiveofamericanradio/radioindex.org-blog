@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — The Lone Ranger Series Finale & Golden Age Arcs
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, The Lone Ranger, Brace Beemer, John Todd, Fred Foy, Fran Striker, General Mills, Cheerios, Wheaties, Kix, Cold Spring Showdown, Series Finale, Historic Radio Milestones, V-J Day, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 692)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across six landmark episodes of *The Lone Ranger* starring Brace Beemer and John Todd, highlighted by the historic **final original live studio broadcast** of the legendary 21-year radio series (*Cold Spring Showdown* on September 3, 1954), alongside classic wartime and post-war adventures for General Mills (1943–1954):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 692)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `LoneRanger_1943_StageDodgeCity.mp3` <br>*Alt*: `The Stage to Dodge City Lone Ranger` | **"The Stage to Dodge City with Brace Beemer as The Lone Ranger"** | **Blue Network**<br>1943-09-03<br>7:30 PM EWT | **General Mills**<br>Kix Cereal | **Brace Beemer (Ranger)** | **John Todd & Striker** | `["Western", "Adventure", "The Lone Ranger", "Brace Beemer", "Kix"]` | The Lone Ranger guards an overland stagecoach carrying gold shipment payrolls across dangerous outlaw territory to Dodge City. |
+| `LoneRanger_1945_Restitution.mp3` <br>*Alt*: `Restitution Lone Ranger` | **"Restitution on V-J Day with Brace Beemer as The Lone Ranger"** | **ABC (WJZ)**<br>1945-09-03<br>7:30 PM EWT | **General Mills**<br>Cheerios Cereal | **Brace Beemer (Ranger)** | **John Todd & Striker** | `["Western", "Adventure", "The Lone Ranger", "Brace Beemer", "Cheerios"]` | A reformed safecracker seeks to return stolen bank funds anonymously while dodging former outlaw partners intent on keeping the loot. |
+| `LoneRanger_1947_FrontierJudge.mp3` <br>*Alt*: `Frontier Town Judge Lone Ranger` | **"Frontier Town Judge with Brace Beemer as The Lone Ranger"** | **ABC (WJZ)**<br>1947-09-03<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Brace Beemer (Ranger)** | **John Todd & Striker** | `["Western", "Adventure", "The Lone Ranger", "Brace Beemer", "Cheerios"]` | The masked rider helps an uncompromising frontier circuit judge establish legitimate civil law in a rowdy cattle boomtown. |
+| `LoneRanger_1951_AceTwoKind.mp3` <br>*Alt*: `Ace and Two of a Kind Lone Ranger` | **"Ace and Two of a Kind with Brace Beemer as The Lone Ranger"** | **ABC (WJZ)**<br>1951-09-03<br>7:30 PM EDT | **General Mills**<br>Cheerios & Wheaties | **Brace Beemer (Ranger)** | **John Todd & Striker** | `["Western", "Adventure", "The Lone Ranger", "Brace Beemer", "Cheerios"]` | The Lone Ranger exposes a card-sharping ring that uses marked poker decks to swindle local ranchers out of their land deeds. |
+| `LoneRanger_1952_LoneCedar.mp3` <br>*Alt*: `Lone Cedar Lone Ranger` | **"Lone Cedar with Brace Beemer as The Lone Ranger"** | **ABC (WJZ)**<br>1952-09-03<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Brace Beemer (Ranger)** | **John Todd & Striker** | `["Western", "Adventure", "The Lone Ranger", "Brace Beemer", "Cheerios"]` | Tonto and the Lone Ranger investigate an ambush at the landmark Lone Cedar pass where homesteaders were attacked by masked marauders. |
+| `LoneRanger_1954_ColdSpringFinale.mp3` <br>*Alt*: `Cold Spring Showdown (Last Original 'Live' Broadcast) Lone Ranger` | **"Cold Spring Showdown (Final Live Broadcast) with Brace Beemer"** | **ABC (WXYZ/WJZ)**<br>1954-09-03<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Brace Beemer (Ranger)** | **John Todd & Fred Foy** | `["Western", "Adventure", "The Lone Ranger", "Brace Beemer", "Fred Foy"]` | The Lone Ranger corners a notorious outlaw gang at Cold Spring in the historic final live studio broadcast of the classic radio series. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 343 / 469 (126 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
