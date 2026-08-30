@@ -1,0 +1,33 @@
+# Archival Dispatch: September 2 Calendar Walk — Bulldog Drummond, Silver Eagle & Treasure Hour of Song
+
+**Date**: 2026-09-02  
+**Author**: radio index  
+**Tags**: September 2, Calendar Walk, Bulldog Drummond, Ned Wever, Mutual, The Silver Eagle, Jim Ameche, Cheerios, General Mills, Treasure Hour of Song, Licia Albanese, Jan Peerce, Alfredo Antonini, Conti Shampoo, Strange As It Seems, John Hix, Palmolive Soap, My Name Is Adam Kane, Anthony Fridjhon, Springbok Radio, Alternate Titles, Original Filenames
+
+---
+
+## September 2 Archival Metadata Enrichment (Increment 597)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across classic British crime sleuth adventures, Canadian Mountie action serials, Metropolitan Opera concert broadcasts, historical oddity dramatizations, and South African private investigator thrillers, Ned Wever as *Bulldog Drummond* (1946), Jim Ameche in *The Silver Eagle* for Cheerios (1952, 1954), Licia Albanese and Jan Peerce on *The Treasure Hour of Song* for Conti (1943), John Hix's *Strange As It Seems* (1936), and *My Name Is Adam Kane* (1936–1972):
+
+---
+
+## 1. *September 2 Archival Inventory (Increment 597)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Drummond_1946_BlackDeath.mp3` <br>*Alt*: `Black Death Bulldog Drummond` | **"Black Death with Ned Wever and Mutual"** | **Mutual (WOR)**<br>1946-09-02<br>8:00 PM EDT | **Sustaining**<br>British Sleuth Mystery | **Ned Wever (Drummond)** | **Luis Van Rooten (Denny)** | `["Detective", "Mystery", "Bulldog Drummond", "Ned Wever", "Mutual"]` | Captain Hugh Drummond races to intercept an escaped biological warfare scientist threatening to release a virulent plague into London's water supply. |
+| `Silver_Eagle_1952_StolenUranium.mp3` <br>*Alt*: `The Silver Eagle 1952 Episode` | **"The Stolen Uranium with Jim Ameche and General Mills"** | **ABC (WJZ)**<br>1952-09-02<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Jim Ameche (Jim West)** | **Jack Lester (Joe Breen)** | `["Adventure", "Western", "Mounties", "Silver Eagle", "Cheerios"]` | Canadian Mountie Jim West pursues international saboteurs hijacking radioactive pitchblende ore from a remote Northwest Territories refinery. |
+| `Silver_Eagle_1954_ClaimJumpers.mp3` <br>*Alt*: `The Silver Eagle 1954 Episode` | **"Timberland Claim Jumpers with Jim Ameche and General Mills"** | **ABC (WABC)**<br>1954-09-02<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Jim Ameche**, **Lester** | **ABC Adventure Staff** | `["Adventure", "Western", "Mounties", "Silver Eagle", "Cheerios"]` | Jim West and his trail companion Joe Breen defend an independent timber surveyor from armed squatters falsifying logging boundaries. |
+| `Treasure_1943_AlbanesePeerce.mp3` <br>*Alt*: `Treasure Hour Of Song 1943 Episode` | **"Licia Albanese and Jan Peerce on Treasure Hour of Song"** | **Mutual (WOR)**<br>1943-09-02<br>9:30 PM EWT | **Conti Products Corp.**<br>Conti Castile Shampoo | **Licia Albanese**, **Peerce** | **Alfredo Antonini Orch.** | `["Music", "Classical", "Opera", "Treasure Hour Of Song", "Conti"]` | Metropolitan Opera stars Licia Albanese and Jan Peerce perform operatic arias and Neapolitan duets with the Conti Concert Orchestra. |
+| `Strange_1936_75YearSoup.mp3` <br>*Alt*: `The 75-Year Old Soup Strange As It Seems` | **"The 75-Year-Old Soup with John Hix and Palmolive Soap"** | **CBS (WABC)**<br>1936-09-02<br>8:30 PM EDST | **Colgate-Palmolive**<br>Palmolive Shave Cream | **John Hix (Host)** | **Strange As It Seems Unit** | `["History", "Oddities", "Strange As It Seems", "John Hix", "Palmolive"]` | John Hix presents dramatized historical oddities including a French restaurant's perpetually simmering broth kettle maintained across three generations. |
+| `Adam_Kane_1972_HealthyWayDie.mp3` <br>*Alt*: `A Healthy Way to Die My Name Is Adam Kane` | **"A Healthy Way to Die with Dramatic Crime Cast"** | **Springbok Radio (SABC)**<br>1972-09-02 | **Commercial Sponsors**<br>Detective Drama | **Dramatic Voice Cast** | **Anthony Fridjhon (Author)** | `["Detective", "Mystery", "Adam Kane", "Springbok Radio", "South Africa"]` | Private investigator Adam Kane investigates a luxury health spa where wealthy heart patients mysteriously suffer fatal exercise relapses. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 194 / 480 (286 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

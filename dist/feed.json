@@ -6,6 +6,78 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-598-steve-canyon-herbert-marshall-graham-kennedy-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-598-steve-canyon-herbert-marshall-graham-kennedy-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Steve Canyon, Herbert Marshall & Graham Kennedy",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 598)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic comic strip aviation serials, cigarette-sponsored suspense anthologies, Australian radio comedy plays, historical wartime news dispatches, and beauty pageant forums, Barry Sullivan as <em>Steve Canyon</em> (1948), Herbert Marshall on <em>The Old Gold Show</em> (1942), Graham Kennedy on 3DB Melbourne (1979), Edward R. Murrow and Eric Sevareid reporting from London (1940), and Nazi Berlin shortwave propaganda (1939–1979):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 598)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Canyon_1948_FortuneRubies.mp3</code> <br><em>Alt</em>: <code>Steve Canyon - Fortune of Rubies</code></td>\n<td><strong>&quot;The Fortune of Rubies with Barry Sullivan as Steve Canyon&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-09-02<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Aviation Adventure</td>\n<td><strong>Barry Sullivan (Canyon)</strong></td>\n<td><strong>Milton Caniff (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Aviation&quot;, &quot;Steve Canyon&quot;, &quot;Barry Sullivan&quot;, &quot;ABC&quot;]</code></td>\n<td>Air cargo pilot Steve Canyon flies a chartered transport plane into Burma and evades guerilla bandits seeking a hidden cache of uncut rubies.</td>\n</tr>\n<tr>\n<td><code>Old_Gold_1942_SierraVisitors.mp3</code> <br><em>Alt</em>: <code>Visitors on a Late Sierra Afternoon</code></td>\n<td><strong>&quot;Visitors on a Late Sierra Afternoon with Herbert Marshall&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1942-09-02<br>8:00 PM EWT</td>\n<td><strong>P. Lorillard Co.</strong><br>Old Gold Cigarettes</td>\n<td><strong>Herbert Marshall (Host)</strong></td>\n<td><strong>CBS Drama Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Old Gold Show&quot;, &quot;Herbert Marshall&quot;, &quot;CBS&quot;]</code></td>\n<td>A reclusive landscape painter living in a Sierra Nevada cabin receives unexpected stranded travelers harboring a dark criminal secret.</td>\n</tr>\n<tr>\n<td><code>Kennedy_1979_ChocolateMilkman.mp3</code> <br><em>Alt</em>: <code>The Chocolate Milkman Graham Kennedy</code></td>\n<td><strong>&quot;The Chocolate Milkman with Graham Kennedy on 3DB Melbourne&quot;</strong></td>\n<td><strong>3DB Melbourne</strong><br>1979-09-02</td>\n<td><strong>Commercial Sponsors</strong><br>Australian Comedy</td>\n<td><strong>Graham Kennedy (Star)</strong></td>\n<td><strong>3DB Repertory Unit</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Australian&quot;, &quot;Radio Playhouse&quot;, &quot;Graham Kennedy&quot;, &quot;3DB&quot;]</code></td>\n<td>A suburban delivery driver causes domestic mayhem when he accidentally distributes flavored milk beverages spiked with potent liqueur.</td>\n</tr>\n<tr>\n<td><code>WWII_1939_NaziPropagandaPoland.mp3</code> <br><em>Alt</em>: <code>Rrg Nazi Radio Defends German Invasion Of Poland</code></td>\n<td><strong>&quot;Nazi German State Radio Propaganda on Invasion of Poland&quot;</strong></td>\n<td><strong>RRG Berlin</strong><br>1939-09-02</td>\n<td><strong>Sustaining</strong><br>Historical Broadcast</td>\n<td><strong>State Radio Announcers</strong></td>\n<td><strong>Reichs-Rundfunk Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;Propaganda&quot;, &quot;Shortwave&quot;]</code></td>\n<td>Berlin shortwave announcers broadcast official regime communiqués attempting to justify the military invasion of Poland to foreign listeners.</td>\n</tr>\n<tr>\n<td><code>Murrow_1940_CBSNewsRoundup.mp3</code> <br><em>Alt</em>: <code>CBS European News WWII News</code></td>\n<td><strong>&quot;CBS European News Roundup with Edward R. Murrow and Sevareid&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-02<br>6:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>Wartime News</td>\n<td><strong>Edward R. Murrow</strong>, <strong>Sevareid</strong></td>\n<td><strong>Bob Trout (Anchor)</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;Edward R Murrow&quot;, &quot;CBS&quot;]</code></td>\n<td>CBS correspondents analyze British air defenses, Axis naval maneuvers, and the United States destroyers-for-bases diplomatic negotiations.</td>\n</tr>\n<tr>\n<td><code>Singles_1947_MissAmericaDebate.mp3</code> <br><em>Alt</em>: <code>Beauty Vs Brains - Miss America Contestants</code></td>\n<td><strong>&quot;Beauty vs. Brains with Miss America Contestants&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-09-02<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Discussion</td>\n<td><strong>Pageant Contestants</strong></td>\n<td><strong>Mutual Special Events</strong></td>\n<td><code>[&quot;Talk&quot;, &quot;Discussion&quot;, &quot;Interview&quot;, &quot;Miss America&quot;, &quot;Mutual&quot;]</code></td>\n<td>Pageant contestants and college debaters engage in a live round-table discussion examining post-war career opportunities for women.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 200 / 480 (280 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 598 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Steve Canyon",
+        "Milton Caniff",
+        "Barry Sullivan",
+        "ABC",
+        "The Old Gold Show",
+        "Herbert Marshall",
+        "Old Gold",
+        "Graham Kennedy",
+        "3DB Melbourne",
+        "Australian Radio",
+        "World War II News",
+        "Edward R Murrow",
+        "Eric Sevareid",
+        "Nazi Propaganda",
+        "Poland Invasion",
+        "Miss America",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-597-bulldog-drummond-silver-eagle-treasure-hour-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-597-bulldog-drummond-silver-eagle-treasure-hour-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Bulldog Drummond, Silver Eagle & Treasure Hour of Song",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 597)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic British crime sleuth adventures, Canadian Mountie action serials, Metropolitan Opera concert broadcasts, historical oddity dramatizations, and South African private investigator thrillers, Ned Wever as <em>Bulldog Drummond</em> (1946), Jim Ameche in <em>The Silver Eagle</em> for Cheerios (1952, 1954), Licia Albanese and Jan Peerce on <em>The Treasure Hour of Song</em> for Conti (1943), John Hix&#39;s <em>Strange As It Seems</em> (1936), and <em>My Name Is Adam Kane</em> (1936–1972):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 597)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Drummond_1946_BlackDeath.mp3</code> <br><em>Alt</em>: <code>Black Death Bulldog Drummond</code></td>\n<td><strong>&quot;Black Death with Ned Wever and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-02<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>British Sleuth Mystery</td>\n<td><strong>Ned Wever (Drummond)</strong></td>\n<td><strong>Luis Van Rooten (Denny)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Bulldog Drummond&quot;, &quot;Ned Wever&quot;, &quot;Mutual&quot;]</code></td>\n<td>Captain Hugh Drummond races to intercept an escaped biological warfare scientist threatening to release a virulent plague into London&#39;s water supply.</td>\n</tr>\n<tr>\n<td><code>Silver_Eagle_1952_StolenUranium.mp3</code> <br><em>Alt</em>: <code>The Silver Eagle 1952 Episode</code></td>\n<td><strong>&quot;The Stolen Uranium with Jim Ameche and General Mills&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1952-09-02<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios Cereal</td>\n<td><strong>Jim Ameche (Jim West)</strong></td>\n<td><strong>Jack Lester (Joe Breen)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Western&quot;, &quot;Mounties&quot;, &quot;Silver Eagle&quot;, &quot;Cheerios&quot;]</code></td>\n<td>Canadian Mountie Jim West pursues international saboteurs hijacking radioactive pitchblende ore from a remote Northwest Territories refinery.</td>\n</tr>\n<tr>\n<td><code>Silver_Eagle_1954_ClaimJumpers.mp3</code> <br><em>Alt</em>: <code>The Silver Eagle 1954 Episode</code></td>\n<td><strong>&quot;Timberland Claim Jumpers with Jim Ameche and General Mills&quot;</strong></td>\n<td><strong>ABC (WABC)</strong><br>1954-09-02<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios Cereal</td>\n<td><strong>Jim Ameche</strong>, <strong>Lester</strong></td>\n<td><strong>ABC Adventure Staff</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Western&quot;, &quot;Mounties&quot;, &quot;Silver Eagle&quot;, &quot;Cheerios&quot;]</code></td>\n<td>Jim West and his trail companion Joe Breen defend an independent timber surveyor from armed squatters falsifying logging boundaries.</td>\n</tr>\n<tr>\n<td><code>Treasure_1943_AlbanesePeerce.mp3</code> <br><em>Alt</em>: <code>Treasure Hour Of Song 1943 Episode</code></td>\n<td><strong>&quot;Licia Albanese and Jan Peerce on Treasure Hour of Song&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1943-09-02<br>9:30 PM EWT</td>\n<td><strong>Conti Products Corp.</strong><br>Conti Castile Shampoo</td>\n<td><strong>Licia Albanese</strong>, <strong>Peerce</strong></td>\n<td><strong>Alfredo Antonini Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Opera&quot;, &quot;Treasure Hour Of Song&quot;, &quot;Conti&quot;]</code></td>\n<td>Metropolitan Opera stars Licia Albanese and Jan Peerce perform operatic arias and Neapolitan duets with the Conti Concert Orchestra.</td>\n</tr>\n<tr>\n<td><code>Strange_1936_75YearSoup.mp3</code> <br><em>Alt</em>: <code>The 75-Year Old Soup Strange As It Seems</code></td>\n<td><strong>&quot;The 75-Year-Old Soup with John Hix and Palmolive Soap&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1936-09-02<br>8:30 PM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Shave Cream</td>\n<td><strong>John Hix (Host)</strong></td>\n<td><strong>Strange As It Seems Unit</strong></td>\n<td><code>[&quot;History&quot;, &quot;Oddities&quot;, &quot;Strange As It Seems&quot;, &quot;John Hix&quot;, &quot;Palmolive&quot;]</code></td>\n<td>John Hix presents dramatized historical oddities including a French restaurant&#39;s perpetually simmering broth kettle maintained across three generations.</td>\n</tr>\n<tr>\n<td><code>Adam_Kane_1972_HealthyWayDie.mp3</code> <br><em>Alt</em>: <code>A Healthy Way to Die My Name Is Adam Kane</code></td>\n<td><strong>&quot;A Healthy Way to Die with Dramatic Crime Cast&quot;</strong></td>\n<td><strong>Springbok Radio (SABC)</strong><br>1972-09-02</td>\n<td><strong>Commercial Sponsors</strong><br>Detective Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Anthony Fridjhon (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Adam Kane&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>Private investigator Adam Kane investigates a luxury health spa where wealthy heart patients mysteriously suffer fatal exercise relapses.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 194 / 480 (286 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 597 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Bulldog Drummond",
+        "Ned Wever",
+        "Mutual",
+        "The Silver Eagle",
+        "Jim Ameche",
+        "Cheerios",
+        "General Mills",
+        "Treasure Hour of Song",
+        "Licia Albanese",
+        "Jan Peerce",
+        "Alfredo Antonini",
+        "Conti Shampoo",
+        "Strange As It Seems",
+        "John Hix",
+        "Palmolive Soap",
+        "My Name Is Adam Kane",
+        "Anthony Fridjhon",
+        "Springbok Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-596-joel-mccrea-true-detective-chickenman-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-596-joel-mccrea-true-detective-chickenman-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Joel McCrea, True Detective & Chickenman",
