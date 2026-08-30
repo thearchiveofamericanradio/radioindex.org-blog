@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-481-edward-r-murrow-mr-and-mrs-north-norman-corwin-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-481-edward-r-murrow-mr-and-mrs-north-norman-corwin-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Edward R. Murrow, Mr. & Mrs. North, and Norman Corwin",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 481)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across wartime frontline foreign correspondence, lighthearted married detective mysteries, Norman Corwin BBC/CBS wartime docudramas, grand jury crime procedurals, and literary review panels, Edward R. Murrow and William L. Shirer comparing blitzkrieg raids over London and Berlin (1940), Alice Frost and Joseph Curtin in <em>Mr. and Mrs. North</em> for Colgate (1948), Norman Corwin and Bernard Herrmann&#39;s <em>An American in England</em> (1942), Nat Polen in <em>Indictment</em> (1958), and Budd Schulberg discussing <em>The Disenchanted</em> (1940–1964):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 481)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Theater_Five_1964_Scream2.mp3</code> <br><em>Alt</em>: <code>The Scream Theater Five</code></td>\n<td><strong>&quot;The Scream with ABC Radio Drama (Network Master 2)&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1964-08-31</td>\n<td><strong>Sustaining</strong><br>Audio Suspense Drama</td>\n<td><strong>ABC Repertory Company</strong></td>\n<td><strong>Ted Bell (Director)</strong></td>\n<td><code>[&quot;Suspense&quot;, &quot;Thriller&quot;, &quot;Horror&quot;, &quot;Theater Five&quot;, &quot;ABC&quot;]</code></td>\n<td>In this alternate network master, a secluded cliffside recluse attempts to trace a recurring terrifying scream across the misty rocky coastline.</td>\n</tr>\n<tr>\n<td><code>Critics_1950_Schulberg.mp3</code> <br><em>Alt</em>: <code>Author Meets Critics 1950</code></td>\n<td><strong>&quot;Budd Schulberg&#39;s The Disenchanted with John K.M. McCaffery&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1950-08-31<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Literary Critique Panel</td>\n<td><strong>John K.M. McCaffery</strong>, <strong>Budd Schulberg</strong></td>\n<td><strong>Martin Stone (Producer)</strong></td>\n<td><code>[&quot;Literature&quot;, &quot;Discussion&quot;, &quot;Interview&quot;, &quot;Budd Schulberg&quot;, &quot;ABC&quot;]</code></td>\n<td>Author Budd Schulberg debates critics over his controversial roman à clef novel depicting the decline of a 1920s literary icon.</td>\n</tr>\n<tr>\n<td><code>Indictment_1958_Racket.mp3</code> <br><em>Alt</em>: <code>Indictment 1958 08 31</code></td>\n<td><strong>&quot;The Case of the Protection Racket with Nat Polen&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1958-08-31<br>5:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Grand Jury Drama</td>\n<td><strong>Nat Polen</strong>, <strong>Ensemble</strong></td>\n<td><strong>Eleanore Tanney (Writer)</strong></td>\n<td><code>[&quot;Police Procedural&quot;, &quot;Courtroom&quot;, &quot;Legal&quot;, &quot;Indictment&quot;, &quot;CBS&quot;]</code></td>\n<td>Assistant District Attorney Tom Blaine presents grand jury evidence indicting waterfront mobsters extorting small shipping merchants.</td>\n</tr>\n<tr>\n<td><code>CBS_News_1940_LondonBerlin.mp3</code> <br><em>Alt</em>: <code>Air Raids On London And Berlin</code></td>\n<td><strong>&quot;Air Raids on London and Berlin with Edward R. Murrow and William L. Shirer&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-08-31<br>6:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>CBS War News Round-Up</td>\n<td><strong>Murrow</strong>, <strong>Shirer</strong>, <strong>Trout</strong></td>\n<td><strong>Paul White (News Dir.)</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;History&quot;, &quot;Edward R Murrow&quot;, &quot;William Shirer&quot;]</code></td>\n<td>Edward R. Murrow and William L. Shirer contrast daily civilian life in London and Berlin during reciprocal retaliatory air bombing raids.</td>\n</tr>\n<tr>\n<td><code>Corwin_1942_YanksHere.mp3</code> <br><em>Alt</em>: <code>An American In England Yanks</code></td>\n<td><strong>&quot;The Yanks Are Here with Joseph Julian and Bernard Herrmann&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-08-31<br>10:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Wartime Morale Drama</td>\n<td><strong>Joseph Julian</strong>, <strong>Ensemble</strong></td>\n<td><strong>Norman Corwin &amp; Bernard Herrmann</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;WWII&quot;, &quot;Norman Corwin&quot;, &quot;Bernard Herrmann&quot;, &quot;CBS&quot;]</code></td>\n<td>Norman Corwin dramatizes the arrival and everyday encounters of American GIs building air bases across wartime rural England.</td>\n</tr>\n<tr>\n<td><code>North_1948_Passenger.mp3</code> <br><em>Alt</em>: <code>The Silent Passenger North</code></td>\n<td><strong>&quot;The Silent Passenger with Alice Frost and Joseph Curtin&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-08-31<br>8:30 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Shave / Halo</td>\n<td><strong>Alice Frost</strong>, <strong>Joseph Curtin</strong></td>\n<td><strong>Lockridge (Creators)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Comedy&quot;, &quot;Mr and Mrs North&quot;, &quot;Colgate&quot;]</code></td>\n<td>Pam and Jerry North discover an unconscious man in the backseat of their taxicab with a stolen museum medallion in his coat.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 186 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 481 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Edward R Murrow",
+        "William L Shirer",
+        "London Blitz",
+        "CBS European News",
+        "Mr and Mrs North",
+        "Alice Frost",
+        "Joseph Curtin",
+        "Colgate",
+        "Norman Corwin",
+        "Bernard Herrmann",
+        "An American in England",
+        "Indictment",
+        "Nat Polen",
+        "Author Meets the Critics",
+        "Budd Schulberg",
+        "Theater Five",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-480-vin-scully-dodgers-jack-smith-allen-ludden-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-480-vin-scully-dodgers-jack-smith-allen-ludden-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Vin Scully at Ebbets Field, Jack Smith, and Allen Ludden",
