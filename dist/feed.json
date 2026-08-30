@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-631-fibber-mcgee-twenty-questions-land-of-the-lost-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-631-fibber-mcgee-twenty-questions-land-of-the-lost-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Fibber McGee & Molly, Twenty Questions & Land of the Lost",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 631)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic Wistful Vista situation comedy, radio parlor mystery game shows, whimsical juvenile underwater fantasies, and New England regional folkloric chronicles, Jim and Marian Jordan in three vintage broadcasts of <em>Fibber McGee and Molly</em> for Johnson&#39;s Wax, Prudential, and NBC (1935, 1954, 1955), Robert Alda on <em>Twenty Questions</em> (1950), <em>The Land of the Lost</em> (1944), and <em>Yankee Yarns</em> (1935–1955):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 631)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Fibber_1935_StateFair.mp3</code> <br><em>Alt</em>: <code>Fibber McGee And Molly 1935 Episode</code></td>\n<td><strong>&quot;Visiting the State Fair with Jim and Marian Jordan&quot;</strong></td>\n<td><strong>NBC Red (WMAQ)</strong><br>1935-09-02<br>8:00 PM EDST</td>\n<td><strong>S.C. Johnson &amp; Son</strong><br>Johnson&#39;s Floor Wax</td>\n<td><strong>Jim Jordan</strong>, <strong>Marian Jordan</strong></td>\n<td><strong>Don Quinn (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Fibber McGee&quot;, &quot;Johnsons Wax&quot;, &quot;NBC&quot;]</code></td>\n<td>Fibber and Molly visit the county fairgrounds where Fibber enters a prized homemade squash in the agricultural exhibition.</td>\n</tr>\n<tr>\n<td><code>Fibber_1954_RepairsRadio.mp3</code> <br><em>Alt</em>: <code>Fibber Repairs Radio Fibber McGee And Molly</code></td>\n<td><strong>&quot;Fibber Repairs the Radio with Jim and Marian Jordan&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1954-09-02<br>10:00 PM EDT</td>\n<td><strong>Prudential Insurance</strong><br>Life Insurance Plans</td>\n<td><strong>Jim Jordan</strong>, <strong>Marian Jordan</strong></td>\n<td><strong>Phil Leslie (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Fibber McGee&quot;, &quot;Prudential&quot;, &quot;NBC&quot;]</code></td>\n<td>Fibber dismantles the living room radio receiver with improper tools and causes a domestic electrical short circuit.</td>\n</tr>\n<tr>\n<td><code>Fibber_1955_MollysBirthday.mp3</code> <br><em>Alt</em>: <code>Fibber McGee And Molly 1955 Episode</code></td>\n<td><strong>&quot;Molly&#39;s Birthday Surprise with Jim and Marian Jordan&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1955-09-02<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Network Comedy</td>\n<td><strong>Jim Jordan</strong>, <strong>Marian Jordan</strong></td>\n<td><strong>Phil Leslie (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Fibber McGee&quot;, &quot;Jim Jordan&quot;, &quot;NBC&quot;]</code></td>\n<td>Fibber attempts to plan a clandestine birthday dinner for Molly while misplacing the gift under a pile of hall closet clutter.</td>\n</tr>\n<tr>\n<td><code>Questions_1950_RobertAlda.mp3</code> <br><em>Alt</em>: <code>Robert Alda Twenty Questions</code></td>\n<td><strong>&quot;Guest Robert Alda with Bill Slater&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-02<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Parlor Game Show</td>\n<td><strong>Bill Slater (Host)</strong></td>\n<td><strong>Robert Alda &amp; Rinard</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Game Show&quot;, &quot;Twenty Questions&quot;, &quot;Robert Alda&quot;, &quot;Mutual&quot;]</code></td>\n<td>The panel attempts to identify mystery subjects spanning animal, vegetable, and mineral classifications with Broadway star Robert Alda.</td>\n</tr>\n<tr>\n<td><code>LandLost_1944_MusicBox.mp3</code> <br><em>Alt</em>: <code>The Land Of The Lost 1944 Episode</code></td>\n<td><strong>&quot;The Tale of the Magic Music Box with Isabel Manning Hewson&quot;</strong></td>\n<td><strong>ABC Blue (WJZ)</strong><br>1944-09-02<br>11:30 AM EWT</td>\n<td><strong>Sustaining</strong><br>Children&#39;s Fantasy</td>\n<td><strong>Isabel Manning Hewson</strong></td>\n<td><strong>Art Carney (Red Lantern)</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Fantasy&quot;, &quot;Land Of The Lost&quot;, &quot;Art Carney&quot;, &quot;ABC&quot;]</code></td>\n<td>Billy and Isabel travel to the bottom of the sea where Red Lantern the glowworm helps them find a lost musical clockwork.</td>\n</tr>\n<tr>\n<td><code>Yankee_1947_NeedhamWellesley.mp3</code> <br><em>Alt</em>: <code>Needham and Welsley Yankee Yarns</code></td>\n<td><strong>&quot;Needham and Wellesley Historic Lore with Alton Hall Blackington&quot;</strong></td>\n<td><strong>WBZ Boston / NBC</strong><br>1947-09-02<br>7:30 PM EDT</td>\n<td><strong>First National Stores</strong><br>New England Grocers</td>\n<td><strong>Alton Hall Blackington</strong></td>\n<td><strong>WBZ Production Unit</strong></td>\n<td><code>[&quot;History&quot;, &quot;Storytelling&quot;, &quot;Yankee Yarns&quot;, &quot;New England&quot;, &quot;WBZ&quot;]</code></td>\n<td>Alton Blackington chronicles colonial settlement traditions and nineteenth-century academic development in Needham and Wellesley Massachusetts.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 398 / 480 (82 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 631 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Fibber McGee and Molly",
+        "Jim Jordan",
+        "Marian Jordan",
+        "Don Quinn",
+        "Johnsons Wax",
+        "Prudential",
+        "Twenty Questions",
+        "Bill Slater",
+        "Robert Alda",
+        "Mutual",
+        "Land of the Lost",
+        "Isabel Manning Hewson",
+        "Art Carney",
+        "Yankee Yarns",
+        "Alton Hall Blackington",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-630-bing-crosby-cavalcade-of-america-big-town-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-630-bing-crosby-cavalcade-of-america-big-town-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Bing Crosby, Cavalcade of America & Big Town",
