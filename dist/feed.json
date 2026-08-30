@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-595-meet-the-press-chandu-magician-mary-ward-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-595-meet-the-press-chandu-magician-mary-ward-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Meet the Press, Chandu the Magician & Mary Ward",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 595)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across landmark public affairs press confrontations, mystical occult adventure serials, historical British biographical dramas, western harmony remotes, and African action serials, Martha Rountree and Lawrence Spivak interrogating newsmakers on <em>Meet the Press</em> (1949, 1956), Gayne Whitman in <em>Chandu the Magician</em> for White King Soap (1932), <em>The Travels of Mary Ward</em> on the BBC (1936), Foy Willing (1946), and <em>O&#39;Hara</em> (1932–1956):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 595)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Press_1949_LycurgusSpinks.mp3</code> <br><em>Alt</em>: <code>Lycurgus Spinks Meet the Press</code></td>\n<td><strong>&quot;Ku Klux Klan Imperial Emperor Lycurgus Spinks Questioned&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-09-02<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Press Interview</td>\n<td><strong>Martha Rountree (Mod)</strong></td>\n<td><strong>Inquiring Journalists</strong></td>\n<td><code>[&quot;Interview&quot;, &quot;Public Affairs&quot;, &quot;News&quot;, &quot;Meet The Press&quot;, &quot;Mutual&quot;]</code></td>\n<td>Reporters aggressively challenge self-proclaimed Ku Klux Klan leader Lycurgus Spinks regarding racial violence and cross-burning rallies in the South.</td>\n</tr>\n<tr>\n<td><code>Press_1956_JamesMitchell.mp3</code> <br><em>Alt</em>: <code>James E Mitchell Meet the Press</code></td>\n<td><strong>&quot;U.S. Secretary of Labor James P. Mitchell with Lawrence E. Spivak&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1956-09-02<br>6:00 PM EDT</td>\n<td><strong>Pan American Airways</strong><br>Air Travel</td>\n<td><strong>Lawrence E. Spivak</strong></td>\n<td><strong>Ned Brooks (Moderator)</strong></td>\n<td><code>[&quot;Interview&quot;, &quot;Public Affairs&quot;, &quot;News&quot;, &quot;Meet The Press&quot;, &quot;NBC&quot;]</code></td>\n<td>Secretary of Labor James P. Mitchell fields sharp questions regarding Eisenhower administration employment policies and upcoming election labor endorsements.</td>\n</tr>\n<tr>\n<td><code>Chandu_1932_EgyptianTombs.mp3</code> <br><em>Alt</em>: <code>Chandu the Magician 1932 Episode</code></td>\n<td><strong>&quot;The Egyptian Tombs of Roxor with White King Soap&quot;</strong></td>\n<td><strong>Don Lee (KHJ)</strong><br>1932-09-02<br>8:00 PM PST</td>\n<td><strong>Los Angeles Soap Co.</strong><br>White King Soap</td>\n<td><strong>Gayne Whitman (Chandu)</strong></td>\n<td><strong>Margaret MacDonald</strong></td>\n<td><code>[&quot;Fantasy&quot;, &quot;Adventure&quot;, &quot;Magic&quot;, &quot;Chandu The Magician&quot;, &quot;White King&quot;]</code></td>\n<td>Chandu uses occult telepathic arts to penetrate an underground Egyptian tomb where the sinister villain Roxor guards stolen electrical death rays.</td>\n</tr>\n<tr>\n<td><code>Mary_Ward_1936_Alps.mp3</code> <br><em>Alt</em>: <code>Travels of Mary Ward 1936 Episode</code></td>\n<td><strong>&quot;Crossing the Alps with BBC Regional Programme&quot;</strong></td>\n<td><strong>BBC Regional</strong><br>1936-09-02</td>\n<td><strong>Sustaining</strong><br>Historical Drama</td>\n<td><strong>BBC Repertory Co.</strong></td>\n<td><strong>BBC Radio Drama Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;History&quot;, &quot;Biography&quot;, &quot;Mary Ward&quot;, &quot;BBC Regional&quot;]</code></td>\n<td>Pioneering seventeenth-century Catholic educator Mary Ward braves treacherous Alpine mountain blizzards on foot to petition the Pope in Rome.</td>\n</tr>\n<tr>\n<td><code>Foy_1946_TrailHerding.mp3</code> <br><em>Alt</em>: <code>Trail Herding Cowboy Foy Willing</code></td>\n<td><strong>&quot;Trail Herding Cowboy with Western Melody&quot;</strong></td>\n<td><strong>Syndication</strong><br>1946-09-02</td>\n<td><strong>Sustaining</strong><br>Western Music</td>\n<td><strong>Foy Willing &amp; Troupe</strong></td>\n<td><strong>Purple Sage Ensemble</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Western&quot;, &quot;Country&quot;, &quot;Foy Willing&quot;, &quot;Purple Sage&quot;]</code></td>\n<td>Foy Willing leads his western singing troupe in harmonious cowboy ballads celebrating dusty cattle drives across the open prairie.</td>\n</tr>\n<tr>\n<td><code>OHara_1951_TerrorOrientale.mp3</code> <br><em>Alt</em>: <code>Terror Orientale O&#39;Hara</code></td>\n<td><strong>&quot;Terror Orientale with Dramatic Action Cast&quot;</strong></td>\n<td><strong>Springbok Radio (SABC)</strong><br>1951-09-02</td>\n<td><strong>Commercial Sponsors</strong><br>Adventure Drama</td>\n<td><strong>Dramatic Cast</strong></td>\n<td><strong>Michael Silver (Producer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Action&quot;, &quot;OHara&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>Adventurer O&#39;Hara travels to an ancient temple in the Far East where a ruthless warlord holds an international archaeological expedition hostage.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 182 / 480 (298 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 595 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Meet the Press",
+        "Martha Rountree",
+        "Lawrence E Spivak",
+        "Lycurgus Spinks",
+        "James P Mitchell",
+        "Chandu the Magician",
+        "Gayne Whitman",
+        "White King Soap",
+        "The Travels of Mary Ward",
+        "BBC Regional",
+        "Foy Willing",
+        "Purple Sage",
+        "OHara",
+        "Springbok Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-594-charlie-mccarthy-squad-cars-american-challenge-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-594-charlie-mccarthy-squad-cars-american-challenge-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — The Charlie McCarthy Show, Squad Cars & American Challenge",
