@@ -6,6 +6,37 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-632-five-bing-crosby-decades-deadline-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-632-five-bing-crosby-decades-deadline-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Five Bing Crosby Decades & Deadline",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 632)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across five decades of Bing Crosby radio history from early 1931 crooner debuts to 1960 morning duets with Rosemary Clooney, plus investigative newspaper docudramas, Bing Crosby in <em>Kraft Music Hall</em>, <em>The Ford Road Show</em>, and <em>The Bing Crosby - Rosemary Clooney Show</em> (1931, 1943, 1955, 1957, 1960), and <em>Deadline</em> (1931–1960):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 632)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Crosby_1931_OneMoreChance.mp3</code> <br><em>Alt</em>: <code>Minutes With Crosby Just One More Chance</code></td>\n<td><strong>&quot;Just One More Chance with Victor Young&#39;s Orchestra&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1931-09-02<br>11:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Early Crooner Series</td>\n<td><strong>Bing Crosby (Soloist)</strong></td>\n<td><strong>Victor Young Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Bing Crosby&quot;, &quot;Victor Young&quot;, &quot;CBS&quot;]</code></td>\n<td>Bing Crosby introduces his breakthrough romantic signature ballad Just One More Chance in a live network radio transmission from New York.</td>\n</tr>\n<tr>\n<td><code>Kraft_1943_FrankMcHugh.mp3</code> <br><em>Alt</em>: <code>Frank Mchugh Bing Crosby</code></td>\n<td><strong>&quot;Guest Frank McHugh with Bing Crosby and Kraft&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1943-09-02<br>9:00 PM EWT</td>\n<td><strong>Kraft Cheese Co.</strong><br>Miracle Whip Dressing</td>\n<td><strong>Bing Crosby</strong>, <strong>McHugh</strong></td>\n<td><strong>John Scott Trotter Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Kraft Music Hall&quot;, &quot;Bing Crosby&quot;, &quot;Kraft&quot;]</code></td>\n<td>Bing welcomes comedic actor Frank McHugh to trade humorous Hollywood anecdotes and perform wartime musical parodies.</td>\n</tr>\n<tr>\n<td><code>Crosby_1955_Episode205.mp3</code> <br><em>Alt</em>: <code>Episode 205 Bing Crosby</code></td>\n<td><strong>&quot;Buddy Cole Trio with Bing Crosby&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1955-09-02<br>9:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Musical Showcase</td>\n<td><strong>Bing Crosby</strong></td>\n<td><strong>Buddy Cole Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Bing Crosby&quot;, &quot;Buddy Cole&quot;, &quot;CBS&quot;]</code></td>\n<td>Bing Crosby performs intimate vocal standards backed by Buddy Cole&#39;s organ and rhythm ensemble.</td>\n</tr>\n<tr>\n<td><code>Ford_1957_TempletonLee.mp3</code> <br><em>Alt</em>: <code>Alec Templeton and Peggy Lee Bing Crosby</code></td>\n<td><strong>&quot;Guests Alec Templeton and Peggy Lee for Ford&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1957-09-02<br>7:30 PM EDT</td>\n<td><strong>Ford Motor Co.</strong><br>The Ford Road Show</td>\n<td><strong>Bing Crosby</strong>, <strong>Lee</strong>, <strong>Templeton</strong></td>\n<td><strong>Buddy Cole Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Bing Crosby&quot;, &quot;Peggy Lee&quot;, &quot;Ford&quot;]</code></td>\n<td>Bing Crosby trades musical improvisations with blind pianist Alec Templeton and sings duets with Peggy Lee.</td>\n</tr>\n<tr>\n<td><code>Clooney_1960_LookAtMe.mp3</code> <br><em>Alt</em>: <code>First Song - Oh, Look At Me Now Bing Crosby</code></td>\n<td><strong>&quot;Oh Look at Me Now with Rosemary Clooney and Buddy Cole&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1960-09-02<br>10:45 AM EDT</td>\n<td><strong>Sustaining</strong><br>Morning Duet Series</td>\n<td><strong>Bing Crosby</strong>, <strong>Clooney</strong></td>\n<td><strong>Buddy Cole Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Bing Crosby&quot;, &quot;Rosemary Clooney&quot;, &quot;CBS&quot;]</code></td>\n<td>Bing Crosby and Rosemary Clooney sing vocal harmonies on Oh Look at Me Now accompanied by the Buddy Cole Trio.</td>\n</tr>\n<tr>\n<td><code>Deadline_1953_MurderMile.mp3</code> <br><em>Alt</em>: <code>The Murder Mile Deadline</code></td>\n<td><strong>&quot;The Murder Mile with Dramatic Cast and NBC&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1953-09-02<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Newspaper Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Fred Collins (Dir)</strong></td>\n<td><code>[&quot;Newspaper&quot;, &quot;Drama&quot;, &quot;Deadline&quot;, &quot;NBC&quot;, &quot;Journalism&quot;]</code></td>\n<td>A metropolitan newspaper reporter investigates a succession of hit-and-run fatalities along a notorious stretch of suburban highway.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 404 / 480 (76 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 632 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Bing Crosby",
+        "Rosemary Clooney",
+        "Peggy Lee",
+        "Alec Templeton",
+        "Frank McHugh",
+        "Buddy Cole",
+        "Victor Young",
+        "Kraft Music Hall",
+        "Ford Road Show",
+        "Deadline",
+        "NBC",
+        "CBS",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-631-fibber-mcgee-twenty-questions-land-of-the-lost-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-631-fibber-mcgee-twenty-questions-land-of-the-lost-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Fibber McGee & Molly, Twenty Questions & Land of the Lost",
