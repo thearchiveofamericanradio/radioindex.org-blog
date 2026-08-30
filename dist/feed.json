@@ -6,6 +6,51 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-736-jimmy-dorsey-gordon-macrae-peg-lynch-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-736-jimmy-dorsey-gordon-macrae-peg-lynch-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Jimmy Dorsey, Gordon MacRae & Peg Lynch",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 736)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Jimmy Dorsey swinging <em>I&#39;m Coming Virginia</em> on <em>Music with Wings</em> for AFRS, Gordon MacRae and Dorothy Kirsten singing a Broadway revue of 1922 on <em>The Railroad Hour</em>, Peg Lynch&#39;s domestic suburban comedy on <em>Little Things in Life</em>, Russell Hughes adapting Damon Runyon&#39;s <em>Cemetery Bait</em>, Jay Jostyn breaking extortion rings on <em>Mr. District Attorney</em> for Vitalis, and cowboy campfire harmonies from The Plainsmen, Jimmy Dorsey (1945), Gordon MacRae (1950), Peg Lynch (1975), John Brown (1949), Jay Jostyn (1940), and The Plainsmen (1940–1975):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 736)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JimmyDorsey_1945_ComingVirginia.mp3</code> <br><em>Alt</em>: <code>Music With Wings - First Song - I&#39;m Coming Virginia Singles &amp; Doubles Collection</code></td>\n<td><strong>&quot;I&#39;m Coming Virginia with Jimmy Dorsey and His Orchestra&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1945-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>Jimmy Dorsey &amp; Orch.</strong></td>\n<td><strong>Bob Eberly &amp; O&#39;Connell</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Music With Wings&quot;, &quot;Jimmy Dorsey&quot;, &quot;AFRS&quot;]</code></td>\n<td>Jimmy Dorsey leads his swing band in sparkling reed arrangements and sentimental vocal hits starting with I&#39;m Coming Virginia.</td>\n</tr>\n<tr>\n<td><code>RailroadHour_1950_Review1922.mp3</code> <br><em>Alt</em>: <code>Review Of 1922 Railroad Hour</code></td>\n<td><strong>&quot;Review of 1922 with Gordon MacRae and Dorothy Kirsten&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1950-09-04<br>8:00 PM EDT</td>\n<td><strong>Assoc. of American Railroads</strong><br>Rail Transportation</td>\n<td><strong>Gordon MacRae &amp; Kirsten</strong></td>\n<td><strong>Carmen Dragon &amp; Luboff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Musical&quot;, &quot;Railroad Hour&quot;, &quot;Gordon MacRae&quot;, &quot;Dorothy Kirsten&quot;]</code></td>\n<td>Gordon MacRae and Dorothy Kirsten sing a musical retrospective celebrating the Broadway hits, pop revues, and dance crazes of the year 1922.</td>\n</tr>\n<tr>\n<td><code>LittleThings_1975_SayGoodbye.mp3</code> <br><em>Alt</em>: <code>The Trying To Say Goodbye Little Things in Life</code></td>\n<td><strong>&quot;Trying to Say Goodbye with Peg Lynch and Alan Bunce&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1975-09-04</td>\n<td><strong>Sustaining</strong><br>Domestic Comedy</td>\n<td><strong>Peg Lynch &amp; Alan Bunce</strong></td>\n<td><strong>Peg Lynch (Author)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;Little Things in Life&quot;, &quot;Peg Lynch&quot;, &quot;Alan Bunce&quot;]</code></td>\n<td>A suburban couple encounters endless comical interruptions and awkward small-talk while trying to bid farewell to their dinner guests at the front door.</td>\n</tr>\n<tr>\n<td><code>DamonRunyon_1949_CemeteryBait.mp3</code> <br><em>Alt</em>: <code>Cemetery Bait The Damon Runyon Theater</code></td>\n<td><strong>&quot;Cemetery Bait with John Brown as Broadway&quot;</strong></td>\n<td><strong>Syndication / Mayfair</strong><br>1949-09-04</td>\n<td><strong>Sustaining</strong><br>Broadway Comedy</td>\n<td><strong>John Brown (Broadway)</strong></td>\n<td><strong>Russell Hughes &amp; Runyon</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;Damon Runyon Theater&quot;, &quot;John Brown&quot;, &quot;Damon Runyon&quot;]</code></td>\n<td>A superstitious Broadway racetrack gambler buys a burial plot from an anxious undertaker, triggering unexpected fortune on a long-shot horse.</td>\n</tr>\n<tr>\n<td><code>MrDA_1940_ProtectionShakedown.mp3</code> <br><em>Alt</em>: <code>Mr District Attorney 1940 Episode</code></td>\n<td><strong>&quot;The Case of the Protection Shakedown with Jay Jostyn&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-09-04<br>8:00 PM EDST</td>\n<td><strong>Bristol-Myers Co.</strong><br>Vitalis Hair Tonic</td>\n<td><strong>Jay Jostyn (Garrett)</strong></td>\n<td><strong>Vicki Vola &amp; Devine</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Mr District Attorney&quot;, &quot;Jay Jostyn&quot;, &quot;Vitalis&quot;]</code></td>\n<td>District Attorney Paul Garrett mobilizes his investigative squad to smash a violent protection racket targeting small downtown dry cleaning establishments.</td>\n</tr>\n<tr>\n<td><code>Plainsmen_1946_WaitWagon.mp3</code> <br><em>Alt</em>: <code>Western Stars - First Song - Wait For The Wagon Singles &amp; Doubles Collection</code></td>\n<td><strong>&quot;Wait for the Wagon with The Plainsmen Trio&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1946-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>The Plainsmen Trio</strong></td>\n<td><strong>AFRS Music Staff</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Music&quot;, &quot;Western Stars&quot;, &quot;The Plainsmen&quot;, &quot;AFRS&quot;]</code></td>\n<td>A western vocal ensemble performs cowboy folk tunes and traditional pioneer campfire harmonies led by Wait for the Wagon.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 138 / 471 (269 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 736 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Music with Wings",
+        "Jimmy Dorsey",
+        "Bob Eberly",
+        "Helen O'Connell",
+        "AFRS",
+        "The Railroad Hour",
+        "Gordon MacRae",
+        "Dorothy Kirsten",
+        "Carmen Dragon",
+        "Norman Luboff",
+        "Association of American Railroads",
+        "Little Things in Life",
+        "Peg Lynch",
+        "Alan Bunce",
+        "CBS Radio",
+        "The Damon Runyon Theater",
+        "John Brown",
+        "Russell Hughes",
+        "Damon Runyon",
+        "Mr District Attorney",
+        "Jay Jostyn",
+        "Vicki Vola",
+        "Bristol-Myers",
+        "Vitalis",
+        "Western Stars",
+        "The Plainsmen",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-735-backstage-wife-mr-malone-strange-as-it-seems-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-735-backstage-wife-mr-malone-strange-as-it-seems-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Backstage Wife, Mr. Malone & Strange As It Seems",
