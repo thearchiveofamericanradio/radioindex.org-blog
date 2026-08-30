@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — The Goldbergs, Grandma Moses & Charlie Ruggles
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, The Goldbergs, Gertrude Berg, James R Waters, Oxydol, Duz Detergent, Procter and Gamble, Biography in Sound, Grandma Moses, Anna Mary Robertson, NBC, A Barrel of Fun, Charlie Ruggles, Bromo-Seltzer, Emerson Drug, Proudly We Hail, CP MacGregor, US Army, Author's Studio, BBC Radio 4, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 758)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Gertrude Berg's warm comedic dialogue as Molly Goldberg on *The Goldbergs* for Procter & Gamble (1941, 1942), NBC's documentary tribute to primitive American artist Grandma Moses on *Biography in Sound*, Charlie Ruggles leading slapstick carnival stunts on *A Barrel of Fun* for Bromo-Seltzer, soldier morale composers on *Proudly We Hail*, and BBC literary profiles on *Author's Studio*, Gertrude Berg (1941, 1942), Grandma Moses (1956), Charlie Ruggles (1941), and *The Goldbergs* (1941–1975):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 758)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Goldbergs_1941_MollyJake.mp3` <br>*Alt*: `Molly Talks To Jake Goldbergs, The` | **"Molly Talks to Jake with Gertrude Berg"** | **CBS (WABC)**<br>1941-09-04<br>5:00 PM EDST | **Procter & Gamble**<br>Oxydol Granulated Soap | **Gertrude Berg & Waters** | **Roslyn Silber & Berg** | `["Comedy", "Domestic", "The Goldbergs", "Gertrude Berg", "Oxydol"]` | Molly Goldberg counsels Jake on calming his anxieties over rising material costs in the garment manufacturing trade. |
+| `Goldbergs_1942_HayRide.mp3` <br>*Alt*: `At The Hay Ride Goldbergs, The` | **"At the Hay Ride with Gertrude Berg"** | **CBS (WABC)**<br>1942-09-04<br>5:00 PM EWT | **Procter & Gamble**<br>Duz Detergent | **Gertrude Berg & Waters** | **Alfred Ryder & Berg** | `["Comedy", "Domestic", "The Goldbergs", "Gertrude Berg", "Duz"]` | The Goldberg family joins their neighborhood community on an autumn countryside hay ride to raise wartime relief funds. |
+| `BioSound_1956_GrandmaMoses.mp3` <br>*Alt*: `Grandma Moses Biography in Sound` | **"Grandma Moses (Anna Mary Robertson)"** | **NBC (WRCA)**<br>1956-09-04<br>8:30 PM EDT | **Sustaining**<br>Documentary Biography | **Anna Mary Robertson** | **NBC Special Projects** | `["Biography", "Documentary", "Biography in Sound", "Grandma Moses", "NBC"]` | An audio portrait honoring primitive American folk artist Grandma Moses on the eve of her ninety-sixth birthday. |
+| `BarrelFun_1941_LaborDayStunts.mp3` <br>*Alt*: `A Barrel of Fun 1941 Episode` | **"Labor Day Comedy and Stunts with Charlie Ruggles"** | **Mutual / WOR**<br>1941-09-04<br>8:00 PM EDST | **Emerson Drug Co.**<br>Bromo-Seltzer | **Charlie Ruggles & Rubin** | **Judy Canova & Van Steeden** | `["Comedy", "Variety", "A Barrel of Fun", "Charlie Ruggles", "Bromo-Seltzer"]` | Comedian Charlie Ruggles hosts high-energy studio audience party games, slapstick sketches, and eccentric carnival stunts. |
+| `AuthorsStudio_1975_ModernWriters.mp3` <br>*Alt*: `Author's Studio 1975 Episode` | **"Modern Writers in Profile with BBC Radio 4"** | **BBC Radio 4**<br>1975-09-04 | **Sustaining**<br>Literary Profiles | **Contemporary Authors** | **BBC Literary Staff** | `["Books", "Interview", "Author's Studio", "BBC Radio 4", "Literature"]` | Contemporary novelists and dramatists discuss their creative writing routines, character development methods, and latest publications. |
+| `ProudlyWeHail_1946_SongBorn.mp3` <br>*Alt*: `A Song Is Born Proudly We Hail` | **"A Song Is Born with US Army Recruiting"** | **Syndication / US Army**<br>1946-09-04 | **U.S. Army Recruiting**<br>Military Service | **Dramatic Repertory Cast** | **C.P. MacGregor (Prod.)** | `["Drama", "Military", "Proudly We Hail", "US Army", "CP MacGregor"]` | A soldier composer in the armed forces writes a hit marching ballad that boosts troop morale across overseas military encampments. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 270 / 471 (137 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

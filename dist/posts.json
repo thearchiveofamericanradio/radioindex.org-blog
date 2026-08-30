@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-758-goldbergs-grandma-moses-charlie-ruggles-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-758-goldbergs-grandma-moses-charlie-ruggles-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — The Goldbergs, Grandma Moses & Charlie Ruggles",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 758)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Gertrude Berg&#39;s warm comedic dialogue as Molly Goldberg on <em>The Goldbergs</em> for Procter &amp; Gamble (1941, 1942), NBC&#39;s documentary tribute to primitive American artist Grandma Moses on <em>Biography in Sound</em>, Charlie Ruggles leading slapstick carnival stunts on <em>A Barrel of Fun</em> for Bromo-Seltzer, soldier morale composers on <em>Proudly We Hail</em>, and BBC literary profiles on <em>Author&#39;s Studio</em>, Gertrude Berg (1941, 1942), Grandma Moses (1956), Charlie Ruggles (1941), and <em>The Goldbergs</em> (1941–1975):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 758)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Goldbergs_1941_MollyJake.mp3</code> <br><em>Alt</em>: <code>Molly Talks To Jake Goldbergs, The</code></td>\n<td><strong>&quot;Molly Talks to Jake with Gertrude Berg&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1941-09-04<br>5:00 PM EDST</td>\n<td><strong>Procter &amp; Gamble</strong><br>Oxydol Granulated Soap</td>\n<td><strong>Gertrude Berg &amp; Waters</strong></td>\n<td><strong>Roslyn Silber &amp; Berg</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;The Goldbergs&quot;, &quot;Gertrude Berg&quot;, &quot;Oxydol&quot;]</code></td>\n<td>Molly Goldberg counsels Jake on calming his anxieties over rising material costs in the garment manufacturing trade.</td>\n</tr>\n<tr>\n<td><code>Goldbergs_1942_HayRide.mp3</code> <br><em>Alt</em>: <code>At The Hay Ride Goldbergs, The</code></td>\n<td><strong>&quot;At the Hay Ride with Gertrude Berg&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-09-04<br>5:00 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Detergent</td>\n<td><strong>Gertrude Berg &amp; Waters</strong></td>\n<td><strong>Alfred Ryder &amp; Berg</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;The Goldbergs&quot;, &quot;Gertrude Berg&quot;, &quot;Duz&quot;]</code></td>\n<td>The Goldberg family joins their neighborhood community on an autumn countryside hay ride to raise wartime relief funds.</td>\n</tr>\n<tr>\n<td><code>BioSound_1956_GrandmaMoses.mp3</code> <br><em>Alt</em>: <code>Grandma Moses Biography in Sound</code></td>\n<td><strong>&quot;Grandma Moses (Anna Mary Robertson)&quot;</strong></td>\n<td><strong>NBC (WRCA)</strong><br>1956-09-04<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Documentary Biography</td>\n<td><strong>Anna Mary Robertson</strong></td>\n<td><strong>NBC Special Projects</strong></td>\n<td><code>[&quot;Biography&quot;, &quot;Documentary&quot;, &quot;Biography in Sound&quot;, &quot;Grandma Moses&quot;, &quot;NBC&quot;]</code></td>\n<td>An audio portrait honoring primitive American folk artist Grandma Moses on the eve of her ninety-sixth birthday.</td>\n</tr>\n<tr>\n<td><code>BarrelFun_1941_LaborDayStunts.mp3</code> <br><em>Alt</em>: <code>A Barrel of Fun 1941 Episode</code></td>\n<td><strong>&quot;Labor Day Comedy and Stunts with Charlie Ruggles&quot;</strong></td>\n<td><strong>Mutual / WOR</strong><br>1941-09-04<br>8:00 PM EDST</td>\n<td><strong>Emerson Drug Co.</strong><br>Bromo-Seltzer</td>\n<td><strong>Charlie Ruggles &amp; Rubin</strong></td>\n<td><strong>Judy Canova &amp; Van Steeden</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;A Barrel of Fun&quot;, &quot;Charlie Ruggles&quot;, &quot;Bromo-Seltzer&quot;]</code></td>\n<td>Comedian Charlie Ruggles hosts high-energy studio audience party games, slapstick sketches, and eccentric carnival stunts.</td>\n</tr>\n<tr>\n<td><code>AuthorsStudio_1975_ModernWriters.mp3</code> <br><em>Alt</em>: <code>Author&#39;s Studio 1975 Episode</code></td>\n<td><strong>&quot;Modern Writers in Profile with BBC Radio 4&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1975-09-04</td>\n<td><strong>Sustaining</strong><br>Literary Profiles</td>\n<td><strong>Contemporary Authors</strong></td>\n<td><strong>BBC Literary Staff</strong></td>\n<td><code>[&quot;Books&quot;, &quot;Interview&quot;, &quot;Author&#39;s Studio&quot;, &quot;BBC Radio 4&quot;, &quot;Literature&quot;]</code></td>\n<td>Contemporary novelists and dramatists discuss their creative writing routines, character development methods, and latest publications.</td>\n</tr>\n<tr>\n<td><code>ProudlyWeHail_1946_SongBorn.mp3</code> <br><em>Alt</em>: <code>A Song Is Born Proudly We Hail</code></td>\n<td><strong>&quot;A Song Is Born with US Army Recruiting&quot;</strong></td>\n<td><strong>Syndication / US Army</strong><br>1946-09-04</td>\n<td><strong>U.S. Army Recruiting</strong><br>Military Service</td>\n<td><strong>Dramatic Repertory Cast</strong></td>\n<td><strong>C.P. MacGregor (Prod.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Military&quot;, &quot;Proudly We Hail&quot;, &quot;US Army&quot;, &quot;CP MacGregor&quot;]</code></td>\n<td>A soldier composer in the armed forces writes a hit marching ballad that boosts troop morale across overseas military encampments.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 270 / 471 (137 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 758 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Goldbergs",
+        "Gertrude Berg",
+        "James R Waters",
+        "Oxydol",
+        "Duz Detergent",
+        "Procter and Gamble",
+        "Biography in Sound",
+        "Grandma Moses",
+        "Anna Mary Robertson",
+        "NBC",
+        "A Barrel of Fun",
+        "Charlie Ruggles",
+        "Bromo-Seltzer",
+        "Emerson Drug",
+        "Proudly We Hail",
+        "CP MacGregor",
+        "US Army",
+        "Author's Studio",
+        "BBC Radio 4",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-757-peter-lorre-rudy-vallee-perry-mason-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-757-peter-lorre-rudy-vallee-perry-mason-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Peter Lorre, Rudy Vallee & Perry Mason",
