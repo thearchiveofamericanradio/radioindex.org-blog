@@ -6,6 +6,85 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-716-glenn-miller-treasury-agent-dameron-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-716-glenn-miller-treasury-agent-dameron-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Glenn Miller, Treasury Agent & Dameron",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 716)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across iconic Glenn Miller swing broadcasts featuring <em>&quot;In the Mood&quot;</em> for Chesterfield, federal moonshine still crackdowns on <em>Treasury Agent</em>, two-part hardboiled private detective capers at the World Series on South Africa&#39;s Springbok Radio, early 1930s department store man-hunter investigations on <em>Eno Crime Clues</em>, and vintage Texas college gridiron previews, Glenn Miller (1943), Knox Manning (1956), <em>Dameron</em> (1973), Spencer Dean (1934), and WACO sports (1934–1973):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 716)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>GlennMiller_1943_InTheMood.mp3</code> <br><em>Alt</em>: <code>First Song - In The Mood Chesterfield Moonlight Serenade</code></td>\n<td><strong>&quot;In the Mood with Glenn Miller and His Orchestra&quot;</strong></td>\n<td><strong>CBS / AFRS</strong><br>1943-09-04<br>7:15 PM EWT</td>\n<td><strong>Liggett &amp; Myers</strong><br>Chesterfield Cigarettes</td>\n<td><strong>Glenn Miller &amp; Orch.</strong></td>\n<td><strong>Ray Eberle &amp; Kelly</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Glenn Miller&quot;, &quot;Chesterfield&quot;, &quot;Swing&quot;]</code></td>\n<td><code>null</code></td>\n<td>Glenn Miller leads his swing orchestra in soaring brass arrangements and vocal harmony standards headlined by In the Mood.</td>\n</tr>\n<tr>\n<td><code>TreasuryAgent_1956_SugarThefts.mp3</code> <br><em>Alt</em>: <code>Sugar thefts linked with untaxed alcohol Treasury Agent</code></td>\n<td><strong>&quot;Sugar Thefts Linked with Untaxed Alcohol with Knox Manning&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1956-09-04<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Knox Manning (Narr.)</strong></td>\n<td><strong>Phillips H. Lord (Prod.)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Treasury Agent&quot;, &quot;Knox Manning&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>null</code></td>\n<td>Federal Treasury agents infiltrate a criminal syndicate hijacking industrial wholesale sugar shipments to supply illegal moonshine stills.</td>\n</tr>\n<tr>\n<td><code>Dameron_1973_WorldSeries1.mp3</code> <br><em>Alt</em>: <code>The World Series Caper Dameron</code></td>\n<td><strong>&quot;The World Series Caper (Part 1) with Dameron&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1973-09-04</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Springbok Drama Cast</strong></td>\n<td><strong>Springbok Radio Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Dameron&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The World Series Caper&quot;, &quot;part&quot;: 1, &quot;total_parts&quot;: 2}</code></td>\n<td>Private investigator Dameron is hired by a bookmaker to protect a star baseball player targeted by an extortion syndicate before the championship game.</td>\n</tr>\n<tr>\n<td><code>Dameron_1973_WorldSeries2.mp3</code> <br><em>Alt</em>: <code>The World Series Caper Dameron</code></td>\n<td><strong>&quot;The World Series Caper (Part 2) with Dameron&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1973-09-04</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Springbok Drama Cast</strong></td>\n<td><strong>Springbok Radio Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Dameron&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The World Series Caper&quot;, &quot;part&quot;: 2, &quot;total_parts&quot;: 2}</code></td>\n<td>Dameron stakes out the stadium locker rooms to trap the extortionist attempting to drug the championship team&#39;s starting pitcher.</td>\n</tr>\n<tr>\n<td><code>WACO_1937_FootballHighlights.mp3</code> <br><em>Alt</em>: <code>Football Highlights Todays Football</code></td>\n<td><strong>&quot;Gridiron Season Highlights and Preview with WACO Sports&quot;</strong></td>\n<td><strong>WACO Texas</strong><br>1937-09-04</td>\n<td><strong>Sustaining</strong><br>Sports Commentary</td>\n<td><strong>WACO Sports Announcer</strong></td>\n<td><strong>Station Production Staff</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Talk&quot;, &quot;Football&quot;, &quot;WACO&quot;, &quot;Texas&quot;]</code></td>\n<td><code>null</code></td>\n<td>Sports analysts review college football training camps, opening-weekend matchups, and national championship conference prospects.</td>\n</tr>\n<tr>\n<td><code>EnoCrime_1934_DeathGuard1.mp3</code> <br><em>Alt</em>: <code>The Death Guard PT 1 Eno Crime Clues</code></td>\n<td><strong>&quot;The Death Guard (Part 1) with Spencer Dean&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1934-09-04<br>8:00 PM EDST</td>\n<td><strong>Harold F. Ritchie &amp; Co.</strong><br>Eno Fruit Salt</td>\n<td><strong>Clyde North (Dean)</strong></td>\n<td><strong>Adele Ronson &amp; Sterling</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Eno Crime Clues&quot;, &quot;Spencer Dean&quot;, &quot;Eno&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Death Guard&quot;, &quot;part&quot;: 1, &quot;total_parts&quot;: 2}</code></td>\n<td>Man-hunter Spencer Dean investigates the mysterious shooting of an armed museum guard assigned to protect a priceless Renaissance chalice.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 18 / 471 (389 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 716 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Chesterfield Moonlight Serenade",
+        "Glenn Miller",
+        "Ray Eberle",
+        "Paula Kelly",
+        "The Modernaires",
+        "Chesterfield Cigarettes",
+        "Treasury Agent",
+        "Knox Manning",
+        "Phillips H. Lord",
+        "Dameron",
+        "Springbok Radio",
+        "Serial Story Arc",
+        "The World Series Caper",
+        "Eno Crime Clues",
+        "Stewart Sterling",
+        "Spencer Dean",
+        "Eno Salts",
+        "The Death Guard",
+        "Today's Football",
+        "WACO Sports",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-715-kay-kyser-mike-wallace-jack-armstrong-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-715-kay-kyser-mike-wallace-jack-armstrong-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Kay Kyser, Mike Wallace & Jack Armstrong",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 715)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across high-spirited musical quizzes with Kay Kyser for Lucky Strike, early psychological detective drama starring a young Myron (Mike) Wallace on <em>The Crime Files of Flamond</em>, anarchic British comedy on <em>I&#39;m Sorry I Haven&#39;t a Clue</em>, sweeping concert orchestra melodies for Cities Service, literary biographical drama on Hans Christian Andersen, and Wheaties cliffhanger adventures with Jack Armstrong, Kay Kyser (1940), Mike Wallace (1945), Humphrey Lyttelton (1974), Paul Lavalle (1942), <em>Adventure in Reading</em> (1939), and <em>Jack Armstrong</em> (1939–1974):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 715)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>KayKyser_1940_AllThisHeaven.mp3</code> <br><em>Alt</em>: <code>Second Song - All This And Heaven Too Kay Kyser&#39;s Kollege of Musical Knowledge</code></td>\n<td><strong>&quot;All This and Heaven Too with Kay Kyser&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-09-04<br>8:00 PM EDST</td>\n<td><strong>American Tobacco Co.</strong><br>Lucky Strike Cigarettes</td>\n<td><strong>Kay Kyser (MC)</strong></td>\n<td><strong>Harry Babbitt &amp; Simms</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Quiz&quot;, &quot;Kay Kyser&quot;, &quot;Lucky Strike&quot;, &quot;NBC&quot;]</code></td>\n<td><code>null</code></td>\n<td>Kay Kyser tests audience contestants on swing melodies and popular song lyrics, featuring vocal performances of All This and Heaven Too.</td>\n</tr>\n<tr>\n<td><code>Flamond_1945_BadBet.mp3</code> <br><em>Alt</em>: <code>TCOT Bad Bet Crime Files Of Flamond, The</code></td>\n<td><strong>&quot;The Case of the Bad Bet with Myron Wallace&quot;</strong></td>\n<td><strong>WGN / Mutual</strong><br>1945-09-04<br>8:30 PM EWT</td>\n<td><strong>Peter Hand Brewing</strong><br>Meister Brau Beer</td>\n<td><strong>Myron Wallace (Flamond)</strong></td>\n<td><strong>WGN Mystery Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Flamond&quot;, &quot;Mike Wallace&quot;, &quot;WGN&quot;]</code></td>\n<td><code>null</code></td>\n<td>Psychological criminologist Flamond investigates a racetrack bookmaker murdered after refusing to cancel a mobster&#39;s fraudulent gambling debt.</td>\n</tr>\n<tr>\n<td><code>ISIHAC_1974_PublicansBall.mp3</code> <br><em>Alt</em>: <code>Publicans Ball I&#39;m Sorry I Haven&#39;t a Clue</code></td>\n<td><strong>&quot;The Publican&#39;s Ball with Humphrey Lyttelton&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1974-09-04<br>7:30 PM BST</td>\n<td><strong>Sustaining</strong><br>Comedy Panel Game</td>\n<td><strong>Humphrey Lyttelton</strong></td>\n<td><strong>Brooke-Taylor &amp; Garden</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Panel Game&quot;, &quot;ISIHAC&quot;, &quot;Humphrey Lyttelton&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td><code>null</code></td>\n<td>Humphrey Lyttelton presides over an unscripted comedy game featuring Mornington Crescent, spoof musical lyrics, and absurd pub slogans.</td>\n</tr>\n<tr>\n<td><code>CitiesService_1942_GirlProw.mp3</code> <br><em>Alt</em>: <code>First Selection - The Girl On The Prow Cities Service Highways in Melody</code></td>\n<td><strong>&quot;The Girl on the Prow with Paul Lavalle&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1942-09-04<br>8:00 PM EWT</td>\n<td><strong>Cities Service Co.</strong><br>Gasoline &amp; Motor Oil</td>\n<td><strong>Paul Lavalle (Cond.)</strong></td>\n<td><strong>Cities Service Chorus</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Concert&quot;, &quot;Highways in Melody&quot;, &quot;Paul Lavalle&quot;, &quot;Cities Service&quot;]</code></td>\n<td><code>null</code></td>\n<td>Paul Lavalle directs lush semiclassical operetta favorites and nautical ballads spotlighting The Girl on the Prow.</td>\n</tr>\n<tr>\n<td><code>AdvReading_1939_HansAndersen.mp3</code> <br><em>Alt</em>: <code>Adventure In Reading 1939 Episode</code></td>\n<td><strong>&quot;The Life of Hans Christian Andersen with Helen Walpole&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1939-09-04<br>2:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Educational Drama</td>\n<td><strong>Helen Walpole (Host)</strong></td>\n<td><strong>NBC Educational Players</strong></td>\n<td><code>[&quot;Education&quot;, &quot;Biography&quot;, &quot;Adventure In Reading&quot;, &quot;Hans Christian Andersen&quot;, &quot;NBC Blue&quot;]</code></td>\n<td><code>null</code></td>\n<td>Dramatic actors recount the impoverished Danish childhood and literary triumph of fairy tale author Hans Christian Andersen.</td>\n</tr>\n<tr>\n<td><code>JackArmstrong_1946_Silencer.mp3</code> <br><em>Alt</em>: <code>The Trial Of The Silencer Jack Armstrong, The All-American Boy</code></td>\n<td><strong>&quot;The Trial of the Silencer with Charles Flynn&quot;</strong></td>\n<td><strong>ABC</strong><br>1946-09-04<br>5:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Wheaties Breakfast Cereal</td>\n<td><strong>Charles Flynn (Jack)</strong></td>\n<td><strong>John Kouletsis &amp; Dunlap</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Juvenile&quot;, &quot;Jack Armstrong&quot;, &quot;Charles Flynn&quot;, &quot;Wheaties&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Land of the Vanishing Giants&quot;, &quot;part&quot;: 42, &quot;total_parts&quot;: 60}</code></td>\n<td>Jack Armstrong and Billy Fairfield test an experimental sonic noise dampener to infiltrate an enemy sabotage bunker undetected.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 12 / 471 (395 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 715 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Kay Kyser",
+        "Kollege of Musical Knowledge",
+        "Lucky Strike",
+        "American Tobacco",
+        "The Crime Files of Flamond",
+        "Myron Wallace",
+        "Mike Wallace",
+        "Peter Hand Brewing",
+        "Meister Brau",
+        "I'm Sorry I Haven't a Clue",
+        "Humphrey Lyttelton",
+        "BBC Radio 4",
+        "Cities Service Highways in Melody",
+        "Paul Lavalle",
+        "Adventure in Reading",
+        "Hans Christian Andersen",
+        "Jack Armstrong",
+        "Charles Flynn",
+        "Wheaties",
+        "Serial Story Arc",
+        "The Land of the Vanishing Giants",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-714-sherlock-holmes-sea-hound-don-defore-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-714-sherlock-holmes-sea-hound-don-defore-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Sherlock Holmes, The Sea Hound & Don DeFore",
