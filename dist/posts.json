@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-498-boris-karloff-whitehall-1212-mysterious-traveler-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-498-boris-karloff-whitehall-1212-mysterious-traveler-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Boris Karloff, Whitehall 1212, and Mysterious Traveler",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 498)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across Hollywood variety specials, authentic Scotland Yard files, mystery suspense anthologies, daytime soap operas, and sports commentary, Boris Karloff joining Al Jolson on <em>Shell Chateau</em> (1935), Wyllis Cooper&#39;s <em>Whitehall 1212</em> (1952), Karl Weber in <em>Inspector Thorne</em> (1951), Maurice Tarplin in <em>The Mysterious Traveler</em> (1948), Luise Barclay in <em>Arnold Grimm&#39;s Daughter</em> (1938), and Bill Stern presenting trumpet maestro Charlie Spivak for Colgate (1935–1952):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 498)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Whitehall_1952_Madden.mp3</code> <br><em>Alt</em>: <code>Case Of The Madden Family</code></td>\n<td><strong>&quot;The Case of the Madden Family with Chief Superintendent John Davidson&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-08-31<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Scotland Yard True Crime</td>\n<td><strong>John Davidson</strong> (Host)</td>\n<td><strong>Wyllis Cooper (Dir/Writer)</strong></td>\n<td><code>[&quot;Police Procedural&quot;, &quot;True Crime&quot;, &quot;Scotland Yard&quot;, &quot;Whitehall 1212&quot;, &quot;NBC&quot;]</code></td>\n<td>Scotland Yard detectives analyze forensic soil deposits and tire impressions to solve an elusive triple homicide at a rural country cottage.</td>\n</tr>\n<tr>\n<td><code>Thorne_1951_DarkCigarette.mp3</code> <br><em>Alt</em>: <code>The Dark Cigarette Murder Case</code></td>\n<td><strong>&quot;The Dark Cigarette Murder Case with Karl Weber&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1951-08-31<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Detective Mystery</td>\n<td><strong>Karl Weber</strong>, <strong>Ocko</strong></td>\n<td><strong>Frank Gould (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Police Procedural&quot;, &quot;Mystery&quot;, &quot;Inspector Thorne&quot;, &quot;NBC&quot;]</code></td>\n<td>Inspector Thorne spots a single Turkish tobacco ash on an executive desk, revealing how an apparent heart attack was actually cyanide poisoning.</td>\n</tr>\n<tr>\n<td><code>Traveler_1948_MurderPrice.mp3</code> <br><em>Alt</em>: <code>Murder Has a Price Traveler</code></td>\n<td><strong>&quot;Murder Has a Price with Maurice Tarplin&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-08-31<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Suspense &amp; Macabre</td>\n<td><strong>Maurice Tarplin</strong> (Narrator)</td>\n<td><strong>Arthur &amp; Kogan (Writers)</strong></td>\n<td><code>[&quot;Suspense&quot;, &quot;Mystery&quot;, &quot;Macabre&quot;, &quot;The Mysterious Traveler&quot;, &quot;Maurice Tarplin&quot;]</code></td>\n<td>A desperate embezzler hires a waterfront hitman to eliminate a blackmailer, only to face double-cross and fatal extortion.</td>\n</tr>\n<tr>\n<td><code>Grimm_1938_ConnieSurprise.mp3</code> <br><em>Alt</em>: <code>Stan Has A Surprise For Connie</code></td>\n<td><strong>&quot;Stan Has a Surprise for Connie with Luise Barclay&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1938-08-31<br>2:15 PM EDST</td>\n<td><strong>General Mills</strong><br>Gold Medal Flour</td>\n<td><strong>Luise Barclay</strong>, <strong>Prentiss</strong></td>\n<td><strong>Margaret Sangster (Writer)</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Arnold Grimms Daughter&quot;, &quot;Gold Medal&quot;, &quot;CBS&quot;]</code></td>\n<td>Stan reveals an unexpected business promotion to Connie, sparking renewed conflict with her domineering father Arnold Grimm.</td>\n</tr>\n<tr>\n<td><code>Karloff_1935_ShellChateau.mp3</code> <br><em>Alt</em>: <code>Shell Chateau Boris Karloff</code></td>\n<td><strong>&quot;Shell Chateau: Guest Boris Karloff with Al Jolson and Victor Young&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1935-08-31<br>9:30 PM EDST</td>\n<td><strong>Shell Oil Co.</strong><br>Super-Charged Shell</td>\n<td><strong>Boris Karloff</strong>, <strong>Jolson</strong></td>\n<td><strong>Victor Young Orchestra</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Comedy&quot;, &quot;Music&quot;, &quot;Boris Karloff&quot;, &quot;Al Jolson&quot;, &quot;Shell&quot;]</code></td>\n<td>Boris Karloff trades horror banter with Al Jolson and performs a dramatic monologue alongside musical numbers from Victor Young.</td>\n</tr>\n<tr>\n<td><code>Stern_1945_Spivak.mp3</code> <br><em>Alt</em>: <code>Guest Charlie Spivak Stern</code></td>\n<td><strong>&quot;Guest Charlie Spivak with Colgate-Palmolive&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-08-31<br>10:30 PM EWT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Shave Cream</td>\n<td><strong>Bill Stern</strong>, <strong>Spivak</strong></td>\n<td><strong>NBC Sports Division</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;News&quot;, &quot;Interview&quot;, &quot;Bill Stern&quot;, &quot;Colgate&quot;]</code></td>\n<td>Bill Stern narrates dramatic sports legends and presents trumpet virtuoso Charlie Spivak with the Sportsman of the Week award.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 288 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 498 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Boris Karloff",
+        "Shell Chateau",
+        "Al Jolson",
+        "Victor Young",
+        "Whitehall 1212",
+        "Scotland Yard",
+        "Wyllis Cooper",
+        "Inspector Thorne",
+        "Karl Weber",
+        "The Mysterious Traveler",
+        "Maurice Tarplin",
+        "Robert A Arthur",
+        "David Kogan",
+        "Arnold Grimms Daughter",
+        "Gold Medal",
+        "Bill Stern",
+        "Charlie Spivak",
+        "Colgate",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-497-johnny-dollar-lassie-sons-of-the-pioneers-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-497-johnny-dollar-lassie-sons-of-the-pioneers-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Johnny Dollar, Lassie, and Sons of the Pioneers",
