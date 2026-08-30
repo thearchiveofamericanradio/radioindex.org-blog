@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — I Love a Mystery & The Lineup
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, I Love a Mystery, Carlton E Morse, Michael Raffetto, Barton Yarborough, Russell Thorson, Jim Boles, Fleischmanns Yeast, Oxydol, Mutual, The Lineup, Bill Johnstone, Wally Maher, Jaime del Valle, E Jack Neuman, CBS Radio, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 785)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on **September 5** across five serialized cliffhangers written and directed by Carlton E. Morse on *I Love a Mystery* (*The Battle of the Century* [1939], *The Temple of Vampires* [1944], *Murder in Turquoise Pass* [1950], *The Girl in the Gilded Cage* [1951], and *The Cobra King Strikes Back* [1952]) starring Michael Raffetto & Russell Thorson as Jack Packard alongside Doc Long, and Jaime del Valle's gritty San Francisco police procedural *The Lineup* starring Bill Johnstone and Wally Maher, Michael Raffetto (1939–1944), Russell Thorson (1950–1952), and Bill Johnstone (1951):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 785)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `ILoveAMystery_1939_BattleCentury5.mp3` <br>*Alt*: `Battle of the Century - Part 5 I Love a Mystery` | **"The Battle of the Century (Part 5) with Michael Raffetto"** | **NBC Red (WEAF)**<br>1939-09-05<br>7:15 PM EDST | **Standard Brands**<br>Fleischmann's Yeast | **Raffetto, Yarborough & York** | **Carlton E. Morse (Writer/Dir.)** | `["Adventure", "Mystery", "I Love a Mystery", "Carlton E Morse", "Fleischmanns Yeast"]` | Jack Packard and Doc Long dodge hired snipers in the San Francisco Chinatown alleyways while attempting to safeguard an imperiled industrial heiress. |
+| `ILoveAMystery_1944_TempleVampires11.mp3` <br>*Alt*: `Temple of Vampires - Part 11 I Love a Mystery` | **"The Temple of Vampires (Part 11) with Michael Raffetto"** | **CBS (WABC)**<br>1944-09-05<br>7:00 PM EWT | **Procter & Gamble**<br>Oxydol & Dreft | **Raffetto & Yarborough** | **Carlton E. Morse (Writer/Dir.)** | `["Adventure", "Mystery", "I Love a Mystery", "Carlton E Morse", "Oxydol"]` | The A-1 Detective Agency trio descends into the subterranean catacombs beneath an Aztec temple where bloodthirsty cultists guard a secret treasure. |
+| `ILoveAMystery_1950_TurquoisePass12.mp3` <br>*Alt*: `Murder in Turquoise Pass - Part 12 I Love a Mystery` | **"Murder in Turquoise Pass (Part 12) with Russell Thorson"** | **Mutual (WOR)**<br>1950-09-05<br>7:45 PM EDT | **Sustaining**<br>Radio Mystery Serial | **Russell Thorson & Boles** | **Carlton E. Morse (Writer/Dir.)** | `["Adventure", "Mystery", "I Love a Mystery", "Carlton E Morse", "Mutual"]` | Jack and Doc track an armed escaped convict through treacherous desert rock formations in Nevada after discovering a hidden cache of turquoise. |
+| `ILoveAMystery_1951_GildedCage3.mp3` <br>*Alt*: `The Girl in the Gilded Cage - Part 3 I Love a Mystery` | **"The Girl in the Gilded Cage (Part 3) with Russell Thorson"** | **Mutual (WOR)**<br>1951-09-05<br>10:15 PM EDT | **Sustaining**<br>Radio Mystery Serial | **Thorson & McCambridge** | **Carlton E. Morse (Writer/Dir.)** | `["Adventure", "Mystery", "I Love a Mystery", "Carlton E Morse", "Mutual"]` | The detectives investigate an eerie French Quarter mansion where a young woman is kept prisoner by an eccentric antique dealer. |
+| `ILoveAMystery_1952_CobraKing5.mp3` <br>*Alt*: `The Cobra King Strikes Back - Part 5 I Love a Mystery` | **"The Cobra King Strikes Back (Part 5) with Russell Thorson"** | **Mutual (WOR)**<br>1952-09-05<br>10:15 PM EDT | **Sustaining**<br>Adventure Serial | **Russell Thorson & Boles** | **Carlton E. Morse (Writer/Dir.)** | `["Adventure", "Mystery", "I Love a Mystery", "Carlton E Morse", "Mutual"]` | Jack and Doc encounter lethal venomous serpents planted in their hotel quarters by the vengeful disciples of the Cobra King. |
+| `TheLineup_1951_HunterMurder.mp3` <br>*Alt*: `The Pointless Pierson Polemic Palarity Case The Lineup` | **"The Michael Hunter Murder Case with Bill Johnstone"** | **CBS (WCBS)**<br>1951-09-05<br>10:00 PM EDT | **Sustaining**<br>Police Procedural | **Bill Johnstone & Maher** | **Jaime del Valle & Neuman** | `["Police Procedural", "Detective", "The Lineup", "Bill Johnstone", "CBS"]` | San Francisco police detectives track a calculating embezzler who murdered his corporate partner and attempted to frame a night watchman. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 24 / 401 (377 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
