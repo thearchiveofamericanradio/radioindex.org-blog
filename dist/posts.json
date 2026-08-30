@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-748-mr-and-mrs-north-saint-peg-lynch-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-748-mr-and-mrs-north-saint-peg-lynch-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Mr. & Mrs. North, The Saint & Peg Lynch",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 748)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across two classic investigations on <em>Mr. and Mrs. North</em> with Alice Frost &amp; Joseph Curtin (bridal suite homicide for Woodbury Soap in 1946 and payroll ambush deductions for Colgate in 1951), Paul Rhys starring as Simon Templar in <em>The Saint Closes the Case</em> on BBC Radio 4, Peg Lynch&#39;s domestic hilarity on <em>The Couple Next Door</em> (ferris wheel stalls and medieval armor suits), and Hearst&#39;s <em>Front Page Drama</em>, Alice Frost &amp; Joseph Curtin (1946, 1951), Paul Rhys (1995), Peg Lynch &amp; Alan Bunce (1958, 1959), and <em>Front Page Drama</em> (1937–1995):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 748)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>MrMrsNorth_1946_MatrimonialMurder.mp3</code> <br><em>Alt</em>: <code>The Matrimonial Murder Mr and Mrs North</code></td>\n<td><strong>&quot;The Matrimonial Murder with Alice Frost and Joseph Curtin&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-09-04<br>8:00 PM EDT</td>\n<td><strong>Andrew Jergens Co.</strong><br>Woodbury Facial Soap</td>\n<td><strong>Alice Frost &amp; Joseph Curtin</strong></td>\n<td><strong>Frank Lovejoy &amp; Lockridges</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Comedy&quot;, &quot;Mr and Mrs North&quot;, &quot;Alice Frost&quot;, &quot;Woodbury&quot;]</code></td>\n<td>Pam and Jerry North stumble upon a murdered groom inside a lavish bridal suite on the eve of a society wedding.</td>\n</tr>\n<tr>\n<td><code>MrMrsNorth_1951_WithoutWarning.mp3</code> <br><em>Alt</em>: <code>Without Warning Mr and Mrs North</code></td>\n<td><strong>&quot;Without Warning with Alice Frost and Joseph Curtin&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-09-04<br>8:30 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Halo &amp; Colgate Shave</td>\n<td><strong>Alice Frost &amp; Joseph Curtin</strong></td>\n<td><strong>Francis De Sales &amp; Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Comedy&quot;, &quot;Mr and Mrs North&quot;, &quot;Alice Frost&quot;, &quot;Colgate&quot;]</code></td>\n<td>Pamela North notices subtle inconsistencies in an eyewitness report that exonerate an innocent clerk accused of a drive-by payroll ambush.</td>\n</tr>\n<tr>\n<td><code>Saint_1995_ClosesCase.mp3</code> <br><em>Alt</em>: <code>Closes the Case Saint</code></td>\n<td><strong>&quot;The Saint Closes the Case with Paul Rhys&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1995-09-04</td>\n<td><strong>Sustaining</strong><br>British Detective</td>\n<td><strong>Paul Rhys &amp; Fullerton</strong></td>\n<td><strong>Roger Danes &amp; Charteris</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Saint&quot;, &quot;Paul Rhys&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>Simon Templar infiltrates a high-society blackmail ring operated by an international arms merchant at a luxury seaside casino.</td>\n</tr>\n<tr>\n<td><code>FrontPageDrama_1937_BusinessPleasure.mp3</code> <br><em>Alt</em>: <code>Business Before Pleasure Front Page Drama</code></td>\n<td><strong>&quot;Business Before Pleasure with The American Weekly&quot;</strong></td>\n<td><strong>Syndication / Hearst</strong><br>1937-09-04</td>\n<td><strong>Hearst Newspapers</strong><br>The American Weekly</td>\n<td><strong>Dramatic Repertory Cast</strong></td>\n<td><strong>Hearst Radio Syndicate</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Front Page Drama&quot;, &quot;Hearst&quot;, &quot;The American Weekly&quot;]</code></td>\n<td>A dramatic newspaper headline reenactment following a crafty diamond merchant who sets an undercover trap for a jewel thief.</td>\n</tr>\n<tr>\n<td><code>CoupleNextDoor_1958_FerrisWheel.mp3</code> <br><em>Alt</em>: <code>Ride On The Ferris Wheel Couple Next Door, The</code></td>\n<td><strong>&quot;Ride on the Ferris Wheel with Peg Lynch and Alan Bunce&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1958-09-04<br>10:05 AM EDT</td>\n<td><strong>Sustaining</strong><br>Daytime Domestic Comedy</td>\n<td><strong>Peg Lynch &amp; Alan Bunce</strong></td>\n<td><strong>Peg Lynch (Author)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;The Couple Next Door&quot;, &quot;Peg Lynch&quot;, &quot;Alan Bunce&quot;]</code></td>\n<td>A family trip to the county fair carnival turns into comic pandemonium when the ferris wheel halts unexpectedly at the very top.</td>\n</tr>\n<tr>\n<td><code>CoupleNextDoor_1959_ArmorSuit.mp3</code> <br><em>Alt</em>: <code>Still Trapped In Armor Suit Couple Next Door, The</code></td>\n<td><strong>&quot;Still Trapped in Armor Suit with Peg Lynch and Alan Bunce&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1959-09-04<br>10:05 AM EDT</td>\n<td><strong>Sustaining</strong><br>Daytime Domestic Comedy</td>\n<td><strong>Peg Lynch &amp; Alan Bunce</strong></td>\n<td><strong>Peg Lynch (Author)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;The Couple Next Door&quot;, &quot;Peg Lynch&quot;, &quot;Alan Bunce&quot;]</code></td>\n<td>A husband remains helplessly stuck inside an antique suit of medieval armor while his wife tries to prepare dinner for unexpected guests.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 210 / 471 (197 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 748 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Mr and Mrs North",
+        "Alice Frost",
+        "Joseph Curtin",
+        "Richard and Frances Lockridge",
+        "Woodbury Soap",
+        "Colgate",
+        "The Saint",
+        "Paul Rhys",
+        "Leslie Charteris",
+        "BBC Radio 4",
+        "Front Page Drama",
+        "The American Weekly",
+        "Hearst",
+        "The Couple Next Door",
+        "Peg Lynch",
+        "Alan Bunce",
+        "CBS Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-747-vincent-price-mets-baseball-shirer-berlin-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-747-vincent-price-mets-baseball-shirer-berlin-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Vincent Price, Mets Baseball & Shirer in Berlin",
