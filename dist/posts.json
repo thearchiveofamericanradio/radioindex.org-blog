@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-588-cary-grant-roy-rogers-lena-horne-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-588-cary-grant-roy-rogers-lena-horne-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Cary Grant, Roy Rogers & Lena Horne",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 588)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic screwball romantic comedy, western adventure songs, groundbreaking Black musical revues, progressive jazz remotes, hardboiled detective mysteries, and major league baseball interviews, Cary Grant in <em>My Favorite Wife</em> on <em>Hollywood Radio Theater</em> (1943), Roy Rogers and Dale Evans for Dodge (1954), Lena Horne and Eddie Green in <em>Forecast: Jubilee</em> (1941), Stan Kenton featuring June Christy (1952), William Gargan in <em>Barrie Craig</em> (1952), and Bob Elson with Houston Astros manager Bill Virdon (1941–1978):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 588)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Grant_1943_FavoriteWife.mp3</code> <br><em>Alt</em>: <code>Hollywood Radio Theater 1943 Episode</code></td>\n<td><strong>&quot;My Favorite Wife with Cary Grant, Gail Patrick, and AFRS&quot;</strong></td>\n<td><strong>AFRS Rebroadcast</strong><br>1943-09-02</td>\n<td><strong>Armed Forces Radio</strong><br>Military Rebroadcast</td>\n<td><strong>Cary Grant (Nick)</strong></td>\n<td><strong>Gail Patrick (Bianca)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Romance&quot;, &quot;Hollywood Radio Theater&quot;, &quot;Cary Grant&quot;, &quot;AFRS&quot;]</code></td>\n<td>A newly remarried husband is thrown into comedic turmoil when his first wife returns home after seven years shipwrecked on a desert island.</td>\n</tr>\n<tr>\n<td><code>Rogers_1954_VirginiaTruckee.mp3</code> <br><em>Alt</em>: <code>Song - &#39;The Virginia and the Truckee Line&#39;</code></td>\n<td><strong>&quot;The Virginia and the Truckee Line with Dale Evans and Dodge&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1954-09-02<br>8:00 PM EDT</td>\n<td><strong>Dodge Dealers</strong><br>Dodge Trucks &amp; Cars</td>\n<td><strong>Roy Rogers</strong>, <strong>Dale Evans</strong></td>\n<td><strong>Sons of the Pioneers</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Music&quot;, &quot;Roy Rogers&quot;, &quot;Dodge&quot;]</code></td>\n<td>Roy Rogers tracks masked railway bandits planning to dynamite a wooden trestle bridge along the historic Virginia and Truckee line.</td>\n</tr>\n<tr>\n<td><code>Forecast_1941_Jubilee.mp3</code> <br><em>Alt</em>: <code>Jubilee Forecast 1941</code></td>\n<td><strong>&quot;Jubilee with Eddie Green, Lena Horne, and CBS&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1941-09-02<br>9:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Musical Revue Pilot</td>\n<td><strong>Eddie Green</strong>, <strong>Lena Horne</strong></td>\n<td><strong>Golden Gate Quartet</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Forecast&quot;, &quot;Lena Horne&quot;]</code></td>\n<td>Comedian Eddie Green and jazz vocalist Lena Horne host an all-Black musical revue pilot featuring spirituals and swing classics.</td>\n</tr>\n<tr>\n<td><code>Kenton_1952_LoveForSale.mp3</code> <br><em>Alt</em>: <code>Love for Sale Stan Kenton</code></td>\n<td><strong>&quot;Love for Sale with June Christy and Sustaining&quot;</strong></td>\n<td><strong>NBC Remote</strong><br>1952-09-02</td>\n<td><strong>Sustaining</strong><br>Progressive Jazz</td>\n<td><strong>Stan Kenton Orchestra</strong></td>\n<td><strong>June Christy (Vocals)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Big Band&quot;, &quot;Stan Kenton&quot;, &quot;June Christy&quot;]</code></td>\n<td>Stan Kenton presents progressive big band orchestrations featuring Cole Porter&#39;s Love for Sale and complex polyphonic jazz arrangements.</td>\n</tr>\n<tr>\n<td><code>Craig_1952_BloodFlowers.mp3</code> <br><em>Alt</em>: <code>Blood on the Flowers Barrie Craig</code></td>\n<td><strong>&quot;Blood on the Flowers with William Gargan and Sustaining&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-09-02<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Private Detective</td>\n<td><strong>William Gargan (Craig)</strong></td>\n<td><strong>Louis Vittes (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Barrie Craig&quot;, &quot;William Gargan&quot;, &quot;NBC&quot;]</code></td>\n<td>Barrie Craig protects a high-society florist who receives poisoned imported orchid corsages designed to kill wealthy debutantes.</td>\n</tr>\n<tr>\n<td><code>Elson_1978_BillVirdon.mp3</code> <br><em>Alt</em>: <code>Bill Virdon Bob Elson Interviews</code></td>\n<td><strong>&quot;Interview with Houston Astros Manager Bill Virdon&quot;</strong></td>\n<td><strong>WGN Chicago</strong><br>1978-09-02</td>\n<td><strong>Sustaining</strong><br>Sports Dialogue</td>\n<td><strong>Bob Elson (Interviewer)</strong></td>\n<td><strong>Bill Virdon (Manager)</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Interview&quot;, &quot;Baseball&quot;, &quot;Bob Elson&quot;, &quot;Houston Astros&quot;]</code></td>\n<td>Veteran sports broadcaster Bob Elson interviews Houston Astros manager Bill Virdon about late-season National League pennant race strategies.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 140 / 480 (340 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 588 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Hollywood Radio Theater",
+        "Cary Grant",
+        "Gail Patrick",
+        "My Favorite Wife",
+        "AFRS",
+        "The Roy Rogers Show",
+        "Dale Evans",
+        "Dodge Dealers",
+        "Forecast",
+        "Jubilee",
+        "Lena Horne",
+        "Eddie Green",
+        "Stan Kenton",
+        "June Christy",
+        "Barrie Craig Confidential Investigator",
+        "William Gargan",
+        "Bob Elson Interviews",
+        "Bill Virdon",
+        "Houston Astros",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-587-the-shadow-orson-welles-navy-lark-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-587-the-shadow-orson-welles-navy-lark-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — The Shadow, Orson Welles & The Navy Lark",
