@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-516-destination-freedom-i-love-a-mystery-jimmy-durante-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-516-destination-freedom-i-love-a-mystery-jimmy-durante-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Destination Freedom, I Love a Mystery, and Jimmy Durante",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 516)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized pulp mystery metadata, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across trailblazing African American historical dramas, Carlton E. Morse supernatural and western serial arcs, daytime serial melodrama, MGM star-studded variety hours, and AFRS comedy broadcasts, Richard Durham&#39;s <em>Destination Freedom</em> (1951), two serialized chapters of <em>I Love a Mystery</em> (1944, 1950), Jan Miner in <em>Hilltop House</em> (1950), Robert Young with Boys Town founder Father Flanagan on <em>Good News of 1939</em> for Maxwell House (1938), and Jimmy Durante and Garry Moore for the Armed Forces Radio Service (1938–1951):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 516)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ILAM_1944_Vampires9.mp3</code> <br><em>Alt</em>: <code>Temple of Vampires - Part 9</code></td>\n<td><strong>&quot;Temple of Vampires (Part 9) with Michael Raffetto&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-01<br>7:00 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Ivory Bar Soap</td>\n<td><strong>Michael Raffetto</strong>, <strong>Doc</strong></td>\n<td><strong>Carlton E. Morse (Writer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;I Love A Mystery&quot;, &quot;Carlton E Morse&quot;, &quot;CBS&quot;]</code><br><em>Arc</em>: <strong>The Temple of Vampires (Part 9)</strong></td>\n<td>Jack Packard and Doc Long penetrate the subterranean corridors of an ancient Yucatan pyramid, searching for missing expedition members.</td>\n</tr>\n<tr>\n<td><code>ILAM_1950_Turquoise10.mp3</code> <br><em>Alt</em>: <code>Murder in Turquoise Pass - Part 10</code></td>\n<td><strong>&quot;Murder in Turquoise Pass (Part 10) with Russell Thorson&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-01<br>7:45 PM EDT</td>\n<td><strong>Sustaining</strong><br>Western Mystery</td>\n<td><strong>Russell Thorson</strong>, <strong>Boles</strong></td>\n<td><strong>Carlton E. Morse (Writer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;I Love A Mystery&quot;, &quot;Carlton E Morse&quot;, &quot;Mutual&quot;]</code><br><em>Arc</em>: <strong>Murder in Turquoise Pass (Part 10)</strong></td>\n<td>Jack and Doc track an armed fugitive across the rugged canyons of Turquoise Pass before a desert sandstorm wipes out the trail.</td>\n</tr>\n<tr>\n<td><code>Dest_Freedom_1951_Forten.mp3</code> <br><em>Alt</em>: <code>Destination Freedom 1951 Episode</code></td>\n<td><strong>&quot;The Key to the House (The Story of Charlotte Forten) with Richard Durham&quot;</strong></td>\n<td><strong>WMAQ / NBC</strong><br>1951-09-01<br>10:00 AM CST</td>\n<td><strong>Sustaining</strong><br>Civil Rights History</td>\n<td><strong>Fred Pinkard</strong>, <strong>Brown</strong></td>\n<td><strong>Richard Durham (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Black History&quot;, &quot;Biography&quot;, &quot;Destination Freedom&quot;, &quot;Richard Durham&quot;]</code></td>\n<td>A dramatization chronicles African American educator and abolitionist Charlotte Forten teaching freed slaves in the South Carolina Sea Islands during the Civil War.</td>\n</tr>\n<tr>\n<td><code>Hilltop_1950_Pixie.mp3</code> <br><em>Alt</em>: <code>Pixie&#39;s Adoption Is Endangered</code></td>\n<td><strong>&quot;Pixie&#39;s Adoption Is Endangered with Jan Miner&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-09-01<br>3:00 PM EDT</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer / One-A-Day</td>\n<td><strong>Jan Miner</strong>, <strong>Matthews</strong></td>\n<td><strong>Richton &amp; Stone (Writers)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Soap Opera&quot;, &quot;Hilltop House&quot;, &quot;Jan Miner&quot;, &quot;Alka-Seltzer&quot;]</code></td>\n<td>Julie Erickson fights to protect a young orphan&#39;s adoption when local gossip threatens to derail the custody hearings.</td>\n</tr>\n<tr>\n<td><code>Good_News_1938_Flanagan.mp3</code> <br><em>Alt</em>: <code>Guest Father Edward J Flannagan</code></td>\n<td><strong>&quot;Guest Father Edward J. Flanagan with Robert Young and Maxwell House&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1938-09-01<br>9:00 PM EDST</td>\n<td><strong>General Foods</strong><br>Maxwell House Coffee</td>\n<td><strong>Robert Young</strong>, <strong>Flanagan</strong></td>\n<td><strong>MGM Radio Productions</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Comedy&quot;, &quot;Music&quot;, &quot;Good News&quot;, &quot;Maxwell House&quot;, &quot;Boys Town&quot;]</code></td>\n<td>Robert Young welcomes Boys Town founder Father Flanagan alongside comedic routines from Frank Morgan and Baby Snooks.</td>\n</tr>\n<tr>\n<td><code>Caravan_1944_Durante.mp3</code> <br><em>Alt</em>: <code>AFRS Comedy Caravan Georgia Gibbs</code></td>\n<td><strong>&quot;Guest Georgia Gibbs with Jimmy Durante and Garry Moore (AFRS)&quot;</strong></td>\n<td><strong>CBS / AFRS</strong><br>1944-09-01<br>10:00 PM EWT</td>\n<td><strong>AFRS</strong><br>Military Entertainment</td>\n<td><strong>Jimmy Durante</strong>, <strong>Moore</strong></td>\n<td><strong>Roy Bargy Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Music&quot;, &quot;Jimmy Durante&quot;, &quot;Garry Moore&quot;, &quot;AFRS&quot;]</code></td>\n<td>Jimmy Durante and Garry Moore trade rapid-fire vaudeville insults and welcome vocalist Georgia Gibbs singing swinging big band numbers.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 18 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 516 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Destination Freedom",
+        "Richard Durham",
+        "Charlotte Forten",
+        "Black History",
+        "I Love A Mystery",
+        "Carlton E Morse",
+        "Temple of Vampires",
+        "Murder in Turquoise Pass",
+        "Serial Story",
+        "Hilltop House",
+        "Jan Miner",
+        "Good News of 1939",
+        "Robert Young",
+        "Father Flanagan",
+        "Boys Town",
+        "Jimmy Durante",
+        "Garry Moore",
+        "Georgia Gibbs",
+        "AFRS",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-515-vincent-price-the-avenger-i-love-a-mystery-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-515-vincent-price-the-avenger-i-love-a-mystery-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Vincent Price, The Avenger, and I Love a Mystery",

@@ -1,0 +1,33 @@
+# Archival Dispatch: September 1 Calendar Walk — Destination Freedom, I Love a Mystery, and Jimmy Durante
+
+**Date**: 2026-09-01  
+**Author**: radio index  
+**Tags**: September 1, Calendar Walk, Destination Freedom, Richard Durham, Charlotte Forten, Black History, I Love A Mystery, Carlton E Morse, Temple of Vampires, Murder in Turquoise Pass, Serial Story, Hilltop House, Jan Miner, Good News of 1939, Robert Young, Father Flanagan, Boys Town, Jimmy Durante, Garry Moore, Georgia Gibbs, AFRS, Alternate Titles, Original Filenames
+
+---
+
+## September 1 Archival Metadata Enrichment (Increment 516)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized pulp mystery metadata, and pure narrative synopses for broadcasts transmitting on **September 1** across trailblazing African American historical dramas, Carlton E. Morse supernatural and western serial arcs, daytime serial melodrama, MGM star-studded variety hours, and AFRS comedy broadcasts, Richard Durham's *Destination Freedom* (1951), two serialized chapters of *I Love a Mystery* (1944, 1950), Jan Miner in *Hilltop House* (1950), Robert Young with Boys Town founder Father Flanagan on *Good News of 1939* for Maxwell House (1938), and Jimmy Durante and Garry Moore for the Armed Forces Radio Service (1938–1951):
+
+---
+
+## 1. *September 1 Archival Inventory (Increment 516)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `ILAM_1944_Vampires9.mp3` <br>*Alt*: `Temple of Vampires - Part 9` | **"Temple of Vampires (Part 9) with Michael Raffetto"** | **CBS (WABC)**<br>1944-09-01<br>7:00 PM EWT | **Procter & Gamble**<br>Ivory Bar Soap | **Michael Raffetto**, **Doc** | **Carlton E. Morse (Writer)** | `["Adventure", "Mystery", "I Love A Mystery", "Carlton E Morse", "CBS"]`<br>*Arc*: **The Temple of Vampires (Part 9)** | Jack Packard and Doc Long penetrate the subterranean corridors of an ancient Yucatan pyramid, searching for missing expedition members. |
+| `ILAM_1950_Turquoise10.mp3` <br>*Alt*: `Murder in Turquoise Pass - Part 10` | **"Murder in Turquoise Pass (Part 10) with Russell Thorson"** | **Mutual (WOR)**<br>1950-09-01<br>7:45 PM EDT | **Sustaining**<br>Western Mystery | **Russell Thorson**, **Boles** | **Carlton E. Morse (Writer)** | `["Adventure", "Mystery", "I Love A Mystery", "Carlton E Morse", "Mutual"]`<br>*Arc*: **Murder in Turquoise Pass (Part 10)** | Jack and Doc track an armed fugitive across the rugged canyons of Turquoise Pass before a desert sandstorm wipes out the trail. |
+| `Dest_Freedom_1951_Forten.mp3` <br>*Alt*: `Destination Freedom 1951 Episode` | **"The Key to the House (The Story of Charlotte Forten) with Richard Durham"** | **WMAQ / NBC**<br>1951-09-01<br>10:00 AM CST | **Sustaining**<br>Civil Rights History | **Fred Pinkard**, **Brown** | **Richard Durham (Writer)** | `["Drama", "Black History", "Biography", "Destination Freedom", "Richard Durham"]` | A dramatization chronicles African American educator and abolitionist Charlotte Forten teaching freed slaves in the South Carolina Sea Islands during the Civil War. |
+| `Hilltop_1950_Pixie.mp3` <br>*Alt*: `Pixie's Adoption Is Endangered` | **"Pixie's Adoption Is Endangered with Jan Miner"** | **CBS (WCBS)**<br>1950-09-01<br>3:00 PM EDT | **Miles Laboratories**<br>Alka-Seltzer / One-A-Day | **Jan Miner**, **Matthews** | **Richton & Stone (Writers)** | `["Drama", "Soap Opera", "Hilltop House", "Jan Miner", "Alka-Seltzer"]` | Julie Erickson fights to protect a young orphan's adoption when local gossip threatens to derail the custody hearings. |
+| `Good_News_1938_Flanagan.mp3` <br>*Alt*: `Guest Father Edward J Flannagan` | **"Guest Father Edward J. Flanagan with Robert Young and Maxwell House"** | **NBC Red (WEAF)**<br>1938-09-01<br>9:00 PM EDST | **General Foods**<br>Maxwell House Coffee | **Robert Young**, **Flanagan** | **MGM Radio Productions** | `["Variety", "Comedy", "Music", "Good News", "Maxwell House", "Boys Town"]` | Robert Young welcomes Boys Town founder Father Flanagan alongside comedic routines from Frank Morgan and Baby Snooks. |
+| `Caravan_1944_Durante.mp3` <br>*Alt*: `AFRS Comedy Caravan Georgia Gibbs` | **"Guest Georgia Gibbs with Jimmy Durante and Garry Moore (AFRS)"** | **CBS / AFRS**<br>1944-09-01<br>10:00 PM EWT | **AFRS**<br>Military Entertainment | **Jimmy Durante**, **Moore** | **Roy Bargy Orchestra** | `["Comedy", "Variety", "Music", "Jimmy Durante", "Garry Moore", "AFRS"]` | Jimmy Durante and Garry Moore trade rapid-fire vaudeville insults and welcome vocalist Georgia Gibbs singing swinging big band numbers. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 18 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
