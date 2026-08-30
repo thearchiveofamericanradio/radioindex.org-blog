@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-602-burns-and-allen-fred-allen-fbi-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-602-burns-and-allen-fred-allen-fbi-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Burns & Allen, Fred Allen & FBI in Peace and War",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 602)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic American radio comedy banter, Shakespearean alley satire, South African theatrical sitcoms, and authentic Federal Bureau of Investigation crime procedurals, George Burns and Gracie Allen for Campbell&#39;s Soup and Hinds Honey &amp; Almond Cream (1936, 1940), Fred Allen hosting classical actor Maurice Evans (1945), Martin Blaine in <em>The FBI in Peace and War</em> for Lava Soap (1948), and <em>Jim the Great</em> on Springbok Radio (1936–1979):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 602)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Burns_1936_FallWardrobe.mp3</code> <br><em>Alt</em>: <code>Episode 49 Burns and Allen</code></td>\n<td><strong>&quot;Gracie&#39;s Fall Wardrobe with Campbell&#39;s Tomato Soup&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1936-09-02<br>8:30 PM EDST</td>\n<td><strong>Campbell Soup Co.</strong><br>Campbell&#39;s Tomato Soup</td>\n<td><strong>George Burns</strong>, <strong>Gracie</strong></td>\n<td><strong>Henry King &amp; His Orch.</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Burns and Allen&quot;, &quot;Gracie Allen&quot;, &quot;Campbells&quot;]</code></td>\n<td>Gracie attempts to economize on autumn fashion by enlisting George to model oversized fur coats and ladies&#39; millinery.</td>\n</tr>\n<tr>\n<td><code>Burns_1940_GeorgeOnTrial.mp3</code> <br><em>Alt</em>: <code>George Is on Trial Burns and Allen</code></td>\n<td><strong>&quot;George Is on Trial for Speeding with Hinds Honey &amp; Almond Cream&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-09-02<br>7:30 PM EDST</td>\n<td><strong>Lehn &amp; Fink</strong><br>Hinds Honey &amp; Almond</td>\n<td><strong>George Burns</strong>, <strong>Gracie</strong></td>\n<td><strong>Artie Shaw &amp; Senor Lee</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Burns and Allen&quot;, &quot;Gracie Allen&quot;, &quot;Hinds&quot;]</code></td>\n<td>Gracie takes the witness stand as defense counsel when George is hauled into municipal traffic court for exceeding the town speed limit.</td>\n</tr>\n<tr>\n<td><code>JimGreat_1970_TurnOfTide.mp3</code> <br><em>Alt</em>: <code>Turn Of The Tide Jim The Great</code></td>\n<td><strong>&quot;Turn of the Tide with Dramatic Comedy Cast&quot;</strong></td>\n<td><strong>Springbok Radio (SABC)</strong><br>1970-09-02</td>\n<td><strong>Commercial Sponsors</strong><br>Theatrical Sitcom</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Brian O&#39;Shaughnessy (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Jim The Great&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>A bumbling theatrical promoter attempts to stage an outdoor nautical pageant only for high tide to flood the stage equipment.</td>\n</tr>\n<tr>\n<td><code>JimGreat_1979_OhClaudius.mp3</code> <br><em>Alt</em>: <code>Oh Claudius Jim The Great</code></td>\n<td><strong>&quot;Oh Claudius with Dramatic Comedy Cast&quot;</strong></td>\n<td><strong>Springbok Radio (SABC)</strong><br>1979-09-02</td>\n<td><strong>Commercial Sponsors</strong><br>Theatrical Sitcom</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Brian O&#39;Shaughnessy (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Jim The Great&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>The theater troupe creates backstage pandemonium while rehearsing an amateur classical Roman tragedy riddled with forgotten lines.</td>\n</tr>\n<tr>\n<td><code>FredAllen_1945_MauriceEvans.mp3</code> <br><em>Alt</em>: <code>AFRS Collection Fred Allen Guest Maurice Evans</code></td>\n<td><strong>&quot;Guest Shakespearean Actor Maurice Evans with Fred Allen&quot;</strong></td>\n<td><strong>AFRS Globe Theater</strong><br>1945-09-02</td>\n<td><strong>Armed Forces Radio</strong><br>Service to Troops</td>\n<td><strong>Fred Allen</strong>, <strong>Evans</strong></td>\n<td><strong>Portland Hoffa &amp; Goodman</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Fred Allen&quot;, &quot;Maurice Evans&quot;, &quot;AFRS&quot;]</code></td>\n<td>Fred Allen welcomes distinguished classical actor Maurice Evans for comedic interpretations of Shakespearean monologues in Allen&#39;s Alley.</td>\n</tr>\n<tr>\n<td><code>FBI_1948_CellBlock7.mp3</code> <br><em>Alt</em>: <code>Cell Block No. 7 The FBI In Peace And War</code></td>\n<td><strong>&quot;Cell Block No. 7 with Martin Blaine and Lava Soap&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-09-02<br>8:00 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Lava Soap</td>\n<td><strong>Martin Blaine (Narrator)</strong></td>\n<td><strong>Max Marcin (Director)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;FBI&quot;, &quot;FBI In Peace And War&quot;, &quot;Lava Soap&quot;]</code></td>\n<td>Federal agents plant an undercover operative inside a federal penitentiary cell block to intercept blueprints for a planned prison breakout.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 224 / 480 (256 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 602 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Burns and Allen Show",
+        "George Burns",
+        "Gracie Allen",
+        "Campbells Soup",
+        "Hinds Honey and Almond",
+        "The Fred Allen Show",
+        "Maurice Evans",
+        "Portland Hoffa",
+        "AFRS",
+        "The FBI in Peace and War",
+        "Martin Blaine",
+        "Lava Soap",
+        "Jim the Great",
+        "Brian OShaughnessy",
+        "Springbok Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-601-gunsmoke-ellery-queen-paul-whiteman-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-601-gunsmoke-ellery-queen-paul-whiteman-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Gunsmoke, Ellery Queen & Paul Whiteman",
