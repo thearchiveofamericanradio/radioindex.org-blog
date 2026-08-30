@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-717-i-love-a-mystery-sicily-paratroopers-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-717-i-love-a-mystery-sicily-paratroopers-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Carlton E. Morse's I Love a Mystery & Sicily Paratroopers",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 717)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across five classic serial storylines created by Carlton E. Morse on <em>I Love a Mystery</em> spanning 1939 to 1952 (featuring Jack Packard and Doc Long tackling San Francisco conspirators, Nicaraguan vampire bat tombs, Arizona desert snipers, penthouse gilded cages, and Chinatown opium cobra assassins), alongside William N. Robson&#39;s Peabody Award-winning WWII docudrama on the Allied airborne invasion of Sicily on <em>The Man Behind the Gun</em>, Carlton E. Morse (1939, 1944, 1950, 1951, 1952), and William N. Robson (1939–1952):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 717)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ManBehindGun_1943_Sicily.mp3</code> <br><em>Alt</em>: <code>Paratroopers who prepared way for invasion of Sicily Man Behind the Gun</code></td>\n<td><strong>&quot;Paratroopers in the Invasion of Sicily with William N. Robson&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-09-04<br>7:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>WWII Docudrama</td>\n<td><strong>CBS Dramatic Repertory</strong></td>\n<td><strong>William N. Robson &amp; Herrmann</strong></td>\n<td><code>[&quot;Docudrama&quot;, &quot;WWII&quot;, &quot;The Man Behind The Gun&quot;, &quot;William N Robson&quot;, &quot;CBS&quot;]</code></td>\n<td><code>null</code></td>\n<td>American airborne paratroopers drop behind enemy lines in Sicily under darkness to seize strategic bridgeheads ahead of the Allied invasion fleet.</td>\n</tr>\n<tr>\n<td><code>ILoveMystery_1939_Battle4.mp3</code> <br><em>Alt</em>: <code>Battle of the Century - Part 4 I Love a Mystery</code></td>\n<td><strong>&quot;Battle of the Century (Part 4) with Jack and Doc&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-09-04<br>7:15 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Fleischmann&#39;s Yeast</td>\n<td><strong>Michael Raffetto &amp; Barton</strong></td>\n<td><strong>Carlton E. Morse (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;I Love A Mystery&quot;, &quot;Carlton E Morse&quot;, &quot;Fleischmanns&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Battle of the Century&quot;, &quot;part&quot;: 4, &quot;total_parts&quot;: 15}</code></td>\n<td>Jack Packard, Doc Long, and Reggie York track a mysterious foreign operative across San Francisco&#39;s cable car lines.</td>\n</tr>\n<tr>\n<td><code>ILoveMystery_1944_Vampires10.mp3</code> <br><em>Alt</em>: <code>Temple of Vampires - Part 10 I Love a Mystery</code></td>\n<td><strong>&quot;The Temple of Vampires (Part 10) with Jack and Doc&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-04<br>7:00 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Oxydol Granulated Soap</td>\n<td><strong>Michael Raffetto &amp; Barton</strong></td>\n<td><strong>Carlton E. Morse (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Horror&quot;, &quot;I Love A Mystery&quot;, &quot;Carlton E Morse&quot;, &quot;Oxydol&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Temple of Vampires&quot;, &quot;part&quot;: 10, &quot;total_parts&quot;: 15}</code></td>\n<td>Trapped inside a subterranean Mayan tomb in Nicaragua, Jack and Doc search for a hidden stone mechanism while avoiding bloodthirsty vampire bats.</td>\n</tr>\n<tr>\n<td><code>ILoveMystery_1950_Turquoise11.mp3</code> <br><em>Alt</em>: <code>Murder in Turquoise Pass - Part 11 I Love a Mystery</code></td>\n<td><strong>&quot;Murder in Turquoise Pass (Part 11) with Jack and Doc&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-04<br>10:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Mystery Serial</td>\n<td><strong>Russell Thorson &amp; Jim Boles</strong></td>\n<td><strong>Carlton E. Morse (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;I Love A Mystery&quot;, &quot;Carlton E Morse&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Murder in Turquoise Pass&quot;, &quot;part&quot;: 11, &quot;total_parts&quot;: 15}</code></td>\n<td>Jack Packard and Doc Long navigate a perilous canyon pass in the Arizona desert to confront an elusive sniper guarding an abandoned silver mine.</td>\n</tr>\n<tr>\n<td><code>ILoveMystery_1951_GildedCage2.mp3</code> <br><em>Alt</em>: <code>The Girl in the Gilded Cage - Part 2 I Love a Mystery</code></td>\n<td><strong>&quot;The Girl in the Gilded Cage (Part 2) with Jack and Doc&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-04<br>10:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Mystery Serial</td>\n<td><strong>Russell Thorson &amp; Jim Boles</strong></td>\n<td><strong>Carlton E. Morse (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;I Love A Mystery&quot;, &quot;Carlton E Morse&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Girl in the Gilded Cage&quot;, &quot;part&quot;: 2, &quot;total_parts&quot;: 15}</code></td>\n<td>Jack and Doc investigate a bizarre penthouse aviary where an eccentric millionaire keeps his terrified heiress stepdaughter under armed surveillance.</td>\n</tr>\n<tr>\n<td><code>ILoveMystery_1952_CobraKing4.mp3</code> <br><em>Alt</em>: <code>The Cobra King Strikes Back - Part 4 I Love a Mystery</code></td>\n<td><strong>&quot;The Cobra King Strikes Back (Part 4) with Jack and Doc&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-09-04<br>10:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Mystery Serial</td>\n<td><strong>Russell Thorson &amp; Jim Boles</strong></td>\n<td><strong>Carlton E. Morse (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;I Love A Mystery&quot;, &quot;Carlton E Morse&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Cobra King Strikes Back&quot;, &quot;part&quot;: 4, &quot;total_parts&quot;: 15}</code></td>\n<td>Jack and Doc face a deadly trap inside a waterfront Chinatown opium den when a hooded cult assassin unleashes venomous hooded snakes.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 24 / 471 (383 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 717 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "I Love a Mystery",
+        "Carlton E Morse",
+        "Michael Raffetto",
+        "Barton Yarborough",
+        "Russell Thorson",
+        "Jim Boles",
+        "Serial Story Arc",
+        "Battle of the Century",
+        "The Temple of Vampires",
+        "Murder in Turquoise Pass",
+        "The Girl in the Gilded Cage",
+        "The Cobra King Strikes Back",
+        "Fleischmann's Yeast",
+        "Oxydol",
+        "The Man Behind the Gun",
+        "William N Robson",
+        "Bernard Herrmann",
+        "CBS",
+        "WWII",
+        "Invasion of Sicily",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-716-glenn-miller-treasury-agent-dameron-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-716-glenn-miller-treasury-agent-dameron-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Glenn Miller, Treasury Agent & Dameron",
