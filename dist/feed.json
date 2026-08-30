@@ -6,6 +6,80 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-707-sherlock-holmes-burns-allen-golden-gate-quartet-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-707-sherlock-holmes-burns-allen-golden-gate-quartet-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Sherlock Holmes, Burns & Allen & Golden Gate Quartet",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 707)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across Baker Street sleuth adventures in a haunted Scottish castle for Petri Wine, George Burns and Gracie Allen&#39;s hilarious domestic misunderstandings with guest screen star James Mason for Maxwell House, NPR science fiction superstorm dramas, pioneering rhythmic jubilee gospel harmonies, and NBC public service broadcasts, Basil Rathbone and Nigel Bruce as <em>Sherlock Holmes</em> (1945), George and Gracie (1948), <em>2000X</em> (2000), <em>The Golden Gate Quartet</em> (1940), and NBC news specials (1940–2000):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 707)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SherlockHolmes_1945_LimpingGhost.mp3</code> <br><em>Alt</em>: <code>Sherlock Holmes Limping Ghost The New Adventures Of Sherlock Holmes</code></td>\n<td><strong>&quot;The Limping Ghost with Basil Rathbone as Sherlock Holmes&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1945-09-03<br>8:30 PM EWT</td>\n<td><strong>Petri Wine Company</strong><br>Petri California Wine</td>\n<td><strong>Basil Rathbone (Holmes)</strong></td>\n<td><strong>Nigel Bruce &amp; Boucher</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Sherlock Holmes&quot;, &quot;Basil Rathbone&quot;, &quot;Petri Wine&quot;]</code></td>\n<td>Sherlock Holmes and Dr. Watson investigate supernatural spectral footsteps in an ancient Scottish castle to trap an assassin.</td>\n</tr>\n<tr>\n<td><code>BurnsAllen_1948_JamesMason.mp3</code> <br><em>Alt</em>: <code>Guest James Mason The Burns and Allen Show</code></td>\n<td><strong>&quot;Guest James Mason with George Burns and Gracie Allen&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1948-09-03<br>8:30 PM EDT</td>\n<td><strong>General Foods</strong><br>Maxwell House Coffee</td>\n<td><strong>George Burns &amp; Gracie</strong></td>\n<td><strong>James Mason (Guest)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Burns and Allen&quot;, &quot;James Mason&quot;, &quot;Maxwell House&quot;]</code></td>\n<td>Gracie mistakes British screen actor James Mason for an escaped felon and attempts to rehabilitate him with bizarre domestic logic.</td>\n</tr>\n<tr>\n<td><code>GoldenGate_1940_ItsMeOhLord.mp3</code> <br><em>Alt</em>: <code>1st Spiritual &#39;It&#39;s Me, Oh Lord&#39; Golden Gate Quartet</code></td>\n<td><strong>&quot;It&#39;s Me, Oh Lord with The Golden Gate Quartet&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-03<br>4:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>Jubilee Gospel Harmony</td>\n<td><strong>The Golden Gate Quartet</strong></td>\n<td><strong>Willie Johnson &amp; Wilson</strong></td>\n<td><code>[&quot;Gospel&quot;, &quot;Vocal&quot;, &quot;Golden Gate Quartet&quot;, &quot;Spirituals&quot;, &quot;CBS&quot;]</code></td>\n<td>The pioneering jubilee gospel group performs rhythmic vocal percussion spirituals led by It&#39;s Me, Oh Lord and Jonah in the Whale.</td>\n</tr>\n<tr>\n<td><code>2000X_2000_HurricaneTrio.mp3</code> <br><em>Alt</em>: <code>Hurricane Trio 2000X</code></td>\n<td><strong>&quot;Hurricane Trio by Thea von Harbou with NPR&quot;</strong></td>\n<td><strong>NPR</strong><br>2000-09-03</td>\n<td><strong>Sustaining</strong><br>Sci-Fi Audio Drama</td>\n<td><strong>Hollywood Theater Ear</strong></td>\n<td><strong>Yuri Rasovsky &amp; Harbou</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Drama&quot;, &quot;2000X&quot;, &quot;NPR&quot;, &quot;Yuri Rasovsky&quot;]</code></td>\n<td>Meteorologists trapped inside an automated offshore weather station confront an unprecedentedCategory Six synthetic superstorm.</td>\n</tr>\n<tr>\n<td><code>NBC_1967_WorldReligion.mp3</code> <br><em>Alt</em>: <code>Episode NBC</code></td>\n<td><strong>&quot;The World of Religion (Ecumenical Council Updates)&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1967-09-03<br>10:30 AM EDT</td>\n<td><strong>Sustaining</strong><br>Religious News</td>\n<td><strong>NBC Religion Panel</strong></td>\n<td><strong>NBC News Staff</strong></td>\n<td><code>[&quot;Religion&quot;, &quot;News&quot;, &quot;NBC&quot;, &quot;Ecumenical&quot;, &quot;Vatican II&quot;]</code></td>\n<td>Religious scholars and news commentators examine post-Vatican II theological reforms and interfaith dialogue across modern congregations.</td>\n</tr>\n<tr>\n<td><code>NBC_1972_LaborDayEcon.mp3</code> <br><em>Alt</em>: <code>Episode NBC</code></td>\n<td><strong>&quot;Labor Day in the Global Economy with NBC News Analysis&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1972-09-03<br>6:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Economic Special</td>\n<td><strong>NBC Economic Analysts</strong></td>\n<td><strong>NBC News Staff</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;News&quot;, &quot;NBC&quot;, &quot;Labor Day&quot;, &quot;Economy&quot;]</code></td>\n<td>Labor leaders and economic analysts discuss factory automation trends and international trade competition on Labor Day weekend.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 433 / 469 (36 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 707 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The New Adventures of Sherlock Holmes",
+        "Basil Rathbone",
+        "Nigel Bruce",
+        "Petri Wine",
+        "Denis Green",
+        "Anthony Boucher",
+        "The Burns and Allen Show",
+        "George Burns",
+        "Gracie Allen",
+        "James Mason",
+        "Maxwell House",
+        "2000X",
+        "Thea von Harbou",
+        "Yuri Rasovsky",
+        "NPR",
+        "The Golden Gate Quartet",
+        "Jubilee Gospel",
+        "CBS",
+        "NBC Special Broadcast",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-706-archie-andrews-wayne-king-vj-retrospective-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-706-archie-andrews-wayne-king-vj-retrospective-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Archie Andrews, Wayne King & V-J Retrospectives",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 706)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across Riverdale teenage comedy misadventures with Archie and Jughead for Swift &amp; Company, lush saxophone waltz standards from Wayne King, South African science fiction body horror, retrospective documentary relays of the 1945 Tokyo Bay surrender ceremonies, constitutional educational programs, and theological discourses, Bob Hastings in <em>Archie Andrews</em> (1949), Wayne King (1947), <em>The Sounds of Darkness</em> (1974), <em>Mutual War Report</em> (1982), and NBC public service broadcasts (1947–1982):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 706)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ArchieAndrews_1949_SchoolJob.mp3</code> <br><em>Alt</em>: <code>Episode Archie Andrews</code></td>\n<td><strong>&quot;Archie&#39;s Back to School Job with Bob Hastings&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-09-03<br>10:30 AM EDT</td>\n<td><strong>Swift &amp; Company</strong><br>Peter Pan Peanut Butter</td>\n<td><strong>Bob Hastings (Archie)</strong></td>\n<td><strong>Harlan Stone &amp; Rice</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Teen&quot;, &quot;Archie Andrews&quot;, &quot;Bob Hastings&quot;, &quot;Swift&quot;]</code></td>\n<td>Archie takes an ill-fated part-time job delivering ice cream to raise money for back-to-school clothes and date Veronica.</td>\n</tr>\n<tr>\n<td><code>WayneKing_1947_MissouriWaltz.mp3</code> <br><em>Alt</em>: <code>Missouri Waltz The Incomparable Music Of Wayne King</code></td>\n<td><strong>&quot;The Missouri Waltz with Wayne King and His Orchestra&quot;</strong></td>\n<td><strong>Syndication / WGN</strong><br>1947-09-03</td>\n<td><strong>Sustaining</strong><br>Waltz Showcase</td>\n<td><strong>Wayne King &amp; Orch.</strong></td>\n<td><strong>Franklyn MacCormack</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Easy Listening&quot;, &quot;Wayne King&quot;, &quot;Missouri Waltz&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Wayne King leads his sweet orchestra in lush romantic arrangements and saxophone solos headlined by The Missouri Waltz.</td>\n</tr>\n<tr>\n<td><code>SoundsDarkness_1974_TwoForPrice.mp3</code> <br><em>Alt</em>: <code>Two for the Price of One The Sounds Of Darkness</code></td>\n<td><strong>&quot;Two for the Price of One with Springbok Radio Drama&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1974-09-03</td>\n<td><strong>Sustaining</strong><br>Psychological Horror</td>\n<td><strong>Springbok Drama Cast</strong></td>\n<td><strong>Colin Fish (Dir.)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Psychological&quot;, &quot;Sounds Of Darkness&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>A desperate gambler seeks an illegal back-alley surgeon to implant a cybernetic eyesight enhancer with gruesome side effects.</td>\n</tr>\n<tr>\n<td><code>MutualWar_1982_VJRetrospective.mp3</code> <br><em>Alt</em>: <code>Last Visit Mutual Overseas War Report</code></td>\n<td><strong>&quot;Retrospective on the 1945 V-J Day Surrender with Mutual&quot;</strong></td>\n<td><strong>Mutual Radio</strong><br>1982-09-03</td>\n<td><strong>Sustaining</strong><br>Historical Special</td>\n<td><strong>Mutual War Correspondents</strong></td>\n<td><strong>Mutual News Staff</strong></td>\n<td><code>[&quot;Documentary&quot;, &quot;History&quot;, &quot;Mutual&quot;, &quot;WWII&quot;, &quot;VJ Day&quot;]</code></td>\n<td>Mutual news commentators reflect on the surrender ceremonies aboard the USS Missouri that formally concluded World War II.</td>\n</tr>\n<tr>\n<td><code>NBC_1950_WordsWeLiveBy.mp3</code> <br><em>Alt</em>: <code>The Words We Live By NBC</code></td>\n<td><strong>&quot;The Words We Live By (The Constitution and Human Rights)&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1950-09-03<br>1:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Civic Education</td>\n<td><strong>NBC Dramatic Repertory</strong></td>\n<td><strong>Constitutional Scholars</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Education&quot;, &quot;NBC&quot;, &quot;Constitution&quot;, &quot;Civics&quot;]</code></td>\n<td>Scholars and dramatic actors explore the historical foundation of the United States Constitution and its protection of fundamental civil liberties.</td>\n</tr>\n<tr>\n<td><code>NBC_1961_CatholicHourLove15.mp3</code> <br><em>Alt</em>: <code>Love - Human And Divine # 15 NBC</code></td>\n<td><strong>&quot;Love, Human and Divine (Part 15) with Father Thomas Reese&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1961-09-03<br>2:30 PM EDT</td>\n<td><strong>Natl. Catholic Men</strong><br>The Catholic Hour</td>\n<td><strong>Father Thomas Reese</strong></td>\n<td><strong>Catholic Hour Choir</strong></td>\n<td><code>[&quot;Religion&quot;, &quot;Inspirational&quot;, &quot;The Catholic Hour&quot;, &quot;NBC&quot;, &quot;Father Thomas Reese&quot;]</code></td>\n<td>Father Thomas Reese delivers a theological address on balancing earthly romantic affection with transcendent spiritual devotion.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 427 / 469 (42 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 706 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Archie Andrews",
+        "Bob Hastings",
+        "Harlan Stone",
+        "Rosemary Rice",
+        "Swift & Company",
+        "The Incomparable Music of Wayne King",
+        "Wayne King",
+        "Missouri Waltz",
+        "Mutual Overseas War Report",
+        "V-J Day Surrender",
+        "USS Missouri",
+        "The Sounds of Darkness",
+        "Springbok Radio",
+        "NBC Special Broadcast",
+        "The Words We Live By",
+        "The Catholic Hour",
+        "Father Thomas Reese",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-705-the-thin-man-edward-r-murrow-clyde-beatty-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-705-the-thin-man-edward-r-murrow-clyde-beatty-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — The Thin Man, Edward R. Murrow & Clyde Beatty",
