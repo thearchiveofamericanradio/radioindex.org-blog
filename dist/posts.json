@@ -41,6 +41,76 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-445-saturday-night-theatre-quiet-please-crime-doctor-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-445-saturday-night-theatre-quiet-please-crime-doctor-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Saturday Night Theatre, Quiet, Please, and Crime Doctor",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 445)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across British BBC radio drama and American network broadcasting, three BBC <em>Saturday Night Theatre</em> productions spanning Terence Rattigan&#39;s <em>The Winslow Boy</em> (1969), Peter Coke in <em>High Gloss</em> (1958), and Enid Bagnold&#39;s <em>The Short Spring</em> (1952), Wyllis Cooper&#39;s psychological horror <em>Quiet, Please</em> (1948), Everett Sloane in <em>Crime Doctor</em> for Philip Morris (1942), and <em>The Voice of the Shofar</em> on <em>The Eternal Light</em> (1942–1970):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 445)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>NBC_1970_Shofar.mp3</code> <br><em>Alt</em>: <code>Eternal Light Shofar 1970</code></td>\n<td><strong>&quot;The Eternal Light: The Voice of the Shofar&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1970-08-30<br>12:30 PM EDT</td>\n<td><strong>Jewish Theological Sem.</strong><br>JTSA / NBC</td>\n<td><strong>Dramatic Cast Ensemble</strong></td>\n<td><strong>Marc Siegel (Writer)</strong></td>\n<td><code>[&quot;Religious&quot;, &quot;Drama&quot;, &quot;Jewish&quot;, &quot;History&quot;, &quot;NBC&quot;]</code></td>\n<td>A community elder teaches youth the spiritual traditions and moral awakening symbolized by sounding the ram&#39;s horn.</td>\n</tr>\n<tr>\n<td><code>Crime_Doctor_1942_Gambler.mp3</code> <br><em>Alt</em>: <code>Bankrupt Gambler Ordway</code></td>\n<td><strong>&quot;The Case of the Bankrupt Gambler with Everett Sloane&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-08-30<br>8:30 PM EWT</td>\n<td><strong>Philip Morris &amp; Co.</strong><br>Philip Morris Cigarettes</td>\n<td><strong>Everett Sloane</strong> (Dr. Ordway)</td>\n<td><strong>Max Marcin (Creator)</strong></td>\n<td><code>[&quot;Psychological&quot;, &quot;Crime&quot;, &quot;Medical&quot;, &quot;Everett Sloane&quot;, &quot;Philip Morris&quot;]</code></td>\n<td>Dr. Benjamin Ordway determines whether a bankrupt gambler committed armed robbery out of desperate criminal intent or mental illness.</td>\n</tr>\n<tr>\n<td><code>Quiet_Please_1948_Motive.mp3</code> <br><em>Alt</em>: <code>Quiet Please Motive Chappell</code></td>\n<td><strong>&quot;Motive with Ernest Chappell&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-08-30<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Psychological Horror</td>\n<td><strong>Ernest Chappell</strong> (Narrator)</td>\n<td><strong>Wyllis Cooper (Dir / Writer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Psychological&quot;, &quot;Suspense&quot;, &quot;Wyllis Cooper&quot;, &quot;Ernest Chappell&quot;]</code></td>\n<td>A man discovers that a sinister psychic presence forces ordinary people to commit unprovoked murders without understandable motive.</td>\n</tr>\n<tr>\n<td><code>SNT_1952_Spring.mp3</code> <br><em>Alt</em>: <code>The Short Spring Bagnold</code></td>\n<td><strong>&quot;The Short Spring by Enid Bagnold&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1952-08-30<br>9:15 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>BBC Repertory Co.</strong></td>\n<td><strong>Enid Bagnold (Playwright)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;British&quot;, &quot;BBC Home Service&quot;, &quot;Theater&quot;, &quot;Adaptation&quot;]</code></td>\n<td>An aristocratic English family navigates sudden emotional upheaval and generational conflicts during an idyllic country house spring.</td>\n</tr>\n<tr>\n<td><code>SNT_1958_HighGloss.mp3</code> <br><em>Alt</em>: <code>High Gloss Peter Coke</code></td>\n<td><strong>&quot;High Gloss with Peter Coke&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1958-08-30<br>9:15 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>Peter Coke</strong>, <strong>Westbury</strong></td>\n<td><strong>Audrey Cameron (Producer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;British&quot;, &quot;BBC Home Service&quot;, &quot;Peter Coke&quot;]</code></td>\n<td>A suave London art dealer discovers an apparent antique masterpiece in his gallery is at the center of a sophisticated art forgery racket.</td>\n</tr>\n<tr>\n<td><code>SNT_1969_Winslow.mp3</code> <br><em>Alt</em>: <code>The Winslow Boy Rattigan</code></td>\n<td><strong>&quot;Terence Rattigan&#39;s The Winslow Boy&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1969-08-30<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>BBC Repertory Co.</strong></td>\n<td><strong>Terence Rattigan (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Classics&quot;, &quot;Courtroom&quot;, &quot;British&quot;, &quot;Terence Rattigan&quot;]</code></td>\n<td>A stubborn father hires an eminent barrister to fight the Admiralty in court to clear his young cadet son accused of stealing a five-shilling postal order.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 342 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 445 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "Saturday Night Theatre",
+        "BBC Home Service",
+        "BBC Radio 4",
+        "Terence Rattigan",
+        "The Winslow Boy",
+        "Peter Coke",
+        "Enid Bagnold",
+        "Quiet Please",
+        "Wyllis Cooper",
+        "Ernest Chappell",
+        "Crime Doctor",
+        "Everett Sloane",
+        "Dr Benjamin Ordway",
+        "Max Marcin",
+        "Philip Morris",
+        "The Eternal Light",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-444-thin-man-archie-andrews-aldrich-family-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-444-thin-man-archie-andrews-aldrich-family-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Thin Man, Archie Andrews, and The Aldrich Family",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 444)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network comedy, mystery, and religious drama, Les Tremayne and Claudia Morgan in <em>The Adventures of the Thin Man</em> for Sanka Coffee (1946), Dick Jones in <em>The Aldrich Family</em> (1946), Bob Hastings in <em>Archie Andrews</em> (1947), and NBC religious dramas <em>Words We Live By</em> and <em>The Eternal Light</em> (1946–1964):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 444)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Aldrich_1946_Admirer.mp3</code> <br><em>Alt</em>: <code>Henrys Secret Admirer Jones</code></td>\n<td><strong>&quot;Henry&#39;s Secret Admirer with Dick Jones&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1946-08-30<br>8:00 PM EDT</td>\n<td><strong>General Foods</strong><br>Post&#39;s 40% Bran Flakes</td>\n<td><strong>Dick Jones</strong>, <strong>Jackie Kelk</strong></td>\n<td><strong>Clifford Goldsmith (Creator)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Teen&quot;, &quot;Dick Jones&quot;, &quot;Clifford Goldsmith&quot;]</code></td>\n<td>Henry Aldrich mistakenly assumes an anonymous scented letter was written by a glamorous new girl at Centerville High.</td>\n</tr>\n<tr>\n<td><code>Thin_Man_1946_FrozenStiff.mp3</code> <br><em>Alt</em>: <code>TCOT Frozen Stiff Thin Man</code></td>\n<td><strong>&quot;The Case of the Frozen Stiff&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1946-08-30<br>8:30 PM EDT</td>\n<td><strong>General Foods</strong><br>Sanka Coffee / Postum</td>\n<td><strong>Les Tremayne</strong>, <strong>Morgan</strong></td>\n<td><strong>Dashiell Hammett (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Comedy&quot;, &quot;Dashiell Hammett&quot;, &quot;Les Tremayne&quot;]</code></td>\n<td>Nick and Nora Charles solve the baffling murder of a furrier whose frozen body is discovered inside an industrial refrigeration vault.</td>\n</tr>\n<tr>\n<td><code>Archie_1947_Clock.mp3</code> <br><em>Alt</em>: <code>Archie Andrews Clock Episode</code></td>\n<td><strong>&quot;Archie Fixes Mr. Andrews&#39; Antique Clock&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-08-30<br>10:30 AM EDT</td>\n<td><strong>Swift &amp; Company</strong><br>Peter Pan Peanut Butter</td>\n<td><strong>Bob Hastings</strong>, <strong>Stone</strong></td>\n<td><strong>Bob Montana (Creator)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Teen&quot;, &quot;Archie Comics&quot;, &quot;Bob Hastings&quot;]</code></td>\n<td>Archie and Jughead dismantle Fred Andrews&#39; prized antique grandfather clock to repair a loose spring, leaving dozens of spare gears.</td>\n</tr>\n<tr>\n<td><code>NBC_1953_Joseph9.mp3</code> <br><em>Alt</em>: <code>Human Problems Joseph Story 9</code></td>\n<td><strong>&quot;Words We Live By: Human Problems of the Joseph Story (Part 9)&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1953-08-30<br>12:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Religious Series</td>\n<td><strong>Dramatic Cast</strong>, <strong>Bokser</strong></td>\n<td><strong>NBC Religious Staff</strong></td>\n<td><code>[&quot;Religious&quot;, &quot;Drama&quot;, &quot;History&quot;, &quot;NBC&quot;, &quot;Biblical&quot;]</code><br><em>Arc</em>: <strong>Human Problems of the Joseph Story (Part 9 of 10)</strong></td>\n<td>Joseph reveals his true identity to his astonished brothers in Egypt, illustrating the themes of reconciliation and familial forgiveness.</td>\n</tr>\n<tr>\n<td><code>NBC_1959_Kings.mp3</code> <br><em>Alt</em>: <code>Legends of the Bible The Kings</code></td>\n<td><strong>&quot;The Eternal Light: Legends of the Bible - The Kings&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1959-08-30<br>12:30 PM EDT</td>\n<td><strong>Jewish Theological Sem.</strong><br>JTSA / NBC</td>\n<td><strong>Roger De Koven</strong>, <strong>Rose</strong></td>\n<td><strong>Morton Wishengrad (Writer)</strong></td>\n<td><code>[&quot;Religious&quot;, &quot;Drama&quot;, &quot;Jewish&quot;, &quot;History&quot;, &quot;NBC&quot;]</code></td>\n<td>A dramatic examination of the biblical reign and moral responsibilities of King Solomon during the building of the Temple in Jerusalem.</td>\n</tr>\n<tr>\n<td><code>NBC_1964_Dilemmas3.mp3</code> <br><em>Alt</em>: <code>Moral Dilemmas Bible 3</code></td>\n<td><strong>&quot;The Eternal Light: Moral Dilemmas of the Bible (Part 3)&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1964-08-30<br>12:30 PM EDT</td>\n<td><strong>Jewish Theological Sem.</strong><br>JTSA / NBC</td>\n<td><strong>Dramatic Cast Ensemble</strong></td>\n<td><strong>Marc Siegel (Writer)</strong></td>\n<td><code>[&quot;Religious&quot;, &quot;Drama&quot;, &quot;Jewish&quot;, &quot;History&quot;, &quot;NBC&quot;]</code></td>\n<td>Scholars and actors dramatize the prophetic confrontation between the prophet Nathan and King David over the death of Uriah the Hittite.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 336 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 444 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "The Adventures of the Thin Man",
+        "Dashiell Hammett",
+        "Les Tremayne",
+        "Claudia Morgan",
+        "Sanka Coffee",
+        "The Aldrich Family",
+        "Clifford Goldsmith",
+        "Dick Jones",
+        "Jackie Kelk",
+        "Archie Andrews",
+        "Bob Hastings",
+        "Harlan Stone",
+        "Peter Pan Peanut Butter",
+        "The Eternal Light",
+        "Words We Live By",
+        "Serial Story",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-443-nero-wolfe-count-basie-bob-and-ray-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-443-nero-wolfe-count-basie-bob-and-ray-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — Nero Wolfe, Count Basie on Jubilee, and Bob & Ray",

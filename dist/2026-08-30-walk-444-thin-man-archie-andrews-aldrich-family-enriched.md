@@ -1,0 +1,33 @@
+# Archival Dispatch: August 30 Calendar Walk — Thin Man, Archie Andrews, and The Aldrich Family
+
+**Date**: 2026-08-30  
+**Author**: radio index  
+**Tags**: August 30, Calendar Walk, The Adventures of the Thin Man, Dashiell Hammett, Les Tremayne, Claudia Morgan, Sanka Coffee, The Aldrich Family, Clifford Goldsmith, Dick Jones, Jackie Kelk, Archie Andrews, Bob Hastings, Harlan Stone, Peter Pan Peanut Butter, The Eternal Light, Words We Live By, Serial Story, Alternate Titles, Original Filenames
+
+---
+
+## August 30 Archival Metadata Enrichment (Increment 444)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on **August 30** across American network comedy, mystery, and religious drama, Les Tremayne and Claudia Morgan in *The Adventures of the Thin Man* for Sanka Coffee (1946), Dick Jones in *The Aldrich Family* (1946), Bob Hastings in *Archie Andrews* (1947), and NBC religious dramas *Words We Live By* and *The Eternal Light* (1946–1964):
+
+---
+
+## 1. *August 30 Archival Inventory (Increment 444)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Aldrich_1946_Admirer.mp3` <br>*Alt*: `Henrys Secret Admirer Jones` | **"Henry's Secret Admirer with Dick Jones"** | **CBS (WCBS)**<br>1946-08-30<br>8:00 PM EDT | **General Foods**<br>Post's 40% Bran Flakes | **Dick Jones**, **Jackie Kelk** | **Clifford Goldsmith (Creator)** | `["Comedy", "Sitcom", "Teen", "Dick Jones", "Clifford Goldsmith"]` | Henry Aldrich mistakenly assumes an anonymous scented letter was written by a glamorous new girl at Centerville High. |
+| `Thin_Man_1946_FrozenStiff.mp3` <br>*Alt*: `TCOT Frozen Stiff Thin Man` | **"The Case of the Frozen Stiff"** | **CBS (WCBS)**<br>1946-08-30<br>8:30 PM EDT | **General Foods**<br>Sanka Coffee / Postum | **Les Tremayne**, **Morgan** | **Dashiell Hammett (Creator)** | `["Detective", "Mystery", "Comedy", "Dashiell Hammett", "Les Tremayne"]` | Nick and Nora Charles solve the baffling murder of a furrier whose frozen body is discovered inside an industrial refrigeration vault. |
+| `Archie_1947_Clock.mp3` <br>*Alt*: `Archie Andrews Clock Episode` | **"Archie Fixes Mr. Andrews' Antique Clock"** | **NBC (WEAF)**<br>1947-08-30<br>10:30 AM EDT | **Swift & Company**<br>Peter Pan Peanut Butter | **Bob Hastings**, **Stone** | **Bob Montana (Creator)** | `["Comedy", "Sitcom", "Teen", "Archie Comics", "Bob Hastings"]` | Archie and Jughead dismantle Fred Andrews' prized antique grandfather clock to repair a loose spring, leaving dozens of spare gears. |
+| `NBC_1953_Joseph9.mp3` <br>*Alt*: `Human Problems Joseph Story 9` | **"Words We Live By: Human Problems of the Joseph Story (Part 9)"** | **NBC (WEAF)**<br>1953-08-30<br>12:30 PM EDT | **Sustaining**<br>Religious Series | **Dramatic Cast**, **Bokser** | **NBC Religious Staff** | `["Religious", "Drama", "History", "NBC", "Biblical"]`<br>*Arc*: **Human Problems of the Joseph Story (Part 9 of 10)** | Joseph reveals his true identity to his astonished brothers in Egypt, illustrating the themes of reconciliation and familial forgiveness. |
+| `NBC_1959_Kings.mp3` <br>*Alt*: `Legends of the Bible The Kings` | **"The Eternal Light: Legends of the Bible - The Kings"** | **NBC (WEAF)**<br>1959-08-30<br>12:30 PM EDT | **Jewish Theological Sem.**<br>JTSA / NBC | **Roger De Koven**, **Rose** | **Morton Wishengrad (Writer)** | `["Religious", "Drama", "Jewish", "History", "NBC"]` | A dramatic examination of the biblical reign and moral responsibilities of King Solomon during the building of the Temple in Jerusalem. |
+| `NBC_1964_Dilemmas3.mp3` <br>*Alt*: `Moral Dilemmas Bible 3` | **"The Eternal Light: Moral Dilemmas of the Bible (Part 3)"** | **NBC (WEAF)**<br>1964-08-30<br>12:30 PM EDT | **Jewish Theological Sem.**<br>JTSA / NBC | **Dramatic Cast Ensemble** | **Marc Siegel (Writer)** | `["Religious", "Drama", "Jewish", "History", "NBC"]` | Scholars and actors dramatize the prophetic confrontation between the prophet Nathan and King David over the death of Uriah the Hittite. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 336 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
