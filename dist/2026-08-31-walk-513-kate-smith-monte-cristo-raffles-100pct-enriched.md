@@ -1,0 +1,32 @@
+# Archival Dispatch: August 31 Calendar Walk — Kate Smith, Monte Cristo, Raffles, and 100% Completion Milestone
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, 100 Percent Milestone, Kate Smith, Les Brown, Band of Renown, Sentimental Journey, Behind the Mike, Graham McNamee, Foley Sound, The Count of Monte Cristo, Carleton Young, Alexandre Dumas, Raffles, Malcolm Grau, EW Hornung, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 513 — 100.0% Calendar Day Completion)
+
+This archival dispatch celebrates the **100.0% archival enrichment completion of August 31 (all 376 broadcasts fully verified, enriched with pure narrative synopses, verified air dates, sponsorship, personnel, and alternate circulating titles)**. The final four broadcasts encompass WWII homefront musical variety, broadcasting sound engineering history, classic French adventure, and gentleman jewel thieves, Kate Smith with Les Brown and His Band of Renown performing *Sentimental Journey* (1945), Graham McNamee in *Behind the Mike* (1941), Carleton Young in *The Count of Monte Cristo* (1948), and Malcolm Grau as *Raffles* (1941–1948):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 513 — Final Broadcasts on August 31)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Kate_Smith_1945_LesBrown.mp3` <br>*Alt*: `Guest - Les Brown Kate Smith` | **"Guest Les Brown and His Band of Renown with Ted Collins"** | **CBS (WABC)**<br>1945-08-31<br>8:30 PM EWT | **General Foods**<br>Postum / Jell-O | **Kate Smith**, **Brown** | **Ted Collins (Producer)** | `["Music", "Variety", "Big Band", "Kate Smith", "Les Brown", "CBS"]` | Kate Smith sings popular patriotic songs and welcomes Les Brown and His Band of Renown performing Sentimental Journey. |
+| `Behind_Mike_1941_SoundEffects.mp3` <br>*Alt*: `Behind the Mike 1941 Episode` | **"The Sound Effects of Radio Drama with Graham McNamee"** | **NBC Blue (WJZ)**<br>1941-08-31<br>4:30 PM EDST | **Sustaining**<br>Radio History Docudrama | **Graham McNamee**, **Engineers** | **NBC Blue Network** | `["Docudrama", "History", "Behind The Mike", "Graham McNamee", "NBC Blue"]` | Veteran announcer Graham McNamee presents a behind-the-scenes demonstration of how Foley sound artists create auditory illusions. |
+| `Monte_Cristo_1948_IslandIf.mp3` <br>*Alt*: `The Count of Monte Cristo 1948` | **"The Island of If with Carleton Young"** | **Mutual (WOR)**<br>1948-08-31<br>8:00 PM EDT | **Sustaining**<br>Alexandre Dumas Drama | **Carleton Young**, **Baer** | **Jaime del Valle (Director)** | `["Adventure", "Classics", "Drama", "Count of Monte Cristo", "Mutual"]` | Edmond Dantes endures solitary confinement in the Chateau d'If and learns secret treasure locations from Abbot Faria. |
+| `Raffles_1943_AttilaMask.mp3` <br>*Alt*: `The Case of Attila's Mask` | **"The Case of Attila's Mask with Malcolm Grau and CBS"** | **CBS (WABC)**<br>1943-08-31<br>9:00 PM EWT | **Sustaining**<br>Gentleman Thief Mystery | **Malcolm Grau**, **Ensemble** | **E.W. Hornung (Author)** | `["Detective", "Adventure", "British", "Raffles", "CBS"]` | Gentleman jewel thief A.J. Raffles plots the daring theft of an ancient gold mask from a high-security private museum vault. |
+
+---
+
+## 2. *August 31 100.0% Calendar Day Completion Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 4
+- **Cumulative Resolved on August 31**: **376 / 376 (100.0% Complete!)**
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
+- **Next Calendar Day in Multi-Day Sequential Walk**: **September 1**

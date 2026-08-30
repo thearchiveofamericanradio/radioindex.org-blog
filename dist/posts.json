@@ -6,6 +6,70 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-513-kate-smith-monte-cristo-raffles-100pct-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-513-kate-smith-monte-cristo-raffles-100pct-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Kate Smith, Monte Cristo, Raffles, and 100% Completion Milestone",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 513 — 100.0% Calendar Day Completion)</h2>\n<p>This archival dispatch celebrates the <strong>100.0% archival enrichment completion of August 31 (all 376 broadcasts fully verified, enriched with pure narrative synopses, verified air dates, sponsorship, personnel, and alternate circulating titles)</strong>. The final four broadcasts encompass WWII homefront musical variety, broadcasting sound engineering history, classic French adventure, and gentleman jewel thieves, Kate Smith with Les Brown and His Band of Renown performing <em>Sentimental Journey</em> (1945), Graham McNamee in <em>Behind the Mike</em> (1941), Carleton Young in <em>The Count of Monte Cristo</em> (1948), and Malcolm Grau as <em>Raffles</em> (1941–1948):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 513 — Final Broadcasts on August 31)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Kate_Smith_1945_LesBrown.mp3</code> <br><em>Alt</em>: <code>Guest - Les Brown Kate Smith</code></td>\n<td><strong>&quot;Guest Les Brown and His Band of Renown with Ted Collins&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-08-31<br>8:30 PM EWT</td>\n<td><strong>General Foods</strong><br>Postum / Jell-O</td>\n<td><strong>Kate Smith</strong>, <strong>Brown</strong></td>\n<td><strong>Ted Collins (Producer)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Big Band&quot;, &quot;Kate Smith&quot;, &quot;Les Brown&quot;, &quot;CBS&quot;]</code></td>\n<td>Kate Smith sings popular patriotic songs and welcomes Les Brown and His Band of Renown performing Sentimental Journey.</td>\n</tr>\n<tr>\n<td><code>Behind_Mike_1941_SoundEffects.mp3</code> <br><em>Alt</em>: <code>Behind the Mike 1941 Episode</code></td>\n<td><strong>&quot;The Sound Effects of Radio Drama with Graham McNamee&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1941-08-31<br>4:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Radio History Docudrama</td>\n<td><strong>Graham McNamee</strong>, <strong>Engineers</strong></td>\n<td><strong>NBC Blue Network</strong></td>\n<td><code>[&quot;Docudrama&quot;, &quot;History&quot;, &quot;Behind The Mike&quot;, &quot;Graham McNamee&quot;, &quot;NBC Blue&quot;]</code></td>\n<td>Veteran announcer Graham McNamee presents a behind-the-scenes demonstration of how Foley sound artists create auditory illusions.</td>\n</tr>\n<tr>\n<td><code>Monte_Cristo_1948_IslandIf.mp3</code> <br><em>Alt</em>: <code>The Count of Monte Cristo 1948</code></td>\n<td><strong>&quot;The Island of If with Carleton Young&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-08-31<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Alexandre Dumas Drama</td>\n<td><strong>Carleton Young</strong>, <strong>Baer</strong></td>\n<td><strong>Jaime del Valle (Director)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Classics&quot;, &quot;Drama&quot;, &quot;Count of Monte Cristo&quot;, &quot;Mutual&quot;]</code></td>\n<td>Edmond Dantes endures solitary confinement in the Chateau d&#39;If and learns secret treasure locations from Abbot Faria.</td>\n</tr>\n<tr>\n<td><code>Raffles_1943_AttilaMask.mp3</code> <br><em>Alt</em>: <code>The Case of Attila&#39;s Mask</code></td>\n<td><strong>&quot;The Case of Attila&#39;s Mask with Malcolm Grau and CBS&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-08-31<br>9:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Gentleman Thief Mystery</td>\n<td><strong>Malcolm Grau</strong>, <strong>Ensemble</strong></td>\n<td><strong>E.W. Hornung (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Adventure&quot;, &quot;British&quot;, &quot;Raffles&quot;, &quot;CBS&quot;]</code></td>\n<td>Gentleman jewel thief A.J. Raffles plots the daring theft of an ancient gold mask from a high-security private museum vault.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>August 31 100.0% Calendar Day Completion Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 4</li>\n<li><strong>Cumulative Resolved on August 31</strong>: <strong>376 / 376 (100.0% Complete!)</strong></li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n<li><strong>Next Calendar Day in Multi-Day Sequential Walk</strong>: <strong>September 1</strong></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 513 — 100.0% Calendar Day Completion This archival dispatch celebrates the 100.0% archival enrichment completion of August 31 all 376 broadca...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "100 Percent Milestone",
+        "Kate Smith",
+        "Les Brown",
+        "Band of Renown",
+        "Sentimental Journey",
+        "Behind the Mike",
+        "Graham McNamee",
+        "Foley Sound",
+        "The Count of Monte Cristo",
+        "Carleton Young",
+        "Alexandre Dumas",
+        "Raffles",
+        "Malcolm Grau",
+        "EW Hornung",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-512-americas-town-meeting-the-falcon-jean-shepherd-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-512-americas-town-meeting-the-falcon-jean-shepherd-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — America's Town Meeting, The Falcon, and Jean Shepherd",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 512)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across historic national debate broadcasts, private eye murder mysteries, small-town sleuthing, and late-night philosophical monologues, George V. Denny Jr. hosting <em>America&#39;s Town Meeting of the Air</em> across ten years of civic discourse (1944, 1948, 1954), George Petrie in <em>The Falcon</em> (1953), Santos Ortega in <em>The Affairs of Peter Salem</em> (1952), and Jean Shepherd on WOR New York (1944–1964):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 512)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Falcon_1953_GreenEyedMonster.mp3</code> <br><em>Alt</em>: <code>The Falcon 1953 Episode</code></td>\n<td><strong>&quot;The Case of the Green-Eyed Monster with George Petrie&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1953-08-31<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Detective Mystery</td>\n<td><strong>George Petrie</strong>, <strong>Lynch</strong></td>\n<td><strong>Mutual Production Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;The Falcon&quot;, &quot;Mutual&quot;]</code></td>\n<td>Mike Waring investigates a Broadway playwright accused of murdering his leading lady&#39;s jealous ex-fiancé backstage.</td>\n</tr>\n<tr>\n<td><code>Salem_1952_DeadlyDance.mp3</code> <br><em>Alt</em>: <code>Affair of the Deadly Dance</code></td>\n<td><strong>&quot;The Affair of the Deadly Dance with Santos Ortega&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-08-31<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Santos Ortega</strong>, <strong>Grimes</strong></td>\n<td><strong>Louis Vittes (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Peter Salem&quot;, &quot;Santos Ortega&quot;, &quot;Mutual&quot;]</code></td>\n<td>Small-town sleuth Peter Salem uncovers a blackmail syndicate operating behind a local ballroom dance academy.</td>\n</tr>\n<tr>\n<td><code>Town_1944_GermanyPeace.mp3</code> <br><em>Alt</em>: <code>Americas Town Meeting 1944</code></td>\n<td><strong>&quot;What Should Be the Peace Settlement with Germany?&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1944-08-31<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Public Forum</td>\n<td><strong>George V. Denny Jr.</strong></td>\n<td><strong>Town Hall Inc.</strong></td>\n<td><code>[&quot;News&quot;, &quot;Debate&quot;, &quot;WWII&quot;, &quot;Americas Town Meeting&quot;, &quot;Blue Network&quot;]</code></td>\n<td>Geopolitical analysts debate postwar German partition, disarmament, reparations, and military occupation policies.</td>\n</tr>\n<tr>\n<td><code>Town_1948_Citizenship.mp3</code> <br><em>Alt</em>: <code>Americas Town Meeting 1948</code></td>\n<td><strong>&quot;Are Our Schools Teaching Good Citizenship?&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-08-31<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Forum</td>\n<td><strong>George V. Denny Jr.</strong></td>\n<td><strong>Town Hall Inc.</strong></td>\n<td><code>[&quot;Civics&quot;, &quot;Debate&quot;, &quot;Education&quot;, &quot;Americas Town Meeting&quot;, &quot;ABC&quot;]</code></td>\n<td>Educators debate whether public high schools adequately teach democratic constitutional principles and civic responsibility.</td>\n</tr>\n<tr>\n<td><code>Town_1954_FederalGov.mp3</code> <br><em>Alt</em>: <code>Americas Town Meeting 1954</code></td>\n<td><strong>&quot;Is the Federal Government Growing Too Powerful?&quot;</strong></td>\n<td><strong>ABC (WABC)</strong><br>1954-08-31<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Forum</td>\n<td><strong>George V. Denny Jr.</strong></td>\n<td><strong>Town Hall Inc.</strong></td>\n<td><code>[&quot;Civics&quot;, &quot;Debate&quot;, &quot;Politics&quot;, &quot;Americas Town Meeting&quot;, &quot;ABC&quot;]</code></td>\n<td>Congressional lawmakers and constitutional scholars debate states&#39; rights versus expanding federal regulatory authority.</td>\n</tr>\n<tr>\n<td><code>Shepherd_1964_DoWormsTalk.mp3</code> <br><em>Alt</em>: <code>Do Worms Talk Jean Shepherd</code></td>\n<td><strong>&quot;Do Worms Talk? with Jean Shepherd&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1964-08-31<br>11:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Midnight Monologue</td>\n<td><strong>Jean Shepherd</strong></td>\n<td><strong>Jean Shepherd (Host)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Monologue&quot;, &quot;Humor&quot;, &quot;Jean Shepherd&quot;, &quot;WOR&quot;]</code></td>\n<td>Jean Shepherd reflects on subterranean insect life, human self-importance, and childhood summer memories along Lake Michigan.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 372 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 512 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Americas Town Meeting of the Air",
+        "George V Denny Jr",
+        "Blue Network",
+        "ABC",
+        "The Falcon",
+        "George Petrie",
+        "Mike Waring",
+        "The Affairs of Peter Salem",
+        "Santos Ortega",
+        "Louis Vittes",
+        "Jean Shepherd",
+        "WOR New York",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-511-duffys-tavern-the-falcon-chick-carter-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-511-duffys-tavern-the-falcon-chick-carter-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Duffy's Tavern, The Falcon, and Chick Carter",
