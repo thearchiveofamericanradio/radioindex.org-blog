@@ -6,6 +6,46 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-731-perry-como-michael-shayne-squad-cars-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-731-perry-como-michael-shayne-squad-cars-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Perry Como, Michael Shayne & Squad Cars",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 731)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Perry Como singing his chart-topping hit <em>Till the End of Time</em> for Chesterfield Cigarettes, Phil Brito and His Orchestra swinging on <em>Spotlight Bands</em> for Coca-Cola, Wally Maher solving bizarre murders on <em>The New Adventures of Michael Shayne</em>, flying squad police pursuits and supernatural archaeological horror on Springbok Radio (<em>Squad Cars</em> and <em>Crisis</em>), and early 1930s West Coast radio comedy on <em>Frank Watanabe and the Honorable Archie</em>, Perry Como (1945), Phil Brito (1946), Wally Maher (1948), Eddie Holden (1934), and Springbok Radio (1934–1975):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 731)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Como_1945_TillEndTime.mp3</code> <br><em>Alt</em>: <code>Til The End Of Time Musical Autographs</code></td>\n<td><strong>&quot;Till the End of Time with Perry Como&quot;</strong></td>\n<td><strong>Syndication / Liggett</strong><br>1945-09-04</td>\n<td><strong>Liggett &amp; Myers</strong><br>Chesterfield Cigarettes</td>\n<td><strong>Perry Como (Vocalist)</strong></td>\n<td><strong>Ted Steele &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Musical Autographs&quot;, &quot;Perry Como&quot;, &quot;Chesterfield&quot;]</code></td>\n<td>Perry Como performs romantic ballad autographs and pop standards led by his chart-topping hit Till the End of Time.</td>\n</tr>\n<tr>\n<td><code>SpotlightBands_1946_PhilBrito.mp3</code> <br><em>Alt</em>: <code>First Tune My Odarlin My Olovely My Obrien</code></td>\n<td><strong>&quot;My O&#39;Darlin&#39; My O&#39;Lovely with Phil Brito and His Orchestra&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-04<br>9:30 PM EDT</td>\n<td><strong>The Coca-Cola Co.</strong><br>Coca-Cola</td>\n<td><strong>Phil Brito &amp; Orch.</strong></td>\n<td><strong>Spotlight Bands Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Spotlight Bands&quot;, &quot;Phil Brito&quot;, &quot;Coca-Cola&quot;]</code></td>\n<td>Phil Brito and his orchestra entertain military veterans with smooth romantic ballads and upbeat Italian-American swing tunes.</td>\n</tr>\n<tr>\n<td><code>MichaelShayne_1948_GenerousKiller.mp3</code> <br><em>Alt</em>: <code>The Case Of The Generous Killer Michael Shayne</code></td>\n<td><strong>&quot;The Case of the Generous Killer with Wally Maher as Michael Shayne&quot;</strong></td>\n<td><strong>Mutual (KHJ)</strong><br>1948-09-04<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Hardboiled Detective</td>\n<td><strong>Wally Maher (Shayne)</strong></td>\n<td><strong>Cathy Lewis &amp; Halliday</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;Michael Shayne&quot;, &quot;Wally Maher&quot;, &quot;Brett Halliday&quot;]</code></td>\n<td>Miami private detective Michael Shayne investigates an eccentric philanthropist who is murdered shortly after bequeathing cash gifts to random strangers.</td>\n</tr>\n<tr>\n<td><code>SquadCars_1970_FaceMusic.mp3</code> <br><em>Alt</em>: <code>To Face The Music Squad Cars - SA</code></td>\n<td><strong>&quot;To Face the Music with South African Police&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1970-09-04</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Colin Fish &amp; Drama Cast</strong></td>\n<td><strong>Springbok Police Staff</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Squad Cars&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>Johannesburg flying squad patrol officers pursue an armed fugitive who fled into a crowded downtown concert venue after a payroll robbery.</td>\n</tr>\n<tr>\n<td><code>Crisis_1975_ThePresence.mp3</code> <br><em>Alt</em>: <code>The Presence Crisis</code></td>\n<td><strong>&quot;The Presence with Springbok Radio Drama&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1975-09-04</td>\n<td><strong>Sustaining</strong><br>Supernatural Drama</td>\n<td><strong>Springbok Repertory</strong></td>\n<td><strong>Michael Silver (Writer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Supernatural&quot;, &quot;Crisis&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>A skeptical archaeologist unearths a sealed burial tomb in the Karoo desert and realizes an invisible supernatural entity has followed him back to his estate.</td>\n</tr>\n<tr>\n<td><code>FrankWatanabe_1934_Housecleaning.mp3</code> <br><em>Alt</em>: <code>Frank Watanabe and the Honorable Archie 1934 Episode</code></td>\n<td><strong>&quot;The Housecleaning Dilemma with Eddie Holden&quot;</strong></td>\n<td><strong>KNX Los Angeles</strong><br>1934-09-04</td>\n<td><strong>Sustaining</strong><br>Dialect Comedy</td>\n<td><strong>Eddie Holden (Frank)</strong></td>\n<td><strong>Reginald Sharland (Archie)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Dialect&quot;, &quot;Frank Watanabe&quot;, &quot;Eddie Holden&quot;, &quot;KNX&quot;]</code></td>\n<td>Houseboy Frank Watanabe and his aristocratic English employer Archie become entangled in misunderstandings while preparing their bungalow for guests.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 108 / 471 (299 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 731 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Musical Autographs",
+        "Perry Como",
+        "Ted Steele",
+        "Chesterfield",
+        "Liggett and Myers",
+        "Spotlight Bands",
+        "Phil Brito",
+        "Coca-Cola",
+        "Michael Shayne",
+        "Wally Maher",
+        "Cathy Lewis",
+        "Brett Halliday",
+        "Squad Cars",
+        "Springbok Radio",
+        "South Africa",
+        "Crisis",
+        "Michael Silver",
+        "Frank Watanabe and the Honorable Archie",
+        "Eddie Holden",
+        "Reginald Sharland",
+        "KNX Los Angeles",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-730-superman-story-arcs-showcase-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-730-superman-story-arcs-showcase-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — The Adventures of Superman Showcase",
