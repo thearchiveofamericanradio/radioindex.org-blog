@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-469-texas-rangers-guiding-light-london-blitz-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-469-texas-rangers-guiding-light-london-blitz-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Texas Rangers, Guiding Light, and London Blitz",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 469)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American Western police procedurals, daytime radio drama serials, WWII live eyewitness combat journalism, true crime magazine docudramas, Canadian Mountie adventures, and British naval comedy, Joel McCrea in <em>Tales of the Texas Rangers</em> on NBC (1952), Irna Phillips&#39; <em>The Guiding Light</em> for Procter &amp; Gamble (1950), CBS correspondent Larry LeSueur broadcasting live during the London Blitz (1940), <em>The Silver Eagle</em> (1954), <em>True Detective Mysteries</em> (1937), and <em>The Navy Lark</em> (1937–1969):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 469)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>True_Det_1937_Check.mp3</code> <br><em>Alt</em>: <code>Check Forgery True Detective</code></td>\n<td><strong>&quot;The Check Forgery Racket with John Shuttleworth&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1937-08-31<br>10:00 PM EDST</td>\n<td><strong>Macfadden Publications</strong><br>True Detective Magazine</td>\n<td><strong>John Shuttleworth</strong>, <strong>Keith</strong></td>\n<td><strong>Macfadden Staff</strong></td>\n<td><code>[&quot;True Crime&quot;, &quot;Police Procedural&quot;, &quot;Detective&quot;, &quot;True Detective&quot;, &quot;Mutual&quot;]</code></td>\n<td>Postal inspectors trace altered bank payroll drafts across three states to dismantle a sophisticated check forgery syndicate.</td>\n</tr>\n<tr>\n<td><code>Guiding_Light_1950_Bill.mp3</code> <br><em>Alt</em>: <code>Bills Drinking Problem</code></td>\n<td><strong>&quot;Bill&#39;s Drinking Problem with Lyle Sudrow&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-08-31<br>1:45 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Soap / Ivory Flakes</td>\n<td><strong>Lyle Sudrow</strong>, <strong>Bauer</strong></td>\n<td><strong>Irna Phillips (Creator)</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Irna Phillips&quot;, &quot;Guiding Light&quot;, &quot;CBS&quot;]</code></td>\n<td>Bert Bauer confronts her husband Bill over his recurring drinking binges and strained family finances in Five Points.</td>\n</tr>\n<tr>\n<td><code>CBS_News_1940_LeSueur.mp3</code> <br><em>Alt</em>: <code>CBS News Larry Lesuer Reports</code></td>\n<td><strong>&quot;Larry LeSueur Reports on the London Blitz&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-08-31<br>8:00 AM EDST</td>\n<td><strong>Sustaining</strong><br>War News Coverage</td>\n<td><strong>Larry LeSueur</strong>, <strong>Bob Trout</strong></td>\n<td><strong>CBS News Division</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;History&quot;, &quot;CBS&quot;, &quot;Larry LeSueur&quot;]</code></td>\n<td>CBS correspondent Larry LeSueur describes Luftwaffe night bombing raids over London docks and civilian air raid shelter life.</td>\n</tr>\n<tr>\n<td><code>Texas_Rangers_1952_Misplaced.mp3</code> <br><em>Alt</em>: <code>Misplaced Person Texas Rangers</code></td>\n<td><strong>&quot;Misplaced Person with Joel McCrea&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1952-08-31<br>6:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Western Police Drama</td>\n<td><strong>Joel McCrea</strong>, <strong>Barrett</strong></td>\n<td><strong>Stacy Keach Sr. (Director)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Police Procedural&quot;, &quot;Joel McCrea&quot;, &quot;Texas Rangers&quot;, &quot;NBC&quot;]</code></td>\n<td>Texas Ranger Jace Pearson matches tyre tracks and ballistics to identify the body of an unidentified hitchhiker murdered outside El Paso.</td>\n</tr>\n<tr>\n<td><code>Silver_Eagle_1954_Wolverine.mp3</code> <br><em>Alt</em>: <code>The Silver Eagle 1954 Episode</code></td>\n<td><strong>&quot;Death on Wolverine Trail with Jim Ameche&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1954-08-31<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios / Kix Cereal</td>\n<td><strong>Jim Ameche</strong>, <strong>Jack Lester</strong></td>\n<td><strong>James Jewell (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Mounties&quot;, &quot;Silver Eagle&quot;, &quot;Jim Ameche&quot;]</code></td>\n<td>Canadian Mountie Jim West pursues an armed fur trapper who murdered a trading post manager on Wolverine Trail.</td>\n</tr>\n<tr>\n<td><code>Navy_Lark_1969_BigBusiness.mp3</code> <br><em>Alt</em>: <code>Initiating Through Navy Lark</code></td>\n<td><strong>&quot;The Big Business Lark - Initiating Through&quot;</strong></td>\n<td><strong>BBC Radio 2</strong><br>1969-08-31<br>2:00 PM BST</td>\n<td><strong>Sustaining</strong><br>British Military Comedy</td>\n<td><strong>Leslie Phillips</strong>, <strong>Pertwee</strong></td>\n<td><strong>Lawrie Wyman (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Military&quot;, &quot;Navy Lark&quot;, &quot;BBC Radio 2&quot;]</code></td>\n<td>The scheming crew of HMS Troutbridge attempts to launch a fraudulent commercial boardroom enterprise under the Admiral&#39;s nose.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 114 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 469 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Tales of the Texas Rangers",
+        "Joel McCrea",
+        "Stacy Keach",
+        "NBC",
+        "The Guiding Light",
+        "Lyle Sudrow",
+        "Charita Bauer",
+        "Irna Phillips",
+        "Procter & Gamble",
+        "CBS News of the World",
+        "Larry LeSueur",
+        "London Blitz",
+        "WWII",
+        "The Silver Eagle",
+        "Jim Ameche",
+        "True Detective Mysteries",
+        "Macfadden",
+        "The Navy Lark",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-468-chandu-magician-meet-the-press-lincoln-highway-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-468-chandu-magician-meet-the-press-lincoln-highway-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Chandu the Magician, Meet the Press, and Lincoln Highway",
