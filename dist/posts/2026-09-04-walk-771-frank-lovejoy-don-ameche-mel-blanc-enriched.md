@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Frank Lovejoy, Don Ameche & Mel Blanc
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, Night Beat, Frank Lovejoy, Russell Hughes, Wheaties, Pabst Blue Ribbon, The First Nighter Program, Don Ameche, June Meredith, Campana Italian Balm, Lawyer Tucker, Parker Fennelly, CBS, Chuck Schaden, Milt Josefsberg, Jack Benny, Mel Blanc, WBBM Chicago, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 771)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Frank Lovejoy as Chicago Star nightside reporter Randy Stone on *Night Beat* for Wheaties (1950) and Pabst Blue Ribbon (1952), Don Ameche in a high-altitude transatlantic romance on *The First Nighter Program* for Campana Italian Balm, Parker Fennelly on *Lawyer Tucker*, and Chuck Schaden's historic interviews with Jack Benny writer Milt Josefsberg and voice master Mel Blanc, Frank Lovejoy (1950, 1952), Don Ameche (1936), Mel Blanc (1988), and Milt Josefsberg (1936–1988):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 771)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `NightBeat_1950_OldHomeWeek.mp3` <br>*Alt*: `Old Home Week Nightbeat` | **"Old Home Week with Frank Lovejoy"** | **NBC (WNBC)**<br>1950-09-04<br>10:00 PM EDT | **General Mills**<br>Wheaties Cereal | **Frank Lovejoy (Stone)** | **Russell Hughes (Writer)** | `["Drama", "Newspaper", "Night Beat", "Frank Lovejoy", "Wheaties"]` | Chicago Star reporter Randy Stone investigates the suspicious return of an exiled small-town ex-convict during an annual civic celebration. |
+| `NightBeat_1952_BombDenverPlane.mp3` <br>*Alt*: `Bomb On The Denver Plane Nightbeat` | **"Bomb on the Denver Plane with Frank Lovejoy"** | **NBC (WNBC)**<br>1952-09-04<br>8:30 PM EDT | **Pabst Brewing Co.**<br>Pabst Blue Ribbon Beer | **Frank Lovejoy (Stone)** | **Russell Hughes (Writer)** | `["Drama", "Newspaper", "Night Beat", "Frank Lovejoy", "Pabst"]` | Randy Stone races against time to locate an extortionist who placed a barometric time bomb aboard a passenger airliner bound for Denver. |
+| `FirstNighter_1936_Zeppelin.mp3` <br>*Alt*: `Translantic Zeppelin The First Nighter Program` | **"Transatlantic Zeppelin with Don Ameche"** | **NBC Red (WEAF)**<br>1936-09-04<br>10:00 PM EDST | **Campana Sales Co.**<br>Campana Italian Balm | **Don Ameche & Meredith** | **Charles Hughes & Orch.** | `["Drama", "Romance", "The First Nighter Program", "Don Ameche", "Campana"]` | A high-altitude romance and suspense drama aboard a luxury transatlantic passenger airship sailing through North Atlantic gales. |
+| `LawyerTucker_1947_CiderPress.mp3` <br>*Alt*: `Lawyer Tucker 1947 Episode` | **"Small Town Defense with Parker Fennelly"** | **CBS Radio**<br>1947-09-04 | **Sustaining**<br>Legal Drama | **Parker Fennelly (Tucker)** | **Paul West (Writer)** | `["Drama", "Legal", "Lawyer Tucker", "Parker Fennelly", "CBS"]` | A shrewd New England country attorney defends an eccentric farmer accused of sabotaging his neighbor's commercial cider press. |
+| `ChuckSchaden_1981_MiltJosefsberg.mp3` <br>*Alt*: `Milt Josefsberg Chuck Schaden Interviews` | **"Interview with Jack Benny Writer Milt Josefsberg"** | **WNIB Chicago**<br>1981-09-04 | **Sustaining**<br>Radio History | **Chuck Schaden & Josefsberg** | **Chuck Schaden (Host)** | `["Interview", "History", "Chuck Schaden", "Milt Josefsberg", "Jack Benny"]` | Old-time radio historian Chuck Schaden interviews legendary head writer Milt Josefsberg regarding the comedy mechanics and writing room behind The Jack Benny Program. |
+| `ChuckSchaden_1988_MelBlanc.mp3` <br>*Alt*: `Mel Blanc By telephone on WBBM Radio Classics Chuck Schaden Interviews` | **"Interview with Voice Master Mel Blanc on WBBM"** | **WBBM Chicago**<br>1988-09-04 | **Sustaining**<br>Radio Classics | **Chuck Schaden & Blanc** | **WBBM Radio Staff** | `["Interview", "History", "Chuck Schaden", "Mel Blanc", "WBBM"]` | Chuck Schaden conducts an in-depth telephone interview with voice virtuoso Mel Blanc discussing his iconic characters across radio and animation. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 348 / 471 (59 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
