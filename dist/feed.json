@@ -6,6 +6,48 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-724-mel-blanc-interview-tommy-dorsey-roy-rogers-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-724-mel-blanc-interview-tommy-dorsey-roy-rogers-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Mel Blanc Interview, Tommy Dorsey & Roy Rogers",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 724)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Chuck Schaden&#39;s legendary Chicago retrospective interview with voice acting pioneer Mel Blanc, high-energy swing from Tommy Dorsey and The Pied Pipers live at Fort Monmouth for Coca-Cola, Roy Rogers and Dale Evans tracking gold claim-jumpers in Paradise Valley for Quaker Oats, dramatic Venetian religious history on <em>The Ave Maria Hour</em>, romantic cosmetics advertising comedy on <em>Grand Marquee</em>, and CBC dark crime comedy on <em>The Mystery Project</em>, Mel Blanc (1988), Tommy Dorsey (1943), Roy Rogers (1949), Olan Soule (1947), <em>Ave Maria Hour</em> (1949), and <em>The Mystery Project</em> (1943–1999):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 724)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>RadioClassics_1988_MelBlanc.mp3</code> <br><em>Alt</em>: <code>Chuck Shaden Interviews Mel Blanc Radio Classics - WBBM</code></td>\n<td><strong>&quot;Chuck Schaden Interviews Mel Blanc on WBBM Chicago&quot;</strong></td>\n<td><strong>WBBM Chicago</strong><br>1988-09-04</td>\n<td><strong>Sustaining</strong><br>Radio History Interview</td>\n<td><strong>Mel Blanc &amp; Schaden</strong></td>\n<td><strong>Chuck Schaden (Host)</strong></td>\n<td><code>[&quot;Interview&quot;, &quot;History&quot;, &quot;Radio Classics&quot;, &quot;Mel Blanc&quot;, &quot;Chuck Schaden&quot;]</code></td>\n<td>Chuck Schaden conducts an in-depth retrospective interview with voice acting pioneer Mel Blanc, exploring his iconic work on The Jack Benny Program and Warner Bros cartoons.</td>\n</tr>\n<tr>\n<td><code>SpotlightBands_1943_TommyDorsey.mp3</code> <br><em>Alt</em>: <code>Tommy Dorsey, I&#39;ve Found A New Baby Victory Parade of Spotlight Bands</code></td>\n<td><strong>&quot;Tommy Dorsey Live from Fort Monmouth with Coca-Cola&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1943-09-04<br>9:30 PM EWT</td>\n<td><strong>The Coca-Cola Co.</strong><br>Coca-Cola</td>\n<td><strong>Tommy Dorsey &amp; Orch.</strong></td>\n<td><strong>Sy Oliver &amp; Pied Pipers</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Spotlight Bands&quot;, &quot;Tommy Dorsey&quot;, &quot;Coca-Cola&quot;]</code></td>\n<td>Tommy Dorsey leads his swing orchestra in high-octane brass numbers before cheering US Army Signal Corps troops at Fort Monmouth.</td>\n</tr>\n<tr>\n<td><code>RoyRogers_1949_DoubleMurder.mp3</code> <br><em>Alt</em>: <code>The Mystery of the Double Murder The Roy Rogers Show</code></td>\n<td><strong>&quot;The Mystery of the Double Murder with Roy Rogers&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-09-04<br>6:00 PM EDT</td>\n<td><strong>Quaker Oats Co.</strong><br>Quaker Puffed Wheat</td>\n<td><strong>Roy Rogers &amp; Dale Evans</strong></td>\n<td><strong>Pat Brady &amp; Pioneers</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Roy Rogers&quot;, &quot;Dale Evans&quot;, &quot;Quaker Oats&quot;]</code></td>\n<td>Roy Rogers and Dale Evans track a pair of masked frontier claim-jumpers who ambushed two prospecting partners near Paradise Valley.</td>\n</tr>\n<tr>\n<td><code>AveMaria_1949_LorenzoGiustiniani.mp3</code> <br><em>Alt</em>: <code>The Ave Maria Hour: Saint Lorenzo Giustiniani Ave Maria Hour</code></td>\n<td><strong>&quot;Saint Lorenzo Giustiniani with Ave Maria Hour&quot;</strong></td>\n<td><strong>WMCA / Mutual</strong><br>1949-09-04<br>6:30 PM EDT</td>\n<td><strong>Franciscan Friars</strong><br>Graymoor Atonement</td>\n<td><strong>Ave Maria Drama Cast</strong></td>\n<td><strong>Franciscan Friars Staff</strong></td>\n<td><code>[&quot;Religion&quot;, &quot;Biography&quot;, &quot;Ave Maria Hour&quot;, &quot;Franciscan Friars&quot;, &quot;Graymoor&quot;]</code></td>\n<td>A dramatic chronicle recounting the pious life, pastoral reforms, and charity of Saint Lorenzo Giustiniani, the first Patriarch of Venice.</td>\n</tr>\n<tr>\n<td><code>GrandMarquee_1947_ThingCalledLove.mp3</code> <br><em>Alt</em>: <code>What Is This Thing Called Love? Grand Marquee</code></td>\n<td><strong>&quot;What Is This Thing Called Love with Olan Soule&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1947-09-04<br>9:30 PM EDT</td>\n<td><strong>William R. Warner</strong><br>Rayve Creme Shampoo</td>\n<td><strong>Olan Soule &amp; Vaughn</strong></td>\n<td><strong>NBC Dramatic Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Romance&quot;, &quot;Grand Marquee&quot;, &quot;Olan Soule&quot;, &quot;Rayve&quot;]</code></td>\n<td>An ambitious advertising copywriter concocts a fraudulent romantic engagement to impress a wealthy prospective cosmetics client.</td>\n</tr>\n<tr>\n<td><code>MysteryProject_1999_CleanSweep.mp3</code> <br><em>Alt</em>: <code>Clean Sweep - Ethyl and Methyl The Mystery Project</code></td>\n<td><strong>&quot;Clean Sweep (Ethyl and Methyl) with CBC Radio&quot;</strong></td>\n<td><strong>CBC Radio</strong><br>1999-09-04</td>\n<td><strong>Sustaining</strong><br>Canadian Radio Drama</td>\n<td><strong>CBC Drama Repertory</strong></td>\n<td><strong>Peggy Delaney (Author)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Drama&quot;, &quot;The Mystery Project&quot;, &quot;CBC&quot;, &quot;Peggy Delaney&quot;]</code></td>\n<td>Two eccentric crime-scene cleaning specialists uncover hidden mobster loot while sterilizing a contaminated safehouse apartment.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 66 / 471 (341 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 724 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Mel Blanc",
+        "Chuck Schaden",
+        "Radio Classics",
+        "WBBM Chicago",
+        "Jack Benny",
+        "Warner Bros",
+        "Tommy Dorsey",
+        "Sy Oliver",
+        "The Pied Pipers",
+        "Spotlight Bands",
+        "Coca-Cola",
+        "The Roy Rogers Show",
+        "Roy Rogers",
+        "Dale Evans",
+        "Quaker Oats",
+        "The Sons of the Pioneers",
+        "Ave Maria Hour",
+        "Franciscan Friars",
+        "Grand Marquee",
+        "Olan Soule",
+        "Rayve Shampoo",
+        "The Mystery Project",
+        "CBC Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-723-orson-welles-shadow-jean-arthur-buddy-clark-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-723-orson-welles-shadow-jean-arthur-buddy-clark-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Orson Welles' Shadow, Jean Arthur & Buddy Clark",
