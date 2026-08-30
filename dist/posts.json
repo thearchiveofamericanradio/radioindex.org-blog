@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-548-abbott-costello-sam-shovel-pershing-wwi-nelson-eddy-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-548-abbott-costello-sam-shovel-pershing-wwi-nelson-eddy-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Abbott & Costello Sam Shovel, Pershing WWI, and Nelson Eddy",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 548)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across burlesque parody detective debuts, historic World War I battlefield phonograph addresses from France, concert operetta showcases, comic strip sorcery serials, and big band transcription sessions, Bud Abbott and Lou Costello debuting Sam Shovel (1948), General John J. Pershing&#39;s 1918 address from Chaumont, France, Nelson Eddy on <em>The Electric Hour</em> (1946), <em>Mandrake the Magician</em> (1941), Martha Tilton with Billy Mills (1950), and <em>Plantation Echoes</em> (1918–1950):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 548)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Abbott_1948_SamShovel.mp3</code> <br><em>Alt</em>: <code>Sam Shovel - (detective&#39;s debut)</code></td>\n<td><strong>&quot;The Debut of Sam Shovel, Private Eye with Bud Abbott and Lou Costello&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-09-01<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Summer Comedy</td>\n<td><strong>Bud Abbott</strong>, <strong>Lou Costello</strong></td>\n<td><strong>Will Osborne Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Parody&quot;, &quot;Abbott And Costello&quot;, &quot;Sam Shovel&quot;, &quot;ABC&quot;]</code></td>\n<td>Lou Costello debuts his bumbling private eye character Sam Shovel to investigate a missing diamond necklace while Bud Abbott questions his detecting logic.</td>\n</tr>\n<tr>\n<td><code>Pershing_1918_France.mp3</code> <br><em>Alt</em>: <code>Voices of History: General John J. Pershing</code></td>\n<td><strong>&quot;General John J. Pershing&#39;s Address to the American People from France (WWI)&quot;</strong></td>\n<td><strong>CPI Audio Record</strong><br>1918-09-01</td>\n<td><strong>U.S. Govt.</strong><br>Committee Public Info</td>\n<td><strong>General John J. Pershing</strong></td>\n<td><strong>AEF Staff Chaumont</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;History&quot;, &quot;WWI&quot;, &quot;John J Pershing&quot;, &quot;Voices Of History&quot;]</code></td>\n<td>General John J. Pershing delivers an historic battlefield address from Chaumont, France, urging American civilians to purchase Liberty Bonds and support doughboys on the Western Front.</td>\n</tr>\n<tr>\n<td><code>Electric_1946_NelsonEddy.mp3</code> <br><em>Alt</em>: <code>Nelson Eddy - The Electric Hour 1946</code></td>\n<td><strong>&quot;With Nelson Eddy, Nadine Conner, and America&#39;s Electric Companies&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1946-09-01<br>4:30 PM EDT</td>\n<td><strong>Electric Companies</strong><br>Electric Light &amp; Power</td>\n<td><strong>Nelson Eddy</strong>, <strong>Conner</strong></td>\n<td><strong>Robert Armbruster Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Operetta&quot;, &quot;Nelson Eddy&quot;, &quot;The Electric Hour&quot;, &quot;CBS&quot;]</code></td>\n<td>Baritone Nelson Eddy and soprano Nadine Conner perform classical operetta duets accompanied by Robert Armbruster&#39;s concert orchestra.</td>\n</tr>\n<tr>\n<td><code>Mandrake_1941_JadeIdol.mp3</code> <br><em>Alt</em>: <code>Mandrake the Magician 1941 Episode</code></td>\n<td><strong>&quot;The Mystery of the Jade Idol with Raymond Edward Johnson and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1941-09-01<br>5:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Juvenile Serial</td>\n<td><strong>Johnson (Mandrake)</strong>, <strong>Hernandez</strong></td>\n<td><strong>Lee Falk (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Magic&quot;, &quot;Juvenile&quot;, &quot;Mandrake The Magician&quot;, &quot;Lee Falk&quot;]</code></td>\n<td>Mandrake the Magician and Lothar use hypnotic illusions to rescue a kidnapped museum curator from an ancient temple secret society.</td>\n</tr>\n<tr>\n<td><code>Mills_1950_LoveTheGuy.mp3</code> <br><em>Alt</em>: <code>I Love The Guy Billy Mills</code></td>\n<td><strong>&quot;I Love the Guy with Martha Tilton and Standard Radio Transcription&quot;</strong></td>\n<td><strong>Standard Trans.</strong><br>1950-09-01</td>\n<td><strong>Standard Radio</strong><br>Transcription Library</td>\n<td><strong>Billy Mills</strong>, <strong>Tilton</strong></td>\n<td><strong>Billy Mills (Director)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Big Band&quot;, &quot;Billy Mills&quot;, &quot;Martha Tilton&quot;]</code></td>\n<td>Billy Mills leads his studio orchestra through lush instrumental arrangements and Martha Tilton performs popular swing standards.</td>\n</tr>\n<tr>\n<td><code>Echoes_1944_Spirituals.mp3</code> <br><em>Alt</em>: <code>First Episode, Third CBS Series Plantation Echoes</code></td>\n<td><strong>&quot;Folk Melodies and Spirituals with The Choral Ensemble (CBS Series Premiere)&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-01<br>11:15 PM EWT</td>\n<td><strong>Sustaining</strong><br>Late-Night Folk</td>\n<td><strong>Choral Ensemble</strong></td>\n<td><strong>CBS Music Department</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Folk&quot;, &quot;Spirituals&quot;, &quot;Plantation Echoes&quot;, &quot;CBS&quot;]</code></td>\n<td>A choral ensemble performs traditional southern spirituals, work songs, and folk melodies in a late-evening musical showcase.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 210 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 548 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Abbott and Costello",
+        "Sam Shovel",
+        "Bud Abbott",
+        "Lou Costello",
+        "General John J Pershing",
+        "WWI",
+        "American Expeditionary Forces",
+        "Voices of History",
+        "Nelson Eddy",
+        "Nadine Conner",
+        "The Electric Hour",
+        "Mandrake the Magician",
+        "Raymond Edward Johnson",
+        "Lee Falk",
+        "Billy Mills",
+        "Martha Tilton",
+        "Plantation Echoes",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-547-frank-sinatra-gi-journal-tarzan-murder-at-midnight-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-547-frank-sinatra-gi-journal-tarzan-murder-at-midnight-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Frank Sinatra GI Journal, Tarzan, and Murder at Midnight",
