@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Red Foley, Mel Allen & Myrt and Marge
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, The Tide Show, Red Foley, The Sunshine Boys, Procter and Gamble, Tide Detergent, WSM Nashville, Myrt and Marge, Myrtle Vail, Donna Damerel, Matt Crowley, Major League Baseball, New York Yankees, Baltimore Orioles, Washington Senators, Mel Allen, Red Barber, Phil Rizzuto, Roger Maris, Mickey Mantle, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 746)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Red Foley and The Sunshine Boys performing country and sacred gospel on *The Tide Show* for Procter & Gamble, Myrtle Vail's backstage vaudeville courtroom testimony on *Myrt and Marge*, and historic Major League Baseball play-by-play broadcasts called by "The Voice of the Yankees" Mel Allen (Mickey Mantle at Memorial Stadium in 1960 and Roger Maris's 1961 home run chase against the Senators), Red Foley (1945, 1951), Myrtle Vail (1946), Mel Allen (1960, 1961), and *The Tide Show* (1945–1961):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 746)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `TideShow_1945_DaytimeVariety.mp3` <br>*Alt*: `Episode Tide Show` | **"Daytime Variety and Popular Melodies with Procter & Gamble"** | **CBS (WABC)**<br>1945-09-04 | **Procter & Gamble**<br>Tide Detergent | **Daytime Variety Troupe** | **CBS Music Directors** | `["Variety", "Music", "The Tide Show", "Procter & Gamble", "Tide"]` | A daytime musical variety program featuring popular vocal standards, comedic domestic banter, and upbeat orchestral selections. |
+| `TideShow_1951_SunshineBoys.mp3` <br>*Alt*: `Tide Show 1951 Episode` | **"Red Foley and The Sunshine Boys with Tide Detergent"** | **NBC (WSM)**<br>1951-09-04<br>12:45 PM EDT | **Procter & Gamble**<br>Tide Detergent | **Red Foley & Sunshine Boys** | **Cumberland Valley Boys** | `["Country", "Music", "The Tide Show", "Red Foley", "The Sunshine Boys"]` | Country music star Red Foley performs down-home acoustic guitar songs and joins The Sunshine Boys in southern gospel quartets. |
+| `TideShow_1951_GospelWestern.mp3` <br>*Alt*: `Episode Tide Show` | **"Country Gospel and Western Melodies with Red Foley"** | **NBC (WSM)**<br>1951-09-04 | **Procter & Gamble**<br>Tide Detergent | **Red Foley & Jordanaires** | **WSM Production Staff** | `["Country", "Gospel", "The Tide Show", "Red Foley", "WSM"]` | Red Foley leads an energetic session of country tunes, sacred hymns, and humorous country storytelling recorded live at WSM. |
+| `MyrtMarge_1946_VivianTestify.mp3` <br>*Alt*: `Vivian and Marge Testify Again Myrt and Marge` | **"Vivian and Marge Testify Again with Myrtle Vail"** | **Syndication**<br>1946-09-04 | **Sustaining**<br>Backstage Soap | **Myrtle Vail & Damerel** | **Matt Crowley (Dir.)** | `["Soap Opera", "Comedy", "Myrt and Marge", "Myrtle Vail", "Donna Damerel"]` | Backstage vaudevillians Myrt and Marge return to the witness stand to defend a fellow chorus dancer framed for jewelry theft. |
+| `Baseball_1960_YankeesOrioles.mp3` <br>*Alt*: `Yankees At Orioles Baseball Games` | **"New York Yankees at Baltimore Orioles with Mel Allen"** | **Yankee Radio Network**<br>1960-09-04 | **Ballantine Beer & Ale**<br>White Owl Cigars | **Mel Allen & Red Barber** | **Phil Rizzuto (Announcers)** | `["Sports", "Baseball", "Yankees", "Mel Allen", "Red Barber"]` | Play-by-play coverage from Memorial Stadium as Mickey Mantle and the New York Yankees battle the Baltimore Orioles in a tight pennant race. |
+| `Baseball_1961_SenatorsYankees.mp3` <br>*Alt*: `Senators At Yankees Game 1 Baseball Games` | **"Washington Senators at New York Yankees (Game 1) with Mel Allen"** | **Yankee Radio Network**<br>1961-09-04 | **Ballantine Beer**<br>Camel Cigarettes | **Mel Allen & Rizzuto** | **Jerry Coleman (Announcers)** | `["Sports", "Baseball", "Yankees", "Mel Allen", "Phil Rizzuto"]` | Labor Day live play-by-play coverage from Yankee Stadium as Roger Maris pursues Babe Ruth's single-season home run record against the Senators. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 198 / 471 (209 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

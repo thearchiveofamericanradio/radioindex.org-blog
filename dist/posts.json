@@ -6,6 +6,86 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-747-vincent-price-mets-baseball-shirer-berlin-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-747-vincent-price-mets-baseball-shirer-berlin-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Vincent Price, Mets Baseball & Shirer in Berlin",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 747)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Vincent Price solving prizefighter poisoning murders as Simon Templar on <em>The Saint</em> for Ford, Lindsey Nelson calling live 1966 National League baseball from Shea Stadium on the Mets Radio Network, William L. Shirer and Edward R. Murrow reporting reciprocal Battle of Britain night air raids from Berlin and London on <em>CBS European News</em>, former diplomat William C. Bullitt debating Soviet relations on <em>The Author Meets the Critics</em>, BBC armchair mystery quiz <em>Guilty Party</em>, and Arthur Godfrey&#39;s Talent Scouts archival master copies, Vincent Price (1949), Lindsey Nelson (1966), William L. Shirer &amp; Edward R. Murrow (1940), William C. Bullitt (1946), and David Jacobs (1940–1966):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 747)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Saint_1949_DeathFighter.mp3</code> <br><em>Alt</em>: <code>Death of a Fighter Saint</code></td>\n<td><strong>&quot;Death of a Fighter with Vincent Price as Simon Templar&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-09-04<br>7:00 PM EDT</td>\n<td><strong>Ford Motor Co.</strong><br>Ford Dealers</td>\n<td><strong>Vincent Price (The Saint)</strong></td>\n<td><strong>Leslie Charteris (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Saint&quot;, &quot;Vincent Price&quot;, &quot;Leslie Charteris&quot;]</code></td>\n<td>The Saint investigates the suspicious dressing-room poisoning of an undefeated prizefighter who refused to take a dive for underworld racketeers.</td>\n</tr>\n<tr>\n<td><code>Baseball_1966_PhilliesMets.mp3</code> <br><em>Alt</em>: <code>Phillies At Mets Baseball Games</code></td>\n<td><strong>&quot;Philadelphia Phillies at New York Mets with Lindsey Nelson&quot;</strong></td>\n<td><strong>Mets Radio Network</strong><br>1966-09-04<br>2:00 PM EDT</td>\n<td><strong>Rheingold Breweries</strong><br>Rheingold Extra Dry Beer</td>\n<td><strong>Lindsey Nelson &amp; Murphy</strong></td>\n<td><strong>Ralph Kiner (Announcers)</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Baseball&quot;, &quot;Mets&quot;, &quot;Lindsey Nelson&quot;, &quot;Bob Murphy&quot;]</code></td>\n<td>Live play-by-play coverage from Shea Stadium as the New York Mets battle the visiting Philadelphia Phillies in National League afternoon action.</td>\n</tr>\n<tr>\n<td><code>CBSNews_1940_LondonBerlinRaids.mp3</code> <br><em>Alt</em>: <code>London And Berlin Raided CBS European News</code></td>\n<td><strong>&quot;London and Berlin Night Bombing Raids with William L. Shirer&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-04<br>6:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>European News Roundup</td>\n<td><strong>William L. Shirer (Berlin)</strong></td>\n<td><strong>Edward R. Murrow &amp; White</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;CBS European News&quot;, &quot;William L Shirer&quot;, &quot;Edward R Murrow&quot;]</code></td>\n<td>CBS foreign correspondents report live on escalating reciprocal aerial bombing attacks striking civilian districts in London and Berlin during the Battle of Britain.</td>\n</tr>\n<tr>\n<td><code>AuthorMeets_1946_GreatGlobe.mp3</code> <br><em>Alt</em>: <code>Episode Author Meets the Critics</code></td>\n<td><strong>&quot;The Great Globe Itself with William C. Bullitt&quot;</strong></td>\n<td><strong>Mutual / WOR</strong><br>1946-09-04<br>10:30 PM EDT</td>\n<td><strong>Book-of-the-Month</strong><br>Literary Discussion</td>\n<td><strong>William C. Bullitt</strong></td>\n<td><strong>John K.M. McCaffery</strong></td>\n<td><code>[&quot;Books&quot;, &quot;Discussion&quot;, &quot;Author Meets Critics&quot;, &quot;William C Bullitt&quot;, &quot;Mutual&quot;]</code></td>\n<td>Former ambassador William C. Bullitt defends his geopolitical analysis of post-war Soviet foreign policy against panel critics.</td>\n</tr>\n<tr>\n<td><code>GuiltyParty_1962_FallenAngel.mp3</code> <br><em>Alt</em>: <code>The Fallen Angel (Not A Repeat) Guilty Party</code></td>\n<td><strong>&quot;The Fallen Angel with David Jacobs&quot;</strong></td>\n<td><strong>BBC Light Programme</strong><br>1962-09-04</td>\n<td><strong>Sustaining</strong><br>British Panel Quiz</td>\n<td><strong>David Jacobs (Chairman)</strong></td>\n<td><strong>Edward J. Mason (Writer)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Panel&quot;, &quot;Guilty Party&quot;, &quot;David Jacobs&quot;, &quot;BBC Light&quot;]</code></td>\n<td>A celebrity panel of armchair detectives cross-examines key suspect witnesses to solve the fictional murder of a glamorous cabaret dancer.</td>\n</tr>\n<tr>\n<td><code>Godfrey_1950_IreneCarroll2.mp3</code> <br><em>Alt</em>: <code>The Winner is Singer Irene Carroll Arthur Godfrey Collection</code></td>\n<td><strong>&quot;Winning Singer Irene Carroll with Archie Bleyer&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-09-04<br>8:30 PM EDT</td>\n<td><strong>Thomas J. Lipton</strong><br>Lipton Tea</td>\n<td><strong>Arthur Godfrey (Host)</strong></td>\n<td><strong>Archie Bleyer&#39;s Orch.</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Arthur Godfrey&quot;, &quot;Talent Scouts&quot;, &quot;Archie Bleyer&quot;]</code></td>\n<td>Arthur Godfrey introduces discovery talent scouts presenting aspiring musical acts, culminating in Irene Carroll taking first prize honors on the applause meter.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 204 / 471 (203 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 747 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Saint",
+        "Vincent Price",
+        "Leslie Charteris",
+        "Ford Motor Company",
+        "Major League Baseball",
+        "New York Mets",
+        "Philadelphia Phillies",
+        "Lindsey Nelson",
+        "Bob Murphy",
+        "Shea Stadium",
+        "CBS European News",
+        "William L Shirer",
+        "Edward R Murrow",
+        "Battle of Britain",
+        "Author Meets the Critics",
+        "William C Bullitt",
+        "John KM McCaffery",
+        "Guilty Party",
+        "David Jacobs",
+        "BBC Light Programme",
+        "Arthur Godfrey Collection",
+        "Irene Carroll",
+        "Archie Bleyer",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-746-red-foley-mel-allen-myrt-marge-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-746-red-foley-mel-allen-myrt-marge-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Red Foley, Mel Allen & Myrt and Marge",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 746)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Red Foley and The Sunshine Boys performing country and sacred gospel on <em>The Tide Show</em> for Procter &amp; Gamble, Myrtle Vail&#39;s backstage vaudeville courtroom testimony on <em>Myrt and Marge</em>, and historic Major League Baseball play-by-play broadcasts called by &quot;The Voice of the Yankees&quot; Mel Allen (Mickey Mantle at Memorial Stadium in 1960 and Roger Maris&#39;s 1961 home run chase against the Senators), Red Foley (1945, 1951), Myrtle Vail (1946), Mel Allen (1960, 1961), and <em>The Tide Show</em> (1945–1961):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 746)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TideShow_1945_DaytimeVariety.mp3</code> <br><em>Alt</em>: <code>Episode Tide Show</code></td>\n<td><strong>&quot;Daytime Variety and Popular Melodies with Procter &amp; Gamble&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-09-04</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide Detergent</td>\n<td><strong>Daytime Variety Troupe</strong></td>\n<td><strong>CBS Music Directors</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;The Tide Show&quot;, &quot;Procter &amp; Gamble&quot;, &quot;Tide&quot;]</code></td>\n<td>A daytime musical variety program featuring popular vocal standards, comedic domestic banter, and upbeat orchestral selections.</td>\n</tr>\n<tr>\n<td><code>TideShow_1951_SunshineBoys.mp3</code> <br><em>Alt</em>: <code>Tide Show 1951 Episode</code></td>\n<td><strong>&quot;Red Foley and The Sunshine Boys with Tide Detergent&quot;</strong></td>\n<td><strong>NBC (WSM)</strong><br>1951-09-04<br>12:45 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide Detergent</td>\n<td><strong>Red Foley &amp; Sunshine Boys</strong></td>\n<td><strong>Cumberland Valley Boys</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Music&quot;, &quot;The Tide Show&quot;, &quot;Red Foley&quot;, &quot;The Sunshine Boys&quot;]</code></td>\n<td>Country music star Red Foley performs down-home acoustic guitar songs and joins The Sunshine Boys in southern gospel quartets.</td>\n</tr>\n<tr>\n<td><code>TideShow_1951_GospelWestern.mp3</code> <br><em>Alt</em>: <code>Episode Tide Show</code></td>\n<td><strong>&quot;Country Gospel and Western Melodies with Red Foley&quot;</strong></td>\n<td><strong>NBC (WSM)</strong><br>1951-09-04</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide Detergent</td>\n<td><strong>Red Foley &amp; Jordanaires</strong></td>\n<td><strong>WSM Production Staff</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Gospel&quot;, &quot;The Tide Show&quot;, &quot;Red Foley&quot;, &quot;WSM&quot;]</code></td>\n<td>Red Foley leads an energetic session of country tunes, sacred hymns, and humorous country storytelling recorded live at WSM.</td>\n</tr>\n<tr>\n<td><code>MyrtMarge_1946_VivianTestify.mp3</code> <br><em>Alt</em>: <code>Vivian and Marge Testify Again Myrt and Marge</code></td>\n<td><strong>&quot;Vivian and Marge Testify Again with Myrtle Vail&quot;</strong></td>\n<td><strong>Syndication</strong><br>1946-09-04</td>\n<td><strong>Sustaining</strong><br>Backstage Soap</td>\n<td><strong>Myrtle Vail &amp; Damerel</strong></td>\n<td><strong>Matt Crowley (Dir.)</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Comedy&quot;, &quot;Myrt and Marge&quot;, &quot;Myrtle Vail&quot;, &quot;Donna Damerel&quot;]</code></td>\n<td>Backstage vaudevillians Myrt and Marge return to the witness stand to defend a fellow chorus dancer framed for jewelry theft.</td>\n</tr>\n<tr>\n<td><code>Baseball_1960_YankeesOrioles.mp3</code> <br><em>Alt</em>: <code>Yankees At Orioles Baseball Games</code></td>\n<td><strong>&quot;New York Yankees at Baltimore Orioles with Mel Allen&quot;</strong></td>\n<td><strong>Yankee Radio Network</strong><br>1960-09-04</td>\n<td><strong>Ballantine Beer &amp; Ale</strong><br>White Owl Cigars</td>\n<td><strong>Mel Allen &amp; Red Barber</strong></td>\n<td><strong>Phil Rizzuto (Announcers)</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Baseball&quot;, &quot;Yankees&quot;, &quot;Mel Allen&quot;, &quot;Red Barber&quot;]</code></td>\n<td>Play-by-play coverage from Memorial Stadium as Mickey Mantle and the New York Yankees battle the Baltimore Orioles in a tight pennant race.</td>\n</tr>\n<tr>\n<td><code>Baseball_1961_SenatorsYankees.mp3</code> <br><em>Alt</em>: <code>Senators At Yankees Game 1 Baseball Games</code></td>\n<td><strong>&quot;Washington Senators at New York Yankees (Game 1) with Mel Allen&quot;</strong></td>\n<td><strong>Yankee Radio Network</strong><br>1961-09-04</td>\n<td><strong>Ballantine Beer</strong><br>Camel Cigarettes</td>\n<td><strong>Mel Allen &amp; Rizzuto</strong></td>\n<td><strong>Jerry Coleman (Announcers)</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Baseball&quot;, &quot;Yankees&quot;, &quot;Mel Allen&quot;, &quot;Phil Rizzuto&quot;]</code></td>\n<td>Labor Day live play-by-play coverage from Yankee Stadium as Roger Maris pursues Babe Ruth&#39;s single-season home run record against the Senators.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 198 / 471 (209 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 746 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Tide Show",
+        "Red Foley",
+        "The Sunshine Boys",
+        "Procter and Gamble",
+        "Tide Detergent",
+        "WSM Nashville",
+        "Myrt and Marge",
+        "Myrtle Vail",
+        "Donna Damerel",
+        "Matt Crowley",
+        "Major League Baseball",
+        "New York Yankees",
+        "Baltimore Orioles",
+        "Washington Senators",
+        "Mel Allen",
+        "Red Barber",
+        "Phil Rizzuto",
+        "Roger Maris",
+        "Mickey Mantle",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-745-lord-of-the-rings-arthur-godfrey-rex-stout-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-745-lord-of-the-rings-arthur-godfrey-rex-stout-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Lord of the Rings, Arthur Godfrey & Rex Stout",
