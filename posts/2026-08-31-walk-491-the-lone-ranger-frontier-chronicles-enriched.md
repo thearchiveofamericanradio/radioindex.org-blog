@@ -1,0 +1,33 @@
+# Archival Dispatch: August 31 Calendar Walk — The Lone Ranger Frontier Chronicles (1938–1953)
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, The Lone Ranger, Earle Graser, Brace Beemer, John Todd, Fred Foy, Fran Striker, General Mills, Cheerios, Silvercup Bread, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 491)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across fifteen years of *The Lone Ranger*, featuring Earle Graser, Brace Beemer, John Todd as Tonto, and Fred Foy on WXYZ Detroit, Mutual, and the ABC Radio Network for Silvercup Bread and General Mills (1938–1953):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 491)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lone_Ranger_1938_Railroad.mp3` <br>*Alt*: `Land for the Railroad` | **"Land for the Railroad with Earle Graser"** | **Mutual / WXYZ**<br>1938-08-31<br>7:30 PM EDST | **Gordon Baking Co.**<br>Silvercup Bread | **Earle Graser**, **Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Juvenile", "The Lone Ranger", "Silvercup"]` | The Lone Ranger protects honest valley ranchers from crooked speculators attempting to force them off rights-of-way required for a new rail line. |
+| `Lone_Ranger_1942_Extortion.mp3` <br>*Alt*: `Extortion Gang Lone Ranger` | **"The Extortion Gang with Earle Graser"** | **NBC Blue (WJZ)**<br>1942-08-31<br>7:30 PM EWT | **General Mills**<br>Cheerioats / Kix | **Earle Graser**, **Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Juvenile", "The Lone Ranger", "Cheerios"]` | The masked rider infiltrates a violent protection racket terrorizing frontier mercantile merchants with midnight barn burnings. |
+| `Lone_Ranger_1945_Arson.mp3` <br>*Alt*: `Arson Lone Ranger` | **"The Timber Arson Ring with Brace Beemer"** | **ABC / Blue Network**<br>1945-08-31<br>7:30 PM EWT | **General Mills**<br>Cheerios Cereal | **Brace Beemer**, **Todd** | **Fred Foy (Announcer)** | `["Western", "Adventure", "Juvenile", "The Lone Ranger", "Brace Beemer"]` | The Lone Ranger and Tonto track timber poachers who intentionally spark forest wildfires to drive settlers off prime lumber tracts. |
+| `Lone_Ranger_1949_StubbMason.mp3` <br>*Alt*: `Gunman for Hire Stubb Mason` | **"Gunman for Hire with Brace Beemer (Stubb Mason)"** | **ABC Network**<br>1949-08-31<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Brace Beemer**, **Todd** | **Fred Foy (Announcer)** | `["Western", "Adventure", "Juvenile", "The Lone Ranger", "Brace Beemer"]` | The masked lawman captures a notorious hired gunfighter named Stubb Mason and uncovers the corrupt cattle baron who paid for his services. |
+| `Lone_Ranger_1951_Spy.mp3` <br>*Alt*: `The Elusive Spy Lone Ranger` | **"The Elusive Spy with Brace Beemer"** | **ABC Network**<br>1951-08-31<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Brace Beemer**, **Todd** | **Fred Foy (Announcer)** | `["Western", "Adventure", "Juvenile", "The Lone Ranger", "Brace Beemer"]` | The Lone Ranger tracks a foreign operative operating under an assumed frontier disguise to steal classified frontier garrison defense maps. |
+| `Lone_Ranger_1953_Drought.mp3` <br>*Alt*: `Drought Lone Ranger` | **"The Valley Drought with Brace Beemer"** | **ABC Network**<br>1953-08-31<br>7:30 PM EDT | **General Mills**<br>Cheerios / Wheaties | **Brace Beemer**, **Todd** | **Fred Foy (Announcer)** | `["Western", "Adventure", "Juvenile", "The Lone Ranger", "Brace Beemer"]` | The Lone Ranger discovers a greedy land owner has dammed the headwaters of a mountain river, cutting off vital irrigation water during a severe drought. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 246 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
