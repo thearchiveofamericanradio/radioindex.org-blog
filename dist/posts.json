@@ -6,6 +6,77 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-777-louis-lamour-pearl-bailey-guy-lombardo-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-777-louis-lamour-pearl-bailey-guy-lombardo-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Louis L'Amour, Pearl Bailey & Guy Lombardo",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 777)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Jim French&#39;s audio adaptation of Louis L&#39;Amour&#39;s western classic <em>The Town No Guns Could Tame</em> starring Harry Bartell on <em>Imagination Theatre</em>, Guy Lombardo on <em>The Fitch Bandwagon</em> for Fitch Dandruff Remover Shampoo, Gary Crosby &amp; Pearl Bailey swinging on <em>The Gary Crosby Summer Show</em>, Dinah Shore singing wartime favorites, Chicago disc jockey Howard Miller on WIND, and country medical heroics on <em>Wayside Theater</em>, Harry Bartell (2005), Guy Lombardo (1938), Pearl Bailey &amp; Gary Crosby (1955), and Dinah Shore (1938–2005):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 777)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ImaginationTheatre_2005_TownNoGuns.mp3</code> <br><em>Alt</em>: <code>Louis L&#39;Amour Theater - The Town No Guns Could Tame Imagination Theater</code></td>\n<td><strong>&quot;The Town No Guns Could Tame with Harry Bartell&quot;</strong></td>\n<td><strong>Jim French Prods</strong><br>2005-09-04</td>\n<td><strong>Sustaining</strong><br>Audio Theater</td>\n<td><strong>Harry Bartell &amp; Albert</strong></td>\n<td><strong>Jim French &amp; L&#39;Amour</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Imagination Theater&quot;, &quot;Louis L&#39;Amour&quot;, &quot;Jim French&quot;]</code></td>\n<td>A reformed gunslinger travels to an outlaw-ruled mining settlement and uses wits rather than revolvers to establish the rule of law.</td>\n</tr>\n<tr>\n<td><code>FitchBandwagon_1938_GuyLombardo.mp3</code> <br><em>Alt</em>: <code>Guy Lombardo Fitch Bandwagon</code></td>\n<td><strong>&quot;Guest Guy Lombardo with F.W. Fitch Shampoo&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1938-09-04<br>7:30 PM EDST</td>\n<td><strong>F.W. Fitch Co.</strong><br>Fitch Dandruff Shampoo</td>\n<td><strong>Guy Lombardo &amp; Orch.</strong></td>\n<td><strong>Ward Wilson (Host)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Fitch Bandwagon&quot;, &quot;Guy Lombardo&quot;, &quot;Fitch Shampoo&quot;]</code></td>\n<td>The Fitch Bandwagon rolls into town with Guy Lombardo playing swing arrangements and romantic signature ballads.</td>\n</tr>\n<tr>\n<td><code>DinahShore_1942_WhoWouldntLoveYou2.mp3</code> <br><em>Alt</em>: <code>First Song - Who Wouldn&#39;t Love You Dinah Shore</code></td>\n<td><strong>&quot;Who Wouldn&#39;t Love You with Gordon Jenkins&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1942-09-04<br>9:30 PM EWT</td>\n<td><strong>Bristol-Myers Co.</strong><br>Sal Hepatica &amp; Mum</td>\n<td><strong>Dinah Shore (Vocalist)</strong></td>\n<td><strong>Gordon Jenkins and Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Dinah Shore&quot;, &quot;Gordon Jenkins&quot;, &quot;Bristol-Myers&quot;]</code></td>\n<td>Dinah Shore delivers sweet vocal stylings on Who Wouldn&#39;t Love You, Blues in the Night, and cheerful wartime swing selections.</td>\n</tr>\n<tr>\n<td><code>GaryCrosby_1955_PearlBailey.mp3</code> <br><em>Alt</em>: <code>The Gary Crosby Summer Show 1955 Episode</code></td>\n<td><strong>&quot;Guest Pearl Bailey and Buddy Bregman&#39;s Orchestra&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1955-09-04<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Summer Variety</td>\n<td><strong>Gary Crosby &amp; Bailey</strong></td>\n<td><strong>Buddy Bregman and Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Gary Crosby&quot;, &quot;Pearl Bailey&quot;, &quot;CBS&quot;]</code></td>\n<td>Gary Crosby and guest Pearl Bailey perform spirited Broadway show duets, comedic banter, and upbeat swing tunes.</td>\n</tr>\n<tr>\n<td><code>HowardMiller_1957_AutumnShowcase.mp3</code> <br><em>Alt</em>: <code>Howard Miller Show 1957 Episode</code></td>\n<td><strong>&quot;Autumn Disc Jockey Showcase on WIND Chicago&quot;</strong></td>\n<td><strong>WIND / CBS Radio</strong><br>1957-09-04</td>\n<td><strong>Sustaining</strong><br>Disc Jockey Show</td>\n<td><strong>Howard Miller (Host)</strong></td>\n<td><strong>WIND Chicago Engineers</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Talk&quot;, &quot;Howard Miller Show&quot;, &quot;WIND Chicago&quot;, &quot;DJ&quot;]</code></td>\n<td>Chicago radio personality Howard Miller spins contemporary 1957 vinyl singles, interviews touring musicians, and comments on entertainment news.</td>\n</tr>\n<tr>\n<td><code>WaysideTheater_1944_MountainDoctor.mp3</code> <br><em>Alt</em>: <code>Wayside Theater 1944 Episode</code></td>\n<td><strong>&quot;The Mountain Doctor&#39;s Vow with Syndication&quot;</strong></td>\n<td><strong>Syndication</strong><br>1944-09-04</td>\n<td><strong>Sustaining</strong><br>Rural Drama</td>\n<td><strong>Dramatic Repertory Cast</strong></td>\n<td><strong>Syndicate Production Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Wayside Theater&quot;, &quot;Doctor&quot;, &quot;Syndication&quot;]</code></td>\n<td>A dedicated Appalachian country physician braves severe mountain flooding to deliver emergency medical treatment to an isolated family.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 384 / 471 (23 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 777 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Imagination Theatre",
+        "Louis L'Amour",
+        "Jim French",
+        "Harry Bartell",
+        "Larry Albert",
+        "The Fitch Bandwagon",
+        "Guy Lombardo",
+        "F W Fitch Shampoo",
+        "Dinah Shore",
+        "Gordon Jenkins",
+        "Bristol-Myers",
+        "The Gary Crosby Summer Show",
+        "Gary Crosby",
+        "Pearl Bailey",
+        "Buddy Bregman",
+        "CBS Radio",
+        "The Howard Miller Show",
+        "WIND Chicago",
+        "Wayside Theater",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-776-saturday-night-theatre-gladys-swarthout-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-776-saturday-night-theatre-gladys-swarthout-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Saturday Night Theatre & Gladys Swarthout",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 776)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across five decades of BBC drama on <em>Saturday Night Theatre</em> adapting Josephine Tey&#39;s <em>The Franchise Affair</em> (1954), Aimée Stuart&#39;s <em>Jeannie</em> (1965), Colin Finbow&#39;s <em>Brazen Prison</em> (1971), Michael Brett&#39;s <em>At Your Service</em> (1976), and Nick Fisher&#39;s <em>Ripples</em> (1993), alongside Gladys Swarthout singing Franz Lehár&#39;s <em>The Count of Luxembourg</em> on <em>Palmolive Beauty Box Theater</em> for Palmolive Soap, Gladys Swarthout (1934), Josephine Tey (1954), and Aimée Stuart (1934–1993):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 776)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SatNightTheatre_1954_FranchiseAffair.mp3</code> <br><em>Alt</em>: <code>The Franchise Affair Saturday Night Theatre</code></td>\n<td><strong>&quot;The Franchise Affair with BBC Home Service&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1954-09-04<br>9:15 PM BST</td>\n<td><strong>Sustaining</strong><br>British Mystery</td>\n<td><strong>BBC Repertory Players</strong></td>\n<td><strong>Josephine Tey (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Saturday Night Theatre&quot;, &quot;Josephine Tey&quot;, &quot;BBC&quot;]</code></td>\n<td>A country solicitor defends two respectable village women accused of falsely imprisoning and brutalizing a deceitful teenage girl.</td>\n</tr>\n<tr>\n<td><code>SatNightTheatre_1965_Jeannie.mp3</code> <br><em>Alt</em>: <code>Jeannie Saturday Night Theatre</code></td>\n<td><strong>&quot;Jeannie with BBC Home Service&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1965-09-04<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Romantic Drama</td>\n<td><strong>BBC Drama Players</strong></td>\n<td><strong>Aimée Stuart (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Saturday Night Theatre&quot;, &quot;Aimee Stuart&quot;, &quot;BBC&quot;]</code></td>\n<td>A modest Scottish spinster inherits a modest bequest and embarks on a whirlwind holiday to Vienna where she falls in love with an engineer.</td>\n</tr>\n<tr>\n<td><code>SatNightTheatre_1971_BrazenPrison.mp3</code> <br><em>Alt</em>: <code>Brazen Prison Saturday Night Theatre</code></td>\n<td><strong>&quot;Brazen Prison with BBC Radio 4&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1971-09-04<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Drama</td>\n<td><strong>BBC Dramatic Troupe</strong></td>\n<td><strong>Colin Finbow (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Saturday Night Theatre&quot;, &quot;Colin Finbow&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>An introspective playwright rents an isolated Victorian rectory to finish his masterpiece, only to be haunted by bizarre manifestations.</td>\n</tr>\n<tr>\n<td><code>SatNightTheatre_1976_AtYourService.mp3</code> <br><em>Alt</em>: <code>At Your Service Saturday Night Theatre</code></td>\n<td><strong>&quot;At Your Service with BBC Radio 4&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1976-09-04<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Comedy-Drama</td>\n<td><strong>BBC Repertory Ensemble</strong></td>\n<td><strong>Michael Brett (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Comedy&quot;, &quot;Saturday Night Theatre&quot;, &quot;Michael Brett&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>A loyal retired butler takes a domestic post with a chaotic aristocratic family, subtly orchestrating their financial turnaround.</td>\n</tr>\n<tr>\n<td><code>SatNightTheatre_1993_Ripples.mp3</code> <br><em>Alt</em>: <code>Ripples Saturday Night Theatre</code></td>\n<td><strong>&quot;Ripples with BBC Radio 4&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1993-09-04<br>7:50 PM BST</td>\n<td><strong>Sustaining</strong><br>British Radio Drama</td>\n<td><strong>BBC Drama Repertory</strong></td>\n<td><strong>Nick Fisher (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Thriller&quot;, &quot;Saturday Night Theatre&quot;, &quot;Nick Fisher&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>A seaside fishing community is torn apart when a submerged trawler wreckage yields evidence of an insurance sabotage conspiracy.</td>\n</tr>\n<tr>\n<td><code>PalmoliveBeauty_1934_CountLuxembourg.mp3</code> <br><em>Alt</em>: <code>The Count of Luxembourg Palmolive Beauty Box Theater</code></td>\n<td><strong>&quot;The Count of Luxembourg with Gladys Swarthout&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1934-09-04<br>10:00 PM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Soap &amp; Shave</td>\n<td><strong>Gladys Swarthout &amp; Barclay</strong></td>\n<td><strong>Nathaniel Shilkret &amp; Lehar</strong></td>\n<td><code>[&quot;Operetta&quot;, &quot;Music&quot;, &quot;Palmolive Beauty Box Theater&quot;, &quot;Gladys Swarthout&quot;, &quot;Franz Lehar&quot;]</code></td>\n<td>An impoverished bohemian nobleman agrees to marry a veiled opera diva for money, only to genuinely fall in love with her unrecognized identity.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 378 / 471 (29 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 776 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Saturday Night Theatre",
+        "BBC Home Service",
+        "BBC Radio 4",
+        "Josephine Tey",
+        "Aimee Stuart",
+        "Colin Finbow",
+        "Michael Brett",
+        "Nick Fisher",
+        "Palmolive Beauty Box Theater",
+        "Gladys Swarthout",
+        "John Barclay",
+        "Nathaniel Shilkret",
+        "Franz Lehar",
+        "Palmolive Soap",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-775-guy-lombardo-brett-halliday-murder-will-out-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-775-guy-lombardo-brett-halliday-murder-will-out-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Guy Lombardo, Brett Halliday & Murder Will Out",
