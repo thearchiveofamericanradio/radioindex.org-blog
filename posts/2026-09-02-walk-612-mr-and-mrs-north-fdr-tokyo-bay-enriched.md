@@ -1,0 +1,33 @@
+# Archival Dispatch: September 2 Calendar Walk — Mr. & Mrs. North, FDR National Parks & Tokyo Bay
+
+**Date**: 2026-09-02  
+**Author**: radio index  
+**Tags**: September 2, Calendar Walk, Mr and Mrs North, Alice Frost, Joseph Curtin, Barbara Britton, Richard Denning, Colgate Palmolive, Franklin D Roosevelt, Great Smoky Mountains, National Parks, American History Through the Eyes of Radio, USS Missouri, Movietown Radio Theater, CP MacGregor, Alternate Titles, Original Filenames
+
+---
+
+## September 2 Archival Metadata Enrichment (Increment 612)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across witty mystery husband-and-wife crime investigations, historic presidential conservation dedications, landmark Pacific naval surrender recordings, and Hollywood syndication dramas, Alice Frost, Joseph Curtin, Barbara Britton, and Richard Denning in *Mr. and Mrs. North* for Colgate and Halo (1947, 1952), President Franklin D. Roosevelt dedicating Great Smoky Mountains National Park (1940), *American History Through the Eyes of Radio* (1945), and *Movietown Radio Theater* (1940–1953):
+
+---
+
+## 1. *September 2 Archival Inventory (Increment 612)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `North_1947_PistolChimp.mp3` <br>*Alt*: `Meet a pistol-packing chimpanzee Mr and Mrs North` | **"Meet a Pistol-Packing Chimpanzee with Alice Frost"** | **NBC (WEAF)**<br>1947-09-02<br>8:30 PM EDT | **Colgate-Palmolive**<br>Halo Shampoo | **Alice Frost**, **Curtin** | **Frank Lovejoy (Weigand)** | `["Comedy", "Mystery", "Mr And Mrs North", "Alice Frost", "Halo"]` | Pamela and Jerry North investigate when a theatrical animal trainer is shot dead inside an apartment where a trained chimpanzee holds the smoking revolver. |
+| `North_1952_SlowPoison.mp3` <br>*Alt*: `Slow Poison Mr and Mrs North` | **"Slow Poison with Barbara Britton and Richard Denning"** | **CBS (WCBS)**<br>1952-09-02<br>8:30 PM EDT | **Colgate-Palmolive**<br>Colgate Dental Cream | **Britton**, **Denning** | **Francis De Sales** | `["Comedy", "Mystery", "Mr And Mrs North", "Barbara Britton", "Colgate"]` | Pam and Jerry North uncover a family inheritance conspiracy when an eccentric gourmet chef dies from gradual arsenic poisoning. |
+| `FDR_1940_GreatSmokyPark.mp3` <br>*Alt*: `Address At Dedication Of Great Smoky Mountain National Park, T N` | **"Address at Dedication of Great Smoky Mountains National Park"** | **Combined Relay**<br>1940-09-02<br>4:30 PM EDST | **Sustaining**<br>Presidential Address | **Pres. Franklin D. Roosevelt** | **White House Press Corps** | `["Speech", "History", "FDR", "Great Smoky Mountains", "National Parks"]` | President Franklin D. Roosevelt delivers a Labor Day address dedicating Great Smoky Mountains National Park and championing wilderness conservation. |
+| `History_1945_JapanSurrenders.mp3` <br>*Alt*: `Japan Surrenders American History Through The Eyes Of Radio` | **"Japan Surrenders Aboard USS Missouri with Douglas MacArthur"** | **Combined Relay**<br>1945-09-02 | **Sustaining**<br>Historical Coverage | **Gen. Douglas MacArthur** | **Adm. Chester Nimitz** | `["History", "Documentary", "WWII", "Surrender", "Douglas MacArthur"]` | Documentary audio captures General Douglas MacArthur opening the formal Japanese surrender ceremonies in Tokyo Bay. |
+| `Movietown_1951_ToLoveAgain.mp3` <br>*Alt*: `To Love Again Movietown Radio Theater` | **"To Love Again with Dramatic Hollywood Cast"** | **MacGregor Synd.**<br>1951-09-02 | **Sustaining**<br>Hollywood Anthology | **Dramatic Voice Cast** | **C.P. MacGregor (Prod)** | `["Drama", "Romance", "Anthology", "Movietown Radio Theater", "Syndicated"]` | A widowed concert pianist finds renewed artistic inspiration and romantic companionship while tutoring a gifted conservatory student. |
+| `Movietown_1953_LadyInWind.mp3` <br>*Alt*: `Lady In The Wind Movietown Radio Theater` | **"Lady in the Wind with Dramatic Hollywood Cast"** | **MacGregor Synd.**<br>1953-09-02 | **Sustaining**<br>Hollywood Anthology | **Dramatic Voice Cast** | **C.P. MacGregor (Prod)** | `["Drama", "Adventure", "Anthology", "Movietown Radio Theater", "Syndicated"]` | A commercial cargo schooner captain rescues a mysterious heiress stranded on a hurricane-swept Caribbean reef. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 284 / 480 (196 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
