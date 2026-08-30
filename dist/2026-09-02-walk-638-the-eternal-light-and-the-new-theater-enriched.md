@@ -1,0 +1,33 @@
+# Archival Dispatch: September 2 Calendar Walk — The Eternal Light & The New Theater
+
+**Date**: 2026-09-02  
+**Author**: radio index  
+**Tags**: September 2, Calendar Walk, The Eternal Light, Alexander Scourby, Morton Wishengrad, JTSA, NBC, Serial Story Arc, The New Theater, Sybil Thorndike, Emlyn Williams, BBC Home, Alternate Titles, Original Filenames
+
+---
+
+## September 2 Archival Metadata Enrichment (Increment 638)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on **September 2** across dramatic biblical serial cycles produced in cooperation with the Jewish Theological Seminary of America, and acclaimed British theatrical adaptations, Alexander Scourby and Roger DeKoven in four serial installments of *The Eternal Light* (1945, 1951, 1956, 1962), and Dame Sybil Thorndike in Emlyn Williams's *The Corn Is Green* on *The New Theater* (1945–1962):
+
+---
+
+## 1. *September 2 Archival Inventory (Increment 638)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Arc Metadata | Story Synopsis |
+|---|---|---|---|---|---|---|---|---|
+| `Theater_1951_CornIsGreen.mp3` <br>*Alt*: `The Corn is Green The New Theater` | **"The Corn Is Green with Dame Sybil Thorndike"** | **BBC Home**<br>1951-09-02<br>8:30 PM BST | **Sustaining**<br>British Theater | **Dame Sybil Thorndike** | **Emlyn Williams (Author)** | `["Drama", "British", "The New Theater", "Sybil Thorndike", "BBC Home"]` | `null` | An idealistic English schoolteacher in a remote Welsh mining village dedicates herself to tutoring a gifted young coal miner for an Oxford scholarship. |
+| `Eternal_1945_JosephProvider.mp3` <br>*Alt*: `Joseph and His Brothers Part 3 - Joseph the Provider NBC` | **"Joseph and His Brothers (Part 3: Joseph the Provider) with Alexander Scourby"** | **NBC (WEAF)**<br>1945-09-02<br>11:00 AM EWT | **Sustaining**<br>JTSA Religious Drama | **Alexander Scourby (Joseph)** | **Roger DeKoven & Wishengrad** | `["Drama", "Religious", "Eternal Light", "Alexander Scourby", "NBC"]` | `{"title": "Joseph and His Brothers", "part": 3, "total_parts": 3}` | Joseph reveals his true identity to his starving brothers in Egypt and extends forgiveness to unite his estranged family. |
+| `Eternal_1951_WordsLiveBy10.mp3` <br>*Alt*: `The Words We Live by Pt 10 NBC` | **"The Words We Live By (Part 10) with JTSA and NBC"** | **NBC (WNBC)**<br>1951-09-02<br>12:30 PM EDT | **Sustaining**<br>JTSA Religious Drama | **Dramatic Voice Cast** | **David Putterman & Wishengrad** | `["Drama", "Religious", "Eternal Light", "JTSA", "NBC"]` | `{"title": "The Words We Live By", "part": 10, "total_parts": 10}` | Biblical scholar panels examine ethical commandments and sacred texts defining mutual responsibility in civil society. |
+| `Eternal_1956_Pentateuch10.mp3` <br>*Alt*: `Highlights About the First Five Books of the Bible Part 10 NBC` | **"Highlights of the Pentateuch (Part 10) with JTSA and NBC"** | **NBC (WRCA)**<br>1956-09-02<br>12:30 PM EDT | **Sustaining**<br>JTSA Religious Drama | **Dramatic Voice Cast** | **JTSA Faculty Advisors** | `["Drama", "Religious", "Eternal Light", "JTSA", "NBC"]` | `{"title": "Highlights of the Pentateuch", "part": 10, "total_parts": 10}` | Dramatized biblical discourses review Mosaic legal traditions and spiritual teachings across Deuteronomy. |
+| `Eternal_1962_DemocracyBible15.mp3` <br>*Alt*: `Democracy and the Bible Part 15 NBC` | **"Democracy and the Bible (Part 15) with Alexander Scourby"** | **NBC (WNBC)**<br>1962-09-02<br>12:30 PM EDT | **Sustaining**<br>JTSA Religious Drama | **Alexander Scourby (Narrator)** | **JTSA Production Unit** | `["Drama", "Religious", "Eternal Light", "Alexander Scourby", "NBC"]` | `{"title": "Democracy and the Bible", "part": 15, "total_parts": 15}` | Prophetic literature dramatizations explore how ancient biblical concepts of justice shaped modern constitutional democracy. |
+| `Eternal_1962_DemocracyMaster.mp3` <br>*Alt*: `Democracy And The Bible No 15 The Eternal Light` | **"Democracy and the Bible (Part 15) with Alexander Scourby (Master)"** | **NBC (WNBC)**<br>1962-09-02<br>12:30 PM EDT | **Sustaining**<br>JTSA Religious Drama | **Alexander Scourby (Narrator)** | **JTSA Production Unit** | `["Drama", "Religious", "Eternal Light", "Alexander Scourby", "NBC"]` | `{"title": "Democracy and the Bible", "part": 15, "total_parts": 15}` | Scholars trace prophetic egalitarian ethics from the Hebrew Scriptures to foundational principles of human rights. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 440 / 480 (40 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
