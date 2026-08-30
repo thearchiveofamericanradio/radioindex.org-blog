@@ -6,6 +6,38 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-636-the-fat-man-stan-kenton-bob-and-ray-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-636-the-fat-man-stan-kenton-bob-and-ray-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — The Fat Man, Stan Kenton & Bob and Ray",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 636)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic hardboiled private eye cases, deadpan radio satire, progressive big band concert remotes, and Armed Forces bebop jazz sessions, J. Scott Smart as Brad Runyon in <em>The Fat Man</em> for Pepto-Bismol (1946, 1949), Bob Elliott and Ray Goulding in <em>Bob and Ray</em> (1948, 1949), Stan Kenton live from Fort Sheridan for AFRS (1952), and Pete Brown and Kai Winding (1946–1952):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 636)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>FatMan_1946_SailsMidnight.mp3</code> <br><em>Alt</em>: <code>Murder Sails at Midnight The Fat Man</code></td>\n<td><strong>&quot;Murder Sails at Midnight with J. Scott Smart&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-02<br>8:30 PM EDT</td>\n<td><strong>Norwich Pharmacal</strong><br>Pepto-Bismol &amp; Unguentine</td>\n<td><strong>J. Scott Smart (Runyon)</strong></td>\n<td><strong>Robert Sloane &amp; Hammett</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Fat Man&quot;, &quot;J Scott Smart&quot;, &quot;Pepto Bismol&quot;]</code></td>\n<td>Brad Runyon boards a luxury transatlantic passenger liner to safeguard an international courier carrying encrypted diplomatic papers.</td>\n</tr>\n<tr>\n<td><code>FatMan_1949_SailsMidnightRe.mp3</code> <br><em>Alt</em>: <code>Murder Sails at Midnight The Fat Man (1949)</code></td>\n<td><strong>&quot;Murder Sails at Midnight with J. Scott Smart (Rebroadcast)&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1949-09-02<br>8:00 PM EDT</td>\n<td><strong>Norwich Pharmacal</strong><br>Pepto-Bismol</td>\n<td><strong>J. Scott Smart (Runyon)</strong></td>\n<td><strong>Robert Sloane &amp; Hammett</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Fat Man&quot;, &quot;J Scott Smart&quot;, &quot;Pepto Bismol&quot;]</code></td>\n<td>Private detective Brad Runyon investigates when a wealthy socialite is pushed overboard into the Atlantic Ocean during a midnight crossing.</td>\n</tr>\n<tr>\n<td><code>BobRay_1948_MaryMcGoon.mp3</code> <br><em>Alt</em>: <code>Mary McGoon Recommends Christmas Presents Bob and Ray</code></td>\n<td><strong>&quot;Mary McGoon&#39;s Bargain Recipes with Bob and Ray&quot;</strong></td>\n<td><strong>WHDH / CBS</strong><br>1948-09-02</td>\n<td><strong>Sustaining</strong><br>Deadpan Satire</td>\n<td><strong>Bob Elliott</strong>, <strong>Ray Goulding</strong></td>\n<td><strong>Bob Elliott &amp; Ray Goulding</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Bob And Ray&quot;, &quot;Bob Elliott&quot;, &quot;CBS&quot;]</code></td>\n<td>Bob and Ray spoof commercial home economics programs as kitchen guru Mary McGoon demonstrates absurd holiday recipes.</td>\n</tr>\n<tr>\n<td><code>BobRay_1949_CarlCrumit.mp3</code> <br><em>Alt</em>: <code>Carl Crumit, Vaudevillian Bob and Ray</code></td>\n<td><strong>&quot;Carl Crumit, Vaudevillian with Bob and Ray&quot;</strong></td>\n<td><strong>WHDH / CBS</strong><br>1949-09-02</td>\n<td><strong>Sustaining</strong><br>Deadpan Satire</td>\n<td><strong>Bob Elliott</strong>, <strong>Ray Goulding</strong></td>\n<td><strong>Bob Elliott &amp; Ray Goulding</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Bob And Ray&quot;, &quot;Bob Elliott&quot;, &quot;CBS&quot;]</code></td>\n<td>Bob and Ray interview an elderly down-on-his-luck vaudeville performer attempting to revive forgotten stage routines.</td>\n</tr>\n<tr>\n<td><code>Kenton_1952_FortSheridan.mp3</code> <br><em>Alt</em>: <code>Stan Kenton Fort Sheridan, Illinois Stan Kenton Collection</code></td>\n<td><strong>&quot;Live from Fort Sheridan, Illinois with Stan Kenton&quot;</strong></td>\n<td><strong>AFRS Remote</strong><br>1952-09-02</td>\n<td><strong>Sustaining</strong><br>Armed Forces Radio</td>\n<td><strong>Stan Kenton &amp; Orchestra</strong></td>\n<td><strong>Conte Candoli &amp; Ferguson</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Jazz&quot;, &quot;Stan Kenton&quot;, &quot;AFRS&quot;]</code></td>\n<td>Stan Kenton leads his innovative jazz orchestra in high-energy brass arrangements and wall-of-sound instrumentals live for service members at Fort Sheridan.</td>\n</tr>\n<tr>\n<td><code>Jazz_1952_PeteBrownWinding.mp3</code> <br><em>Alt</em>: <code>Pete Brown Group and Kai Winding Group Stars In Jazz</code></td>\n<td><strong>&quot;Pete Brown and Kai Winding Groups with AFRS&quot;</strong></td>\n<td><strong>AFRS Service</strong><br>1952-09-02</td>\n<td><strong>Sustaining</strong><br>Armed Forces Radio</td>\n<td><strong>Pete Brown</strong>, <strong>Kai Winding</strong></td>\n<td><strong>Bud Widom (Announcer)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Stars In Jazz&quot;, &quot;Pete Brown&quot;, &quot;AFRS&quot;]</code></td>\n<td>Alto saxophonist Pete Brown and trombonist Kai Winding lead modern jazz combos in progressive bebop sessions for overseas military personnel.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 428 / 480 (52 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 636 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Fat Man",
+        "J Scott Smart",
+        "Dashiell Hammett",
+        "Pepto Bismol",
+        "Bob and Ray",
+        "Bob Elliott",
+        "Ray Goulding",
+        "CBS",
+        "Stan Kenton",
+        "AFRS",
+        "Stars in Jazz",
+        "Pete Brown",
+        "Kai Winding",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-635-upton-sinclair-this-i-believe-i-deal-in-crime-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-635-upton-sinclair-this-i-believe-i-deal-in-crime-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Upton Sinclair, This I Believe & I Deal in Crime",
