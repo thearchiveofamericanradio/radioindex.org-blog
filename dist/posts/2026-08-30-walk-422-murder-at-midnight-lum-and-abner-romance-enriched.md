@@ -1,0 +1,33 @@
+# Archival Dispatch: August 30 Calendar Walk — Murder at Midnight, Lum and Abner, and Romance
+
+**Date**: 2026-08-30  
+**Author**: radio index  
+**Tags**: August 30, Calendar Walk, Murder at Midnight, Berry Kroeger, Anton M Leader, Thirteenth Floor, Romance, Benn W Levy, Martha Scott, Mrs Moonlight, Lum and Abner, Chester Lauck, Norris Goff, Horlick's Malted Milk, Alka-Seltzer, CBS News, Battle of Britain, RAF, Alternate Titles, Original Filenames
+
+---
+
+## August 30 Archival Metadata Enrichment (Increment 422)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and macabre thriller archives, Berry Kroeger hosting the phantom elevator horror *The Thirteenth Floor* on *Murder at Midnight* (1946), Martha Scott starring in Benn W. Levy's romantic fantasy *Mrs. Moonlight* on *Romance* (1943), three rural comedy adventures on *Lum and Abner* at the Jot 'Em Down Store in Pine Ridge for Horlick's and Alka-Seltzer (1935–1947), and CBS news coverage of RAF night fighter operations (1935–1947):
+
+---
+
+## 1. *August 30 Archival Inventory (Increment 422)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Murder_Midnight_1946_13th.mp3` <br>*Alt*: `Thirteenth Floor Kroeger` | **"The Thirteenth Floor"** | **Mutual (WOR)**<br>1946-08-30<br>11:30 PM EDT | **Sustaining**<br>Macabre Thriller | **Berry Kroeger** (Host) | **Anton M. Leader (Director)** | `["Horror", "Macabre", "Supernatural", "Thriller", "Anthology"]` | An ambitious executive uses an express elevator trap to murder a business partner, only to find himself trapped on a phantom floor. |
+| `Romance_1943_Moonlight.mp3` <br>*Alt*: `Mrs Moonlight Martha Scott` | **"Benn W. Levy's Mrs. Moonlight with Martha Scott"** | **CBS (WABC)**<br>1943-08-30<br>11:30 PM EWT | **Sustaining**<br>Dramatic Romance | **Martha Scott**, **Cast** | **Benn W. Levy (Author)** | `["Drama", "Romance", "Fantasy", "Adaptation", "Martha Scott"]` | A young Victorian bride wishes on a magical keepsake necklace to remain eternally young, but realizes immortality isolates her from aging loved ones. |
+| `CBS_News_1940_Paint2.mp3` <br>*Alt*: `British Planes Invisible Paint` | **"British Warplanes and Night-Camouflage Formations"** | **CBS (WABC)**<br>1940-08-30<br>6:45 PM EDST | **Sustaining**<br>Wartime News | **Bob Trout**, **Murrow** | **CBS News Staff** | `["News", "World War II", "Battle of Britain", "Aviation", "Historical"]` | CBS correspondents report on RAF nighttime defensive formations over southern England and experimental stealth camouflage finishes. |
+| `Lum_Abner_1935_Stock.mp3` <br>*Alt*: `Stockholders Vote Jot Em Down` | **"The Stockholders Vote"** | **NBC Red (WEAF)**<br>1935-08-30<br>7:30 PM EDST | **Horlick's Malted Milk**<br>Malted Milk Drinks | **Chester Lauck**, **Goff** | **Lauck & Norris Goff** | `["Comedy", "Rural", "Sitcom", "Americana", "Horlick's"]` | Lum and Abner hold an emergency shareholder meeting at the Jot 'Em Down Store to prevent Squire Skimp from seizing corporate control. |
+| `Lum_Abner_1944_BJ.mp3` <br>*Alt*: `B J Accuses Lum 1944` | **"B.J. Accuses Lum"** | **NBC Blue (WJZ)**<br>1944-08-30<br>8:15 PM EWT | **Miles Laboratories**<br>Alka-Seltzer / One-A-Day | **Chester Lauck**, **Goff** | **Lauck & Norris Goff** | `["Comedy", "Rural", "Sitcom", "Americana", "Alka-Seltzer"]` | B.J. Webster accuses Lum of mismanaging county election ballots during a contentious town hall dispute in Pine Ridge. |
+| `Lum_Abner_1947_Aladdin.mp3` <br>*Alt*: `Aladin Wonderful Lamp` | **"Aladdin and the Wonderful Lamp"** | **CBS (WCBS)**<br>1947-08-30<br>8:00 PM EDT | **Miles Laboratories**<br>Alka-Seltzer / One-A-Day | **Chester Lauck**, **Goff** | **Lauck & Norris Goff** | `["Comedy", "Rural", "Sitcom", "Americana", "Alka-Seltzer"]` | Abner discovers a tarnished brass lamp in the store cellar and becomes convinced a wish-granting genie lives inside. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 204 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
