@@ -6,6 +6,46 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-696-boston-blackie-bell-telephone-fbi-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-696-boston-blackie-bell-telephone-fbi-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Boston Blackie, Bell Telephone & FBI",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 696)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across stylish safecracker-turned-detective mysteries on V-J Day, premier classical telephone symphony broadcasts, authentic FBI case dramatizations, chilling late-night mystery greenhouse horror, Andean expedition cliffhangers, and Hollywood ballroom swing remotes, Chester Morris as <em>Boston Blackie</em> for Lifebuoy (1945), Lucine Amara on <em>The Bell Telephone Hour</em> (1956), Stacy Harris in <em>This Is Your FBI</em> (1948), E.G. Marshall on <em>CBS Radio Mystery Theater</em> (1998), Glenn Langan in <em>Stand By for Adventure</em> (1946), and <em>Russ Morgan at the Trocadero</em> (1945–1998):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 696)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BostonBlackie_1945_StolenDiamonds.mp3</code> <br><em>Alt</em>: <code>Boston Blackie 1945 Episode</code></td>\n<td><strong>&quot;The Stolen Diamonds on V-J Day with Chester Morris as Boston Blackie&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-09-03<br>8:00 PM EWT</td>\n<td><strong>Lever Brothers</strong><br>Lifebuoy Health Soap</td>\n<td><strong>Chester Morris (Blackie)</strong></td>\n<td><strong>Richard Lane (Faraday)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Boston Blackie&quot;, &quot;Chester Morris&quot;, &quot;Lifebuoy&quot;]</code></td>\n<td>Boston Blackie is framed for a high-society jewelry heist and must outwit Inspector Faraday to capture the genuine jewel thief.</td>\n</tr>\n<tr>\n<td><code>BellTelephone_1956_LucineAmara.mp3</code> <br><em>Alt</em>: <code>Episode Bell Telephone Hour</code></td>\n<td><strong>&quot;Guest Lucine Amara with Donald Voorhees and Bell Telephone&quot;</strong></td>\n<td><strong>NBC (WRCA)</strong><br>1956-09-03<br>9:00 PM EDT</td>\n<td><strong>Bell Telephone System</strong><br>AT&amp;T Long Distance</td>\n<td><strong>Lucine Amara (Soprano)</strong></td>\n<td><strong>Donald Voorhees &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Bell Telephone Hour&quot;, &quot;Lucine Amara&quot;, &quot;Donald Voorhees&quot;]</code></td>\n<td>Metropolitan Opera soprano Lucine Amara performs Puccini arias and classical concert pieces accompanied by Donald Voorhees and the Bell Orchestra.</td>\n</tr>\n<tr>\n<td><code>ThisIsYourFBI_1948_GreatDeception.mp3</code> <br><em>Alt</em>: <code>The Great Deception This is Your FBI</code></td>\n<td><strong>&quot;The Great Deception with Stacy Harris as Agent Taylor&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-09-03<br>8:30 PM EDT</td>\n<td><strong>Equitable Life</strong><br>Life Assurance Society</td>\n<td><strong>Stacy Harris (Taylor)</strong></td>\n<td><strong>Jerry Devine (Director)</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Docudrama&quot;, &quot;This Is Your FBI&quot;, &quot;Stacy Harris&quot;, &quot;Equitable Life&quot;]</code></td>\n<td>FBI special agents track a cunning confidence swindler who impersonates federal banking examiners to loot regional savings institutions.</td>\n</tr>\n<tr>\n<td><code>CBSRMT_1998_TheGarden.mp3</code> <br><em>Alt</em>: <code>The Garden CBS Radio Mystery Theater</code></td>\n<td><strong>&quot;The Garden with EG Marshall and Himan Brown&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1998-09-03</td>\n<td><strong>Sustaining</strong><br>Mystery Anthology</td>\n<td><strong>E.G. Marshall (Host)</strong></td>\n<td><strong>Himan Brown (Producer)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Horror&quot;, &quot;CBS Radio Mystery Theater&quot;, &quot;EG Marshall&quot;, &quot;Himan Brown&quot;]</code></td>\n<td>A wealthy recluse tends an exotic subterranean greenhouse containing carnivorous botanical specimens that hunger for human flesh.</td>\n</tr>\n<tr>\n<td><code>StandByAdv_1946_LostInca.mp3</code> <br><em>Alt</em>: <code>Episode Stand By For Adventure</code></td>\n<td><strong>&quot;The Lost Inca Gold with Glenn Langan&quot;</strong></td>\n<td><strong>Syndication</strong><br>1946-09-03</td>\n<td><strong>Sustaining</strong><br>Adventure Anthology</td>\n<td><strong>Glenn Langan (Host)</strong></td>\n<td><strong>Syndicated Drama Cast</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Anthology&quot;, &quot;Stand By For Adventure&quot;, &quot;Glenn Langan&quot;, &quot;Syndicated&quot;]</code></td>\n<td>An expedition deep into the Peruvian Andes uncovers a concealed temple treasure vault protected by deadly stone traps.</td>\n</tr>\n<tr>\n<td><code>BigBand_1945_TrocaderoVJ.mp3</code> <br><em>Alt</em>: <code>Trocadero Big Band Remotes</code></td>\n<td><strong>&quot;Russ Morgan Live from the Trocadero on V-J Day (Remotes)&quot;</strong></td>\n<td><strong>Mutual (KHJ)</strong><br>1945-09-03<br>11:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Big Band Remote</td>\n<td><strong>Russ Morgan &amp; Orch.</strong></td>\n<td><strong>Trocadero Radio Crew</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Big Band Remotes&quot;, &quot;Russ Morgan&quot;, &quot;Trocadero&quot;]</code></td>\n<td>Russ Morgan leads his orchestra in celebratory dance tunes broadcasting live from the Trocadero club in Hollywood on V-J Day.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 367 / 469 (102 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 696 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Boston Blackie",
+        "Chester Morris",
+        "Richard Lane",
+        "Lifebuoy Soap",
+        "Lever Brothers",
+        "The Bell Telephone Hour",
+        "Lucine Amara",
+        "Donald Voorhees",
+        "AT&T",
+        "This Is Your FBI",
+        "Stacy Harris",
+        "Jerry Devine",
+        "Equitable Life",
+        "CBS Radio Mystery Theater",
+        "EG Marshall",
+        "Himan Brown",
+        "Stand By for Adventure",
+        "Glenn Langan",
+        "Big Band Remotes",
+        "Russ Morgan",
+        "Trocadero",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-695-voltaire-candide-texaco-jungle-jim-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-695-voltaire-candide-texaco-jungle-jim-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Voltaire's Candide, Texaco & Jungle Jim",
