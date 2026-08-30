@@ -6,6 +6,46 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-705-the-thin-man-edward-r-murrow-clyde-beatty-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-705-the-thin-man-edward-r-murrow-clyde-beatty-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — The Thin Man, Edward R. Murrow & Clyde Beatty",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 705)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across witty high-society husband-and-wife mystery banter penned by Dashiell Hammett for Post Toasties, momentous CBS London news relays capturing the exact moment Britain declared war on Nazi Germany, thrilling big-top animal trainer adventures in Bengal, interactive detective puzzles, and wartime Merchant Marine musical showcases, Les Damon and Claudia Morgan in <em>The Adventures of the Thin Man</em> (1941, 1943), Edward R. Murrow (1939), Clyde Beatty (1951), Frank Lovejoy (1948), and <em>We Deliver the Goods</em> (1939–1951):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 705)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ThinMan_1941_RussianDressing.mp3</code> <br><em>Alt</em>: <code>Ham, With Russian Dressing Adventures of the Thin Man</code></td>\n<td><strong>&quot;Ham, with Russian Dressing with Les Damon as Nick Charles&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1941-09-03<br>8:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Comedy Mystery</td>\n<td><strong>Les Damon (Nick)</strong></td>\n<td><strong>Claudia Morgan &amp; Hammett</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Comedy&quot;, &quot;The Thin Man&quot;, &quot;Les Damon&quot;, &quot;Claudia Morgan&quot;]</code></td>\n<td>Nick and Nora Charles investigate the backstage poisoning of an egotistical theatrical producer found dead in his dressing room.</td>\n</tr>\n<tr>\n<td><code>ThinMan_1943_UnfortunateFortune.mp3</code> <br><em>Alt</em>: <code>TCOT Unfortunate Fortune Teller Adventures of the Thin Man</code></td>\n<td><strong>&quot;The Unfortunate Fortune Teller with Les Damon as Nick Charles&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-09-03<br>8:30 PM EWT</td>\n<td><strong>General Foods</strong><br>Post Toasties Corn Flakes</td>\n<td><strong>Les Damon (Nick)</strong></td>\n<td><strong>Claudia Morgan &amp; Lewis</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Comedy&quot;, &quot;The Thin Man&quot;, &quot;Les Damon&quot;, &quot;Post Toasties&quot;]</code></td>\n<td>Nick and Nora Charles solve the strangulation of a clairvoyant medium who predicted her own murder during a seaside séance.</td>\n</tr>\n<tr>\n<td><code>Murrow_1939_WarDeclaration.mp3</code> <br><em>Alt</em>: <code>BBC Musical Program Is Interrupted for News, Starting Forty, A Edward R Murrow</code></td>\n<td><strong>&quot;BBC Music Interrupted for War Declaration with Edward R. Murrow&quot;</strong></td>\n<td><strong>CBS / BBC</strong><br>1939-09-03<br>6:15 AM EDST</td>\n<td><strong>Sustaining</strong><br>Historic News Relay</td>\n<td><strong>Edward R. Murrow</strong></td>\n<td><strong>Neville Chamberlain &amp; BBC</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;Edward R Murrow&quot;, &quot;Declaration of War&quot;, &quot;BBC&quot;]</code></td>\n<td>A live BBC musical transmission is abruptly cut off for Prime Minister Neville Chamberlain&#39;s announcement that Britain is at war with Germany.</td>\n</tr>\n<tr>\n<td><code>ClydeBeatty_1951_BengalTiger.mp3</code> <br><em>Alt</em>: <code>Episode Clyde Beatty Show, The</code></td>\n<td><strong>&quot;The Man-Eating Tiger of Bengal with Clyde Beatty&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-03<br>5:30 PM EDT</td>\n<td><strong>Kellogg&#39;s</strong><br>Corn Flakes &amp; Rice Krispies</td>\n<td><strong>Clyde Beatty (Host)</strong></td>\n<td><strong>Mutual Production Staff</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Circus&quot;, &quot;Clyde Beatty&quot;, &quot;Kelloggs&quot;, &quot;Mutual&quot;]</code></td>\n<td>Clyde Beatty tracks a rogue man-eating royal Bengal tiger terrorizing an Indian plantation settlement to capture it alive for the circus.</td>\n</tr>\n<tr>\n<td><code>CallingDetectives_1948_FoxHenHouse.mp3</code> <br><em>Alt</em>: <code>The Fox Minding The Hen House Calling All Detectives</code></td>\n<td><strong>&quot;The Fox Minding the Hen House with Frank Lovejoy&quot;</strong></td>\n<td><strong>Syndication / Mutual</strong><br>1948-09-03</td>\n<td><strong>Sealy Mattress Co.</strong><br>Sealy Posturepedic</td>\n<td><strong>Frank Lovejoy</strong></td>\n<td><strong>Vincent Pelletier (Ann.)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Interactive&quot;, &quot;Calling All Detectives&quot;, &quot;Frank Lovejoy&quot;, &quot;Sealy&quot;]</code></td>\n<td>Listeners solve an interactive micro-mystery involving an untrustworthy security night watchman who orchestrated a warehouse robbery.</td>\n</tr>\n<tr>\n<td><code>WeDeliverGoods_1944_Catalina.mp3</code> <br><em>Alt</em>: <code>We Deliver The Goods 1944 Episode</code></td>\n<td><strong>&quot;US Maritime Service Band from Catalina Island&quot;</strong></td>\n<td><strong>Mutual (KHJ)</strong><br>1944-09-03<br>12:00 PM EWT</td>\n<td><strong>U.S. Maritime Service</strong><br>Merchant Marine Recruiting</td>\n<td><strong>USMS Cadet Band</strong></td>\n<td><strong>Lt. Curt Roberts</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Military&quot;, &quot;We Deliver The Goods&quot;, &quot;USMS&quot;, &quot;Mutual&quot;]</code></td>\n<td>Merchant Marine cadet musicians perform patriotic marches and swing standards broadcasting from the Catalina Island training station.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 421 / 469 (48 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 705 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Adventures of the Thin Man",
+        "Les Damon",
+        "Claudia Morgan",
+        "Dashiell Hammett",
+        "Post Toasties",
+        "General Foods",
+        "Edward R Murrow",
+        "CBS News",
+        "BBC",
+        "Neville Chamberlain",
+        "Declaration of War",
+        "WWII",
+        "The Clyde Beatty Show",
+        "Clyde Beatty",
+        "Kellogg's",
+        "Calling All Detectives",
+        "Frank Lovejoy",
+        "Sealy Mattress",
+        "We Deliver The Goods",
+        "USMS",
+        "Catalina Island",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-704-bob-hope-mel-torme-aldrich-family-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-704-bob-hope-mel-torme-aldrich-family-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Bob Hope, Mel Tormé & The Aldrich Family",
