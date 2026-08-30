@@ -6,6 +6,46 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-764-ezio-pinza-fear-on-four-frantics-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-764-ezio-pinza-fear-on-four-frantics-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Ezio Pinza, Fear on Four & The Frantics",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 764)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Metropolitan Opera basso Ezio Pinza singing grand arias on <em>The Bell Telephone Hour</em>, Edward de Souza as the Man in Black introducing internet terror on <em>Fear on Four</em> for BBC Radio 4, Marian Seldes in a chilling tale of criminal hubris on <em>CBS Radio Mystery Theater</em>, Canadian satirical comedy group <em>The Frantics</em> on CBC Radio, Scotland Yard&#39;s Inspector West on <em>Stand By for West</em>, and Ethelbert Nevin&#39;s parlor classic on <em>The Story Behind the Song</em>, Ezio Pinza (1944), Edward de Souza (1997), Marian Seldes (1998), The Frantics (1982), and Patrick Barr (1931–1998):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 764)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BellTelephone_1944_EzioPinza.mp3</code> <br><em>Alt</em>: <code>Ezio Pinza Bell Telephone Hour</code></td>\n<td><strong>&quot;Guest Basso Ezio Pinza with Donald Voorhees&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-09-04<br>9:00 PM EWT</td>\n<td><strong>Bell Telephone System</strong><br>Institutional Phone Service</td>\n<td><strong>Ezio Pinza (Basso)</strong></td>\n<td><strong>Donald Voorhees &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Bell Telephone Hour&quot;, &quot;Ezio Pinza&quot;, &quot;Donald Voorhees&quot;]</code></td>\n<td>Acclaimed basso Ezio Pinza performs Italian operatic arias and traditional folk songs backed by Donald Voorhees&#39; grand symphonic orchestra.</td>\n</tr>\n<tr>\n<td><code>FearOnFour_1997_NetSuicide.mp3</code> <br><em>Alt</em>: <code>Net Suicide Fear on Four</code></td>\n<td><strong>&quot;Net Suicide with Edward de Souza&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1997-09-04</td>\n<td><strong>Sustaining</strong><br>Psychological Horror</td>\n<td><strong>Edward de Souza (Narrator)</strong></td>\n<td><strong>Stephen Sheridan (Writer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Thriller&quot;, &quot;Fear on Four&quot;, &quot;Edward de Souza&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>A computer programmer investigates a secretive online discussion forum whose members are being systematically manipulated into fatal accidents.</td>\n</tr>\n<tr>\n<td><code>CBSRMT_1998_MurderPerfection.mp3</code> <br><em>Alt</em>: <code>Murder To Perfection CBS Radio Mystery Theater</code></td>\n<td><strong>&quot;Murder to Perfection with Marian Seldes&quot;</strong></td>\n<td><strong>CBS Radio / NPR</strong><br>1998-09-04</td>\n<td><strong>Sustaining</strong><br>Mystery Drama</td>\n<td><strong>Marian Seldes &amp; Benson</strong></td>\n<td><strong>Himan Brown (Prod./Dir.)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Drama&quot;, &quot;CBSRMT&quot;, &quot;Marian Seldes&quot;, &quot;Himan Brown&quot;]</code></td>\n<td>An obsessive criminal mastermind plans what he believes is the foolproof assassination of a blackmailing partner.</td>\n</tr>\n<tr>\n<td><code>Frantics_1982_MessagePhil.mp3</code> <br><em>Alt</em>: <code>A Message from Phil Frantics (CBC), The</code></td>\n<td><strong>&quot;A Message from Phil with The Frantics&quot;</strong></td>\n<td><strong>CBC Radio</strong><br>1982-09-04</td>\n<td><strong>Sustaining</strong><br>Canadian Satire</td>\n<td><strong>The Frantics (Troupe)</strong></td>\n<td><strong>Rick Green &amp; Chato</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;The Frantics&quot;, &quot;CBC&quot;, &quot;Rick Green&quot;]</code></td>\n<td>The Toronto comedy troupe presents fast-paced absurdist sketch comedy parodies featuring corporate video seminars and satirical commercial jingles.</td>\n</tr>\n<tr>\n<td><code>StandByWest_1971_MurderStepsIn.mp3</code> <br><em>Alt</em>: <code>Murder Steps In Stand By For West - Inspector West At Home</code></td>\n<td><strong>&quot;Murder Steps In with Patrick Barr as Inspector West&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1971-09-04</td>\n<td><strong>Sustaining</strong><br>British Detective</td>\n<td><strong>Patrick Barr (West)</strong></td>\n<td><strong>Maurice Travers &amp; Creasey</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Police&quot;, &quot;Stand By For West&quot;, &quot;Patrick Barr&quot;, &quot;John Creasey&quot;]</code></td>\n<td>Scotland Yard&#39;s Inspector West investigates an undercover blackmail network linked to a series of high-society apartment burglaries.</td>\n</tr>\n<tr>\n<td><code>StoryBehindSong_1931_TheRosary.mp3</code> <br><em>Alt</em>: <code>The By James Lawson The Story Behind the Song</code></td>\n<td><strong>&quot;The Rosary by Ethelbert Nevin with James Lawson&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1931-09-04<br>8:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Musical Narrative</td>\n<td><strong>James Lawson (Narr./Vocal)</strong></td>\n<td><strong>NBC Concert Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;History&quot;, &quot;The Story Behind the Song&quot;, &quot;James Lawson&quot;, &quot;NBC&quot;]</code></td>\n<td>A musical narrative exploring the emotional inspiration and tragic life behind American composer Ethelbert Nevin&#39;s parlor masterpiece The Rosary.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 306 / 471 (101 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 764 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Bell Telephone Hour",
+        "Ezio Pinza",
+        "Donald Voorhees",
+        "Bell System",
+        "Fear on Four",
+        "Edward de Souza",
+        "The Man in Black",
+        "Stephen Sheridan",
+        "BBC Radio 4",
+        "CBS Radio Mystery Theater",
+        "Marian Seldes",
+        "Himan Brown",
+        "The Frantics",
+        "Rick Green",
+        "Paul Chato",
+        "CBC Radio",
+        "Stand By for West",
+        "Patrick Barr",
+        "John Creasey",
+        "The Story Behind the Song",
+        "Ethelbert Nevin",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-763-bob-bailey-casey-crime-photographer-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-763-bob-bailey-casey-crime-photographer-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Bob Bailey, Casey Crime Photographer & Texaco Star Theater",
