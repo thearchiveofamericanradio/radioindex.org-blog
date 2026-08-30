@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-586-truman-vj-day-bela-lugosi-nelson-eddy-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-586-truman-vj-day-bela-lugosi-nelson-eddy-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Truman V-J Day, Bela Lugosi & Nelson Eddy",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 586)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across monumental historic presidential wartime victory speeches, chilling syndicated macabre thrillers, lush operetta concert hours, classical salon melodies, and pioneering juvenile aviation adventures, President Harry S. Truman announcing the formal surrender of Japan on V-J Day (1945), Bela Lugosi hosting <em>Mystery House</em> (1944, 1945), Nelson Eddy on <em>The Kraft Music Hall</em> (1948), Evelyn MacGregor on <em>The American Melody Hour</em> for Bayer (1946), and <em>The Air Adventures of Jimmie Allen</em> (1936–1948):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 586)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Truman_1945_VJDayAddress.mp3</code> <br><em>Alt</em>: <code>Victory Over Japan Speech New From 1945</code></td>\n<td><strong>&quot;President Harry S. Truman on the Formal Surrender of Japan&quot;</strong></td>\n<td><strong>All Networks</strong><br>1945-09-02<br>10:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Historic News Broadcast</td>\n<td><strong>President Harry S. Truman</strong></td>\n<td><strong>White House Broadcast Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;Harry S Truman&quot;, &quot;VJ Day&quot;]</code></td>\n<td>President Harry S. Truman addresses the American people from the White House following the formal Japanese surrender aboard the USS Missouri.</td>\n</tr>\n<tr>\n<td><code>Lugosi_1944_SubmergedMurder.mp3</code> <br><em>Alt</em>: <code>Submerged Murder Mystery House</code></td>\n<td><strong>&quot;Submerged Murder with Bela Lugosi and Syndication&quot;</strong></td>\n<td><strong>Syndication</strong><br>1944-09-02</td>\n<td><strong>Sustaining</strong><br>Macabre Thriller</td>\n<td><strong>Bela Lugosi (Host/Actor)</strong></td>\n<td><strong>Syndicated Drama Staff</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Mystery House&quot;, &quot;Bela Lugosi&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A vengeful deep-sea diver traps his treacherous business partner inside a damaged underwater diving bell during a salvage operation.</td>\n</tr>\n<tr>\n<td><code>Lugosi_1945_ShortLifeMary.mp3</code> <br><em>Alt</em>: <code>Ashortlifeformary Mystery House</code></td>\n<td><strong>&quot;A Short Life for Mary with Bela Lugosi and Syndication&quot;</strong></td>\n<td><strong>Syndication</strong><br>1945-09-02</td>\n<td><strong>Sustaining</strong><br>Macabre Thriller</td>\n<td><strong>Bela Lugosi (Actor)</strong></td>\n<td><strong>Syndicated Drama Staff</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Mystery House&quot;, &quot;Bela Lugosi&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A wealthy heiress realizes her charming new fiancé is poisoning her morning tea to claim her ancestral fortune.</td>\n</tr>\n<tr>\n<td><code>KMH_1948_NelsonEddy.mp3</code> <br><em>Alt</em>: <code>It&#39;s A Grand Night For Singing KMH</code></td>\n<td><strong>&quot;It&#39;s a Grand Night for Singing with Guest Host Nelson Eddy&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1948-09-02<br>9:00 PM EDT</td>\n<td><strong>Kraft Foods Co.</strong><br>Miracle Whip &amp; Cheese</td>\n<td><strong>Nelson Eddy</strong>, <strong>Conner</strong></td>\n<td><strong>Robert Armbruster Orch.</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Concert&quot;, &quot;Kraft Music Hall&quot;, &quot;Nelson Eddy&quot;]</code></td>\n<td>Baritone Nelson Eddy hosts the summer broadcast singing It&#39;s a Grand Night for Singing and operetta duets with Nadine Conner.</td>\n</tr>\n<tr>\n<td><code>Melody_1946_ValseBluette.mp3</code> <br><em>Alt</em>: <code>Valse Bluette The American Melody Hour</code></td>\n<td><strong>&quot;Valse Bluette with Evelyn MacGregor and Bob Hannon&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1946-09-02<br>8:00 PM EDT</td>\n<td><strong>Sterling Drug</strong><br>Bayer Aspirin</td>\n<td><strong>Evelyn MacGregor</strong>, <strong>Hannon</strong></td>\n<td><strong>Frank Black Symphony</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Vocal&quot;, &quot;Melody Hour&quot;, &quot;Bayer&quot;]</code></td>\n<td>Evelyn MacGregor and Bob Hannon perform Richard Drigo&#39;s Valse Bluette and romantic American concert selections.</td>\n</tr>\n<tr>\n<td><code>Jimmie_1936_EagleRock.mp3</code> <br><em>Alt</em>: <code>The Flight to Eagle Rock Jimmie Allen</code></td>\n<td><strong>&quot;The Flight to Eagle Rock with Skelly Oil&quot;</strong></td>\n<td><strong>Syndication (WDAF)</strong><br>1936-09-02</td>\n<td><strong>Skelly Oil Co.</strong><br>Skelly Aromax Gasoline</td>\n<td><strong>Murray McLean (Jimmie)</strong></td>\n<td><strong>Robert Fiske (Actor)</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Aviation&quot;, &quot;Adventure&quot;, &quot;Jimmie Allen&quot;, &quot;Skelly&quot;]</code></td>\n<td>Young aviator Jimmie Allen navigates severe mountain turbulence on an urgent medical supply flight to Eagle Rock.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 128 / 480 (352 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 586 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "World War II News",
+        "President Harry S Truman",
+        "VJ Day",
+        "Formal Surrender of Japan",
+        "USS Missouri",
+        "Mystery House",
+        "Bela Lugosi",
+        "Kraft Music Hall",
+        "Nelson Eddy",
+        "Nadine Conner",
+        "The American Melody Hour",
+        "Evelyn MacGregor",
+        "Bayer Aspirin",
+        "Jimmie Allen",
+        "Skelly Oil",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-585-dick-powell-boris-karloff-lights-out-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-585-dick-powell-boris-karloff-lights-out-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Dick Powell, Boris Karloff & Lights Out",
