@@ -6,6 +6,80 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-691-the-lone-ranger-eddie-cantor-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-691-the-lone-ranger-eddie-cantor-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — The Lone Ranger & Eddie Cantor",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 691)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across iconic Western masked rider adventures penned by Fran Striker (spanning Silvercup Bread in 1934, Bond Bread in 1937, and Cheerios in 1941), high-energy comedy-variety revues with guest stage and screen stars, and military dramatic recruitment anthologies, Earle Graser as <em>The Lone Ranger</em> (1934, 1937, 1941), Eddie Cantor for Ipana and Pabst Blue Ribbon (1941, 1953), and <em>Proudly We Hail</em> (1934–1953):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 691)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>LoneRanger_1934_BorderRustlers.mp3</code> <br><em>Alt</em>: <code>Lone Ranger 1934 Episode</code></td>\n<td><strong>&quot;Border Cattle Rustlers with Earle Graser as The Lone Ranger&quot;</strong></td>\n<td><strong>WXYZ / Mutual</strong><br>1934-09-03<br>7:30 PM EDST</td>\n<td><strong>Gordon Baking Co.</strong><br>Silvercup Bread</td>\n<td><strong>Earle Graser (Ranger)</strong></td>\n<td><strong>John Todd &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Earle Graser&quot;, &quot;Silvercup&quot;]</code></td>\n<td>The Lone Ranger and Tonto track a syndicate of cattle rustlers driving stolen herds across the Rio Grande river.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1937_GunsmithSecret.mp3</code> <br><em>Alt</em>: <code>Lone Ranger 1937 Episode</code></td>\n<td><strong>&quot;The Gunsmith&#39;s Secret with Earle Graser as The Lone Ranger&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1937-09-03<br>7:30 PM EDST</td>\n<td><strong>General Baking Co.</strong><br>Bond Bread</td>\n<td><strong>Earle Graser (Ranger)</strong></td>\n<td><strong>John Todd &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Earle Graser&quot;, &quot;Bond Bread&quot;]</code></td>\n<td>The masked rider protects a disabled frontier gunsmith who invented an improved repeating rifle mechanism from rival outlaw bandits.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1941_LittleRose.mp3</code> <br><em>Alt</em>: <code>Little Rose Lone Ranger</code></td>\n<td><strong>&quot;Little Rose with Earle Graser as The Lone Ranger&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1941-09-03<br>7:30 PM EDST</td>\n<td><strong>General Mills</strong><br>Cheerioats / Cheerios</td>\n<td><strong>Earle Graser (Ranger)</strong></td>\n<td><strong>John Todd &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Lone Ranger&quot;, &quot;Earle Graser&quot;, &quot;Cheerios&quot;]</code></td>\n<td>The Lone Ranger exposes a fraudulent guardian attempting to swindle an orphaned young girl named Little Rose out of her silver mine inheritance.</td>\n</tr>\n<tr>\n<td><code>EddieCantor_1941_MauriceEvans.mp3</code> <br><em>Alt</em>: <code>Guest - Maurice Evans The Eddie Cantor Show</code></td>\n<td><strong>&quot;Guest Maurice Evans with Eddie Cantor and Ipana&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1941-09-03<br>9:00 PM EDST</td>\n<td><strong>Bristol-Myers</strong><br>Ipana &amp; Sal Hepatica</td>\n<td><strong>Eddie Cantor (Host)</strong></td>\n<td><strong>Maurice Evans &amp; Shore</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Eddie Cantor&quot;, &quot;Maurice Evans&quot;, &quot;Ipana&quot;]</code></td>\n<td>Shakespearean dramatic actor Maurice Evans matches wit with Eddie Cantor and joins in a madcap parody of Macbeth.</td>\n</tr>\n<tr>\n<td><code>EddieCantor_1953_BellamyEddy.mp3</code> <br><em>Alt</em>: <code>Guest - Ralph Bellamy, Nelson Eddy The Eddie Cantor Show</code></td>\n<td><strong>&quot;Guests Ralph Bellamy and Nelson Eddy with Eddie Cantor&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1953-09-03<br>9:30 PM EDT</td>\n<td><strong>Pabst Brewing Co.</strong><br>Pabst Blue Ribbon</td>\n<td><strong>Eddie Cantor (Host)</strong></td>\n<td><strong>Ralph Bellamy &amp; Eddy</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Eddie Cantor&quot;, &quot;Ralph Bellamy&quot;, &quot;Nelson Eddy&quot;]</code></td>\n<td>Eddie Cantor welcomes screen stars Ralph Bellamy and baritone Nelson Eddy for song parodies and Broadway reminiscences.</td>\n</tr>\n<tr>\n<td><code>ProudlyWeHail_1950_ExchangeProfessor.mp3</code> <br><em>Alt</em>: <code>Exchange Professor Proudly We Hail</code></td>\n<td><strong>&quot;The Exchange Professor with US Army Recruiting Service&quot;</strong></td>\n<td><strong>Syndication</strong><br>1950-09-03</td>\n<td><strong>U.S. Armed Forces</strong><br>Recruiting Broadcast</td>\n<td><strong>Dramatic Military Cast</strong></td>\n<td><strong>US Army Radio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Military&quot;, &quot;Proudly We Hail&quot;, &quot;US Army&quot;, &quot;Recruiting&quot;]</code></td>\n<td>A mild-mannered European history professor takes a sabbatical to serve as an intelligence instructor at a military training academy.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 337 / 469 (132 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 691 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Lone Ranger",
+        "Earle Graser",
+        "John Todd",
+        "Fran Striker",
+        "Silvercup Bread",
+        "Bond Bread",
+        "Cheerios",
+        "General Mills",
+        "The Eddie Cantor Show",
+        "Eddie Cantor",
+        "Maurice Evans",
+        "Ralph Bellamy",
+        "Nelson Eddy",
+        "Ipana Toothpaste",
+        "Sal Hepatica",
+        "Pabst Blue Ribbon",
+        "Proudly We Hail",
+        "US Army Recruiting",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-690-jfk-the-goldbergs-perry-mason-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-690-jfk-the-goldbergs-perry-mason-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — JFK, The Goldbergs & Perry Mason",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 690)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across historic presidential Labor Day speeches, beloved Bronx apartment domestic comedy-dramas, tense daytime courtroom mysteries, wartime medical clinic soap operas, and South African radio theatre, President John F. Kennedy (1962), Gertrude Berg in <em>The Goldbergs</em> for Duz (1942, 1943), John Larkin as <em>Perry Mason</em> (1954), Hugh Studebaker in <em>Bachelor&#39;s Children</em> (1943), and <em>Author&#39;s Studio</em> on Springbok Radio (1942–1975):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 690)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JFK_1962_LaborDayAddress.mp3</code> <br><em>Alt</em>: <code>On Labor John F Kennedy</code></td>\n<td><strong>&quot;Labor Day Address on the Economy and Workforce with JFK&quot;</strong></td>\n<td><strong>Combined Networks</strong><br>1962-09-03<br>12:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>President JFK</strong></td>\n<td><strong>White House Staff</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;History&quot;, &quot;JFK&quot;, &quot;John F Kennedy&quot;, &quot;Labor Day&quot;]</code></td>\n<td>President John F. Kennedy delivers a nationwide Labor Day address outlining trade expansion policies, youth employment programs, and collective bargaining rights.</td>\n</tr>\n<tr>\n<td><code>Goldbergs_1942_MickieSammy.mp3</code> <br><em>Alt</em>: <code>Mickie Warns Sammy The Goldbergs</code></td>\n<td><strong>&quot;Mickie Warns Sammy with Gertrude Berg as Molly Goldberg&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-09-03<br>5:15 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Soap Powder</td>\n<td><strong>Gertrude Berg (Molly)</strong></td>\n<td><strong>James R. Waters (Jake)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;The Goldbergs&quot;, &quot;Gertrude Berg&quot;, &quot;Duz&quot;]</code></td>\n<td>Mickie warns Sammy against confronting an aggressive neighborhood foreman about unsafe wartime scrap drive collection methods.</td>\n</tr>\n<tr>\n<td><code>Goldbergs_1943_NeighborsTurn.mp3</code> <br><em>Alt</em>: <code>Neighbor&#39;s Turn On Molly The Goldbergs</code></td>\n<td><strong>&quot;Neighbors Turn on Molly with Gertrude Berg&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-09-03<br>5:15 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Soap Powder</td>\n<td><strong>Gertrude Berg (Molly)</strong></td>\n<td><strong>James R. Waters (Jake)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;The Goldbergs&quot;, &quot;Gertrude Berg&quot;, &quot;Duz&quot;]</code></td>\n<td>Molly Goldberg faces unfair neighborhood gossip and misunderstanding after attempting to mediate an apartment building noise complaint.</td>\n</tr>\n<tr>\n<td><code>PerryMason_1954_BeekmanDaughter.mp3</code> <br><em>Alt</em>: <code>Ed Beekman&#39;s Daughter Perry Mason</code></td>\n<td><strong>&quot;Ed Beekman&#39;s Daughter with John Larkin as Perry Mason&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1954-09-03<br>2:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide &amp; Cheer Detergent</td>\n<td><strong>John Larkin (Mason)</strong></td>\n<td><strong>Joan Alexander &amp; Gardner</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Perry Mason&quot;, &quot;John Larkin&quot;, &quot;Tide&quot;]</code></td>\n<td>Perry Mason investigates a contested estate settlement after a runaway daughter resurfaces to claim her deceased father&#39;s assets.</td>\n</tr>\n<tr>\n<td><code>BachelorsChildren_1943_WartimeClinic.mp3</code> <br><em>Alt</em>: <code>Bachelors Children Bachelor&#39;s Children</code></td>\n<td><strong>&quot;Dr. Bob&#39;s Wartime Clinic with Hugh Studebaker&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-09-03<br>10:45 AM EWT</td>\n<td><strong>Cudahy Packing Co.</strong><br>Old Dutch Cleanser</td>\n<td><strong>Hugh Studebaker (Bob)</strong></td>\n<td><strong>Marjorie Hannan &amp; Flynn</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Bachelors Children&quot;, &quot;Hugh Studebaker&quot;, &quot;Old Dutch&quot;]</code></td>\n<td>Dr. Bob Graham manages an overflow of pediatric cases at his clinic while counseling anxious parents about wartime healthcare shortages.</td>\n</tr>\n<tr>\n<td><code>AuthorsStudio_1975_QuietRoom.mp3</code> <br><em>Alt</em>: <code>Author&#39;s Studio 1975 Episode</code></td>\n<td><strong>&quot;The Quiet Room with Springbok Radio Drama&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1975-09-03</td>\n<td><strong>Sustaining</strong><br>Literary Drama</td>\n<td><strong>Springbok Drama Cast</strong></td>\n<td><strong>Springbok Radio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Authors Studio&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>An introspective hospital patient observes the unspoken emotional struggles and reconciliations taking place among visitors in an adjoining recovery ward.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 331 / 469 (138 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 690 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "John F Kennedy",
+        "JFK",
+        "Labor Day Address",
+        "The Goldbergs",
+        "Gertrude Berg",
+        "James R Waters",
+        "Duz Soap",
+        "Perry Mason",
+        "John Larkin",
+        "Erle Stanley Gardner",
+        "Tide Detergent",
+        "Bachelor's Children",
+        "Hugh Studebaker",
+        "Cudahy Packing",
+        "Old Dutch Cleanser",
+        "Author's Studio",
+        "Springbok Radio",
+        "South Africa",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-689-dick-powell-perry-mason-fdr-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-689-dick-powell-perry-mason-fdr-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Dick Powell, Perry Mason & FDR",
