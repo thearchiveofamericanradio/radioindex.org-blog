@@ -1,0 +1,33 @@
+# Archival Dispatch: August 31 Calendar Walk — Your Hit Parade, Eddie Howard, and Radio Newsreel
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, Your Hit Parade, Lennie Hayton, Mark Warnow, Andy Russell, Peggy Mann, Lucky Strike, Eddie Howard, Sheaffer Pen, Radio Newsreel, BBC Radio, Gothic Line, The Adventures of Maisie, Ann Sothern, MGM, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 503)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across legendary hit music countdowns, smooth brass band broadcasts, BBC wartime newsreels, and brassy romantic sitcoms, *Your Hit Parade* for Lucky Strike (1935, 1946), Eddie Howard for Sheaffer Pens (1947), BBC *Radio Newsreel* reporting from the Italian front (1944), and Ann Sothern as *Maisie* (1935–1950):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 503)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Howard_1947_SheikAraby.mp3` <br>*Alt*: `Episode 0 Eddie Howard` | **"The Sheik of Araby with Eddie Howard and His Orchestra"** | **NBC (WEAF)**<br>1947-08-31<br>5:30 PM EDT | **W.A. Sheaffer Pen Co.**<br>Sheaffer Fineline | **Eddie Howard**, **Trio** | **Eddie Howard (Leader)** | `["Music", "Big Band", "Pop", "Eddie Howard", "Sheaffer"]` | Eddie Howard leads smooth brass arrangements of The Sheik of Araby, Ragtime Cowboy Joe, and romantic popular ballads. |
+| `Hit_Parade_1935_Truckin.mp3` <br>*Alt*: `First Song - Truckin'` | **"Top Melodies of 1935 (Truckin') with Lennie Hayton and Lucky Strike"** | **NBC Red (WEAF)**<br>1935-08-31<br>8:00 PM EDST | **American Tobacco**<br>Lucky Strike | **Lennie Hayton Orchestra** | **Charles O'Connor (Host)** | `["Music", "Hit Parade", "Pop", "Lennie Hayton", "Lucky Strike"]` | Lennie Hayton conducts the top nation-wide sheet music and phonograph hits of late summer 1935 featuring Truckin'. |
+| `Hit_Parade_1946_Russell.mp3` <br>*Alt*: `Andy Russell, Peggy Mann` | **"Andy Russell and Peggy Mann with Mark Warnow and Lucky Strike"** | **CBS (WCBS)**<br>1946-08-31<br>9:00 PM EDT | **American Tobacco**<br>Lucky Strike (LSMFT) | **Andy Russell**, **Mann** | **Mark Warnow Orchestra** | `["Music", "Hit Parade", "Pop", "Andy Russell", "Peggy Mann", "Lucky Strike"]` | Andy Russell and Peggy Mann count down America's top ten most popular tunes including Five Minutes More and South America, Take It Away. |
+| `Newsreel_1944_Italy.mp3` <br>*Alt*: `Italy's Future Radio Newsreel` | **"Italy's Future and the Gothic Line with BBC Radio"** | **BBC North America**<br>1944-08-31 | **Sustaining**<br>BBC War Report | **BBC War Reporters** | **BBC News Division** | `["News", "WWII", "Documentary", "Radio Newsreel", "BBC"]` | Allied war correspondents report on the Eighth Army assault on the Gothic Line and post-liberation reconstruction in Central Italy. |
+| `Newsreel_1944_Morale.mp3` <br>*Alt*: `Something on His Mind Newsreel` | **"Something on His Mind — Wartime Morale with BBC Radio"** | **BBC North America**<br>1944-08-31 | **Sustaining**<br>BBC War Report | **BBC Field Reporters** | **BBC News Division** | `["News", "WWII", "Documentary", "Radio Newsreel", "BBC"]` | Interviews with British munitions workers and combat soldiers examine wartime civilian resilience under V-1 flying bomb bombardments. |
+| `Maisie_1950_Birthday.mp3` <br>*Alt*: `Birthday Gifts Maisie` | **"Birthday Gifts for the Boss with Ann Sothern"** | **Mutual (WOR)**<br>1950-08-31<br>8:00 PM EDT | **Sustaining**<br>MGM Radio Attractions | **Ann Sothern**, **McGeehan** | **Arthur Phillips (Writer)** | `["Comedy", "Sitcom", "Maisie", "Ann Sothern", "MGM"]` | Maisie gets caught in a comedic tangle of misunderstandings when she buys an extravagant birthday gift for her volatile department store boss. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 318 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
