@@ -1,0 +1,33 @@
+# Archival Dispatch: September 2 Calendar Walk — Dorothy Lamour, Jackson Beck & Morton Downey
+
+**Date**: 2026-09-02  
+**Author**: radio index  
+**Tags**: September 2, Calendar Walk, The Louella Parsons Show, Dorothy Lamour, Woodbury Soap, Brownstone Theater, Jackson Beck, Bud Collyer, Death Takes a Holiday, The Coke Club, Morton Downey, Coca Cola, Home to Roost, Deryck Guyler, Mollie Sugden, BBC Radio 4, The Witch's Tale, 3DB Melbourne, Nick Harris, Alternate Titles, Original Filenames
+
+---
+
+## September 2 Archival Metadata Enrichment (Increment 605)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across Hollywood celebrity interviews, fantasy romantic allegories, late-night vocal serenades, British situational comedy, supernatural horror tales, and early detective procedurals, Dorothy Lamour guest-hosting for Louella Parsons with Woodbury Soap (1951), Jackson Beck and Bud Collyer in *Death Takes a Holiday* on *Brownstone Theater* (1945), Morton Downey on *The Coke Club* (1946), *Home to Roost* on BBC Radio 4 (1974), *The Witch's Tale* in Australia (1937), and *Nick Harris, Detective* (1935–1974):
+
+---
+
+## 1. *September 2 Archival Inventory (Increment 605)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Parsons_1951_LamourGuest.mp3` <br>*Alt*: `Stars Of The Future Dorothy Lamour Subs` | **"Stars of the Future with Guest Host Dorothy Lamour and Woodbury Soap"** | **ABC (WJZ)**<br>1951-09-02<br>9:15 PM EDT | **Andrew Jergens Co.**<br>Woodbury Facial Soap | **Dorothy Lamour (Host)** | **Marvin Miller (Anncr)** | `["Talk", "Interview", "Hollywood", "Louella Parsons", "Dorothy Lamour"]` | Guest host Dorothy Lamour shares exclusive movie gossip, interviews promising screen newcomers, and profiles upcoming studio film productions. |
+| `Brownstone_1945_DeathTakesHoliday.mp3` <br>*Alt*: `Death Takes A Holiday Brownstone Theater` | **"Death Takes a Holiday with Jackson Beck and Mutual"** | **Mutual (WOR)**<br>1945-09-02<br>8:30 PM EWT | **Sustaining**<br>Classic Drama | **Jackson Beck (Host)** | **Bud Collyer & Warner** | `["Drama", "Fantasy", "Brownstone Theater", "Jackson Beck", "Mutual"]` | The Grim Reaper assumes human form as Prince Sirki to experience mortal emotion at an Italian villa and falls deeply in love. |
+| `Coke_1946_WalkingAway.mp3` <br>*Alt*: `First Tune Walking Away With My Heart Coke Club` | **"Walking Away with My Heart with Morton Downey and Coca-Cola"** | **Mutual (WOR)**<br>1946-09-02<br>11:15 PM EDT | **The Coca-Cola Co.**<br>Coca-Cola | **Morton Downey (Tenor)** | **Leah Ray & Lytell** | `["Music", "Pop", "Coke Club", "Morton Downey", "Coca Cola"]` | Tenor Morton Downey serenades late-night listeners with sentimental ballads and torch songs accompanied by the Coke Club Orchestra. |
+| `HomeRoost_1974_UninvitedGuest.mp3` <br>*Alt*: `Home To Roost 1974 Episode` | **"The Uninvited Houseguest with BBC Radio 4"** | **BBC Radio 4**<br>1974-09-02<br>7:30 PM BST | **Sustaining**<br>British Sitcom | **Deryck Guyler**, **Sugden** | **George Evans (Writer)** | `["Comedy", "British", "Home To Roost", "BBC Radio 4", "Sitcom"]` | A retired couple's quiet domestic routine is thrown into uproar when an eccentric distant cousin arrives unannounced with luggage. |
+| `Witch_1937_RollCall.mp3` <br>*Alt*: `The Roll Call The Witch's Tale AU` | **"The Roll Call with Old Nancy and 3DB Melbourne"** | **3DB Melbourne**<br>1937-09-02 | **Commercial Sponsors**<br>Supernatural Drama | **Old Nancy (Host)** | **Alonzo Deen Cole** | `["Horror", "Mystery", "Witchs Tale", "Australian", "3DB"]` | Old Nancy tells the tale of a haunted battlefield cemetery where spectral Confederate soldiers rise at midnight answering roll call. |
+| `Harris_1935_MissingCourier.mp3` <br>*Alt*: `Nick Harris Detective 1935 Episode` | **"The Missing Payroll Courier with Dramatic Police Cast"** | **Syndication (KFI)**<br>1935-09-02 | **Sustaining**<br>Detective Drama | **Dramatic Voice Cast** | **Nick Harris Crime Files** | `["Detective", "Mystery", "Police", "Nick Harris", "Syndicated"]` | Private detective Nick Harris uncovers an insider embezzlement conspiracy when a security courier vanishes alongside factory wage funds. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 242 / 480 (238 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

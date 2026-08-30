@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-605-dorothy-lamour-jackson-beck-morton-downey-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-605-dorothy-lamour-jackson-beck-morton-downey-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Dorothy Lamour, Jackson Beck & Morton Downey",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 605)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across Hollywood celebrity interviews, fantasy romantic allegories, late-night vocal serenades, British situational comedy, supernatural horror tales, and early detective procedurals, Dorothy Lamour guest-hosting for Louella Parsons with Woodbury Soap (1951), Jackson Beck and Bud Collyer in <em>Death Takes a Holiday</em> on <em>Brownstone Theater</em> (1945), Morton Downey on <em>The Coke Club</em> (1946), <em>Home to Roost</em> on BBC Radio 4 (1974), <em>The Witch&#39;s Tale</em> in Australia (1937), and <em>Nick Harris, Detective</em> (1935–1974):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 605)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Parsons_1951_LamourGuest.mp3</code> <br><em>Alt</em>: <code>Stars Of The Future Dorothy Lamour Subs</code></td>\n<td><strong>&quot;Stars of the Future with Guest Host Dorothy Lamour and Woodbury Soap&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1951-09-02<br>9:15 PM EDT</td>\n<td><strong>Andrew Jergens Co.</strong><br>Woodbury Facial Soap</td>\n<td><strong>Dorothy Lamour (Host)</strong></td>\n<td><strong>Marvin Miller (Anncr)</strong></td>\n<td><code>[&quot;Talk&quot;, &quot;Interview&quot;, &quot;Hollywood&quot;, &quot;Louella Parsons&quot;, &quot;Dorothy Lamour&quot;]</code></td>\n<td>Guest host Dorothy Lamour shares exclusive movie gossip, interviews promising screen newcomers, and profiles upcoming studio film productions.</td>\n</tr>\n<tr>\n<td><code>Brownstone_1945_DeathTakesHoliday.mp3</code> <br><em>Alt</em>: <code>Death Takes A Holiday Brownstone Theater</code></td>\n<td><strong>&quot;Death Takes a Holiday with Jackson Beck and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1945-09-02<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Classic Drama</td>\n<td><strong>Jackson Beck (Host)</strong></td>\n<td><strong>Bud Collyer &amp; Warner</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Fantasy&quot;, &quot;Brownstone Theater&quot;, &quot;Jackson Beck&quot;, &quot;Mutual&quot;]</code></td>\n<td>The Grim Reaper assumes human form as Prince Sirki to experience mortal emotion at an Italian villa and falls deeply in love.</td>\n</tr>\n<tr>\n<td><code>Coke_1946_WalkingAway.mp3</code> <br><em>Alt</em>: <code>First Tune Walking Away With My Heart Coke Club</code></td>\n<td><strong>&quot;Walking Away with My Heart with Morton Downey and Coca-Cola&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-02<br>11:15 PM EDT</td>\n<td><strong>The Coca-Cola Co.</strong><br>Coca-Cola</td>\n<td><strong>Morton Downey (Tenor)</strong></td>\n<td><strong>Leah Ray &amp; Lytell</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Coke Club&quot;, &quot;Morton Downey&quot;, &quot;Coca Cola&quot;]</code></td>\n<td>Tenor Morton Downey serenades late-night listeners with sentimental ballads and torch songs accompanied by the Coke Club Orchestra.</td>\n</tr>\n<tr>\n<td><code>HomeRoost_1974_UninvitedGuest.mp3</code> <br><em>Alt</em>: <code>Home To Roost 1974 Episode</code></td>\n<td><strong>&quot;The Uninvited Houseguest with BBC Radio 4&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1974-09-02<br>7:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Sitcom</td>\n<td><strong>Deryck Guyler</strong>, <strong>Sugden</strong></td>\n<td><strong>George Evans (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Home To Roost&quot;, &quot;BBC Radio 4&quot;, &quot;Sitcom&quot;]</code></td>\n<td>A retired couple&#39;s quiet domestic routine is thrown into uproar when an eccentric distant cousin arrives unannounced with luggage.</td>\n</tr>\n<tr>\n<td><code>Witch_1937_RollCall.mp3</code> <br><em>Alt</em>: <code>The Roll Call The Witch&#39;s Tale AU</code></td>\n<td><strong>&quot;The Roll Call with Old Nancy and 3DB Melbourne&quot;</strong></td>\n<td><strong>3DB Melbourne</strong><br>1937-09-02</td>\n<td><strong>Commercial Sponsors</strong><br>Supernatural Drama</td>\n<td><strong>Old Nancy (Host)</strong></td>\n<td><strong>Alonzo Deen Cole</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Witchs Tale&quot;, &quot;Australian&quot;, &quot;3DB&quot;]</code></td>\n<td>Old Nancy tells the tale of a haunted battlefield cemetery where spectral Confederate soldiers rise at midnight answering roll call.</td>\n</tr>\n<tr>\n<td><code>Harris_1935_MissingCourier.mp3</code> <br><em>Alt</em>: <code>Nick Harris Detective 1935 Episode</code></td>\n<td><strong>&quot;The Missing Payroll Courier with Dramatic Police Cast&quot;</strong></td>\n<td><strong>Syndication (KFI)</strong><br>1935-09-02</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Nick Harris Crime Files</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Police&quot;, &quot;Nick Harris&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Private detective Nick Harris uncovers an insider embezzlement conspiracy when a security courier vanishes alongside factory wage funds.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 242 / 480 (238 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 605 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Louella Parsons Show",
+        "Dorothy Lamour",
+        "Woodbury Soap",
+        "Brownstone Theater",
+        "Jackson Beck",
+        "Bud Collyer",
+        "Death Takes a Holiday",
+        "The Coke Club",
+        "Morton Downey",
+        "Coca Cola",
+        "Home to Roost",
+        "Deryck Guyler",
+        "Mollie Sugden",
+        "BBC Radio 4",
+        "The Witch's Tale",
+        "3DB Melbourne",
+        "Nick Harris",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-604-gene-autry-quiz-kids-likely-lads-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-604-gene-autry-quiz-kids-likely-lads-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Gene Autry, The Quiz Kids & Likely Lads",
