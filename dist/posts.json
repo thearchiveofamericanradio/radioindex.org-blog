@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-606-rudy-vallee-vera-lynn-uss-missouri-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-606-rudy-vallee-vera-lynn-uss-missouri-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Rudy Vallee, Vera Lynn & USS Missouri Signatures",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 606)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic variety comedy and crooning hours, retrospective BBC wartime musical tributes, big band orchestral celebrations, daytime serial drama, historic naval surrender recordings, and syndicated travelogue adventures, Rudy Vallee welcoming Stoopnagle and Budd on <em>The Royal Gelatin Hour</em> (1937), Dame Vera Lynn&#39;s wartime retrospective (1967), Paul Whiteman (1946), Virginia Payne in <em>Ma Perkins</em> for Oxydol (1949), <em>The Surrender of Japan</em> signatures (1945), and <em>Armchair Adventures</em> (1937–1967):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 606)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Vallee_1937_StoopnagleBudd.mp3</code> <br><em>Alt</em>: <code>Guest - Stoopnagle and Budd Rudy Vallee</code></td>\n<td><strong>&quot;Guests Stoopnagle and Budd with Rudy Vallee and Royal Gelatin&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1937-09-02<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Royal Gelatin</td>\n<td><strong>Rudy Vallee</strong>, <strong>Budd</strong></td>\n<td><strong>Connecticut Yankees</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Music&quot;, &quot;Rudy Vallee&quot;, &quot;Royal Gelatin&quot;]</code></td>\n<td>Rudy Vallee welcomes comedy duo Stoopnagle and Budd for absurdist invention sketches and satirical musical monologues.</td>\n</tr>\n<tr>\n<td><code>Lynn_1967_Reminiscence.mp3</code> <br><em>Alt</em>: <code>Vera Lynn BBC via WRVR Reminicence</code></td>\n<td><strong>&quot;Vera Lynn Wartime Reminiscence on BBC via WRVR&quot;</strong></td>\n<td><strong>WRVR / BBC Relay</strong><br>1967-09-02</td>\n<td><strong>Sustaining</strong><br>Musical Special</td>\n<td><strong>Dame Vera Lynn</strong></td>\n<td><strong>BBC Concert Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Interview&quot;, &quot;History&quot;, &quot;Vera Lynn&quot;, &quot;BBC&quot;]</code></td>\n<td>Vera Lynn recounts wartime concert tours for Allied troops and performs nostalgic anthems including We&#39;ll Meet Again.</td>\n</tr>\n<tr>\n<td><code>Whiteman_1946_LaborDay.mp3</code> <br><em>Alt</em>: <code>Episode ++++ Paul Whiteman Forever Tops</code></td>\n<td><strong>&quot;Labor Day Swing Melodies with Paul Whiteman&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-02<br>9:00 PM EDT</td>\n<td><strong>National Guard</strong><br>Recruiting Service</td>\n<td><strong>Paul Whiteman Orch.</strong></td>\n<td><strong>Glenn Derringer &amp; Rhythm</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Paul Whiteman&quot;, &quot;ABC&quot;]</code></td>\n<td>The King of Jazz leads his orchestra in vibrant modern orchestral arrangements and ragtime standards on Labor Day.</td>\n</tr>\n<tr>\n<td><code>MaPerkins_1949_LaborDay.mp3</code> <br><em>Alt</em>: <code>Ma Perkins 1949 Episode</code></td>\n<td><strong>&quot;Labor Day at the Lumberyard with Virginia Payne and Oxydol&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-09-02<br>1:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Oxydol Laundry Soap</td>\n<td><strong>Virginia Payne (Ma)</strong></td>\n<td><strong>Charles Egelston &amp; Forbes</strong></td>\n<td><code>[&quot;Soap&quot;, &quot;Drama&quot;, &quot;Ma Perkins&quot;, &quot;Virginia Payne&quot;, &quot;Oxydol&quot;]</code></td>\n<td>Ma Perkins counsels a distressed neighbor whose son threatens to drop out of high school to work at the Rushville lumberyard.</td>\n</tr>\n<tr>\n<td><code>Surrender_1945_Signatures.mp3</code> <br><em>Alt</em>: <code>The Surrender Of Japan 1945 Episode</code></td>\n<td><strong>&quot;Allied Signatures on the USS Missouri with World Broadcast Pool&quot;</strong></td>\n<td><strong>Worldwide Relay</strong><br>1945-09-02</td>\n<td><strong>Sustaining</strong><br>Historic Coverage</td>\n<td><strong>Gen. Douglas MacArthur</strong></td>\n<td><strong>Allied Supreme Command</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;Surrender&quot;, &quot;USS Missouri&quot;]</code></td>\n<td>International radio commentators record the official pen signatures concluding hostilities between Allied nations and the Empire of Japan.</td>\n</tr>\n<tr>\n<td><code>Armchair_1952_MissionFriendship.mp3</code> <br><em>Alt</em>: <code>Mission of Friendship Armchair Adventures</code></td>\n<td><strong>&quot;Mission of Friendship with Dramatic Adventure Cast&quot;</strong></td>\n<td><strong>Syndication</strong><br>1952-09-02</td>\n<td><strong>Sustaining</strong><br>Travel Adventure</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Harry S. Goodman (Prod)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Drama&quot;, &quot;Travel&quot;, &quot;Armchair Adventures&quot;, &quot;Syndicated&quot;]</code></td>\n<td>An American goodwill emissary travels into remote Himalayan mountain villages negotiating peace between rival tribal clans.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 248 / 480 (232 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 606 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Royal Gelatin Hour",
+        "Rudy Vallee",
+        "Stoopnagle and Budd",
+        "Royal Gelatin",
+        "The Vera Lynn Show",
+        "Vera Lynn",
+        "BBC",
+        "WRVR New York",
+        "Paul Whiteman Forever Tops",
+        "Ma Perkins",
+        "Virginia Payne",
+        "Oxydol",
+        "The Surrender of Japan",
+        "USS Missouri",
+        "Armchair Adventures",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-605-dorothy-lamour-jackson-beck-morton-downey-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-605-dorothy-lamour-jackson-beck-morton-downey-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Dorothy Lamour, Jackson Beck & Morton Downey",
