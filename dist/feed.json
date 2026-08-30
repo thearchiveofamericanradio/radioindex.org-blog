@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-643-the-falcon-the-sealed-book-stan-freberg-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-643-the-falcon-the-sealed-book-stan-freberg-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — The Falcon, The Sealed Book & Stan Freberg",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 643)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across private eye adventures, psychological terror tales, juvenile detective cliffhangers, comedy satire, and radio drama anthologies, James Meighan in <em>The Falcon</em> for Gem Blades (1947), Philip Clarke in <em>The Sealed Book</em> (1945), Bill Lipton in <em>Chick Carter, Boy Detective</em> (1943), Santos Ortega in <em>The Affairs of Peter Salem</em> (1951), Stan Freberg in <em>That&#39;s Rich</em> (1954), and <em>Mutual Radio Theater</em> (1943–1980):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 643)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SealedBook_1945_DieOnce.mp3</code> <br><em>Alt</em>: <code>You Only Die Once Sealed Book</code></td>\n<td><strong>&quot;You Only Die Once with Philip Clarke as The Keeper&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1945-09-02<br>10:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Horror Anthology</td>\n<td><strong>Philip Clarke (Host)</strong></td>\n<td><strong>Robert A. Arthur &amp; Kogan</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Sealed Book&quot;, &quot;Philip Clarke&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>null</code></td>\n<td>A desperate embezzler attempts to fake his own drowning death to claim insurance money only to find his accomplice scheming for real murder.</td>\n</tr>\n<tr>\n<td><code>Mutual_1980_FoodLove.mp3</code> <br><em>Alt</em>: <code>The Food Of Love Mutual Radio Theater</code></td>\n<td><strong>&quot;The Food of Love with Marian Seldes and Andy Griffith&quot;</strong></td>\n<td><strong>Mutual</strong><br>1980-09-02</td>\n<td><strong>Sustaining</strong><br>Radio Drama</td>\n<td><strong>Marian Seldes</strong>, <strong>Griffith</strong></td>\n<td><strong>Himan Brown (Dir)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Mutual Radio Theater&quot;, &quot;Marian Seldes&quot;, &quot;Andy Griffith&quot;]</code></td>\n<td><code>null</code></td>\n<td>A reclusive classical violinist becomes romantically involved with a mysterious patroness who harbors a dark past.</td>\n</tr>\n<tr>\n<td><code>ChickCarter_1943_RaceFire.mp3</code> <br><em>Alt</em>: <code>A Race with Fire Chick Carter, Boy Detective</code></td>\n<td><strong>&quot;A Race with Fire with Bill Lipton as Chick Carter&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1943-09-02<br>5:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Juvenile Cliffhanger</td>\n<td><strong>Bill Lipton (Chick)</strong></td>\n<td><strong>Leon Janney &amp; Mack</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Juvenile&quot;, &quot;Chick Carter&quot;, &quot;Bill Lipton&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Stolen Blueprints&quot;, &quot;part&quot;: 39, &quot;total_parts&quot;: 65}</code></td>\n<td>Chick Carter races against a roaring chemical warehouse blaze to rescue his trapped assistant Sue and recover stolen industrial defense blueprints.</td>\n</tr>\n<tr>\n<td><code>Falcon_1947_CoversBets.mp3</code> <br><em>Alt</em>: <code>Murder Covers All Bets The Falcon</code></td>\n<td><strong>&quot;Murder Covers All Bets with James Meighan as The Falcon&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-09-02<br>8:30 PM EDT</td>\n<td><strong>American Safety Razor</strong><br>Gem Razors &amp; Blades</td>\n<td><strong>James Meighan (Waring)</strong></td>\n<td><strong>Ken Lynch &amp; Drake</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Falcon&quot;, &quot;James Meighan&quot;, &quot;Gem Blades&quot;]</code></td>\n<td><code>null</code></td>\n<td>Freelance investigator Mike Waring probes the backstage shooting of a high-stakes bookmaker at a harness racing track.</td>\n</tr>\n<tr>\n<td><code>PeterSalem_1951_PaintedSkull.mp3</code> <br><em>Alt</em>: <code>The Affairs Of Peter Salem 1951 Episode</code></td>\n<td><strong>&quot;The Painted Skull with Santos Ortega as Peter Salem&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-02<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Santos Ortega (Salem)</strong></td>\n<td><strong>Jack Grimes &amp; Vittes</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Peter Salem&quot;, &quot;Santos Ortega&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>null</code></td>\n<td>Small-town detective Peter Salem solves the poisoning of an eccentric antiques dealer who received a human skull painted with occult symbols.</td>\n</tr>\n<tr>\n<td><code>ThatsRich_1954_HotDogStand.mp3</code> <br><em>Alt</em>: <code>Las Vegas Hot Dog Stand That&#39;s Rich</code></td>\n<td><strong>&quot;The Las Vegas Hot Dog Stand with Stan Freberg&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1954-09-02<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Situation Comedy</td>\n<td><strong>Stan Freberg (Bagshot)</strong></td>\n<td><strong>Martha Wentworth &amp; March</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Thats Rich&quot;, &quot;Stan Freberg&quot;, &quot;CBS&quot;]</code></td>\n<td><code>null</code></td>\n<td>Bumbling small-town paper mill clerk Richard Bagshot attempts to strike it rich by operating a novelty hot dog cart in Las Vegas.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 470 / 480 (10 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 643 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Falcon",
+        "James Meighan",
+        "Gem Blades",
+        "The Sealed Book",
+        "Philip Clarke",
+        "Chick Carter Boy Detective",
+        "Bill Lipton",
+        "Serial Story Arc",
+        "The Affairs of Peter Salem",
+        "Santos Ortega",
+        "That's Rich",
+        "Stan Freberg",
+        "Mutual Radio Theater",
+        "Marian Seldes",
+        "Andy Griffith",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-642-nat-king-cole-bing-crosby-the-sea-hound-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-642-nat-king-cole-bing-crosby-the-sea-hound-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Nat King Cole, Bing Crosby & The Sea Hound",
