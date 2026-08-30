@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-05-walk-784-jack-armstrong-eddie-cantor-eno-crime-clues-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-05-walk-784-jack-armstrong-eddie-cantor-eno-crime-clues-enriched",
+      "title": "Archival Dispatch: September 5 Calendar Walk — Jack Armstrong, Eddie Cantor & Eno Crime Clues",
+      "content_html": "<h2>September 5 Archival Metadata Enrichment (Increment 784)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on <strong>September 5</strong> across Michael Higgins deactivating sonic weapons on <em>Jack Armstrong, the All-American Boy</em> for Wheaties, Eddie Cantor steering million-dollar inheritances on <em>Texaco Town</em>, Spencer Dean untangling murderous mysteries on <em>Eno Crime Clues</em> (<em>The Scarlet Serenade</em> [1933] and <em>The Death Guard</em> [1934]) for Eno Fruit Salt, private detectives gathering on <em>Vox Pop</em> for Kentucky Club Pipe Tobacco, and waterfront noir on <em>Man Hunt</em>, Michael Higgins (1947), Eddie Cantor (1937), and Spencer Dean (1933–1947):</p>\n<hr>\n<h2>1. <em>September 5 Archival Inventory (Increment 784)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JackArmstrong_1947_SilentMenace2195.mp3</code> <br><em>Alt</em>: <code>The Silent Menace Jack Armstrong, The All-American Boy</code></td>\n<td><strong>&quot;The Silent Menace (Ep. 2195) with Michael Higgins&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1947-09-05<br>5:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Wheaties Breakfast</td>\n<td><strong>Michael Higgins &amp; Gannon</strong></td>\n<td><strong>Irving J. Crump (Writer)</strong></td>\n<td><code>[&quot;Juvenile&quot;, &quot;Adventure&quot;, &quot;Jack Armstrong&quot;, &quot;Michael Higgins&quot;, &quot;Wheaties&quot;]</code></td>\n<td>High school hero Jack Armstrong and his companions race against time to deactivate a silent acoustic sonic weapon hidden aboard an experimental aircraft.</td>\n</tr>\n<tr>\n<td><code>TexacoTown_1937_PinkyInherits.mp3</code> <br><em>Alt</em>: <code>Pinky Inherits One Million Dollars Texaco Town</code></td>\n<td><strong>&quot;Pinky Inherits One Million Dollars with Eddie Cantor&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1937-09-05<br>8:30 PM EDST</td>\n<td><strong>The Texas Company</strong><br>Texaco Fire-Chief Gas</td>\n<td><strong>Eddie Cantor &amp; Tomlin</strong></td>\n<td><strong>Jacques Renard and Orch.</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Texaco Town&quot;, &quot;Eddie Cantor&quot;, &quot;Texaco&quot;]</code></td>\n<td>Eddie Cantor schemes to help singer Pinky Tomlin navigate eccentric inheritance stipulations after a sudden million-dollar bequest.</td>\n</tr>\n<tr>\n<td><code>ManHunt_1945_MaskedMurderer.mp3</code> <br><em>Alt</em>: <code>Masked Murderer Man Hunt</code></td>\n<td><strong>&quot;The Masked Murderer of the Waterfront with Ray Collins&quot;</strong></td>\n<td><strong>Syndication</strong><br>1945-09-05</td>\n<td><strong>Sustaining</strong><br>Crime Anthology</td>\n<td><strong>Ray Collins (Inspector)</strong></td>\n<td><strong>Syndicate Radio Staff</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Drama&quot;, &quot;Man Hunt&quot;, &quot;Ray Collins&quot;, &quot;Syndication&quot;]</code></td>\n<td>Police detectives set a nocturnal trap along the harbor piers for a ruthless masked dockworker targeting cargo shipping supervisors.</td>\n</tr>\n<tr>\n<td><code>VoxPop_1940_BurnsAgencyConclave.mp3</code> <br><em>Alt</em>: <code>Mystery Location Burns Detective Agency Conclave Vox Pop</code></td>\n<td><strong>&quot;Burns Detective Agency Conclave with Parks Johnson&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-05<br>7:30 PM EDST</td>\n<td><strong>Penn Tobacco Co.</strong><br>Kentucky Club Tobacco</td>\n<td><strong>Johnson &amp; Butterworth</strong></td>\n<td><strong>Vox Pop Field Unit</strong></td>\n<td><code>[&quot;Human Interest&quot;, &quot;Interview&quot;, &quot;Vox Pop&quot;, &quot;Parks Johnson&quot;, &quot;Kentucky Club&quot;]</code></td>\n<td>Roving interviewers Parks Johnson and Wally Butterworth interview veteran private investigators and fingerprint experts during the annual Burns Agency convention.</td>\n</tr>\n<tr>\n<td><code>EnoCrimeClues_1933_ScarletSerenade1.mp3</code> <br><em>Alt</em>: <code>Scarlet Serenade Part 1 Eno Crime Clues</code></td>\n<td><strong>&quot;The Scarlet Serenade (Part 1) with Spencer Dean&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1933-09-05<br>8:00 PM EDST</td>\n<td><strong>Harold F. Ritchie</strong><br>Eno Fruit Salt</td>\n<td><strong>Edward Reese &amp; Kane</strong></td>\n<td><strong>Stewart Sterling (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Eno Crime Clues&quot;, &quot;Spencer Dean&quot;, &quot;Eno&quot;]</code></td>\n<td>Man-hunter Spencer Dean investigates the poisoning of a nightclub violinist found dead in his dressing room holding a mysterious scarlet sheet of music.</td>\n</tr>\n<tr>\n<td><code>EnoCrimeClues_1934_DeathGuard2.mp3</code> <br><em>Alt</em>: <code>The Death Guard PT 2 Eno Crime Clues</code></td>\n<td><strong>&quot;The Death Guard (Part 2) with Spencer Dean&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1934-09-05<br>8:00 PM EDST</td>\n<td><strong>Harold F. Ritchie</strong><br>Eno Fruit Salt</td>\n<td><strong>Edward Reese &amp; Kane</strong></td>\n<td><strong>Stewart Sterling (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Eno Crime Clues&quot;, &quot;Spencer Dean&quot;, &quot;Eno&quot;]</code></td>\n<td>Spencer Dean unmasks a treacherous bodyguard who engineered a bank president&#39;s kidnapping using counterfeit ransom drop instructions.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 5</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 5</strong>: 18 / 401 (383 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 5 Archival Metadata Enrichment Increment 784 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-05T00:00:00.000Z",
+      "tags": [
+        "September 5",
+        "Calendar Walk",
+        "Jack Armstrong",
+        "Michael Higgins",
+        "Irving Crump",
+        "Wheaties",
+        "Texaco Town",
+        "Eddie Cantor",
+        "Pinky Tomlin",
+        "Deanna Durbin",
+        "Texaco",
+        "Eno Crime Clues",
+        "Spencer Dean",
+        "Stewart Sterling",
+        "Eno Fruit Salt",
+        "Man Hunt",
+        "Ray Collins",
+        "Vox Pop",
+        "Parks Johnson",
+        "Kentucky Club Tobacco",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-05-walk-783-crime-files-flamond-isihac-james-melton-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-05-walk-783-crime-files-flamond-isihac-james-melton-enriched",
       "title": "Archival Dispatch: September 5 Calendar Walk — Crime Files of Flamond & I'm Sorry I Haven't a Clue",
