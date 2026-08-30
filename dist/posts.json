@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-654-the-big-story-roy-rogers-raymond-massey-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-654-the-big-story-roy-rogers-raymond-massey-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — The Big Story, Roy Rogers & Raymond Massey",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 654)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across authentic newspaper investigative journalism, classic Western cowboy adventures, biographical frontier dramas, and light orchestral revues, real reporters honored on <em>The Big Story</em> for Pall Mall (1947, 1952), Roy Rogers and Dale Evans (1950, 1953), Raymond Massey as Abraham Lincoln in Carl Sandburg&#39;s <em>The Prairie Years</em> on <em>Hallmark Playhouse</em> (1949), and Meredith Willson for Maxwell House (1940–1953):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 654)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BigStory_1947_MunhallLadies.mp3</code> <br><em>Alt</em>: <code>The Lethal Ladies of Munhall [Edward Kasun] The Big Story</code></td>\n<td><strong>&quot;The Lethal Ladies of Munhall with Reporter Edward Kasun&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-09-03<br>10:00 PM EDT</td>\n<td><strong>American Tobacco Co.</strong><br>Pall Mall Cigarettes</td>\n<td><strong>Edward Kasun (Reporter)</strong></td>\n<td><strong>Robert Sloane (Narrator)</strong></td>\n<td><code>[&quot;Journalism&quot;, &quot;Drama&quot;, &quot;The Big Story&quot;, &quot;Edward Kasun&quot;, &quot;Pall Mall&quot;]</code></td>\n<td>Pittsburgh reporter Edward Kasun investigates a string of unexplained arsenic poisonings within an industrial steel mill borough.</td>\n</tr>\n<tr>\n<td><code>BigStory_1952_MadeUpStory.mp3</code> <br><em>Alt</em>: <code>Made Up Story Is the Truth [Eddie Krell] The Big Story</code></td>\n<td><strong>&quot;Made Up Story Is the Truth with Reporter Eddie Krell&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-09-03<br>9:00 PM EDT</td>\n<td><strong>American Tobacco Co.</strong><br>Pall Mall Cigarettes</td>\n<td><strong>Eddie Krell (Reporter)</strong></td>\n<td><strong>Bob Sloane (Narrator)</strong></td>\n<td><code>[&quot;Journalism&quot;, &quot;Drama&quot;, &quot;The Big Story&quot;, &quot;Eddie Krell&quot;, &quot;Pall Mall&quot;]</code></td>\n<td>St. Louis journalist Eddie Krell verifies an anonymous tip concerning an elaborately staged jewelry warehouse robbery.</td>\n</tr>\n<tr>\n<td><code>RoyRogers_1950_NightRiders.mp3</code> <br><em>Alt</em>: <code>Night Riders The Roy Rogers Show</code></td>\n<td><strong>&quot;Night Riders with Roy Rogers and Dale Evans&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-03<br>6:00 PM EDT</td>\n<td><strong>Quaker Oats Co.</strong><br>Puffed Wheat &amp; Rice</td>\n<td><strong>Roy Rogers</strong>, <strong>Dale Evans</strong></td>\n<td><strong>Pat Brady &amp; Pioneers</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Roy Rogers&quot;, &quot;Dale Evans&quot;, &quot;Quaker Oats&quot;]</code></td>\n<td>Roy Rogers and Trigger pursue masked night riders intimidating independent cattle ranchers into selling grazing acreage.</td>\n</tr>\n<tr>\n<td><code>RoyRogers_1953_ProdigalSouthpaw.mp3</code> <br><em>Alt</em>: <code>The Prodigal Southpaw (repeat of 52/11/13) Roy Rogers Show</code></td>\n<td><strong>&quot;The Prodigal Southpaw with Roy Rogers and Dale Evans (Rebroadcast)&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1953-09-03<br>8:00 PM EDT</td>\n<td><strong>Dodge Division</strong><br>Chrysler Corporation</td>\n<td><strong>Roy Rogers</strong>, <strong>Dale Evans</strong></td>\n<td><strong>Pat Brady &amp; Rose</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Roy Rogers&quot;, &quot;Dale Evans&quot;, &quot;Dodge&quot;]</code></td>\n<td>Roy helps a talented left-handed young rodeo bronc rider clear his brother of false robbery accusations.</td>\n</tr>\n<tr>\n<td><code>Hallmark_1949_PrairieYears.mp3</code> <br><em>Alt</em>: <code>The Prarie Years Hallmark Playhouse</code></td>\n<td><strong>&quot;The Prairie Years with Raymond Massey as Abraham Lincoln&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1949-09-03<br>10:00 PM EDT</td>\n<td><strong>Hall Brothers</strong><br>Hallmark Greeting Cards</td>\n<td><strong>Raymond Massey (Lincoln)</strong></td>\n<td><strong>James Hilton &amp; Sandburg</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Biography&quot;, &quot;Hallmark Playhouse&quot;, &quot;Raymond Massey&quot;, &quot;Carl Sandburg&quot;]</code></td>\n<td>A dramatization of Abraham Lincoln&#39;s formative youth and early law career across the Illinois frontier.</td>\n</tr>\n<tr>\n<td><code>Willson_1940_ChiffonSwing.mp3</code> <br><em>Alt</em>: <code>Episode Meredith Willson&#39;s Musical Revue</code></td>\n<td><strong>&quot;Chiffon Swing with Meredith Willson and Maxwell House&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-09-03<br>8:00 PM EDST</td>\n<td><strong>General Foods</strong><br>Maxwell House Coffee</td>\n<td><strong>Meredith Willson (Host)</strong></td>\n<td><strong>Ray Collins &amp; January</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Meredith Willson&quot;, &quot;Maxwell House&quot;, &quot;NBC&quot;]</code></td>\n<td>Meredith Willson presents light orchestral arrangements, flute solos, and humorous musical demonstrations of concert swing tempo.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 115 / 469 (354 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 654 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Big Story",
+        "Pall Mall",
+        "Edward Kasun",
+        "Eddie Krell",
+        "The Roy Rogers Show",
+        "Dale Evans",
+        "Quaker Oats",
+        "Dodge",
+        "Hallmark Playhouse",
+        "Raymond Massey",
+        "Carl Sandburg",
+        "Abraham Lincoln",
+        "Meredith Willson's Musical Revue",
+        "Maxwell House",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-653-the-shadow-rocky-jordan-navy-lark-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-653-the-shadow-rocky-jordan-navy-lark-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — The Shadow, Rocky Jordan & The Navy Lark",
