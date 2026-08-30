@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-689-dick-powell-perry-mason-fdr-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-689-dick-powell-perry-mason-fdr-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Dick Powell, Perry Mason & FDR",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 689)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across hardboiled private detective capers written by Blake Edwards, historic Oval Office fireside chats on European war neutrality, courtroom murder defenses, British light comedy, and live telephone music quiz programs, Dick Powell as <em>Richard Diamond</em> for Rexall (1949), President Franklin D. Roosevelt (1939), John Larkin in <em>Perry Mason</em> (1951), George Cole in <em>A Life of Bliss</em> on BBC (1957), and Dan Seymour on <em>Sing It Again</em> (1939–1957):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 689)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>RichardDiamond_1949_HarryBaker.mp3</code> <br><em>Alt</em>: <code>The Harry Baker Case Richard Diamond Private Detective</code></td>\n<td><strong>&quot;The Harry Baker Case with Dick Powell as Richard Diamond&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1949-09-03<br>7:00 PM EDT</td>\n<td><strong>Rexall Drug Co.</strong><br>Rexall 1-Cent Sale</td>\n<td><strong>Dick Powell (Diamond)</strong></td>\n<td><strong>Virginia Gregg &amp; Edwards</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Richard Diamond&quot;, &quot;Dick Powell&quot;, &quot;Rexall&quot;]</code></td>\n<td>Private investigator Richard Diamond is hired by a wealthy department store owner whose wife has been implicated in a high-stakes jewel robbery ring.</td>\n</tr>\n<tr>\n<td><code>RichardDiamond_1949_KleptoBaker.mp3</code> <br><em>Alt</em>: <code>Rich 020 Mrs. William Baker Klepto 9 3 49 Richard Diamond</code></td>\n<td><strong>&quot;The Kleptomaniac Ring with Dick Powell as Richard Diamond&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1949-09-03<br>7:00 PM EDT</td>\n<td><strong>Rexall Drug Co.</strong><br>Rexall 1-Cent Sale</td>\n<td><strong>Dick Powell (Diamond)</strong></td>\n<td><strong>Ed Begley &amp; Edwards</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Richard Diamond&quot;, &quot;Dick Powell&quot;, &quot;Rexall&quot;]</code></td>\n<td>Richard Diamond unravels a criminal syndicate blackmailing prominent society women into acting as unwitting fences for stolen furs.</td>\n</tr>\n<tr>\n<td><code>FDR_1939_ChatsNeutrality.mp3</code> <br><em>Alt</em>: <code>On the European War FDR&#39;s Fireside Chats</code></td>\n<td><strong>&quot;On the European War and Neutrality with President Roosevelt&quot;</strong></td>\n<td><strong>Combined Networks</strong><br>1939-09-03<br>10:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>President FDR</strong></td>\n<td><strong>White House Staff</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;WWII&quot;, &quot;FDR&quot;, &quot;Fireside Chats&quot;, &quot;President&quot;]</code></td>\n<td>President Franklin D. Roosevelt addresses the nation from the White House pledging to exert every effort of government to keep America out of the European war.</td>\n</tr>\n<tr>\n<td><code>PerryMason_1951_StrangledBlackmailer.mp3</code> <br><em>Alt</em>: <code>Perry Mason 1951 Episode</code></td>\n<td><strong>&quot;The Case of the Strangled Blackmailer with John Larkin as Perry Mason&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-09-03<br>2:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide &amp; Camay Soap</td>\n<td><strong>John Larkin (Mason)</strong></td>\n<td><strong>Joan Alexander &amp; Gardner</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Perry Mason&quot;, &quot;John Larkin&quot;, &quot;Tide&quot;]</code></td>\n<td>Defense attorney Perry Mason defends an innocent secretary accused of poisoning her former employer after discovering a hidden blackmail ledger.</td>\n</tr>\n<tr>\n<td><code>LifeOfBliss_1957_PennyGay.mp3</code> <br><em>Alt</em>: <code>Penny Gay&#39;s Return Life of Bliss, A</code></td>\n<td><strong>&quot;Penny Gay&#39;s Return with George Cole&quot;</strong></td>\n<td><strong>BBC Light</strong><br>1957-09-03</td>\n<td><strong>Sustaining</strong><br>British Comedy</td>\n<td><strong>George Cole (Bliss)</strong></td>\n<td><strong>Godfrey Harrison &amp; Edwards</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;A Life Of Bliss&quot;, &quot;George Cole&quot;, &quot;BBC&quot;]</code></td>\n<td>Bumbling bachelor David Bliss fumbles social etiquette when his former romantic flame Penny Gay unexpectedly returns to the village.</td>\n</tr>\n<tr>\n<td><code>SingItAgain_1949_PhantomVoice.mp3</code> <br><em>Alt</em>: <code>Sing It Again 1949 Episode</code></td>\n<td><strong>&quot;The Phantom Voice Mystery Melody with Dan Seymour&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-09-03<br>8:00 PM EDT</td>\n<td><strong>Carter Products</strong><br>Carter&#39;s Little Liver Pills</td>\n<td><strong>Dan Seymour (MC)</strong></td>\n<td><strong>Alan Dale &amp; Ray Bloch</strong></td>\n<td><code>[&quot;Game Show&quot;, &quot;Music&quot;, &quot;Sing It Again&quot;, &quot;Dan Seymour&quot;, &quot;Carters&quot;]</code></td>\n<td>Studio callers attempt to identify the celebrity speaking in the Phantom Voice musical riddle for a massive cash jackpot.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 325 / 469 (144 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 689 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Richard Diamond Private Detective",
+        "Dick Powell",
+        "Blake Edwards",
+        "Virginia Gregg",
+        "Ed Begley",
+        "Rexall",
+        "FDR Fireside Chats",
+        "Franklin D Roosevelt",
+        "European War",
+        "Neutrality",
+        "Perry Mason",
+        "John Larkin",
+        "Erle Stanley Gardner",
+        "Tide Detergent",
+        "A Life of Bliss",
+        "George Cole",
+        "BBC Light Programme",
+        "Sing It Again",
+        "Dan Seymour",
+        "Carter's Little Liver Pills",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-688-edgar-allan-poe-vincent-price-westinghouse-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-688-edgar-allan-poe-vincent-price-westinghouse-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Edgar Allan Poe, Vincent Price & Westinghouse Science",
