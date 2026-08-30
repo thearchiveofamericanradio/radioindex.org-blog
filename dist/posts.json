@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-756-family-theater-magic-key-henry-wickham-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-756-family-theater-magic-key-henry-wickham-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Family Theater, The Magic Key & Sir Henry Wickham",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 756)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Father Patrick Peyton&#39;s <em>Family Theater</em> hosted by J. Carrol Naish (1947) and Roddy McDowall (1957), RCA&#39;s flagship international variety broadcasts on <em>The Magic Key of RCA</em> (1938, 1939), Westinghouse science educator Dr. Phillips Thomas on <em>Adventures in Research</em>, and jazz retrospectives on <em>Turn Back the Clock</em>, J. Carrol Naish &amp; Roddy McDowall (1947, 1957), Frank Black (1938, 1939), Dr. Phillips Thomas (1951), and <em>Family Theater</em> (1938–1959):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 756)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>FamilyTheater_1947_NoManStranger.mp3</code> <br><em>Alt</em>: <code>No Man Is a Stranger Family Theater</code></td>\n<td><strong>&quot;No Man Is a Stranger with J. Carrol Naish&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-09-04<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Family Rosary Crusade</td>\n<td><strong>J. Carrol Naish (Host)</strong></td>\n<td><strong>Father Patrick Peyton</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Family Theater&quot;, &quot;J Carrol Naish&quot;, &quot;Patrick Peyton&quot;]</code></td>\n<td>A wounded immigrant stonecutter finds compassion and universal brotherhood when strangers unite to help his family rebuild their home.</td>\n</tr>\n<tr>\n<td><code>FamilyTheater_1957_ColonelsDaughter.mp3</code> <br><em>Alt</em>: <code>The Colonel&#39;s Daughter Family Theater</code></td>\n<td><strong>&quot;The Colonel&#39;s Daughter with Roddy McDowall&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1957-09-04<br>9:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Dramatic Anthology</td>\n<td><strong>Roddy McDowall (Host)</strong></td>\n<td><strong>David Young (Dir.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Family Theater&quot;, &quot;Roddy McDowall&quot;, &quot;Patrick Peyton&quot;]</code></td>\n<td>A retired military officer&#39;s daughter reconciles family duty and personal ambition when a young suitor challenges her father&#39;s rigid household rules.</td>\n</tr>\n<tr>\n<td><code>MagicKey_1938_SymphonicShowcase.mp3</code> <br><em>Alt</em>: <code>Radio The Magic Key</code></td>\n<td><strong>&quot;International Variety and Symphonic Showcase with Frank Black&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1938-09-04<br>2:00 PM EDST</td>\n<td><strong>Radio Corp of America</strong><br>RCA Victor &amp; Tubes</td>\n<td><strong>Frank Black &amp; Symphony</strong></td>\n<td><strong>International Soloists</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Concert&quot;, &quot;The Magic Key&quot;, &quot;RCA Victor&quot;, &quot;Frank Black&quot;]</code></td>\n<td>An international musical variety showcase featuring live shortwave radio pickups from European capitals and classical symphonic selections.</td>\n</tr>\n<tr>\n<td><code>MagicKey_1939_LaborDayAllStar.mp3</code> <br><em>Alt</em>: <code>The Magic Key 1939 Episode</code></td>\n<td><strong>&quot;Labor Day All-Star Festival with RCA Victor Artists&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1939-09-04<br>2:00 PM EDST</td>\n<td><strong>Radio Corp of America</strong><br>RCA Victor Records</td>\n<td><strong>RCA Victor Artists</strong></td>\n<td><strong>Frank Black and Orch.</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Concert&quot;, &quot;The Magic Key&quot;, &quot;RCA Victor&quot;, &quot;Frank Black&quot;]</code></td>\n<td>A gala Labor Day broadcast presenting leading RCA Victor recording artists across opera, concert stage, and popular swing music.</td>\n</tr>\n<tr>\n<td><code>AdventuresResearch_1951_HenryWickham.mp3</code> <br><em>Alt</em>: <code>Mr. Wickham Plants A Seed Adventures in Research</code></td>\n<td><strong>&quot;Mr. Wickham Plants a Seed with Dr. Phillips Thomas&quot;</strong></td>\n<td><strong>Syndication / KDKA</strong><br>1951-09-04</td>\n<td><strong>Westinghouse Electric</strong><br>Institutional Science</td>\n<td><strong>Dr. Phillips Thomas</strong></td>\n<td><strong>Paul Shannon (Narr.)</strong></td>\n<td><code>[&quot;Science&quot;, &quot;History&quot;, &quot;Adventures in Research&quot;, &quot;Phillips Thomas&quot;, &quot;Westinghouse&quot;]</code></td>\n<td>The story of English botanist Sir Henry Wickham who smuggled rubber tree seeds from Brazil to establish the modern global rubber cultivation industry.</td>\n</tr>\n<tr>\n<td><code>TurnBackClock_1959_AdvantageMe.mp3</code> <br><em>Alt</em>: <code>First Tune He Took Advantage Of Me Turn Back The Clock</code></td>\n<td><strong>&quot;He Took Advantage of Me with CBS Radio&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1959-09-04</td>\n<td><strong>Sustaining</strong><br>Jazz Nostalgia</td>\n<td><strong>Studio Jazz Quartet</strong></td>\n<td><strong>CBS Music Department</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Nostalgia&quot;, &quot;Turn Back The Clock&quot;, &quot;CBS&quot;, &quot;Jazz Standards&quot;]</code></td>\n<td>A nostalgic musical retrospective featuring Rodgers and Hart&#39;s He Took Advantage of Me and jazz standards from the Roaring Twenties.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 258 / 471 (149 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 756 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Family Theater",
+        "J Carrol Naish",
+        "Roddy McDowall",
+        "Father Patrick Peyton",
+        "Mutual",
+        "The Magic Key of RCA",
+        "Frank Black",
+        "RCA Victor",
+        "NBC Blue",
+        "Adventures in Research",
+        "Dr Phillips Thomas",
+        "Sir Henry Wickham",
+        "Westinghouse Electric",
+        "Turn Back the Clock",
+        "Rodgers and Hart",
+        "CBS Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-755-aunt-mary-alan-young-westinghouse-research-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-755-aunt-mary-alan-young-westinghouse-research-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Aunt Mary, Alan Young & Westinghouse Research",
