@@ -6,6 +6,48 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-749-blondie-rin-tin-tin-carnation-contented-hour-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-749-blondie-rin-tin-tin-carnation-contented-hour-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Blondie, Rin-Tin-Tin & Carnation Contented Hour",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 749)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Penny Singleton &amp; Arthur Lake in suburban domestic mishaps on <em>Blondie</em> for Camel Cigarettes, young Lee Aaker at Fort Apache on <em>The Adventures of Rin-Tin-Tin</em> for Nabisco, two golden editions of <em>The Carnation Contented Hour</em> for Carnation Evaporated Milk (Percy Faith&#39;s anniversary overtures in 1939 and Buddy Clark singing Broadway hits in 1949), Mercedes McCambridge on <em>Abie&#39;s Irish Rose</em> for Drene, and Dick Powell previewing <em>Romeo and Juliet</em> on <em>Hollywood Hotel</em> for Campbell&#39;s, Penny Singleton (1939), Lee Aaker (1955), Percy Faith (1939), Buddy Clark (1949), Mercedes McCambridge (1943), and Dick Powell (1936–1955):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 749)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Blondie_1939_DagwoodCarpentry.mp3</code> <br><em>Alt</em>: <code>Blondie 1939 Episode</code></td>\n<td><strong>&quot;Dagwood Takes Up Carpentry with Penny Singleton&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1939-09-04<br>7:30 PM EDST</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Penny Singleton &amp; Arthur Lake</strong></td>\n<td><strong>Hanley Stafford &amp; Chic Young</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Blondie&quot;, &quot;Penny Singleton&quot;, &quot;Arthur Lake&quot;]</code></td>\n<td>Dagwood attempts to build a backyard patio table with disastrous results, accidentally sawing through Mr. Dithers&#39; prize blueprints.</td>\n</tr>\n<tr>\n<td><code>RinTinTin_1955_RustyResigns.mp3</code> <br><em>Alt</em>: <code>Rusty Resigns From the Army Adventures of Rin-Tin-Tin</code></td>\n<td><strong>&quot;Rusty Resigns from the Army with Lee Aaker&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1955-09-04<br>5:00 PM EDT</td>\n<td><strong>National Biscuit Co.</strong><br>Nabisco Shredded Wheat</td>\n<td><strong>Lee Aaker (Rusty)</strong></td>\n<td><strong>James Brown &amp; Sawyer</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Rin-Tin-Tin&quot;, &quot;Lee Aaker&quot;, &quot;Nabisco&quot;]</code></td>\n<td>Young orphan corporal Rusty feels responsible for an accidental cavalry patrol blunder and attempts to tender his resignation from Fort Apache.</td>\n</tr>\n<tr>\n<td><code>Carnation_1939_AnniversaryOverture.mp3</code> <br><em>Alt</em>: <code>First Song - The Carnation Anniversary Overture Carnation Contented Hour</code></td>\n<td><strong>&quot;Carnation Anniversary Overture with Percy Faith&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-09-04<br>10:00 PM EDST</td>\n<td><strong>Carnation Milk Co.</strong><br>Carnation Evaporated Milk</td>\n<td><strong>Percy Faith &amp; Chorus</strong></td>\n<td><strong>Lullaby Lady &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Concert&quot;, &quot;Carnation Contented Hour&quot;, &quot;Percy Faith&quot;, &quot;Carnation&quot;]</code></td>\n<td>Percy Faith conducts lush orchestral arrangements of classical anniversary overtures and sentimental parlor melodies for Labor Day.</td>\n</tr>\n<tr>\n<td><code>Carnation_1949_BuddyClark.mp3</code> <br><em>Alt</em>: <code>Guest - Buddy Clark Carnation Contented Hour</code></td>\n<td><strong>&quot;Guest Buddy Clark with Ted Dale and His Orchestra&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-09-04<br>10:00 PM EDT</td>\n<td><strong>Carnation Milk Co.</strong><br>Carnation Evaporated Milk</td>\n<td><strong>Buddy Clark (Guest)</strong></td>\n<td><strong>Ted Dale and His Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Carnation Contented Hour&quot;, &quot;Buddy Clark&quot;, &quot;Carnation&quot;]</code></td>\n<td>Popular crooner Buddy Clark sings Broadway show tunes and romantic pop ballads accompanied by Ted Dale&#39;s symphony orchestra.</td>\n</tr>\n<tr>\n<td><code>AbiesIrishRose_1943_Anniversary.mp3</code> <br><em>Alt</em>: <code>Abie&#39;s Irish Rose 1943 Episode</code></td>\n<td><strong>&quot;The Secret Wedding Anniversary with Mercedes McCambridge&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-09-04<br>8:00 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Special Drene Shampoo</td>\n<td><strong>Mercedes McCambridge</strong></td>\n<td><strong>Sydney Smith &amp; Kinsella</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;Abie&#39;s Irish Rose&quot;, &quot;Mercedes McCambridge&quot;, &quot;Drene&quot;]</code></td>\n<td>Abie and Rose Mary celebrate their wedding anniversary while trying to prevent their squabbling fathers from discovering the surprise party.</td>\n</tr>\n<tr>\n<td><code>HollywoodHotel_1936_RomeoJuliet.mp3</code> <br><em>Alt</em>: <code>Romeo and Juliet Hollywood Hotel</code></td>\n<td><strong>&quot;Romeo and Juliet with Dick Powell and Frances Langford&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1936-09-04<br>9:00 PM EDST</td>\n<td><strong>Campbell Soup Co.</strong><br>Campbell&#39;s Soups</td>\n<td><strong>Dick Powell &amp; Langford</strong></td>\n<td><strong>Louella Parsons &amp; Paige</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Film Preview&quot;, &quot;Hollywood Hotel&quot;, &quot;Dick Powell&quot;, &quot;Campbell&#39;s&quot;]</code></td>\n<td>Dick Powell and Frances Langford preview MGM&#39;s cinematic adaptation of Romeo and Juliet with musical comedy interludes and Hollywood gossip.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 216 / 471 (191 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 749 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Blondie",
+        "Penny Singleton",
+        "Arthur Lake",
+        "Hanley Stafford",
+        "Camel Cigarettes",
+        "The Adventures of Rin-Tin-Tin",
+        "Lee Aaker",
+        "James Brown",
+        "Nabisco",
+        "Shredded Wheat",
+        "The Carnation Contented Hour",
+        "Percy Faith",
+        "Buddy Clark",
+        "Ted Dale",
+        "Carnation Milk",
+        "Abie's Irish Rose",
+        "Mercedes McCambridge",
+        "Sydney Smith",
+        "Drene Shampoo",
+        "Hollywood Hotel",
+        "Dick Powell",
+        "Frances Langford",
+        "Campbell's",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-748-mr-and-mrs-north-saint-peg-lynch-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-748-mr-and-mrs-north-saint-peg-lynch-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Mr. & Mrs. North, The Saint & Peg Lynch",
