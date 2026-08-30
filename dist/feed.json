@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-527-orson-welles-the-falcon-judy-canova-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-527-orson-welles-the-falcon-judy-canova-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Orson Welles, The Falcon, and Judy Canova",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 527)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized mystery metadata, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across historic civil rights crusades, serialized detective mysteries, rural musical comedy, NPR public radio dramas, Johnson&#39;s Wax summer variety, and Cuban musical broadcasts, Orson Welles exposing racial injustice on ABC (1946), George Petrie as <em>The Falcon</em> in <em>Mystery of the Week</em> (1947), Judy Canova and Mel Blanc on NBC for Colgate (1945), James McLure&#39;s <em>Laundry and Bourbon</em> on <em>Earplay</em> (1981), Meredith Willson on <em>The Johnson Wax Program</em> (1942), and <em>Radio Superior</em> (1942–1981):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 527)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Superior_1954_Mambo.mp3</code> <br><em>Alt</em>: <code>Radio Superior 1954 Episode</code></td>\n<td><strong>&quot;Havana Mambo and Bolero Showcase with CMQ Orchestra&quot;</strong></td>\n<td><strong>CMQ Cuba</strong><br>1954-09-01</td>\n<td><strong>Sustaining</strong><br>Latin Mambo Revue</td>\n<td><strong>CMQ Studio Orch.</strong></td>\n<td><strong>Cuban Musicians</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Latin&quot;, &quot;Cuban&quot;, &quot;Mambo&quot;, &quot;Radio Superior&quot;]</code></td>\n<td>A Havana studio orchestra performs popular mid-century Cuban mambos, guarachas, and romantic boleros.</td>\n</tr>\n<tr>\n<td><code>Canova_1945_FarmReturn.mp3</code> <br><em>Alt</em>: <code>The Show Judy Comes Back From The Farm</code></td>\n<td><strong>&quot;Judy Returns from the Farm with Judy Canova and Colgate&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-09-01<br>10:00 PM EWT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Dental Cream</td>\n<td><strong>Judy Canova</strong>, <strong>Blanc</strong></td>\n<td><strong>Gordon Jenkins Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Music&quot;, &quot;Judy Canova&quot;, &quot;Colgate&quot;]</code></td>\n<td>Judy Canova returns to Hollywood from her rural farm vacation, unleashing hillbilly confusion and performing novelty yodels.</td>\n</tr>\n<tr>\n<td><code>Earplay_1981_LaundryBourbon2.mp3</code> <br><em>Alt</em>: <code>Laundry And Bourbon - Part 2</code></td>\n<td><strong>&quot;James McLure&#39;s Laundry and Bourbon (Part 2) with NPR Playhouse&quot;</strong></td>\n<td><strong>NPR Playhouse</strong><br>1981-09-01</td>\n<td><strong>CPB / NPR</strong><br>Radio Drama Series</td>\n<td><strong>NPR Radio Cast</strong></td>\n<td><strong>James McLure (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Theatre&quot;, &quot;Earplay&quot;, &quot;NPR&quot;, &quot;James McLure&quot;]</code><br><em>Arc</em>: <strong>Laundry and Bourbon (Part 2 of 2)</strong></td>\n<td>Three small-town Texas women sip bourbon on a scorching back porch, revealing hidden marriages and small-town secrets.</td>\n</tr>\n<tr>\n<td><code>Welles_1946_WoodwardCase.mp3</code> <br><em>Alt</em>: <code>Orson Welles Commentaries 1946 Episode</code></td>\n<td><strong>&quot;Post-War Civil Rights and Isaac Woodward Case with Orson Welles&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-01<br>1:15 PM EDT</td>\n<td><strong>Lear Radios</strong><br>Lear Broadcasts</td>\n<td><strong>Orson Welles (Commentator)</strong></td>\n<td><strong>Orson Welles</strong></td>\n<td><code>[&quot;News&quot;, &quot;Commentary&quot;, &quot;Civil Rights&quot;, &quot;Orson Welles&quot;, &quot;ABC&quot;]</code></td>\n<td>Orson Welles delivers a searing commentary exposing racial violence against Black WWII veteran Isaac Woodward and demanding federal civil rights prosecution.</td>\n</tr>\n<tr>\n<td><code>Johnson_1942_ManhattanBeach.mp3</code> <br><em>Alt</em>: <code>Manhattan Beach March Johnson Wax</code></td>\n<td><strong>&quot;Manhattan Beach March with Meredith Willson (Summer Series)&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1942-09-01<br>9:30 PM EWT</td>\n<td><strong>S.C. Johnson &amp; Son</strong><br>Johnson&#39;s Wax &amp; Carnu</td>\n<td><strong>Meredith Willson Orch.</strong></td>\n<td><strong>Meredith Willson</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Music&quot;, &quot;Meredith Willson&quot;, &quot;Johnsons Wax&quot;]</code></td>\n<td>Meredith Willson conducts John Philip Sousa&#39;s Manhattan Beach March and presents orchestral musical novelties for Johnson&#39;s Wax.</td>\n</tr>\n<tr>\n<td><code>Falcon_1947_DeadlyLover1.mp3</code> <br><em>Alt</em>: <code>COT Deadly Lover (Part 1)</code></td>\n<td><strong>&quot;The Case of the Deadly Lover (Part 1) with George Petrie (The Falcon)&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-09-01<br>7:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Mystery Serial</td>\n<td><strong>George Petrie (Falcon)</strong></td>\n<td><strong>Mandel Kramer</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Falcon&quot;, &quot;George Petrie&quot;, &quot;Mutual&quot;]</code><br><em>Arc</em>: <strong>The Case of the Deadly Lover (Part 1 of 5)</strong></td>\n<td>The Falcon investigates the suspicious drowning of an heiress whose charming fiancé has a secret criminal record.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 84 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 527 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Orson Welles Commentaries",
+        "Isaac Woodward",
+        "Civil Rights",
+        "The Falcon",
+        "Mystery of the Week",
+        "George Petrie",
+        "Serial Story",
+        "Judy Canova Show",
+        "Mel Blanc",
+        "Colgate",
+        "Earplay",
+        "NPR Playhouse",
+        "James McLure",
+        "The Johnson Wax Program",
+        "Meredith Willson",
+        "Radio Superior",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-526-famous-jury-trials-date-with-judy-challenge-yukon-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-526-famous-jury-trials-date-with-judy-challenge-yukon-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Famous Jury Trials, Date with Judy, and Challenge of the Yukon",
