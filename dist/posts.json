@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-727-sgt-preston-herbert-marshall-date-with-judy-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-727-sgt-preston-herbert-marshall-date-with-judy-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Sgt. Preston, Herbert Marshall & A Date with Judy",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 727)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across three rugged Northwest Mountie adventures on <em>Challenge of the Yukon</em> (Sgt. Preston and King tackling blizzards, stolen husky pups, and river ambushes for Quaker Oats), Herbert Marshall narrating Rudyard Kipling&#39;s <em>The Man Who Would Be King</em> on <em>Your Radio Theater</em>, daytime detective drama on <em>Two On a Clue</em> for General Foods, and high school football queen comedy on <em>A Date with Judy</em> for Tums, Paul Sutton (1941, 1947, 1951), Herbert Marshall (1959), Ned Wever (1945), and Louise Erickson (1941–1959):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 727)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ChallengeYukon_1941_HundredMile.mp3</code> <br><em>Alt</em>: <code>The Hundred Mile Test Challenge of the Yukon</code></td>\n<td><strong>&quot;The Hundred Mile Test with Paul Sutton as Sgt. Preston&quot;</strong></td>\n<td><strong>WXYZ / Michigan</strong><br>1941-09-04<br>5:00 PM EDST</td>\n<td><strong>The Quaker Oats Co.</strong><br>Puffed Wheat Sparkies</td>\n<td><strong>Paul Sutton &amp; King</strong></td>\n<td><strong>Tom Dougall (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Challenge of the Yukon&quot;, &quot;Paul Sutton&quot;, &quot;Quaker Oats&quot;]</code></td>\n<td><code>null</code></td>\n<td>Sergeant Preston and King brave a blinding blizzard to deliver emergency serum across a treacherous mountain trail to a stricken mining camp.</td>\n</tr>\n<tr>\n<td><code>ChallengeYukon_1947_StolenPups.mp3</code> <br><em>Alt</em>: <code>The Stolen Pups Challenge of the Yukon</code></td>\n<td><strong>&quot;The Stolen Pups with Paul Sutton as Sgt. Preston&quot;</strong></td>\n<td><strong>ABC</strong><br>1947-09-04<br>5:00 PM EDT</td>\n<td><strong>The Quaker Oats Co.</strong><br>Quaker Puffed Wheat</td>\n<td><strong>Paul Sutton &amp; King</strong></td>\n<td><strong>George W. Trendle</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Challenge of the Yukon&quot;, &quot;Paul Sutton&quot;, &quot;Quaker Oats&quot;]</code></td>\n<td><code>null</code></td>\n<td>Sgt. Preston tracks dog thieves who abducted a valuable litter of champion husky sled pups from an injured frontier mail carrier.</td>\n</tr>\n<tr>\n<td><code>ChallengeYukon_1951_TheGrudge.mp3</code> <br><em>Alt</em>: <code>The Grudge Challenge of the Yukon</code></td>\n<td><strong>&quot;The Grudge with Paul Sutton as Sgt. Preston&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-04<br>5:30 PM EDT</td>\n<td><strong>The Quaker Oats Co.</strong><br>Quaker Puffed Rice</td>\n<td><strong>Paul Sutton &amp; King</strong></td>\n<td><strong>Trendle Production Staff</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Challenge of the Yukon&quot;, &quot;Paul Sutton&quot;, &quot;Quaker Oats&quot;]</code></td>\n<td><code>null</code></td>\n<td>A vengeful ex-convict plots to ambush Sergeant Preston along a lonely Yukon river trail, unaware that loyal husky King is shadowing his steps.</td>\n</tr>\n<tr>\n<td><code>YourRadioTheater_1959_ManWouldBeKing.mp3</code> <br><em>Alt</em>: <code>Your Radio Theater 1959 Episode</code></td>\n<td><strong>&quot;The Man Who Would Be King with Herbert Marshall&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1959-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Drama</td>\n<td><strong>Herbert Marshall (Narr.)</strong></td>\n<td><strong>Rudyard Kipling (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Adventure&quot;, &quot;Your Radio Theater&quot;, &quot;Herbert Marshall&quot;, &quot;AFRS&quot;]</code></td>\n<td><code>null</code></td>\n<td>Two ambitious British adventurers journey beyond the Afghan border to establish themselves as worshipped sovereign kings in remote Kafiristan.</td>\n</tr>\n<tr>\n<td><code>TwoOnClue_1945_Premature1.mp3</code> <br><em>Alt</em>: <code>The Case of the Premature Client 1 Two On a Clue</code></td>\n<td><strong>&quot;The Case of the Premature Client (Part 1) with Ned Wever&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-09-04<br>2:00 PM EWT</td>\n<td><strong>General Foods</strong><br>Post&#39;s 40% Bran Flakes</td>\n<td><strong>Ned Wever &amp; Fitch</strong></td>\n<td><strong>Harry Ingram (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Two On A Clue&quot;, &quot;Ned Wever&quot;, &quot;General Foods&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Case of the Premature Client&quot;, &quot;part&quot;: 1, &quot;total_parts&quot;: 5}</code></td>\n<td>Husband-and-wife private investigators Jeff and Penny Spencer are retained by a frantic socialite who fears she will be poisoned before the weekend.</td>\n</tr>\n<tr>\n<td><code>DateJudy_1945_FootballSweetheart.mp3</code> <br><em>Alt</em>: <code>A Date with Judy 1945 Episode</code></td>\n<td><strong>&quot;High School Football Sweetheart with Louise Erickson&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-09-04<br>8:30 PM EWT</td>\n<td><strong>Lewis-Howe Co.</strong><br>Tums for the Tummy</td>\n<td><strong>Louise Erickson (Judy)</strong></td>\n<td><strong>John Brown &amp; Dix Davis</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Teen&quot;, &quot;A Date with Judy&quot;, &quot;Louise Erickson&quot;, &quot;Tums&quot;]</code></td>\n<td><code>null</code></td>\n<td>Judy schemes to be elected high school football queen while frantically tutoring star quarterback Oogie Pringle to ensure his academic eligibility.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 84 / 471 (323 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 727 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Challenge of the Yukon",
+        "Sgt Preston",
+        "Paul Sutton",
+        "King the Wonder Dog",
+        "Quaker Oats",
+        "Your Radio Theater",
+        "Herbert Marshall",
+        "Rudyard Kipling",
+        "The Man Who Would Be King",
+        "AFRS",
+        "Two On A Clue",
+        "Ned Wever",
+        "Louise Fitch",
+        "General Foods",
+        "Serial Story Arc",
+        "The Case of the Premature Client",
+        "A Date with Judy",
+        "Louise Erickson",
+        "Tums",
+        "Lewis-Howe",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-726-just-a-minute-young-widder-brown-john-steele-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-726-just-a-minute-young-widder-brown-john-steele-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Just a Minute, Young Widder Brown & John Steele",
