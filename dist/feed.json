@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-693-everett-sloane-bing-crosby-fdr-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-693-everett-sloane-bing-crosby-fdr-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Everett Sloane, Bing Crosby & FDR",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 693)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across hard-hitting New York police precinct procedurals penned by John Meston, smooth variety comedy with Bing Crosby for General Electric, historic Oval Office fireside chats and international student addresses by President Roosevelt, uplifting devotional philosophy, and breaking battlefield news of the liberation of Brussels, Everett Sloane in <em>21st Precinct</em> (1955), Bing Crosby (1953), President Franklin D. Roosevelt (1939, 1942), Dr. Ralph Sockman (1947), and Douglas Edwards on CBS (1939–1955):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 693)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>21stPrecinct_1955_CoffeeBreak.mp3</code> <br><em>Alt</em>: <code>The Coffee Break Twenty First Precinct (21st Precinct)</code></td>\n<td><strong>&quot;The Coffee Break with Everett Sloane as Captain Kennelly&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1955-09-03<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Everett Sloane (Kennelly)</strong></td>\n<td><strong>Ken Lynch &amp; Meston</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Drama&quot;, &quot;21st Precinct&quot;, &quot;Everett Sloane&quot;, &quot;CBS&quot;]</code></td>\n<td>Captain Kennelly investigates an armed diner robbery where an off-duty patrolman was shot while taking an evening coffee break.</td>\n</tr>\n<tr>\n<td><code>BingCrosby_1953_BankReward.mp3</code> <br><em>Alt</em>: <code>At the Bank to Collect 1000 Dollar Reward General Electric Program</code></td>\n<td><strong>&quot;At the Bank to Collect $1,000 Reward with Bing Crosby and GE&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1953-09-03<br>9:30 PM EDT</td>\n<td><strong>General Electric</strong><br>GE Radios &amp; Appliances</td>\n<td><strong>Bing Crosby (Host)</strong></td>\n<td><strong>Ken Carpenter &amp; Trotter</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Bing Crosby&quot;, &quot;General Electric&quot;, &quot;Ken Carpenter&quot;]</code></td>\n<td>Bing Crosby trades humorous banter with Ken Carpenter about collecting a reward check before singing hit pop tunes and classic melodies.</td>\n</tr>\n<tr>\n<td><code>FDR_1939_OutbreakFireside.mp3</code> <br><em>Alt</em>: <code>Fireside: On the European War FDR Fireside Chat</code></td>\n<td><strong>&quot;Fireside Chat on the Outbreak of War and Neutrality with FDR&quot;</strong></td>\n<td><strong>Combined Networks</strong><br>1939-09-03<br>10:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>President FDR</strong></td>\n<td><strong>White House Staff</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;WWII&quot;, &quot;FDR&quot;, &quot;Fireside Chat&quot;, &quot;President&quot;]</code></td>\n<td>President Franklin D. Roosevelt addresses the nation from the Oval Office outlining national security measures and American neutrality upon the outbreak of war in Europe.</td>\n</tr>\n<tr>\n<td><code>FDR_1942_StudentAssemblyRelay.mp3</code> <br><em>Alt</em>: <code>The President Addresses the International Student Assembly FDR Fireside Chat</code></td>\n<td><strong>&quot;Address to the International Student Assembly with FDR&quot;</strong></td>\n<td><strong>Combined Networks</strong><br>1942-09-03<br>9:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>President FDR</strong></td>\n<td><strong>International Youth Staff</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;WWII&quot;, &quot;FDR&quot;, &quot;International Student Assembly&quot;, &quot;Youth&quot;]</code></td>\n<td>President Franklin D. Roosevelt addresses international student delegates on the global struggle for democratic freedom and democratic post-war reconstruction.</td>\n</tr>\n<tr>\n<td><code>GoodWord_1947_SockmanDevotion.mp3</code> <br><em>Alt</em>: <code>The Good Word 1947 Episode</code></td>\n<td><strong>&quot;Faith and Compassion in the Modern World with Dr. Ralph Sockman&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-09-03</td>\n<td><strong>Sustaining</strong><br>Religious Broadcast</td>\n<td><strong>Dr. Ralph Sockman</strong></td>\n<td><strong>NBC Religious Staff</strong></td>\n<td><code>[&quot;Religion&quot;, &quot;Inspirational&quot;, &quot;The Good Word&quot;, &quot;Ralph Sockman&quot;, &quot;NBC&quot;]</code></td>\n<td>Dr. Ralph Sockman delivers an inspiring devotional message on maintaining personal integrity and spiritual compassion amid post-war urban pressures.</td>\n</tr>\n<tr>\n<td><code>CBSNews_1944_BrusselsSpearhead.mp3</code> <br><em>Alt</em>: <code>World News Today News Broadcasts</code></td>\n<td><strong>&quot;Allied Spearhead Liberates Brussels on CBS World News Today&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-03<br>2:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Wartime News Special</td>\n<td><strong>Douglas Edwards (Anchor)</strong></td>\n<td><strong>Charles Collingwood</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;CBS News&quot;, &quot;Douglas Edwards&quot;, &quot;Liberation&quot;]</code></td>\n<td>Douglas Edwards reports breaking news of the British Second Army liberating Brussels and advancing rapidly toward Antwerp.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 349 / 469 (120 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 693 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "21st Precinct",
+        "Everett Sloane",
+        "Ken Lynch",
+        "John Meston",
+        "General Electric Program",
+        "Bing Crosby",
+        "Ken Carpenter",
+        "John Scott Trotter",
+        "FDR Fireside Chats",
+        "Franklin D Roosevelt",
+        "Outbreak of War",
+        "Neutrality",
+        "International Student Assembly",
+        "The Good Word",
+        "Ralph Sockman",
+        "CBS World News Today",
+        "Liberation of Brussels",
+        "Douglas Edwards",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-692-the-lone-ranger-series-finale-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-692-the-lone-ranger-series-finale-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — The Lone Ranger Series Finale & Golden Age Arcs",
