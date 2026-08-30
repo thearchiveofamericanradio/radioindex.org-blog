@@ -6,6 +6,77 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-479-death-valley-days-hop-harrigan-claudia-and-david-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-479-death-valley-days-hop-harrigan-claudia-and-david-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Death Valley Days, Hop Harrigan, and Claudia & David",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 479)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American frontier history dramas, aviation superhero serial auditions, domestic marital comedies, circus juvenile serials, and vocal variety hours, Ruth Cornwall Woodman&#39;s <em>Death Valley Days</em> for 20 Mule Team Borax (1931, 1933), the original audition for DC Comics&#39; <em>Hop Harrigan</em> (1942), Patricia Ryan and Richard Kollmar in <em>Claudia and David</em> (1948), <em>Jerry of the Circus</em> (1937), and romantic baritone Tony Martin on <em>The Bourjois Show</em> (1931–1948):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 479)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Jerry_1937_Spike26.mp3</code> <br><em>Alt</em>: <code>Spike Saves Jerry Episode 26</code></td>\n<td><strong>&quot;Spike Saves Jerry But Who Is Spike? (Episode 26)&quot;</strong></td>\n<td><strong>Syndicated Juvenile</strong><br>1937-08-31</td>\n<td><strong>Sustaining</strong><br>Circus Adventure Serial</td>\n<td><strong>Dramatic Voice Ensemble</strong></td>\n<td><strong>Jerry Circus Staff</strong></td>\n<td><code>[&quot;Circus&quot;, &quot;Adventure&quot;, &quot;Juvenile&quot;, &quot;Serial&quot;, &quot;Early Radio&quot;]</code><br><em>Arc</em>: <strong>Jerry of the Circus (Part 26)</strong></td>\n<td>A mysterious stranger pulls Jerry from the path of a stampeding circus elephant before disappearing into the big top crowd.</td>\n</tr>\n<tr>\n<td><code>Claudia_1948_Vacation.mp3</code> <br><em>Alt</em>: <code>Dave Vacations Claudia David</code></td>\n<td><strong>&quot;Dave&#39;s Country Vacation with Patricia Ryan and Richard Kollmar&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-08-31<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Domestic Comedy</td>\n<td><strong>Patricia Ryan</strong>, <strong>Kollmar</strong></td>\n<td><strong>Rose Franken (Author)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;Romance&quot;, &quot;Claudia and David&quot;, &quot;CBS&quot;]</code></td>\n<td>Claudia schemes to keep David from cutting his relaxing country farm vacation short for urgent architectural office business.</td>\n</tr>\n<tr>\n<td><code>Hop_1942_Audition1.mp3</code> <br><em>Alt</em>: <code>Plastic Plane Audition 1</code></td>\n<td><strong>&quot;The Secret of the Plastic Plane with Chester Stratton (Audition 1)&quot;</strong></td>\n<td><strong>ABC / Blue Network</strong><br>1942-08-31<br>5:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Aviation Serial Audition</td>\n<td><strong>Chester Stratton</strong>, <strong>Delmar</strong></td>\n<td><strong>DC Comics / Radio Staff</strong></td>\n<td><code>[&quot;Aviation&quot;, &quot;Adventure&quot;, &quot;Juvenile&quot;, &quot;Hop Harrigan&quot;, &quot;DC Comics&quot;]</code></td>\n<td>America&#39;s ace aviator Hop Harrigan test-flies an experimental lightweight plastic monoplane targeted by axis saboteurs.</td>\n</tr>\n<tr>\n<td><code>Death_Valley_1931_PayDirt.mp3</code> <br><em>Alt</em>: <code>Pay Dirt Death Valley Days</code></td>\n<td><strong>&quot;Pay Dirt with The Old Ranger&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1931-08-31<br>8:30 PM EDST</td>\n<td><strong>Pacific Coast Borax</strong><br>20 Mule Team Borax</td>\n<td><strong>Tim Frawley</strong>, <strong>White</strong></td>\n<td><strong>Ruth C. Woodman (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;History&quot;, &quot;Death Valley Days&quot;, &quot;Old Ranger&quot;, &quot;Borax&quot;]</code></td>\n<td>An impoverished desert prospector discovers rich gold veins in the Funeral Mountains after years of ridicule from frontier boomtown merchants.</td>\n</tr>\n<tr>\n<td><code>Death_Valley_1933_Trotter1.mp3</code> <br><em>Alt</em>: <code>Mrs Trotters Husband Part 1</code></td>\n<td><strong>&quot;Mrs. Trotter&#39;s Husband (Part 1)&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1933-08-31<br>9:00 PM EDST</td>\n<td><strong>Pacific Coast Borax</strong><br>20 Mule Team Borax</td>\n<td><strong>Tim Frawley</strong> (The Old Ranger)</td>\n<td><strong>Ruth C. Woodman (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;History&quot;, &quot;Death Valley Days&quot;, &quot;Old Ranger&quot;, &quot;Borax&quot;]</code><br><em>Arc</em>: <strong>Mrs. Trotter&#39;s Husband (Part 1 of 2)</strong></td>\n<td>A determined pioneer woman operates a profitable Death Valley mule freight line while her wandering husband searches for lost silver lodes.</td>\n</tr>\n<tr>\n<td><code>Bourjois_1946_TonyMartin1.mp3</code> <br><em>Alt</em>: <code>Tony Martin Part 1 Bourjois</code></td>\n<td><strong>&quot;Guest Tony Martin (Part 1) with David Broekman&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1946-08-31<br>7:30 PM EDT</td>\n<td><strong>Bourjois Inc.</strong><br>Evening in Paris</td>\n<td><strong>Tony Martin</strong>, <strong>Broekman</strong></td>\n<td><strong>David Broekman Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Romance&quot;, &quot;Tony Martin&quot;, &quot;Bourjois&quot;]</code><br><em>Arc</em>: <strong>The Tony Martin Showcase (Part 1 of 2)</strong></td>\n<td>Romantic baritone Tony Martin performs melodic popular standards and Broadway show tunes accompanied by David Broekman&#39;s orchestra.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 174 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 479 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Death Valley Days",
+        "The Old Ranger",
+        "20 Mule Team Borax",
+        "Ruth Cornwall Woodman",
+        "Hop Harrigan",
+        "Chester Stratton",
+        "DC Comics",
+        "Aviation",
+        "Claudia and David",
+        "Patricia Ryan",
+        "Richard Kollmar",
+        "Jerry of the Circus",
+        "Tony Martin",
+        "Bourjois",
+        "Serial Story",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-478-benny-goodman-the-whistler-norman-corwin-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-478-benny-goodman-the-whistler-norman-corwin-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Benny Goodman, The Whistler, and Norman Corwin",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 478)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across big band swing remotes, psychological suspense, Columbia Workshop radio plays, Hollywood dramatic anthologies, comic strip detectives, and Western adventures, Benny Goodman with Harry James and Gene Krupa on <em>Camel Caravan</em> (1937), Bill Johnstone in <em>The Whistler: Flight 13</em> for Signal Oil (1952), Elsa Lanchester in Norman Corwin&#39;s fantasy <em>Mary and the Fairy</em> (1941), Joseph Cotten in <em>Hollywood Star Playhouse</em> (1952), <em>Dick Tracy</em> (1936), and <em>The Cisco Kid</em> (1936–1954):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 478)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Star_Playhouse_1952_Cotten.mp3</code> <br><em>Alt</em>: <code>Statement in Full Playhouse</code></td>\n<td><strong>&quot;Statement in Full with Joseph Cotten&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1952-08-31<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Dramatic Anthology</td>\n<td><strong>Joseph Cotten</strong>, <strong>Tuttle</strong></td>\n<td><strong>Harry Kronman (Director)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Suspense&quot;, &quot;Joseph Cotten&quot;, &quot;NBC&quot;]</code></td>\n<td>A desperate embezzler delivers a written confession to the police, only to discover his intended victim survived the poison.</td>\n</tr>\n<tr>\n<td><code>Dick_Tracy_1936_Formula.mp3</code> <br><em>Alt</em>: <code>Dick Tracy 1936 Episode</code></td>\n<td><strong>&quot;The Secret Code Formula with Ned Wever&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1936-08-31<br>5:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>Detective Comic Serial</td>\n<td><strong>Ned Wever</strong> (Dick Tracy)</td>\n<td><strong>Chester Gould (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Juvenile&quot;, &quot;Comics&quot;, &quot;Dick Tracy&quot;, &quot;Mutual&quot;]</code></td>\n<td>Dick Tracy tracks a counterfeit ring attempting to smuggle an industrial blueprint out of town inside a hollow wooden doll.</td>\n</tr>\n<tr>\n<td><code>Big_Band_1937_Goodman.mp3</code> <br><em>Alt</em>: <code>Camel Caravan Benny Goodman</code></td>\n<td><strong>&quot;Benny Goodman and His Orchestra on Camel Caravan&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1937-08-31<br>9:30 PM EDST</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Benny Goodman</strong>, <strong>Krupa</strong></td>\n<td><strong>Harry James &amp; Martha Tilton</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Benny Goodman&quot;, &quot;Camel&quot;]</code></td>\n<td>Benny Goodman conducts swing arrangements of King Porter Stomp and Bugle Call Rag with clarinet and trumpet solos.</td>\n</tr>\n<tr>\n<td><code>Whistler_1952_Flight13.mp3</code> <br><em>Alt</em>: <code>Flight 13 The Whistler</code></td>\n<td><strong>&quot;Flight 13 with Bill Johnstone&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1952-08-31<br>10:30 PM EDT</td>\n<td><strong>Signal Oil Company</strong><br>Signal Gasoline</td>\n<td><strong>Bill Johnstone</strong>, <strong>Dobkin</strong></td>\n<td><strong>Joel Murcott (Writer)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Suspense&quot;, &quot;Noir&quot;, &quot;The Whistler&quot;, &quot;Signal Oil&quot;]</code></td>\n<td>A greedy passenger boards a transatlantic flight intending to push his wealthy partner out over the ocean, but fate intervenes.</td>\n</tr>\n<tr>\n<td><code>Corwin_1941_MaryFairy.mp3</code> <br><em>Alt</em>: <code>Mary And The Fairy Corwin</code></td>\n<td><strong>&quot;Mary and the Fairy with Elsa Lanchester&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1941-08-31<br>10:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Radio Drama Workshop</td>\n<td><strong>Elsa Lanchester</strong>, <strong>Lloyd</strong></td>\n<td><strong>Norman Corwin (Director)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Fantasy&quot;, &quot;Comedy&quot;, &quot;Norman Corwin&quot;, &quot;Elsa Lanchester&quot;]</code></td>\n<td>An eccentric Brooklyn housewife is granted three wishes by a miniature fairy and discovers magical wishes cause bureaucratic pandemonium.</td>\n</tr>\n<tr>\n<td><code>Cisco_1954_BridgeDoom.mp3</code> <br><em>Alt</em>: <code>Bridge of Doom Cisco Kid</code></td>\n<td><strong>&quot;Bridge of Doom with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Mutual / Ziv Synd.</strong><br>1954-08-31</td>\n<td><strong>Interstate Bakeries</strong><br>Weber&#39;s Bread</td>\n<td><strong>Jack Mather</strong>, <strong>Harry Lang</strong></td>\n<td><strong>Frederic W. Ziv (Prod.)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Cisco Kid&quot;, &quot;Pancho&quot;, &quot;ZIV&quot;]</code></td>\n<td>Cisco and Pancho prevent a gang of saboteurs from dynamiting a railway trestle bridge carrying an oncoming passenger train.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 168 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 478 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Benny Goodman",
+        "Camel Caravan",
+        "Swing",
+        "Gene Krupa",
+        "Harry James",
+        "The Whistler",
+        "Bill Johnstone",
+        "Signal Oil",
+        "Norman Corwin",
+        "Elsa Lanchester",
+        "Twenty-Six by Corwin",
+        "Hollywood Star Playhouse",
+        "Joseph Cotten",
+        "Dick Tracy",
+        "Ned Wever",
+        "The Cisco Kid",
+        "Jack Mather",
+        "Harry Lang",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-477-rudy-vallee-ma-perkins-man-named-jordan-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-477-rudy-vallee-ma-perkins-man-named-jordan-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Rudy Vallee, Ma Perkins, and A Man Named Jordan",
