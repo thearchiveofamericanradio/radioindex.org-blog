@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-710-nat-king-cole-jim-french-fitch-bandwagon-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-710-nat-king-cole-jim-french-fitch-bandwagon-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Nat King Cole, Jim French & Fitch Bandwagon",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 710)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across candid Chicago radio studio interviews with Nat King Cole on WBBM, Jim French&#39;s contemporary audio drama showcases and Louis L&#39;Amour western adaptations, high-spirited dance orchestra battles on <em>The Fitch Bandwagon</em> for Fitch Dandruff Remover Shampoo, and midwestern rock-and-roll disc jockey broadcasts, Nat King Cole (1955), Jim French (2000, 2006), Jack McLean and Richard Himber on <em>The Fitch Bandwagon</em> (1939, 1944), and Howard Miller (1939–2006):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 710)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>HowardMiller_1955_NatKingCole.mp3</code> <br><em>Alt</em>: <code>Interviews Nat King Cole CBS Chicago Howard Miller Show</code></td>\n<td><strong>&quot;Interview with Nat King Cole on WBBM Chicago&quot;</strong></td>\n<td><strong>WBBM Chicago / CBS</strong><br>1955-09-03</td>\n<td><strong>Sustaining</strong><br>Music &amp; Celebrity Chat</td>\n<td><strong>Howard Miller (Host)</strong></td>\n<td><strong>Nat King Cole (Guest)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Interview&quot;, &quot;Howard Miller&quot;, &quot;Nat King Cole&quot;, &quot;WBBM&quot;]</code></td>\n<td>Howard Miller conducts a candid in-studio interview with Nat King Cole regarding his latest Capitol record releases and national nightclub tour.</td>\n</tr>\n<tr>\n<td><code>HowardMiller_1957_HitRecords.mp3</code> <br><em>Alt</em>: <code>Howard Miller Show 1957 Episode</code></td>\n<td><strong>&quot;Top Chicago Hit Records and Disc Jockey Chat with Howard Miller&quot;</strong></td>\n<td><strong>WBBM Chicago / CBS</strong><br>1957-09-03</td>\n<td><strong>Sustaining</strong><br>Disc Jockey Show</td>\n<td><strong>Howard Miller (Host)</strong></td>\n<td><strong>WBBM Radio Crew</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Talk&quot;, &quot;Howard Miller&quot;, &quot;WBBM&quot;, &quot;Disc Jockey&quot;]</code></td>\n<td>Chicago disc jockey Howard Miller spins top pop 40 singles, takes listener requests, and offers commentary on local Midwest teen music trends.</td>\n</tr>\n<tr>\n<td><code>Imagination_2000_ClearChannel.mp3</code> <br><em>Alt</em>: <code>Clear Channel and Authenticity Imagination Theater</code></td>\n<td><strong>&quot;Clear Channel and Authenticity with Jim French&quot;</strong></td>\n<td><strong>Syndication / KIXI</strong><br>2000-09-03</td>\n<td><strong>Sustaining</strong><br>Audio Drama</td>\n<td><strong>Jim French (Host)</strong></td>\n<td><strong>Phil Harper (Harry Nile)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Imagination Theater&quot;, &quot;Jim French&quot;, &quot;Harry Nile&quot;]</code></td>\n<td>Jim French discusses the preservation of genuine classic radio audio techniques before presenting a vintage private detective dramatization.</td>\n</tr>\n<tr>\n<td><code>Imagination_2006_FourCardDraw.mp3</code> <br><em>Alt</em>: <code>Louis L&#39;Amour Theater - Four Card Draw Imagination Theater</code></td>\n<td><strong>&quot;Louis L&#39;Amour Theater (Four-Card Draw) with Jim French&quot;</strong></td>\n<td><strong>Syndication</strong><br>2006-09-03</td>\n<td><strong>Sustaining</strong><br>Western Audio Drama</td>\n<td><strong>Western Dramatic Cast</strong></td>\n<td><strong>Jim French &amp; L&#39;Amour</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Imagination Theater&quot;, &quot;Louis LAmour&quot;, &quot;Jim French&quot;]</code></td>\n<td>A solitary frontier drifter in a high-stakes saloon poker tournament uses quick-draw wits to expose a crooked card dealer.</td>\n</tr>\n<tr>\n<td><code>FitchBandwagon_1939_JackMcLean.mp3</code> <br><em>Alt</em>: <code>JACK MCLEAN Fitch Bandwagon</code></td>\n<td><strong>&quot;Jack McLean and His Orchestra with Fitch Shampoo&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-09-03<br>7:30 PM EDST</td>\n<td><strong>F.W. Fitch Company</strong><br>Fitch Dandruff Remover</td>\n<td><strong>Jack McLean &amp; Orch.</strong></td>\n<td><strong>Toby Reed (Announcer)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Fitch Bandwagon&quot;, &quot;Jack McLean&quot;, &quot;Fitch&quot;]</code></td>\n<td>Bandleader Jack McLean leads his popular dance orchestra in swinging pop hits and lively sweet-melody arrangements.</td>\n</tr>\n<tr>\n<td><code>FitchBandwagon_1944_DickHimber.mp3</code> <br><em>Alt</em>: <code>Fitch Bandwagon 1944 Episode</code></td>\n<td><strong>&quot;Dick Himber and His Orchestra with Fitch Shampoo&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1944-09-03<br>7:30 PM EWT</td>\n<td><strong>F.W. Fitch Company</strong><br>Fitch Shampoo</td>\n<td><strong>Dick Powell (Guest MC)</strong></td>\n<td><strong>Richard Himber &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Fitch Bandwagon&quot;, &quot;Richard Himber&quot;, &quot;Fitch&quot;]</code></td>\n<td>Violinist and conductor Richard Himber presents orchestral swing favorites and comedic musical magic tricks.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 451 / 469 (18 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 710 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Howard Miller Show",
+        "Howard Miller",
+        "Nat King Cole",
+        "WBBM Chicago",
+        "CBS",
+        "Capitol Records",
+        "Imagination Theater",
+        "Jim French",
+        "Harry Nile",
+        "Louis L'Amour Theater",
+        "The Fitch Bandwagon",
+        "Jack McLean",
+        "Richard Himber",
+        "Dick Powell",
+        "F.W. Fitch Shampoo",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-709-bbc-saturday-night-theatre-showcase-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-709-bbc-saturday-night-theatre-showcase-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — BBC Saturday Night Theatre Showcase",
