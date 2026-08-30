@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-610-mindwebs-fenway-baseball-captain-midnight-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-610-mindwebs-fenway-baseball-captain-midnight-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Mindwebs Sci-Fi, Fenway Baseball & Captain Midnight",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 610)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across public radio speculative science fiction readings with electronic scores, live Major League Baseball pennant race play-by-play, aviation secret squadron adventures, sporting chronicles, and vaudeville backstage serial drama, Michael Hanson narrating <em>Mindwebs</em> (1977, 1979), Boston Red Sox hosting the Chicago White Sox at Fenway Park on WEEI (1967), Ed Prentiss in <em>Captain Midnight</em> for Ovaltine (1946), Grantland Rice (1944), and <em>Myrt and Marge</em> (1944–1979):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 610)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Mindwebs_1977_PromisesToKeep.mp3</code> <br><em>Alt</em>: <code>Promises To Keep Mindwebs</code></td>\n<td><strong>&quot;Promises to Keep by Jack C. Haldeman II with Michael Hanson&quot;</strong></td>\n<td><strong>WHA Madison / NPR</strong><br>1977-09-02</td>\n<td><strong>Sustaining</strong><br>Speculative Fiction</td>\n<td><strong>Michael Hanson (Narrator)</strong></td>\n<td><strong>Jack C. Haldeman II</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Literature&quot;, &quot;Mindwebs&quot;, &quot;Michael Hanson&quot;, &quot;WHA&quot;]</code></td>\n<td>A solitary space colonist struggles to maintain human emotional bonds while overseeing automated atmospheric terraforming machinery.</td>\n</tr>\n<tr>\n<td><code>Mindwebs_1979_TheApple.mp3</code> <br><em>Alt</em>: <code>Apple Mindwebs</code></td>\n<td><strong>&quot;The Apple by Jack Anderson with Michael Hanson&quot;</strong></td>\n<td><strong>WHA Madison / NPR</strong><br>1979-09-02</td>\n<td><strong>Sustaining</strong><br>Speculative Fiction</td>\n<td><strong>Michael Hanson (Narrator)</strong></td>\n<td><strong>Jack Anderson (Author)</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Literature&quot;, &quot;Mindwebs&quot;, &quot;Michael Hanson&quot;, &quot;WHA&quot;]</code></td>\n<td>A post-apocalyptic survivor unearths a genetically preserved piece of ancient fruit that triggers suppressed memories of Earth&#39;s past.</td>\n</tr>\n<tr>\n<td><code>Baseball_1967_WhiteSoxRedSox.mp3</code> <br><em>Alt</em>: <code>White Sox Vs Red Sox Baseball Games</code></td>\n<td><strong>&quot;Chicago White Sox vs. Boston Red Sox at Fenway Park&quot;</strong></td>\n<td><strong>WEEI Boston</strong><br>1967-09-02<br>2:00 PM EDT</td>\n<td><strong>Narragansett Beer</strong><br>Atlantic Refining</td>\n<td><strong>Ned Martin</strong>, <strong>Coleman</strong></td>\n<td><strong>Mel Parnell (WEEI Crew)</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Baseball&quot;, &quot;MLB&quot;, &quot;Red Sox&quot;, &quot;WEEI&quot;]</code></td>\n<td>The Boston Red Sox battle the Chicago White Sox in a tense late-season pennant race showdown at Fenway Park.</td>\n</tr>\n<tr>\n<td><code>Midnight_1946_RadarTracker.mp3</code> <br><em>Alt</em>: <code>Captain Midnight 1946 Episode</code></td>\n<td><strong>&quot;The Secret Squadron Radar Tracker with Ovaltine&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-02<br>5:30 PM EDT</td>\n<td><strong>The Wander Co.</strong><br>Ovaltine Food Drink</td>\n<td><strong>Ed Prentiss (Midnight)</strong></td>\n<td><strong>Boris Aplon &amp; Orr</strong></td>\n<td><code>[&quot;Aviation&quot;, &quot;Adventure&quot;, &quot;Children&quot;, &quot;Captain Midnight&quot;, &quot;Ovaltine&quot;]</code></td>\n<td>Captain Midnight and the Secret Squadron deploy experimental airborne radar equipment to locate Ivan Shark&#39;s hidden volcanic submarine base.</td>\n</tr>\n<tr>\n<td><code>Rice_1944_HorseMackerel.mp3</code> <br><em>Alt</em>: <code>Of Crazy Over Horse Mackrel Grantland Rice</code></td>\n<td><strong>&quot;Crazy Over Horse Mackerel with Grantland Rice&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-09-02<br>10:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Sports Chronicle</td>\n<td><strong>Grantland Rice (Host)</strong></td>\n<td><strong>NBC Sports Feature Desk</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Documentary&quot;, &quot;Grantland Rice&quot;, &quot;Fishing&quot;, &quot;NBC&quot;]</code></td>\n<td>Grantland Rice chronicles deep-sea anglers battling giant horse mackerel off Nova Scotia in record-setting fishing expeditions.</td>\n</tr>\n<tr>\n<td><code>MyrtMarge_1946_Testimony.mp3</code> <br><em>Alt</em>: <code>More Damaging Testimony Against Myrt Myrt and Marge</code></td>\n<td><strong>&quot;More Damaging Testimony Against Myrt with Myrtle Vail&quot;</strong></td>\n<td><strong>Syndication</strong><br>1946-09-02</td>\n<td><strong>Sustaining</strong><br>Backstage Soap</td>\n<td><strong>Myrtle Vail (Myrt)</strong></td>\n<td><strong>Donna Damerel (Marge)</strong></td>\n<td><code>[&quot;Soap&quot;, &quot;Drama&quot;, &quot;Vaudeville&quot;, &quot;Myrt And Marge&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Vaudeville chorus veteran Myrt faces hostile cross-examination in civil court after an envious rival dancer fabricates allegations.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 272 / 480 (208 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 610 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Mindwebs",
+        "Michael Hanson",
+        "WHA Madison",
+        "NPR",
+        "Jack C Haldeman II",
+        "Jack Anderson",
+        "Major League Baseball",
+        "Boston Red Sox",
+        "Chicago White Sox",
+        "Fenway Park",
+        "WEEI",
+        "Captain Midnight",
+        "Ed Prentiss",
+        "Ovaltine",
+        "Grantland Rice",
+        "Myrt and Marge",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-609-hop-harrigan-death-valley-days-arch-oboler-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-609-hop-harrigan-death-valley-days-arch-oboler-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Hop Harrigan, Death Valley Days & Arch Oboler",

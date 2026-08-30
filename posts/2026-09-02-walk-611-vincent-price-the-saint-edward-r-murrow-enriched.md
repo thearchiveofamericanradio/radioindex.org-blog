@@ -1,0 +1,33 @@
+# Archival Dispatch: September 2 Calendar Walk — Vincent Price, Edward R. Murrow & Theater Five
+
+**Date**: 2026-09-02  
+**Author**: radio index  
+**Tags**: September 2, Calendar Walk, The Saint, Vincent Price, Leslie Charteris, Bromo Seltzer, NBC, Theater Five, ABC Radio, ABC, CBS European News, Edward R Murrow, London Blitz, Indictment, Karl Weber, The Charlotte Greenwood Show, Hallmark Cards, Guilty Party, BBC Light, Alternate Titles, Original Filenames
+
+---
+
+## September 2 Archival Metadata Enrichment (Increment 611)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across debonair detective investigations, live London rooftop Blitz broadcasts, mid-century legal grand jury proceedings, athletic gambling thrillers, British mystery quizzes, and greeting-card-sponsored domestic comedy, Vincent Price as *The Saint* for Bromo-Seltzer (1951), Edward R. Murrow reporting live on CBS during a London air raid (1940), *Theater Five* (1964), Karl Weber in *Indictment* (1956), Charlotte Greenwood for Hallmark Cards (1945), and *Guilty Party* (1940–1964):
+
+---
+
+## 1. *September 2 Archival Inventory (Increment 611)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Saint_1951_FishingBoat.mp3` <br>*Alt*: `The Fishing Boat Case The Saint` | **"The Fishing Boat Case with Vincent Price as The Saint"** | **NBC (KFI)**<br>1951-09-02<br>7:30 PM EDT | **Emerson Drug Co.**<br>Bromo-Seltzer | **Vincent Price (Simon)** | **Leslie Charteris (Author)** | `["Detective", "Mystery", "The Saint", "Vincent Price", "Bromo Seltzer"]` | Simon Templar investigates the midnight sabotage of a commercial tuna clipper involved in an international diamond smuggling racket. |
+| `Murrow_1940_AnotherAirRaid.mp3` <br>*Alt*: `Another Air Raid On London CBS European News` | **"Another Air Raid on London with Edward R. Murrow"** | **CBS (WABC)**<br>1940-09-02<br>6:45 PM EDST | **Sustaining**<br>Eyewitness News | **Edward R. Murrow** | **CBS London Bureau** | `["News", "History", "WWII", "Edward R Murrow", "CBS"]` | Edward R. Murrow reports live from a London rooftop amidst air-raid sirens, describing antiaircraft batteries engaging German bomber squadrons. |
+| `TheaterFive_1964_TheFix.mp3` <br>*Alt*: `The Fix Theater Five` | **"The Fix with Dramatic Cast and ABC Radio"** | **ABC Radio**<br>1964-09-02 | **Sustaining**<br>Modern Radio Drama | **Dramatic Voice Cast** | **Warren Somerville (Prod)** | `["Drama", "Anthology", "Theater Five", "ABC Radio", "Crime"]` | A desperate small-town athletic trainer is bribed by mob gamblers to secretly doctor a champion prizefighter's boxing gloves. |
+| `Indictment_1956_SmearEditor.mp3` <br>*Alt*: `Blackmail (villain is editor of a smear magazine)` | **"Blackmail of the Smear Magazine Editor with Karl Weber"** | **CBS (WCBS)**<br>1956-09-02<br>5:00 PM EDT | **Sustaining**<br>Legal Crime Drama | **Karl Weber (Blaine)** | **Joe Bates Smith (Writer)** | `["Legal", "Police", "Crime", "Indictment", "Karl Weber"]` | Assistant District Attorney Tom Blaine prosecutes the unscrupulous publisher of a scandal tabloid extorting payoffs from Hollywood screen stars. |
+| `Greenwood_1945_MissingFifty.mp3` <br>*Alt*: `Jack And The Missing Fifty Dollars Charlotte Greenwood` | **"Jack and the Missing Fifty Dollars with Hallmark Cards"** | **ABC Blue (WJZ)**<br>1945-09-02<br>3:00 PM EWT | **Hallmark Cards**<br>Greeting Cards | **Charlotte Greenwood** | **John Brown & Bartell** | `["Comedy", "Sitcom", "Charlotte Greenwood", "Hallmark", "ABC"]` | Charlotte scrambles to replace fifty dollars missing from a community charity treasury before the town committee convenes. |
+| `GuiltyParty_1955_FarmingProblems.mp3` <br>*Alt*: `Farming Problems Guilty Party` | **"Farming Problems with BBC Light Programme"** | **BBC Light Programme**<br>1955-09-02 | **Sustaining**<br>Detective Quiz | **Howard Marion-Crawford** | **BBC Mystery Writers** | `["Detective", "Mystery", "Quiz", "Guilty Party", "BBC Light"]` | Amateur sleuths attempt to identify which disgruntled agricultural laborer poisoned a wealthy country landlord's prize pedigree dairy herd. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 278 / 480 (202 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
