@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-593-superman-arcs-black-museum-vaughn-monroe-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-593-superman-arcs-black-museum-vaughn-monroe-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Superman Arcs, Black Museum & Vaughn Monroe",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 593)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic superhero serialized story arcs, grim Scotland Yard true-crime artifacts, and chart-topping big band vocal variety, Bud Collyer as <em>Superman</em> for Kellogg&#39;s Pep across four different storylines (1942, 1943, 1946, 1948), Orson Welles hosting <em>The Black Museum</em> (1952), and Vaughn Monroe performing <em>Mona Lisa</em> on <em>The Camel Caravan</em> (1942–1952):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 593)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Superman_1942_TheWolf1.mp3</code> <br><em>Alt</em>: <code>The Wolf - Part 1 Superman</code></td>\n<td><strong>&quot;The Wolf (Part 1) with Bud Collyer and Kellogg&#39;s Pep&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1942-09-02<br>5:15 PM EWT</td>\n<td><strong>Kellogg Company</strong><br>Kellogg&#39;s Pep Cereal</td>\n<td><strong>Bud Collyer (Superman)</strong></td>\n<td><strong>Joan Alexander &amp; Noa</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Action&quot;, &quot;Adventure&quot;, &quot;Superman&quot;, &quot;Bud Collyer&quot;]</code></td>\n<td>Clark Kent investigates rumors of a savage mutant timber wolf terrorizing isolated lumber camps near the northern frontier.</td>\n</tr>\n<tr>\n<td><code>Superman_1943_CAP12.mp3</code> <br><em>Alt</em>: <code>The Civil Air Patrol - Part 12 Superman</code></td>\n<td><strong>&quot;The Civil Air Patrol (Part 12) with Bud Collyer and Kellogg&#39;s Pep&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1943-09-02<br>5:15 PM EWT</td>\n<td><strong>Kellogg Company</strong><br>Kellogg&#39;s Pep Cereal</td>\n<td><strong>Bud Collyer</strong>, <strong>Kelk</strong></td>\n<td><strong>Julian Noa (Perry White)</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Action&quot;, &quot;Adventure&quot;, &quot;Superman&quot;, &quot;Bud Collyer&quot;]</code></td>\n<td>Superman intercepts a rogue enemy bomber heading toward an East Coast munitions plant spotted by volunteer Civil Air Patrol spotters.</td>\n</tr>\n<tr>\n<td><code>Superman_1946_CandyMyers8.mp3</code> <br><em>Alt</em>: <code>Candy Meyer&#39;s Big Story, Part 8 of 8</code></td>\n<td><strong>&quot;Candy Myers&#39;s Big Story (Part 8) with Bud Collyer and Kellogg&#39;s&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-02<br>5:15 PM EDT</td>\n<td><strong>Kellogg Company</strong><br>Kellogg&#39;s Pep Cereal</td>\n<td><strong>Bud Collyer (Superman)</strong></td>\n<td><strong>Candy Myers &amp; Alexander</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Action&quot;, &quot;Adventure&quot;, &quot;Superman&quot;, &quot;Bud Collyer&quot;]</code></td>\n<td>Superman rounds up an entire syndicate of jewel smugglers and delivers proof to the Daily Planet that clears private detective Candy Myers.</td>\n</tr>\n<tr>\n<td><code>Superman_1948_SilverBuffalo3.mp3</code> <br><em>Alt</em>: <code>The Mystery Of The Silver Buffalo, Part 3</code></td>\n<td><strong>&quot;The Mystery of the Silver Buffalo (Part 3) with Bud Collyer&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-09-02<br>5:15 PM EDT</td>\n<td><strong>Kellogg Company</strong><br>Kellogg&#39;s Pep Cereal</td>\n<td><strong>Bud Collyer (Clark Kent)</strong></td>\n<td><strong>Joan Alexander (Lois)</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Action&quot;, &quot;Adventure&quot;, &quot;Superman&quot;, &quot;Bud Collyer&quot;]</code></td>\n<td>Clark Kent tracks a gang of armed gold rustlers using ancient tribal caves to conceal stolen bullion shipments.</td>\n</tr>\n<tr>\n<td><code>Black_Museum_1952_SashCord.mp3</code> <br><em>Alt</em>: <code>The Sash Cord The Black Museum</code></td>\n<td><strong>&quot;The Sash Cord with Orson Welles and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-09-02<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Scotland Yard Crime</td>\n<td><strong>Orson Welles (Host)</strong></td>\n<td><strong>Harry Alan Towers (Prod)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Mystery&quot;, &quot;Black Museum&quot;, &quot;Orson Welles&quot;]</code></td>\n<td>Orson Welles inspects a frayed length of window sash cord from Scotland Yard&#39;s repository that helped detectives solve a lodging house strangulation.</td>\n</tr>\n<tr>\n<td><code>Camel_1950_MonaLisa.mp3</code> <br><em>Alt</em>: <code>First Song - Mona Lisa Camel Caravan</code></td>\n<td><strong>&quot;Mona Lisa with Vaughn Monroe and Camel Cigarettes&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-02<br>7:30 PM EDT</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Vaughn Monroe (Vocals)</strong></td>\n<td><strong>The Moon Maids &amp; Men</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Pop&quot;, &quot;Camel Caravan&quot;, &quot;Vaughn Monroe&quot;]</code></td>\n<td>Baritone Vaughn Monroe leads his orchestra singing the number-one hit Mona Lisa alongside upbeat swing numbers and collegiate medleys.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 170 / 480 (310 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 593 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Adventures of Superman",
+        "Bud Collyer",
+        "Joan Alexander",
+        "Jackie Kelk",
+        "Kelloggs Pep",
+        "Serial Arcs",
+        "The Black Museum",
+        "Orson Welles",
+        "Scotland Yard",
+        "Harry Alan Towers",
+        "The Camel Caravan",
+        "Vaughn Monroe",
+        "Mona Lisa",
+        "Camel Cigarettes",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-592-superman-official-detective-champion-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-592-superman-official-detective-champion-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Superman, Official Detective & Gene Autry's Champion",
