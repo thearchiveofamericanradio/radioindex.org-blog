@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-688-edgar-allan-poe-vincent-price-westinghouse-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-688-edgar-allan-poe-vincent-price-westinghouse-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Edgar Allan Poe, Vincent Price & Westinghouse Science",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 688)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across gothic Edgar Allan Poe horror dramatizations, debonair crime investigations in major league baseball, educational industrial science expositions, uplifting sports moral dramas, and classic radio family sitcoms, <em>Author&#39;s Playhouse</em> (1941), Vincent Price as <em>The Saint</em> (1947, 1950), Westinghouse <em>Adventures in Research</em> (1946), Stephen McNally on <em>Family Theater</em> (1952), and Fanny Brice in <em>Baby Snooks</em> (1941–1952):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 688)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>AuthorsPlayhouse_1941_PitPendulum.mp3</code> <br><em>Alt</em>: <code>Authors Playhouse 1941 Episode</code></td>\n<td><strong>&quot;The Pit and the Pendulum by Edgar Allan Poe with NBC&quot;</strong></td>\n<td><strong>NBC Red (WMAQ)</strong><br>1941-09-03<br>11:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Literary Anthology</td>\n<td><strong>NBC Drama Repertory</strong></td>\n<td><strong>Poe &amp; Wynn Wright</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Anthology&quot;, &quot;Authors Playhouse&quot;, &quot;Edgar Allan Poe&quot;, &quot;NBC&quot;]</code></td>\n<td>A prisoner of the Spanish Inquisition endures psychological torment bound beneath a razor-sharp descending pendulum.</td>\n</tr>\n<tr>\n<td><code>TheSaint_1950_BaseballMurder.mp3</code> <br><em>Alt</em>: <code>Baseball Murder Saint</code></td>\n<td><strong>&quot;The Baseball Murder with Vincent Price and Ford&quot;</strong></td>\n<td><strong>NBC (KNBC)</strong><br>1950-09-03<br>7:30 PM EDT</td>\n<td><strong>Ford Motor Co.</strong><br>Ford Dealers</td>\n<td><strong>Vincent Price (Templar)</strong></td>\n<td><strong>John Brown &amp; Charteris</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Saint&quot;, &quot;Vincent Price&quot;, &quot;Ford&quot;]</code></td>\n<td>Simon Templar uncovers an extortion syndicate poisoning starting pitchers to manipulate the outcome of major league baseball games.</td>\n</tr>\n<tr>\n<td><code>TheSaint_1947_BaseballAlternate.mp3</code> <br><em>Alt</em>: <code>Baseball Team Shooting Saint (Alternate Cut)</code></td>\n<td><strong>&quot;The Baseball Team Shooting with Vincent Price (Alternate Cut)&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1947-09-03<br>8:30 PM EDT</td>\n<td><strong>Campbell Soup Co.</strong><br>Campbell&#39;s Soups</td>\n<td><strong>Vincent Price (Templar)</strong></td>\n<td><strong>Barry Sullivan &amp; Charteris</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Saint&quot;, &quot;Vincent Price&quot;, &quot;Leslie Charteris&quot;]</code></td>\n<td>Simon Templar investigates the locker room shooting of a star pennant-race baseball pitcher targeted by illegal gambling racketeers.</td>\n</tr>\n<tr>\n<td><code>AdvInResearch_1946_Recreation.mp3</code> <br><em>Alt</em>: <code>Science In Recreation Adventures in Research</code></td>\n<td><strong>&quot;Science in Recreation with Dr. Phillips Thomas&quot;</strong></td>\n<td><strong>Syndication / KDKA</strong><br>1946-09-03</td>\n<td><strong>Westinghouse Electric</strong><br>Educational Broadcast</td>\n<td><strong>Dr. Phillips Thomas</strong></td>\n<td><strong>Paul Shannon (Announcer)</strong></td>\n<td><code>[&quot;Educational&quot;, &quot;Science&quot;, &quot;Adventures In Research&quot;, &quot;Westinghouse&quot;, &quot;KDKA&quot;]</code></td>\n<td>Dr. Phillips Thomas demonstrates how applied physics and chemistry revolutionized modern athletic equipment, synthetic rubber balls, and camping gear.</td>\n</tr>\n<tr>\n<td><code>FamilyTheater_1952_StopwatchFinale.mp3</code> <br><em>Alt</em>: <code>Stopwatch Finale Family Theater</code></td>\n<td><strong>&quot;Stopwatch Finale with Stephen McNally and Father Peyton&quot;</strong></td>\n<td><strong>Mutual (KHJ)</strong><br>1952-09-03<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Family Drama</td>\n<td><strong>Stephen McNally (Host)</strong></td>\n<td><strong>Father Patrick Peyton</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Family Theater&quot;, &quot;Stephen McNally&quot;, &quot;Father Peyton&quot;]</code></td>\n<td>An aging track coach helps a talented but undisciplined sprinter overcome personal grief to win a crucial relay championship.</td>\n</tr>\n<tr>\n<td><code>BabySnooks_1942_ShowEntry.mp3</code> <br><em>Alt</em>: <code>The Camp Report Baby Snooks</code></td>\n<td><strong>&quot;The Summer Camp Report with Baby Snooks and Maxwell House (Show Entry)&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1942-09-03<br>8:00 PM EWT</td>\n<td><strong>General Foods</strong><br>Maxwell House Coffee</td>\n<td><strong>Fanny Brice (Snooks)</strong></td>\n<td><strong>Hanley Stafford (Daddy)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Baby Snooks&quot;, &quot;Fanny Brice&quot;, &quot;Maxwell House&quot;]</code></td>\n<td>Daddy Higgins attempts to decode the counselor&#39;s appraisal letter following Baby Snooks&#39;s unruly behavior at summer camp.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 319 / 469 (150 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 688 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Author's Playhouse",
+        "Edgar Allan Poe",
+        "The Pit and the Pendulum",
+        "The Saint",
+        "Vincent Price",
+        "Leslie Charteris",
+        "Ford Dealers",
+        "Campbell Soup",
+        "Adventures in Research",
+        "Dr Phillips Thomas",
+        "Westinghouse",
+        "KDKA",
+        "Family Theater",
+        "Stephen McNally",
+        "Father Peyton",
+        "Baby Snooks",
+        "Fanny Brice",
+        "Maxwell House",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-687-grand-ole-opry-jim-reeves-harry-nile-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-687-grand-ole-opry-jim-reeves-harry-nile-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Grand Ole Opry, Jim Reeves & Harry Nile",
