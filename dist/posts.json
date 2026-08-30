@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-740-groucho-marx-gene-autry-quiz-kids-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-740-groucho-marx-gene-autry-quiz-kids-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Groucho Marx, Gene Autry & The Quiz Kids",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 740)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Groucho Marx and pianist Oscar Levant trading insults on <em>Blue Ribbon Town</em> for Pabst Blue Ribbon Beer, Gene Autry and Pat Buttram solving stagecoach gold bullion ambushes on <em>Melody Ranch</em> for Wrigley&#39;s Spearmint, two distinct eras of Joe Kelly testing child prodigies on <em>The Quiz Kids</em> (Alka-Seltzer in 1940 and Swift in 1949), Sunday morning newspaper readings with Puck on <em>The Comic Weekly Man</em>, and cowboy harmonies from The Plainsmen, Groucho Marx (1943), Gene Autry (1955), Joe Kelly (1940, 1949), and Oscar Levant (1940–1955):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 740)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BlueRibbon_1943_OscarLevant.mp3</code> <br><em>Alt</em>: <code>Oscar Levant Blue Ribbon Town</code></td>\n<td><strong>&quot;Guest Oscar Levant with Groucho Marx&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1943-09-04<br>8:00 PM EWT</td>\n<td><strong>Pabst Brewing Co.</strong><br>Pabst Blue Ribbon Beer</td>\n<td><strong>Groucho Marx &amp; Levant</strong></td>\n<td><strong>Virginia O&#39;Brien &amp; Dickson</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Blue Ribbon Town&quot;, &quot;Groucho Marx&quot;, &quot;Pabst&quot;]</code></td>\n<td>Groucho Marx trades caustic one-liners and rapid banter with pianist Oscar Levant between deadpan vocal serenades by Virginia O&#39;Brien.</td>\n</tr>\n<tr>\n<td><code>MelodyRanch_1955_GoldAmbush.mp3</code> <br><em>Alt</em>: <code>Gene Autry&#39;s Melody Ranch 1955 Episode</code></td>\n<td><strong>&quot;The Stagecoach Gold Ambush with Gene Autry and Pat Buttram&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1955-09-04<br>7:00 PM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Wrigley&#39;s Spearmint Gum</td>\n<td><strong>Gene Autry &amp; Buttram</strong></td>\n<td><strong>Carl Cotner &amp; Cass County</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Music&quot;, &quot;Melody Ranch&quot;, &quot;Gene Autry&quot;, &quot;Wrigley&quot;]</code></td>\n<td>Gene Autry and comic sidekick Pat Buttram investigate an armed masked gang ambushing mountain pass gold bullion shipments.</td>\n</tr>\n<tr>\n<td><code>QuizKids_1940_Contest.mp3</code> <br><em>Alt</em>: <code>The Quiz Kids 1940 Episode</code></td>\n<td><strong>&quot;Child Prodigy Knowledge Contest with Joe Kelly&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1940-09-04<br>8:00 PM EDST</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer &amp; One-A-Day</td>\n<td><strong>Joe Kelly (Quizmaster)</strong></td>\n<td><strong>Gerard Darrow &amp; Cline</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Panel&quot;, &quot;Quiz Kids&quot;, &quot;Joe Kelly&quot;, &quot;Alka-Seltzer&quot;]</code></td>\n<td>Quizmaster Joe Kelly poses challenging listener-submitted questions in geography, zoology, and world history to a panel of gifted school children.</td>\n</tr>\n<tr>\n<td><code>QuizKids_1949_SchoolPanel.mp3</code> <br><em>Alt</em>: <code>The Quiz Kids 1949 Episode</code></td>\n<td><strong>&quot;Back to School Panel with Joe Kelly&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-09-04<br>3:30 PM EDT</td>\n<td><strong>Swift &amp; Company</strong><br>Swift&#39;s Peanut Butter</td>\n<td><strong>Joe Kelly (Quizmaster)</strong></td>\n<td><strong>Patrick Conlon &amp; Lunde</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Panel&quot;, &quot;Quiz Kids&quot;, &quot;Joe Kelly&quot;, &quot;Swift&quot;]</code></td>\n<td>Gifted child panelists tackle mathematical riddles, Shakespearean literature trivia, and scientific inquiries sent in by listeners.</td>\n</tr>\n<tr>\n<td><code>Puck_1949_SundayFunnies.mp3</code> <br><em>Alt</em>: <code>Comic Weekly Man 1949 Episode</code></td>\n<td><strong>&quot;Reading Sunday Funnies with Comic Weekly Man&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1949-09-04</td>\n<td><strong>Hearst / King Features</strong><br>Puck — The Comic Weekly</td>\n<td><strong>Comic Weekly Man</strong></td>\n<td><strong>WOR Audio Engineers</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Comics&quot;, &quot;Comic Weekly Man&quot;, &quot;Puck&quot;, &quot;Hearst&quot;]</code></td>\n<td>A dramatic character voice reading and lively sound-effect accompaniment bringing the Sunday newspaper color comic strips to life.</td>\n</tr>\n<tr>\n<td><code>WesternStars_1946_WaitWagon.mp3</code> <br><em>Alt</em>: <code>First Tune Wait Wait Wait For The Wagon The Western Stars</code></td>\n<td><strong>&quot;Wait for the Wagon with The Plainsmen&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1946-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>The Plainsmen Trio</strong></td>\n<td><strong>AFRS Music Producers</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Music&quot;, &quot;The Western Stars&quot;, &quot;The Plainsmen&quot;, &quot;AFRS&quot;]</code></td>\n<td>The Plainsmen perform rhythmic western harmony standards, acoustic fiddle breakdowns, and vocal campfire arrangements led by Wait for the Wagon.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 162 / 471 (245 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 740 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Blue Ribbon Town",
+        "Groucho Marx",
+        "Oscar Levant",
+        "Virginia O'Brien",
+        "Pabst Blue Ribbon",
+        "Gene Autry's Melody Ranch",
+        "Gene Autry",
+        "Pat Buttram",
+        "Wrigley's Spearmint",
+        "The Quiz Kids",
+        "Joe Kelly",
+        "Gerard Darrow",
+        "Miles Laboratories",
+        "Alka-Seltzer",
+        "Swift",
+        "Puck The Comic Weekly",
+        "King Features",
+        "The Western Stars",
+        "The Plainsmen",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-739-burns-and-allen-space-patrol-zachary-taylor-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-739-burns-and-allen-space-patrol-zachary-taylor-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Burns & Allen, Space Patrol & Zachary Taylor",
