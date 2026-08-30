@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-765-herbert-marshall-lassie-jack-carson-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-765-herbert-marshall-lassie-jack-carson-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Herbert Marshall, Lassie & Jack Carson",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 765)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Herbert Marshall &amp; Leon Belasco in global espionage missions on <em>The Man Called X</em> for Old Gold Cigarettes (1945) and Frigidaire (1947), Lassie&#39;s season premiere mountain rescue on <em>The Lassie Show</em> for Red Heart Dog Food, Jack Carson &amp; Margaret Whiting headlining <em>Just Entertainment</em>, courtroom justice on <em>The Public Prosecutor</em>, and simulated gridiron coverage on <em>Singles and Doubles</em>, Herbert Marshall (1945, 1947), Marvin Miller &amp; Lassie (1948), Jack Carson &amp; Margaret Whiting (1957), and CBS Sports (1937–1957):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 765)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ManCalledX_1945_Lisbon.mp3</code> <br><em>Alt</em>: <code>The Man Called X 1945 Episode</code></td>\n<td><strong>&quot;Espionage in Lisbon with Herbert Marshall&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1945-09-04<br>10:30 PM EWT</td>\n<td><strong>P. Lorillard Co.</strong><br>Old Gold Cigarettes</td>\n<td><strong>Herbert Marshall (Ken Thurston)</strong></td>\n<td><strong>Leon Belasco &amp; Merlin</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Adventure&quot;, &quot;The Man Called X&quot;, &quot;Herbert Marshall&quot;, &quot;Old Gold&quot;]</code></td>\n<td>Secret intelligence operative Ken Thurston travels undercover to neutral Lisbon to intercept a smuggled list of international black market saboteurs.</td>\n</tr>\n<tr>\n<td><code>ManCalledX_1947_TayhNinh.mp3</code> <br><em>Alt</em>: <code>The Throne Of Tayh Ninh The Man Called X</code></td>\n<td><strong>&quot;The Throne of Tayh Ninh with Herbert Marshall&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1947-09-04<br>10:30 PM EDT</td>\n<td><strong>General Motors</strong><br>Frigidaire Appliances</td>\n<td><strong>Herbert Marshall &amp; Belasco</strong></td>\n<td><strong>Milton Merlin (Writer)</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Adventure&quot;, &quot;The Man Called X&quot;, &quot;Herbert Marshall&quot;, &quot;Frigidaire&quot;]</code></td>\n<td>Ken Thurston journeys into the jungles of French Indochina to stop a ruthless syndicate from overthrowing a regional sovereign ruler.</td>\n</tr>\n<tr>\n<td><code>Lassie_1948_SeasonPremiere.mp3</code> <br><em>Alt</em>: <code>[NEW SEASON&#39;s PREMIERE] Lassie</code></td>\n<td><strong>&quot;Season Premiere (The Lost Sheep) with Marvin Miller&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1948-09-04<br>5:15 PM EDT</td>\n<td><strong>John Morrell &amp; Co.</strong><br>Red Heart Dog Food</td>\n<td><strong>Marvin Miller (Narrator)</strong></td>\n<td><strong>Rudd Weatherwax (Trainer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Family&quot;, &quot;Lassie&quot;, &quot;Marvin Miller&quot;, &quot;Red Heart&quot;]</code></td>\n<td>Lassie braves a fierce timber wolf pack and mountain thunderstorms to guide a lost flock of mountain sheep back to the ranch.</td>\n</tr>\n<tr>\n<td><code>JustEntertainment_1957_MusicalRevue.mp3</code> <br><em>Alt</em>: <code>Just Entertainment 1957 Episode</code></td>\n<td><strong>&quot;Autumn Musical Revue with Jack Carson and Margaret Whiting&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1957-09-04</td>\n<td><strong>Sustaining</strong><br>Musical Variety</td>\n<td><strong>Jack Carson &amp; Whiting</strong></td>\n<td><strong>Frank DeVol and His Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Just Entertainment&quot;, &quot;Jack Carson&quot;, &quot;Margaret Whiting&quot;]</code></td>\n<td>Jack Carson and singer Margaret Whiting team up for Hollywood comedy banter, lively Broadway showtunes, and orchestral melodies.</td>\n</tr>\n<tr>\n<td><code>PublicProsecutor_1955_AlvinMeek.mp3</code> <br><em>Alt</em>: <code>TCOT People vs Alvin Meek Public Prosecutor</code></td>\n<td><strong>&quot;The Case of the People vs. Alvin Meek with Mutual&quot;</strong></td>\n<td><strong>Mutual Radio</strong><br>1955-09-04</td>\n<td><strong>Sustaining</strong><br>Courtroom Drama</td>\n<td><strong>Dramatic Repertory Cast</strong></td>\n<td><strong>Mutual Production Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Legal&quot;, &quot;Public Prosecutor&quot;, &quot;Courtroom&quot;, &quot;Mutual&quot;]</code></td>\n<td>A dedicated prosecutor uncovers forged accounting ledgers to prove that a modest bookkeeper was framed for embezzlement by his corporate employer.</td>\n</tr>\n<tr>\n<td><code>SinglesDoubles_1937_FootballTest.mp3</code> <br><em>Alt</em>: <code>Football Test Audition Singles &amp; Doubles - Pt 2</code></td>\n<td><strong>&quot;College Football Test Audition with CBS Sports&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1937-09-04</td>\n<td><strong>Sustaining</strong><br>Sports Audition</td>\n<td><strong>CBS Sports Announcers</strong></td>\n<td><strong>CBS Sound Engineers</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Audition&quot;, &quot;Singles and Doubles&quot;, &quot;CBS Sports&quot;, &quot;Football&quot;]</code></td>\n<td>A test audition broadcast demonstrating simulated gridiron play-by-play coverage and stadium crowd sound effects ahead of the autumn college football season.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 312 / 471 (95 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 765 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Man Called X",
+        "Herbert Marshall",
+        "Leon Belasco",
+        "Old Gold Cigarettes",
+        "Frigidaire",
+        "The Lassie Show",
+        "Marvin Miller",
+        "Red Heart Dog Food",
+        "John Morrell",
+        "Just Entertainment",
+        "Jack Carson",
+        "Margaret Whiting",
+        "Frank DeVol",
+        "CBS Radio",
+        "The Public Prosecutor",
+        "Courtroom Drama",
+        "Mutual",
+        "Singles and Doubles",
+        "CBS Sports",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-764-ezio-pinza-fear-on-four-frantics-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-764-ezio-pinza-fear-on-four-frantics-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Ezio Pinza, Fear on Four & The Frantics",
