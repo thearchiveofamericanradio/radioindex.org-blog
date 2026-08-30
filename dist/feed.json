@@ -6,6 +6,85 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-684-marlene-dietrich-sammy-kaye-hal-kemp-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-684-marlene-dietrich-sammy-kaye-hal-kemp-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Marlene Dietrich, Sammy Kaye & Hal Kemp",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 684)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across glamorous international espionage romances, sweet dance band showroom broadcasts, intricate collegiate swing jazz remotes, surreal BBC radio sketch satires, human-interest magazine anthologies, and British crime procedurals, Marlene Dietrich in <em>Time for Love</em> for Jergens (1953), Sammy Kaye for Rayve (1944), Hal Kemp on <em>Chesterfield Time</em> (1937), <em>The Burkiss Way</em> (1976), Conrad Nagel on <em>Radio Reader&#39;s Digest</em> (1944), and <em>Retribution</em> (1937–1976):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 684)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TimeForLove_1953_GoodbyeMike.mp3</code> <br><em>Alt</em>: <code>Goodbye Mike Time For Love</code></td>\n<td><strong>&quot;Goodbye, Mike with Marlene Dietrich and Jergens&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1953-09-03<br>9:00 PM EDT</td>\n<td><strong>Andrew Jergens Co.</strong><br>Jergens Lotion &amp; Woodbury</td>\n<td><strong>Marlene Dietrich (Mike)</strong></td>\n<td><strong>Robert Readick &amp; Kinoy</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Adventure&quot;, &quot;Time For Love&quot;, &quot;Marlene Dietrich&quot;, &quot;Jergens&quot;]</code></td>\n<td>International magazine photojournalist Mike Frost travels to Tangier to help an old lover escape a deadly Mediterranean smuggling ring.</td>\n</tr>\n<tr>\n<td><code>SammyKaye_1944_ShowroomDancing.mp3</code> <br><em>Alt</em>: <code>Swing And Sway 1st Song - Dancing In The Dark Sammy Kaye&#39;s Showroom</code></td>\n<td><strong>&quot;Dancing in the Dark with Sammy Kaye and Rayve Shampoo&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1944-09-03<br>1:30 PM EWT</td>\n<td><strong>William R. Warner</strong><br>Rayve Creme Shampoo</td>\n<td><strong>Sammy Kaye &amp; Orch.</strong></td>\n<td><strong>Nancy Norman &amp; Ryan</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Sammy Kaye&quot;, &quot;Showroom&quot;, &quot;Rayve&quot;]</code></td>\n<td>Sammy Kaye leads his swing orchestra in romantic dance melodies and sentimental verse readings featuring Dancing in the Dark.</td>\n</tr>\n<tr>\n<td><code>Chesterfield_1937_GoodbyeJonah.mp3</code> <br><em>Alt</em>: <code>Goodbye Jonah Chesterfield Time</code></td>\n<td><strong>&quot;Goodbye Jonah with Hal Kemp and Chesterfield&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1937-09-03<br>8:30 PM EDST</td>\n<td><strong>Liggett &amp; Myers</strong><br>Chesterfield Cigarettes</td>\n<td><strong>Hal Kemp &amp; Orchestra</strong></td>\n<td><strong>Skinny Ennis &amp; Smoothies</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Chesterfield Time&quot;, &quot;Hal Kemp&quot;, &quot;Chesterfield&quot;]</code></td>\n<td>Hal Kemp leads his orchestra in intricate staccato dance tempos and collegiate jazz rhythms featuring Goodbye Jonah.</td>\n</tr>\n<tr>\n<td><code>BurkissWay_1976_PassExams.mp3</code> <br><em>Alt</em>: <code>Pass Examinations the Burkiss Way Burkiss Way, The</code></td>\n<td><strong>&quot;Pass Examinations the Burkiss Way with David Renwick&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1976-09-03</td>\n<td><strong>Sustaining</strong><br>Sketch Satire</td>\n<td><strong>Jo Kendall &amp; Nigel Rees</strong></td>\n<td><strong>David Renwick &amp; Marshall</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;The Burkiss Way&quot;, &quot;BBC Radio 4&quot;, &quot;David Renwick&quot;]</code></td>\n<td>A surreal sketch comedy satire parodying educational self-improvement courses and absurd academic exam preparation methods.</td>\n</tr>\n<tr>\n<td><code>ReadersDigest_1944_PrisonHotMagic.mp3</code> <br><em>Alt</em>: <code>When a Man Leaves Prison-Hot Magic Radio Readers Digest</code></td>\n<td><strong>&quot;When a Man Leaves Prison and Hot Magic with Conrad Nagel&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-03<br>9:00 PM EWT</td>\n<td><strong>Campbell Soup Co.</strong><br>Campbell&#39;s Soups</td>\n<td><strong>Conrad Nagel (Host)</strong></td>\n<td><strong>Radio Repertory Cast</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Radio Readers Digest&quot;, &quot;Conrad Nagel&quot;, &quot;Campbell&quot;]</code></td>\n<td>Dramatic human-interest stories dramatize a paroled convict&#39;s struggle to secure honest factory work and a stage illusionist&#39;s backstage secrets.</td>\n</tr>\n<tr>\n<td><code>Retribution_1946_IronAlibi.mp3</code> <br><em>Alt</em>: <code>Retribution 1946 Episode</code></td>\n<td><strong>&quot;The Iron Alibi with BBC Drama Cast&quot;</strong></td>\n<td><strong>BBC / 3DB Relay</strong><br>1946-09-03</td>\n<td><strong>Sustaining</strong><br>Crime Docudrama</td>\n<td><strong>BBC Drama Repertory</strong></td>\n<td><strong>BBC Production Staff</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Drama&quot;, &quot;Retribution&quot;, &quot;BBC&quot;, &quot;Mystery&quot;]</code></td>\n<td>A calculating jewel thief orchestrates an elaborate forged timetable alibi only to be betrayed by a stopped grandfather clock.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 295 / 469 (174 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 684 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Time for Love",
+        "Marlene Dietrich",
+        "Robert Readick",
+        "Ernest Kinoy",
+        "Andrew Jergens",
+        "Sammy Kaye's Showroom",
+        "Rayve Shampoo",
+        "Chesterfield Time",
+        "Hal Kemp",
+        "Skinny Ennis",
+        "Chesterfield Cigarettes",
+        "The Burkiss Way",
+        "David Renwick",
+        "Andrew Marshall",
+        "BBC Radio 4",
+        "Radio Reader's Digest",
+        "Conrad Nagel",
+        "Campbell Soup",
+        "Retribution",
+        "BBC",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-683-blondie-kenny-baker-al-pearce-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-683-blondie-kenny-baker-al-pearce-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Blondie, Kenny Baker & Al Pearce",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 683)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across beloved comic strip domestic comedies, low-pressure door-to-door sales humor, lavish Hollywood musical premieres, gripping English Channel maritime salvage romances, religious moral dramas, and classic daytime soap operas, Penny Singleton and Arthur Lake in <em>Blondie</em> for Super Suds (1944), Al Pearce (1934), Kenny Baker on <em>Hollywood Hotel</em> (1937), Frank Lovejoy in <em>Romance</em> (1955), <em>Heartbeat Theatre</em> (1961), and <em>Betty and Bob</em> (1934–1961):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 683)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Blondie_1944_VotesStock.mp3</code> <br><em>Alt</em>: <code>Blondie Votes Her Stock Blondie</code></td>\n<td><strong>&quot;Blondie Votes Her Stock with Penny Singleton and Arthur Lake&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1944-09-03<br>8:00 PM EWT</td>\n<td><strong>Colgate-Palmolive</strong><br>Super Suds Detergent</td>\n<td><strong>Penny Singleton</strong>, <strong>Lake</strong></td>\n<td><strong>Hanley Stafford (Dithers)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Blondie&quot;, &quot;Penny Singleton&quot;, &quot;Arthur Lake&quot;]</code></td>\n<td>Blondie unexpectedly inherits proxy voting shares in the J.C. Dithers Construction Company, upsetting Dagwood&#39;s office status.</td>\n</tr>\n<tr>\n<td><code>AlPearce_1934_ElmerBlurt.mp3</code> <br><em>Alt</em>: <code>Episode Al Pearce and His Gang</code></td>\n<td><strong>&quot;Elmer Blurt Door-to-Door Sales with Al Pearce&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1934-09-03<br>8:00 PM EDST</td>\n<td><strong>The Pepsodent Co.</strong><br>Pepsodent Toothpaste</td>\n<td><strong>Al Pearce (Elmer Blurt)</strong></td>\n<td><strong>Arlene Harris &amp; Amsterdam</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Al Pearce&quot;, &quot;Elmer Blurt&quot;, &quot;Pepsodent&quot;]</code></td>\n<td>Low-pressure salesman Elmer Blurt attempts to sell vacuum cleaners while timidly hoping nobody answers the door.</td>\n</tr>\n<tr>\n<td><code>HollywoodHotel_1937_MrDodd.mp3</code> <br><em>Alt</em>: <code>Mr. Dodd Takes the Air Hollywood Hotel</code></td>\n<td><strong>&quot;Mr. Dodd Takes the Air with Kenny Baker and Alice Faye&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1937-09-03<br>9:00 PM EDST</td>\n<td><strong>Campbell Soup Co.</strong><br>Campbell&#39;s Soups</td>\n<td><strong>Kenny Baker</strong>, <strong>Faye</strong></td>\n<td><strong>Raymond Paige &amp; Orch.</strong></td>\n<td><code>[&quot;Musical&quot;, &quot;Comedy&quot;, &quot;Hollywood Hotel&quot;, &quot;Kenny Baker&quot;, &quot;Campbell&quot;]</code></td>\n<td>A naive country singer from Indiana travels to New York to record radio commercials and becomes an unexpected national opera sensation.</td>\n</tr>\n<tr>\n<td><code>Romance_1955_MaddonsFolly.mp3</code> <br><em>Alt</em>: <code>Maddon&#39;s Folly Romance</code></td>\n<td><strong>&quot;Maddon&#39;s Folly by Hammond Innes with Frank Lovejoy&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1955-09-03<br>9:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Adventure Romance</td>\n<td><strong>Frank Lovejoy (Lead)</strong></td>\n<td><strong>Hammond Innes &amp; Ellis</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Adventure&quot;, &quot;Frank Lovejoy&quot;, &quot;CBS&quot;]</code></td>\n<td>A disgraced maritime captain attempts to salvage a stranded cargo freighter in the English Channel while falling in love with the owner&#39;s daughter.</td>\n</tr>\n<tr>\n<td><code>Heartbeat_1961_TheImage.mp3</code> <br><em>Alt</em>: <code>The Image Heartbeat Theatre</code></td>\n<td><strong>&quot;The Image with The Salvation Army&quot;</strong></td>\n<td><strong>Syndication</strong><br>1961-09-03</td>\n<td><strong>Salvation Army</strong><br>Religious Broadcast</td>\n<td><strong>Don MacLaughlin (Lead)</strong></td>\n<td><strong>Salvation Army Producers</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Religious&quot;, &quot;Heartbeat Theatre&quot;, &quot;Salvation Army&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A self-absorbed commercial advertising executive confronts an ethical awakening after meeting an unselfish street mission worker.</td>\n</tr>\n<tr>\n<td><code>BettyBob_1947_InheritanceLetter.mp3</code> <br><em>Alt</em>: <code>Betty and Bob 1947 Episode</code></td>\n<td><strong>&quot;The Mysterious Inheritance Letter with Alice Hill&quot;</strong></td>\n<td><strong>Syndication</strong><br>1947-09-03</td>\n<td><strong>General Mills</strong><br>Gold Medal Flour &amp; Wheaties</td>\n<td><strong>Alice Hill (Betty)</strong></td>\n<td><strong>Frank &amp; Anne Hummert</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Betty And Bob&quot;, &quot;Alice Hill&quot;, &quot;General Mills&quot;]</code></td>\n<td>Betty Drake receives an anonymous legal document revealing an unsettled family trust fund that threatens Bob&#39;s business partnership.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 289 / 469 (180 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 683 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Blondie",
+        "Penny Singleton",
+        "Arthur Lake",
+        "Hanley Stafford",
+        "Colgate-Palmolive",
+        "Super Suds",
+        "Al Pearce and His Gang",
+        "Elmer Blurt",
+        "Pepsodent",
+        "Hollywood Hotel",
+        "Kenny Baker",
+        "Alice Faye",
+        "Campbell Soup",
+        "Romance",
+        "Frank Lovejoy",
+        "Hammond Innes",
+        "Heartbeat Theatre",
+        "Salvation Army",
+        "Betty and Bob",
+        "Alice Hill",
+        "General Mills",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-682-peg-lynch-front-page-drama-fanny-brice-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-682-peg-lynch-front-page-drama-fanny-brice-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Peg Lynch, Front Page Drama & Fanny Brice",
