@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Yankees vs Tigers, Lovecraft & Red Foley
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, Major League Baseball, New York Yankees, Detroit Tigers, Mel Allen, Red Barber, Ballantine Beer, Serial Story Arc, Tigers vs Yankees Penant Series, Mindwebs, HP Lovecraft, Michael Hanson, The Tide Show, Red Foley, Jack Smith, Dinah Shore, Tide Detergent, You Can't Take It with You, Fred Stone, Moss Hart, Myrt and Marge, Myrtle Vail, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 679)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on **September 3** across live historic pennant-race baseball play-by-play (the 1961 Yankees sweeping the Tigers in the 9th inning), cosmic Lovecraftian science fiction adaptations, popular weekday musical variety, Pulitzer Prize-winning stage comedies, and vaudeville backstage serials, Mel Allen and Red Barber at Yankee Stadium (1961), H.P. Lovecraft on *Mindwebs* (1976), Red Foley, Jack Smith, and Dinah Shore for Tide (1945, 1951), Fred Stone in *You Can't Take It with You* (1944), and *Myrt and Marge* (1944–1976):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 679)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Arc Metadata | Story Synopsis |
+|---|---|---|---|---|---|---|---|---|
+| `Yankees_1961_TigersPart3.mp3` <br>*Alt*: `Tigers At Yankees Part 3 Baseball Games` | **"Detroit Tigers at New York Yankees (Part 3) with Mel Allen"** | **WPIX / Ballantine**<br>1961-09-03 | **P. Ballantine & Sons**<br>Ballantine Beer & Camels | **Mel Allen**, **Red Barber** | **Phil Rizzuto (Ann.)** | `["Sports", "Baseball", "Yankees", "Mel Allen", "Red Barber"]` | `{"title": "Tigers vs Yankees Penant Series", "part": 3, "total_parts": 3}` | Mel Allen and Red Barber call the dramatic 9th inning conclusion as the 1961 Yankees sweep the Tigers at Yankee Stadium during the historic Maris-Mantle home run chase. |
+| `Mindwebs_1976_BeyondWallSleep.mp3` <br>*Alt*: `Beyond The Wall Of Sleep Mindwebs` | **"Beyond the Wall of Sleep by H.P. Lovecraft with Michael Hanson"** | **WHA Madison / NPR**<br>1976-09-03 | **Sustaining**<br>Sci-Fi Anthology | **Michael Hanson (Host)** | **H.P. Lovecraft (Author)** | `["Sci-Fi", "Horror", "Mindwebs", "HP Lovecraft", "Michael Hanson"]` | `null` | A psychiatric intern at a state asylum establishes telepathic contact with a cosmic entity trapped inside a catatonic laborer's mind. |
+| `TideShow_1945_RedFoley.mp3` <br>*Alt*: `Episode Tide Show` | **"Labor Day Musical Celebration with Red Foley and Tide"** | **CBS (WABC)**<br>1945-09-03<br>7:15 PM EWT | **Procter & Gamble**<br>Tide Detergent | **Red Foley (Host)** | **The Sunshine Boys** | `["Music", "Country", "Tide Show", "Red Foley", "Tide"]` | `null` | Red Foley and musical guests perform country and western standards celebrating the national Labor Day holiday on V-J Day. |
+| `TideShow_1951_PeachOfPear.mp3` <br>*Alt*: `We'd Make a Peach of a Pear Tide Show` | **"We'd Make a Peach of a Pair with Jack Smith and Dinah Shore"** | **CBS (WCBS)**<br>1951-09-03<br>7:15 PM EDT | **Procter & Gamble**<br>Tide & Prell Shampoo | **Jack Smith**, **Shore** | **Frank DeVol & Orch.** | `["Music", "Pop", "Tide Show", "Jack Smith", "Dinah Shore"]` | `null` | Jack Smith and guest Dinah Shore harmonize on classic pop duets featuring We'd Make a Peach of a Pair. |
+| `YouCantTakeIt_1944_TaxAudit.mp3` <br>*Alt*: `You Cant Take It With You 1944 Episode` | **"Grandpa Vanderhof's Tax Audit with Fred Stone"** | **Blue Network**<br>1944-09-03<br>5:00 PM EWT | **Sustaining**<br>Stage Comedy | **Fred Stone (Grandpa)** | **Kaufman & Hart** | `["Comedy", "Sitcom", "You Cant Take It With You", "Fred Stone", "Moss Hart"]` | `null` | Grandpa Vanderhof merrily baffles a federal internal revenue agent sent to collect twenty-four years of back income taxes. |
+| `MyrtMarge_1946_TelegramSanfield.mp3` <br>*Alt*: `Jack Sends Telegram to Duke Sanfield Myrt and Marge` | **"Jack Sends Telegram to Duke Sanfield with Myrtle Vail"** | **Syndication**<br>1946-09-03 | **Sustaining**<br>Vaudeville Serial | **Myrtle Vail (Myrt)** | **Donna Damerel & Hedge** | `["Drama", "Soap Opera", "Myrt And Marge", "Myrtle Vail", "Vaudeville"]` | `null` | Jack dispatches an urgent coded telegram to theater producer Duke Sanfield warning him of rival promoters attempting to steal their chorus line stars. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 265 / 469 (204 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
