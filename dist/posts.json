@@ -6,6 +6,47 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-757-peter-lorre-rudy-vallee-perry-mason-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-757-peter-lorre-rudy-vallee-perry-mason-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Peter Lorre, Rudy Vallee & Perry Mason",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 757)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Peter Lorre&#39;s chilling portrayal of an obsessed mad sculptor in <em>The Mask of Medusa</em> on <em>Mystery in the Air</em> for Camel Cigarettes, Edna May Oliver and John Barrymore joining Rudy Vallee on <em>The Rudy Vallee Show</em> for Sealtest, John Larkin defending an embattled heir on <em>Perry Mason</em> for Tide Detergent, Vincent Price on <em>The Saint</em>, Dan Seymour on <em>Sing It Again</em>, and Curt Massey on <em>Just for You</em>, Peter Lorre (1947), Edna May Oliver &amp; Rudy Vallee (1941), John Larkin (1951), and Vincent Price (1941–1951):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 757)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>MysteryAir_1947_MaskMedusa.mp3</code> <br><em>Alt</em>: <code>The Mask Of Medusa Mystery in the Air</code></td>\n<td><strong>&quot;The Mask of Medusa with Peter Lorre&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-09-04<br>10:00 PM EDT</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Peter Lorre (Star)</strong></td>\n<td><strong>Peggy Webber &amp; MacGregor</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Thriller&quot;, &quot;Mystery in the Air&quot;, &quot;Peter Lorre&quot;, &quot;Camel&quot;]</code></td>\n<td>An obsessed sculptor driven by jealous madness schemes to murder his unfaithful lover and preserve her likeness forever in solid plaster.</td>\n</tr>\n<tr>\n<td><code>RudyVallee_1941_EdnaMayOliver.mp3</code> <br><em>Alt</em>: <code>Guest Edna May Oliver Rudy Vallee Varieties</code></td>\n<td><strong>&quot;Guest Edna May Oliver with Rudy Vallee and John Barrymore&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1941-09-04<br>10:00 PM EDST</td>\n<td><strong>Sealtest, Inc.</strong><br>Sealtest Ice Cream</td>\n<td><strong>Rudy Vallee &amp; Barrymore</strong></td>\n<td><strong>Edna May Oliver &amp; Cugat</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Comedy&quot;, &quot;Rudy Vallee&quot;, &quot;Edna May Oliver&quot;, &quot;Sealtest&quot;]</code></td>\n<td>Character actress Edna May Oliver joins Rudy Vallee and John Barrymore for comedic theatrical banter, parodies, and Latin rhumba rhythms.</td>\n</tr>\n<tr>\n<td><code>PerryMason_1951_AnxiousHeir.mp3</code> <br><em>Alt</em>: <code>Perry Mason 1951 Episode</code></td>\n<td><strong>&quot;The Case of the Anxious Heir with John Larkin&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-09-04<br>2:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide Detergent</td>\n<td><strong>John Larkin (Mason)</strong></td>\n<td><strong>Joan Alexander &amp; Gardner</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Legal&quot;, &quot;Perry Mason&quot;, &quot;John Larkin&quot;, &quot;Erle Stanley Gardner&quot;]</code></td>\n<td>Defense attorney Perry Mason cross-examines a suspicious estate executor trying to disinherit the rightful beneficiary of a family fortune.</td>\n</tr>\n<tr>\n<td><code>Saint_1949_DeathFighterAFRS.mp3</code> <br><em>Alt</em>: <code>Death of a Fighter The Saint</code></td>\n<td><strong>&quot;Death of a Fighter (AFRS Master) with Vincent Price&quot;</strong></td>\n<td><strong>Mutual / AFRS</strong><br>1949-09-04</td>\n<td><strong>Ford Dealers / AFRS</strong><br>Troop Entertainment</td>\n<td><strong>Vincent Price (The Saint)</strong></td>\n<td><strong>Leslie Charteris (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Saint&quot;, &quot;Vincent Price&quot;, &quot;Leslie Charteris&quot;]</code></td>\n<td>Simon Templar investigates the fatal poisoning of a young contender in his dressing room following a championship boxing bout.</td>\n</tr>\n<tr>\n<td><code>SingItAgain_1948_PhantomVoice.mp3</code> <br><em>Alt</em>: <code>Sing It Again 1948 Episode</code></td>\n<td><strong>&quot;The Phantom Voice Mystery Melody with Dan Seymour&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-09-04<br>8:00 PM EDT</td>\n<td><strong>Carter Products</strong><br>Arrid Deodorant</td>\n<td><strong>Dan Seymour &amp; Dale</strong></td>\n<td><strong>Patti Clayton &amp; Bloch</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Music&quot;, &quot;Sing It Again&quot;, &quot;Dan Seymour&quot;, &quot;Ray Bloch&quot;]</code></td>\n<td>Contestants answer musical riddles over the telephone to identify the identity of the Phantom Voice singing cryptic lyric clues.</td>\n</tr>\n<tr>\n<td><code>JustForYou_1944_HadToBeYou.mp3</code> <br><em>Alt</em>: <code>It had to be you Just For You</code></td>\n<td><strong>&quot;It Had to Be You with Curt Massey&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1944-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>Curt Massey (Baritone)</strong></td>\n<td><strong>AFRS Music Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Just For You&quot;, &quot;Curt Massey&quot;, &quot;AFRS&quot;]</code></td>\n<td>Curt Massey sings lyrical baritone renditions of It Had to Be You and popular wartime sentimental love ballads.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 264 / 471 (143 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 757 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Mystery in the Air",
+        "Peter Lorre",
+        "Camel Cigarettes",
+        "The Rudy Vallee Show",
+        "Edna May Oliver",
+        "John Barrymore",
+        "Xavier Cugat",
+        "Sealtest",
+        "Perry Mason",
+        "John Larkin",
+        "Erle Stanley Gardner",
+        "Tide Detergent",
+        "Procter and Gamble",
+        "The Saint",
+        "Vincent Price",
+        "Leslie Charteris",
+        "AFRS",
+        "Sing It Again",
+        "Dan Seymour",
+        "Ray Bloch",
+        "Just for You",
+        "Curt Massey",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-756-family-theater-magic-key-henry-wickham-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-756-family-theater-magic-key-henry-wickham-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Family Theater, The Magic Key & Sir Henry Wickham",
