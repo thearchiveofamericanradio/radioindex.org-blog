@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-552-clara-barton-judy-canova-calling-all-cars-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-552-clara-barton-judy-canova-calling-all-cars-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Clara Barton, Judy Canova, and Calling All Cars",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 552)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across biographical scientific histories, inspirational family dramas, country variety hours, literary radio adaptations, and authentic Los Angeles police radio dispatches, Clara Barton&#39;s life on <em>Adventures in Research</em> for Westinghouse (1953), Gene Lockhart in <em>Family Theater</em> (1954), Judy Canova and Mel Blanc in <em>Rancho Canova</em> (1945), Bret Morrison in <em>Author&#39;s Playhouse</em> (1943, 1944), and LAPD Dispatcher Jesse Rosenquist in <em>Calling All Cars</em> (1939–1954):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 552)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Research_1953_ClaraBarton.mp3</code> <br><em>Alt</em>: <code>Life In Her Hands Adventures In Research</code></td>\n<td><strong>&quot;Life in Her Hands (The Story of Clara Barton) with Paul Shannon and Westinghouse&quot;</strong></td>\n<td><strong>Syndication (KDKA)</strong><br>1953-09-01</td>\n<td><strong>Westinghouse Corp.</strong><br>Institutional Science</td>\n<td><strong>Paul Shannon (Host)</strong></td>\n<td><strong>Dr. Phillips Thomas</strong></td>\n<td><code>[&quot;Science&quot;, &quot;History&quot;, &quot;Biography&quot;, &quot;Adventures In Research&quot;, &quot;Westinghouse&quot;]</code></td>\n<td>A biographical drama depicts Clara Barton organizing battlefield medical relief and founding the American Red Cross.</td>\n</tr>\n<tr>\n<td><code>Family_Theat_1954_Stopwatch.mp3</code> <br><em>Alt</em>: <code>Stopwatch Finale Family Theater</code></td>\n<td><strong>&quot;Stopwatch Finale with Gene Lockhart and Father Patrick Peyton&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1954-09-01<br>9:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Family Drama</td>\n<td><strong>Gene Lockhart (Host)</strong></td>\n<td><strong>Father Patrick Peyton</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Inspirational&quot;, &quot;Family Theater&quot;, &quot;Gene Lockhart&quot;, &quot;Mutual&quot;]</code></td>\n<td>An aging track coach inspires an unruly high school sprinter to overcome self-doubt before the state championship meet.</td>\n</tr>\n<tr>\n<td><code>Canova_1945_BackFromFarm.mp3</code> <br><em>Alt</em>: <code>Judy Comes Back from the Farm Rancho Canova</code></td>\n<td><strong>&quot;Judy Comes Back from the Farm with Judy Canova and Colgate&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-09-01<br>8:00 PM EWT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Dental Cream</td>\n<td><strong>Judy Canova</strong>, <strong>Blanc</strong></td>\n<td><strong>Gordon Jenkins Orch.</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Judy Canova&quot;, &quot;Mel Blanc&quot;, &quot;Colgate&quot;]</code></td>\n<td>Judy Canova returns to Hollywood from her rural family farm loaded down with homemade preserves and eccentric country kin.</td>\n</tr>\n<tr>\n<td><code>Authors_1943_Chicago.mp3</code> <br><em>Alt</em>: <code>Englishman Looks at Chicago, An</code></td>\n<td><strong>&quot;An Englishman Looks at Chicago with Dramatic Cast&quot;</strong></td>\n<td><strong>NBC (WMAQ)</strong><br>1943-09-01<br>11:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Literary Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>W.L. George (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Literary&quot;, &quot;Authors Playhouse&quot;, &quot;Chicago&quot;, &quot;NBC&quot;]</code></td>\n<td>A visiting British traveler explores the bustling stockyards, architecture, and cultural vitality of mid-century Chicago.</td>\n</tr>\n<tr>\n<td><code>Authors_1944_GreatBell.mp3</code> <br><em>Alt</em>: <code>The Soul Of The Great Bell Authors Playhouse</code></td>\n<td><strong>&quot;Lafcadio Hearn&#39;s The Soul of the Great Bell with Bret Morrison&quot;</strong></td>\n<td><strong>NBC (WMAQ)</strong><br>1944-09-01<br>11:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Literary Anthology</td>\n<td><strong>Bret Morrison (Narrator)</strong></td>\n<td><strong>Lafcadio Hearn (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Literary&quot;, &quot;Authors Playhouse&quot;, &quot;Bret Morrison&quot;, &quot;Lafcadio Hearn&quot;]</code></td>\n<td>A Chinese maiden sacrifices herself in a molten bronze casting furnace to ensure the sound of the emperor&#39;s great temple bell.</td>\n</tr>\n<tr>\n<td><code>Calling_Cars_1939_SixKind.mp3</code> <br><em>Alt</em>: <code>Six of a Kind Calling All Cars</code></td>\n<td><strong>&quot;Six of a Kind with LAPD Dispatcher Jesse Rosenquist and Rio Grande Oil&quot;</strong></td>\n<td><strong>CBS Pacific (KNX)</strong><br>1939-09-01<br>8:00 PM PST</td>\n<td><strong>Rio Grande Oil Co.</strong><br>Cracked Gasoline</td>\n<td><strong>Jesse Rosenquist (LAPD)</strong></td>\n<td><strong>Dramatic Police Cast</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Docudrama&quot;, &quot;Calling All Cars&quot;, &quot;Rio Grande&quot;]</code></td>\n<td>Los Angeles motorcycle officers track down a heavily armed gang of six bandits conducting serial robberies across southern California.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 234 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 552 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Adventures in Research",
+        "Clara Barton",
+        "American Red Cross",
+        "Westinghouse",
+        "Paul Shannon",
+        "Family Theater",
+        "Gene Lockhart",
+        "Father Patrick Peyton",
+        "Rancho Canova",
+        "Judy Canova",
+        "Mel Blanc",
+        "Colgate",
+        "Author's Playhouse",
+        "Lafcadio Hearn",
+        "Bret Morrison",
+        "Calling All Cars",
+        "LAPD",
+        "Jesse Rosenquist",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-551-grand-ole-opry-mr-chameleon-harry-nile-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-551-grand-ole-opry-mr-chameleon-harry-nile-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Grand Ole Opry, Mr. Chameleon, and Harry Nile",
