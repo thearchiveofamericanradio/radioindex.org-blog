@@ -6,6 +6,38 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-608-cisco-kid-bill-lance-claudia-and-david-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-608-cisco-kid-bill-lance-claudia-and-david-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — The Cisco Kid, Bill Lance & Claudia and David",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 608)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across western adventure serials, hardboiled detective mysteries, domestic situational comedies, and juvenile circus serials, Jack Mather and Harry Lang in three classic episodes of <em>The Cisco Kid</em> (1952, 1954, 1958), Gerald Mohr as <em>Bill Lance</em> on CBS (1945), Patricia Ryan and Richard Kollmar in <em>Claudia and David</em> (1948), and <em>Jerry of the Circus</em> (1937–1958):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 608)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Lance_1945_MurderingBrute.mp3</code> <br><em>Alt</em>: <code>The Murdering Brute Bill Lance</code></td>\n<td><strong>&quot;The Murdering Brute with Gerald Mohr as Bill Lance&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1945-09-02<br>9:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Hardboiled Detective</td>\n<td><strong>Gerald Mohr (Lance)</strong></td>\n<td><strong>Howard McNear &amp; Wilson</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Bill Lance&quot;, &quot;Gerald Mohr&quot;, &quot;CBS&quot;]</code></td>\n<td>Globe-trotting private investigator Bill Lance tracks an escaped carnival strongman accused of strangling a wealthy waterfront pawnbroker.</td>\n</tr>\n<tr>\n<td><code>Cisco_1952_Rustlers.mp3</code> <br><em>Alt</em>: <code>The Cisco Kid 1952 Episode</code></td>\n<td><strong>&quot;Border Cattle Rustlers with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Ziv Syndication</strong><br>1952-09-02</td>\n<td><strong>Sustaining</strong><br>Western Adventure</td>\n<td><strong>Jack Mather (Cisco)</strong></td>\n<td><strong>Harry Lang (Pancho)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Cisco Kid&quot;, &quot;Jack Mather&quot;, &quot;Harry Lang&quot;]</code></td>\n<td>Cisco and Pancho foil an organized band of night riders altering branding marks to drive stolen herds across the Rio Grande.</td>\n</tr>\n<tr>\n<td><code>Cisco_1954_BullWhacker.mp3</code> <br><em>Alt</em>: <code>Bull Whacker The Cisco Kid</code></td>\n<td><strong>&quot;Bull Whacker with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Ziv Syndication</strong><br>1954-09-02</td>\n<td><strong>Sustaining</strong><br>Western Adventure</td>\n<td><strong>Jack Mather (Cisco)</strong></td>\n<td><strong>Harry Lang (Pancho)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Cisco Kid&quot;, &quot;Jack Mather&quot;, &quot;Harry Lang&quot;]</code></td>\n<td>Cisco defends a veteran freight wagon bullwhacker targeted by rival transport operators attempting to sabotage mountain deliveries.</td>\n</tr>\n<tr>\n<td><code>Cisco_1958_HoldupPass.mp3</code> <br><em>Alt</em>: <code>642 Holdup at the Pass The Cisco Kid</code></td>\n<td><strong>&quot;Holdup at the Pass with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Ziv Syndication</strong><br>1958-09-02</td>\n<td><strong>Sustaining</strong><br>Western Adventure</td>\n<td><strong>Jack Mather (Cisco)</strong></td>\n<td><strong>Harry Lang (Pancho)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Cisco Kid&quot;, &quot;Jack Mather&quot;, &quot;Harry Lang&quot;]</code></td>\n<td>Cisco and Pancho set an ambush in a narrow mountain canyon to capture stagecoach bandits preying on gold shipments.</td>\n</tr>\n<tr>\n<td><code>Jerry_1937_RescuesSplendor.mp3</code> <br><em>Alt</em>: <code>Jerry Rescues Splendor Jerry of the Circus</code></td>\n<td><strong>&quot;Jerry Rescues Splendor with Dramatic Juvenile Cast&quot;</strong></td>\n<td><strong>Syndication</strong><br>1937-09-02</td>\n<td><strong>Sustaining</strong><br>Juvenile Adventure</td>\n<td><strong>Juvenile Voice Cast</strong></td>\n<td><strong>Syndicated Circus Staff</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Adventure&quot;, &quot;Circus&quot;, &quot;Jerry Of The Circus&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Circus boy Jerry braves a brush fire near the menagerie tents to guide prize performing horse Splendor to safety.</td>\n</tr>\n<tr>\n<td><code>Claudia_1948_FurniturePart.mp3</code> <br><em>Alt</em>: <code>Furniture Gets A Part Claudia and David</code></td>\n<td><strong>&quot;Furniture Gets a Part with Patricia Ryan and Richard Kollmar&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-09-02<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Domestic Comedy</td>\n<td><strong>Patricia Ryan</strong>, <strong>Kollmar</strong></td>\n<td><strong>Rose Franken (Author)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Domestic&quot;, &quot;Claudia And David&quot;, &quot;CBS&quot;]</code></td>\n<td>Claudia impulsively lends their living room sofa to an amateur theater production, leaving David stranded without evening seating.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 260 / 480 (220 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 608 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Cisco Kid",
+        "Jack Mather",
+        "Harry Lang",
+        "Ziv Syndication",
+        "The Adventures of Bill Lance",
+        "Gerald Mohr",
+        "Howard McNear",
+        "CBS",
+        "Claudia and David",
+        "Patricia Ryan",
+        "Richard Kollmar",
+        "Rose Franken",
+        "Jerry of the Circus",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-607-jane-wyman-dick-tracy-tennessee-jed-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-607-jane-wyman-dick-tracy-tennessee-jed-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Jane Wyman, Dick Tracy & Tennessee Jed",
