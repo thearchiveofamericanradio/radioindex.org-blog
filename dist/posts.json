@@ -6,6 +6,93 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-743-jack-webb-jean-arthur-whistler-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-743-jack-webb-jean-arthur-whistler-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Jack Webb, Jean Arthur & The Whistler",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 743)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Jack Webb starring as hardboiled private eye Jeff Regan in <em>The House by the Sea</em>, Jean Arthur and Fred MacMurray in Somerset Maugham&#39;s matrimonial farce <em>Too Many Husbands</em> on <em>The Screen Guild Theater</em> for Lady Esther, Bill Forman narrating railroad track-switching sabotage on <em>The Whistler</em> for Signal Oil, Herbert Marshall in isolated jungle outpost drama on <em>Hollywood Star Playhouse</em>, Matt Crowley foiling international munitions cartels on <em>The Adventures of Dick Tracy</em>, and Marvin Miller&#39;s solo short story performances on <em>Armchair Adventures</em>, Jack Webb (1948), Jean Arthur &amp; Fred MacMurray (1944), Bill Forman (1946), Herbert Marshall (1950), Matt Crowley (1944), and Marvin Miller (1944–1952):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 743)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JeffRegan_1948_HouseSea.mp3</code> <br><em>Alt</em>: <code>Investigator The House By The Sea Jeff Regan Investigator</code></td>\n<td><strong>&quot;The House by the Sea with Jack Webb as Jeff Regan&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1948-09-04<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Hardboiled Detective</td>\n<td><strong>Jack Webb (Jeff Regan)</strong></td>\n<td><strong>Wilms Herbert &amp; Neuman</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;Jeff Regan&quot;, &quot;Jack Webb&quot;, &quot;CBS&quot;]</code></td>\n<td>Hardboiled investigator Jeff Regan is hired by an eccentric collector to recover stolen rare pearls from a cliffside Pacific beach house.</td>\n</tr>\n<tr>\n<td><code>ScreenGuild_1944_TooManyHusbands.mp3</code> <br><em>Alt</em>: <code>The Screen Guild Theater (210) Too Many Husbands Screen Guild Theater</code></td>\n<td><strong>&quot;Too Many Husbands with Jean Arthur and Fred MacMurray&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1944-09-04<br>10:00 PM EWT</td>\n<td><strong>Lady Esther Ltd.</strong><br>Lady Esther Cosmetics</td>\n<td><strong>Jean Arthur &amp; MacMurray</strong></td>\n<td><strong>Frank Morgan &amp; Bradley</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Romance&quot;, &quot;Screen Guild Theater&quot;, &quot;Jean Arthur&quot;, &quot;Fred MacMurray&quot;]</code></td>\n<td>A fashionable woman whose first husband was presumed lost at sea finds herself comically married to two men when he reappears after she remarried.</td>\n</tr>\n<tr>\n<td><code>Whistler_1946_LinesCross.mp3</code> <br><em>Alt</em>: <code>Where The Lines Cross Whistler, The</code></td>\n<td><strong>&quot;Where the Lines Cross with Bill Forman as The Whistler&quot;</strong></td>\n<td><strong>CBS Pacific (KNX)</strong><br>1946-09-04<br>9:00 PM PST</td>\n<td><strong>Signal Oil Co.</strong><br>Signal Gasoline</td>\n<td><strong>Bill Forman (Whistler)</strong></td>\n<td><strong>Joel Malone (Writer)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Thriller&quot;, &quot;The Whistler&quot;, &quot;Bill Forman&quot;, &quot;Signal Oil&quot;]</code></td>\n<td>A corrupt railroad dispatcher tampers with track signals to orchestrate a fatal train collision and collect on his business partner&#39;s life insurance.</td>\n</tr>\n<tr>\n<td><code>HollywoodStar_1950_Outpost.mp3</code> <br><em>Alt</em>: <code>Outpost Hollywood Star Playhouse</code></td>\n<td><strong>&quot;Outpost with Herbert Marshall&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-04<br>8:00 PM EDT</td>\n<td><strong>Emerson Drug Co.</strong><br>Bromo-Seltzer</td>\n<td><strong>Herbert Marshall (Star)</strong></td>\n<td><strong>Jack Johnstone (Dir.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Hollywood Star Playhouse&quot;, &quot;Herbert Marshall&quot;, &quot;Bromo-Seltzer&quot;]</code></td>\n<td>A British colonial officer stationed at an isolated jungle outpost suspects his junior colleague is secretly collaborating with ivory smugglers.</td>\n</tr>\n<tr>\n<td><code>DickTracy_1944_BlackPearl.mp3</code> <br><em>Alt</em>: <code>Dick Tracy 1944 Episode</code></td>\n<td><strong>&quot;The Black Pearl of Singapore with Matt Crowley as Dick Tracy&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1944-09-04<br>5:15 PM EWT</td>\n<td><strong>Sweets Co. of America</strong><br>Tootsie Rolls</td>\n<td><strong>Matt Crowley (Tracy)</strong></td>\n<td><strong>Howard Smith &amp; Gould</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Adventure&quot;, &quot;Dick Tracy&quot;, &quot;Matt Crowley&quot;, &quot;Tootsie Roll&quot;]</code></td>\n<td>Dick Tracy and Junior pursue an undercover sabotage operative smuggling black pearls to finance an illegal munitions pipeline.</td>\n</tr>\n<tr>\n<td><code>ArmchairAdv_1952_FishermansLuck.mp3</code> <br><em>Alt</em>: <code>Fisherman&#39;s Luck Armchair Adventures</code></td>\n<td><strong>&quot;Fisherman&#39;s Luck with Marvin Miller&quot;</strong></td>\n<td><strong>Syndication</strong><br>1952-09-04</td>\n<td><strong>Sustaining</strong><br>Solo Storytelling</td>\n<td><strong>Marvin Miller (All Voices)</strong></td>\n<td><strong>Syndicated Audio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Armchair Adventures&quot;, &quot;Marvin Miller&quot;, &quot;Syndication&quot;]</code></td>\n<td>An elderly coastal fisherman hooks an unexpected waterlogged strongbox containing clues to an unsolved harbor heist.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 180 / 471 (227 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 743 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Jeff Regan Investigator",
+        "Jack Webb",
+        "Wilms Herbert",
+        "E Jack Neuman",
+        "The Screen Guild Theater",
+        "Jean Arthur",
+        "Fred MacMurray",
+        "Frank Morgan",
+        "Lady Esther",
+        "The Whistler",
+        "Bill Forman",
+        "Signal Oil",
+        "Joel Malone",
+        "Hollywood Star Playhouse",
+        "Herbert Marshall",
+        "Bromo-Seltzer",
+        "Jack Johnstone",
+        "The Adventures of Dick Tracy",
+        "Matt Crowley",
+        "Tootsie Roll",
+        "Chester Gould",
+        "Armchair Adventures",
+        "Marvin Miller",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-742-johnny-mercer-rocky-jordan-ben-hur-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-742-johnny-mercer-rocky-jordan-ben-hur-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Johnny Mercer, Rocky Jordan & Ben-Hur",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 742)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Johnny Mercer and Jo Stafford harmonizing on <em>Johnny Mercer&#39;s Music Shop</em> for Pepsodent, Jack Moyles facing Egyptian desert perils as <em>Rocky Jordan</em>, Ruth Etting performing torch classics with Rudy Vallee on <em>The Fleischmann&#39;s Yeast Hour</em>, Dennis Day causing small-town havoc on <em>A Day in the Life of Dennis Day</em> for Colgate, Virginia Payne outwitting real estate fraudsters on <em>Ma Perkins</em> for Oxydol, and Ronald Colman presenting General Lew Wallace&#39;s <em>Ben-Hur</em> on <em>Favorite Story</em>, Johnny Mercer &amp; Jo Stafford (1944), Jack Moyles (1949), Rudy Vallee &amp; Ruth Etting (1930), Dennis Day (1948), Virginia Payne (1950), and Ronald Colman (1930–1950):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 742)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JohnnyMercer_1944_DontWantKnow.mp3</code> <br><em>Alt</em>: <code>I Don&#39;t Want To Know About You Johnny Mercer&#39;s Music Shop</code></td>\n<td><strong>&quot;I Don&#39;t Want to Know About You with Jo Stafford&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-09-04<br>8:30 PM EWT</td>\n<td><strong>Pepsodent Company</strong><br>Pepsodent Tooth Powder</td>\n<td><strong>Johnny Mercer &amp; Stafford</strong></td>\n<td><strong>Paul Weston &amp; Pipers</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Johnny Mercer&#39;s Music Shop&quot;, &quot;Johnny Mercer&quot;, &quot;Jo Stafford&quot;]</code></td>\n<td>Johnny Mercer and Jo Stafford exchange swinging songwriting banter and perform pop duets led by I Don&#39;t Want to Know About You.</td>\n</tr>\n<tr>\n<td><code>RockyJordan_1949_StrangerDesert.mp3</code> <br><em>Alt</em>: <code>Stranger to the Desert A Man Named Jordan</code></td>\n<td><strong>&quot;Stranger to the Desert with Jack Moyles as Rocky Jordan&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1949-09-04</td>\n<td><strong>Sustaining</strong><br>Near East Detective</td>\n<td><strong>Jack Moyles (Rocky)</strong></td>\n<td><strong>Jay Novello &amp; Gerson</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Adventure&quot;, &quot;A Man Named Jordan&quot;, &quot;Rocky Jordan&quot;, &quot;Jack Moyles&quot;]</code></td>\n<td>Cairo cafe owner Rocky Jordan is pursued into the Egyptian desert after protecting an injured European courier carrying a stolen archeological relic.</td>\n</tr>\n<tr>\n<td><code>RudyVallee_1930_RuthEtting.mp3</code> <br><em>Alt</em>: <code>Ruth Etting Rudy Vallee</code></td>\n<td><strong>&quot;Guest Ruth Etting with Rudy Vallee&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1930-09-04<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Fleischmann&#39;s Yeast</td>\n<td><strong>Rudy Vallee &amp; Etting</strong></td>\n<td><strong>Connecticut Yankees</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Rudy Vallee&quot;, &quot;Ruth Etting&quot;, &quot;Fleischmann&#39;s&quot;]</code></td>\n<td>Rudy Vallee welcomes torch singer Ruth Etting for classic Broadway torch ballads and upbeat early Depression-era dance arrangements.</td>\n</tr>\n<tr>\n<td><code>DennisDay_1948_OperaAudition.mp3</code> <br><em>Alt</em>: <code>A Day In The Life Of Dennis Day 1948 Episode</code></td>\n<td><strong>&quot;Dennis Auditions for the Community Opera with Colgate&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1948-09-04<br>10:00 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Dental Cream</td>\n<td><strong>Dennis Day (Dennis)</strong></td>\n<td><strong>Barbara Eiler &amp; Benaderet</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Dennis Day&quot;, &quot;Barbara Eiler&quot;, &quot;Colgate&quot;]</code></td>\n<td>Dennis Day causes small-town pandemonium when he tries to secure the tenor lead in the Weaverville amateur community opera production.</td>\n</tr>\n<tr>\n<td><code>MaPerkins_1950_SylvesterTrickery.mp3</code> <br><em>Alt</em>: <code>All Of Sylvester&#39;s Trickery Is Out In The Open Ma Perkins</code></td>\n<td><strong>&quot;Sylvester&#39;s Trickery Exposed with Virginia Payne as Ma Perkins&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1950-09-04<br>1:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Oxydol Soap Powder</td>\n<td><strong>Virginia Payne (Ma)</strong></td>\n<td><strong>Charles Egelston &amp; Forbes</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Ma Perkins&quot;, &quot;Virginia Payne&quot;, &quot;Oxydol&quot;]</code></td>\n<td>Ma Perkins confronts unscrupulous promoter Sylvester in her Rushville lumber yard office after exposing his fraudulent real estate investment scheme.</td>\n</tr>\n<tr>\n<td><code>FavoriteStory_1948_BenHur.mp3</code> <br><em>Alt</em>: <code>Ben Hur Favorite Story</code></td>\n<td><strong>&quot;Ben-Hur with Ronald Colman&quot;</strong></td>\n<td><strong>Syndication / Ziv</strong><br>1948-09-04</td>\n<td><strong>General Petroleum</strong><br>Mobilgas &amp; Mobiloil</td>\n<td><strong>Ronald Colman (Host)</strong></td>\n<td><strong>Lawrence &amp; Lee (Writers)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Favorite Story&quot;, &quot;Ronald Colman&quot;, &quot;Ben-Hur&quot;]</code></td>\n<td>A Jewish prince falsely accused of treason by his Roman boyhood friend survives galley slavery to seek justice in a legendary chariot race.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 174 / 471 (233 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 742 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Johnny Mercer's Music Shop",
+        "Johnny Mercer",
+        "Jo Stafford",
+        "Paul Weston",
+        "Pepsodent",
+        "A Man Named Jordan",
+        "Rocky Jordan",
+        "Jack Moyles",
+        "Jay Novello",
+        "Del Monte Foods",
+        "Rudy Vallee",
+        "The Fleischmann's Yeast Hour",
+        "Ruth Etting",
+        "Standard Brands",
+        "A Day in the Life of Dennis Day",
+        "Dennis Day",
+        "Barbara Eiler",
+        "Colgate",
+        "Ma Perkins",
+        "Virginia Payne",
+        "Oxydol",
+        "Favorite Story",
+        "Ronald Colman",
+        "Ben-Hur",
+        "Lew Wallace",
+        "Jerome Lawrence",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-741-radio-city-playhouse-night-editor-morton-downey-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-741-radio-city-playhouse-night-editor-morton-downey-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Radio City Playhouse, Night Editor & Morton Downey",
