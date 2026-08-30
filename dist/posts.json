@@ -41,6 +41,79 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-434-walter-winchell-cbsrmt-boston-blackie-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-434-walter-winchell-cbsrmt-boston-blackie-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Walter Winchell, CBSRMT, and Boston Blackie",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 434)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio and radio drama anthologies, the historic network premiere of <em>The Walter Winchell Show</em> on NBC Blue for Lucky Strike (1931), Larry Haines in <em>The Night Shift</em> on <em>CBS Radio Mystery Theater</em> (1976), Richard Kollmar as <em>Boston Blackie</em> solving a synthetic fuel formula murder (1950), Stacy Harris tracking syndicate gambling on <em>This Is Your FBI</em> (1946), Mutual broadcasting live from the 1940 New York World&#39;s Fair, and postwar veteran rehabilitation on <em>Treasury Salute</em> (1931–1976):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 434)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Treas_Salute_1945_Scars.mp3</code> <br><em>Alt</em>: <code>Wound That Shows No Scars</code></td>\n<td><strong>&quot;The Wound That Shows No Scars&quot;</strong></td>\n<td><strong>Treasury Dept Syndication</strong><br>1945-08-30</td>\n<td><strong>U.S. Treasury Dept</strong><br>Victory War Bonds</td>\n<td><strong>Dramatic Cast Ensemble</strong></td>\n<td><strong>Treasury Salute Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Military&quot;, &quot;War Bonds&quot;, &quot;World War II&quot;, &quot;Veterans&quot;]</code></td>\n<td>A combat veteran returns home struggling with psychological battle trauma and finds understanding through community rehabilitation support.</td>\n</tr>\n<tr>\n<td><code>Boston_Blackie_1950_Formula.mp3</code> <br><em>Alt</em>: <code>Stolen Formula Murder Blackie</code></td>\n<td><strong>&quot;The Stolen Formula Murder&quot;</strong></td>\n<td><strong>Syndicated Detective (Ziv)</strong><br>1950-08-30</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Richard Kollmar</strong>, <strong>Tarplin</strong></td>\n<td><strong>Frederic W. Ziv Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Richard Kollmar&quot;, &quot;Ziv&quot;]</code></td>\n<td>Boston Blackie clears himself of homicide charges after an industrial research chemist is murdered for an experimental synthetic fuel formula.</td>\n</tr>\n<tr>\n<td><code>This_Radio_1940_Fair.mp3</code> <br><em>Alt</em>: <code>Mutual NY Worlds Fair 1940</code></td>\n<td><strong>&quot;Mutual Broadcast Live at the New York World&#39;s Fair&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1940-08-30<br>3:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Special Event Broadcast</td>\n<td><strong>WOR Announcers</strong>, <strong>Guests</strong></td>\n<td><strong>Mutual Special Events Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;Documentary&quot;, &quot;Special Event&quot;, &quot;World&#39;s Fair&quot;, &quot;Historical&quot;]</code></td>\n<td>Mutual announcers broadcast live demonstrations and listener interviews from the Futurama and Court of Peace exhibits at the 1940 New York World&#39;s Fair.</td>\n</tr>\n<tr>\n<td><code>Winchell_1931_Premiere.mp3</code> <br><em>Alt</em>: <code>Walter Winchell First Episode</code></td>\n<td><strong>&quot;Premiere Broadcast on NBC Blue&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1931-08-30<br>8:45 PM EDST</td>\n<td><strong>American Tobacco Co.</strong><br>Lucky Strike Cigarettes</td>\n<td><strong>Walter Winchell</strong> (Host)</td>\n<td><strong>NBC Blue News Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;Gossip&quot;, &quot;Broadway&quot;, &quot;Journalism&quot;, &quot;Walter Winchell&quot;]</code></td>\n<td>Walter Winchell rattles off staccato telegraphic news bulletins, Broadway gossip scoops, and political headlines in his signature rapid-fire delivery.</td>\n</tr>\n<tr>\n<td><code>CBSRMT_1976_NightShift.mp3</code> <br><em>Alt</em>: <code>The Night Shift Haines</code></td>\n<td><strong>&quot;The Night Shift with Larry Haines&quot;</strong></td>\n<td><strong>CBS Radio Network</strong><br>1976-08-30<br>10:30 PM EDT</td>\n<td><strong>Budweiser / True Value</strong><br>Beer / Hardware</td>\n<td><strong>E.G. Marshall</strong>, <strong>Haines</strong></td>\n<td><strong>Ian Martin (Writer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Suspense&quot;, &quot;Drama&quot;, &quot;CBSRMT&quot;]</code></td>\n<td>A weary factory watchman working the graveyard shift realizes an unseen vengeful prowler is systematically sabotaging industrial machinery.</td>\n</tr>\n<tr>\n<td><code>Your_FBI_1946_Mob.mp3</code> <br><em>Alt</em>: <code>Return Of The Mob FBI</code></td>\n<td><strong>&quot;Return of the Mob&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-08-30<br>8:30 PM EDT</td>\n<td><strong>Equitable Life</strong><br>Insurance Policies</td>\n<td><strong>Stacy Harris</strong> (Jim Taylor)</td>\n<td><strong>Jerry Devine (Dir / Prod)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;FBI&quot;, &quot;Crime&quot;, &quot;Equitable&quot;]</code></td>\n<td>Special Agent Jim Taylor tracks an ambitious syndicate boss attempting to resurrect an interstate gambling network across state lines.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 276 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 434 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "Walter Winchell",
+        "Lucky Strike",
+        "NBC Blue",
+        "CBS Radio Mystery Theater",
+        "E.G. Marshall",
+        "Larry Haines",
+        "Ian Martin",
+        "Boston Blackie",
+        "Richard Kollmar",
+        "Maurice Tarplin",
+        "Ziv",
+        "This Is Your FBI",
+        "Stacy Harris",
+        "Jerry Devine",
+        "Treasury Salute",
+        "World War II",
+        "This Is Radio",
+        "NY World's Fair",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-433-bobby-benson-ernest-tubb-dr-dolittle-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-433-bobby-benson-ernest-tubb-dr-dolittle-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Bobby Benson, Ernest Tubb & Red Foley, and Dr. Dolittle",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 433)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio, Armed Forces transcription discs, and British radio comedy, Clyde Campbell and Don Knotts on <em>Bobby Benson and the B-Bar-B Riders</em> for Kraft (1951 Kraft Master &amp; Syndicated Master), country legends Ernest Tubb and Red Foley harmonizing <em>Goodnight Irene</em> on AFRS (1950), Joan Gardner as <em>The Story Lady</em> telling <em>The Story of Dr. Dolittle</em> (1949), Burmese treasure thrills on <em>Stand By For Adventure</em> (1946), and advertising agency satire on <em>Something to Shout About</em> (1946–1960):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 433)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Story_Lady_1949_Dolittle.mp3</code> <br><em>Alt</em>: <code>Story of Dr Dolittle Gardner</code></td>\n<td><strong>&quot;The Story of Dr. Dolittle with Joan Gardner&quot;</strong></td>\n<td><strong>Syndicated Children&#39;s</strong><br>1949-08-30</td>\n<td><strong>Sustaining</strong><br>Children&#39;s Storytelling</td>\n<td><strong>Joan Gardner</strong> (Story Lady)</td>\n<td><strong>Hugh Lofting (Author)</strong></td>\n<td><code>[&quot;Children&#39;s&quot;, &quot;Storytelling&quot;, &quot;Animals&quot;, &quot;Adaptation&quot;, &quot;Hugh Lofting&quot;]</code></td>\n<td>The Story Lady narrates how eccentric country physician Dr. Dolittle learns animal languages to treat sick zoo animals and pets.</td>\n</tr>\n<tr>\n<td><code>AFRS_1950_Tubb_Foley.mp3</code> <br><em>Alt</em>: <code>Ernest Tubb Red Foley Irene</code></td>\n<td><strong>&quot;Ernest Tubb &amp; Red Foley - Goodnight Irene (AFRS P-1690)&quot;</strong></td>\n<td><strong>AFRS (P-1690)</strong><br>1950-08-30</td>\n<td><strong>Armed Forces Radio</strong><br>U.S. Military Sustaining</td>\n<td><strong>Ernest Tubb</strong>, <strong>Red Foley</strong></td>\n<td><strong>AFRS Transcription Staff</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Honky-Tonk&quot;, &quot;Duet&quot;, &quot;AFRS&quot;, &quot;Transcription&quot;]</code></td>\n<td>Country legends Ernest Tubb and Red Foley sing their chart-topping honky-tonk duet Goodnight Irene for overseas armed forces.</td>\n</tr>\n<tr>\n<td><code>Stand_By_1946_Jade.mp3</code> <br><em>Alt</em>: <code>Episode Jade Goddess</code></td>\n<td><strong>&quot;The Curse of the Jade Goddess&quot;</strong></td>\n<td><strong>Syndicated Adventure</strong><br>1946-08-30</td>\n<td><strong>Sustaining</strong><br>Adventure Anthology</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Stand By For Adventure Staff</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;Anthology&quot;, &quot;Exotic&quot;, &quot;Drama&quot;]</code></td>\n<td>Four globe-trotting adventurers gather at a waterfront tavern to recount how a stolen Burmese jade idol brought ruin to an expedition.</td>\n</tr>\n<tr>\n<td><code>Bobby_Benson_1951_Kraft.mp3</code> <br><em>Alt</em>: <code>Strong And The Weak Kraft</code></td>\n<td><strong>&quot;The Strong and the Weak (Kraft Master)&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-08-30<br>5:30 PM EDT</td>\n<td><strong>Kraft Foods Company</strong><br>Kraft Caramels / Velveeta</td>\n<td><strong>Clyde Campbell</strong>, <strong>Knotts</strong></td>\n<td><strong>Peter Dixon (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Juvenile&quot;, &quot;Cowboy&quot;, &quot;Kraft&quot;, &quot;Peter Dixon&quot;]</code></td>\n<td>Bobby Benson and the B-Bar-B ranch hands protect a bullied frontier youth who proves his courage during an outlaw cattle ambush.</td>\n</tr>\n<tr>\n<td><code>Bobby_Benson_1951_Syn.mp3</code> <br><em>Alt</em>: <code>The Strong And The Weak Syn</code></td>\n<td><strong>&quot;The Strong and the Weak (Syndicated Master)&quot;</strong></td>\n<td><strong>Mutual Syndication</strong><br>1951-08-30</td>\n<td><strong>Kraft Foods Company</strong><br>Kraft Caramels / Velveeta</td>\n<td><strong>Clyde Campbell</strong>, <strong>Knotts</strong></td>\n<td><strong>Peter Dixon (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Juvenile&quot;, &quot;Cowboy&quot;, &quot;Kraft&quot;, &quot;Peter Dixon&quot;]</code></td>\n<td>Young ranch foreman Bobby Benson helps an insecure newcomer earn the respect of seasoned cowhands while defending the ranch boundary.</td>\n</tr>\n<tr>\n<td><code>Shout_About_1960_Pitch.mp3</code> <br><em>Alt</em>: <code>Series 01 Episode 09 Ad Pitch</code></td>\n<td><strong>&quot;The Advertising Agency Pitch (Series 1, Episode 9)&quot;</strong></td>\n<td><strong>BBC Light Programme</strong><br>1960-08-30<br>7:30 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Comedy</td>\n<td><strong>Michael Medwin</strong>, <strong>Fielding</strong></td>\n<td><strong>Rudge &amp; Ronnie Wolfe</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Sitcom&quot;, &quot;Satire&quot;, &quot;BBC Light Programme&quot;]</code></td>\n<td>Ad executive Michael Medwin orchestrates a frantic, high-pressure marketing presentation for an eccentric industrial client.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 270 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 433 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "Bobby Benson and the B-Bar-B Riders",
+        "Don Knotts",
+        "Clyde Campbell",
+        "Kraft Foods",
+        "Ernest Tubb",
+        "Red Foley",
+        "Goodnight Irene",
+        "AFRS",
+        "The Story Lady",
+        "Joan Gardner",
+        "Hugh Lofting",
+        "Dr Dolittle",
+        "Stand By For Adventure",
+        "Jade Goddess",
+        "Something to Shout About",
+        "Michael Medwin",
+        "Fenella Fielding",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-432-jungle-jim-let-george-do-it-will-rogers-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-432-jungle-jim-let-george-do-it-will-rogers-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — Jungle Jim, Let George Do It, and Will Rogers",
