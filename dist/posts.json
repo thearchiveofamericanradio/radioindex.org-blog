@@ -6,6 +6,86 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-461-canterbury-tales-swaps-derby-erle-stanley-gardner-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-461-canterbury-tales-swaps-derby-erle-stanley-gardner-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Canterbury Tales, Swaps in the Derby, and Erle Stanley Gardner",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 461)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across British classical literature, American sports history, courtroom drama, audio retrospectives, Canadian supernatural thrillers, and network romance drama, Geoffrey Chaucer&#39;s <em>The Canon&#39;s Yeoman&#39;s Tale</em> on the BBC Third Programme (1950), Willie Shoemaker recounting Swaps winning the 1955 Kentucky Derby (1955), Erle Stanley Gardner&#39;s <em>A Life in Your Hands</em> with Lee Bowman (1951), Jim French&#39;s tribute to <em>Dragnet</em> (1996), CBC Radio&#39;s supernatural drama <em>Midnight</em> (1982), and Maureen O&#39;Sullivan on <em>NBC Radio Theater</em> (1950–1996):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 461)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Sports_1955_Swaps.mp3</code> <br><em>Alt</em>: <code>Swaps Wins Derby 1955</code></td>\n<td><strong>&quot;Swaps Wins the 1955 Kentucky Derby&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1955-08-31<br>10:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Sports Documentary</td>\n<td><strong>Willie Shoemaker</strong>, <strong>Ellsworth</strong></td>\n<td><strong>NBC Sports Staff</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Horse Racing&quot;, &quot;History&quot;, &quot;Kentucky Derby&quot;, &quot;NBC&quot;]</code></td>\n<td>Jockey Willie Shoemaker and owner Rex Ellsworth recount California thoroughbred Swaps&#39; wire-to-wire triumph at Churchill Downs.</td>\n</tr>\n<tr>\n<td><code>Life_Hands_1951_Inheritance.mp3</code> <br><em>Alt</em>: <code>A Life In Your Hands 1951</code></td>\n<td><strong>&quot;The Case of the Fatal Inheritance with Lee Bowman&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1951-08-31<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Legal Courtroom Drama</td>\n<td><strong>Lee Bowman</strong>, <strong>Ken Lynch</strong></td>\n<td><strong>Erle Stanley Gardner (Creator)</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Legal&quot;, &quot;Mystery&quot;, &quot;Lee Bowman&quot;, &quot;Erle Stanley Gardner&quot;]</code></td>\n<td>Amateur criminologist Jonathan Kring reconstructs physical evidence to determine if a disputed heir committed premeditated poisoning.</td>\n</tr>\n<tr>\n<td><code>Chaucer_1950_Canon.mp3</code> <br><em>Alt</em>: <code>Canon Yeomans Tale Chaucer</code></td>\n<td><strong>&quot;The Canon&#39;s Yeoman&#39;s Preamble and Tale (BBC Third Programme)&quot;</strong></td>\n<td><strong>BBC Third Programme</strong><br>1950-08-31<br>8:00 PM BST</td>\n<td><strong>Sustaining</strong><br>Classical Literature</td>\n<td><strong>BBC Repertory Co.</strong></td>\n<td><strong>Nevill Coghill &amp; Chaucer</strong></td>\n<td><code>[&quot;Classics&quot;, &quot;Literature&quot;, &quot;Chaucer&quot;, &quot;British&quot;, &quot;BBC Third Programme&quot;]</code></td>\n<td>A disillusioned apprentice exposes the deceptive alchemy tricks and fraudulent promises of his alchemist master.</td>\n</tr>\n<tr>\n<td><code>Mystery_Proj_1996_Dragnet.mp3</code> <br><em>Alt</em>: <code>Dragnet Mystery Project French</code></td>\n<td><strong>&quot;Dragnet and American Radio Sleuths with Jim French&quot;</strong></td>\n<td><strong>KIRO / Syndicated</strong><br>1996-08-31</td>\n<td><strong>Sustaining</strong><br>Audio Mystery Anthology</td>\n<td><strong>Jim French</strong> (Host / Creator)</td>\n<td><strong>Jim French Productions</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Anthology&quot;, &quot;Tribute&quot;, &quot;Dragnet&quot;, &quot;Jim French&quot;]</code></td>\n<td>A retrospective and tribute examining the realism and iconic documentary style of Jack Webb&#39;s vintage police drama Dragnet.</td>\n</tr>\n<tr>\n<td><code>Midnight_1982_Mephistopheles.mp3</code> <br><em>Alt</em>: <code>Of Magic And Mephistopeles</code></td>\n<td><strong>&quot;Of Magic and Mephistopheles with CBC Radio Drama&quot;</strong></td>\n<td><strong>CBC Radio Canada</strong><br>1982-08-31<br>11:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Supernatural Drama</td>\n<td><strong>CBC Repertory Ensemble</strong></td>\n<td><strong>Larry LeBlanc (Writer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Supernatural&quot;, &quot;Macabre&quot;, &quot;Canadian&quot;, &quot;CBC Radio&quot;]</code></td>\n<td>A stage illusionist dabbling in genuine occult conjuration discovers his demonic pact demands a terrifying price.</td>\n</tr>\n<tr>\n<td><code>NBC_Theater_1959_Italian.mp3</code> <br><em>Alt</em>: <code>Italian NBC Radio Theater</code></td>\n<td><strong>&quot;The Italian Girl with Maureen O&#39;Sullivan&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1959-08-31<br>8:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Drama Showcase</td>\n<td><strong>Maureen O&#39;Sullivan</strong>, <strong>Cast</strong></td>\n<td><strong>Fletcher Markle (Director)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Anthology&quot;, &quot;Maureen O&#39;Sullivan&quot;, &quot;NBC&quot;]</code></td>\n<td>An aristocratic English family discovers long-buried secrets when an enigmatic Italian houseguest arrives at their country estate.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 66 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 461 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Canterbury Tales",
+        "Geoffrey Chaucer",
+        "Nevill Coghill",
+        "BBC Third Programme",
+        "Great Moments in Sports",
+        "Kentucky Derby",
+        "Swaps",
+        "Willie Shoemaker",
+        "A Life in Your Hands",
+        "Lee Bowman",
+        "Erle Stanley Gardner",
+        "The Mystery Project",
+        "Jim French",
+        "Dragnet",
+        "Jack Webb",
+        "Midnight",
+        "CBC Radio",
+        "NBC Radio Theater",
+        "Maureen O'Sullivan",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-460-the-shadow-rocky-jordan-flash-gordon-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-460-the-shadow-rocky-jordan-flash-gordon-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — The Shadow, Rocky Jordan, and Flash Gordon",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 460)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American superhero mystery, exotic Middle Eastern noir, interplanetary space serials, true newspaper journalism drama, MGM radio comedy, and legendary boxing history, Bret Morrison as Lamont Cranston in <em>The Shadow</em> (1952), George Mohan in <em>The Adventures of Rocky Jordan</em> in Cairo (1952), Gale Gordon as <em>Flash Gordon</em> escaping Emperor Ming on the planet Mongo (1935), Denver Post reporter Edward M. Freeman on <em>The Big Story</em> (1949), Ann Sothern in <em>The Adventures of Maisie</em> (1950), and Tommy Farr recounting his 15-round war against Joe Louis (1935–1952):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 460)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Shadow_1952_Proxy.mp3</code> <br><em>Alt</em>: <code>Death by Proxy Shadow</code></td>\n<td><strong>&quot;Death by Proxy with Bret Morrison and Gertrude Warner&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-08-31<br>5:00 PM EDT</td>\n<td><strong>Sylvania / Wildroot</strong><br>Wildroot Cream-Oil</td>\n<td><strong>Bret Morrison</strong>, <strong>Warner</strong></td>\n<td><strong>Judith &amp; David Bublick</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Mystery&quot;, &quot;The Shadow&quot;, &quot;Bret Morrison&quot;, &quot;Mutual&quot;]</code></td>\n<td>Lamont Cranston clouds minds to protect an innocent clerk framed for a string of corporate embezzlement murders.</td>\n</tr>\n<tr>\n<td><code>Rocky_1952_Piru.mp3</code> <br><em>Alt</em>: <code>Return of Dr Piru Jordan</code></td>\n<td><strong>&quot;The Return of Dr. Piru with George Mohan&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1952-08-31<br>6:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Exotic Detective Drama</td>\n<td><strong>George Mohan</strong>, <strong>Novello</strong></td>\n<td><strong>Larry Roman (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Exotic&quot;, &quot;Rocky Jordan&quot;, &quot;Cairo&quot;]</code></td>\n<td>In Cairo, café owner Rocky Jordan investigates a mysterious archaeological expedition terrorized by a physician presumed dead.</td>\n</tr>\n<tr>\n<td><code>Flash_1935_Ep23.mp3</code> <br><em>Alt</em>: <code>Flash Still Invisible Escapes</code></td>\n<td><strong>&quot;Flash, Still Invisible, Escapes (Episode 23)&quot;</strong></td>\n<td><strong>Syndicated Hearst</strong><br>1935-08-31</td>\n<td><strong>Sustaining</strong><br>Sci-Fi Adventure Serial</td>\n<td><strong>Gale Gordon</strong>, <strong>Bergman</strong></td>\n<td><strong>Alex Raymond (Creator)</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Adventure&quot;, &quot;Flash Gordon&quot;, &quot;Serial&quot;, &quot;Alex Raymond&quot;]</code><br><em>Arc</em>: <strong>The Planet Mongo (Part 23)</strong></td>\n<td>Utilizing Dr. Zarkov&#39;s invisibility machine, Flash Gordon eludes Emperor Ming&#39;s guards and rescues Dale Arden from the palace dungeons.</td>\n</tr>\n<tr>\n<td><code>Big_Story_1949_Freeman.mp3</code> <br><em>Alt</em>: <code>Ace Beat Three Kind Freeman</code></td>\n<td><strong>&quot;The Ace That Beat Three of a Kind with Edward M. Freeman&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1949-08-31<br>10:00 PM EDT</td>\n<td><strong>American Tobacco Co.</strong><br>Pall Mall Famous Cigarettes</td>\n<td><strong>Robert Sloane</strong>, <strong>Freeman</strong></td>\n<td><strong>Harry Ingram (Director)</strong></td>\n<td><code>[&quot;Journalism&quot;, &quot;Drama&quot;, &quot;True Crime&quot;, &quot;The Big Story&quot;, &quot;Pall Mall&quot;]</code></td>\n<td>Reporter Edward Freeman of the Denver Post investigates a staged card game holdup to clear a framed dealer and capture the actual gunmen.</td>\n</tr>\n<tr>\n<td><code>Maisie_1950_Wife.mp3</code> <br><em>Alt</em>: <code>The Deserted Wife Maisie</code></td>\n<td><strong>&quot;The Deserted Wife with Ann Sothern&quot;</strong></td>\n<td><strong>MGM Radio Attractions</strong><br>1950-08-31</td>\n<td><strong>Sustaining</strong><br>Comedy Drama</td>\n<td><strong>Ann Sothern</strong>, <strong>McGeehan</strong></td>\n<td><strong>Arthur Phillips (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;Maisie&quot;, &quot;Ann Sothern&quot;, &quot;MGM&quot;]</code></td>\n<td>Maisie Ravier takes in a heartbroken young mother and schemes to reunite her with her estranged, misunderstandings-plagued husband.</td>\n</tr>\n<tr>\n<td><code>Sports_1937_FarrLouis.mp3</code> <br><em>Alt</em>: <code>Tommy Farr Loss To Joe Louis</code></td>\n<td><strong>&quot;Tommy Farr Discusses Heavyweight Loss to Joe Louis&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1937-08-31<br>10:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Sports Commentary</td>\n<td><strong>Tommy Farr</strong>, <strong>Commentators</strong></td>\n<td><strong>NBC Sports Staff</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Boxing&quot;, &quot;History&quot;, &quot;Interview&quot;, &quot;Joe Louis&quot;]</code></td>\n<td>Welsh boxing champion Tommy Farr analyzes round-by-round strategies and his narrow 15-round decision loss to Joe Louis at Yankee Stadium.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 60 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 460 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "The Shadow",
+        "Bret Morrison",
+        "Gertrude Warner",
+        "Lamont Cranston",
+        "Sylvania",
+        "The Adventures of Rocky Jordan",
+        "George Mohan",
+        "Jay Novello",
+        "Cairo",
+        "Flash Gordon",
+        "Gale Gordon",
+        "Dr Zarkov",
+        "Alex Raymond",
+        "Serial Story",
+        "The Big Story",
+        "Edward M Freeman",
+        "Denver Post",
+        "Pall Mall",
+        "The Adventures of Maisie",
+        "Ann Sothern",
+        "MGM",
+        "Tommy Farr",
+        "Joe Louis",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-459-kraft-music-hall-mike-hammer-bela-lugosi-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-459-kraft-music-hall-mike-hammer-bela-lugosi-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Kraft Music Hall, Mike Hammer, and Bela Lugosi",
