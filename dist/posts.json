@@ -6,6 +6,48 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-673-eve-arden-lily-pons-comic-weekly-man-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-673-eve-arden-lily-pons-comic-weekly-man-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Eve Arden, Lily Pons & The Comic Weekly Man",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 673)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across witty schoolteacher sitcoms, sparkling coloratura concert broadcasts, Hearst Sunday comics readings, international transatlantic documentary exchanges, child prodigy panel quiz shows, and classic ventriloquism comedy, Eve Arden in <em>Our Miss Brooks</em> for Colgate (1950), Lily Pons with Andre Kostelanetz for Chesterfield (1944), <em>The Comic Weekly Man</em> (1950), Bob Trout on <em>Transatlantic Call</em> (1944), <em>The Quiz Kids</em> (1950), and <em>The Charlie McCarthy Show</em> (1939):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 673)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>OurMissBrooks_1950_BeaverLodge.mp3</code> <br><em>Alt</em>: <code>Beaver Loadge, Room 124 Our Miss Brooks</code></td>\n<td><strong>&quot;Beaver Lodge, Room 124 with Eve Arden as Connie Brooks&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-03<br>6:30 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Lustre-Creme Shampoo</td>\n<td><strong>Eve Arden (Brooks)</strong></td>\n<td><strong>Gale Gordon &amp; Chandler</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Our Miss Brooks&quot;, &quot;Eve Arden&quot;, &quot;Colgate&quot;]</code></td>\n<td>Connie Brooks faces hotel booking chaos and mistaken identity mixups while attempting to attend a teacher convention at Beaver Lodge.</td>\n</tr>\n<tr>\n<td><code>Chesterfield_1944_LilyPons.mp3</code> <br><em>Alt</em>: <code>Lily Pons Chesterfield Presents</code></td>\n<td><strong>&quot;Soprano Lily Pons with Andre Kostelanetz and Chesterfield&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-03<br>8:00 PM EWT</td>\n<td><strong>Liggett &amp; Myers</strong><br>Chesterfield Cigarettes</td>\n<td><strong>Lily Pons (Soprano)</strong></td>\n<td><strong>Andre Kostelanetz &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Lily Pons&quot;, &quot;Andre Kostelanetz&quot;, &quot;Chesterfield&quot;]</code></td>\n<td>Metropolitan Opera coloratura soprano Lily Pons performs French operatic arias and romantic concert favorites with Andre Kostelanetz.</td>\n</tr>\n<tr>\n<td><code>ComicWeekly_1950_PuckFunnies.mp3</code> <br><em>Alt</em>: <code>Comic Weekly Man 1950 Episode</code></td>\n<td><strong>&quot;Puck Sunday Color Comics with the Comic Weekly Man&quot;</strong></td>\n<td><strong>Syndication / Hearst</strong><br>1950-09-03</td>\n<td><strong>Sustaining</strong><br>Newspaper Funnies</td>\n<td><strong>Comic Weekly Man (Host)</strong></td>\n<td><strong>Hearst Syndicate Writers</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Comics&quot;, &quot;Puck&quot;, &quot;Hearst&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A lively dramatic reading of the Sunday color comics featuring Blondie, Popeye, and Prince Valiant.</td>\n</tr>\n<tr>\n<td><code>Transatlantic_1944_BritishFarming.mp3</code> <br><em>Alt</em>: <code>Transatlantic Call 1944 Episode</code></td>\n<td><strong>&quot;British Wartime Farming in the Cotswolds with Bob Trout&quot;</strong></td>\n<td><strong>CBS / BBC</strong><br>1944-09-03<br>12:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Transatlantic Exchange</td>\n<td><strong>Bob Trout (CBS Host)</strong></td>\n<td><strong>Vaughan-Thomas (BBC)</strong></td>\n<td><code>[&quot;Documentary&quot;, &quot;WWII&quot;, &quot;Transatlantic Call&quot;, &quot;CBS&quot;, &quot;BBC&quot;]</code></td>\n<td>British agricultural workers in the Cotswolds describe mechanized harvesting operations supporting the Allied military supply line.</td>\n</tr>\n<tr>\n<td><code>QuizKids_1950_LaborDayPicnic.mp3</code> <br><em>Alt</em>: <code>Labor Day Picnic Near Gambusia Affinus The Quiz Kids</code></td>\n<td><strong>&quot;Labor Day Picnic and Mosquitofish with Joe Kelly&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1950-09-03<br>3:30 PM EDT</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer &amp; Bactine</td>\n<td><strong>Joe Kelly (Quizmaster)</strong></td>\n<td><strong>Joel Kupperman &amp; Panel</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Panel&quot;, &quot;The Quiz Kids&quot;, &quot;Joe Kelly&quot;, &quot;Alka Seltzer&quot;]</code></td>\n<td>Child panelists identify scientific classifications of aquatic mosquitofish while planning a Labor Day weekend camping trip.</td>\n</tr>\n<tr>\n<td><code>CharlieMcCarthy_1939_WendyBarrie.mp3</code> <br><em>Alt</em>: <code>With Wendy Barrie And Vera Vague Edgar Bergen And Charlie McCarthy</code></td>\n<td><strong>&quot;Guests Wendy Barrie and Vera Vague on Chase and Sanborn&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-09-03<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Coffee</td>\n<td><strong>Edgar Bergen</strong>, <strong>McCarthy</strong></td>\n<td><strong>Wendy Barrie &amp; Allen</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Charlie McCarthy&quot;, &quot;Wendy Barrie&quot;, &quot;Vera Vague&quot;]</code></td>\n<td>Charlie McCarthy flirts with British film star Wendy Barrie while Edgar Bergen contends with romantic interruptions from Vera Vague.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 229 / 469 (240 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 673 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Our Miss Brooks",
+        "Eve Arden",
+        "Gale Gordon",
+        "Jeff Chandler",
+        "Colgate-Palmolive",
+        "The Music That Thrills",
+        "Lily Pons",
+        "Andre Kostelanetz",
+        "Chesterfield Cigarettes",
+        "The Comic Weekly Man",
+        "Puck The Comic Weekly",
+        "Hearst",
+        "The Quiz Kids",
+        "Joe Kelly",
+        "Joel Kupperman",
+        "Miles Laboratories",
+        "Transatlantic Call",
+        "Bob Trout",
+        "British Agriculture",
+        "Edgar Bergen",
+        "Charlie McCarthy",
+        "Wendy Barrie",
+        "Vera Vague",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-672-gene-autry-jackie-gleason-fu-manchu-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-672-gene-autry-jackie-gleason-fu-manchu-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Gene Autry, Jackie Gleason & Fu Manchu",
