@@ -6,6 +6,77 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-495-walter-winchell-boston-blackie-ozzie-and-harriet-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-495-walter-winchell-boston-blackie-ozzie-and-harriet-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Walter Winchell, Boston Blackie, and Ozzie & Harriet",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 495)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across staccato news and Broadway gossip, married-sleuth and rogue detective mysteries, beloved domestic family comedies, psychological radio noir, and Treasury war bond docudramas, Walter Winchell on <em>The Jergens Journal</em> (1937), Richard Kollmar as <em>Boston Blackie</em> (1949), Ozzie and Harriet Nelson for International Silver (1947), <em>Dark Venture</em> (1946), <em>Treasury Salute</em> (1945), and Frank Muir on BBC Radio 4 (1937–1977):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 495)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Stocking_1977_MuirMoney.mp3</code> <br><em>Alt</em>: <code>Frank Muir Goes Into Money</code></td>\n<td><strong>&quot;Frank Muir Goes into Money with Jim Hunter&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1977-08-31</td>\n<td><strong>Sustaining</strong><br>BBC Light Comedy</td>\n<td><strong>Frank Muir</strong>, <strong>Jim Hunter</strong></td>\n<td><strong>BBC Radio Features</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Humor&quot;, &quot;Discussion&quot;, &quot;Frank Muir&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>Comedy writer Frank Muir explores the humorous social origins of currency, banking jargon, and monetary eccentricities.</td>\n</tr>\n<tr>\n<td><code>Treasury_1945_McKenney.mp3</code> <br><em>Alt</em>: <code>The Miracle Of Ed McKenney</code></td>\n<td><strong>&quot;The Miracle of Ed McKenney with U.S. Treasury Department&quot;</strong></td>\n<td><strong>Treasury Syndication</strong><br>1945-08-31</td>\n<td><strong>U.S. Treasury</strong><br>War Finance Committee</td>\n<td><strong>Dramatic Voice Ensemble</strong></td>\n<td><strong>Treasury Prod. Unit</strong></td>\n<td><code>[&quot;Docudrama&quot;, &quot;WWII&quot;, &quot;War Bonds&quot;, &quot;Treasury Salute&quot;, &quot;Veterans&quot;]</code></td>\n<td>A blinded combat veteran overcomes despair at an army rehabilitation hospital with help from physical therapists and family.</td>\n</tr>\n<tr>\n<td><code>Blackie_1949_Formula.mp3</code> <br><em>Alt</em>: <code>Boston Blackie 1949 Episode</code></td>\n<td><strong>&quot;The Stolen Formula with Richard Kollmar&quot;</strong></td>\n<td><strong>Ziv Syndication</strong><br>1949-08-31</td>\n<td><strong>Sustaining</strong><br>Detective Mystery</td>\n<td><strong>Richard Kollmar</strong>, <strong>Tarplin</strong></td>\n<td><strong>Frederic W. Ziv (Prod.)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Boston Blackie&quot;, &quot;Richard Kollmar&quot;, &quot;ZIV&quot;]</code></td>\n<td>Boston Blackie protects an elderly chemist framed for murder by counterfeiters attempting to seize his patented alloy formula.</td>\n</tr>\n<tr>\n<td><code>Winchell_1937_Reports.mp3</code> <br><em>Alt</em>: <code>Walter Winchell 1937 Episode</code></td>\n<td><strong>&quot;Walter Winchell Reports with Broadway News &amp; Hollywood Flashes&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1937-08-31<br>9:00 PM EDST</td>\n<td><strong>Andrew Jergens Co.</strong><br>Jergens Lotion</td>\n<td><strong>Walter Winchell</strong>, <strong>Grauer</strong></td>\n<td><strong>NBC News Division</strong></td>\n<td><code>[&quot;News&quot;, &quot;Gossip&quot;, &quot;Commentary&quot;, &quot;Walter Winchell&quot;, &quot;Jergens&quot;]</code></td>\n<td>Walter Winchell rattles through staccato reports on political corruption in Washington, Broadway theatre gossip, and European crisis bulletins.</td>\n</tr>\n<tr>\n<td><code>Dark_Venture_1946_Murdock.mp3</code> <br><em>Alt</em>: <code>Dark Venture 1946 Episode</code></td>\n<td><strong>&quot;The Guilt of Arthur Murdock with John Lake&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1946-08-31<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Psychological Suspense</td>\n<td><strong>John Lake</strong> (Narrator)</td>\n<td><strong>Leonard Lewis (Writer)</strong></td>\n<td><code>[&quot;Suspense&quot;, &quot;Psychological&quot;, &quot;Noir&quot;, &quot;Dark Venture&quot;, &quot;ABC&quot;]</code></td>\n<td>A conniving business partner orchestrates a fatal boiler explosion, only to find himself trapped in a web of psychological guilt.</td>\n</tr>\n<tr>\n<td><code>Ozzie_1947_Tackle.mp3</code> <br><em>Alt</em>: <code>Ozzie And Harriet 1947 Episode</code></td>\n<td><strong>&quot;The Lost Fishing Tackle with Ozzie and Harriet Nelson&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1947-08-31<br>6:00 PM EDT</td>\n<td><strong>Int&#39;l Silver Co.</strong><br>1847 Rogers Bros.</td>\n<td><strong>Ozzie &amp; Harriet Nelson</strong></td>\n<td><strong>Billy May Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;Family&quot;, &quot;Ozzie and Harriet&quot;, &quot;International Silver&quot;]</code></td>\n<td>Ozzie spends his weekend retracing his steps across the neighborhood searching for David and Ricky&#39;s missing fishing tackle.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 270 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 495 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Walter Winchell",
+        "Jergens Journal",
+        "Jergens Lotion",
+        "Boston Blackie",
+        "Richard Kollmar",
+        "Maurice Tarplin",
+        "ZIV",
+        "Ozzie and Harriet",
+        "Ozzie Nelson",
+        "Harriet Hilliard",
+        "International Silver",
+        "Dark Venture",
+        "Treasury Salute",
+        "War Bonds",
+        "Frank Muir",
+        "BBC Radio 4",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-494-jungle-jim-let-george-do-it-casey-crime-photographer-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-494-jungle-jim-let-george-do-it-casey-crime-photographer-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Jungle Jim, Let George Do It, and Casey Crime Photographer",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 494)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across exotic comic strip jungle adventures, West Coast hardboiled detective investigations, newspaper flashbulb murder mysteries, and Bicentennial documentary surveys, Matt Crowley as Alex Raymond&#39;s <em>Jungle Jim</em> (1940, 1946), Bob Bailey and Virginia Gregg in <em>Let George Do It</em> for Chevron (1953), Staats Cotsworth in <em>Casey, Crime Photographer</em> (1950), Gordon MacRae on <em>Texaco Star Theater</em> (1947), and BBC Radio 4&#39;s documentary on Maryland (1940–1975):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 494)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Jungle_Jim_1940_Surprise.mp3</code> <br><em>Alt</em>: <code>The Big Surprise Jungle Jim</code></td>\n<td><strong>&quot;The Big Surprise with Matt Crowley and Ju-Ju&quot;</strong></td>\n<td><strong>Hearst Syndication</strong><br>1940-08-31</td>\n<td><strong>Hearst Syndicate</strong><br>Comic Strip Serial</td>\n<td><strong>Matt Crowley</strong>, <strong>Vola</strong></td>\n<td><strong>Alex Raymond (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;Comics&quot;, &quot;Jungle Jim&quot;, &quot;Alex Raymond&quot;]</code></td>\n<td>Jungle Jim and Kolu discover a hidden native ambush party concealed along the riverbank while guiding an archaeological safari through Malaya.</td>\n</tr>\n<tr>\n<td><code>Jungle_Jim_1946_BatMen.mp3</code> <br><em>Alt</em>: <code>Jungle Jim 1946 Episode</code></td>\n<td><strong>&quot;The Lost City of the Bat Men with Matt Crowley&quot;</strong></td>\n<td><strong>Hearst Syndication</strong><br>1946-08-31</td>\n<td><strong>Hearst Syndicate</strong><br>Comic Strip Serial</td>\n<td><strong>Matt Crowley</strong>, <strong>Mohr</strong></td>\n<td><strong>Alex Raymond (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;Comics&quot;, &quot;Jungle Jim&quot;, &quot;Alex Raymond&quot;]</code></td>\n<td>Jim investigates tribal folklore surrounding winged nocturnal predators guarding subterranean diamond vaults deep in the uncharted jungle.</td>\n</tr>\n<tr>\n<td><code>Texaco_1947_SummerMacRae.mp3</code> <br><em>Alt</em>: <code>Texaco Star Theater 1947 Episode</code></td>\n<td><strong>&quot;Summer Edition with Gordon MacRae and Evelyn Knight&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1947-08-31<br>9:30 PM EDT</td>\n<td><strong>The Texas Company</strong><br>Texaco Sky Chief</td>\n<td><strong>Gordon MacRae</strong>, <strong>Knight</strong></td>\n<td><strong>Victor Young Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Texaco Star Theater&quot;, &quot;Gordon MacRae&quot;, &quot;Texaco&quot;]</code></td>\n<td>Gordon MacRae and Evelyn Knight headline summer musical variety with Broadway duets and popular standards for Texaco.</td>\n</tr>\n<tr>\n<td><code>George_1953_SierraMadre.mp3</code> <br><em>Alt</em>: <code>Let George Do It 1953 Episode</code></td>\n<td><strong>&quot;The Treasure of the Sierra Madre with Bob Bailey&quot;</strong></td>\n<td><strong>Mutual-Don Lee</strong><br>1953-08-31<br>9:00 PM EDT</td>\n<td><strong>Standard Oil of Calif.</strong><br>Chevron / Supreme</td>\n<td><strong>Bob Bailey</strong>, <strong>Gregg</strong></td>\n<td><strong>David Victor (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Let George Do It&quot;, &quot;Bob Bailey&quot;]</code></td>\n<td>George Valentine is hired by a prospector&#39;s widow to find a missing claim deed, uncovering a lethal partnership dispute over gold ore.</td>\n</tr>\n<tr>\n<td><code>Casey_1950_FatalVisitor.mp3</code> <br><em>Alt</em>: <code>The Fatal Visitor Casey</code></td>\n<td><strong>&quot;The Fatal Visitor with Staats Cotsworth&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-08-31<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Newspaper Crime Drama</td>\n<td><strong>Staats Cotsworth</strong>, <strong>Miner</strong></td>\n<td><strong>John Gibson (Ethelbert)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Journalism&quot;, &quot;Casey Crime Photographer&quot;, &quot;CBS&quot;]</code></td>\n<td>Casey stakes out a seaside mansion after a mysterious blackmailer arrives to extort an eccentric retired theatrical producer.</td>\n</tr>\n<tr>\n<td><code>States_1975_Maryland.mp3</code> <br><em>Alt</em>: <code>Maryland States of the Union</code></td>\n<td><strong>&quot;Maryland — The Old Line State with BBC Radio&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1975-08-31<br>10:15 PM BST</td>\n<td><strong>Sustaining</strong><br>Bicentennial Doc</td>\n<td><strong>BBC Documentarians</strong></td>\n<td><strong>BBC Features Dept.</strong></td>\n<td><code>[&quot;Documentary&quot;, &quot;History&quot;, &quot;Geography&quot;, &quot;The States of the Union&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>A BBC documentary explores Maryland&#39;s colonial origins, Chesapeake Bay maritime traditions, and industrial Baltimore history.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 264 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 494 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Jungle Jim",
+        "Alex Raymond",
+        "Matt Crowley",
+        "Hearst",
+        "Let George Do It",
+        "Bob Bailey",
+        "Virginia Gregg",
+        "Chevron",
+        "Casey Crime Photographer",
+        "Staats Cotsworth",
+        "Jan Miner",
+        "Texaco Star Theater",
+        "Gordon MacRae",
+        "Evelyn Knight",
+        "The States of the Union",
+        "Maryland",
+        "BBC Radio 4",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-493-death-valley-sheriff-stars-over-hollywood-benny-goodman-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-493-death-valley-sheriff-stars-over-hollywood-benny-goodman-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Death Valley Sheriff, Stars Over Hollywood, and Benny Goodman",
