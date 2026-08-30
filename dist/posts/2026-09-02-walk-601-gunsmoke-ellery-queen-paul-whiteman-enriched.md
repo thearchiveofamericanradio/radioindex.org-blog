@@ -1,0 +1,33 @@
+# Archival Dispatch: September 2 Calendar Walk — Gunsmoke, Ellery Queen & Paul Whiteman
+
+**Date**: 2026-09-02  
+**Author**: radio index  
+**Tags**: September 2, Calendar Walk, Gunsmoke, William Conrad, Parley Baer, Georgia Ellis, Howard McNear, John Meston, LM Cigarettes, The Adventures of Ellery Queen, Sydney Smith, Santos Ortega, Bromo Seltzer, Radio Hall of Fame, Paul Whiteman, Philco, I Was a Communist for the FBI, Dana Andrews, The Pacific Story, NBC, Alternate Titles, Original Filenames
+
+---
+
+## September 2 Archival Metadata Enrichment (Increment 601)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across iconic frontier western drama, classic whodunit deduction mysteries, big band radio hall of fame swing, Cold War counter-espionage, and post-war Pacific documentary reports, William Conrad in *Gunsmoke* for L&M (1956), Sydney Smith in *The Adventures of Ellery Queen* for Bromo-Seltzer (1944), Paul Whiteman on *The Philco Radio Hall of Fame* (1945), Dana Andrews in *I Was a Communist for the FBI* (1953), *The Pacific Story* on Hong Kong (1945), and NBC's USS Missouri surrender recap (1944–1956):
+
+---
+
+## 1. *September 2 Archival Inventory (Increment 601)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Gunsmoke_1956_OldPal.mp3` <br>*Alt*: `Old Pal Gunsmoke` | **"Old Pal with William Conrad and L&M Cigarettes"** | **CBS (KNX)**<br>1956-09-02<br>8:00 PM EDT | **Liggett & Myers**<br>L&M Filter Cigarettes | **William Conrad (Dillon)** | **John Meston & Macdonnell** | `["Western", "Drama", "Gunsmoke", "William Conrad", "LM"]` | Marshal Matt Dillon confronts an old frontier friend who turns to violent armed robbery to pay off spiraling gambling debts in Dodge City. |
+| `Ellery_1944_DeadMansBones.mp3` <br>*Alt*: `The Dead Man's Bones Ellery Queen` | **"The Adventure of the Dead Man's Bones with Sydney Smith"** | **NBC (WEAF)**<br>1944-09-02<br>7:30 PM EWT | **Emerson Drug Co.**<br>Bromo-Seltzer | **Sydney Smith (Ellery)** | **Santos Ortega & de Corsia** | `["Detective", "Mystery", "Ellery Queen", "Sydney Smith", "Bromo Seltzer"]` | Ellery Queen investigates a macabre puzzle when skeletal human remains are delivered inside an archaeological research shipment. |
+| `HallFame_1945_IWantToBeHappy.mp3` <br>*Alt*: `I Want To Be Happy Radio Hall of Fame` | **"I Want to Be Happy with Paul Whiteman and Philco"** | **ABC Blue (WJZ)**<br>1945-09-02<br>6:00 PM EWT | **Philco Corporation**<br>Philco Radios | **Paul Whiteman Orch.** | **Philco Radio Hall Unit** | `["Music", "Variety", "Big Band", "Radio Hall Of Fame", "Philco"]` | Paul Whiteman conducts his orchestra in joyous post-war swing arrangements featuring the show tune standard I Want to Be Happy. |
+| `FBI_1953_InhumanElement.mp3` <br>*Alt*: `IWCF The Inhuman Element` | **"The Inhuman Element with Dana Andrews as Matt Cvetic"** | **Ziv Syndication**<br>1953-09-02 | **Sustaining**<br>Cold War Drama | **Dana Andrews (Cvetic)** | **Frederic W. Ziv Staff** | `["Drama", "Espionage", "Cold War", "FBI", "Dana Andrews"]` | Undercover operative Matt Cvetic foils a cell plot to infiltrate a municipal water purification plant and blame union leadership. |
+| `Pacific_1945_HongKong.mp3` <br>*Alt*: `Hong Kong The Pacific Story` | **"Hong Kong and the Post-War Asian Recovery with NBC Pacific"** | **NBC (KFI)**<br>1945-09-02<br>11:30 PM EWT | **Sustaining**<br>Pacific Documentary | **Documentary Cast** | **Arnold Marquis (Prod)** | `["Documentary", "History", "Pacific Story", "Hong Kong", "NBC"]` | A documentary dramatization explores the liberation of Hong Kong and the political challenges facing British colonial rule across Southeast Asia. |
+| `RadioNews_1945_SurrenderRecap.mp3` <br>*Alt*: `NBC Japanese Surrender Broadcast Recap` | **"NBC Japanese Surrender Broadcast Recap with Merrill Mueller"** | **NBC (WEAF)**<br>1945-09-02 | **Sustaining**<br>Historic Recap | **Merrill Mueller (Anchor)** | **Webley Edwards & Bell** | `["News", "History", "WWII", "Surrender", "NBC"]` | NBC newsmen provide eyewitness commentary and recap the historic surrender ceremonies conducted aboard the USS Missouri. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 218 / 480 (262 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
