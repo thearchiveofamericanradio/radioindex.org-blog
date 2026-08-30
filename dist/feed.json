@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-735-backstage-wife-mr-malone-strange-as-it-seems-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-735-backstage-wife-mr-malone-strange-as-it-seems-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Backstage Wife, Mr. Malone & Strange As It Seems",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 735)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Frank and Anne Hummert&#39;s classic daytime theatrical soap <em>Backstage Wife</em> for Whitehall Pharmacal, Gene Kelly starring as Craig Rice&#39;s wisecracking Chicago attorney on <em>The Amazing Mr. Malone</em>, John Hix&#39;s oddities docudrama <em>Strange As It Seems</em> for Palmolive, Dick Powell&#39;s smooth romantic ballads on <em>Campana Serenade</em>, and lush string serenades on <em>Heart Throbs</em>, Claire Niesen (1950), Gene Kelly (1948), John Hix (1935, 1936), Dick Powell (1943), and <em>Heart Throbs</em> (1934–1950):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 735)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BackstageWife_1950_ClaudiaSoothes.mp3</code> <br><em>Alt</em>: <code>Claudia Soothes an Angry Larry Noble Mary Noble</code></td>\n<td><strong>&quot;Claudia Soothes an Angry Larry Noble with Claire Niesen&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1950-09-04<br>4:00 PM EDT</td>\n<td><strong>Whitehall Pharmacal</strong><br>Kolynos &amp; Anacin</td>\n<td><strong>Claire Niesen (Mary)</strong></td>\n<td><strong>James Meighan &amp; Hummerts</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Backstage Wife&quot;, &quot;Claire Niesen&quot;, &quot;Whitehall&quot;]</code></td>\n<td>Mary Noble observes quietly as an alluring Broadway co-star attempts to soothe Larry Noble&#39;s backstage temper tantrums before opening night.</td>\n</tr>\n<tr>\n<td><code>MrMalone_1948_CrimsonClew.mp3</code> <br><em>Alt</em>: <code>The Amazing Mr Malone 1948 Episode</code></td>\n<td><strong>&quot;The Crimson Clew with Gene Kelly as John J. Malone&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-09-04<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Legal Detective</td>\n<td><strong>Gene Kelly (Malone)</strong></td>\n<td><strong>Craig Rice (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Amazing Mr Malone&quot;, &quot;Gene Kelly&quot;, &quot;Craig Rice&quot;]</code></td>\n<td>Chicago criminal defense attorney John J. Malone investigates a murdered gambler found clutching a blood-stained casino voucher.</td>\n</tr>\n<tr>\n<td><code>StrangeSeems_1935_NeckVerse.mp3</code> <br><em>Alt</em>: <code>The Neck Verse (2) Strange As It Seems</code></td>\n<td><strong>&quot;The Neck Verse with John Hix&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1935-09-04<br>9:30 PM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Shave Cream</td>\n<td><strong>John Hix (Host)</strong></td>\n<td><strong>CBS Repertory Staff</strong></td>\n<td><code>[&quot;History&quot;, &quot;Oddities&quot;, &quot;Strange As It Seems&quot;, &quot;John Hix&quot;, &quot;Palmolive&quot;]</code></td>\n<td>A historical dramatization detailing the ancient English legal loophole of Benefit of Clergy, where reciting a Latin psalm spared felons from the gallows.</td>\n</tr>\n<tr>\n<td><code>StrangeSeems_1936_MiserSpendthrift.mp3</code> <br><em>Alt</em>: <code>The Miser Who Became A Spendthrift Strange As It Seems</code></td>\n<td><strong>&quot;The Miser Who Became a Spendthrift with John Hix&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1936-09-04<br>9:00 PM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Soap</td>\n<td><strong>John Hix (Host)</strong></td>\n<td><strong>CBS Repertory Staff</strong></td>\n<td><code>[&quot;History&quot;, &quot;Oddities&quot;, &quot;Strange As It Seems&quot;, &quot;John Hix&quot;, &quot;Palmolive&quot;]</code></td>\n<td>A biographical sketch of an eccentric 18th-century French hoarder who suddenly liquidated his gold fortune to build elaborate public monuments.</td>\n</tr>\n<tr>\n<td><code>HeartThrobs_1934_ManhattanMelodies.mp3</code> <br><em>Alt</em>: <code>Heart Throbs Singles &amp; Doubles Collection</code></td>\n<td><strong>&quot;Romantic Melodies of Manhattan with WOR Studio Orchestra&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1934-09-04</td>\n<td><strong>Sustaining</strong><br>Chamber Ensemble</td>\n<td><strong>WOR String Ensemble</strong></td>\n<td><strong>WOR Music Director</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Romantic&quot;, &quot;Heart Throbs&quot;, &quot;WOR&quot;, &quot;Orchestra&quot;]</code></td>\n<td>A studio chamber orchestra performs lush lyrical string arrangements of popular Manhattan love songs and operetta waltzes.</td>\n</tr>\n<tr>\n<td><code>CampanaSerenade_1943_DickPowell.mp3</code> <br><em>Alt</em>: <code>Campana Serenade Singles &amp; Doubles Collection</code></td>\n<td><strong>&quot;Romantic Serenades with Dick Powell and Campana Italian Balm&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-09-04<br>1:00 PM EWT</td>\n<td><strong>Campana Sales Co.</strong><br>Campana Italian Balm</td>\n<td><strong>Dick Powell (Host)</strong></td>\n<td><strong>Lud Gluskin &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Campana Serenade&quot;, &quot;Dick Powell&quot;, &quot;Campana&quot;]</code></td>\n<td>Dick Powell croons popular romantic ballads and introduces sentimental listener dedication requests.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 132 / 471 (275 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 735 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Backstage Wife",
+        "Claire Niesen",
+        "James Meighan",
+        "Frank and Anne Hummert",
+        "Whitehall Pharmacal",
+        "The Amazing Mr Malone",
+        "Gene Kelly",
+        "Craig Rice",
+        "Strange As It Seems",
+        "John Hix",
+        "Palmolive",
+        "Colgate",
+        "Campana Serenade",
+        "Dick Powell",
+        "Campana Italian Balm",
+        "Heart Throbs",
+        "WOR",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-734-bulldog-drummond-elmer-davis-silver-eagle-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-734-bulldog-drummond-elmer-davis-silver-eagle-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Bulldog Drummond, Elmer Davis & The Silver Eagle",
