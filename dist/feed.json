@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-712-jean-shepherd-peter-salem-mounties-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-712-jean-shepherd-peter-salem-mounties-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Jean Shepherd Eras, Peter Salem & Mounties",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 712)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across three distinct eras of nocturnal storytelling with Jean Shepherd on WOR New York (his 1960 taxi/circus monologues, his 1965 Hammond adolescence reflections, and his 1973 radio log retrospective), small-town sleuth mysteries with Santos Ortega on <em>The Affairs of Peter Salem</em>, lively wartime national debates on price controls on <em>America&#39;s Town Meeting of the Air</em>, and Canadian Northwest Mounted Police cliffhangers, Jean Shepherd (1960, 1965, 1973), Santos Ortega (1950), <em>America&#39;s Town Meeting</em> (1942), and <em>Blair of the Mounties</em> (1935–1973):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 712)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JeanShepherd_1960_CircusLife.mp3</code> <br><em>Alt</em>: <code>The A Moment Of Lucidity At The &#39;Aggressive Cab Company,&#39; A Visit To &#39;The Circus Of Life&#39; Jean Shepherd Show, The</code></td>\n<td><strong>&quot;The Circus of Life and Aggressive Cab Company with Jean Shepherd&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1960-09-03<br>11:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Midnight Monologue</td>\n<td><strong>Jean Shepherd (Host)</strong></td>\n<td><strong>WOR Production Staff</strong></td>\n<td><code>[&quot;Humor&quot;, &quot;Talk&quot;, &quot;Jean Shepherd&quot;, &quot;WOR&quot;, &quot;New York&quot;]</code></td>\n<td><code>null</code></td>\n<td>Jean Shepherd delivers an improvisational late-night monologue analyzing aggressive Manhattan taxicab drivers and carnival sideshow philosophy.</td>\n</tr>\n<tr>\n<td><code>JeanShepherd_1965_SheikJrHigh.mp3</code> <br><em>Alt</em>: <code>Sheik Of Jr. High Jean Shepherd Show, The</code></td>\n<td><strong>&quot;The Sheik of Junior High School with Jean Shepherd&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1965-09-03<br>11:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Nocturnal Monologue</td>\n<td><strong>Jean Shepherd (Host)</strong></td>\n<td><strong>WOR Production Staff</strong></td>\n<td><code>[&quot;Humor&quot;, &quot;Storytelling&quot;, &quot;Jean Shepherd&quot;, &quot;WOR&quot;, &quot;Hammond Indiana&quot;]</code></td>\n<td><code>null</code></td>\n<td>Jean Shepherd reminisces about 1930s adolescent bravado, pompadour haircuts, and awkward first dances in northern Indiana.</td>\n</tr>\n<tr>\n<td><code>JeanShepherd_1973_Radio1939.mp3</code> <br><em>Alt</em>: <code>Radio Schedule 1939 Jean Shepherd Show, The</code></td>\n<td><strong>&quot;Radio Schedule of 1939 and Golden Age Nostalgia with Jean Shepherd&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1973-09-03<br>11:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Midnight Monologue</td>\n<td><strong>Jean Shepherd (Host)</strong></td>\n<td><strong>WOR Production Staff</strong></td>\n<td><code>[&quot;Humor&quot;, &quot;Nostalgia&quot;, &quot;Jean Shepherd&quot;, &quot;WOR&quot;, &quot;Old Time Radio&quot;]</code></td>\n<td><code>null</code></td>\n<td>Jean Shepherd pores over a yellowed 1939 newspaper radio log, recalling pre-war network serials, sound effects, and boyhood listening rituals.</td>\n</tr>\n<tr>\n<td><code>PeterSalem_1950_EmeraldBrooch.mp3</code> <br><em>Alt</em>: <code>Affairs Of Peter Salem, The 1950 Episode</code></td>\n<td><strong>&quot;The Case of the Emerald Brooch with Santos Ortega&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-03<br>4:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Santos Ortega (Salem)</strong></td>\n<td><strong>Jack Grimes &amp; Vittes</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Affairs Of Peter Salem&quot;, &quot;Santos Ortega&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>null</code></td>\n<td>Small-town sleuth Peter Salem investigates an armed jewelry store heist involving an irreplaceable antique heirloom brooch.</td>\n</tr>\n<tr>\n<td><code>TownMeeting_1942_PricesWages.mp3</code> <br><em>Alt</em>: <code>Episode America&#39;s Town Meeting of the Air</code></td>\n<td><strong>&quot;Should the Federal Government Control Prices and Wages with Denny&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1942-09-03<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Public Debate</td>\n<td><strong>George V. Denny (Mod.)</strong></td>\n<td><strong>Leon Henderson &amp; Panel</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Debate&quot;, &quot;Americas Town Meeting&quot;, &quot;George V Denny&quot;, &quot;WWII&quot;]</code></td>\n<td><code>null</code></td>\n<td>Government officials and labor leaders debate federal wartime wage freezes and emergency price controls to curb domestic inflation.</td>\n</tr>\n<tr>\n<td><code>BlairMounties_1935_FurThieves.mp3</code> <br><em>Alt</em>: <code>Episode 13 Blair of the Mounties</code></td>\n<td><strong>&quot;Trailing the Fur Thieves with Col. Rhys Davies&quot;</strong></td>\n<td><strong>CJOR / Syndicated</strong><br>1935-09-03</td>\n<td><strong>Sustaining</strong><br>Northwest Adventure</td>\n<td><strong>Col. Rhys Davies (Blair)</strong></td>\n<td><strong>Canadian Drama Cast</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;RCMP&quot;, &quot;Blair Of The Mounties&quot;, &quot;Rhys Davies&quot;, &quot;Canada&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Yukon Fur Patrol&quot;, &quot;part&quot;: 13, &quot;total_parts&quot;: 39}</code></td>\n<td>Inspector Blair of the Royal Canadian Mounted Police pursues poachers smuggling stolen beaver pelts through the rugged northern Yukon pass.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 463 / 469 (6 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 712 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Jean Shepherd Show",
+        "Jean Shepherd",
+        "WOR New York",
+        "Nostalgia",
+        "Old Time Radio",
+        "The Affairs of Peter Salem",
+        "Santos Ortega",
+        "Jack Grimes",
+        "Louis Vittes",
+        "America's Town Meeting of the Air",
+        "George V Denny Jr",
+        "OPA",
+        "Price Controls",
+        "Blair of the Mounties",
+        "Rhys Davies",
+        "Serial Story Arc",
+        "Yukon Fur Patrol",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-711-the-falcon-dan-duryea-vincent-price-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-711-the-falcon-dan-duryea-vincent-price-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — The Falcon, Dan Duryea & Vincent Price",

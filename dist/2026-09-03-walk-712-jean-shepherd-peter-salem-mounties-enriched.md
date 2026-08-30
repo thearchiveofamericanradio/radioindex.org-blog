@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Jean Shepherd Eras, Peter Salem & Mounties
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, The Jean Shepherd Show, Jean Shepherd, WOR New York, Nostalgia, Old Time Radio, The Affairs of Peter Salem, Santos Ortega, Jack Grimes, Louis Vittes, America's Town Meeting of the Air, George V Denny Jr, OPA, Price Controls, Blair of the Mounties, Rhys Davies, Serial Story Arc, Yukon Fur Patrol, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 712)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on **September 3** across three distinct eras of nocturnal storytelling with Jean Shepherd on WOR New York (his 1960 taxi/circus monologues, his 1965 Hammond adolescence reflections, and his 1973 radio log retrospective), small-town sleuth mysteries with Santos Ortega on *The Affairs of Peter Salem*, lively wartime national debates on price controls on *America's Town Meeting of the Air*, and Canadian Northwest Mounted Police cliffhangers, Jean Shepherd (1960, 1965, 1973), Santos Ortega (1950), *America's Town Meeting* (1942), and *Blair of the Mounties* (1935–1973):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 712)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Arc Metadata | Story Synopsis |
+|---|---|---|---|---|---|---|---|---|
+| `JeanShepherd_1960_CircusLife.mp3` <br>*Alt*: `The A Moment Of Lucidity At The 'Aggressive Cab Company,' A Visit To 'The Circus Of Life' Jean Shepherd Show, The` | **"The Circus of Life and Aggressive Cab Company with Jean Shepherd"** | **WOR New York**<br>1960-09-03<br>11:15 PM EDT | **Sustaining**<br>Midnight Monologue | **Jean Shepherd (Host)** | **WOR Production Staff** | `["Humor", "Talk", "Jean Shepherd", "WOR", "New York"]` | `null` | Jean Shepherd delivers an improvisational late-night monologue analyzing aggressive Manhattan taxicab drivers and carnival sideshow philosophy. |
+| `JeanShepherd_1965_SheikJrHigh.mp3` <br>*Alt*: `Sheik Of Jr. High Jean Shepherd Show, The` | **"The Sheik of Junior High School with Jean Shepherd"** | **WOR New York**<br>1965-09-03<br>11:15 PM EDT | **Sustaining**<br>Nocturnal Monologue | **Jean Shepherd (Host)** | **WOR Production Staff** | `["Humor", "Storytelling", "Jean Shepherd", "WOR", "Hammond Indiana"]` | `null` | Jean Shepherd reminisces about 1930s adolescent bravado, pompadour haircuts, and awkward first dances in northern Indiana. |
+| `JeanShepherd_1973_Radio1939.mp3` <br>*Alt*: `Radio Schedule 1939 Jean Shepherd Show, The` | **"Radio Schedule of 1939 and Golden Age Nostalgia with Jean Shepherd"** | **WOR New York**<br>1973-09-03<br>11:15 PM EDT | **Sustaining**<br>Midnight Monologue | **Jean Shepherd (Host)** | **WOR Production Staff** | `["Humor", "Nostalgia", "Jean Shepherd", "WOR", "Old Time Radio"]` | `null` | Jean Shepherd pores over a yellowed 1939 newspaper radio log, recalling pre-war network serials, sound effects, and boyhood listening rituals. |
+| `PeterSalem_1950_EmeraldBrooch.mp3` <br>*Alt*: `Affairs Of Peter Salem, The 1950 Episode` | **"The Case of the Emerald Brooch with Santos Ortega"** | **Mutual (WOR)**<br>1950-09-03<br>4:00 PM EDT | **Sustaining**<br>Detective Drama | **Santos Ortega (Salem)** | **Jack Grimes & Vittes** | `["Detective", "Mystery", "The Affairs Of Peter Salem", "Santos Ortega", "Mutual"]` | `null` | Small-town sleuth Peter Salem investigates an armed jewelry store heist involving an irreplaceable antique heirloom brooch. |
+| `TownMeeting_1942_PricesWages.mp3` <br>*Alt*: `Episode America's Town Meeting of the Air` | **"Should the Federal Government Control Prices and Wages with Denny"** | **Blue Network**<br>1942-09-03<br>8:30 PM EWT | **Sustaining**<br>Public Debate | **George V. Denny (Mod.)** | **Leon Henderson & Panel** | `["Public Affairs", "Debate", "Americas Town Meeting", "George V Denny", "WWII"]` | `null` | Government officials and labor leaders debate federal wartime wage freezes and emergency price controls to curb domestic inflation. |
+| `BlairMounties_1935_FurThieves.mp3` <br>*Alt*: `Episode 13 Blair of the Mounties` | **"Trailing the Fur Thieves with Col. Rhys Davies"** | **CJOR / Syndicated**<br>1935-09-03 | **Sustaining**<br>Northwest Adventure | **Col. Rhys Davies (Blair)** | **Canadian Drama Cast** | `["Adventure", "RCMP", "Blair Of The Mounties", "Rhys Davies", "Canada"]` | `{"title": "Yukon Fur Patrol", "part": 13, "total_parts": 39}` | Inspector Blair of the Royal Canadian Mounted Police pursues poachers smuggling stolen beaver pelts through the rugged northern Yukon pass. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 463 / 469 (6 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
