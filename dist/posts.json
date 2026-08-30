@@ -6,6 +6,46 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-738-gunsmoke-ellery-queen-senator-truman-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-738-gunsmoke-ellery-queen-senator-truman-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Gunsmoke, Ellery Queen & Senator Truman",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 738)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across William Conrad starring as Marshal Matt Dillon in John Meston&#39;s prairie arson tragedy <em>Beeker&#39;s Barn</em> on <em>Gunsmoke</em>, Sydney Smith deducing coastal yacht homicides on <em>The Adventures of Ellery Queen</em> for Bromo-Seltzer, Senator Harry S. Truman explaining wartime production investigations on KMBC, military strategy analysis on <em>NBC War Telescope</em>, Tommy Dorsey swinging on <em>Spotlight Bands</em> for Coca-Cola, and locked-room murder drama on <em>Masters of Mystery</em>, William Conrad (1955), Sydney Smith (1943), Harry S. Truman (1942), Tommy Dorsey (1943), and Carlton Moss (1942–1957):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 738)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gunsmoke_1955_BeekersBarn.mp3</code> <br><em>Alt</em>: <code>Beeker&#39;s Barn Gunsmoke</code></td>\n<td><strong>&quot;Beeker&#39;s Barn with William Conrad as Matt Dillon&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1955-09-04<br>6:30 PM EDT</td>\n<td><strong>Liggett &amp; Myers</strong><br>L&amp;M Filter Cigarettes</td>\n<td><strong>William Conrad (Dillon)</strong></td>\n<td><strong>Meston &amp; Macdonnell</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Drama&quot;, &quot;Gunsmoke&quot;, &quot;William Conrad&quot;, &quot;John Meston&quot;]</code></td>\n<td>Marshal Matt Dillon investigates a suspicious prairie barn fire that destroyed an honest homesteader&#39;s winter feed supply and left a rival cattleman dead.</td>\n</tr>\n<tr>\n<td><code>ElleryQueen_1943_DarkCloud.mp3</code> <br><em>Alt</em>: <code>The Dark Cloud Adventures of Ellery Queen, The</code></td>\n<td><strong>&quot;The Adventure of the Dark Cloud with Sydney Smith&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-09-04<br>7:30 PM EWT</td>\n<td><strong>Emerson Drug Co.</strong><br>Bromo-Seltzer</td>\n<td><strong>Sydney Smith (Ellery)</strong></td>\n<td><strong>Santos Ortega &amp; Dannay</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Ellery Queen&quot;, &quot;Sydney Smith&quot;, &quot;Bromo-Seltzer&quot;]</code></td>\n<td>Ellery Queen challenges armchair guest detectives to deduce which yacht guest poisoned a tyrannical financier during a sudden coastal squall.</td>\n</tr>\n<tr>\n<td><code>Truman_1942_KMBCInterview.mp3</code> <br><em>Alt</em>: <code>Kmbc Senator Truman Interview Radio News</code></td>\n<td><strong>&quot;Senator Harry S. Truman on the Defense Committee via KMBC&quot;</strong></td>\n<td><strong>KMBC Kansas City</strong><br>1942-09-04</td>\n<td><strong>Sustaining</strong><br>Special News Interview</td>\n<td><strong>Sen. Harry S. Truman</strong></td>\n<td><strong>KMBC News Department</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;Radio News&quot;, &quot;Harry S Truman&quot;, &quot;KMBC&quot;]</code></td>\n<td>Senator Harry S. Truman discusses his congressional committee&#39;s ongoing nationwide investigations into wartime defense production waste and military contracting efficiency.</td>\n</tr>\n<tr>\n<td><code>NBCWar_1943_WarTelescope.mp3</code> <br><em>Alt</em>: <code>NBC War Telescope The Planning And Organization Of The War Radio News</code></td>\n<td><strong>&quot;NBC War Telescope: Planning and Organization of the War&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-09-04</td>\n<td><strong>Sustaining</strong><br>Military Strategy Review</td>\n<td><strong>NBC Military Analysts</strong></td>\n<td><strong>NBC News Room</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;Radio News&quot;, &quot;NBC News&quot;, &quot;Military Analysis&quot;]</code></td>\n<td>Military analysts review the Quebec Conference decisions, Allied amphibious logistics, and upcoming strategic offensives across the European and Pacific theaters.</td>\n</tr>\n<tr>\n<td><code>SpotlightBands_1943_TommyDorsey2.mp3</code> <br><em>Alt</em>: <code>Tommy Dorsey, First Song - I&#39;ve Found A New Baby Spotlight Bands</code></td>\n<td><strong>&quot;I&#39;ve Found a New Baby with Tommy Dorsey and His Orchestra&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1943-09-04<br>9:30 PM EWT</td>\n<td><strong>The Coca-Cola Co.</strong><br>Coca-Cola</td>\n<td><strong>Tommy Dorsey &amp; Orch.</strong></td>\n<td><strong>Spotlight Bands Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Spotlight Bands&quot;, &quot;Tommy Dorsey&quot;, &quot;Coca-Cola&quot;]</code></td>\n<td>Tommy Dorsey leads his swing band in high-energy dance arrangements and trombone showcases recorded live before cheering servicemen.</td>\n</tr>\n<tr>\n<td><code>MastersMystery_1957_VanishingCorpse.mp3</code> <br><em>Alt</em>: <code>Episode 4 Masters of Mystery</code></td>\n<td><strong>&quot;The Vanishing Corpse with Carlton Moss&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1957-09-04</td>\n<td><strong>Sustaining</strong><br>Mystery Anthology</td>\n<td><strong>Carlton Moss (Host)</strong></td>\n<td><strong>WOR Dramatic Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Anthology&quot;, &quot;Masters of Mystery&quot;, &quot;Carlton Moss&quot;, &quot;WOR&quot;]</code></td>\n<td>A country coroner arrives at a secluded mansion to examine a poisoning victim only to discover the body has vanished from a locked parlor.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 150 / 471 (257 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 738 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Gunsmoke",
+        "William Conrad",
+        "John Meston",
+        "Norman Macdonnell",
+        "Parley Baer",
+        "Georgia Ellis",
+        "The Adventures of Ellery Queen",
+        "Sydney Smith",
+        "Santos Ortega",
+        "Bromo-Seltzer",
+        "Radio News",
+        "Harry S Truman",
+        "KMBC",
+        "Truman Committee",
+        "NBC War Telescope",
+        "Military Strategy",
+        "Spotlight Bands",
+        "Tommy Dorsey",
+        "Coca-Cola",
+        "Masters of Mystery",
+        "Carlton Moss",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-737-lux-radio-theatre-murrow-london-mr-da-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-737-lux-radio-theatre-murrow-london-mr-da-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Lux Radio Theatre, Murrow in London & Mr. DA",
