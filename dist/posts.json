@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-779-the-falcon-life-with-luigi-town-meeting-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-779-the-falcon-life-with-luigi-town-meeting-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — The Falcon, Life with Luigi & Town Meeting",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 779)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across James Meighan &amp; Les Damon as Michael Waring in <em>The Falcon</em> for Gem Razors and Kraft Mayonnaise, J. Carrol Naish navigating neighborhood rivalries on <em>Life with Luigi</em> for Wrigley&#39;s Spearmint Gum, daytime comedy chatter on <em>Clara, Lu &#39;n&#39; Em</em> for Super Suds, and Cold War foreign policy debates on <em>America&#39;s Town Meeting of the Air</em>, James Meighan (1945), J. Carrol Naish (1951), and George V. Denny Jr. (1936–1955):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 779)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TheFalcon_1945_MurderNoBargain.mp3</code> <br><em>Alt</em>: <code>Murder Is No Bargain The Falcon</code></td>\n<td><strong>&quot;Murder Is No Bargain with James Meighan&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1945-09-04<br>8:30 PM EWT</td>\n<td><strong>American Safety Razor</strong><br>Gem Razors &amp; Blades</td>\n<td><strong>James Meighan &amp; Alexander</strong></td>\n<td><strong>Mutual Drama Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;The Falcon&quot;, &quot;James Meighan&quot;, &quot;Gem Razors&quot;]</code></td>\n<td>Freelance investigator Michael Waring probes the fatal strangling of a bargain-hunting department store buyer caught in a black-market racket.</td>\n</tr>\n<tr>\n<td><code>TheFalcon_1949_RichPoorGirl.mp3</code> <br><em>Alt</em>: <code>The Falcon 1949 Episode</code></td>\n<td><strong>&quot;The Case of the Rich Little Poor Girl with Les Damon&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-09-04<br>7:00 PM EDT</td>\n<td><strong>Kraft Foods</strong><br>Mayonnaise &amp; Miracle Whip</td>\n<td><strong>Les Damon &amp; Ken Lynch</strong></td>\n<td><strong>Mutual Production Crew</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;The Falcon&quot;, &quot;Les Damon&quot;, &quot;Kraft&quot;]</code></td>\n<td>The Falcon investigates the kidnapping and death threats surrounding a reclusive young heiress whose family fortune hides a lethal secret.</td>\n</tr>\n<tr>\n<td><code>ClaraLuEm_1936_Gossiping.mp3</code> <br><em>Alt</em>: <code>Episode Clara, Lu and Em</code></td>\n<td><strong>&quot;Neighborhood Gossiping and Cooking Remedies with Super Suds&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1936-09-04<br>10:15 AM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Super Suds Soap Beads</td>\n<td><strong>Starkey, Carothers &amp; King</strong></td>\n<td><strong>Writers/Performers</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Serial&quot;, &quot;Clara Lu and Em&quot;, &quot;Super Suds&quot;, &quot;NBC&quot;]</code></td>\n<td>Three gossipy Midwestern housewives chat over tea about neighborhood weddings, canning season recipes, and family squabbles.</td>\n</tr>\n<tr>\n<td><code>LifeWithLuigi_1951_BabyContest.mp3</code> <br><em>Alt</em>: <code>Naming The Oriellys Baby Contest Life with Luigi</code></td>\n<td><strong>&quot;Naming the O&#39;Reillys&#39; Baby Contest with J. Carrol Naish&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-09-04<br>9:00 PM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Wrigley&#39;s Spearmint Gum</td>\n<td><strong>J. Carrol Naish &amp; Reed</strong></td>\n<td><strong>Cy Howard (Creator)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Life with Luigi&quot;, &quot;J Carrol Naish&quot;, &quot;Wrigleys&quot;]</code></td>\n<td>Luigi Basco organizes an energetic community naming contest for his Irish neighbors&#39; newborn child, triggering a hilarious Italian-Irish cultural rivalry.</td>\n</tr>\n<tr>\n<td><code>TownMeeting_1951_WarOfIdeas.mp3</code> <br><em>Alt</em>: <code>Episode America&#39;s Town Meeting of the Air</code></td>\n<td><strong>&quot;Are We Winning the War of Ideas with George V. Denny Jr.&quot;</strong></td>\n<td><strong>ABC Radio</strong><br>1951-09-04<br>9:00 PM EDT</td>\n<td><strong>Town Hall</strong><br>Public Affairs Forum</td>\n<td><strong>George V. Denny Jr.</strong></td>\n<td><strong>Town Hall Debate Panel</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Discussion&quot;, &quot;Americas Town Meeting of the Air&quot;, &quot;George V Denny Jr&quot;, &quot;ABC&quot;]</code></td>\n<td>Guest panelists and audience members engage in a spirited debate examining Cold War diplomatic propaganda and democratic counter-messaging.</td>\n</tr>\n<tr>\n<td><code>TownMeeting_1955_FormosaFarEast.mp3</code> <br><em>Alt</em>: <code>Episode America&#39;s Town Meeting of the Air</code></td>\n<td><strong>&quot;Formosa and United States Far Eastern Policy with ABC&quot;</strong></td>\n<td><strong>ABC Radio</strong><br>1955-09-04<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Civic Forum</td>\n<td><strong>ABC Debate Panel</strong></td>\n<td><strong>ABC News Analysts</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Discussion&quot;, &quot;Americas Town Meeting of the Air&quot;, &quot;Foreign Policy&quot;, &quot;ABC&quot;]</code></td>\n<td>Foreign policy experts clash over American military commitments in the Taiwan Strait and shifting geopolitical alliances across East Asia.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 396 / 471 (11 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 779 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Falcon",
+        "James Meighan",
+        "Les Damon",
+        "Gem Razor Blades",
+        "Kraft Foods",
+        "Life with Luigi",
+        "J Carrol Naish",
+        "Alan Reed",
+        "Wrigleys Spearmint Gum",
+        "Cy Howard",
+        "Clara Lu and Em",
+        "Super Suds",
+        "Americas Town Meeting of the Air",
+        "George V Denny Jr",
+        "ABC Public Affairs",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-778-bing-crosby-my-friend-irma-chick-carter-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-778-bing-crosby-my-friend-irma-chick-carter-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Bing Crosby, My Friend Irma & Chick Carter",
