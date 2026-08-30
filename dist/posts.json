@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-462-dark-passage-under-arrest-happy-time-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-462-dark-passage-under-arrest-happy-time-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Dark Passage, Under Arrest, and The Happy Time",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 462)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American radio noir, police procedurals, literary serialized adaptations, daytime soap operas, and mystery serials, Humphrey Bogart and Lauren Bacall in <em>Dark Passage</em> (1959), Craig McDonnell and Joe DeSantis in <em>Under Arrest</em> (1947, 1952), Robert Fontaine&#39;s <em>The Happy Time</em> (1945), daytime serial drama <em>Young Widder Brown</em> for Sterling Drug (1950), and <em>Two on a Clue</em> (1945–1959):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 462)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Under_Arrest_1947_Plate.mp3</code> <br><em>Alt</em>: <code>Under Arrest 1947 Episode</code></td>\n<td><strong>&quot;The Case of the Counterfeit Plate with Craig McDonnell&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-08-31<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Craig McDonnell</strong>, <strong>Voice Cast</strong></td>\n<td><strong>Wynn Wright (Director)</strong></td>\n<td><code>[&quot;Police Procedural&quot;, &quot;Detective&quot;, &quot;Crime&quot;, &quot;Under Arrest&quot;, &quot;Mutual&quot;]</code></td>\n<td>Police Captain John Drake investigates the murder of an engraver who hid forged currency engraving plates in a bowling alley locker.</td>\n</tr>\n<tr>\n<td><code>Under_Arrest_1952_Arson.mp3</code> <br><em>Alt</em>: <code>Under Arrest 1952 Episode</code></td>\n<td><strong>&quot;The Waterfront Arson Ring with Joe DeSantis&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-08-31<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Joe DeSantis</strong>, <strong>Voice Cast</strong></td>\n<td><strong>Under Arrest Staff</strong></td>\n<td><code>[&quot;Police Procedural&quot;, &quot;Detective&quot;, &quot;Crime&quot;, &quot;Under Arrest&quot;, &quot;Mutual&quot;]</code></td>\n<td>Captain Drake tracks an arson-for-hire racket setting fire to commercial cargo wharves to collect insurance claims.</td>\n</tr>\n<tr>\n<td><code>Best_Sellers_1945_HappyTime5.mp3</code> <br><em>Alt</em>: <code>Happy Time Part 5</code></td>\n<td><strong>&quot;Robert Fontaine&#39;s The Happy Time (Part 5)&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-08-31<br>3:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Literary Serial Drama</td>\n<td><strong>Bret Morrison</strong>, <strong>Cast</strong></td>\n<td><strong>Robert Fontaine (Author)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;Serial&quot;, &quot;Literature&quot;, &quot;NBC&quot;]</code><br><em>Arc</em>: <strong>The Happy Time (Part 5)</strong></td>\n<td>Young Bibi navigates comedic family squabbles and eccentric French-Canadian relatives in 1920s Ottawa.</td>\n</tr>\n<tr>\n<td><code>Widder_Brown_1950_Ellen.mp3</code> <br><em>Alt</em>: <code>Ellen Loves Dr Loring</code></td>\n<td><strong>&quot;Ellen Tells Nurse McEvoy She Loves Dr. Loring&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1950-08-31<br>4:45 PM EDT</td>\n<td><strong>Sterling Drug Inc.</strong><br>Haley&#39;s M-O / Bayer</td>\n<td><strong>Wendy Drew</strong>, <strong>Ned Wever</strong></td>\n<td><strong>Frank &amp; Anne Hummert</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Romance&quot;, &quot;Frank Hummert&quot;, &quot;NBC&quot;]</code></td>\n<td>Ellen Brown confides her deep romantic feelings for Dr. Anthony Loring to Nurse McEvoy while facing village gossip in Simpsonville.</td>\n</tr>\n<tr>\n<td><code>Two_Clue_1945_Noisy14.mp3</code> <br><em>Alt</em>: <code>Case Noisy Corpse 14</code></td>\n<td><strong>&quot;The Case of the Noisy Corpse (Episode 14)&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1945-08-31<br>2:00 PM EWT</td>\n<td><strong>General Foods</strong><br>Post&#39;s Raisin Bran</td>\n<td><strong>Ned Wever</strong>, <strong>Louise Fitch</strong></td>\n<td><strong>Harry Ingram (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Comedy&quot;, &quot;Serial&quot;, &quot;CBS&quot;]</code><br><em>Arc</em>: <strong>The Case of the Noisy Corpse (Part 14)</strong></td>\n<td>Sleuthing couple Jeff and Penny Spencer discover a hidden tape recorder mechanism inside a murder victim&#39;s study.</td>\n</tr>\n<tr>\n<td><code>Radio_Theater_1959_DarkPassage.mp3</code> <br><em>Alt</em>: <code>Your Radio Theater Dark Passage</code></td>\n<td><strong>&quot;The Dark Passage with Humphrey Bogart and Lauren Bacall&quot;</strong></td>\n<td><strong>AFRTS / Radio Theater</strong><br>1959-08-31</td>\n<td><strong>Sustaining</strong><br>Hollywood Radio Drama</td>\n<td><strong>Humphrey Bogart</strong>, <strong>Bacall</strong></td>\n<td><strong>David Goodis (Author)</strong></td>\n<td><code>[&quot;Noir&quot;, &quot;Drama&quot;, &quot;Thriller&quot;, &quot;Humphrey Bogart&quot;, &quot;Lauren Bacall&quot;]</code></td>\n<td>An escaped San Quentin convict undergoes secret plastic surgery in San Francisco to conceal his identity and prove his innocence.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 72 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 462 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Your Radio Theater",
+        "Humphrey Bogart",
+        "Lauren Bacall",
+        "Dark Passage",
+        "Under Arrest",
+        "Craig McDonnell",
+        "Joe DeSantis",
+        "Mutual",
+        "Best Sellers",
+        "Robert Fontaine",
+        "The Happy Time",
+        "Young Widder Brown",
+        "Ellen Brown",
+        "Frank Hummert",
+        "Two on a Clue",
+        "Serial Story",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-461-canterbury-tales-swaps-derby-erle-stanley-gardner-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-461-canterbury-tales-swaps-derby-erle-stanley-gardner-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Canterbury Tales, Swaps in the Derby, and Erle Stanley Gardner",
