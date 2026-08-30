@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-493-death-valley-sheriff-stars-over-hollywood-benny-goodman-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-493-death-valley-sheriff-stars-over-hollywood-benny-goodman-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Death Valley Sheriff, Stars Over Hollywood, and Benny Goodman",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 493)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across Western frontier lawmen procedurals, Hollywood celebrity daylight dramas, swing music school sessions, and original daytime medical auditions, Robert Haag as Sheriff Mark Chase across three <em>Death Valley Sheriff</em> broadcasts (1944, 1945, 1951), Ruth Hussey in <em>Stars Over Hollywood</em> (1946), Benny Goodman on <em>Swing School</em> for Camel Cigarettes (1937), and Ann Shepherd auditioning <em>Hello, Joyce</em> (1937–1951):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 493)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Stars_1946_ModelWife.mp3</code> <br><em>Alt</em>: <code>Stars Over Hollywood 1946</code></td>\n<td><strong>&quot;The Model Wife with Ruth Hussey&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1946-08-31<br>12:30 PM EDT</td>\n<td><strong>Bowey&#39;s Inc.</strong><br>Dari-Rich Chocolate</td>\n<td><strong>Ruth Hussey</strong>, <strong>Miller</strong></td>\n<td><strong>Paul Pierce (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Comedy&quot;, &quot;Stars Over Hollywood&quot;, &quot;Ruth Hussey&quot;, &quot;Dari-Rich&quot;]</code></td>\n<td>A sophisticated fashion model attempts to conceal her high-profile commercial advertising career from her conservative in-laws.</td>\n</tr>\n<tr>\n<td><code>Sheriff_1944_ClaimJump.mp3</code> <br><em>Alt</em>: <code>Death Valley Sheriff 1944</code></td>\n<td><strong>&quot;The Desert Claim Jumpers with Robert Haag and Donald Briggs&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-08-31<br>8:30 PM EWT</td>\n<td><strong>Pacific Coast Borax</strong><br>20 Mule Team Borax</td>\n<td><strong>Robert Haag</strong>, <strong>Briggs</strong></td>\n<td><strong>Ruth C. Woodman (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Police Procedural&quot;, &quot;Sheriff Mark Chase&quot;, &quot;Death Valley Sheriff&quot;, &quot;Borax&quot;]</code></td>\n<td>Sheriff Mark Chase tracks armed claim jumpers who dynamited a newly registered tungsten mine shaft to fake an accidental cave-in.</td>\n</tr>\n<tr>\n<td><code>Sheriff_1945_Waterhole.mp3</code> <br><em>Alt</em>: <code>Death Valley Sheriff 1945</code></td>\n<td><strong>&quot;The Poisoned Waterhole with Robert Haag&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-08-31<br>8:30 PM EWT</td>\n<td><strong>Pacific Coast Borax</strong><br>Boraxo / 20 Mule Team</td>\n<td><strong>Robert Haag</strong>, <strong>Ensemble</strong></td>\n<td><strong>Ruth C. Woodman (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Police Procedural&quot;, &quot;Sheriff Mark Chase&quot;, &quot;Death Valley Sheriff&quot;, &quot;Borax&quot;]</code></td>\n<td>Sheriff Mark Chase investigates a deliberate arsenic contamination of a desert spring intended to bankrupt a neighboring cattle rancher.</td>\n</tr>\n<tr>\n<td><code>Sheriff_1951_LongTime.mp3</code> <br><em>Alt</em>: <code>Long Time to Kill Sheriff</code></td>\n<td><strong>&quot;Long Time to Kill with Robert Haag&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-31<br>9:00 PM EDT</td>\n<td><strong>Pacific Coast Borax</strong><br>20 Mule Team Borax</td>\n<td><strong>Robert Haag</strong>, <strong>Ensemble</strong></td>\n<td><strong>Ruth C. Woodman (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Police Procedural&quot;, &quot;Sheriff Mark Chase&quot;, &quot;Death Valley Sheriff&quot;, &quot;Borax&quot;]</code></td>\n<td>A paroled convict returns to the desert seeking vengeance against the witnesses whose testimony sent him to prison twenty years earlier.</td>\n</tr>\n<tr>\n<td><code>Goodman_1937_CamelHop.mp3</code> <br><em>Alt</em>: <code>1st The Camel Hop Swing School</code></td>\n<td><strong>&quot;The Camel Hop with Benny Goodman and His Orchestra&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1937-08-31<br>9:30 PM EDST</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Benny Goodman</strong>, <strong>Krupa</strong></td>\n<td><strong>Harry James (Trumpet)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Benny Goodman&quot;, &quot;Camel&quot;]</code></td>\n<td>Benny Goodman leads fast-paced clarinet solos and big band swing arrangements of The Camel Hop and Loch Lomond.</td>\n</tr>\n<tr>\n<td><code>Audition_1951_Joyce.mp3</code> <br><em>Alt</em>: <code>Hello Joyce Audition 1951</code></td>\n<td><strong>&quot;Hello Joyce with Ann Shepherd and John Sylvester (Series Audition)&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1951-08-31</td>\n<td><strong>Sustaining</strong><br>Daytime Medical Audition</td>\n<td><strong>Ann Shepherd</strong>, <strong>Sylvester</strong></td>\n<td><strong>ABC Audition Unit</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Medical&quot;, &quot;Audition&quot;, &quot;Joyce Jordan&quot;, &quot;ABC&quot;]</code></td>\n<td>Dr. Joyce Jordan weighs accepting a high-stakes chief surgeon position at an urban charity clinic in this original network series audition.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 258 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 493 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Death Valley Sheriff",
+        "Robert Haag",
+        "Sheriff Mark Chase",
+        "20 Mule Team Borax",
+        "Ruth Cornwall Woodman",
+        "Stars Over Hollywood",
+        "Ruth Hussey",
+        "Dari-Rich",
+        "Benny Goodman",
+        "Camel Hop",
+        "Swing School",
+        "Audition Shows",
+        "Hello Joyce",
+        "Ann Shepherd",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-492-david-harding-counterspy-joe-e-brown-fdr-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-492-david-harding-counterspy-joe-e-brown-fdr-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — David Harding Counterspy, Joe E. Brown, and FDR",
