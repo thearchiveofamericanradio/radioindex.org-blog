@@ -41,6 +41,44 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-409-gunsmoke-broadway-is-my-beat-dana-andrews-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-409-gunsmoke-broadway-is-my-beat-dana-andrews-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Gunsmoke, Broadway Is My Beat, and Dana Andrews",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 409)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio and syndicated transcription drama, William Conrad as Marshal Matt Dillon in two legendary John Meston scripts on <em>Gunsmoke</em> (<em>The Juniper Tree</em> in 1952 and <em>Obie Tater</em> for L&amp;M in 1954), Larry Thor as Danny Clover investigating a Times Square hotel murder on <em>Broadway Is My Beat</em> (1952), Dana Andrews as undercover agent Matt Cvetic in <em>I Was a Communist for the FBI</em> (1953), Ray Bloch conducting <em>Here&#39;s to Romance</em> for Evening in Paris perfume (1945), and Rex Stout on wartime shortwave monitoring (1942–1954):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 409)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Broadway_Beat_1952_Cornish.mp3</code> <br><em>Alt</em>: <code>Althea Cornish Murder</code></td>\n<td><strong>&quot;The Althea Cornish Murder Case&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1952-08-30<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Noir</td>\n<td><strong>Larry Thor</strong>, <strong>Calvert</strong></td>\n<td><strong>Peter Barry (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;Police&quot;, &quot;Noir&quot;, &quot;Broadway&quot;]</code></td>\n<td>Detective Danny Clover investigates the strangling of a glamorous Broadway chorus girl found inside a locked hotel wardrobe.</td>\n</tr>\n<tr>\n<td><code>Radio_News_1942_Stout.mp3</code> <br><em>Alt</em>: <code>CBS Secret Weapon Truth</code></td>\n<td><strong>&quot;CBS Our Secret Weapon with Rex Stout&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-08-30<br>7:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Wartime News</td>\n<td><strong>Rex Stout</strong> (Commentator)</td>\n<td><strong>CBS News Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;Propaganda&quot;, &quot;World War II&quot;, &quot;Commentary&quot;, &quot;Historical&quot;]</code></td>\n<td>Rex Stout analyzes shortwave Axis radio broadcasts from Berlin and Rome, exposing falsified casualty figures and battle reports.</td>\n</tr>\n<tr>\n<td><code>Gunsmoke_1952_Juniper.mp3</code> <br><em>Alt</em>: <code>The Juniper Tree 1952</code></td>\n<td><strong>&quot;The Juniper Tree&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1952-08-30<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Adult Western</td>\n<td><strong>William Conrad</strong>, <strong>Baer</strong></td>\n<td><strong>John Meston &amp; Macdonnell</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adult Western&quot;, &quot;Drama&quot;, &quot;Frontier&quot;, &quot;Classic OTR&quot;]</code></td>\n<td>Marshal Matt Dillon rides out to protect an eccentric homesteader refusing to leave his prairie claim despite armed threats from neighboring cattle barons.</td>\n</tr>\n<tr>\n<td><code>Gunsmoke_1954_Obie.mp3</code> <br><em>Alt</em>: <code>Obie Tater 1954</code></td>\n<td><strong>&quot;Obie Tater&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1954-08-30<br>8:00 PM EDT</td>\n<td><strong>Liggett &amp; Myers</strong><br>L&amp;M Filter Cigarettes</td>\n<td><strong>William Conrad</strong>, <strong>Ellis</strong></td>\n<td><strong>John Meston (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adult Western&quot;, &quot;Drama&quot;, &quot;Frontier&quot;, &quot;Classic OTR&quot;]</code></td>\n<td>An impoverished old prospector claims to possess a secret gold map, attracting greedy outlaws who torture him to extract the location.</td>\n</tr>\n<tr>\n<td><code>Heres_Romance_1945.mp3</code> <br><em>Alt</em>: <code>Ray Bloch Romance</code></td>\n<td><strong>&quot;Ray Bloch and His Orchestra with Vocalist Guests&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-08-30<br>10:30 PM EWT</td>\n<td><strong>Bourjois, Inc.</strong><br>Evening in Paris Perfume</td>\n<td><strong>Ray Bloch and Orchestra</strong></td>\n<td><strong>Guest Vocalists</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Orchestral&quot;, &quot;Vocal&quot;, &quot;Romance&quot;, &quot;Variety&quot;]</code></td>\n<td>Ray Bloch conducts lush romantic orchestral melodies and introduces pop ballad soloists for Evening in Paris perfume.</td>\n</tr>\n<tr>\n<td><code>Communist_FBI_1953.mp3</code> <br><em>Alt</em>: <code>Red Courier Pittsburgh</code></td>\n<td><strong>&quot;The Red Courier of Pittsburgh&quot;</strong></td>\n<td><strong>Ziv Syndication</strong><br>1953-08-30</td>\n<td><strong>Sustaining</strong><br>Anti-Communist Drama</td>\n<td><strong>Dana Andrews</strong> (Cvetic)</td>\n<td><strong>Frederic W. Ziv Staff</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Cold War&quot;, &quot;True Crime&quot;, &quot;Political&quot;, &quot;Action&quot;]</code></td>\n<td>Undercover operative Matt Cvetic intercepts an underground courier carrying encoded membership rosters between Pittsburgh steel union cells.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 126 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 409 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "Gunsmoke",
+        "William Conrad",
+        "Parley Baer",
+        "Howard McNear",
+        "Georgia Ellis",
+        "John Meston",
+        "Norman Macdonnell",
+        "Broadway Is My Beat",
+        "Larry Thor",
+        "Charles Calvert",
+        "Peter Barry",
+        "I Was a Communist for the FBI",
+        "Dana Andrews",
+        "Matt Cvetic",
+        "Heres to Romance",
+        "Ray Bloch",
+        "Evening in Paris",
+        "Radio News",
+        "Rex Stout",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-408-lux-radio-theatre-mr-district-attorney-rex-stout-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-408-lux-radio-theatre-mr-district-attorney-rex-stout-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — Lux Radio Theatre, Mr. District Attorney, and Rex Stout",
