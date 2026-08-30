@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-538-lena-horne-basin-street-fbi-peace-war-dr-finlay-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-538-lena-horne-basin-street-fbi-peace-war-dr-finlay-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Lena Horne Basin Street, FBI in Peace & War, and Dr. Finlay",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 538)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across Dixieland hot jazz satire, authentic FBI crime dramatizations, post-apocalyptic science fiction, Western musical variety, and classic Scottish rural medicine, Lena Horne and Milton Cross on <em>The Chamber Music Society of Lower Basin Street</em> (1941), Martin Blaine in <em>The FBI in Peace and War</em> (1954, 1957), Fritz Leiber&#39;s <em>A Pail of Air</em> on <em>Audion Theatre</em> (1990), Foy Willing on <em>All-Star Western Theater</em> (1946), and <em>Dr. Finlay</em> on BBC Radio 4 (1941–1990):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 538)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>FBI_1954_HeartCase.mp3</code> <br><em>Alt</em>: <code>The Heart Case (First 1min 30 Sec Missing)</code></td>\n<td><strong>&quot;The Heart Case with Martin Blaine and CBS&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1954-09-01<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Crime Docudrama</td>\n<td><strong>Martin Blaine</strong>, <strong>Ensemble</strong></td>\n<td><strong>Frederick L. Collins</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Docudrama&quot;, &quot;FBI In Peace And War&quot;, &quot;CBS&quot;]</code></td>\n<td>Federal agents investigate an elusive jewel thief who feigns severe cardiac illness to evade airport customs inspections and police cordons.</td>\n</tr>\n<tr>\n<td><code>FBI_1957_RussianCount.mp3</code> <br><em>Alt</em>: <code>A Russian count swindler</code></td>\n<td><strong>&quot;The Russian Count Swindler with Martin Blaine&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1957-09-01<br>6:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Martin Blaine</strong>, <strong>Beck</strong></td>\n<td><strong>Frederick L. Collins</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Docudrama&quot;, &quot;FBI In Peace And War&quot;, &quot;CBS&quot;]</code></td>\n<td>Special agents unmask a charismatic con artist posing as an exiled Russian nobleman to swindle wealthy widows out of stock investments.</td>\n</tr>\n<tr>\n<td><code>Basin_Street_1941_LenaHorne.mp3</code> <br><em>Alt</em>: <code>Dixieland One Step Basin Street</code></td>\n<td><strong>&quot;Dixieland One-Step with Milton Cross and Lena Horne&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1941-09-01<br>9:00 PM EDST</td>\n<td><strong>Andrew Jergens Co.</strong><br>Woodbury Soap</td>\n<td><strong>Milton Cross</strong>, <strong>Lena Horne</strong></td>\n<td><strong>Paul Laval &amp; Henry Levine</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Dixieland&quot;, &quot;Basin Street&quot;, &quot;Lena Horne&quot;]</code></td>\n<td>Milton Cross offers satirical commentary as Lena Horne sings jazz blues and the Barefooted Philharmonic performs the Dixieland One-Step.</td>\n</tr>\n<tr>\n<td><code>Audion_1990_PailAir.mp3</code> <br><em>Alt</em>: <code>A Pail Of Air Audion Theatre</code></td>\n<td><strong>&quot;Fritz Leiber&#39;s A Pail of Air with Audio Playhouse Ensemble&quot;</strong></td>\n<td><strong>Syndication</strong><br>1990-09-01</td>\n<td><strong>Sustaining</strong><br>Sci-Fi Audio Drama</td>\n<td><strong>Audio Playhouse Cast</strong></td>\n<td><strong>Fritz Leiber (Author)</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Drama&quot;, &quot;Audion Theatre&quot;, &quot;Fritz Leiber&quot;, &quot;Post-Apocalyptic&quot;]</code></td>\n<td>A teenage boy and his family venture out onto a frozen Earth to retrieve buckets of frozen atmospheric oxygen to sustain their underground hearth.</td>\n</tr>\n<tr>\n<td><code>Western_1946_Wyoming.mp3</code> <br><em>Alt</em>: <code>Back To Old Wyoming All-Star</code></td>\n<td><strong>&quot;Back to Old Wyoming with Foy Willing and the Riders of the Purple Sage&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-01<br>5:30 PM EDT</td>\n<td><strong>Weber&#39;s Bread</strong><br>Weber&#39;s Bakery</td>\n<td><strong>Foy Willing</strong>, <strong>Riders</strong></td>\n<td><strong>Dramatic Western Cast</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Music&quot;, &quot;Adventure&quot;, &quot;Foy Willing&quot;, &quot;All-Star Western&quot;]</code></td>\n<td>A returning cowboy returns to his family&#39;s Wyoming ranch and defends his neighboring ranchers from an unscrupulous cattle baron.</td>\n</tr>\n<tr>\n<td><code>Finlay_1976_NobodyHeard.mp3</code> <br><em>Alt</em>: <code>Nobody Heard Dr Finlay</code></td>\n<td><strong>&quot;Nobody Heard with Bill Simpson and Andrew Cruickshank&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1976-09-01<br>8:00 PM BST</td>\n<td><strong>Sustaining</strong><br>Scottish Medical Drama</td>\n<td><strong>Bill Simpson</strong>, <strong>Cruickshank</strong></td>\n<td><strong>A.J. Cronin (Creator)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Medical&quot;, &quot;Dr Finlay&quot;, &quot;AJ Cronin&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>Dr. Finlay investigates the sudden illness of an isolated highland shepherd whose distress calls were ignored during a stormy night.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 150 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 538 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Chamber Music Society of Lower Basin Street",
+        "Lena Horne",
+        "Milton Cross",
+        "The FBI in Peace and War",
+        "Martin Blaine",
+        "Audion Theatre",
+        "Fritz Leiber",
+        "A Pail of Air",
+        "All-Star Western Theater",
+        "Foy Willing",
+        "Riders of the Purple Sage",
+        "Dr Finlay",
+        "AJ Cronin",
+        "BBC Radio 4",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-537-frank-sinatra-dana-andrews-fbi-peace-war-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-537-frank-sinatra-dana-andrews-fbi-peace-war-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Frank Sinatra, Dana Andrews, and FBI in Peace & War",
