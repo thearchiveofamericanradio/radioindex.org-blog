@@ -1,0 +1,33 @@
+# Archival Dispatch: August 31 Calendar Walk — Winston Churchill, G.I. Journal, and Heartbeat Theatre
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, Winston Churchill, Quebec Conference, GI Journal, AFRS, Robert Young, Mel Blanc, Mel Torme, Heartbeat Theatre, Salvation Army, Don Ameche, Ford Road Show, Ray Bloch, Larry LeSueur, London Blitz, CBS News, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 484)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across historic wartime prime minister addresses, Armed Forces Radio variety, Salvation Army moral anthologies, automotive easy listening, and foreign correspondence from the London Blitz, Winston Churchill's broadcast to the Canadian people from the Citadel of Quebec (1943), Robert Young hosting *G.I. Journal* with Mel Blanc and Mel Tormé (1945), *Heartbeat Theatre* (1958, 1969), Ray Bloch on *The Ford Road Show* (1958), and Larry LeSueur reporting from London bomb shelters (1940–1969):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 484)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Churchill_1943_Quebec.mp3` <br>*Alt*: `Broadcast From Quebec Churchill` | **"Address to the Canadian People from the Citadel of Quebec"** | **CBC / BBC / CBS**<br>1943-08-31<br>3:15 PM EWT | **Sustaining**<br>Allied Wartime Address | **Winston Churchill** | **Allied High Command** | `["History", "WWII", "Speech", "Winston Churchill", "Quebec"]` | Prime Minister Churchill delivers an international radio address from Quebec detailing Allied plans for the liberation of continental Europe. |
+| `Heartbeat_1958_GateTwelve.mp3` <br>*Alt*: `Nightmare at Gate Twelve` | **"Nightmare at Gate Twelve with Salvation Army Players"** | **Salvation Army Synd.**<br>1958-08-31 | **The Salvation Army**<br>Moral Drama | **Don Ameche** (Host) | **Salvation Army Team** | `["Drama", "Moral", "Anthology", "Heartbeat Theatre", "Salvation Army"]` | An anxious factory watchman confronts guilt over an unpunished industrial theft when an injured coworker seeks shelter at the gatehouse. |
+| `Heartbeat_1969_Phipps.mp3` <br>*Alt*: `The Education Of Mr Phipps` | **"The Education of Mr. Phipps with Salvation Army Players"** | **Salvation Army Synd.**<br>1969-08-31 | **The Salvation Army**<br>Moral Drama | **Repertory Ensemble** | **Salvation Army Team** | `["Drama", "Moral", "Anthology", "Heartbeat Theatre", "Salvation Army"]` | A retired bookkeeper learns empathy and human warmth after volunteering to help impoverished inner-city children at a summer mission. |
+| `GI_Journal_1945_Young.mp3` <br>*Alt*: `Guest Robert Young GI Journal` | **"Guest Editor Robert Young with Mel Blanc and Mel Tormé (AFRS 107)"** | **AFRS Radio**<br>1945-08-31 | **U.S. War Department**<br>Armed Forces Radio | **Robert Young**, **Blanc** | **Mel Tormé & Connie Haines** | `["Variety", "Comedy", "AFRS", "GI Journal", "Robert Young"]` | Robert Young edits a comic wartime newspaper-of-the-air featuring Mel Blanc's Private Sad Sack routines and jazz vocal harmonies. |
+| `Ford_1958_Monterey.mp3` <br>*Alt*: `It Happened In Monterey Ford` | **"It Happened in Monterey with The Ray Bloch Orchestra"** | **CBS (WCBS)**<br>1958-08-31<br>6:45 PM EDT | **Ford Motor Company**<br>Ford Dealers | **Ray Bloch Orchestra** | **CBS Production Staff** | `["Music", "Easy Listening", "Ford Road Show", "Ray Bloch", "Ford"]` | Ray Bloch leads smooth orchestral arrangements of It Happened in Monterey and easy-listening melodies for Sunday drivers. |
+| `CBS_News_1940_LeSueur.mp3` <br>*Alt*: `Larry Lesuer Reports` | **"Larry LeSueur Reports from London Air Raid Shelters"** | **CBS (WABC)**<br>1940-08-31<br>8:00 AM EDST | **Sustaining**<br>CBS War News Round-Up | **Larry LeSueur** | **Major George F. Eliot** | `["News", "WWII", "London Blitz", "Larry LeSueur", "CBS"]` | Larry LeSueur describes overnight underground Tube station shelter conditions and RAF fighter scrambles during heavy Luftwaffe attacks. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 204 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
