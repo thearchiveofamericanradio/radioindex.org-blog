@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-669-fdr-king-george-vi-lancaster-bomber-raid-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-669-fdr-king-george-vi-lancaster-bomber-raid-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — FDR, King George VI & Lancaster Bomber Raid",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 669)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across world-altering wartime radio declarations, President Franklin D. Roosevelt&#39;s historic fireside chat on European neutrality, French general mobilization bulletins, Bob Trout reading breaking AP wires, John Daly on CBS, and Wynford Vaughan-Thomas&#39;s historic combat flight inside an RAF Lancaster bomber over Berlin, FDR (1939), HM King George VI (1939), Bob Trout (1939), John Daly (1942), and <em>Wynford Vaughan-Thomas</em> (1939–1943):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 669)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>RadioNews_1939_KingGeorgeExcerpts.mp3</code> <br><em>Alt</em>: <code>King George VI Addresses The Nation - Excerpts 2 Radio News</code></td>\n<td><strong>&quot;King George VI Royal Address Excerpts on Outbreak of War&quot;</strong></td>\n<td><strong>BBC / Shortwave</strong><br>1939-09-03<br>6:00 PM BST</td>\n<td><strong>Sustaining</strong><br>Royal Address</td>\n<td><strong>HM King George VI</strong></td>\n<td><strong>BBC Engineers</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;WWII&quot;, &quot;King George VI&quot;, &quot;BBC&quot;, &quot;Royal Address&quot;]</code></td>\n<td>King George VI delivers key excerpts of his royal address from Buckingham Palace urging fortitude across Britain and the Dominions.</td>\n</tr>\n<tr>\n<td><code>RadioNews_1939_FrenchMobilization.mp3</code> <br><em>Alt</em>: <code>Outbreak Of War With Germany Radio News</code></td>\n<td><strong>&quot;French Declaration of War and General Mobilization&quot;</strong></td>\n<td><strong>Radio Paris / BBC</strong><br>1939-09-03<br>5:00 PM BST</td>\n<td><strong>Sustaining</strong><br>Wartime Bulletin</td>\n<td><strong>Édouard Daladier</strong></td>\n<td><strong>Radio Paris Desk</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;France&quot;, &quot;Edouard Daladier&quot;, &quot;Radio Paris&quot;]</code></td>\n<td>Radio bulletins broadcast Premier Daladier&#39;s announcement that France has entered a state of war with Germany following general mobilization.</td>\n</tr>\n<tr>\n<td><code>RadioNews_1939_FDRFireside.mp3</code> <br><em>Alt</em>: <code>Fdr speaks about the war beginning in europe Radio News</code></td>\n<td><strong>&quot;Fireside Chat on the Outbreak of War in Europe with FDR&quot;</strong></td>\n<td><strong>Combined Networks</strong><br>1939-09-03<br>10:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>President FDR</strong></td>\n<td><strong>White House Staff</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;WWII&quot;, &quot;FDR&quot;, &quot;Fireside Chat&quot;, &quot;Neutrality&quot;]</code></td>\n<td>President Franklin D. Roosevelt delivers a radio address from the White House asserting American neutrality while acknowledging national sympathy for democracies.</td>\n</tr>\n<tr>\n<td><code>RadioNews_1939_BobTroutAP.mp3</code> <br><em>Alt</em>: <code>CBS - ap bulletin on peace efforts Radio News</code></td>\n<td><strong>&quot;AP Bulletins on European Diplomatic Breakdown with Bob Trout&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1939-09-03<br>10:30 AM EDST</td>\n<td><strong>Sustaining</strong><br>CBS News Flash</td>\n<td><strong>Bob Trout (Anchor)</strong></td>\n<td><strong>AP Correspondents</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;CBS News&quot;, &quot;Bob Trout&quot;, &quot;Associated Press&quot;]</code></td>\n<td>Bob Trout reads breaking wire dispatches recounting the breakdown of Italian mediation efforts immediately prior to Britain&#39;s war ultimatum.</td>\n</tr>\n<tr>\n<td><code>RadioNews_1942_JohnDaly.mp3</code> <br><em>Alt</em>: <code>CBS News Of The WORLD AM Edition Partial Radio News</code></td>\n<td><strong>&quot;Morning Global Battle Reports with John Daly&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-09-03<br>8:00 AM EWT</td>\n<td><strong>Sustaining</strong><br>CBS News Special</td>\n<td><strong>John Daly (Anchor)</strong></td>\n<td><strong>CBS War Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;CBS News&quot;, &quot;John Daly&quot;, &quot;Pacific War&quot;]</code></td>\n<td>CBS correspondents summarize military developments across Guadalcanal, New Guinea, and the Soviet defense of the Caucasus.</td>\n</tr>\n<tr>\n<td><code>RadioNews_1943_LancasterBerlin.mp3</code> <br><em>Alt</em>: <code>Lancaster Bomber Crew Over Berlin Radio News</code></td>\n<td><strong>&quot;RAF Lancaster Bomber Raid Over Berlin with Wynford Vaughan-Thomas&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1943-09-03</td>\n<td><strong>Sustaining</strong><br>Combat Recording</td>\n<td><strong>Wynford Vaughan-Thomas</strong></td>\n<td><strong>RAF Bomber Crew</strong></td>\n<td><code>[&quot;Documentary&quot;, &quot;WWII&quot;, &quot;BBC&quot;, &quot;RAF&quot;, &quot;Aviation&quot;]</code></td>\n<td>BBC correspondent Wynford Vaughan-Thomas records an authentic combat mission from inside an RAF Lancaster bomber navigating flak over Berlin.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 205 / 469 (264 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 669 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "WWII News",
+        "FDR",
+        "Fireside Chat",
+        "King George VI",
+        "France Mobilization",
+        "Edouard Daladier",
+        "Bob Trout",
+        "Associated Press",
+        "John Daly",
+        "CBS News",
+        "RAF",
+        "Lancaster Bomber",
+        "Wynford Vaughan-Thomas",
+        "Radio News",
+        "Historic Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-668-outbreak-of-wwii-chamberlain-dorothy-thompson-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-668-outbreak-of-wwii-chamberlain-dorothy-thompson-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — The Outbreak of World War II",
