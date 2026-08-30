@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-551-grand-ole-opry-mr-chameleon-harry-nile-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-551-grand-ole-opry-mr-chameleon-harry-nile-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Grand Ole Opry, Mr. Chameleon, and Harry Nile",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 551)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across historic country music from the Ryman Auditorium, disguise detective mysteries, Pacific Northwest audio noir, West Coast soap operas, and early thirties magazine dramas, Carl Smith and Ernest Tubb on <em>Grand Ole Opry</em> (1956), Karl Swenson in <em>Mr. Chameleon</em> (1948), Phil Harper in <em>The Adventures of Harry Nile</em> (1996), Jane Morgan in <em>Aunt Mary</em> (1947), <em>Redbook Dramas</em> (1932), and George E. Sokolsky (1932–1996):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 551)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Opry_1956_YouAreTheOne.mp3</code> <br><em>Alt</em>: <code>You Are The One Grand Ole Opry</code></td>\n<td><strong>&quot;You Are the One with Carl Smith, Ernest Tubb, and Prince Albert Tobacco&quot;</strong></td>\n<td><strong>NBC (WSM)</strong><br>1956-09-01<br>9:30 PM CST</td>\n<td><strong>R.J. Reynolds</strong><br>Prince Albert Tobacco</td>\n<td><strong>Carl Smith</strong>, <strong>Tubb</strong></td>\n<td><strong>Minnie Pearl &amp; Jordanaires</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Music&quot;, &quot;Grand Ole Opry&quot;, &quot;Carl Smith&quot;, &quot;Prince Albert&quot;]</code></td>\n<td>Carl Smith headlines the Ryman Auditorium stage performing his country hit You Are the One alongside Ernest Tubb and Minnie Pearl.</td>\n</tr>\n<tr>\n<td><code>Chameleon_1948_DollarBills.mp3</code> <br><em>Alt</em>: <code>The Case of the Blood Stained Dollar Bills</code></td>\n<td><strong>&quot;The Case of the Blood-Stained Dollar Bills with Karl Swenson and Sterling Drug&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-09-01<br>8:00 PM EDT</td>\n<td><strong>Sterling Drug</strong><br>Bayer Aspirin</td>\n<td><strong>Karl Swenson</strong>, <strong>Butler</strong></td>\n<td><strong>Frank &amp; Anne Hummert</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Mr Chameleon&quot;, &quot;Karl Swenson&quot;, &quot;Bayer&quot;]</code></td>\n<td>The master of disguise adopts the alias of an eccentric pawnbroker to trace serial numbers on bloodstained ransom currency.</td>\n</tr>\n<tr>\n<td><code>Harry_Nile_1996_FelineFee.mp3</code> <br><em>Alt</em>: <code>The Case Of The Feline Fee</code></td>\n<td><strong>&quot;The Case of the Feline Fee with Phil Harper and Pat French&quot;</strong></td>\n<td><strong>KING-FM Seattle</strong><br>1996-09-01</td>\n<td><strong>Sustaining</strong><br>Audio Noir Drama</td>\n<td><strong>Phil Harper (Nile)</strong>, <strong>French</strong></td>\n<td><strong>Jim French (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Noir&quot;, &quot;Harry Nile&quot;, &quot;Jim French&quot;]</code></td>\n<td>Seattle private detective Harry Nile accepts an unusual assignment to guard a wealthy dowager&#39;s prized pedigree show cat.</td>\n</tr>\n<tr>\n<td><code>Aunt_Mary_1947_KittLove.mp3</code> <br><em>Alt</em>: <code>Has Kitt Changed. Randy Asked If He Is In Love</code></td>\n<td><strong>&quot;Randy Asks About His Love for Kitt with Jane Morgan and Safeway&quot;</strong></td>\n<td><strong>NBC Pacific</strong><br>1947-09-01<br>3:30 PM PST</td>\n<td><strong>Safeway Stores</strong><br>Kitchen Craft Flour</td>\n<td><strong>Jane Morgan (Aunt Mary)</strong></td>\n<td><strong>Daytime Radio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Soap Opera&quot;, &quot;Aunt Mary&quot;, &quot;Jane Morgan&quot;, &quot;Safeway&quot;]</code></td>\n<td>Aunt Mary consoles Randy at Meadowsweet Farm as he struggles with unspoken feelings and unresolved romantic tensions with Kitt.</td>\n</tr>\n<tr>\n<td><code>Redbook_1932_Highway.mp3</code> <br><em>Alt</em>: <code>Redbook Dramas 1932 Episode</code></td>\n<td><strong>&quot;The Secret Highway with Dramatic Magazine Cast&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1932-09-01<br>8:30 PM EDST</td>\n<td><strong>McCall Corporation</strong><br>Redbook Magazine</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Magazine Adaptations</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Anthology&quot;, &quot;Redbook Dramas&quot;, &quot;NBC Blue&quot;]</code></td>\n<td>A serialized magazine romance depicts two rival motorcar travelers stranded overnight at a remote New England wayside inn.</td>\n</tr>\n<tr>\n<td><code>Sokolsky_1940_Defense.mp3</code> <br><em>Alt</em>: <code>Industrial and National Defense Sokolsky</code></td>\n<td><strong>&quot;Industrial Production and National Defense with Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1940-09-01<br>9:30 PM EDST</td>\n<td><strong>Natl. Assoc. Mfrs.</strong><br>Economic Policy</td>\n<td><strong>George E. Sokolsky</strong></td>\n<td><strong>Mutual News Staff</strong></td>\n<td><code>[&quot;Commentary&quot;, &quot;Economics&quot;, &quot;History&quot;, &quot;George E Sokolsky&quot;, &quot;Mutual&quot;]</code></td>\n<td>Conservative columnist George E. Sokolsky outlines strategies for private manufacturing expansion to support national defense preparations.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 228 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 551 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Grand Ole Opry",
+        "Carl Smith",
+        "Ernest Tubb",
+        "Minnie Pearl",
+        "Prince Albert Tobacco",
+        "Mr. Chameleon",
+        "Karl Swenson",
+        "Sterling Drug",
+        "Bayer Aspirin",
+        "The Adventures of Harry Nile",
+        "Phil Harper",
+        "Pat French",
+        "Jim French",
+        "Aunt Mary",
+        "Jane Morgan",
+        "Safeway",
+        "Redbook Dramas",
+        "George E Sokolsky",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-550-laurence-olivier-crosby-clooney-father-knows-best-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-550-laurence-olivier-crosby-clooney-father-knows-best-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Laurence Olivier, Bing Crosby & Rosemary Clooney, and Father Knows Best",
