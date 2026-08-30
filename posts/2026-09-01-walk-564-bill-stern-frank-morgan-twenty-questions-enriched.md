@@ -1,0 +1,33 @@
+# Archival Dispatch: September 1 Calendar Walk — Bill Stern, Frank Morgan, and Twenty Questions
+
+**Date**: 2026-09-01  
+**Author**: radio index  
+**Tags**: September 1, Calendar Walk, Bill Stern's Sports Newsreel, Lou Niss, Colgate, Frank Morgan Show, Pall Mall Cigarettes, Twenty Questions, Bill Slater, Wildroot Cream-Oil, St. John Terrell, The Land of the Lost, Art Carney, Lyn Murray, CBS Music, Alternate Titles, Original Filenames
+
+---
+
+## September 1 Archival Metadata Enrichment (Increment 564)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across high-energy sports lore, tall-tale radio comedy, beloved animal-vegetable-mineral quiz panels, under-the-sea children's fantasy adventures, and orchestral choral concerts, Bill Stern on *Sports Newsreel* for Colgate (1948, 1950), Frank Morgan for Pall Mall (1946), Bill Slater on *Twenty Questions* for Wildroot (1951), Art Carney in *The Land of the Lost* (1945), and *The Lyn Murray Show* (1944–1951):
+
+---
+
+## 1. *September 1 Archival Inventory (Increment 564)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Stern_1948_LouNiss.mp3` <br>*Alt*: `Fifteen Minutes Of Sports News Guest Lou Niss` | **"Guest Lou Niss with Bill Stern and Colgate"** | **NBC (WNBC)**<br>1948-09-01<br>10:30 PM EDT | **Colgate-Palmolive**<br>Colgate Shave Cream | **Bill Stern**, **Lou Niss** | **NBC Sports Unit** | `["Sports", "Interview", "Bill Stern", "Lou Niss", "Colgate"]` | Bill Stern interviews Brooklyn sports editor Lou Niss regarding the National League pennant race and recounts dramatic human interest sports anecdotes. |
+| `Stern_1950_Folklore.mp3` <br>*Alt*: `Bill Stern's Sports Newsreel 1950 Episode` | **"Historic Baseball Rivalries with Bill Stern and Colgate"** | **NBC (WNBC)**<br>1950-09-01<br>10:00 PM EDT | **Colgate-Palmolive**<br>Colgate Dental Cream | **Bill Stern (Host)** | **NBC Sports Unit** | `["Sports", "Docudrama", "Bill Stern", "Baseball", "Colgate"]` | Bill Stern narrates legendary sports folklore including an underdog gridiron comeback and an unforgettable World Series walk-off victory. |
+| `Morgan_1946_WillieBreezer.mp3` <br>*Alt*: `Willie Breezer Is Afraid Of The Dart` | **"Willie Breezer Is Afraid of the Dark with Frank Morgan and Pall Mall"** | **NBC (WEAF)**<br>1946-09-01<br>7:00 PM EDT | **American Cigarette**<br>Pall Mall Cigarettes | **Frank Morgan**, **Daley** | **Robert Armbruster Orch.** | `["Comedy", "Variety", "Frank Morgan", "Pall Mall", "NBC"]` | Frank Morgan tells exaggerated tall tales about his childhood bravery while attempting to help a nervous neighborhood boy conquer his fear of darkness. |
+| `Land_Lost_1945_RedFish.mp3` <br>*Alt*: `The Land Of The Lost 1945 Episode` | **"Billy and Isabel Meet the Red Fish with Isabel Manning Hewson and Mutual"** | **Mutual (WOR)**<br>1945-09-01<br>11:30 AM EWT | **Sustaining**<br>Juvenile Fantasy | **Hewson**, **Art Carney** | **Isabel Manning Hewson** | `["Children", "Fantasy", "Land Of The Lost", "Art Carney", "Mutual"]` | Billy and Isabel travel beneath the ocean waves with Red Lantern to recover missing toys and books forgotten on dry land. |
+| `Questions_1951_Terrell.mp3` <br>*Alt*: `St. John Terrell Twenty Questions` | **"Guest St. John Terrell with Bill Slater and Wildroot"** | **Mutual (WOR)**<br>1951-09-01<br>8:00 PM EDT | **Wildroot Company**<br>Wildroot Cream-Oil | **Bill Slater (Host)**, **Van Deventer** | **Herb Polesie & Rinard** | `["Quiz", "Panel", "Twenty Questions", "Wildroot", "Mutual"]` | The panel attempts to identify mystery subjects categorized as animal, vegetable, or mineral within twenty deductive questions. |
+| `Murray_1944_MoodsMusic.mp3` <br>*Alt*: `Lyn Murray 1944 Episode` | **"Moods in Music with Lyn Murray and CBS"** | **CBS (WABC)**<br>1944-09-01<br>11:30 PM EWT | **Sustaining**<br>Orchestral Showcase | **Lyn Murray & Orch.** | **Lyn Murray (Director)** | `["Music", "Orchestral", "Choral", "Lyn Murray", "CBS"]` | Composer and conductor Lyn Murray leads his orchestra and mixed chorus through lush modern arrangements of American show tunes. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 306 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
