@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-510-jack-paar-john-cleese-isirta-sky-blazers-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-510-jack-paar-john-cleese-isirta-sky-blazers-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Jack Paar, John Cleese ISIRTA, and Sky Blazers",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 510)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across satirical summer variety, Cambridge Footlights sketch comedy, aviation speed docudramas, Irish literature memoirs, Chicago record interviews, and newspaper murder mysteries, Jack Paar for Lucky Strike (1947), John Cleese and Tim Brooke-Taylor in <em>I&#39;m Sorry, I&#39;ll Read That Again</em> (1975), Roscoe Turner presenting <em>Sky Blazers</em> (1940), <em>Twenty Years A-Growing</em> on BBC Radio 4 (1977), Howard Miller with Archie Bleyer (1955), and <em>Deadline Mystery</em> on Mutual (1940–1977):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 510)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Deadline_1947_Warehouse.mp3</code> <br><em>Alt</em>: <code>Deadline Mystery 1947 Episode</code></td>\n<td><strong>&quot;The Waterfront Warehouse Murder with Mutual Radio&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-08-31<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Newspaper Mystery</td>\n<td><strong>Dramatic Voice Ensemble</strong></td>\n<td><strong>Mutual Production Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Journalism&quot;, &quot;Deadline Mystery&quot;, &quot;Mutual&quot;]</code></td>\n<td>A newspaper crime reporter investigates a nighttime homicide at an abandoned waterfront shipping wharf to prove a dockworker&#39;s innocence.</td>\n</tr>\n<tr>\n<td><code>Twenty_Years_1977_Growing.mp3</code> <br><em>Alt</em>: <code>Twenty Years A-Growing</code></td>\n<td><strong>&quot;An Irish Blasket Islands Youth with BBC Radio&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1977-08-31</td>\n<td><strong>Sustaining</strong><br>Irish Literature</td>\n<td><strong>Irish Voice Ensemble</strong></td>\n<td><strong>Maurice O&#39;Sullivan (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Biography&quot;, &quot;Irish&quot;, &quot;Twenty Years A-Growing&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>A lyrical autobiographical narrative recounts childhood, island traditions, and Atlantic folklore on the remote Great Blasket Island.</td>\n</tr>\n<tr>\n<td><code>Miller_1955_Bleyer.mp3</code> <br><em>Alt</em>: <code>Guest Archie Bleyer (1045 11am)</code></td>\n<td><strong>&quot;Guest Archie Bleyer with CBS Radio&quot;</strong></td>\n<td><strong>CBS (WBBM)</strong><br>1955-08-31<br>10:45 AM EDT</td>\n<td><strong>Sustaining</strong><br>Morning Music &amp; Talk</td>\n<td><strong>Howard Miller</strong>, <strong>Bleyer</strong></td>\n<td><strong>CBS Radio Network</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Interview&quot;, &quot;Howard Miller&quot;, &quot;Archie Bleyer&quot;, &quot;CBS&quot;]</code></td>\n<td>Chicago disc jockey Howard Miller interviews Cadence Records founder Archie Bleyer about emerging rock and roll pop trends.</td>\n</tr>\n<tr>\n<td><code>ISIRTA_1975_Bison.mp3</code> <br><em>Alt</em>: <code>Bison ISIRTA</code></td>\n<td><strong>&quot;The Bison of the Pampas with John Cleese and Tim Brooke-Taylor&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1975-08-31<br>2:00 PM BST</td>\n<td><strong>Sustaining</strong><br>Cambridge Footlights</td>\n<td><strong>John Cleese</strong>, <strong>Brooke-Taylor</strong></td>\n<td><strong>Bill Oddie, Garden (Writers)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Sketch&quot;, &quot;John Cleese&quot;, &quot;ISIRTA&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>The Cambridge Footlights comedy troupe performs chaotic sound effect sketches, musical parodies, and an Argentine bison expedition spoof.</td>\n</tr>\n<tr>\n<td><code>Sky_Blazers_1940_SpeedFlying.mp3</code> <br><em>Alt</em>: <code>Al Williams Speed Flying Rehearsal</code></td>\n<td><strong>&quot;Al Williams&#39; Research in Speed Flying with Roscoe Turner (Rehearsal)&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-08-31<br>8:00 PM EDST</td>\n<td><strong>Continental Baking</strong><br>Wonder Bread</td>\n<td><strong>Roscoe Turner</strong>, <strong>Ensemble</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;Aviation&quot;, &quot;Docudrama&quot;, &quot;Adventure&quot;, &quot;Sky Blazers&quot;, &quot;Wonder Bread&quot;]</code></td>\n<td>A docudrama chronicles test pilot Al Williams pushing experimental aircraft to terminal diving velocity to develop dive-bombing techniques.</td>\n</tr>\n<tr>\n<td><code>Paar_1947_SoapParody.mp3</code> <br><em>Alt</em>: <code>Radio Show Parody Jack Paar</code></td>\n<td><strong>&quot;Daytime Radio Soap Opera Parody with Jack Paar&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-08-31<br>7:00 PM EDT</td>\n<td><strong>American Tobacco</strong><br>Lucky Strike</td>\n<td><strong>Jack Paar</strong>, <strong>Conried</strong></td>\n<td><strong>Jerry Fielding Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Parody&quot;, &quot;Jack Paar&quot;, &quot;Lucky Strike&quot;]</code></td>\n<td>Jack Paar skewers melodramatic daytime organ soap operas and answers satirical audience advice letters for Lucky Strike.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 360 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 510 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "The Jack Paar Show",
+        "Jack Paar",
+        "Hans Conried",
+        "Lucky Strike",
+        "Im Sorry Ill Read That Again",
+        "ISIRTA",
+        "John Cleese",
+        "Tim Brooke-Taylor",
+        "Bill Oddie",
+        "BBC Radio 4",
+        "Sky Blazers",
+        "Roscoe Turner",
+        "Wonder Bread",
+        "Phillips H Lord",
+        "Deadline Mystery",
+        "Twenty Years A-Growing",
+        "Howard Miller",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-509-harry-nile-sherlock-holmes-fitch-bandwagon-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-509-harry-nile-sherlock-holmes-fitch-bandwagon-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Harry Nile, Sherlock Holmes, and Fitch Bandwagon",
