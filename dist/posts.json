@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-487-martin-kane-grand-ole-opry-nikola-tesla-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-487-martin-kane-grand-ole-opry-nikola-tesla-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Martin Kane, Grand Ole Opry, and Nikola Tesla",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 487)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across hardboiled detective mysteries, legendary country barn dances, undercover detective procedurals, and Westinghouse science education dramas, Lee Tracy starring as <em>Martin Kane, Private Eye</em> on NBC (1952), Hank Snow and Minnie Pearl headlining the <em>Grand Ole Opry</em> for Prince Albert (1957), Karl Swenson in Frank &amp; Anne Hummert&#39;s <em>Mr. Chameleon</em> (1949), and Westinghouse&#39;s <em>Adventures in Research</em> featuring Nikola Tesla and celestial stargazing (1943–1957):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 487)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Kane_1952_StolenFormula.mp3</code> <br><em>Alt</em>: <code>Martin Kane 1952 Episode</code></td>\n<td><strong>&quot;The Stolen Formula with Lee Tracy&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1952-08-31<br>4:30 PM EDT</td>\n<td><strong>U.S. Tobacco Co.</strong><br>Sano / Model Tobacco</td>\n<td><strong>Lee Tracy</strong>, <strong>Kinsella</strong></td>\n<td><strong>Charles Isaacs (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Martin Kane&quot;, &quot;NBC&quot;]</code></td>\n<td>Martin Kane investigates the shooting of a chemical research scientist and tracks a competitor attempting to smuggle patented synthetic rubber formulas abroad.</td>\n</tr>\n<tr>\n<td><code>Opry_1957_HankSnow.mp3</code> <br><em>Alt</em>: <code>Grand Ole Opry 1957 Episode</code></td>\n<td><strong>&quot;Guest Hank Snow and the Rainbow Ranch Boys with Prince Albert&quot;</strong></td>\n<td><strong>NBC / WSM</strong><br>1957-08-31<br>9:30 PM EDT</td>\n<td><strong>R.J. Reynolds</strong><br>Prince Albert Tobacco</td>\n<td><strong>Hank Snow</strong>, <strong>Minnie Pearl</strong></td>\n<td><strong>WSM Production Staff</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Music&quot;, &quot;Grand Ole Opry&quot;, &quot;Hank Snow&quot;, &quot;Prince Albert&quot;]</code></td>\n<td>Hank Snow headlines the Ryman Auditorium stage with honky-tonk country classics alongside rustic comedy routines from Minnie Pearl.</td>\n</tr>\n<tr>\n<td><code>Chameleon_1949_Wife.mp3</code> <br><em>Alt</em>: <code>The Mistreated Wife Murder Case</code></td>\n<td><strong>&quot;The Mistreated Wife Murder Case with Karl Swenson&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-08-31<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Disguise Detective Drama</td>\n<td><strong>Karl Swenson</strong>, <strong>Cordner</strong></td>\n<td><strong>Frank &amp; Anne Hummert</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Disguise&quot;, &quot;Mr Chameleon&quot;, &quot;CBS&quot;]</code></td>\n<td>The master of disguise adopts a colorful dialect persona to solve the bludgeoning murder of an estranged society spouse found in her art studio.</td>\n</tr>\n<tr>\n<td><code>Research_1943_Stargazing.mp3</code> <br><em>Alt</em>: <code>Let&#39;s Go Stargazing Research</code></td>\n<td><strong>&quot;Let&#39;s Go Stargazing with Dr. Phillips Thomas&quot;</strong></td>\n<td><strong>Westinghouse Synd.</strong><br>1943-08-31</td>\n<td><strong>Westinghouse Corp.</strong><br>Institutional Science</td>\n<td><strong>Dr. Phillips Thomas</strong>, <strong>Shannon</strong></td>\n<td><strong>KDKA Pittsburgh Prod.</strong></td>\n<td><code>[&quot;Science&quot;, &quot;Astronomy&quot;, &quot;Educational&quot;, &quot;Westinghouse&quot;, &quot;Adventures in Research&quot;]</code></td>\n<td>Westinghouse scientists explain optical telescope lenses, celestial spectroscopy, and stellar distance measurements across the night sky.</td>\n</tr>\n<tr>\n<td><code>Research_1948_Tooth.mp3</code> <br><em>Alt</em>: <code>A Tooth For A Tooth Research</code></td>\n<td><strong>&quot;A Tooth for a Tooth with Paul Shannon&quot;</strong></td>\n<td><strong>Westinghouse Synd.</strong><br>1948-08-31</td>\n<td><strong>Westinghouse Corp.</strong><br>Institutional Science</td>\n<td><strong>Paul Shannon</strong> (Narrator)</td>\n<td><strong>KDKA Pittsburgh Prod.</strong></td>\n<td><code>[&quot;Science&quot;, &quot;History&quot;, &quot;Educational&quot;, &quot;Westinghouse&quot;, &quot;Adventures in Research&quot;]</code></td>\n<td>A dramatization explores the history of dental surgery, the development of porcelain teeth, and modern dental amalgam materials.</td>\n</tr>\n<tr>\n<td><code>Research_1954_Tesla.mp3</code> <br><em>Alt</em>: <code>The Immigrant Inventor Tesla</code></td>\n<td><strong>&quot;The Immigrant Inventor (Nikola Tesla) with Paul Shannon&quot;</strong></td>\n<td><strong>Westinghouse Synd.</strong><br>1954-08-31</td>\n<td><strong>Westinghouse Corp.</strong><br>Institutional Science</td>\n<td><strong>Paul Shannon</strong>, <strong>Ensemble</strong></td>\n<td><strong>KDKA Pittsburgh Prod.</strong></td>\n<td><code>[&quot;Science&quot;, &quot;Biography&quot;, &quot;Nikola Tesla&quot;, &quot;Westinghouse&quot;, &quot;Adventures in Research&quot;]</code></td>\n<td>The story chronicles Nikola Tesla&#39;s arrival in America and his breakthrough inventions in alternating current electricity and induction motors.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 222 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 487 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Martin Kane Private Eye",
+        "Lee Tracy",
+        "US Tobacco",
+        "Sano Cigarettes",
+        "Grand Ole Opry",
+        "Hank Snow",
+        "Prince Albert",
+        "Minnie Pearl",
+        "Mr Chameleon",
+        "Karl Swenson",
+        "Frank Hummert",
+        "Adventures in Research",
+        "Westinghouse",
+        "Nikola Tesla",
+        "Stargazing",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-486-lum-and-abner-bing-crosby-popeye-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-486-lum-and-abner-bing-crosby-popeye-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Lum & Abner, Bing Crosby, and Popeye",
