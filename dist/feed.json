@@ -6,6 +6,75 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-584-gangbusters-dr-sixgun-frankie-carle-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-584-gangbusters-dr-sixgun-frankie-carle-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Gangbusters, Dr. Sixgun & Frankie Carle",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 584)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across hard-hitting true-crime police dramatizations, frontier frontier doctor westerns, African wildlife safaris, and swinging ballroom dance orchestra remotes, Phillips H. Lord&#39;s <em>Gangbusters</em> for Palmolive and Tide (1936, 1950), Karl Swenson in <em>Dr. Sixgun</em> (1954), <em>General Motors on Safari</em> (1966), and <em>One Night Stand</em> featuring Frankie Masters and Frankie Carle (1936–1966):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 584)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gangbusters_1936_ArsenalGang.mp3</code> <br><em>Alt</em>: <code>The Case Of The Arsenal Gang Gangbusters</code></td>\n<td><strong>&quot;The Case of the Arsenal Gang with Phillips H. Lord and Palmolive&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1936-09-02<br>10:00 PM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Shave Cream</td>\n<td><strong>Phillips H. Lord (Host)</strong></td>\n<td><strong>Police Dept. Case Files</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Gangbusters&quot;, &quot;Phillips H Lord&quot;, &quot;Palmolive&quot;]</code></td>\n<td>Police detectives track heavily armed bank bandits who stockpile automatic weapons and ammunition in a suburban hideout.</td>\n</tr>\n<tr>\n<td><code>Gangbusters_1950_YoungBrothers.mp3</code> <br><em>Alt</em>: <code>The Case Of James And William Young</code></td>\n<td><strong>&quot;The Case of James and William Young with Phillips H. Lord and Tide&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-02<br>9:00 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide Detergent</td>\n<td><strong>Phillips H. Lord</strong>, <strong>MacLaughlin</strong></td>\n<td><strong>Frank Readick (Cast)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Gangbusters&quot;, &quot;Phillips H Lord&quot;, &quot;Tide&quot;]</code></td>\n<td>State troopers launch a coordinated highway dragnet to capture two escaped bank robber brothers terrorizing Midwest towns.</td>\n</tr>\n<tr>\n<td><code>Sixgun_1954_Courtship.mp3</code> <br><em>Alt</em>: <code>The Courtship Young Trapper Must Prove His Mettle</code></td>\n<td><strong>&quot;The Courtship with Karl Swenson and NBC&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1954-09-02<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Western Drama</td>\n<td><strong>Karl Swenson (Dr. Matson)</strong></td>\n<td><strong>Ernest Kinoy (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Drama&quot;, &quot;Medical&quot;, &quot;Dr Sixgun&quot;, &quot;Karl Swenson&quot;]</code></td>\n<td>Dr. Ray Matson helps an insecure young mountain trapper demonstrate courage and resolve to win the approval of a skeptical frontier father.</td>\n</tr>\n<tr>\n<td><code>Safari_1966_Okavango4.mp3</code> <br><em>Alt</em>: <code>The Lost Tribe of Bushmen of the Okavango: Part 4</code></td>\n<td><strong>&quot;The Lost Tribe of Bushmen of the Okavango (Part 4)&quot;</strong></td>\n<td><strong>Springbok Radio (SABC)</strong><br>1966-09-02</td>\n<td><strong>General Motors</strong><br>Automotive Sponsor</td>\n<td><strong>Dramatic Cast</strong></td>\n<td><strong>Adrian Steed (Producer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;On Safari&quot;, &quot;Springbok Radio&quot;, &quot;General Motors&quot;]</code></td>\n<td>Expedition trackers navigate treacherous river channels in the Okavango Delta to make friendly contact with an isolated desert clan.</td>\n</tr>\n<tr>\n<td><code>ONS_1949_FrankieMasters.mp3</code> <br><em>Alt</em>: <code>First Song - It&#39;s A Great Feeling One Night Stand</code></td>\n<td><strong>&quot;It&#39;s a Great Feeling with Frankie Masters and His Orchestra&quot;</strong></td>\n<td><strong>AFRS Remote</strong><br>1949-09-02</td>\n<td><strong>Armed Forces Radio</strong><br>Ballroom Remote</td>\n<td><strong>Frankie Masters Orchestra</strong></td>\n<td><strong>Phyllis Myles (Vocals)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Frankie Masters&quot;, &quot;AFRS&quot;]</code></td>\n<td>Frankie Masters leads his orchestra from the Stevens Hotel in Chicago playing It&#39;s a Great Feeling and popular swing arrangements.</td>\n</tr>\n<tr>\n<td><code>ONS_1951_FrankieCarle.mp3</code> <br><em>Alt</em>: <code>Doodle E Do (Frankie Carle) One Night Stand</code></td>\n<td><strong>&quot;Do Dle O Do with Frankie Carle and His Orchestra&quot;</strong></td>\n<td><strong>AFRS Remote</strong><br>1951-09-02</td>\n<td><strong>Armed Forces Radio</strong><br>Ballroom Remote</td>\n<td><strong>Frankie Carle (Piano)</strong></td>\n<td><strong>The Carle Lovelies</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Piano&quot;, &quot;Frankie Carle&quot;, &quot;AFRS&quot;]</code></td>\n<td>Pianist Frankie Carle showcases sparkling keyboard solos and dance band medleys from the Hollywood Palladium.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 116 / 480 (364 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 584 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Gangbusters",
+        "Phillips H Lord",
+        "Palmolive Soap",
+        "Tide",
+        "Dr Sixgun",
+        "Karl Swenson",
+        "Ernest Kinoy",
+        "General Motors on Safari",
+        "Okavango Delta",
+        "Adrian Steed",
+        "One Night Stand",
+        "Frankie Carle",
+        "Frankie Masters",
+        "Roseland Ballroom",
+        "AFRS",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-583-green-hornet-dr-christian-inner-sanctum-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-583-green-hornet-dr-christian-inner-sanctum-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — The Green Hornet, Dr. Christian & Inner Sanctum",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 583)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across masked crimefighter action adventures, small-town River&#39;s End medical drama, gothic radio macabre, and swinging live ballroom remote broadcasts, Al Hodge as <em>The Green Hornet</em> (1937, 1940), Jean Hersholt as <em>Dr. Christian</em> for Vaseline (1942, 1953), Paul McGrath hosting <em>Inner Sanctum Mysteries</em> for Lipton (1946), and Randy Brooks on <em>One Night Stand</em> (1937–1953):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 583)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Hornet_1937_ProtectionRacket.mp3</code> <br><em>Alt</em>: <code>The Green Hornet 1937 Episode</code></td>\n<td><strong>&quot;The Protection Syndicate Racket with Al Hodge and Sustaining&quot;</strong></td>\n<td><strong>WXYZ / Mutual</strong><br>1937-09-02<br>7:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Masked Hero Adventure</td>\n<td><strong>Al Hodge (Britt Reid)</strong></td>\n<td><strong>Fran Striker &amp; Trendle</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Action&quot;, &quot;Green Hornet&quot;, &quot;Al Hodge&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>Britt Reid and Kato expose a criminal protection syndicate extorting independent neighborhood dry cleaning and laundry businesses.</td>\n</tr>\n<tr>\n<td><code>Hornet_1940_MurderMystery.mp3</code> <br><em>Alt</em>: <code>Murder and Mystery Green Hornet</code></td>\n<td><strong>&quot;Murder and Mystery with Al Hodge and Sustaining&quot;</strong></td>\n<td><strong>NBC Blue / WXYZ</strong><br>1940-09-02<br>8:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Masked Hero Adventure</td>\n<td><strong>Al Hodge (Britt Reid)</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Action&quot;, &quot;Green Hornet&quot;, &quot;Al Hodge&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>The Green Hornet unmasks an insurance arson racket staging fatal industrial warehouse blazes for fraudulent payouts.</td>\n</tr>\n<tr>\n<td><code>Dr_Christian_1942_SweetSixteen.mp3</code> <br><em>Alt</em>: <code>Sweet Sixteen Dr Christian</code></td>\n<td><strong>&quot;Sweet Sixteen with Jean Hersholt and Vaseline&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1942-09-02<br>8:30 PM EWT</td>\n<td><strong>Chesebrough Mfg.</strong><br>Vaseline Petroleum Jelly</td>\n<td><strong>Jean Hersholt (Christian)</strong></td>\n<td><strong>Rosemary DeCamp (Judy)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Medical&quot;, &quot;Dr Christian&quot;, &quot;Jean Hersholt&quot;, &quot;Vaseline&quot;]</code></td>\n<td>Dr. Christian counsels an adolescent girl dealing with insecurities and puppy love ahead of her milestone sixteenth birthday party.</td>\n</tr>\n<tr>\n<td><code>Dr_Christian_1953_Inheritance.mp3</code> <br><em>Alt</em>: <code>Inheritance Dr Christian</code></td>\n<td><strong>&quot;The Contested Inheritance with Jean Hersholt and Vaseline&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1953-09-02<br>8:30 PM EDT</td>\n<td><strong>Chesebrough Mfg.</strong><br>Vaseline Brand Products</td>\n<td><strong>Jean Hersholt</strong>, <strong>DeCamp</strong></td>\n<td><strong>CBS Radio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Medical&quot;, &quot;Dr Christian&quot;, &quot;Jean Hersholt&quot;, &quot;Vaseline&quot;]</code></td>\n<td>Dr. Christian investigates the suspicious sudden alteration of an elderly patient&#39;s estate will disinheriting her loyal family members.</td>\n</tr>\n<tr>\n<td><code>Inner_Sanctum_1946_MissingClaw.mp3</code> <br><em>Alt</em>: <code>The Missing Claw Inner Sanctum</code></td>\n<td><strong>&quot;The Missing Claw with Paul McGrath and Lipton Tea&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1946-09-02<br>8:00 PM EDT</td>\n<td><strong>Thomas J. Lipton</strong><br>Lipton Tea &amp; Soup</td>\n<td><strong>Paul McGrath (Host)</strong></td>\n<td><strong>Himan Brown (Producer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Inner Sanctum&quot;, &quot;Paul McGrath&quot;, &quot;Lipton Tea&quot;]</code></td>\n<td>A wealthy zoologist who keeps predatory jungle beasts in his estate conservatory is found mauled to death with a taxidermied lion claw missing.</td>\n</tr>\n<tr>\n<td><code>ONS_1945_RandyBrooks.mp3</code> <br><em>Alt</em>: <code>Randy Brooks One Night Stand</code></td>\n<td><strong>&quot;Randy Brooks and His Orchestra at the Roseland Ballroom with AFRS&quot;</strong></td>\n<td><strong>AFRS Remote</strong><br>1945-09-02</td>\n<td><strong>Armed Forces Radio</strong><br>Remote Swing Concert</td>\n<td><strong>Randy Brooks Orchestra</strong></td>\n<td><strong>AFRS Music Unit</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Randy Brooks&quot;, &quot;AFRS&quot;]</code></td>\n<td>Trumpeter Randy Brooks leads his big band from Manhattan&#39;s Roseland Ballroom playing Tenderly and uptempo brass arrangements.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 110 / 480 (370 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 583 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Green Hornet",
+        "Al Hodge",
+        "Kato",
+        "Fran Striker",
+        "WXYZ Detroit",
+        "Dr. Christian",
+        "Jean Hersholt",
+        "Rosemary DeCamp",
+        "Vaseline",
+        "Inner Sanctum Mysteries",
+        "Paul McGrath",
+        "Lipton Tea",
+        "One Night Stand",
+        "Randy Brooks",
+        "Roseland Ballroom",
+        "AFRS",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-582-inner-sanctum-andrews-sisters-mayor-of-town-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-582-inner-sanctum-andrews-sisters-mayor-of-town-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Inner Sanctum, Andrews Sisters, and Lionel Barrymore",
