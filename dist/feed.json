@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-480-vin-scully-dodgers-jack-smith-allen-ludden-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-480-vin-scully-dodgers-jack-smith-allen-ludden-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Vin Scully at Ebbets Field, Jack Smith, and Allen Ludden",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 480)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across historic Major League Baseball play-by-play, network pop music programs, intercollegiate quiz competitions, probate legal dramas, and suspense thrillers, Vin Scully broadcasting the New York Giants visiting the Brooklyn Dodgers at Ebbets Field (1957), Jack Smith and guest Dinah Shore for Tide (1945, 1951), Allen Ludden moderating <em>The College Quiz Bowl</em> (1955), Warren William in <em>Strange Wills</em> (1946), and <em>Theater Five</em> (1945–1964):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 480)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Tide_1945_Smith.mp3</code> <br><em>Alt</em>: <code>Tide Show 1945 Episode</code></td>\n<td><strong>&quot;Summertime Pop Melodies with Jack Smith&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-08-31<br>7:15 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide Detergent / Oxydol</td>\n<td><strong>Jack Smith</strong>, <strong>Clark Sisters</strong></td>\n<td><strong>Earl Sheldon Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Pop&quot;, &quot;Jack Smith&quot;, &quot;Tide&quot;]</code></td>\n<td>Jack Smith performs cheerful wartime pop tunes and swing arrangements with vocal harmony support from The Clark Sisters.</td>\n</tr>\n<tr>\n<td><code>Tide_1951_CoolEvening.mp3</code> <br><em>Alt</em>: <code>In the Cool Cool Evening Shore</code></td>\n<td><strong>&quot;In the Cool, Cool, Cool of the Evening with Jack Smith and Dinah Shore&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-31<br>7:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide Washing Powder</td>\n<td><strong>Jack Smith</strong>, <strong>Dinah Shore</strong></td>\n<td><strong>Frank DeVol Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Pop&quot;, &quot;Jack Smith&quot;, &quot;Dinah Shore&quot;]</code></td>\n<td>Jack Smith and guest Dinah Shore sing popular Academy Award hits including In the Cool, Cool, Cool of the Evening.</td>\n</tr>\n<tr>\n<td><code>Dodgers_1957_GiantsPt4.mp3</code> <br><em>Alt</em>: <code>Giants At Dodgers Part 4</code></td>\n<td><strong>&quot;New York Giants at Brooklyn Dodgers (Part 4)&quot;</strong></td>\n<td><strong>WMGM New York</strong><br>1957-08-31<br>1:30 PM EDT</td>\n<td><strong>Schaefer / Lucky Strike</strong><br>Schaefer Beer</td>\n<td><strong>Vin Scully</strong>, <strong>Doggett</strong></td>\n<td><strong>Dodgers Radio Network</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Baseball&quot;, &quot;MLB&quot;, &quot;Dodgers&quot;, &quot;Vin Scully&quot;]</code><br><em>Arc</em>: <strong>New York Giants at Brooklyn Dodgers (August 31, 1957) (Part 4 of 4)</strong></td>\n<td>Broadcasters call late innings action from Ebbets Field during the final season before both historic franchises relocate to California.</td>\n</tr>\n<tr>\n<td><code>Quiz_Bowl_1955_Colgate.mp3</code> <br><em>Alt</em>: <code>Colgate Vs Mt Holyoak</code></td>\n<td><strong>&quot;Colgate University vs. Mount Holyoke College with Allen Ludden&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1955-08-31<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Intercollegiate Quiz</td>\n<td><strong>Allen Ludden</strong> (Moderator)</td>\n<td><strong>John Moses (Producer)</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Game Show&quot;, &quot;College Quiz Bowl&quot;, &quot;Allen Ludden&quot;, &quot;NBC&quot;]</code></td>\n<td>Undergraduate student scholars from Colgate and Mount Holyoke compete in a fast-paced varsity intellectual buzzer quiz.</td>\n</tr>\n<tr>\n<td><code>Strange_Wills_1946_Emily.mp3</code> <br><em>Alt</em>: <code>Emily Strange Wills</code></td>\n<td><strong>&quot;The Story of Emily with Warren William&quot;</strong></td>\n<td><strong>Teleways / Synd.</strong><br>1946-08-31</td>\n<td><strong>Sustaining</strong><br>Probate Legal Drama</td>\n<td><strong>Warren William</strong>, <strong>Culver</strong></td>\n<td><strong>Kenneth Webb (Director)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Legal&quot;, &quot;Mystery&quot;, &quot;Strange Wills&quot;, &quot;Warren William&quot;]</code></td>\n<td>Probate attorney John O&#39;Brien executes an eccentric spinster&#39;s will requiring her greedy relatives to care for stray alley cats.</td>\n</tr>\n<tr>\n<td><code>Theater_Five_1964_Scream.mp3</code> <br><em>Alt</em>: <code>The Scream 1964 08 31</code></td>\n<td><strong>&quot;The Scream with ABC Radio Drama&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1964-08-31</td>\n<td><strong>Sustaining</strong><br>Audio Suspense Revival</td>\n<td><strong>ABC Repertory Ensemble</strong></td>\n<td><strong>Ted Bell (Director)</strong></td>\n<td><code>[&quot;Suspense&quot;, &quot;Thriller&quot;, &quot;Horror&quot;, &quot;Theater Five&quot;, &quot;ABC&quot;]</code></td>\n<td>A wealthy hypochondriac living alone in a secluded cliffside mansion is terrorized by recurring late-night screams from the coastline.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 180 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 480 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Major League Baseball",
+        "Brooklyn Dodgers",
+        "New York Giants",
+        "Vin Scully",
+        "Ebbets Field",
+        "Serial Story",
+        "The Tide Show",
+        "Jack Smith",
+        "Dinah Shore",
+        "Procter & Gamble",
+        "Tide",
+        "The College Quiz Bowl",
+        "Allen Ludden",
+        "Colgate",
+        "Mount Holyoke",
+        "Strange Wills",
+        "Warren William",
+        "Theater Five",
+        "ABC",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-479-death-valley-days-hop-harrigan-claudia-and-david-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-479-death-valley-days-hop-harrigan-claudia-and-david-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Death Valley Days, Hop Harrigan, and Claudia & David",
