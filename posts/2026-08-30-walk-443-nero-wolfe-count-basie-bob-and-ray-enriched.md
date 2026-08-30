@@ -1,0 +1,33 @@
+# Archival Dispatch: August 30 Calendar Walk — Nero Wolfe, Count Basie on Jubilee, and Bob & Ray
+
+**Date**: 2026-08-30  
+**Author**: radio index  
+**Tags**: August 30, Calendar Walk, The New Adventures of Nero Wolfe, Santos Ortega, Luis van Rooten, Rex Stout, Jubilee, Ernie Whitman, Count Basie, Lena Horne, Golden Gate Quartet, AFRS, Bob and Ray, Bob Elliott, Ray Goulding, WHDH Boston, December Bride, Spring Byington, Parke Levy, Jimmy Wakely, Rhythm of the Range, Alternate Titles, Original Filenames
+
+---
+
+## August 30 Archival Metadata Enrichment (Increment 443)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and wartime AFRS recordings, Santos Ortega as Rex Stout's orchid-growing detective *Nero Wolfe* in *The Case of the Murderous Signature* (1943), Ernie Whitman hosting Count Basie and Lena Horne on *Jubilee* (Program 43, 1943), Bob & Ray's satirical radio bits on WHDH (1948, 1949), Spring Byington in *December Bride* (1953), and Jimmy Wakely's western melodies (1943–1953):
+
+---
+
+## 1. *August 30 Archival Inventory (Increment 443)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Wakely_1953_Range.mp3` <br>*Alt*: `Jimmy Wakely Rhythm of Range` | **"Rhythm of the Range with The Plainsmen"** | **CBS (WCBS)**<br>1953-08-30<br>8:30 PM EDT | **Sustaining**<br>Western Music | **Jimmy Wakely**, **Plainsmen** | **Jimmy Wakely Show Staff** | `["Western", "Country", "Music", "Jimmy Wakely", "Vocal"]` | Cowboy crooner Jimmy Wakely sings western ballads and leads guitar harmonies on Rhythm of the Range. |
+| `Bob_Ray_1948_Scouts.mp3` <br>*Alt*: `Visit Lyle Gump Good Scouts` | **"Arthur Sturdley's Good Scouts and Lyle Gump"** | **WHDH Boston**<br>1948-08-30 | **Sustaining**<br>Radio Satire | **Bob Elliott**, **Ray Goulding** | **Bob & Ray (Writers)** | `["Comedy", "Satire", "Parody", "Bob and Ray", "WHDH"]` | Bob and Ray lampoon pompous youth troop leaders and interview bewildered soap opera character Lyle Gump. |
+| `Bob_Ray_1949_Eddie.mp3` <br>*Alt*: `Laughing Eddie Upjohn` | **"Laughing Eddie Upjohn and the McBeeBee Twins"** | **WHDH Boston**<br>1949-08-30 | **Sustaining**<br>Radio Satire | **Bob Elliott**, **Ray Goulding** | **Bob & Ray (Writers)** | `["Comedy", "Satire", "Parody", "Bob and Ray", "WHDH"]` | The comedic duo parody studio game show announcers with the uncontrollably giggling contestant Eddie Upjohn. |
+| `Dec_Bride_1953_Match.mp3` <br>*Alt*: `December Bride Lily Byington` | **"Lily Plays Matchmaker with Spring Byington"** | **CBS (WCBS)**<br>1953-08-30<br>7:00 PM EDT | **General Foods**<br>Instant Maxwell House Coffee | **Spring Byington**, **March** | **Parke Levy (Creator)** | `["Comedy", "Sitcom", "Domestic", "Spring Byington", "Parke Levy"]` | Lively widow Lily Ruskin schemes to find a romantic match for her cynical neighbor Pete, causing chaos for her son-in-law. |
+| `Nero_Wolfe_1943_Signature.mp3` <br>*Alt*: `TCOT Murderous Signature Wolfe` | **"The Case of the Murderous Signature"** | **NBC Blue (WJZ)**<br>1943-08-30<br>8:30 PM EWT | **Jergens-Woodbury**<br>Woodbury Facial Soap | **Santos Ortega**, **van Rooten** | **Rex Stout (Creator)** | `["Detective", "Mystery", "Nero Wolfe", "Rex Stout", "Santos Ortega"]` | Nero Wolfe deduces how an authentic signature on a fraudulent codicil reveals the identity of a wealthy financier's killer. |
+| `Jubilee_1943_Basie_Horne.mp3` <br>*Alt*: `Jubilee 43 Basie Lena Horne` | **"Host Ernie Whitman with Count Basie and Lena Horne (AFRS Program 43)"** | **AFRS (Program 43)**<br>1943-08-30 | **Armed Forces Radio**<br>U.S. War Department | **Ernie Whitman**, **Basie**, **Horne** | **AFRS Jubilee Staff** | `["Jazz", "Big Band", "Swing", "AFRS", "Count Basie"]` | Ernie Whitman presents Count Basie's swinging big band, Lena Horne's smoky torch songs, and jubilee gospel harmonies for overseas troops. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 330 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
