@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-465-sam-spade-doris-day-philo-vance-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-465-sam-spade-doris-day-philo-vance-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Sam Spade, Doris Day, and Philo Vance",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 465)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American hardboiled detective mystery, musical variety, classic detective fiction, juvenile Western serials, and comedy satire, Howard Duff as Sam Spade in <em>The Corkscrew Caper</em> for Wildroot (1947), Doris Day and guest star Ray Bolger for Rexall (1952), Jackson Beck as <em>Philo Vance</em> (1948), Gene Autry&#39;s wonder horse in <em>The Adventures of Champion</em> (1949), <em>Official Detective</em> (1948), and <em>Man of Soup</em> (1947–1998):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 465)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Doris_Day_1952_Bolger.mp3</code> <br><em>Alt</em>: <code>Doris Day Show 1952 Episode</code></td>\n<td><strong>&quot;Guest Ray Bolger with Doris Day&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1952-08-31<br>7:00 PM EDT</td>\n<td><strong>Rexall Drug Company</strong><br>Rexall 1-Cent Sales</td>\n<td><strong>Doris Day</strong>, <strong>Ray Bolger</strong></td>\n<td><strong>Page Cavanaugh Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Comedy&quot;, &quot;Doris Day&quot;, &quot;Ray Bolger&quot;]</code></td>\n<td>Doris Day and dancer Ray Bolger trade comedic Hollywood stories and perform lively vocal duets for Rexall.</td>\n</tr>\n<tr>\n<td><code>Champion_1949_Ch3.mp3</code> <br><em>Alt</em>: <code>Ghost Black Mountain Ch 3</code></td>\n<td><strong>&quot;The Ghost of Black Mountain (Chapter 3)&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-08-31<br>5:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Wheaties / Cheerios</td>\n<td><strong>Johnny McGovern</strong>, <strong>Champion</strong></td>\n<td><strong>Bob Hamilton (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Juvenile&quot;, &quot;Serial&quot;, &quot;Champion&quot;, &quot;Gene Autry&quot;]</code><br><em>Arc</em>: <strong>The Ghost of Black Mountain (Part 3)</strong></td>\n<td>Champion and young Ricky outrun an avalanche triggered by masked outlaws hiding in the caves of Black Mountain.</td>\n</tr>\n<tr>\n<td><code>Vance_1948_Coachman.mp3</code> <br><em>Alt</em>: <code>Coachman Murder Case Vance</code></td>\n<td><strong>&quot;The Coachman Murder Case with Jackson Beck&quot;</strong></td>\n<td><strong>ZIV Syndication</strong><br>1948-08-31</td>\n<td><strong>Sustaining</strong><br>Ziv Detective Drama</td>\n<td><strong>Jackson Beck</strong>, <strong>Alexander</strong></td>\n<td><strong>S.S. Van Dine (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Philo Vance&quot;, &quot;Jackson Beck&quot;, &quot;ZIV&quot;]</code></td>\n<td>Aristocratic sleuth Philo Vance solves the fatal shooting of a private carriage driver carrying a wealthy heiress&#39;s jewels.</td>\n</tr>\n<tr>\n<td><code>Soup_1998_Slomzovakia.mp3</code> <br><em>Alt</em>: <code>Beatle mania Grips Slomzovakia</code></td>\n<td><strong>&quot;Beatlemania Grips Slomzovakia&quot;</strong></td>\n<td><strong>Syndicated Comedy</strong><br>1998-08-31</td>\n<td><strong>Sustaining</strong><br>Audio Satire</td>\n<td><strong>Comedy Troupe</strong></td>\n<td><strong>Man of Soup Production</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Parody&quot;, &quot;Modern Radio&quot;, &quot;Audio Comedy&quot;]</code></td>\n<td>A fictional Eastern European republic is thrown into absurd diplomatic turmoil when youth discover bootleg rock-and-roll records.</td>\n</tr>\n<tr>\n<td><code>Official_1948_Alibi.mp3</code> <br><em>Alt</em>: <code>Two con-men think alibi</code></td>\n<td><strong>&quot;The Alibi of the Diamond Swindlers&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-08-31<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Craig McDonnell</strong>, <strong>Cast</strong></td>\n<td><strong>Official Detective Staff</strong></td>\n<td><code>[&quot;Police Procedural&quot;, &quot;Detective&quot;, &quot;True Crime&quot;, &quot;Mutual&quot;, &quot;Investigation&quot;]</code></td>\n<td>Police detectives expose the falsified train ticket alibi used by two confidence men who swindled a jewelry exchange.</td>\n</tr>\n<tr>\n<td><code>Spade_1947_Corkscrew.mp3</code> <br><em>Alt</em>: <code>The Corkscrew Caper Duff</code></td>\n<td><strong>&quot;The Corkscrew Caper with Howard Duff&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1947-08-31<br>8:00 PM EDT</td>\n<td><strong>Wildroot Company</strong><br>Wildroot Cream-Oil</td>\n<td><strong>Howard Duff</strong>, <strong>Tuttle</strong></td>\n<td><strong>Tallman &amp; James (Writers)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Sam Spade&quot;, &quot;Howard Duff&quot;]</code></td>\n<td>Sam Spade is hired by a panicked vintage wine importer whose partner was murdered with an antique silver corkscrew.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 90 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 465 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "The Adventures of Sam Spade",
+        "Howard Duff",
+        "Lurene Tuttle",
+        "Wildroot Cream-Oil",
+        "The Doris Day Show",
+        "Doris Day",
+        "Ray Bolger",
+        "Rexall",
+        "Philo Vance",
+        "Jackson Beck",
+        "S.S. Van Dine",
+        "ZIV",
+        "Adventures of Champion",
+        "Gene Autry",
+        "Serial Story",
+        "Official Detective",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-464-sherlock-holmes-judy-canova-samuel-beckett-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-464-sherlock-holmes-judy-canova-samuel-beckett-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Sherlock Holmes, Judy Canova, and Samuel Beckett",
