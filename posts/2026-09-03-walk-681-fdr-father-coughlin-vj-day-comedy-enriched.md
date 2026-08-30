@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — FDR, Father Coughlin & V-J Day Comedy
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, Franklin D Roosevelt, FDR, Fireside Chat, Neutrality, International Student Assembly, Father Coughlin, Good Samaritan, CBS World News Today, Liberation of Brussels, The Charlie McCarthy Show, Fred Allen, Portland Hoffa, V-J Day, Linit Bath Club, Movietown Radio Theater, Les Mitchel, Skippy Peanut Butter, American History Through The Eyes Of Radio, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 681)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across presidential wartime addresses to the American people and international youth assemblies, controversial religious discourses at the outbreak of European hostilities, battlefield news of Allied victory in Brussels, high-energy comedy celebrations on V-J Day, and mystery radio theatre, President Franklin D. Roosevelt (1939, 1942), Father Charles Coughlin (1939), Fred Allen and Portland Hoffa on *The Charlie McCarthy Show* (1945), Douglas Edwards on CBS (1944), and *Movietown Radio Theater* for Skippy (1939–1948):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 681)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `FDR_1939_FiresideNeutrality.mp3` <br>*Alt*: `On The European War Franklin D. Roosevelt` | **"Fireside Chat on the Outbreak of War and Neutrality with FDR"** | **Combined Networks**<br>1939-09-03<br>10:00 PM EDST | **Sustaining**<br>Presidential Address | **President FDR** | **White House Staff** | `["Speech", "WWII", "FDR", "Fireside Chat", "President"]` | President Franklin D. Roosevelt addresses the nation from the Oval Office affirming that America will remain neutral but cannot ask every citizen to remain neutral in thought. |
+| `FDR_1942_StudentAssembly.mp3` <br>*Alt*: `The President Addresses The International Student Assembly Franklin D. Roosevelt` | **"Address to the International Student Assembly with FDR"** | **Combined Networks**<br>1942-09-03<br>9:30 PM EWT | **Sustaining**<br>Presidential Address | **President FDR** | **International Youth Staff** | `["Speech", "WWII", "FDR", "International Student Assembly", "Youth"]` | President Franklin D. Roosevelt speaks to youth delegates from fifty nations emphasizing freedom of speech, freedom of religion, and the post-war world order. |
+| `Coughlin_1939_GoodSamaritan.mp3` <br>*Alt*: `Father Coughlin - Good Samaritan American History` | **"Father Coughlin on the Good Samaritan and Neutrality"** | **WJR Detroit / Ind.**<br>1939-09-03<br>4:00 PM EDST | **Sustaining**<br>Religious Broadcast | **Father Charles Coughlin** | **WJR Studio Staff** | `["Religion", "Speech", "Father Coughlin", "WWII", "History"]` | Father Charles Coughlin delivers a controversial sermon invoking the Good Samaritan parable while arguing against American involvement in the newly erupted European war. |
+| `CBSNews_1944_BrusselsLiberation.mp3` <br>*Alt*: `CBS World News Today American History` | **"Liberation of Brussels on CBS World News Today"** | **CBS (WABC)**<br>1944-09-03<br>2:30 PM EWT | **Sustaining**<br>Wartime News Special | **Douglas Edwards (Anchor)** | **Charles Collingwood** | `["News", "WWII", "CBS News", "Douglas Edwards", "Liberation"]` | Douglas Edwards and battlefield correspondents report the liberation of Brussels by British armored columns five years to the day after war began. |
+| `McCarthy_1945_VJDayLinit.mp3` <br>*Alt*: `The Charlie Mc Carthy Show - Fred Allen Linit Bath Club Revue` | **"Guest Fred Allen and Portland Hoffa on V-J Day (Linit Bath Club)"** | **NBC (WEAF)**<br>1945-09-03<br>8:00 PM EWT | **Standard Brands**<br>Chase & Sanborn Coffee | **Edgar Bergen**, **Fred Allen** | **Portland Hoffa & Staff** | `["Comedy", "Variety", "Fred Allen", "Charlie McCarthy", "Linit"]` | Fred Allen and Portland Hoffa celebrate the surrender of Japan with rapid-fire comedic exchanges alongside Edgar Bergen and Charlie McCarthy. |
+| `Movietown_1948_NextChapter.mp3` <br>*Alt*: `Next Chapter Movietown Radio Theater` | **"The Next Chapter with Les Mitchel and Skippy"** | **Syndication**<br>1948-09-03 | **Rosefield Packing**<br>Skippy Peanut Butter | **Les Mitchel (Host/Dir)** | **Hollywood Radio Cast** | `["Drama", "Anthology", "Movietown Radio Theater", "Les Mitchel", "Skippy"]` | A novelist realizes his fictional murder plot is being enacted in real life by an obsessed criminal reader. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 277 / 469 (192 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
