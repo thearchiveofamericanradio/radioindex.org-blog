@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-508-bbc-saturday-night-theatre-quiet-please-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-508-bbc-saturday-night-theatre-quiet-please-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — BBC Saturday Night Theatre & Quiet Please",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 508)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across BBC radio theatrical masterworks, psychological horror, and modern space parody, four distinguished productions of BBC&#39;s <em>Saturday Night Theatre</em> spanning twenty-two years (1946, 1957, 1963, 1968), Wyllis Cooper&#39;s poetic fantasy <em>Quiet, Please</em> (1947), and <em>Rory Rammer, Space Marshal</em> (1946–2006):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 508)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Rammer_2006_MeteorSurfers.mp3</code> <br><em>Alt</em>: <code>Space Marshal (ARTC) Meteor Surfers</code></td>\n<td><strong>&quot;The Meteor Surfers of Callisto with ARTC&quot;</strong></td>\n<td><strong>ARTC Audio Drama</strong><br>2006-08-31</td>\n<td><strong>Sustaining</strong><br>Sci-Fi Parody</td>\n<td><strong>Ron N. Butler</strong>, <strong>Benedict</strong></td>\n<td><strong>Ron N. Butler (Writer)</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Comedy&quot;, &quot;Parody&quot;, &quot;Rory Rammer&quot;, &quot;ARTC&quot;]</code></td>\n<td>Space Marshal Rory Rammer and his sidekick &#39;Skip&#39; Sagan investigate reckless daredevils riding cosmic space-dust waves around Jupiter&#39;s moons.</td>\n</tr>\n<tr>\n<td><code>Quiet_1947_LincolnGreen.mp3</code> <br><em>Alt</em>: <code>A Ribbon of Lincoln Green</code></td>\n<td><strong>&quot;A Ribbon of Lincoln Green with Ernest Chappell&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-08-31<br>3:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Fantasy / Suspense</td>\n<td><strong>Ernest Chappell</strong>, <strong>Roy</strong></td>\n<td><strong>Wyllis Cooper (Dir/Writer)</strong></td>\n<td><code>[&quot;Fantasy&quot;, &quot;Suspense&quot;, &quot;Quiet Please&quot;, &quot;Wyllis Cooper&quot;, &quot;Ernest Chappell&quot;]</code></td>\n<td>A man discovers that a keepsake ribbon from his youth possesses a supernatural connection that bends time back to medieval England.</td>\n</tr>\n<tr>\n<td><code>SNT_1946_CharlesKing.mp3</code> <br><em>Alt</em>: <code>Charles, the King SNT</code></td>\n<td><strong>&quot;Charles, the King with BBC Radio Drama&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1946-08-31<br>9:15 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>Valentine Dyall</strong>, <strong>Browne</strong></td>\n<td><strong>Maurice Colbourne (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;History&quot;, &quot;British&quot;, &quot;Saturday Night Theatre&quot;, &quot;BBC&quot;]</code></td>\n<td>A historical dramatization chronicles King Charles I&#39;s trial and resolute stand against Oliver Cromwell during the English Civil War.</td>\n</tr>\n<tr>\n<td><code>SNT_1957_MadameSansGene.mp3</code> <br><em>Alt</em>: <code>Madame Sans- Gene SNT</code></td>\n<td><strong>&quot;Madame Sans-Gêne with BBC Radio Drama&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1957-08-31<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>Joan Young</strong>, <strong>Wolfit</strong></td>\n<td><strong>Victorien Sardou (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Comedy&quot;, &quot;History&quot;, &quot;Saturday Night Theatre&quot;, &quot;BBC&quot;]</code></td>\n<td>An outspoken Parisian laundress becomes a duchess in Napoleon&#39;s court, retaining her working-class wit and defying imperial etiquette.</td>\n</tr>\n<tr>\n<td><code>SNT_1963_Seahorse.mp3</code> <br><em>Alt</em>: <code>Seahorse Saturday Night Theatre</code></td>\n<td><strong>&quot;Seahorse with BBC Radio Drama&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1963-08-31<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>Patrick Troughton</strong>, <strong>Hervey</strong></td>\n<td><strong>Bruce Stewart (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Suspense&quot;, &quot;Maritime&quot;, &quot;Saturday Night Theatre&quot;, &quot;BBC&quot;]</code></td>\n<td>The crew of a North Sea salvage tugboat becomes trapped in an intense psychological standoff over the ownership of a sunken prize.</td>\n</tr>\n<tr>\n<td><code>SNT_1968_ChalkGarden.mp3</code> <br><em>Alt</em>: <code>The Chalk Garden SNT</code></td>\n<td><strong>&quot;Enid Bagnold&#39;s The Chalk Garden with BBC Radio Drama&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1968-08-31<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Radio Drama</td>\n<td><strong>Sybil Thorndike</strong>, <strong>Evans</strong></td>\n<td><strong>Enid Bagnold (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Theatre&quot;, &quot;British&quot;, &quot;Saturday Night Theatre&quot;, &quot;BBC&quot;]</code></td>\n<td>An enigmatic governess with a mysterious past brings discipline and emotional healing to an eccentric grandmother&#39;s troubled household.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 348 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 508 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Saturday Night Theatre",
+        "BBC Home Service",
+        "BBC Radio 4",
+        "Charles the King",
+        "Valentine Dyall",
+        "Madame Sans-Gene",
+        "Seahorse",
+        "Patrick Troughton",
+        "The Chalk Garden",
+        "Enid Bagnold",
+        "Sybil Thorndike",
+        "Quiet Please",
+        "Wyllis Cooper",
+        "Ernest Chappell",
+        "Rory Rammer",
+        "ARTC",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-507-crime-doctor-apollo-11-shell-chateau-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-507-crime-doctor-apollo-11-shell-chateau-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Crime Doctor, Apollo 11, and Al Jolson Shell Chateau",
