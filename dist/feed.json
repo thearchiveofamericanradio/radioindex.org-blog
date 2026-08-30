@@ -6,6 +6,74 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-464-sherlock-holmes-judy-canova-samuel-beckett-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-464-sherlock-holmes-judy-canova-samuel-beckett-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Sherlock Holmes, Judy Canova, and Samuel Beckett",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 464)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across audio detective drama, hillbilly musical comedy, experimental radio theater, and courtroom docudramas, John Patrick Lowrie in <em>The Adventure of Charles Augustus Milverton</em> (2008), Judy Canova with Mel Blanc and Ruby Dandridge on CBS (1943) and NBC (1946), Jackson Beck as antique sleuth <em>Gregory Hood</em> (1950), Samuel Beckett&#39;s <em>Rough for Radio</em> on NPR&#39;s <em>Earplay</em> (1980), and <em>Famous Jury Trials</em> (1943–2008):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 464)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Jury_1946_ThatcherLomas.mp3</code> <br><em>Alt</em>: <code>State vs Thatcher Lomas</code></td>\n<td><strong>&quot;The State vs. Thatcher Lomas&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-08-31<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Courtroom Docudrama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Maurice Franklin (Judge)</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Legal&quot;, &quot;True Crime&quot;, &quot;Famous Jury Trials&quot;, &quot;ABC&quot;]</code></td>\n<td>Attorneys cross-examine forensic accountants to expose how an apparent suicide was staged to cover embezzlement.</td>\n</tr>\n<tr>\n<td><code>Canova_1943_Pig.mp3</code> <br><em>Alt</em>: <code>Getting The Pig Back Rancho</code></td>\n<td><strong>&quot;Getting the Pig Back to Rancho Canova&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-08-31<br>8:30 PM EWT</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Shave / Halo</td>\n<td><strong>Judy Canova</strong>, <strong>Mel Blanc</strong></td>\n<td><strong>Gordon Jenkins Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Hillbilly&quot;, &quot;Variety&quot;, &quot;Judy Canova&quot;, &quot;Mel Blanc&quot;]</code></td>\n<td>Judy Canova creates hilarious mayhem across town while trying to recapture her runaway prize pig Roscoe.</td>\n</tr>\n<tr>\n<td><code>Canova_1946_Cactus.mp3</code> <br><em>Alt</em>: <code>Just Back Cactus Junction</code></td>\n<td><strong>&quot;Just Back from Cactus Junction&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-08-31<br>10:00 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Halo Shampoo / Dental</td>\n<td><strong>Judy Canova</strong>, <strong>Dandridge</strong></td>\n<td><strong>Charles Dingle &amp; Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Hillbilly&quot;, &quot;Variety&quot;, &quot;Judy Canova&quot;, &quot;Colgate&quot;]</code></td>\n<td>Judy returns from her country vacation in Cactus Junction with a trunk full of eccentric souvenirs and farm gossip.</td>\n</tr>\n<tr>\n<td><code>Hood_1950_Forgetful.mp3</code> <br><em>Alt</em>: <code>Casebook of Gregory Hood 1950</code></td>\n<td><strong>&quot;The Forgetful Murderer with Jackson Beck&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1950-08-31<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Antique Detective Mystery</td>\n<td><strong>Jackson Beck</strong>, <strong>McGovern</strong></td>\n<td><strong>Boucher &amp; Green (Writers)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Gregory Hood&quot;, &quot;Jackson Beck&quot;, &quot;Antiques&quot;]</code></td>\n<td>San Francisco antique dealer Gregory Hood investigates an amnesiac collector accused of strangling an art appraiser.</td>\n</tr>\n<tr>\n<td><code>Earplay_1980_Beckett.mp3</code> <br><em>Alt</em>: <code>Microcosm Rough For Radio</code></td>\n<td><strong>&quot;Microcosm / Samuel Beckett&#39;s Rough for Radio / Always in Love with Amy&quot;</strong></td>\n<td><strong>NPR Network</strong><br>1980-08-31</td>\n<td><strong>NEA / CPB Grants</strong><br>Experimental Showcase</td>\n<td><strong>Earplay Ensemble</strong></td>\n<td><strong>Samuel Beckett (Playwright)</strong></td>\n<td><code>[&quot;Experimental&quot;, &quot;Drama&quot;, &quot;NPR&quot;, &quot;Samuel Beckett&quot;, &quot;Earplay&quot;]</code></td>\n<td>An avant-garde audio showcase featuring Samuel Beckett&#39;s minimalist psychological radio play exploring memory and isolation.</td>\n</tr>\n<tr>\n<td><code>Sherlock_2008_Milverton.mp3</code> <br><em>Alt</em>: <code>Charles Augustus Milverton</code></td>\n<td><strong>&quot;The Adventure of Charles Augustus Milverton with John Patrick Lowrie&quot;</strong></td>\n<td><strong>Imagination Theater</strong><br>2008-08-31</td>\n<td><strong>Sustaining</strong><br>Audio Detective Drama</td>\n<td><strong>John Patrick Lowrie</strong>, <strong>Albert</strong></td>\n<td><strong>M.J. Elliott &amp; Conan Doyle</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Sherlock Holmes&quot;, &quot;Conan Doyle&quot;, &quot;Jim French&quot;]</code></td>\n<td>Holmes and Watson disguise themselves as burglars to break into the mansion of London&#39;s most ruthless blackmailer.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 84 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 464 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "The Classic Adventures of Sherlock Holmes",
+        "John Patrick Lowrie",
+        "Lawrence Albert",
+        "Charles Augustus Milverton",
+        "Arthur Conan Doyle",
+        "Jim French",
+        "The Judy Canova Show",
+        "Judy Canova",
+        "Mel Blanc",
+        "Ruby Dandridge",
+        "Colgate",
+        "The Casebook of Gregory Hood",
+        "Jackson Beck",
+        "Earplay",
+        "Samuel Beckett",
+        "NPR",
+        "Famous Jury Trials",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-463-challenge-of-the-yukon-boris-karloff-jury-trials-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-463-challenge-of-the-yukon-boris-karloff-jury-trials-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Challenge of the Yukon, Boris Karloff, and Famous Jury Trials",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 463)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American network Yukon adventures, celebrity comedy-variety, and courtroom docudramas, three eras of <em>Challenge of the Yukon</em> featuring Jay Michael (1939, 1944) and Paul Sutton (1952), Al Jolson welcoming Boris Karloff on <em>Shell Chateau</em> (1935), and two courtroom cases on <em>Famous Jury Trials</em> (1935–1952):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 463)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Yukon_1939_GoldCache.mp3</code> <br><em>Alt</em>: <code>Challenge of Yukon 1939</code></td>\n<td><strong>&quot;The Gold Cache at Porcupine Creek&quot;</strong></td>\n<td><strong>WXYZ / Michigan</strong><br>1939-08-31<br>7:00 PM EST</td>\n<td><strong>Sustaining</strong><br>Northern Adventure</td>\n<td><strong>Jay Michael</strong> (Sgt. Preston)</td>\n<td><strong>Trendle &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Mounties&quot;, &quot;Sgt Preston&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>Sergeant Preston and King track two claim jumpers who ambushed an elderly prospector to steal his gold cache.</td>\n</tr>\n<tr>\n<td><code>Yukon_1944_Smokey.mp3</code> <br><em>Alt</em>: <code>Smokey Challenge of Yukon</code></td>\n<td><strong>&quot;Smokey the Sled Dog with Jay Michael&quot;</strong></td>\n<td><strong>WXYZ / Syndication</strong><br>1944-08-31<br>5:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Northern Adventure</td>\n<td><strong>Jay Michael</strong>, <strong>King</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Mounties&quot;, &quot;Sgt Preston&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>Sergeant Preston investigates the theft of a championship lead sled dog stolen during a blizzard in Whitehorse.</td>\n</tr>\n<tr>\n<td><code>Yukon_1952_Vancouver.mp3</code> <br><em>Alt</em>: <code>Man From Vancouver Preston</code></td>\n<td><strong>&quot;The Man from Vancouver with Paul Sutton&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-08-31<br>5:30 PM EDT</td>\n<td><strong>Quaker Oats Company</strong><br>Puffed Wheat &amp; Rice</td>\n<td><strong>Paul Sutton</strong>, <strong>King</strong></td>\n<td><strong>Dan Beattie (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Mounties&quot;, &quot;Paul Sutton&quot;, &quot;Quaker Oats&quot;]</code></td>\n<td>Sergeant Preston exposes a fraudulent gold mine promoter who framed an innocent Vancouver engineer for murder.</td>\n</tr>\n<tr>\n<td><code>Shell_1935_Karloff.mp3</code> <br><em>Alt</em>: <code>Guest Boris Karloff Jolson</code></td>\n<td><strong>&quot;Guest Boris Karloff with Al Jolson&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1935-08-31<br>9:30 PM EDST</td>\n<td><strong>Shell Oil Company</strong><br>Shell Gasoline &amp; Motor Oil</td>\n<td><strong>Al Jolson</strong>, <strong>Boris Karloff</strong></td>\n<td><strong>Victor Young Orchestra</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Boris Karloff&quot;, &quot;Al Jolson&quot;]</code></td>\n<td>Host Al Jolson welcomes horror icon Boris Karloff for comedic banter, dramatic readings, and musical numbers for Shell Oil.</td>\n</tr>\n<tr>\n<td><code>Jury_1943_LafeCarson.mp3</code> <br><em>Alt</em>: <code>Trial of Lafe Carson</code></td>\n<td><strong>&quot;The Trial of Lafe Carson&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1943-08-31<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Courtroom Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Famous Jury Trials Staff</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Legal&quot;, &quot;True Crime&quot;, &quot;Famous Jury Trials&quot;, &quot;NBC Blue&quot;]</code></td>\n<td>Defense attorneys present conflicting ballistic evidence in court to determine whether Lafe Carson shot a neighbor in self-defense.</td>\n</tr>\n<tr>\n<td><code>Jury_1945_ArthurMurdock.mp3</code> <br><em>Alt</em>: <code>Famous Jury Trials 1945</code></td>\n<td><strong>&quot;The State vs. Arthur Murdock&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1945-08-31<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Courtroom Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Famous Jury Trials Staff</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Legal&quot;, &quot;True Crime&quot;, &quot;Famous Jury Trials&quot;, &quot;ABC&quot;]</code></td>\n<td>Prosecutors present circumstantial eyewitness testimony accusing a bank cashier of staging an inside vault robbery.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 78 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 463 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Challenge of the Yukon",
+        "Sgt Preston",
+        "King Wonder Dog",
+        "Jay Michael",
+        "Paul Sutton",
+        "Fran Striker",
+        "Quaker Oats",
+        "Shell Chateau",
+        "Al Jolson",
+        "Boris Karloff",
+        "Victor Young",
+        "Famous Jury Trials",
+        "Courtroom Drama",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-462-dark-passage-under-arrest-happy-time-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-462-dark-passage-under-arrest-happy-time-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Dark Passage, Under Arrest, and The Happy Time",
