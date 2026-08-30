@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-653-the-shadow-rocky-jordan-navy-lark-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-653-the-shadow-rocky-jordan-navy-lark-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — The Shadow, Rocky Jordan & The Navy Lark",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 653)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across iconic masked crime fighters, international private eye intrigue in Cairo, Royal Navy situational comedy, police squad room investigations, comic strip adaptations, and presidential press addresses, Bret Morrison in <em>The Shadow</em> for &#39;blue coal&#39; (1950), Jack Moyles in <em>Rocky Jordan</em> for Del Monte (1950), Leslie Phillips and Jon Pertwee in <em>The Navy Lark</em> (1967), <em>Hearthstone of the Death Squad</em> (1952), <em>Gasoline Alley</em> (1948), and President Ronald Reagan (1948–1981):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 653)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Shadow_1950_MailedMurder.mp3</code> <br><em>Alt</em>: <code>The Man Who Mailed Murder The Shadow</code></td>\n<td><strong>&quot;The Man Who Mailed Murder with Bret Morrison as The Shadow&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-03<br>5:00 PM EDT</td>\n<td><strong>DL&amp;W Coal Co.</strong><br>&#39;blue coal&#39; Home Heating</td>\n<td><strong>Bret Morrison (Cranston)</strong></td>\n<td><strong>Gertrude Warner &amp; Cole</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;The Shadow&quot;, &quot;Bret Morrison&quot;, &quot;Blue Coal&quot;]</code></td>\n<td>Lamont Cranston tracks a cunning blackmailer using parcel post explosives to eliminate targets while framing an innocent postal clerk.</td>\n</tr>\n<tr>\n<td><code>RockyJordan_1950_AceHigh.mp3</code> <br><em>Alt</em>: <code>Ace High Straight Rocky Jordan</code></td>\n<td><strong>&quot;Ace High Straight with Jack Moyles as Rocky Jordan&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-03<br>6:30 PM EDT</td>\n<td><strong>California Packing</strong><br>Del Monte Canned Foods</td>\n<td><strong>Jack Moyles (Rocky)</strong></td>\n<td><strong>Jay Novello &amp; Roman</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Rocky Jordan&quot;, &quot;Jack Moyles&quot;, &quot;Del Monte&quot;]</code></td>\n<td>Cairo cafe owner Rocky Jordan is dragged into an extortion racket when a reckless American gambler attempts to pay debts with counterfeit currency.</td>\n</tr>\n<tr>\n<td><code>NavyLark_1967_WomenWardroom.mp3</code> <br><em>Alt</em>: <code>Have Been Redecorating (Women in the Wardroom) Navy Lark</code></td>\n<td><strong>&quot;Women in the Wardroom with Leslie Phillips and Jon Pertwee&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1967-09-03<br>1:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Naval Comedy</td>\n<td><strong>Leslie Phillips</strong>, <strong>Pertwee</strong></td>\n<td><strong>Stephen Murray &amp; Wyman</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Navy Lark&quot;, &quot;Leslie Phillips&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>The crew of HMS Troutbridge creates chaos when they permit WRNS officers to redecorate the ship&#39;s officers&#39; wardroom.</td>\n</tr>\n<tr>\n<td><code>Hearthstone_1952_CrimsonCarnation.mp3</code> <br><em>Alt</em>: <code>Hearthstone of the Death Squad 1952 Episode</code></td>\n<td><strong>&quot;The Crimson Carnation with Alfred Shirley as Inspector Hearthstone&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1952-09-03<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Alfred Shirley (Hearthstone)</strong></td>\n<td><strong>James Monk &amp; Hummert</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Hearthstone&quot;, &quot;Alfred Shirley&quot;, &quot;CBS&quot;]</code></td>\n<td>Inspector Hearthstone investigates the backstage strangulation of a Broadway nightclub dancer who wore a trademark red flower.</td>\n</tr>\n<tr>\n<td><code>Gasoline_1948_SkeezixBusiness.mp3</code> <br><em>Alt</em>: <code>Gasoline Alley 1948 Episode</code></td>\n<td><strong>&quot;Skeezix Goes into Business with Jimmy Lydon&quot;</strong></td>\n<td><strong>Syndication</strong><br>1948-09-03</td>\n<td><strong>Sustaining</strong><br>Comic Strip Comedy</td>\n<td><strong>Jimmy Lydon (Skeezix)</strong></td>\n<td><strong>Bill Idelson &amp; King</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Gasoline Alley&quot;, &quot;Jimmy Lydon&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Skeezix Wallet and his partner Wilmer attempt to secure garage financing to expand their neighborhood automotive repair shop.</td>\n</tr>\n<tr>\n<td><code>Reagan_1981_ArmsReduction.mp3</code> <br><em>Alt</em>: <code>Says The Us Will Enter Into Arms Reduction Talks Ronald Reagan</code></td>\n<td><strong>&quot;Arms Reduction Negotiations Announcement with the Soviet Union&quot;</strong></td>\n<td><strong>White House Press</strong><br>1981-09-03<br>1:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>President Ronald Reagan</strong></td>\n<td><strong>White House Press Staff</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;News&quot;, &quot;History&quot;, &quot;Ronald Reagan&quot;, &quot;Cold War&quot;]</code></td>\n<td>President Ronald Reagan announces the United States&#39; willingness to resume strategic nuclear arms limitation negotiations with Soviet leaders.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 109 / 469 (360 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 653 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Shadow",
+        "Bret Morrison",
+        "Gertrude Warner",
+        "Blue Coal",
+        "Rocky Jordan",
+        "Jack Moyles",
+        "Del Monte",
+        "The Navy Lark",
+        "Leslie Phillips",
+        "Jon Pertwee",
+        "BBC Radio 4",
+        "Hearthstone of the Death Squad",
+        "Alfred Shirley",
+        "Gasoline Alley",
+        "Jimmy Lydon",
+        "Ronald Reagan",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-652-orson-welles-les-miserables-kraft-music-hall-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-652-orson-welles-les-miserables-kraft-music-hall-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Orson Welles's Les Misérables & Kraft Music Hall",
