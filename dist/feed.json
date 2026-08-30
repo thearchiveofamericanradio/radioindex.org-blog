@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-759-lone-ranger-david-rose-proudly-we-hail-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-759-lone-ranger-david-rose-proudly-we-hail-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — The Lone Ranger, David Rose & Proudly We Hail",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 759)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across three classic Western frontier adventures with Earle Graser &amp; John Todd on <em>The Lone Ranger</em> for Gordon Baking / Silver Cup Bread and Merita Bread (1935, 1936, 1939), David Rose conducting lush string arrangements on <em>California Melodies</em>, and military action dramas starring Lee Bowman &amp; Richard Denning on <em>Proudly We Hail</em> for the US Army, Earle Graser &amp; John Todd (1935, 1936, 1939), David Rose (1947), Lee Bowman (1949), and Richard Denning (1935–1955):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 759)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>LoneRanger_1935_BorderRustlers.mp3</code> <br><em>Alt</em>: <code>Lone Ranger 1935 Episode</code></td>\n<td><strong>&quot;Border Cattle Rustlers with Earle Graser&quot;</strong></td>\n<td><strong>Mutual / WXYZ</strong><br>1935-09-04<br>7:30 PM EDST</td>\n<td><strong>Gordon Baking Co.</strong><br>Silver Cup Bread</td>\n<td><strong>Earle Graser &amp; Todd</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;Earle Graser&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>The masked rider and Tonto track a syndicate of masked rustlers smuggling stolen herd cattle across the Rio Grande river crossing.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1936_OsageBank.mp3</code> <br><em>Alt</em>: <code>The Osage Bank Robbery Lone Ranger</code></td>\n<td><strong>&quot;The Osage Bank Robbery with Earle Graser&quot;</strong></td>\n<td><strong>Mutual / WXYZ</strong><br>1936-09-04<br>7:30 PM EDST</td>\n<td><strong>Gordon Baking Co.</strong><br>Silver Cup Bread</td>\n<td><strong>Earle Graser &amp; Todd</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;Earle Graser&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>The Lone Ranger sets an ambush at a frontier canyon pass to recover gold bullion looted from the Osage territory bank vault.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1939_BreedsShirt.mp3</code> <br><em>Alt</em>: <code>Breed&#39;s Shirt Lone Ranger</code></td>\n<td><strong>&quot;Breed&#39;s Shirt with Earle Graser&quot;</strong></td>\n<td><strong>Mutual / WXYZ</strong><br>1939-09-04<br>7:30 PM EDST</td>\n<td><strong>American Bakeries</strong><br>Merita Bread</td>\n<td><strong>Earle Graser &amp; Todd</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;Earle Graser&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>A distinctive torn embroidered shirt found near a stagecoach holdup helps the Lone Ranger unmask the renegade outlaw gang&#39;s secret leader.</td>\n</tr>\n<tr>\n<td><code>CalMelodies_1947_MidnightParis.mp3</code> <br><em>Alt</em>: <code>First Song - Midnight In Paris California Melodies</code></td>\n<td><strong>&quot;Midnight in Paris with David Rose and His Orchestra&quot;</strong></td>\n<td><strong>Mutual / KHJ</strong><br>1947-09-04<br>8:00 PM PST</td>\n<td><strong>Sustaining</strong><br>Orchestral Showcase</td>\n<td><strong>David Rose and Orch.</strong></td>\n<td><strong>KHJ Music Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Orchestral&quot;, &quot;California Melodies&quot;, &quot;David Rose&quot;, &quot;KHJ&quot;]</code></td>\n<td>David Rose conducts signature lush string compositions including Midnight in Paris, Holiday for Strings, and Continental waltzes.</td>\n</tr>\n<tr>\n<td><code>ProudlyWeHail_1949_OnTheLam.mp3</code> <br><em>Alt</em>: <code>On the Lam Proudly We Hail</code></td>\n<td><strong>&quot;On the Lam with Lee Bowman&quot;</strong></td>\n<td><strong>Syndication / US Army</strong><br>1949-09-04</td>\n<td><strong>U.S. Army Recruiting</strong><br>Military Drama</td>\n<td><strong>Lee Bowman (Star)</strong></td>\n<td><strong>C.P. MacGregor (Prod.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Military&quot;, &quot;Proudly We Hail&quot;, &quot;Lee Bowman&quot;, &quot;US Army&quot;]</code></td>\n<td>A desperate fugitive wrongly blamed for a jewelry heist joins the military under an alias and redeems his reputation during a hazardous flood evacuation.</td>\n</tr>\n<tr>\n<td><code>ProudlyWeHail_1955_OlevskyAmbush.mp3</code> <br><em>Alt</em>: <code>The Olevsky Ambush Proudly We Hail</code></td>\n<td><strong>&quot;The Olevsky Ambush with Richard Denning&quot;</strong></td>\n<td><strong>Syndication / US Army</strong><br>1955-09-04</td>\n<td><strong>U.S. Army Recruiting</strong><br>Military Drama</td>\n<td><strong>Richard Denning (Star)</strong></td>\n<td><strong>C.P. MacGregor (Prod.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Military&quot;, &quot;Proudly We Hail&quot;, &quot;Richard Denning&quot;, &quot;US Army&quot;]</code></td>\n<td>An armored infantry unit trapped behind hostile mountain lines coordinates an artillery strike to break out of an ambush.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 276 / 471 (131 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 759 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Lone Ranger",
+        "Earle Graser",
+        "John Todd",
+        "Fran Striker",
+        "Silver Cup Bread",
+        "Merita Bread",
+        "WXYZ Detroit",
+        "Mutual",
+        "California Melodies",
+        "David Rose",
+        "KHJ Los Angeles",
+        "Proudly We Hail",
+        "Lee Bowman",
+        "Richard Denning",
+        "US Army",
+        "CP MacGregor",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-758-goldbergs-grandma-moses-charlie-ruggles-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-758-goldbergs-grandma-moses-charlie-ruggles-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — The Goldbergs, Grandma Moses & Charlie Ruggles",
