@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-536-ellery-queen-uss-missouri-surrender-henry-morgan-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-536-ellery-queen-uss-missouri-surrender-henry-morgan-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Ellery Queen, USS Missouri Surrender, and Henry Morgan",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 536)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across deductive mystery puzzle classics, sharp Madison Avenue satire, and monumental World War II radio news from the 1939 outbreak in Europe to the 1945 deck of the USS Missouri in Tokyo Bay, Hugh Marlowe in <em>The Adventures of Ellery Queen</em> (1940), Henry Morgan on WOR (1946), Webley Edwards reporting live from the USS Missouri (1945), Adolf Hitler&#39;s 1939 Reichstag war address with CBS live translation, Ignacy Jan Paderewski, and Robert Arden (1939–1946):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 536)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Ellery_1940_Box13.mp3</code> <br><em>Alt</em>: <code>Box 13 Ellery Queen</code></td>\n<td><strong>&quot;The Adventure of Box 13 with Hugh Marlowe and Gulf Oil&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-01<br>7:30 PM EDST</td>\n<td><strong>Gulf Oil Corp.</strong><br>Gulf Gas &amp; Gulfpride</td>\n<td><strong>Hugh Marlowe</strong>, <strong>Shockley</strong></td>\n<td><strong>Manfred Lee &amp; Dannay</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Ellery Queen&quot;, &quot;Hugh Marlowe&quot;, &quot;Gulf&quot;]</code></td>\n<td>Ellery Queen investigates a locked theater dressing room murder where a numbered strongbox key holds the vital clue to the killer&#39;s identity.</td>\n</tr>\n<tr>\n<td><code>Heres_Morgan_1946_Year3000.mp3</code> <br><em>Alt</em>: <code>Manhattan In The Year 3000 WOR</code></td>\n<td><strong>&quot;Manhattan in the Year 3000 with Henry Morgan (WOR Series)&quot;</strong></td>\n<td><strong>WOR / Mutual</strong><br>1946-09-01<br>7:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Radio Satire</td>\n<td><strong>Henry Morgan</strong></td>\n<td><strong>Henry Morgan (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Heres Morgan&quot;, &quot;Henry Morgan&quot;, &quot;WOR&quot;]</code></td>\n<td>Henry Morgan satirizes mid-century consumerism by envisioning a chaotic futuristic metropolis run entirely by malfunctioning automated appliances.</td>\n</tr>\n<tr>\n<td><code>News_1939_Paderewski_CBS.mp3</code> <br><em>Alt</em>: <code>Ignace Paderewski On The War Looming Before Poland</code></td>\n<td><strong>&quot;Ignacy Jan Paderewski on the Nazi Invasion Looming over Poland (CBS Shortwave)&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1939-09-01<br>8:15 PM EDST</td>\n<td><strong>Sustaining</strong><br>Shortwave News Relay</td>\n<td><strong>Ignacy Jan Paderewski</strong></td>\n<td><strong>Elmer Davis (Host)</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;Poland&quot;, &quot;Paderewski&quot;]</code></td>\n<td>Pianist and statesman Ignacy Jan Paderewski appeals via shortwave to American listeners to support Polish resistance against the German blitzkrieg.</td>\n</tr>\n<tr>\n<td><code>News_1939_HitlerReichstag.mp3</code> <br><em>Alt</em>: <code>CBS - adolf hitler announces war with poland</code></td>\n<td><strong>&quot;Adolf Hitler Address to the Reichstag on the Invasion of Poland with CBS Translation&quot;</strong></td>\n<td><strong>CBS / RRG</strong><br>1939-09-01<br>5:10 AM EDST</td>\n<td><strong>Sustaining</strong><br>International Relay</td>\n<td><strong>Adolf Hitler</strong>, <strong>Shirer</strong></td>\n<td><strong>William L. Shirer (Berlin)</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;Germany&quot;, &quot;CBS News&quot;]</code></td>\n<td>CBS translates Adolf Hitler&#39;s speech before the Kroll Opera House Reichstag proclaiming war with Poland following the staged Gleiwitz incident.</td>\n</tr>\n<tr>\n<td><code>News_1941_ArdenLabor.mp3</code> <br><em>Alt</em>: <code>KFWB Robert Arden News Commentary Labor Day</code></td>\n<td><strong>&quot;Robert Arden News Commentary on Labor Day and European Defense with KFWB&quot;</strong></td>\n<td><strong>KFWB Los Angeles</strong><br>1941-09-01<br>7:00 PM PST</td>\n<td><strong>Sustaining</strong><br>News Commentary</td>\n<td><strong>Robert Arden (Commentator)</strong></td>\n<td><strong>KFWB News Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;Commentary&quot;, &quot;WWII&quot;, &quot;Labor Day&quot;, &quot;KFWB&quot;]</code></td>\n<td>Commentator Robert Arden analyzes the Eastern Front siege of Leningrad and emphasizes the crucial role of American labor in Allied arms production.</td>\n</tr>\n<tr>\n<td><code>News_1945_EdwardsMissouri.mp3</code> <br><em>Alt</em>: <code>CBS Webley Edwards On Uss Missouri</code></td>\n<td><strong>&quot;Webley Edwards Live from the USS Missouri on the Eve of the Japanese Surrender with CBS&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-09-01<br>8:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>War Coverage</td>\n<td><strong>Webley Edwards (Reporter)</strong></td>\n<td><strong>CBS News Special</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;USS Missouri&quot;, &quot;CBS News&quot;]</code></td>\n<td>CBS war correspondent Webley Edwards reports live from Tokyo Bay describing the arrival of Allied delegates aboard the battleship USS Missouri.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 138 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 536 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "The Adventures of Ellery Queen",
+        "Hugh Marlowe",
+        "Nikki Porter",
+        "Gulf Oil",
+        "Here's Morgan",
+        "Henry Morgan",
+        "WWII News",
+        "USS Missouri",
+        "Webley Edwards",
+        "Japanese Surrender",
+        "Adolf Hitler",
+        "Reichstag",
+        "Ignacy Jan Paderewski",
+        "Robert Arden",
+        "KFWB",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-535-fdr-hoover-polskie-radio-1939-wwii-broadcasts-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-535-fdr-hoover-polskie-radio-1939-wwii-broadcasts-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — FDR, Hoover, Polskie Radio, and 1939 WWII Broadcasts",
