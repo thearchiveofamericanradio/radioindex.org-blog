@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-628-amos-n-andy-this-is-your-fbi-2000-plus-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-628-amos-n-andy-this-is-your-fbi-2000-plus-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Amos 'n' Andy, This Is Your FBI & 2000 Plus",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 628)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across iconic radio comedy, FBI procedural investigations, early nuclear-era science fiction drama, classical vocal concerts, rural variety music, and British medical satire, Freeman Gosden and Charles Correll in <em>Amos &#39;n&#39; Andy</em> for Rinso (1947), Stacy Harris in <em>This Is Your FBI</em> for Equitable Life (1949), <em>2000 Plus</em> (1951), Jan Peerce on <em>Music America Loves Best</em> for RCA Victor (1944), Pat Buttram (1957), and <em>Struck Off and Die</em> (1944–1994):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 628)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Amos_1947_InsurancePlan.mp3</code> <br><em>Alt</em>: <code>Insurance Plan Amos &#39;n&#39; Andy</code></td>\n<td><strong>&quot;Kingfish&#39;s Mysterious Insurance Policy with Rinso&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-09-02<br>9:00 PM EDT</td>\n<td><strong>Lever Brothers</strong><br>Rinso Soap Powder</td>\n<td><strong>Freeman Gosden</strong>, <strong>Correll</strong></td>\n<td><strong>Ernestine Wade &amp; Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Amos N Andy&quot;, &quot;Freeman Gosden&quot;, &quot;Rinso&quot;]</code></td>\n<td>Kingfish devises an elaborate scheme to cash in on Andy&#39;s life insurance dividend by faking a temporary disappearance.</td>\n</tr>\n<tr>\n<td><code>FBI_1949_DelinquentFather.mp3</code> <br><em>Alt</em>: <code>The Delinquent Father This is Your FBI</code></td>\n<td><strong>&quot;The Delinquent Father with Stacy Harris as Agent Taylor&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1949-09-02<br>8:30 PM EDT</td>\n<td><strong>Equitable Life</strong><br>Assurance Society</td>\n<td><strong>Stacy Harris (Taylor)</strong></td>\n<td><strong>William Woodson &amp; Devine</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;This Is Your FBI&quot;, &quot;Stacy Harris&quot;, &quot;Equitable&quot;]</code></td>\n<td>Special agents track an interstate fugitive whose abandonment of his family conceals an extensive payroll robbery syndicate.</td>\n</tr>\n<tr>\n<td><code>2000Plus_1951_ManFuture.mp3</code> <br><em>Alt</em>: <code>2000 Plus 1951 Episode</code></td>\n<td><strong>&quot;The Man from the Future with Dramatic Sci-Fi Cast&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-02<br>5:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Sci-Fi Anthology</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Adrian Penner (SFX)</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Drama&quot;, &quot;2000 Plus&quot;, &quot;Mutual&quot;, &quot;Science Fiction&quot;]</code></td>\n<td>A time-traveling physicist materializes in mid-twentieth-century Manhattan bearing catastrophic warnings of nuclear warfare.</td>\n</tr>\n<tr>\n<td><code>MusicBest_1944_PeerceWilliams.mp3</code> <br><em>Alt</em>: <code>Music America Loves Best 1944 Episode</code></td>\n<td><strong>&quot;Guests Jan Peerce and Camilla Williams with RCA Victor&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-09-02<br>7:30 PM EWT</td>\n<td><strong>RCA Victor</strong><br>Red Seal Records</td>\n<td><strong>Jan Peerce</strong>, <strong>Williams</strong></td>\n<td><strong>Jay Blackton Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Music America Loves Best&quot;, &quot;RCA Victor&quot;, &quot;NBC&quot;]</code></td>\n<td>Tenor Jan Peerce and soprano Camilla Williams perform operatic excerpts and American concert spirituals.</td>\n</tr>\n<tr>\n<td><code>JustEnt_1957_ButtramLaborDay.mp3</code> <br><em>Alt</em>: <code>Just Entertainment 1957 Episode</code></td>\n<td><strong>&quot;Labor Day Pop Favorites with Pat Buttram and Wrigley&#39;s&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1957-09-02<br>1:45 PM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Spearmint Chewing Gum</td>\n<td><strong>Pat Buttram (Host)</strong></td>\n<td><strong>Cass County Boys &amp; DeVol</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Just Entertainment&quot;, &quot;Pat Buttram&quot;, &quot;Wrigleys&quot;]</code></td>\n<td>Comedian Pat Buttram trades rural banter and introduces Western swing standards for the Labor Day holiday.</td>\n</tr>\n<tr>\n<td><code>Struck_1994_MarriageMenopause.mp3</code> <br><em>Alt</em>: <code>From Marriage to Menopause Struck Off and Die</code></td>\n<td><strong>&quot;From Marriage to Menopause with Dr. Phil Hammond&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1994-09-02<br>11:30 PM BST</td>\n<td><strong>Sustaining</strong><br>Medical Comedy</td>\n<td><strong>Dr. Phil Hammond</strong></td>\n<td><strong>Dr. Tony Gardner</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Struck Off And Die&quot;, &quot;BBC Radio 4&quot;, &quot;Satire&quot;]</code></td>\n<td>Two practicing British physicians deliver satirical stand-up routines dissecting medical bureaucracy and clinical misconceptions.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 380 / 480 (100 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 628 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Amos n Andy",
+        "Freeman Gosden",
+        "Charles Correll",
+        "Rinso",
+        "This Is Your FBI",
+        "Stacy Harris",
+        "Equitable Life",
+        "2000 Plus",
+        "Mutual Sci Fi",
+        "Music America Loves Best",
+        "Jan Peerce",
+        "Camilla Williams",
+        "RCA Victor",
+        "Just Entertainment",
+        "Pat Buttram",
+        "Struck Off and Die",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-627-casey-crime-photographer-steve-canyon-mario-lanza-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-627-casey-crime-photographer-steve-canyon-mario-lanza-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Casey Crime Photographer, Steve Canyon & Mario Lanza",
