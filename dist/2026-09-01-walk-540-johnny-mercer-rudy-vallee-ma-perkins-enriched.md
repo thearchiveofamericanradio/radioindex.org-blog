@@ -1,0 +1,33 @@
+# Archival Dispatch: September 1 Calendar Walk — Johnny Mercer, Rudy Vallee, and Ma Perkins
+
+**Date**: 2026-09-01  
+**Author**: radio index  
+**Tags**: September 1, Calendar Walk, Johnny Mercer's Music Shop, Jo Stafford, Pied Pipers, AFRS, Rudy Vallee, Fleischmann's Yeast, Royal Gelatin, Grace George, William A Brady, Ma Perkins, Virginia Payne, Oxydol, Exploring the Unknown, Alternate Titles, Original Filenames
+
+---
+
+## September 1 Archival Metadata Enrichment (Increment 540)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across wartime military swing broadcasts, Roaring Twenties/Thirties orchestral variety hours, beloved daytime soap opera drama, and post-war nuclear science education, Johnny Mercer, Jo Stafford, and The Pied Pipers for the AFRS (1944), Rudy Vallee on *The Fleischmann Yeast Hour* and *The Royal Gelatin Hour* (1932, 1938), Virginia Payne in *Ma Perkins* for Oxydol (1949, 1950), and *Exploring the Unknown* (1932–1950):
+
+---
+
+## 1. *September 1 Archival Inventory (Increment 540)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Mercer_1944_GIJive.mp3` <br>*Alt*: `Johnny Mercer AFRS Collection` | **"The G.I. Jive with Johnny Mercer, Jo Stafford, and The Pied Pipers (AFRS)"** | **NBC / AFRS**<br>1944-09-01<br>7:00 PM EWT | **Armed Forces Radio**<br>Wartime Service | **Johnny Mercer**, **Stafford** | **Paul Weston Orchestra** | `["Music", "Jazz", "Swing", "Johnny Mercer", "Jo Stafford", "AFRS"]` | Johnny Mercer and Jo Stafford host a swing music session performing popular wartime tunes and harmony arrangements for armed forces overseas. |
+| `Vallee_1932_Connecticut.mp3` <br>*Alt*: `Rudy Vallee 1932 Episode` | **"With Rudy Vallee and The Connecticut Yankees"** | **NBC Red (WEAF)**<br>1932-09-01<br>8:00 PM EDST | **Standard Brands**<br>Fleischmann's Yeast | **Rudy Vallee**, **Yankees** | **Rudy Vallee (Director)** | `["Music", "Variety", "Rudy Vallee", "Connecticut Yankees", "Fleischmanns"]` | Rudy Vallee conducts his Connecticut Yankees dance orchestra, croons romantic ballads, and introduces theatrical guest performers. |
+| `Vallee_1938_GraceGeorge.mp3` <br>*Alt*: `Guest - Grace George, William Brady` | **"Guests Grace George and William A. Brady with Rudy Vallee"** | **NBC Red (WEAF)**<br>1938-09-01<br>8:00 PM EDST | **Standard Brands**<br>Royal Gelatin Desserts | **Rudy Vallee**, **George** | **William A. Brady** | `["Music", "Variety", "Rudy Vallee", "Royal Gelatin", "NBC Red"]` | Stage veterans Grace George and producer William A. Brady perform dramatic theatrical scenes alongside Rudy Vallee's musical arrangements. |
+| `Ma_Perkins_1949_Willy.mp3` <br>*Alt*: `Ma Perkins 1949 Episode` | **"Willy's Troublesome Business Decision with Virginia Payne and Oxydol"** | **CBS (WCBS)**<br>1949-09-01<br>1:15 PM EDT | **Procter & Gamble**<br>Oxydol Laundry Soap | **Virginia Payne**, **Forbes** | **Robert Hardy Andrews** | `["Drama", "Soap Opera", "Ma Perkins", "Virginia Payne", "Oxydol"]` | Ma Perkins counsels Willy Fitz when an impulsive lumberyard investment threatens the family firm's financial stability in Rushville Center. |
+| `Ma_Perkins_1950_TruthOut.mp3` <br>*Alt*: `The Truth Is Out At Last` | **"The Truth Is Out at Last with Virginia Payne and Oxydol"** | **CBS (WCBS)**<br>1950-09-01<br>1:15 PM EDT | **Procter & Gamble**<br>Oxydol Detergent | **Virginia Payne**, **Egelston** | **Orin Tovrov (Writer)** | `["Drama", "Soap Opera", "Ma Perkins", "Virginia Payne", "Oxydol"]` | Ma Perkins confronts a deceitful town resident and reveals long-hidden correspondence that clears a neighbor of malicious rumors. |
+| `Exploring_1946_Atom.mp3` <br>*Alt*: `Exploring the Unknown 1946 Episode` | **"The Architecture of the Atom with Dramatic Science Cast"** | **Mutual (WOR)**<br>1946-09-01<br>9:00 PM EDT | **Revere Copper & Brass**<br>Industrial Science | **André Baruch (Host)** | **Sherman H. Dryer** | `["Science", "Documentary", "Educational", "Exploring The Unknown", "Mutual"]` | A dramatized scientific documentary illustrates atomic particle physics and peacetime industrial applications of nuclear energy. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 162 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
