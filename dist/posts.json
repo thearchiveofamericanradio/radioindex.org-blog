@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-739-burns-and-allen-space-patrol-zachary-taylor-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-739-burns-and-allen-space-patrol-zachary-taylor-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Burns & Allen, Space Patrol & Zachary Taylor",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 739)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across two hilarious eras of <em>The Burns and Allen Show</em> (planning high-society Hollywood parties for Campbell&#39;s in 1935 and post-vacation wardrobe dilemmas for Maxwell House in 1947), Commander Buzz Corry locating lost worlds on <em>Space Patrol</em> for Ralston Purina, Edward Arnold portraying President Zachary Taylor on <em>Mr. President</em>, Martin Blaine breaking jewel fencing cartels on <em>The FBI in Peace and War</em>, and peacetime military medical tributes on <em>The Voice of the Army</em>, George Burns &amp; Gracie Allen (1935, 1947), Ed Kemmer (1954), Edward Arnold (1949), Martin Blaine (1952), and US Army (1935–1954):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 739)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BurnsAllen_1935_SocietyParty.mp3</code> <br><em>Alt</em>: <code>Episode 51 Burns and Allen</code></td>\n<td><strong>&quot;Gracie&#39;s Hollywood Society Party with George Burns&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1935-09-04<br>8:30 PM EDST</td>\n<td><strong>Campbell Soup Co.</strong><br>Campbell&#39;s Tomato Soup</td>\n<td><strong>George Burns &amp; Gracie</strong></td>\n<td><strong>Guy Lombardo &amp; Orch.</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Burns and Allen&quot;, &quot;Gracie Allen&quot;, &quot;Campbell&#39;s&quot;]</code></td>\n<td>Gracie confuses Hollywood society guest lists while planning an extravagant Beverly Hills dinner party, driving George to distraction.</td>\n</tr>\n<tr>\n<td><code>BurnsAllen_1947_BackVacation.mp3</code> <br><em>Alt</em>: <code>Back from Vacation, Gracie Thinks that Styles Have Changed, 1st Song - Peg of My Heart Burns and Allen</code></td>\n<td><strong>&quot;Back from Vacation with Maxwell House Coffee&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-09-04<br>8:30 PM EDT</td>\n<td><strong>General Foods</strong><br>Maxwell House Coffee</td>\n<td><strong>George Burns &amp; Gracie</strong></td>\n<td><strong>Bill Goodwin &amp; Willson</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Burns and Allen&quot;, &quot;Gracie Allen&quot;, &quot;Maxwell House&quot;]</code></td>\n<td>Returning home from summer vacation, Gracie becomes convinced that feminine fashion trends have shifted and redesigns George&#39;s entire wardrobe.</td>\n</tr>\n<tr>\n<td><code>SpacePatrol_1954_LocatingTyranna.mp3</code> <br><em>Alt</em>: <code>Locating Tyranna Space Patrol</code></td>\n<td><strong>&quot;Locating Tyranna with Ed Kemmer as Buzz Corry&quot;</strong></td>\n<td><strong>ABC (KECA)</strong><br>1954-09-04<br>10:30 AM EDT</td>\n<td><strong>Ralston Purina Co.</strong><br>Wheat Chex &amp; Instant Ralston</td>\n<td><strong>Ed Kemmer (Buzz Corry)</strong></td>\n<td><strong>Lyn Osborn &amp; Lou Huston</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Adventure&quot;, &quot;Space Patrol&quot;, &quot;Ed Kemmer&quot;, &quot;Ralston&quot;]</code></td>\n<td>Commander Buzz Corry and Cadet Happy track a rogue cosmic ray storm across the asteroid belt to pinpoint the hidden planetary coordinates of Tyranna.</td>\n</tr>\n<tr>\n<td><code>MrPresident_1949_ZacharyTaylor.mp3</code> <br><em>Alt</em>: <code>Mr President 1949 Episode</code></td>\n<td><strong>&quot;The Resolute Pioneer (Zachary Taylor) with Edward Arnold&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1949-09-04<br>2:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Historical Docudrama</td>\n<td><strong>Edward Arnold (Taylor)</strong></td>\n<td><strong>Jean Holloway (Writer)</strong></td>\n<td><code>[&quot;History&quot;, &quot;Drama&quot;, &quot;Mr President&quot;, &quot;Edward Arnold&quot;, &quot;Zachary Taylor&quot;]</code></td>\n<td>President Zachary Taylor navigates escalating congressional sectional tensions over the admission of California to the Union.</td>\n</tr>\n<tr>\n<td><code>FBI_1952_SerpentRing.mp3</code> <br><em>Alt</em>: <code>The Serpent Ring FBI In Peace And War, The</code></td>\n<td><strong>&quot;The Serpent Ring with Martin Blaine&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1952-09-04<br>8:00 PM EDT</td>\n<td><strong>Wildroot Co.</strong><br>Wildroot Cream-Oil</td>\n<td><strong>Martin Blaine (Agent)</strong></td>\n<td><strong>Louis Pelletier (Writer)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;FBI in Peace and War&quot;, &quot;Martin Blaine&quot;, &quot;Wildroot&quot;]</code></td>\n<td>Federal special agents infiltrate an interstate stolen jewelry fenced-goods syndicate recognized by an engraved serpent ring.</td>\n</tr>\n<tr>\n<td><code>VoiceArmy_1946_AgainstEnemy.mp3</code> <br><em>Alt</em>: <code>Against This Enemy Voice of the Army</code></td>\n<td><strong>&quot;Against This Enemy with US Army Recruiting&quot;</strong></td>\n<td><strong>Syndication / US Army</strong><br>1946-09-04</td>\n<td><strong>U.S. Army Recruiting</strong><br>Military Service</td>\n<td><strong>Dramatic Army Cast</strong></td>\n<td><strong>US Army Radio Section</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Military&quot;, &quot;Voice of the Army&quot;, &quot;US Army&quot;, &quot;Medical&quot;]</code></td>\n<td>A dramatic tribute illustrating how peacetime army medical research corps scientists developed lifesaving vaccines against tropical epidemics.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 156 / 471 (251 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 739 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Burns and Allen Show",
+        "George Burns",
+        "Gracie Allen",
+        "Campbell's",
+        "Maxwell House Coffee",
+        "Space Patrol",
+        "Ed Kemmer",
+        "Lyn Osborn",
+        "Ralston Purina",
+        "Wheat Chex",
+        "Mr President",
+        "Edward Arnold",
+        "Zachary Taylor",
+        "Jean Holloway",
+        "The FBI in Peace and War",
+        "Martin Blaine",
+        "Wildroot",
+        "Voice of the Army",
+        "US Army Medical Corps",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-738-gunsmoke-ellery-queen-senator-truman-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-738-gunsmoke-ellery-queen-senator-truman-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Gunsmoke, Ellery Queen & Senator Truman",
