@@ -6,6 +6,38 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-517-charlie-mccarthy-henry-morgan-hermits-cave-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-517-charlie-mccarthy-henry-morgan-hermits-cave-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Charlie McCarthy, Henry Morgan, and Hermit's Cave",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 517)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across ventriloquist comedy hours, sharp Madison Avenue radio satire, horror audio dramas, and Treasury Department musical features, Edgar Bergen and Charlie McCarthy welcoming Dr. Max Mason and The Andrews Sisters (1940, 1946), Henry Morgan on Mutual and ABC (1942, 1946), <em>The Hermit&#39;s Cave</em> on WJR Detroit (1940), and Gordon MacRae on <em>Guest Star</em> (1940–1963):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 517)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Bergen_1940_MaxMason.mp3</code> <br><em>Alt</em>: <code>Guest - Dr. Max Mason</code></td>\n<td><strong>&quot;Guest Dr. Max Mason with Edgar Bergen and Charlie McCarthy&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-09-01<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Dated</td>\n<td><strong>Edgar Bergen</strong>, <strong>Mason</strong></td>\n<td><strong>Ray Noble Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Edgar Bergen&quot;, &quot;Charlie McCarthy&quot;, &quot;Chase and Sanborn&quot;]</code></td>\n<td>Charlie McCarthy grills Palomar telescope director Dr. Max Mason on whether Martians drink coffee, while Mortimer Snerd ponders celestial mechanics.</td>\n</tr>\n<tr>\n<td><code>Bergen_1946_AndrewsSisters.mp3</code> <br><em>Alt</em>: <code>Guest - Andrews Sisters</code></td>\n<td><strong>&quot;Guest The Andrews Sisters with Edgar Bergen and Charlie McCarthy&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-09-01<br>8:00 PM EDT</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Coffee</td>\n<td><strong>Edgar Bergen</strong>, <strong>Andrews</strong></td>\n<td><strong>Ray Noble Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Music&quot;, &quot;Edgar Bergen&quot;, &quot;The Andrews Sisters&quot;, &quot;Chase and Sanborn&quot;]</code></td>\n<td>Charlie McCarthy vies for Patty Andrews&#39; romantic attention before joining The Andrews Sisters in swinging close-harmony vocal numbers.</td>\n</tr>\n<tr>\n<td><code>Morgan_1942_PeterDonald.mp3</code> <br><em>Alt</em>: <code>Guest Peter Donald Groans</code></td>\n<td><strong>&quot;Guest Peter Donald Groans on Mike with Henry Morgan&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1942-09-01<br>7:15 PM EWT</td>\n<td><strong>Sustaining</strong><br>Satirical Comedy</td>\n<td><strong>Henry Morgan</strong>, <strong>Donald</strong></td>\n<td><strong>Henry Morgan (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Henry Morgan&quot;, &quot;Peter Donald&quot;, &quot;Mutual&quot;]</code></td>\n<td>Henry Morgan subjects dialect specialist Peter Donald to absurd broadcast critiques and lampoons network sound effect conventions.</td>\n</tr>\n<tr>\n<td><code>Morgan_1946_Year3000.mp3</code> <br><em>Alt</em>: <code>Manhattan In The Year 3000</code></td>\n<td><strong>&quot;Manhattan in the Year 3000 with Henry Morgan&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-01<br>8:30 PM EDT</td>\n<td><strong>Eversharp Inc.</strong><br>Schick Injector Razors</td>\n<td><strong>Henry Morgan</strong>, <strong>Stang</strong></td>\n<td><strong>Bernie Green Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Sci-Fi&quot;, &quot;Henry Morgan&quot;, &quot;Schick&quot;]</code></td>\n<td>Henry Morgan presents a satirical futuristic vision of New York City in the year 3000 featuring automated commuting gadgets and robot waiters.</td>\n</tr>\n<tr>\n<td><code>Hermit_1940_BlackPhantom.mp3</code> <br><em>Alt</em>: <code>Hermit&#39;s Cave 1940 Episode</code></td>\n<td><strong>&quot;The Black Phantom of the Moors with John Kent&quot;</strong></td>\n<td><strong>WJR Detroit</strong><br>1940-09-01<br>10:30 PM CST</td>\n<td><strong>Carters Pills</strong><br>Little Liver Pills</td>\n<td><strong>John Kent (The Hermit)</strong></td>\n<td><strong>WJR Production Staff</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Supernatural&quot;, &quot;Mystery&quot;, &quot;Hermits Cave&quot;, &quot;WJR&quot;]</code></td>\n<td>A vengeful ghostly apparition stalks the fog-shrouded English moors, terrorizing the heirs to an ancestral manor estate.</td>\n</tr>\n<tr>\n<td><code>Guest_Star_1963_MacRae.mp3</code> <br><em>Alt</em>: <code>Guest Star 1963 Episode</code></td>\n<td><strong>&quot;Guest Gordon MacRae with the U.S. Treasury Department&quot;</strong></td>\n<td><strong>Treasury Synd.</strong><br>1963-09-01</td>\n<td><strong>U.S. Treasury</strong><br>U.S. Savings Bonds</td>\n<td><strong>Gordon MacRae</strong></td>\n<td><strong>Guest Star Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Gordon MacRae&quot;, &quot;Treasury&quot;, &quot;Guest Star&quot;]</code></td>\n<td>Baritone Gordon MacRae performs Broadway showtunes and urges listeners to invest in United States Savings Bonds.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 24 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 517 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Chase and Sanborn",
+        "Edgar Bergen",
+        "Charlie McCarthy",
+        "Andrews Sisters",
+        "Dr Max Mason",
+        "Henry Morgan Show",
+        "Peter Donald",
+        "Arnold Stang",
+        "Hermits Cave",
+        "John Kent",
+        "Guest Star",
+        "Gordon MacRae",
+        "US Treasury",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-516-destination-freedom-i-love-a-mystery-jimmy-durante-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-516-destination-freedom-i-love-a-mystery-jimmy-durante-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Destination Freedom, I Love a Mystery, and Jimmy Durante",
