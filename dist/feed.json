@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-626-casey-crime-photographer-texaco-star-theater-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-626-casey-crime-photographer-texaco-star-theater-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Casey Crime Photographer, Texaco Star Theater & Jungle Jim",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 626)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across newspaper photojournalist crime mysteries, gala victory concert celebrations on V-J Day, syndicated comic strip jungle serials, Merchant Marine historical tributes, and Brooklyn domestic comedy sketches, Matt Crowley in <em>Casey, Crime Photographer</em> for Anchor Hocking (1943, 1944), James Melton on <em>Texaco Star Theater</em> (1945), Jackson Beck in <em>Joe and Ethel Turp</em> (1941), <em>Jungle Jim</em> (1950), and <em>It&#39;s Maritime</em> (1941–1950):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 626)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Casey_1943_WhisperingGun.mp3</code> <br><em>Alt</em>: <code>The Case of the Whispering Gun Casey Crime Photographer</code></td>\n<td><strong>&quot;The Case of the Whispering Gun with Matt Crowley&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-09-02<br>10:00 PM EWT</td>\n<td><strong>Anchor Hocking</strong><br>Fire-King Ovenware</td>\n<td><strong>Matt Crowley (Casey)</strong></td>\n<td><strong>Alice Reinheart &amp; Gibson</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Crime Photographer&quot;, &quot;Anchor Hocking&quot;, &quot;CBS&quot;]</code></td>\n<td>Newspaper photographer Jack Casey investigates a nightclub robbery where a silenced pistol was used to murder a prominent jeweler.</td>\n</tr>\n<tr>\n<td><code>Casey_1944_GunBoy.mp3</code> <br><em>Alt</em>: <code>Gun Boy Casey Crime Photographer</code></td>\n<td><strong>&quot;Gun Boy with Matt Crowley as Flashgun Casey&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-02<br>8:00 PM EWT</td>\n<td><strong>Anchor Hocking</strong><br>Fire-King Ovenware</td>\n<td><strong>Matt Crowley (Casey)</strong></td>\n<td><strong>Alice Reinheart &amp; Gibson</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Crime Photographer&quot;, &quot;Anchor Hocking&quot;, &quot;CBS&quot;]</code></td>\n<td>Flashgun Casey attempts to clear a troubled juvenile accused of shooting a waterfront warehouse watchman during a robbery.</td>\n</tr>\n<tr>\n<td><code>Texaco_1945_VJDayConcert.mp3</code> <br><em>Alt</em>: <code>Episode Texaco Star Theater</code></td>\n<td><strong>&quot;Summer Music Hall with James Melton on V-J Day&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-09-02<br>9:30 PM EWT</td>\n<td><strong>The Texas Company</strong><br>Texaco Fire-Chief Gas</td>\n<td><strong>James Melton (Tenor)</strong></td>\n<td><strong>Al Goodman Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Texaco Star Theater&quot;, &quot;James Melton&quot;, &quot;Texaco&quot;]</code></td>\n<td>Tenor James Melton sings patriotic anthems and operatic arias celebrating the formal surrender of Japan on V-J Day.</td>\n</tr>\n<tr>\n<td><code>Jungle_1950_SnakePit.mp3</code> <br><em>Alt</em>: <code>Jungle Jim 1950 Episode</code></td>\n<td><strong>&quot;Escape from the Snake Pit with Matt Crowley&quot;</strong></td>\n<td><strong>Hearst Synd.</strong><br>1950-09-02</td>\n<td><strong>Sustaining</strong><br>Jungle Adventure</td>\n<td><strong>Matt Crowley (Jim)</strong></td>\n<td><strong>Juano Hernandez (Kolu)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;Jungle Jim&quot;, &quot;Matt Crowley&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Jungle Jim and Kolu escape a subterranean pit filled with venomous vipers while tracking poachers in the Malayan jungle.</td>\n</tr>\n<tr>\n<td><code>Maritime_1945_TokyoBay.mp3</code> <br><em>Alt</em>: <code>Episode It&#39;s Maritime</code></td>\n<td><strong>&quot;The Merchant Marine at Tokyo Bay on V-J Day&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-09-02<br>5:00 PM EWT</td>\n<td><strong>Maritime Commission</strong><br>War Shipping Admin.</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>CBS Feature Unit</strong></td>\n<td><code>[&quot;Maritime&quot;, &quot;Documentary&quot;, &quot;WWII&quot;, &quot;Its Maritime&quot;, &quot;CBS&quot;]</code></td>\n<td>Documentary dramatizations commemorate the civilian Merchant Marine seamen who ferried vital supplies across the Pacific to Tokyo Bay.</td>\n</tr>\n<tr>\n<td><code>Turp_1941_WeddingPresent.mp3</code> <br><em>Alt</em>: <code>Joe and Ethel Turp 1941 Episode</code></td>\n<td><strong>&quot;The Disputed Wedding Present with Damon Runyon Stories&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1941-09-02<br>7:15 PM EDST</td>\n<td><strong>Sustaining</strong><br>Damon Runyon Comedy</td>\n<td><strong>Jackson Beck (Joe)</strong></td>\n<td><strong>Patsy Campbell (Ethel)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Joe And Ethel Turp&quot;, &quot;Damon Runyon&quot;, &quot;CBS&quot;]</code></td>\n<td>Joe and Ethel bicker over whether to return an ugly ceramic punch bowl received as an awkward wedding gift from Uncle Ben.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 368 / 480 (112 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 626 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Casey Crime Photographer",
+        "Matt Crowley",
+        "Alice Reinheart",
+        "Anchor Hocking",
+        "Texaco Star Theater",
+        "James Melton",
+        "Texaco",
+        "Jungle Jim",
+        "Alex Raymond",
+        "It's Maritime",
+        "Merchant Marine",
+        "Joe and Ethel Turp",
+        "Jackson Beck",
+        "Damon Runyon",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-625-jungle-jim-death-valley-sheriff-this-is-our-enemy-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-625-jungle-jim-death-valley-sheriff-this-is-our-enemy-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Jungle Jim, Death Valley Sheriff & This Is Our Enemy",
