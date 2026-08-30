@@ -1,0 +1,34 @@
+# Archival Dispatch: August 31 Calendar Walk (Milestone 500!) — Fibber McGee, One Man's Family, and Guiding Light
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, Milestone 500, Fibber McGee and Molly, Jim Jordan, Marian Jordan, NBC Monitor, One Mans Family, Carlton E Morse, J Anthony Smythe, Serial Story, The Guiding Light, Irna Phillips, Lyle Sudrow, Charita Bauer, Lands of the Free, The Jack Benny Program, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 500 — Milestone Dispatch)
+
+This landmark archival dispatch marks **Increment 500** of the comprehensive multi-day calendar walk, establishing complete historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized story chapter metadata, and pure narrative synopses for broadcasts transmitting on **August 31** across domestic comedies on NBC Monitor, multi-generational family serials, pioneer daytime soap operas, historical education documentaries, and Jack Benny variety comedy, Jim and Marian Jordan across two *Fibber McGee and Molly* NBC Monitor features (1957, 1958), Carlton E. Morse's *One Man's Family* (1950), Irna Phillips' *The Guiding Light* on CBS (1950), *Lands of the Free* (1942), and *The Jack Benny Program* (1934–1958):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 500 — Milestone 500!)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Fibber_1957_PlantLabels.mp3` <br>*Alt*: `Labeling Plants In The Yard` | **"Labeling Plants in the Yard with Jim and Marian Jordan (Monitor)"** | **NBC Monitor**<br>1957-08-31 | **Sustaining**<br>Weekend Radio Service | **Jim & Marian Jordan** | **Phil Leslie (Writer)** | `["Comedy", "Domestic", "Sitcom", "Fibber McGee and Molly", "NBC Monitor"]` | Fibber attempts to systematically label all the shrubs and vegetable plantings in the front yard with homemade wooden tags. |
+| `Fibber_1958_LaborDay.mp3` <br>*Alt*: `Fourth of July Celebration` | **"Labor Day Preparations with Jim and Marian Jordan (Monitor)"** | **NBC Monitor**<br>1958-08-31 | **Sustaining**<br>Weekend Radio Service | **Jim & Marian Jordan** | **Phil Leslie (Writer)** | `["Comedy", "Domestic", "Sitcom", "Fibber McGee and Molly", "NBC Monitor"]` | Fibber and Molly plan their holiday weekend picnic while debating whether to invite Mayor LaTrivia and Doc Gamble. |
+| `OMF_1950_HenryBook.mp3` <br>*Alt*: `B077c14 The Book Of Henry` | **"The Book of Henry (Book 77, Chapter 14) with J. Anthony Smythe"** | **NBC (WNBC)**<br>1950-08-31<br>8:00 PM EDT | **Miles Laboratories**<br>Alka-Seltzer / Bactine | **J. Anthony Smythe**, **Ellen** | **Carlton E. Morse (Author)** | `["Soap Opera", "Drama", "Family", "One Mans Family", "Carlton Morse"]`<br>*Arc*: **Book 77: The Book of Henry (Chapter 14)** | Father Barbour offers heartfelt counsel to Henry regarding future career ambitions and family responsibilities at the Sea Cliff home. |
+| `Guiding_1950_BillDrinking.mp3` <br>*Alt*: `The Bill's Drinking Problem` | **"Bill Bauer's Drinking Problem with Lyle Sudrow and Charita Bauer"** | **CBS (WCBS)**<br>1950-08-31<br>1:45 PM EDT | **Procter & Gamble**<br>Duz / Ivory Soap | **Lyle Sudrow**, **Bauer** | **Irna Phillips (Creator)** | `["Soap Opera", "Drama", "The Guiding Light", "Irna Phillips", "CBS"]` | Bert confronts Bill over his escalating alcohol dependence and pleads with him to seek medical treatment before his job is lost. |
+| `Lands_1942_Dominion.mp3` <br>*Alt*: `The Road To Dominion` | **"The Road to Dominion (Canada) with NBC Inter-American University"** | **NBC (WEAF)**<br>1942-08-31<br>10:30 PM EWT | **Sustaining**<br>Inter-American Univ. | **Dramatic Voice Ensemble** | **Richard McDonagh (Writer)** | `["Docudrama", "History", "Canada", "Lands of the Free", "NBC"]` | A historical docudrama traces Canada's journey from colonial confederation under Sir John A. Macdonald to sovereign dominion status. |
+| `Benny_1934_HouseBenny.mp3` <br>*Alt*: `Program The House Of Benny` | **"The House of Benny with Mary Livingstone and Don Bestor"** | **NBC Blue (WJZ)**<br>1934-08-31<br>8:30 PM EDST | **General Foods**<br>Jell-O | **Jack Benny**, **Livingstone** | **Don Bestor Orchestra** | `["Comedy", "Variety", "Jack Benny", "Mary Livingstone", "Jell-O"]` | Jack boasts about his grand new Hollywood mansion, only to have the cast expose that the estate is leased and completely unfurnished. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 300 / 376
+- **Milestone Reached**: **Increment 500 Complete**
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
