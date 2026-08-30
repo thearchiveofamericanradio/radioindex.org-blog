@@ -6,6 +6,37 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-760-lone-ranger-frontier-chronicles-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-760-lone-ranger-frontier-chronicles-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — The Lone Ranger Frontier Chronicles",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 760)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across six golden era chapters of <em>The Lone Ranger</em> spanning over a decade of American broadcasting (1940–1953) featuring Earle Graser, Brace Beemer, and John Todd as Tonto for Bond Bread, Merita Bread, and General Mills / Cheerios, Earle Graser (1940, 1942), Brace Beemer (1944, 1946, 1950, 1953), and John Todd (1940–1953):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 760)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>LoneRanger_1940_SwampBoss.mp3</code> <br><em>Alt</em>: <code>Swamp Boss Lone Ranger</code></td>\n<td><strong>&quot;Swamp Boss with Earle Graser&quot;</strong></td>\n<td><strong>Mutual / WXYZ</strong><br>1940-09-04<br>7:30 PM EDST</td>\n<td><strong>General Baking Co.</strong><br>Bond Bread</td>\n<td><strong>Earle Graser &amp; Todd</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;Earle Graser&quot;, &quot;Bond Bread&quot;]</code></td>\n<td>The Lone Ranger and Tonto venture deep into treacherous bayou marshlands to dismantle an armed smuggler fortress.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1942_SilverDollar.mp3</code> <br><em>Alt</em>: <code>The Silver Dollar Lone Ranger</code></td>\n<td><strong>&quot;The Silver Dollar with John Todd as Tonto&quot;</strong></td>\n<td><strong>Blue Network / WXYZ</strong><br>1942-09-04<br>7:30 PM EWT</td>\n<td><strong>General Baking Co.</strong><br>Bond Bread</td>\n<td><strong>Earle Graser &amp; Todd</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;John Todd&quot;, &quot;Bond Bread&quot;]</code></td>\n<td>A custom-engraved silver dollar left at a frontier trading post provides the crucial link to convicting a dishonest saloonkeeper.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1944_BillyTilghman.mp3</code> <br><em>Alt</em>: <code>Billy Tilghman Lone Ranger</code></td>\n<td><strong>&quot;Billy Tilghman with Fred Foy and Cheerios&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1944-09-04<br>7:30 PM EWT</td>\n<td><strong>General Mills</strong><br>Cheerioats / Cheerios</td>\n<td><strong>Brace Beemer &amp; Todd</strong></td>\n<td><strong>Fred Foy &amp; Striker</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Cheerios&quot;]</code></td>\n<td>The Lone Ranger rides alongside legendary frontier lawman Billy Tilghman to restore order to a lawless boomtown.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1946_NewMarshal.mp3</code> <br><em>Alt</em>: <code>New Marshall Lone Ranger</code></td>\n<td><strong>&quot;The New Marshal with Brace Beemer&quot;</strong></td>\n<td><strong>ABC (WXYZ)</strong><br>1946-09-04<br>7:30 PM EDT</td>\n<td><strong>American Bakeries</strong><br>Merita Bread</td>\n<td><strong>Brace Beemer &amp; Todd</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Merita Bread&quot;]</code></td>\n<td>The masked rider helps an inexperienced newly appointed town marshal stand up against a band of intimidators hired by corrupt ranchers.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1950_MountainSiege.mp3</code> <br><em>Alt</em>: <code>Mountain Siege Lone Ranger</code></td>\n<td><strong>&quot;Mountain Siege with Brace Beemer&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1950-09-04<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios &amp; Wheaties</td>\n<td><strong>Brace Beemer &amp; Todd</strong></td>\n<td><strong>Fred Foy (Announcer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;General Mills&quot;]</code></td>\n<td>The Lone Ranger and Tonto hold off a siege of desperadoes trapping a family of homesteaders inside a high mountain pass cabin.</td>\n</tr>\n<tr>\n<td><code>LoneRanger_1953_StolenMoney.mp3</code> <br><em>Alt</em>: <code>Stolen Money Lone Ranger</code></td>\n<td><strong>&quot;Stolen Money with Brace Beemer&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1953-09-04<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios Cereal</td>\n<td><strong>Brace Beemer &amp; Todd</strong></td>\n<td><strong>Fred Foy (Announcer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Lone Ranger&quot;, &quot;Brace Beemer&quot;, &quot;Cheerios&quot;]</code></td>\n<td>The masked rider recovers a stolen bank pouch hidden inside an abandoned gold mill before the outlaws can retrieve it.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 282 / 471 (125 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 760 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Lone Ranger",
+        "Earle Graser",
+        "Brace Beemer",
+        "John Todd",
+        "Fred Foy",
+        "Fran Striker",
+        "Bond Bread",
+        "Cheerios",
+        "General Mills",
+        "Merita Bread",
+        "ABC",
+        "Mutual",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-759-lone-ranger-david-rose-proudly-we-hail-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-759-lone-ranger-david-rose-proudly-we-hail-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — The Lone Ranger, David Rose & Proudly We Hail",
