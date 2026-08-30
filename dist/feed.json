@@ -6,6 +6,88 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-745-lord-of-the-rings-arthur-godfrey-rex-stout-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-745-lord-of-the-rings-arthur-godfrey-rex-stout-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Lord of the Rings, Arthur Godfrey & Rex Stout",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 745)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Michael Hordern confronting Saruman in Part 17 of Brian Sibley&#39;s landmark BBC radio dramatization of J.R.R. Tolkien&#39;s <em>The Lord of the Rings</em>, Arthur Godfrey presenting winning vocalist Irene Carroll on <em>Talent Scouts</em> for Lipton Tea, Brian Donlevy starring in frontline combat medical drama on <em>The Doctor Fights</em> for Schenley Penicillin, Mortimer Meek&#39;s suburban mishaps on <em>Meet the Meeks</em> for Swift, and mystery author Rex Stout leading discussions on democratic literature on <em>Speaking of Liberty</em>, Michael Hordern (1982), Arthur Godfrey (1950), Brian Donlevy (1945), Forrest Lewis (1948), and Rex Stout (1941–1982):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 745)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>LOTR_1982_VoiceSaruman1.mp3</code> <br><em>Alt</em>: <code>The Voice of Saruman Lord of the Rings</code></td>\n<td><strong>&quot;The Voice of Saruman (Part 17) with Michael Hordern&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1982-09-04</td>\n<td><strong>Sustaining</strong><br>Fantasy Drama</td>\n<td><strong>Michael Hordern (Gandalf)</strong></td>\n<td><strong>Brian Sibley &amp; Tolkien</strong></td>\n<td><code>[&quot;Fantasy&quot;, &quot;Adventure&quot;, &quot;Lord of the Rings&quot;, &quot;Michael Hordern&quot;, &quot;JRR Tolkien&quot;]</code></td>\n<td>Gandalf and King Théoden confront the fallen wizard Saruman at the fortress of Orthanc, resisting the seductive power of his enchanted voice.</td>\n</tr>\n<tr>\n<td><code>LOTR_1982_VoiceSaruman2.mp3</code> <br><em>Alt</em>: <code>The Voice Of Saruman Lord of the Rings</code></td>\n<td><strong>&quot;The Voice of Saruman (Broadcast Master) with BBC Radio 4&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1982-09-04</td>\n<td><strong>Sustaining</strong><br>Fantasy Epic</td>\n<td><strong>Michael Hordern &amp; Howell</strong></td>\n<td><strong>Brian Sibley (Adapt.)</strong></td>\n<td><code>[&quot;Fantasy&quot;, &quot;Adventure&quot;, &quot;Lord of the Rings&quot;, &quot;Michael Hordern&quot;, &quot;BBC&quot;]</code></td>\n<td>Gandalf breaks the staff of Saruman after the traitorous wizard refuses repentance at Isengard, while Wormtongue hurls the Palantír from above.</td>\n</tr>\n<tr>\n<td><code>ArthurGodfrey_1950_IreneCarroll.mp3</code> <br><em>Alt</em>: <code>The Winner Is Singer Irene Carroll Arthur Godfrey</code></td>\n<td><strong>&quot;Winner Irene Carroll with Arthur Godfrey and Lipton Tea&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-09-04<br>8:30 PM EDT</td>\n<td><strong>Thomas J. Lipton</strong><br>Lipton Tea &amp; Noodle Soup</td>\n<td><strong>Arthur Godfrey (Host)</strong></td>\n<td><strong>Irene Carroll &amp; Bleyer</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Arthur Godfrey&quot;, &quot;Talent Scouts&quot;, &quot;Lipton&quot;]</code></td>\n<td>Amateur talent scouts introduce rising musical performers, with the studio applause meter declaring young vocalist Irene Carroll the winner.</td>\n</tr>\n<tr>\n<td><code>DoctorFights_1945_BulgeSurgeon.mp3</code> <br><em>Alt</em>: <code>The Doctor Fights 1945 Episode</code></td>\n<td><strong>&quot;Battle of the Bulge Surgeon with Brian Donlevy&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-09-04<br>9:30 PM EWT</td>\n<td><strong>Schenley Laboratories</strong><br>Penicillin Schenley</td>\n<td><strong>Brian Donlevy (Star)</strong></td>\n<td><strong>CBS Dramatic Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Medical&quot;, &quot;The Doctor Fights&quot;, &quot;Brian Donlevy&quot;, &quot;Schenley&quot;]</code></td>\n<td>A military surgeon operating under relentless enemy mortar fire during the Ardennes offensive saves dozens of wounded soldiers with emergency plasma and penicillin.</td>\n</tr>\n<tr>\n<td><code>MeetMeeks_1948_MissingLawnmower.mp3</code> <br><em>Alt</em>: <code>Missing Lawnmower Meet the Meeks</code></td>\n<td><strong>&quot;The Missing Lawnmower with Forrest Lewis as Mortimer Meek&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1948-09-04<br>11:00 AM EDT</td>\n<td><strong>Swift &amp; Company</strong><br>Swift&#39;s Cleanser</td>\n<td><strong>Forrest Lewis &amp; Allison</strong></td>\n<td><strong>Donald D. Hoover (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Meet the Meeks&quot;, &quot;Forrest Lewis&quot;, &quot;Swift&quot;]</code></td>\n<td>Mortimer Meek attempts to borrow his neighbor&#39;s motorized lawnmower, causing a chaotic neighborhood property dispute.</td>\n</tr>\n<tr>\n<td><code>SpeakingLiberty_1941_RexStout.mp3</code> <br><em>Alt</em>: <code>Speaking of Liberty 1941 Episode</code></td>\n<td><strong>&quot;Writers in Defense of Democracy with Rex Stout&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1941-09-04<br>6:30 PM EDST</td>\n<td><strong>Council for Democracy</strong><br>Public Affairs</td>\n<td><strong>Rex Stout (Host)</strong></td>\n<td><strong>Council Authors</strong></td>\n<td><code>[&quot;Talk&quot;, &quot;Public Affairs&quot;, &quot;Speaking of Liberty&quot;, &quot;Rex Stout&quot;, &quot;NBC&quot;]</code></td>\n<td>Prominent American authors discuss the vital role of free literature, journalism, and artistic independence in resisting authoritarian propaganda.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 192 / 471 (215 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 745 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Lord of the Rings",
+        "JRR Tolkien",
+        "Brian Sibley",
+        "Michael Hordern",
+        "Gandalf",
+        "Saruman",
+        "BBC Radio 4",
+        "Arthur Godfrey's Talent Scouts",
+        "Arthur Godfrey",
+        "Lipton Tea",
+        "Irene Carroll",
+        "The Doctor Fights",
+        "Brian Donlevy",
+        "Schenley Laboratories",
+        "Penicillin",
+        "Meet the Meeks",
+        "Forrest Lewis",
+        "Fran Allison",
+        "Swift",
+        "Speaking of Liberty",
+        "Rex Stout",
+        "Council for Democracy",
+        "NBC",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-744-cisco-kid-hop-harrigan-jeeves-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-744-cisco-kid-hop-harrigan-jeeves-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Cisco Kid, Hop Harrigan & Jeeves",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 744)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across three distinct western adventures on <em>The Cisco Kid</em> with Jack Mather &amp; Harry Lang (1952, 1956, 1958), Chester Stratton piloting experimental aircraft in Part 7 of <em>The Channel Wing Plane</em> on <em>Hop Harrigan</em> for Grape-Nuts Flakes, Michael Hordern and Richard Briers in Part 4 of P.G. Wodehouse&#39;s <em>Joy in the Morning</em> on <em>What Ho, Jeeves!</em>, and Ruth Cornwall Woodman&#39;s frontier mining chronicles on <em>Death Valley Days</em> for 20 Mule Team Borax, Jack Mather &amp; Harry Lang (1952, 1956, 1958), Chester Stratton (1947), Michael Hordern &amp; Richard Briers (1973), and John White (1936–1973):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 744)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>CiscoKid_1952_SheriffFanton.mp3</code> <br><em>Alt</em>: <code>A Part for Sheriff Fanton Cisco Kid, The</code></td>\n<td><strong>&quot;A Part for Sheriff Fanton with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Mutual / Ziv</strong><br>1952-09-04</td>\n<td><strong>Regional Bakeries</strong><br>Weber&#39;s Bread</td>\n<td><strong>Jack Mather &amp; Harry Lang</strong></td>\n<td><strong>Frederic Ziv &amp; O. Henry</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Cisco Kid&quot;, &quot;Jack Mather&quot;, &quot;Harry Lang&quot;]</code></td>\n<td>Cisco and Pancho orchestrate a theatrical ruse to help an aging sheriff regain his confidence and outsmart cattle rustlers.</td>\n</tr>\n<tr>\n<td><code>CiscoKid_1956_AztecMine.mp3</code> <br><em>Alt</em>: <code>The Cisco Kid 1956 Episode</code></td>\n<td><strong>&quot;The Lost Aztec Mine with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Mutual / Ziv</strong><br>1956-09-04</td>\n<td><strong>Sustaining</strong><br>Syndicated Western</td>\n<td><strong>Jack Mather &amp; Harry Lang</strong></td>\n<td><strong>Ziv Production Staff</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Cisco Kid&quot;, &quot;Jack Mather&quot;, &quot;Harry Lang&quot;]</code></td>\n<td>Cisco and Pancho protect an honest prospector and his granddaughter from greedy bushwhackers pursuing a secret map to an ancient Aztec gold vein.</td>\n</tr>\n<tr>\n<td><code>CiscoKid_1958_Silversmith.mp3</code> <br><em>Alt</em>: <code>Rusty Silversmith&#39;s Rescue Cisco Kid, The</code></td>\n<td><strong>&quot;Rusty Silversmith&#39;s Rescue with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Syndication (Ziv)</strong><br>1958-09-04</td>\n<td><strong>Sustaining</strong><br>Syndicated Western</td>\n<td><strong>Jack Mather &amp; Harry Lang</strong></td>\n<td><strong>Ziv Production Staff</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Cisco Kid&quot;, &quot;Jack Mather&quot;, &quot;Harry Lang&quot;]</code></td>\n<td>Cisco and Pancho intercept a bandit ambush to rescue a captured frontier craftsman and recover stolen ceremonial silverware.</td>\n</tr>\n<tr>\n<td><code>HopHarrigan_1947_ChannelWing7.mp3</code> <br><em>Alt</em>: <code>The Channel Wing Plane #7 Hop Harrigan</code></td>\n<td><strong>&quot;The Channel Wing Plane (Part 7) with Chester Stratton&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-09-04<br>5:00 PM EDT</td>\n<td><strong>General Foods</strong><br>Grape-Nuts Flakes</td>\n<td><strong>Chester Stratton (Hop)</strong></td>\n<td><strong>Kenny Delmar &amp; Blummer</strong></td>\n<td><code>[&quot;Aviation&quot;, &quot;Adventure&quot;, &quot;Hop Harrigan&quot;, &quot;Chester Stratton&quot;, &quot;Grape-Nuts&quot;]</code></td>\n<td>Hop Harrigan tests the high-lift experimental channel wing prototype in secret trials while enemy agents attempt to sabotage the hangar runway.</td>\n</tr>\n<tr>\n<td><code>Jeeves_1973_JoyMorning4.mp3</code> <br><em>Alt</em>: <code>Episode 4 Of 8 What Ho Jeeves</code></td>\n<td><strong>&quot;Joy in the Morning (Part 4) with Michael Hordern and Richard Briers&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1973-09-04</td>\n<td><strong>Sustaining</strong><br>British Comedy</td>\n<td><strong>Michael Hordern &amp; Briers</strong></td>\n<td><strong>Chris Miller &amp; Wodehouse</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;What Ho Jeeves&quot;, &quot;Michael Hordern&quot;, &quot;Richard Briers&quot;]</code></td>\n<td>Bertie Wooster finds himself entangled in further romantic chaos in Steeple Bumphlebury while Jeeves devises a strategy to placate Aunt Agatha.</td>\n</tr>\n<tr>\n<td><code>DeathValley_1936_LostGold.mp3</code> <br><em>Alt</em>: <code>Death Valley Days 1936 Episode</code></td>\n<td><strong>&quot;The Lost Gold of the Panamints with The Old Ranger&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1936-09-04<br>8:30 PM EDST</td>\n<td><strong>Pacific Coast Borax</strong><br>20 Mule Team Borax</td>\n<td><strong>John White (Old Ranger)</strong></td>\n<td><strong>Ruth Cornwall Woodman</strong></td>\n<td><code>[&quot;Western&quot;, &quot;History&quot;, &quot;Death Valley Days&quot;, &quot;The Old Ranger&quot;, &quot;20 Mule Team Borax&quot;]</code></td>\n<td>The Old Ranger recounts the true frontier chronicle of two prospectors who braved extreme desert heatwaves to stake a claim in the Panamint mountains.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 186 / 471 (221 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 744 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Cisco Kid",
+        "Jack Mather",
+        "Harry Lang",
+        "O Henry",
+        "Frederic Ziv",
+        "Hop Harrigan",
+        "Chester Stratton",
+        "Kenny Delmar",
+        "Jon Blummer",
+        "Grape-Nuts Flakes",
+        "Channel Wing Plane",
+        "What Ho Jeeves",
+        "Michael Hordern",
+        "Richard Briers",
+        "PG Wodehouse",
+        "Joy in the Morning",
+        "BBC Radio 4",
+        "Death Valley Days",
+        "John White",
+        "The Old Ranger",
+        "20 Mule Team Borax",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-743-jack-webb-jean-arthur-whistler-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-743-jack-webb-jean-arthur-whistler-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Jack Webb, Jean Arthur & The Whistler",
