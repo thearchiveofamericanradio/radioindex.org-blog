@@ -1,0 +1,33 @@
+# Archival Dispatch: September 1 Calendar Walk — Famous Jury Trials, Date with Judy, and Challenge of the Yukon
+
+**Date**: 2026-09-01  
+**Author**: radio index  
+**Tags**: September 1, Calendar Walk, Challenge of the Yukon, Sergeant Preston, Quaker Puffed Wheat, A Date with Judy, Dellie Ellis, Louise Erickson, Pepsodent, Famous Jury Trials, Roger De Koven, Maurice Franklin, Tums, Radio Superior, Cuban Music, Alternate Titles, Original Filenames
+
+---
+
+## September 1 Archival Metadata Enrichment (Increment 526)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across northern frontier adventures, teenage domestic situational comedy, legal court cases, and Cuban musical broadcasts, Paul Sutton in *Challenge of the Yukon* (1948), Dellie Ellis and Louise Erickson in *A Date with Judy* for Pepsodent (1942, 1943), Roger De Koven and Maurice Franklin on *Famous Jury Trials* for Tums (1941, 1942), and *Radio Superior* (1939–1948):
+
+---
+
+## 1. *September 1 Archival Inventory (Increment 526)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Yukon_1948_Champion.mp3` <br>*Alt*: `The Champion Challenge of Yukon` | **"The Champion with Paul Sutton and Quaker Puffed Wheat"** | **ABC (WJZ)**<br>1948-09-01<br>5:00 PM EDT | **Quaker Oats Co.**<br>Puffed Wheat / Rice | **Paul Sutton (Preston)** | **Trendle & Striker** | `["Western", "Adventure", "Mounties", "Challenge Of The Yukon", "Quaker"]` | Sergeant Preston and King protect a prized sled-racing champion dog from being poisoned by rival gamblers. |
+| `Judy_1942_Wardrobe.mp3` <br>*Alt*: `A Date with Judy 1942 Episode` | **"Judy's New School Wardrobe with Dellie Ellis and Pepsodent"** | **NBC Red (WEAF)**<br>1942-09-01<br>10:00 PM EWT | **Pepsodent Co.**<br>Pepsodent Toothpaste | **Dellie Ellis (Judy)** | **Harry Von Zell (Announcer)** | `["Comedy", "Sitcom", "Teen", "A Date With Judy", "Pepsodent"]` | Judy schemes to convince her father to buy her an expensive new dress for the start of the high school term. |
+| `Judy_1943_FootballRally.mp3` <br>*Alt*: `A Date with Judy 1943 Episode` | **"The High School Football Rally with Louise Erickson and Pepsodent"** | **NBC (WEAF)**<br>1943-09-01<br>8:30 PM EWT | **Pepsodent Co.**<br>Pepsodent Toothpowder | **Louise Erickson**, **Brown** | **Dix Davis (Randolph)** | `["Comedy", "Sitcom", "Teen", "A Date With Judy", "Pepsodent"]` | Judy organizes a school spirit rally to boost team morale before the opening game against a fierce cross-town rival. |
+| `Jury_1941_BadgerGame.mp3` <br>*Alt*: `The Old badger game, murder` | **"The Badger Game Murder with Roger De Koven and Tums"** | **NBC Blue (WJZ)**<br>1941-09-01<br>9:00 PM EDST | **Lewis-Howe Co.**<br>Tums for the Tummy | **Roger De Koven** | **Courtroom Dramatic Cast** | `["Crime", "Courtroom", "Legal", "Famous Jury Trials", "Tums"]` | The state prosecutes an extortionist couple whose blackmail scheme against a wealthy businessman ended in a fatal shooting. |
+| `Jury_1942_MarkWinthrop.mp3` <br>*Alt*: `Trial of Mark Winthrop` | **"The Trial of Mark Winthrop with Maurice Franklin and Tums"** | **Blue Network**<br>1942-09-01<br>9:00 PM EWT | **Lewis-Howe Co.**<br>Tums for the Tummy | **Maurice Franklin** | **Courtroom Dramatic Cast** | `["Crime", "Courtroom", "Legal", "Famous Jury Trials", "Tums"]` | The defense attorney argues justifiable homicide after a factory owner shoots a former business partner accused of embezzlement. |
+| `Superior_1939_Havana.mp3` <br>*Alt*: `Radio Superior 1939 Episode` | **"Havana Radio Musical Revue with Radio Superior Ensemble"** | **CMQ Cuba**<br>1939-09-01 | **Sustaining**<br>Latin Music | **Radio Superior Orch.** | **Cuban Vocalists** | `["Music", "Latin", "Cuban", "International", "Radio Superior"]` | A live musical performance features Cuban rumbas, boleros, and traditional Latin folk songs from Havana. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 78 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
