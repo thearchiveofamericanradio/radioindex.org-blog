@@ -41,6 +41,80 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-427-ed-wynn-goldbergs-perry-mason-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-427-ed-wynn-goldbergs-perry-mason-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Ed Wynn, The Goldbergs, and Perry Mason",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 427)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio and early variety hours, Ed Wynn&#39;s legendary <em>Fire Chief</em> broadcast for Texaco (1932), Gertrude Berg&#39;s domestic humor on <em>The Goldbergs</em> for Duz (1943), John Larkin defending an estranged daughter on <em>Perry Mason</em> (1954), desert suspense on <em>A Voice in the Night</em> (1946), Rudy Vallee&#39;s <em>Fleischmann&#39;s Yeast Hour</em> with Elsie Mae Gordon and Jeanne Aubert (1934), and Jan Garber on <em>Treasury Star Parade</em> (1932–1954):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 427)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Fire_Chief_1932_Wynn.mp3</code> <br><em>Alt</em>: <code>When You Were 8 And I Was 9</code></td>\n<td><strong>&quot;When You Were 8 and I Was 9 We Were 17 with Ed Wynn&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1932-08-30<br>9:30 PM EDST</td>\n<td><strong>The Texas Company</strong><br>Texaco Fire-Chief Gas</td>\n<td><strong>Ed Wynn</strong>, <strong>Graham McNamee</strong></td>\n<td><strong>Ed Wynn (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Vaudeville&quot;, &quot;Slapstick&quot;, &quot;Ed Wynn&quot;, &quot;Texaco&quot;]</code></td>\n<td>Ed Wynn spins nonsensical vaudeville puns and silly childhood rhymes while demonstrating absurd firefighting inventions for Graham McNamee.</td>\n</tr>\n<tr>\n<td><code>Goldbergs_1943_Birdie.mp3</code> <br><em>Alt</em>: <code>Who Has Birdie Told</code></td>\n<td><strong>&quot;Who Has Birdie Told?&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-08-30<br>1:45 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Soap Powder</td>\n<td><strong>Gertrude Berg</strong>, <strong>Waters</strong></td>\n<td><strong>Gertrude Berg (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;Sitcom&quot;, &quot;Gertrude Berg&quot;, &quot;Procter &amp; Gamble&quot;]</code></td>\n<td>Molly Goldberg scrambles to contain neighborhood rumors after Birdie inadvertently reveals a sensitive family secret.</td>\n</tr>\n<tr>\n<td><code>Perry_Mason_1954_Daughter.mp3</code> <br><em>Alt</em>: <code>Ed Beekmans Daughter</code></td>\n<td><strong>&quot;Ed Beekman&#39;s Daughter&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1954-08-30<br>2:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide / Camay Soap</td>\n<td><strong>John Larkin</strong>, <strong>Alexander</strong></td>\n<td><strong>Erle Stanley Gardner</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Drama&quot;, &quot;Mystery&quot;, &quot;Serial&quot;, &quot;Erle Stanley Gardner&quot;]</code></td>\n<td>Perry Mason aids a client&#39;s estranged daughter who has become entangled in a suspicious suburban inheritance dispute.</td>\n</tr>\n<tr>\n<td><code>Voice_Night_1946_Snake.mp3</code> <br><em>Alt</em>: <code>The Rattlesnake Voice Night</code></td>\n<td><strong>&quot;The Rattlesnake&quot;</strong></td>\n<td><strong>Syndicated Mystery</strong><br>1946-08-30</td>\n<td><strong>Sustaining</strong><br>Suspense Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Voice in the Night Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Thriller&quot;, &quot;Suspense&quot;, &quot;Macabre&quot;, &quot;Anthology&quot;]</code></td>\n<td>A vengeful rancher plots the ultimate murder by concealing a venomous desert rattlesnake inside his business partner&#39;s sleeping bag.</td>\n</tr>\n<tr>\n<td><code>Fleischmann_1934_Crossed.mp3</code> <br><em>Alt</em>: <code>Crossed Roads Elsie Mae Gordon</code></td>\n<td><strong>&quot;Crossed Roads with Elsie Mae Gordon and Jeanne Aubert&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1934-08-30<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Fleischmann&#39;s Yeast</td>\n<td><strong>Rudy Vallee</strong>, <strong>Gordon</strong>, <strong>Aubert</strong></td>\n<td><strong>Rudy Vallee Staff</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Vocal&quot;, &quot;Rudy Vallee&quot;, &quot;Fleischmann&#39;s&quot;]</code></td>\n<td>Rudy Vallee hosts dramatic sketches starring mimic Elsie Mae Gordon alongside songs performed by French soubrette Jeanne Aubert.</td>\n</tr>\n<tr>\n<td><code>Treas_Star_1943_Garber.mp3</code> <br><em>Alt</em>: <code>Jan Garber Ill Always Be In Love</code></td>\n<td><strong>&quot;I&#39;ll Always Be in Love with You featuring Jan Garber and His Orchestra&quot;</strong></td>\n<td><strong>Treasury Dept Syndication</strong><br>1943-08-30</td>\n<td><strong>U.S. Treasury Dept</strong><br>War Savings Bonds</td>\n<td><strong>Jan Garber and His Orch</strong></td>\n<td><strong>Treasury Star Parade Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;War Bonds&quot;, &quot;Treasury&quot;, &quot;World War II&quot;]</code></td>\n<td>Jan Garber leads sweet swing renditions of I&#39;ll Always Be in Love with You to promote homefront war bond purchases.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 234 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 427 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "The Fire Chief",
+        "Ed Wynn",
+        "Graham McNamee",
+        "Texaco",
+        "The Goldbergs",
+        "Gertrude Berg",
+        "Duz",
+        "Perry Mason",
+        "Erle Stanley Gardner",
+        "John Larkin",
+        "Tide",
+        "A Voice in the Night",
+        "Rattlesnake",
+        "The Fleischmann's Yeast Hour",
+        "Rudy Vallee",
+        "Treasury Star Parade",
+        "Jan Garber",
+        "War Bonds",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-426-philip-marlowe-perry-mason-clara-zetkin-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-426-philip-marlowe-perry-mason-clara-zetkin-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Philip Marlowe, Perry Mason, and Clara Zetkin",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 426)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio, Armed Forces overseas broadcasts, and world historical sound archives, Gerald Mohr unedited in Raymond Chandler&#39;s <em>The Nether Nether Land</em> on <em>The Adventures of Philip Marlowe</em> (1951), John Larkin defending a framed mother on <em>Perry Mason</em> for Tide (1951), Victor Borge hosting <em>Command Performance</em> Program 189 with Dinah Shore (1945), Dick Powell investigating baseball blackmail on <em>Richard Diamond</em> (1953), Clara Zetkin&#39;s historic anti-fascist Reichstag address in Berlin (1932), and USAF musical swing on <em>Serenade in Blue</em> (1932–1953):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 426)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Rich_Diamond_1953_Baseball.mp3</code> <br><em>Alt</em>: <code>Rich 156 Baseball Matter</code></td>\n<td><strong>&quot;The Baseball Matter (AFRTS Program No. 156)&quot;</strong></td>\n<td><strong>AFRTS (Program 156)</strong><br>1953-08-30</td>\n<td><strong>Armed Forces Radio</strong><br>U.S. Military Sustaining</td>\n<td><strong>Dick Powell</strong>, <strong>Gregg</strong>, <strong>Begley</strong></td>\n<td><strong>Blake Edwards (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Sports&quot;, &quot;Baseball&quot;, &quot;AFRTS&quot;]</code></td>\n<td>Richard Diamond investigates an extortion ring attempting to blackmail a star baseball player into throwing an upcoming championship game.</td>\n</tr>\n<tr>\n<td><code>Command_Perf_1945_Borge.mp3</code> <br><em>Alt</em>: <code>XCommand Performance 189</code></td>\n<td><strong>&quot;Host Victor Borge with Dinah Shore and Don Wilson (Program 189)&quot;</strong></td>\n<td><strong>AFRS (Program 189)</strong><br>1945-08-30</td>\n<td><strong>War Department</strong><br>U.S. Military Sustaining</td>\n<td><strong>Victor Borge</strong>, <strong>Dinah Shore</strong></td>\n<td><strong>AFRS Production Staff</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Comedy&quot;, &quot;Music&quot;, &quot;Vocal&quot;, &quot;AFRS&quot;]</code></td>\n<td>Victor Borge performs comedic piano parodies, trades banter with Dinah Shore, and entertains overseas Allied servicemen.</td>\n</tr>\n<tr>\n<td><code>WWII_News_1932_Zetkin.mp3</code> <br><em>Alt</em>: <code>Clara Zetkin KDP Alterspr</code></td>\n<td><strong>&quot;Clara Zetkin Opens the German Reichstag (KPD Alterspräsidentin)&quot;</strong></td>\n<td><strong>RRG Berlin Live</strong><br>1932-08-30</td>\n<td><strong>Historic Recording</strong><br>Parliamentary Archive</td>\n<td><strong>Clara Zetkin</strong>, <strong>Göring</strong></td>\n<td><strong>RRG Radio Sound Archive</strong></td>\n<td><code>[&quot;Historical&quot;, &quot;Speeches&quot;, &quot;Weimar Republic&quot;, &quot;Reichstag&quot;, &quot;Politics&quot;]</code></td>\n<td>Eighty-five-year-old communist deputy Clara Zetkin delivers a historic opening address in Berlin warning against the rising danger of fascism in Germany.</td>\n</tr>\n<tr>\n<td><code>Serenade_Blue_1953_Polka.mp3</code> <br><em>Alt</em>: <code>First Song Just Another Polka</code></td>\n<td><strong>&quot;Just Another Polka with the Air Force Band&quot;</strong></td>\n<td><strong>USAF Syndication</strong><br>1953-08-30</td>\n<td><strong>US Air Force</strong><br>Recruiting Service</td>\n<td><strong>Singing Sergeants</strong>, <strong>Orch</strong></td>\n<td><strong>USAF Radio Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Military&quot;, &quot;Big Band&quot;, &quot;Polka&quot;, &quot;USAF&quot;]</code></td>\n<td>The US Air Force Concert Orchestra performs swing arrangements of Just Another Polka and patriotic choral selections.</td>\n</tr>\n<tr>\n<td><code>Marlowe_1951_Nether.mp3</code> <br><em>Alt</em>: <code>Nether Land Unedited Marlowe</code></td>\n<td><strong>&quot;The Nether Nether Land (Unedited Studio Master)&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-30<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Hardboiled Detective</td>\n<td><strong>Gerald Mohr</strong> (Marlowe)</td>\n<td><strong>Norman Macdonnell (Dir)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Gerald Mohr&quot;, &quot;Raymond Chandler&quot;]</code></td>\n<td>Philip Marlowe travels through a secluded mountain sanatorium to locate a reclusive heiress suspected of being held against her will.</td>\n</tr>\n<tr>\n<td><code>Perry_Mason_1951_Mother.mp3</code> <br><em>Alt</em>: <code>Perry Mason Accused Mother</code></td>\n<td><strong>&quot;The Case of the Accused Mother&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-30<br>2:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide / Camay Soap</td>\n<td><strong>John Larkin</strong>, <strong>Alexander</strong></td>\n<td><strong>Erle Stanley Gardner</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Drama&quot;, &quot;Mystery&quot;, &quot;Serial&quot;, &quot;Erle Stanley Gardner&quot;]</code></td>\n<td>Defense attorney Perry Mason cross-examines hostile witnesses to clear a desperate young mother framed for jewelry theft.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 228 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 426 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "The Adventures of Philip Marlowe",
+        "Gerald Mohr",
+        "Raymond Chandler",
+        "Perry Mason",
+        "Erle Stanley Gardner",
+        "John Larkin",
+        "Joan Alexander",
+        "Tide Detergent",
+        "Command Performance",
+        "Victor Borge",
+        "Dinah Shore",
+        "AFRS",
+        "Richard Diamond Private Detective",
+        "Dick Powell",
+        "Clara Zetkin",
+        "Weimar Republic",
+        "Reichstag",
+        "Serenade in Blue",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-425-richard-diamond-family-theater-judy-canova-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-425-richard-diamond-family-theater-judy-canova-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — Richard Diamond, Family Theater, and Judy Canova",
