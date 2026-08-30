@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-778-bing-crosby-my-friend-irma-chick-carter-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-778-bing-crosby-my-friend-irma-chick-carter-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Bing Crosby, My Friend Irma & Chick Carter",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 778)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Bing Crosby &amp; Rosemary Clooney harmonizing on <em>The Ford Road Show</em> for Ford Motor Company, Richard Widmark hosting the psychological mystery <em>Unfinished Concerto</em> on <em>Mutual Radio Theater</em>, boy detective Chick Carter racing after a stolen black ruby for Sealtest Milk, Marie Wilson blundering through dinner mixups on <em>My Friend Irma</em> for Ennds, and rare 1930s dance band rhythms on <em>Friendly Five Footnotes</em> for Jarman Shoes, Bing Crosby (1957), Marie Wilson (1950), and Leon Janney (1930–1980):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 778)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BingCrosbyFord_1957_EveningMail.mp3</code> <br><em>Alt</em>: <code>Waiting For The Evening Mail The Ford Road Show Featuring Bing Crosby</code></td>\n<td><strong>&quot;Waiting for the Evening Mail with Rosemary Clooney&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1957-09-04</td>\n<td><strong>Ford Motor Co.</strong><br>Fairlane &amp; Thunderbird</td>\n<td><strong>Bing Crosby &amp; Clooney</strong></td>\n<td><strong>Buddy Cole Trio (Music)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Bing Crosby&quot;, &quot;Rosemary Clooney&quot;, &quot;Ford&quot;]</code></td>\n<td>Bing Crosby and Rosemary Clooney sing Waiting for the Evening Mail and charming vocal duets backed by the Buddy Cole Trio.</td>\n</tr>\n<tr>\n<td><code>MutualRadioTheat_1980_Concerto.mp3</code> <br><em>Alt</em>: <code>Unfinished Concerto Mutual Radio Theater</code></td>\n<td><strong>&quot;Unfinished Concerto with Richard Widmark&quot;</strong></td>\n<td><strong>Mutual Radio</strong><br>1980-09-04</td>\n<td><strong>Sustaining</strong><br>Radio Drama</td>\n<td><strong>Richard Widmark (Host)</strong></td>\n<td><strong>Fletcher Markle &amp; Agate</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Mutual Radio Theater&quot;, &quot;Richard Widmark&quot;, &quot;Mutual&quot;]</code></td>\n<td>A dying classical composer is tormented by a phantom melody that drives his ambitious young protégé to criminal obsession.</td>\n</tr>\n<tr>\n<td><code>ChickCarter_1944_BlackRuby321.mp3</code> <br><em>Alt</em>: <code>Chick Carter, Boy Detective 1944 Episode</code></td>\n<td><strong>&quot;The Black Ruby Robbery (Ep. 321) with Leon Janney&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-09-04<br>5:30 PM EWT</td>\n<td><strong>General Ice Cream</strong><br>Sealtest Milk</td>\n<td><strong>Leon Janney &amp; Lipton</strong></td>\n<td><strong>Fritz Blocki (Writer)</strong></td>\n<td><code>[&quot;Juvenile&quot;, &quot;Detective&quot;, &quot;Chick Carter&quot;, &quot;Leon Janney&quot;, &quot;Sealtest&quot;]</code></td>\n<td>Young sleuth Chick Carter and his companions pursue a waterfront burglar who escaped with a priceless uncut black ruby.</td>\n</tr>\n<tr>\n<td><code>MyFriendIrma_1950_DoubleDate.mp3</code> <br><em>Alt</em>: <code>My Friend Irma 1950 Episode</code></td>\n<td><strong>&quot;The Double Date with Marie Wilson and Cathy Lewis&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-09-04<br>10:00 PM EDT</td>\n<td><strong>Pearson Pharmacal</strong><br>Ennds Tablets</td>\n<td><strong>Marie Wilson &amp; Lewis</strong></td>\n<td><strong>Cy Howard (Creator)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;My Friend Irma&quot;, &quot;Marie Wilson&quot;, &quot;Ennds&quot;]</code></td>\n<td>Irma Peterson causes utter chaos when she mistakenly arranges two simultaneous dates for Jane at the exact same French restaurant.</td>\n</tr>\n<tr>\n<td><code>FriendlyFive_1930_Episode2.mp3</code> <br><em>Alt</em>: <code>Episode 2 Friendly Five Footnotes</code></td>\n<td><strong>&quot;Early Melodies and Dance Tunes (Ep. 2) with Jarman Shoes&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1930-09-04<br>9:45 PM EDST</td>\n<td><strong>Jarman Shoe Co.</strong><br>Friendly Five Shoes</td>\n<td><strong>Friendly Five Orch.</strong></td>\n<td><strong>Male Vocal Quartet</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Dance Band&quot;, &quot;Friendly Five Footnotes&quot;, &quot;Jarman Shoes&quot;, &quot;NBC&quot;]</code></td>\n<td>An energetic musical interlude featuring hot syncopated dance numbers and close vocal harmonies sponsored by Jarman Five Dollar Shoes.</td>\n</tr>\n<tr>\n<td><code>FriendlyFive_1931_LateSummer.mp3</code> <br><em>Alt</em>: <code>Friendly Five Footnotes 1931 Episode</code></td>\n<td><strong>&quot;Late Summer Footwear Rhythms with Jarman Shoes&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1931-09-04<br>9:45 PM EDST</td>\n<td><strong>Jarman Shoe Co.</strong><br>Friendly Five Shoes</td>\n<td><strong>Friendly Five Orch.</strong></td>\n<td><strong>Featured Tenor Soloist</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Friendly Five Footnotes&quot;, &quot;Jarman Shoes&quot;, &quot;NBC&quot;]</code></td>\n<td>A brisk radio broadcast of popular ballroom melodies, foxtrots, and quartet selections promoting fine men&#39;s footwear.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 390 / 471 (17 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 778 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Bing Crosby",
+        "Rosemary Clooney",
+        "Buddy Cole",
+        "Ford Motor Company",
+        "Mutual Radio Theater",
+        "Richard Widmark",
+        "Fletcher Markle",
+        "Chick Carter",
+        "Leon Janney",
+        "Fritz Blocki",
+        "Sealtest Milk",
+        "My Friend Irma",
+        "Marie Wilson",
+        "Cathy Lewis",
+        "Hans Conried",
+        "Ennds",
+        "Friendly Five Footnotes",
+        "Jarman Shoes",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-777-louis-lamour-pearl-bailey-guy-lombardo-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-777-louis-lamour-pearl-bailey-guy-lombardo-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Louis L'Amour, Pearl Bailey & Guy Lombardo",
