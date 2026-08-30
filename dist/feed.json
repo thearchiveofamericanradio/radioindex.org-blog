@@ -6,6 +6,84 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-734-bulldog-drummond-elmer-davis-silver-eagle-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-734-bulldog-drummond-elmer-davis-silver-eagle-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Bulldog Drummond, Elmer Davis & The Silver Eagle",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 734)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Ned Wever tracking chemical dart assassins on <em>Bulldog Drummond</em>, Elmer Davis and Edward R. Murrow breaking the historic US-British Destroyers-for-Bases naval pact on <em>CBS World News Today</em>, Canadian Mountie manhunts on <em>The Silver Eagle</em> for General Mills, Carmen Dragon and Rise Stevens performing in manufacturing plant drama on <em>The Prudential Family Hour of Stars</em>, British music hall comedy on <em>Two Daffodils</em>, and 1937 college gridiron season previews on WACO, Ned Wever (1944), Elmer Davis (1940), Jim Ameche (1952), Carmen Dragon (1949), and <em>Two Daffodils</em> (1934–1952):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 734)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BulldogDrummond_1944_AdroitAssassin.mp3</code> <br><em>Alt</em>: <code>The Case Of The Adroit Assassin (NY broadcast moves to Mondays @ 7:30) Bulldog Drummond</code></td>\n<td><strong>&quot;The Case of the Adroit Assassin with Ned Wever as Bulldog Drummond&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-09-04<br>7:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>British Detective</td>\n<td><strong>Ned Wever (Drummond)</strong></td>\n<td><strong>Luis Van Rooten &amp; McNeile</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Adventure&quot;, &quot;Bulldog Drummond&quot;, &quot;Ned Wever&quot;, &quot;Mutual&quot;]</code></td>\n<td>Bulldog Drummond pursues an elusive international assassin who uses specialized chemical darts to eliminate key government ministers.</td>\n</tr>\n<tr>\n<td><code>CBSNews_1940_DestroyersBases.mp3</code> <br><em>Alt</em>: <code>CBS News British Naval Treaty With The US (Poor Sound) CBS News of the World</code></td>\n<td><strong>&quot;US-British Destroyers-for-Bases Agreement with Elmer Davis&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-04<br>8:00 AM EDST</td>\n<td><strong>Sustaining</strong><br>World News Roundup</td>\n<td><strong>Elmer Davis (Anchor)</strong></td>\n<td><strong>Edward R. Murrow &amp; Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;CBS World News&quot;, &quot;Elmer Davis&quot;, &quot;Edward R Murrow&quot;]</code></td>\n<td>CBS correspondents report on Churchill&#39;s announcement transferring fifty US naval destroyers to Britain in exchange for Caribbean naval bases.</td>\n</tr>\n<tr>\n<td><code>SilverEagle_1952_CougarPass.mp3</code> <br><em>Alt</em>: <code>The Silver Eagle 1952 Episode</code></td>\n<td><strong>&quot;The Cougar of Thunder Pass with Jim Ameche&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1952-09-04<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios &amp; Wheaties</td>\n<td><strong>Jim Ameche (Jim West)</strong></td>\n<td><strong>James Jewell &amp; Lester</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Silver Eagle&quot;, &quot;Jim Ameche&quot;, &quot;General Mills&quot;]</code></td>\n<td>Mountie Jim West and his French-Canadian partner Joe Bideaux track an escaped outlaw holding hostages in a mountain pass cabin.</td>\n</tr>\n<tr>\n<td><code>Prudential_1949_TheBigJob.mp3</code> <br><em>Alt</em>: <code>The Big Job Prudential Family Hour</code></td>\n<td><strong>&quot;The Big Job with Carmen Dragon and Rise Stevens&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1949-09-04<br>6:00 PM EDT</td>\n<td><strong>Prudential Insurance</strong><br>Prudential Life Insurance</td>\n<td><strong>Carmen Dragon (Conductor)</strong></td>\n<td><strong>Rise Stevens &amp; Drama Cast</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Prudential Family Hour&quot;, &quot;Carmen Dragon&quot;, &quot;Prudential&quot;]</code></td>\n<td>An ambitious factory foreman takes on the management of a struggling manufacturing plant to save the jobs of hundreds of workers.</td>\n</tr>\n<tr>\n<td><code>TwoDaffodils_1934_DontBeFool.mp3</code> <br><em>Alt</em>: <code>The Two Daffodils: &#39;Don&#39;t Be a Fool, You Fool&#39; Two Daffodils</code></td>\n<td><strong>&quot;Don&#39;t Be a Fool, You Fool with British Vaudeville Cast&quot;</strong></td>\n<td><strong>BBC Regional</strong><br>1934-09-04</td>\n<td><strong>Sustaining</strong><br>Cockney Vaudeville</td>\n<td><strong>BBC Comedy Duo</strong></td>\n<td><strong>BBC Variety Producers</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Vaudeville&quot;, &quot;Two Daffodils&quot;, &quot;BBC Regional&quot;, &quot;British&quot;]</code></td>\n<td>Two bumbling Cockney music hall comedians trade puns, comedic misunderstandings, and music hall patter songs.</td>\n</tr>\n<tr>\n<td><code>Football_1937_SeasonPreview.mp3</code> <br><em>Alt</em>: <code>Football Highlights (Audition) Football Broadcasts</code></td>\n<td><strong>&quot;1937 College Football Season Preview on WACO&quot;</strong></td>\n<td><strong>WACO / Texas</strong><br>1937-09-04</td>\n<td><strong>Sustaining</strong><br>Sports Commentary</td>\n<td><strong>WACO Sports Announcers</strong></td>\n<td><strong>WACO Station Engineers</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Football&quot;, &quot;WACO&quot;, &quot;Southwest Conference&quot;, &quot;Texas&quot;]</code></td>\n<td>Sports commentators preview the upcoming 1937 college football season, evaluating Southwest Conference contenders, star players, and gridiron rule changes.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 126 / 471 (281 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 734 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Bulldog Drummond",
+        "Ned Wever",
+        "Luis Van Rooten",
+        "HC McNeile",
+        "CBS World News Today",
+        "Elmer Davis",
+        "Edward R Murrow",
+        "Destroyers for Bases",
+        "The Silver Eagle",
+        "Jim Ameche",
+        "General Mills",
+        "Cheerios",
+        "The Prudential Family Hour",
+        "Carmen Dragon",
+        "Rise Stevens",
+        "Prudential Insurance",
+        "Two Daffodils",
+        "BBC Regional",
+        "Football Broadcasts",
+        "WACO",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-733-meet-the-press-guiding-light-foy-willing-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-733-meet-the-press-guiding-light-foy-willing-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Meet the Press, Guiding Light & Foy Willing",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 733)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across two critical mid-century political forums on NBC&#39;s <em>Meet the Press</em> (Cabinet Secretary Marion B. Folsom in 1955 and Assistant Secretary William P. Bundy in 1966), tense family domestic confrontations on <em>The Guiding Light</em> for Procter &amp; Gamble, open-range western harmony with Foy Willing and the Riders of the Purple Sage, Morris West&#39;s Australian detective series premiere <em>Murder and Mr. Chase</em>, and BBC National Programme&#39;s historical docudrama <em>The Travels of Mary Ward</em>, Lawrence Spivak (1955, 1966), Lyle Sudrow (1950), Foy Willing (1946), Alan White (1956), and <em>Mary Ward</em> (1936–1966):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 733)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>MeetPress_1955_MarionFolsom.mp3</code> <br><em>Alt</em>: <code>Marion B Folsom Meet the Press</code></td>\n<td><strong>&quot;Marion B. Folsom with Lawrence Spivak&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1955-09-04<br>6:00 PM EDT</td>\n<td><strong>Pan American / Sustaining</strong><br>Public Affairs</td>\n<td><strong>Marion B. Folsom (HEW)</strong></td>\n<td><strong>Lawrence Spivak (Mod.)</strong></td>\n<td><code>[&quot;News&quot;, &quot;Interview&quot;, &quot;Meet the Press&quot;, &quot;Marion B Folsom&quot;, &quot;Lawrence Spivak&quot;]</code></td>\n<td>Secretary of Health, Education, and Welfare Marion B. Folsom faces press questioning regarding federal school construction aid and social security expansion.</td>\n</tr>\n<tr>\n<td><code>MeetPress_1966_WilliamBundy.mp3</code> <br><em>Alt</em>: <code>William P Bundy Meet the Press</code></td>\n<td><strong>&quot;William P. Bundy with Lawrence Spivak&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1966-09-04<br>6:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Affairs Forum</td>\n<td><strong>William P. Bundy (State)</strong></td>\n<td><strong>Lawrence Spivak (Mod.)</strong></td>\n<td><code>[&quot;News&quot;, &quot;Interview&quot;, &quot;Meet the Press&quot;, &quot;William P Bundy&quot;, &quot;Lawrence Spivak&quot;]</code></td>\n<td>Assistant Secretary of State William P. Bundy is questioned by national journalists regarding military escalation and diplomatic negotiations in Southeast Asia.</td>\n</tr>\n<tr>\n<td><code>GuidingLight_1950_TedBill.mp3</code> <br><em>Alt</em>: <code>Ted Talks to Bill About His Drinking Guiding Light</code></td>\n<td><strong>&quot;Ted Talks to Bill About His Drinking with Procter &amp; Gamble&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1950-09-04<br>1:45 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Detergent</td>\n<td><strong>Lyle Sudrow (Bill Bauer)</strong></td>\n<td><strong>Irna Phillips &amp; Lipton</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;The Guiding Light&quot;, &quot;Irna Phillips&quot;, &quot;Procter &amp; Gamble&quot;]</code></td>\n<td>Ted confronts his brother Bill Bauer about his escalating alcohol consumption, warning him that his marriage and career are in jeopardy.</td>\n</tr>\n<tr>\n<td><code>FoyWilling_1946_OpenRange.mp3</code> <br><em>Alt</em>: <code>Out on the Open Range Foy Willing And The Riders Of The Purple Sage</code></td>\n<td><strong>&quot;Out on the Open Range with Foy Willing&quot;</strong></td>\n<td><strong>Capitol Transcriptions</strong><br>1946-09-04</td>\n<td><strong>Sustaining</strong><br>Western Music</td>\n<td><strong>Foy Willing &amp; Trio</strong></td>\n<td><strong>Al Sloey &amp; Purple Sage</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Music&quot;, &quot;Riders Of The Purple Sage&quot;, &quot;Foy Willing&quot;, &quot;Capitol&quot;]</code></td>\n<td>Foy Willing leads the western vocal trio in cowboy harmony classics, campfire ballads, and rhythmic open-range guitar instrumentals.</td>\n</tr>\n<tr>\n<td><code>MurderMrChase_1956_Premiere.mp3</code> <br><em>Alt</em>: <code>Title Unknown (PREMIERE) Murder and Mr. Chase</code></td>\n<td><strong>&quot;The Blackmailed Industrialist (Series Premiere) with Alan White&quot;</strong></td>\n<td><strong>2GB / Macquarie</strong><br>1956-09-04</td>\n<td><strong>Sustaining</strong><br>Australian Detective</td>\n<td><strong>Alan White (Peter Chase)</strong></td>\n<td><strong>Morris West (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Murder and Mr Chase&quot;, &quot;Alan White&quot;, &quot;Macquarie&quot;]</code></td>\n<td>Private investigator Peter Chase takes on his first case, defending a prominent manufacturing executive blackmailed over a secret wartime pact.</td>\n</tr>\n<tr>\n<td><code>MaryWard_1936_Alps.mp3</code> <br><em>Alt</em>: <code>Travels of Mary Ward 1936 Episode</code></td>\n<td><strong>&quot;Crossing the Alps on Foot with BBC National Programme&quot;</strong></td>\n<td><strong>BBC National</strong><br>1936-09-04</td>\n<td><strong>Sustaining</strong><br>Historical Docudrama</td>\n<td><strong>BBC Drama Repertory</strong></td>\n<td><strong>Denis Johnston (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;History&quot;, &quot;Travels of Mary Ward&quot;, &quot;Mary Ward&quot;, &quot;BBC&quot;]</code></td>\n<td>17th-century English religious pioneer Mary Ward undertakes a perilous winter trek on foot across the Alps to petition the Pope in Rome for female educational freedom.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 120 / 471 (287 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 733 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Meet the Press",
+        "Lawrence Spivak",
+        "Marion B Folsom",
+        "William P Bundy",
+        "NBC News",
+        "The Guiding Light",
+        "Irna Phillips",
+        "Lyle Sudrow",
+        "Procter and Gamble",
+        "Duz",
+        "Riders of the Purple Sage",
+        "Foy Willing",
+        "Capitol Transcriptions",
+        "Murder and Mr Chase",
+        "Alan White",
+        "Morris West",
+        "Macquarie Network",
+        "Travels of Mary Ward",
+        "Mary Ward",
+        "BBC National Programme",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-732-candy-matson-sad-sack-ginny-simms-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-732-candy-matson-sad-sack-ginny-simms-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Candy Matson, Sad Sack & Ginny Simms",
