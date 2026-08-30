@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Sherlock Holmes, The Sea Hound & Kay Kyser
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, Sherlock Holmes, Arthur Wontner, Carleton Hobbs, Basil Rathbone, Nigel Bruce, Petri Wine, The Sea Hound, Ken Daigneau, Fran Striker, We the People, Milo Boulton, Sanka, Kay Kyser's Kollege of Musical Knowledge, Lucky Strike, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 645 — September 3 Launch)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3**, commencing the complete archival walk of September 3 across Victorian detective masterworks, maritime youth action serials, real-life human interest documentaries, and musical quiz variety shows, Basil Rathbone and Nigel Bruce in *The New Adventures of Sherlock Holmes* for Petri Wine (1945), Arthur Wontner on the BBC (1943), Ken Daigneau in *The Sea Hound* (1946, 1948), Milo Boulton on *We, the People* for Sanka Coffee (1940), and Kay Kyser for Lucky Strike (1940–1948):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 645)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Holmes_1943_RetiredColourman.mp3` <br>*Alt*: `The Retired Colourman Sherlock Holmes` | **"The Adventure of the Retired Colourman with Arthur Wontner"** | **BBC Home**<br>1943-09-03<br>8:00 PM BST | **Sustaining**<br>British Detective Drama | **Arthur Wontner (Holmes)** | **Carleton Hobbs (Watson)** | `["Detective", "Mystery", "Sherlock Holmes", "Arthur Wontner", "BBC Home"]` | Sherlock Holmes investigates the sudden disappearance of a retired artist materials merchant's young wife and his life savings from a locked strongroom. |
+| `Holmes_1945_LimpingGhost.mp3` <br>*Alt*: `39 46 Rathbone and Bruce The Limping Ghost Sherlock Holmes` | **"The Limping Ghost with Basil Rathbone and Nigel Bruce"** | **Mutual (WOR)**<br>1945-09-03<br>8:30 PM EWT | **Petri Wine Co.**<br>Petri California Wines | **Basil Rathbone (Holmes)** | **Nigel Bruce (Watson)** | `["Detective", "Mystery", "Sherlock Holmes", "Basil Rathbone", "Petri Wine"]` | Holmes and Watson travel to a desolate Scottish manor to investigate a terrifying spectral figure whose heavy limp precedes family murders. |
+| `SeaHound_1946_SmugglerCove.mp3` <br>*Alt*: `Episode The Sea Hound (1946)` | **"The Hidden Smuggler's Cove with Ken Daigneau"** | **ABC (WJZ)**<br>1946-09-03<br>5:00 PM EDT | **Sustaining**<br>Maritime Adventure | **Ken Daigneau (Capt. Silver)** | **Bobby Hastings & Striker** | `["Adventure", "Maritime", "The Sea Hound", "Ken Daigneau", "ABC"]` | Captain Silver and his crew track diamond smugglers into a hidden reef cavern along the Caribbean coast. |
+| `SeaHound_1948_DevilsIsland.mp3` <br>*Alt*: `Episode The Sea Hound (1948)` | **"The Secret of Devil's Island with Ken Daigneau"** | **ABC (WJZ)**<br>1948-09-03<br>5:00 PM EDT | **Sustaining**<br>Maritime Adventure | **Ken Daigneau (Capt. Silver)** | **Bobby Hastings (Jerry)** | `["Adventure", "Maritime", "The Sea Hound", "Ken Daigneau", "ABC"]` | The crew of the Sea Hound evades armed coastal patrol boats while aiding a wrongfully convicted political prisoner escaping from Devil's Island. |
+| `People_1940_NewsboyDog.mp3` <br>*Alt*: `A Young Newsboy Finds A Dog We the People` | **"A Young Newsboy Finds a Dog with Milo Boulton"** | **CBS (WABC)**<br>1940-09-03<br>9:00 PM EDST | **General Foods**<br>Sanka Decaf Coffee | **Milo Boulton (Host)** | **Harry von Zell (Announcer)** | `["Human Interest", "Documentary", "We The People", "Milo Boulton", "Sanka"]` | Everyday citizens share real-life emotional personal stories including a young newsboy who reunited a lost canine with its disabled owner. |
+| `Kyser_1941_PeacefulCountry.mp3` <br>*Alt*: `Second Song - It's So Peaceful In The Country Kay Kyser's Kollege` | **"It's So Peaceful in the Country with Kay Kyser and Lucky Strike"** | **NBC Red (WEAF)**<br>1941-09-03<br>10:00 PM EDST | **American Tobacco Co.**<br>Lucky Strike Cigarettes | **Kay Kyser (Leader)** | **Babbitt, Mason, Kabibble** | `["Music", "Quiz", "Kay Kyser", "Lucky Strike", "NBC"]` | Kay Kyser tests audience contestants on musical trivia and conducts swing orchestra arrangements featuring the hit ballad It's So Peaceful in the Country. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 61 / 469 (408 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
