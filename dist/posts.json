@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-05-walk-782-sherlock-holmes-great-gildersleeve-sea-hound-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-05-walk-782-sherlock-holmes-great-gildersleeve-sea-hound-enriched",
+      "title": "Archival Dispatch: September 5 Calendar Walk — Sherlock Holmes, Great Gildersleeve & The Sea Hound",
+      "content_html": "<h2>September 5 Archival Metadata Enrichment (Increment 782)</h2>\n<p>This archival dispatch inaugurates the <strong>September 5</strong> calendar walk across the Archive of American Radio. It documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on <strong>September 5</strong> across Louis Hector &amp; Leigh Lovell solving Arthur Conan Doyle&#39;s <em>The Five Orange Pips</em> on <em>Sherlock Holmes</em> for Household Finance, Harold Peary blundering through school board politics on <em>The Great Gildersleeve</em> for Kraft Parkay, Captain Silver evading enemy submarines on <em>The Sea Hound</em> for Post&#39;s Raisin Bran, glamorous chanteuse Hildegarde entertaining with Frank Fay, Broadway drama on <em>Curtain Time</em> for Mars Candy, and Everett Clarke on <em>The Crime Files of Flamond</em>, Louis Hector (1936), Harold Peary (1943), and Hildegarde (1936–1946):</p>\n<hr>\n<h2>1. <em>September 5 Archival Inventory (Increment 782)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SherlockHolmes_1936_FiveOrangePips.mp3</code> <br><em>Alt</em>: <code>Five Orange Pips Sherlock Holmes</code></td>\n<td><strong>&quot;The Five Orange Pips with Louis Hector&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1936-09-05<br>10:00 PM EDST</td>\n<td><strong>Household Finance</strong><br>Budget Plan Loans</td>\n<td><strong>Louis Hector &amp; Lovell</strong></td>\n<td><strong>Edith Meiser (Writer)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Sherlock Holmes&quot;, &quot;Louis Hector&quot;, &quot;Edith Meiser&quot;]</code></td>\n<td>Sherlock Holmes investigates a sinister series of assassination warnings delivered by an elusive Ku Klux Klan avenger in envelope envelopes containing five dried orange seeds.</td>\n</tr>\n<tr>\n<td><code>TheSeaHound_1946_SecretLagoon940.mp3</code> <br><em>Alt</em>: <code>Episode The Sea Hound</code></td>\n<td><strong>&quot;In the Secret Lagoon (Ep. 940) with Ken Daigneau&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1946-09-05<br>5:00 PM EDT</td>\n<td><strong>General Foods Corp.</strong><br>Post&#39;s Raisin Bran</td>\n<td><strong>Ken Daigneau &amp; Hastings</strong></td>\n<td><strong>Frank Dahm (Writer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Juvenile&quot;, &quot;The Sea Hound&quot;, &quot;Captain Silver&quot;, &quot;Post Cereals&quot;]</code></td>\n<td>Captain Silver navigates the Sea Hound into a concealed tropical lagoon to escape an armed enemy submarine patrol.</td>\n</tr>\n<tr>\n<td><code>Hildegarde_1944_FrankFay.mp3</code> <br><em>Alt</em>: <code>Guest - Frank Fay Hildegarde</code></td>\n<td><strong>&quot;Guest Frank Fay with Raleigh Cigarettes&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-09-05<br>10:30 PM EWT</td>\n<td><strong>Brown &amp; Williamson</strong><br>Raleigh 903 Cigarettes</td>\n<td><strong>Hildegarde &amp; Frank Fay</strong></td>\n<td><strong>Ray Sinatra and Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Hildegarde&quot;, &quot;Frank Fay&quot;, &quot;Raleigh Cigarettes&quot;]</code></td>\n<td>Incomparable chanteuse Hildegarde sings Darling Je Vous Aime Beaucoup and trades sharp theatrical wit with vaudevillian Frank Fay.</td>\n</tr>\n<tr>\n<td><code>GreatGildersleeve_1943_SchoolPrincipal.mp3</code> <br><em>Alt</em>: <code>New Grammar School Principal Re Creation Great Gildersleeve</code></td>\n<td><strong>&quot;New Grammar School Principal with Harold Peary&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-09-05<br>6:30 PM EWT</td>\n<td><strong>Kraft Cheese Co.</strong><br>Parkay Margarine</td>\n<td><strong>Harold Peary &amp; Tetley</strong></td>\n<td><strong>John Whedon &amp; Moore</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;The Great Gildersleeve&quot;, &quot;Harold Peary&quot;, &quot;Parkay&quot;]</code></td>\n<td>Summerfield Water Commissioner Gildersleeve meddles in the appointment of a new grammar school principal to influence young Leroy&#39;s discipline.</td>\n</tr>\n<tr>\n<td><code>CurtainTime_1945_StarOfTheEvening.mp3</code> <br><em>Alt</em>: <code>Curtain Time 1945 Episode</code></td>\n<td><strong>&quot;The Star of the Evening with Harry Elders&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1945-09-05<br>10:30 PM EWT</td>\n<td><strong>Mars, Incorporated</strong><br>Milky Way &amp; Snickers</td>\n<td><strong>Harry Elders &amp; Sargent</strong></td>\n<td><strong>Harry Holcomb (Dir.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Theatre&quot;, &quot;Curtain Time&quot;, &quot;Mars Candy&quot;, &quot;ABC&quot;]</code></td>\n<td>An ambitious understudy seizes her sudden moment in the theatrical spotlight when the prima donna walks out during opening night.</td>\n</tr>\n<tr>\n<td><code>CrimeFilesFlamond_1944_TransparentCorpse.mp3</code> <br><em>Alt</em>: <code>TCOT Transparent Corpse The Crime Files Of Flamond</code></td>\n<td><strong>&quot;The Case of the Transparent Corpse with Everett Clarke&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-09-05<br>8:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Criminology Drama</td>\n<td><strong>Everett Clarke &amp; Dunlap</strong></td>\n<td><strong>Russell Hughes (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Crime Files of Flamond&quot;, &quot;Everett Clarke&quot;, &quot;Mutual&quot;]</code></td>\n<td>Psychological criminologist Flamond investigates an eccentric optical physicist whose glass manufacturing laboratory conceals an invisible murder victim.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 5 (Day Kickoff)</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 5</strong>: 6 / 401 (395 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 5 Archival Metadata Enrichment Increment 782 This archival dispatch inaugurates the September 5 calendar walk across the Archive of American Radio. It documents the historical prov...",
+      "date_published": "2026-09-05T00:00:00.000Z",
+      "tags": [
+        "September 5",
+        "Calendar Walk",
+        "Sherlock Holmes",
+        "Louis Hector",
+        "Leigh Lovell",
+        "Edith Meiser",
+        "Household Finance",
+        "The Sea Hound",
+        "Ken Daigneau",
+        "Post Cereals",
+        "Hildegarde",
+        "Frank Fay",
+        "Raleigh Cigarettes",
+        "The Great Gildersleeve",
+        "Harold Peary",
+        "Kraft Parkay Margarine",
+        "Curtain Time",
+        "Harry Elders",
+        "Mars Candy",
+        "Crime Files of Flamond",
+        "Everett Clarke",
+        "Mutual",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-781-monte-cristo-raffles-september-4-100-percent-complete",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-781-monte-cristo-raffles-september-4-100-percent-complete",
       "title": "Archival Dispatch: September 4 Calendar Walk — The Count of Monte Cristo & Raffles (100% COMPLETE!)",
