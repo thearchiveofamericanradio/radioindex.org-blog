@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-624-lucille-ball-mr-moto-stars-over-hollywood-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-624-lucille-ball-mr-moto-stars-over-hollywood-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Lucille Ball, Mr. Moto & Stars Over Hollywood",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 624)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic domestic situation comedy, international secret agent thrillers, Hollywood dramatic anthologies, and British family radio comedies, Lucille Ball and Richard Denning in <em>My Favorite Husband</em> for Jell-O (1949, 1950), James Monks as <em>Mr. Moto</em> on NBC (1951), <em>Stars Over Hollywood</em> for Dari-Rich and Carnation (1944, 1950), and <em>The Clitheroe Kid</em> (1944–1957):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 624)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Moto_1951_ThreeNumbers.mp3</code> <br><em>Alt</em>: <code>The Three Numbers Mr Moto</code></td>\n<td><strong>&quot;The Three Numbers with James Monks as Mr. Moto&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1951-09-02<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Spy Thriller</td>\n<td><strong>James Monks (Moto)</strong></td>\n<td><strong>John P. Marquand</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Espionage&quot;, &quot;Mr Moto&quot;, &quot;James Monks&quot;, &quot;NBC&quot;]</code></td>\n<td>International secret agent Mr. Moto decodes a trio of numerical coordinates to prevent an assassin from eliminating an Allied diplomat in Istanbul.</td>\n</tr>\n<tr>\n<td><code>Husband_1949_ElvesClub.mp3</code> <br><em>Alt</em>: <code>The Elves My Favorite Husband</code></td>\n<td><strong>&quot;The Elves Club Benefit with Lucille Ball and Richard Denning&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1949-09-02<br>8:30 PM EDT</td>\n<td><strong>General Foods</strong><br>Jell-O Gelatin &amp; Puddings</td>\n<td><strong>Lucille Ball</strong>, <strong>Denning</strong></td>\n<td><strong>Jess Oppenheimer &amp; Pugh</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;My Favorite Husband&quot;, &quot;Lucille Ball&quot;, &quot;Jell-O&quot;]</code></td>\n<td>Liz Cugat schemes to win the lead role in a high-society charity play by flattering the bank president&#39;s eccentric wife.</td>\n</tr>\n<tr>\n<td><code>Husband_1950_OldClothes.mp3</code> <br><em>Alt</em>: <code>Old Clothes Sold To The Junkman My Favorite Husband</code></td>\n<td><strong>&quot;Old Clothes Sold to the Junkman with Lucille Ball&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-02<br>9:30 PM EDT</td>\n<td><strong>General Foods</strong><br>Jell-O Gelatin &amp; Puddings</td>\n<td><strong>Lucille Ball</strong>, <strong>Denning</strong></td>\n<td><strong>Jess Oppenheimer (Dir)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;My Favorite Husband&quot;, &quot;Lucille Ball&quot;, &quot;Jell-O&quot;]</code></td>\n<td>Liz inadvertently sells George&#39;s favorite tailored business suit containing his anniversary bonus check to a roving junk collector.</td>\n</tr>\n<tr>\n<td><code>Clitheroe_1957_Pilot10.mp3</code> <br><em>Alt</em>: <code>Pilot Episode 10 Clitheroe Kid - BBC</code></td>\n<td><strong>&quot;School Holiday Mischief with Jimmy Clitheroe&quot;</strong></td>\n<td><strong>BBC Light</strong><br>1957-09-02</td>\n<td><strong>Sustaining</strong><br>British Comedy</td>\n<td><strong>Jimmy Clitheroe</strong></td>\n<td><strong>Peter Sinclair &amp; Casey</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Clitheroe Kid&quot;, &quot;Jimmy Clitheroe&quot;, &quot;BBC Light&quot;]</code></td>\n<td>Cheeky schoolboy Jimmy turns his household upside down with pranks when his brother-in-law attempts to paint the parlor.</td>\n</tr>\n<tr>\n<td><code>Stars_1944_GirlNowhere.mp3</code> <br><em>Alt</em>: <code>Stars Over Hollywood 1944 Episode</code></td>\n<td><strong>&quot;The Girl from Nowhere with Bowey&#39;s Dari-Rich&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1944-09-02<br>12:30 PM EWT</td>\n<td><strong>Bowey&#39;s Inc.</strong><br>Dari-Rich Drink</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Paul Pierce (Dir)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Stars Over Hollywood&quot;, &quot;Dari Rich&quot;, &quot;CBS&quot;]</code></td>\n<td>A small-town dressmaker travels to Manhattan after being mistakenly identified as an international fashion model.</td>\n</tr>\n<tr>\n<td><code>Stars_1950_Shoestring.mp3</code> <br><em>Alt</em>: <code>Stars Over Hollywood 1950 Episode</code></td>\n<td><strong>&quot;Love on a Shoestring with Carnation Evaporated Milk&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-02<br>1:00 PM EDT</td>\n<td><strong>Carnation Milk Co.</strong><br>Evaporated Milk</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Paul Pierce (Dir)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Stars Over Hollywood&quot;, &quot;Carnation Milk&quot;, &quot;CBS&quot;]</code></td>\n<td>Two struggling commercial artists attempt to maintain a secret marriage while competing for the same advertising agency account.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 356 / 480 (124 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 624 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "My Favorite Husband",
+        "Lucille Ball",
+        "Richard Denning",
+        "Gale Gordon",
+        "Jell-O",
+        "Mr Moto",
+        "James Monks",
+        "John P Marquand",
+        "NBC",
+        "Stars Over Hollywood",
+        "Dari-Rich",
+        "Carnation Milk",
+        "The Clitheroe Kid",
+        "Jimmy Clitheroe",
+        "BBC Light",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-623-four-lone-ranger-episodes-dark-destiny-fdr-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-623-four-lone-ranger-episodes-dark-destiny-fdr-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Four Lone Ranger Adventures, Dark Destiny & FDR",
