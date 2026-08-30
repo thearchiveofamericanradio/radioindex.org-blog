@@ -1,0 +1,33 @@
+# Archival Dispatch: August 30 Calendar Walk — Martin & Lewis, Tony Bennett, and Fitch Bandwagon
+
+**Date**: 2026-08-30  
+**Author**: radio index  
+**Tags**: August 30, Calendar Walk, The Martin and Lewis Show, Dean Martin, Jerry Lewis, Jane Russell, The Fitch Bandwagon, Shep Fields, Mitchell Ayres, Fitch Shampoo, The Howard Miller Show, Tony Bennett, Twenty Years A-Growing, Maurice O'Sullivan, Niall Tóibín, BBC Radio 4, Imagination Theater, Sherlock Holmes, John Patrick Lowrie, Alternate Titles, Original Filenames
+
+---
+
+## August 30 Archival Metadata Enrichment (Increment 447)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network comedy, big band music, celebrity DJ interviews, Irish literary drama, and modern audio theater, Dean Martin and Jerry Lewis bantering with Jane Russell on NBC (1949), Shep Fields and Mitchell Ayres on *The Fitch Bandwagon* (1942, 1944), Tony Bennett live on *The Howard Miller Show* (1955), Maurice O'Sullivan's Irish classic *Twenty Years A-Growing* on BBC Radio 4 (1977), and John Patrick Lowrie as Sherlock Holmes in *The Amateur Mendicant Society* (1942–2009):
+
+---
+
+## 1. *August 30 Archival Inventory (Increment 447)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Sherlock_2009_Mendicant.mp3` <br>*Alt*: `SH Amateur Mendicant Society` | **"The Amateur Mendicant Society & The Trophy with John Patrick Lowrie"** | **Imagination Theater**<br>2009-08-30 | **Sustaining**<br>Audio Drama | **John Patrick Lowrie**, **Albert** | **M.J. Elliott & Jim French** | `["Detective", "Mystery", "Sherlock Holmes", "Jim French", "Modern Radio"]` | Holmes and Watson expose a fraudulent London charitable syndicate operating an underworld beggar ring out of a dockside warehouse. |
+| `Martin_Lewis_1949_Russell.mp3` <br>*Alt*: `Jane Russell Martin Lewis` | **"Guest Jane Russell"** | **NBC (WEAF)**<br>1949-08-30<br>8:30 PM EDT | **Sustaining**<br>Comedy Showcase | **Dean Martin**, **Jerry Lewis**, **Russell** | **Dick Stabile Orchestra** | `["Comedy", "Variety", "Slapstick", "Dean Martin", "Jerry Lewis"]` | Jerry creates slapstick havoc while attempting to audition alongside Hollywood glamour star Jane Russell for a new musical picture. |
+| `Fitch_1942_ShepFields.mp3` <br>*Alt*: `Shep Fields Rippling Rhythm` | **"Shep Fields and His Rippling Rhythm"** | **NBC Red (WEAF)**<br>1942-08-30<br>7:30 PM EWT | **F.W. Fitch Co.**<br>Fitch's Shampoo | **Tobe Reed**, **Shep Fields** | **Shep Fields Orchestra** | `["Big Band", "Swing", "Music", "Shep Fields", "Fitch"]` | Shep Fields leads his champagne-music orchestra through signature rippling woodwind arrangements and popular wartime melodies. |
+| `Fitch_1944_MitchellAyres.mp3` <br>*Alt*: `Mitchel Ayers Fitch` | **"Mitchell Ayres and His Fashions in Music"** | **NBC (WEAF)**<br>1944-08-30<br>7:30 PM EWT | **F.W. Fitch Co.**<br>Fitch's Shampoo | **Tom Reddy**, **Mitchell Ayres** | **Mitchell Ayres Orchestra** | `["Big Band", "Swing", "Music", "Mitchell Ayres", "Fitch"]` | Mitchell Ayres conducts his orchestra in upbeat big band swing and romantic vocal numbers for Fitch Shampoo. |
+| `Irish_1977_Growing.mp3` <br>*Alt*: `Twenty Years A-Growing BBC` | **"Maurice O'Sullivan's Blasket Island Memoirs (BBC Radio 4)"** | **BBC Radio 4**<br>1977-08-30<br>8:30 PM BST | **Sustaining**<br>Literary Dramatization | **Niall Tóibín**, **McKenna** | **Maurice O'Sullivan (Author)** | `["Drama", "Irish", "Memoir", "Biography", "BBC Radio 4"]` | The evocative dramatization of youth and traditional Gaeltacht island life growing up on the rugged Great Blasket Island. |
+| `Howard_Miller_1955_Bennett.mp3` <br>*Alt*: `Tony Bennett Howard Miller` | **"Guest Tony Bennett with Live Performance"** | **WBBM / CBS**<br>1955-08-30<br>11:30 PM CDT | **Sustaining**<br>Late Night Music | **Howard Miller**, **Bennett** | **Howard Miller Show Staff** | `["Music", "Talk", "Interview", "Tony Bennett", "Howard Miller"]` | Disc jockey Howard Miller interviews pop crooner Tony Bennett about his latest Columbia Records hits and live nightclub appearances. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 354 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
