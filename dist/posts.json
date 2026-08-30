@@ -6,6 +6,80 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-523-the-big-story-fritz-leiber-mischa-elman-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-523-the-big-story-fritz-leiber-mischa-elman-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — The Big Story, Fritz Leiber Sci-Fi, and Mischa Elman",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 523)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across Pulitzer-worthy investigative newspaper reporting, apocalyptic science fiction, violin concert masters, overseas troop variety, symphonic folk revues, and daytime soap opera, Dan Parker on <em>The Big Story</em> for Pall Mall (1948), Fritz Leiber&#39;s <em>A Pail of Air</em> on <em>Audition Theatre</em> (1990), Mischa Elman in <em>Concert in Miniature</em> (1953), Harry James on <em>Mail Call</em> (1943), <em>Meredith Willson&#39;s Musical Revue</em> (1942), and Irna Phillips&#39; <em>The Road of Life</em> (1942–1990):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 523)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Concert_Mini_1953_Elman.mp3</code> <br><em>Alt</em>: <code>Ep060 Behind The Scenes</code></td>\n<td><strong>&quot;Behind the Scenes with Mischa Elman (Episode 60)&quot;</strong></td>\n<td><strong>Syndication</strong><br>1953-09-01</td>\n<td><strong>Sustaining</strong><br>Classical Recital</td>\n<td><strong>Mischa Elman (Violin)</strong></td>\n<td><strong>Concert Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Violin&quot;, &quot;Concert In Miniature&quot;, &quot;Mischa Elman&quot;]</code></td>\n<td>Violinist Mischa Elman performs romantic classical selections and explains backstage concert preparations and bowing techniques.</td>\n</tr>\n<tr>\n<td><code>Audition_1990_PailAir.mp3</code> <br><em>Alt</em>: <code>A Pail Of Air Audition Theatre</code></td>\n<td><strong>&quot;Fritz Leiber&#39;s A Pail of Air with Audio Theatre Ensemble&quot;</strong></td>\n<td><strong>Syndication</strong><br>1990-09-01</td>\n<td><strong>Sustaining</strong><br>Sci-Fi Audio Drama</td>\n<td><strong>Audio Theatre Ensemble</strong></td>\n<td><strong>Fritz Leiber (Author)</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Drama&quot;, &quot;Audition Theatre&quot;, &quot;Fritz Leiber&quot;, &quot;Post-Apocalyptic&quot;]</code></td>\n<td>A resilient family survives in a frozen post-apocalyptic shelter on Earth after a rogue dark star tears the planet away from the Sun.</td>\n</tr>\n<tr>\n<td><code>Mail_Call_1943_BenLyon.mp3</code> <br><em>Alt</em>: <code>Guest - Ben Lyon Mail Call</code></td>\n<td><strong>&quot;Guest Ben Lyon with Harry James and His Music Makers (AFRS)&quot;</strong></td>\n<td><strong>AFRS / War Dept.</strong><br>1943-09-01</td>\n<td><strong>AFRS</strong><br>Armed Forces Morale</td>\n<td><strong>Ben Lyon</strong>, <strong>Harry James</strong></td>\n<td><strong>Helen Forrest (Vocal)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Big Band&quot;, &quot;Mail Call&quot;, &quot;AFRS&quot;, &quot;Harry James&quot;]</code></td>\n<td>Ben Lyon emcees a morale-boosting broadcast for overseas Allied troops featuring trumpet solos and swing hits by Harry James.</td>\n</tr>\n<tr>\n<td><code>Willson_1942_SummerConcert.mp3</code> <br><em>Alt</em>: <code>Meredith Willson 1942 Episode</code></td>\n<td><strong>&quot;End-of-Summer Concert with Meredith Willson&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1942-09-01<br>9:30 PM EWT</td>\n<td><strong>General Foods</strong><br>Post Toasties</td>\n<td><strong>Meredith Willson Orch.</strong></td>\n<td><strong>Meredith Willson</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Concert&quot;, &quot;Meredith Willson&quot;, &quot;Post Toasties&quot;, &quot;NBC Red&quot;]</code></td>\n<td>Meredith Willson leads symphonic suite adaptations of American folk tunes and light orchestral classics.</td>\n</tr>\n<tr>\n<td><code>Big_Story_1948_DanParker.mp3</code> <br><em>Alt</em>: <code>The Big Guy and the Little Guy</code></td>\n<td><strong>&quot;Dan Parker and The Big Guy and the Little Guy (New York Daily Mirror)&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1948-09-01<br>10:00 PM EDT</td>\n<td><strong>American Cigarette Co.</strong><br>Pall Mall Cigarettes</td>\n<td><strong>Robert Sloane</strong>, <strong>Parker</strong></td>\n<td><strong>Harry Ingram (Director)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Journalism&quot;, &quot;Docudrama&quot;, &quot;The Big Story&quot;, &quot;Pall Mall&quot;]</code></td>\n<td>New York sports columnist Dan Parker exposes an organized underworld syndicate fixing prizefights and exploiting young boxers.</td>\n</tr>\n<tr>\n<td><code>Road_Life_1947_CarolTricked.mp3</code> <br><em>Alt</em>: <code>Carol Is Tricked Road of Life</code></td>\n<td><strong>&quot;Carol Is Tricked with Howard Phillips and Matt Crowley&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-09-01<br>10:30 AM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Crisco / Ivory Snow</td>\n<td><strong>Howard Phillips</strong>, <strong>Winkler</strong></td>\n<td><strong>Irna Phillips (Creator)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Soap Opera&quot;, &quot;The Road of Life&quot;, &quot;Irna Phillips&quot;, &quot;Crisco&quot;]</code></td>\n<td>Carol Evans discovers she has been manipulated into signing away hospital legal rights by an unscrupulous business rival.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 60 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 523 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "The Big Story",
+        "Dan Parker",
+        "New York Daily Mirror",
+        "Pall Mall",
+        "Audition Theatre",
+        "Fritz Leiber",
+        "A Pail of Air",
+        "Sci-Fi",
+        "Concert in Miniature",
+        "Mischa Elman",
+        "Mail Call",
+        "Harry James",
+        "Ben Lyon",
+        "AFRS",
+        "Meredith Willson",
+        "The Road of Life",
+        "Irna Phillips",
+        "Crisco",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-522-captain-america-huckleberry-finn-my-little-margie-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-522-captain-america-huckleberry-finn-my-little-margie-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Captain America, Huckleberry Finn, and My Little Margie",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 522)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized children&#39;s literary metadata, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across Marvel superhero origin adventures, classic Mark Twain literature, Hollywood benefit broadcasts, television-to-radio sitcom adaptations, BBC comedic history, and Carlton E. Morse family dramas, Sandy Becker in <em>Captain America</em> (1966), John Griggs in <em>Adventure Parade</em> (1947), Spencer Tracy and Mickey Rooney on <em>Good News of 1939</em> (1938), Gale Storm in <em>My Little Margie</em> (1955), <em>Frank Muir Goes Into...</em> on BBC Radio 4 (1975), and <em>The Family Robinson</em> (1938–1975):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 522)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Adv_Parade_1947_HuckFinn1.mp3</code> <br><em>Alt</em>: <code>Adventure Parade 1947 Episode</code></td>\n<td><strong>&quot;The Adventures of Huckleberry Finn (Part 1) with John Griggs&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-09-01<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Children&#39;s Classics</td>\n<td><strong>John Griggs (Storyteller)</strong></td>\n<td><strong>Mark Twain (Author)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Classics&quot;, &quot;Juvenile&quot;, &quot;Adventure Parade&quot;, &quot;Mark Twain&quot;]</code><br><em>Arc</em>: <strong>The Adventures of Huckleberry Finn (Part 1)</strong></td>\n<td>Huck Finn fakes his own death to escape his abusive father and retreats to Jackson&#39;s Island on the Mississippi River.</td>\n</tr>\n<tr>\n<td><code>Robinson_1940_LukeResolve.mp3</code> <br><em>Alt</em>: <code>American Luke&#39;s Resolve To Be An Ideal Husband</code></td>\n<td><strong>&quot;Luke&#39;s Resolve to Be an Ideal Husband with Carlton E. Morse&quot;</strong></td>\n<td><strong>Syndication / NBC</strong><br>1940-09-01</td>\n<td><strong>Sustaining</strong><br>Domestic Drama</td>\n<td><strong>Dramatic Voice Ensemble</strong></td>\n<td><strong>Carlton E. Morse (Creator)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Family&quot;, &quot;Carlton E Morse&quot;, &quot;The Family Robinson&quot;]</code></td>\n<td>Luke works through family financial stress and renews his commitment to domestic harmony after a tense household misunderstanding.</td>\n</tr>\n<tr>\n<td><code>Good_News_1938_BoysTown.mp3</code> <br><em>Alt</em>: <code>Boys Town Good News</code></td>\n<td><strong>&quot;Boys Town Tribute with Spencer Tracy and Mickey Rooney&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1938-09-01<br>9:00 PM EDST</td>\n<td><strong>General Foods</strong><br>Maxwell House Coffee</td>\n<td><strong>Spencer Tracy</strong>, <strong>Rooney</strong></td>\n<td><strong>Meredith Willson Orchestra</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Film Preview&quot;, &quot;Drama&quot;, &quot;Spencer Tracy&quot;, &quot;Mickey Rooney&quot;, &quot;Good News&quot;]</code></td>\n<td>Spencer Tracy and Mickey Rooney recreate dramatic scenes from the new MGM film Boys Town alongside founder Father Flanagan.</td>\n</tr>\n<tr>\n<td><code>Cap_America_1966_Origin.mp3</code> <br><em>Alt</em>: <code>The Origin of Captain America</code></td>\n<td><strong>&quot;The Origin of Captain America with Sandy Becker&quot;</strong></td>\n<td><strong>Marvel Syndication</strong><br>1966-09-01</td>\n<td><strong>Sustaining</strong><br>Marvel Comic Serial</td>\n<td><strong>Sandy Becker</strong>, <strong>Ensemble</strong></td>\n<td><strong>Simon &amp; Kirby (Creators)</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Action&quot;, &quot;Comic Books&quot;, &quot;Captain America&quot;, &quot;Marvel&quot;]</code></td>\n<td>Frail army recruit Steve Rogers volunteers for Operation Rebirth and undergoes the Super-Soldier serum experiment to battle Nazi saboteurs.</td>\n</tr>\n<tr>\n<td><code>Muir_1975_PopMusic.mp3</code> <br><em>Alt</em>: <code>Popular Music Frank Muir</code></td>\n<td><strong>&quot;Popular Music with Frank Muir and John Junkin&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1975-09-01<br>6:15 PM BST</td>\n<td><strong>Sustaining</strong><br>BBC Comedy Talk</td>\n<td><strong>Frank Muir</strong>, <strong>Junkin</strong></td>\n<td><strong>BBC Radio Light Ent.</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;History&quot;, &quot;Music&quot;, &quot;Frank Muir&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>Frank Muir presents a witty historical exploration of popular song lyrics, catchy jingles, and music hall songwriting conventions.</td>\n</tr>\n<tr>\n<td><code>Margie_1955_QuizShow.mp3</code> <br><em>Alt</em>: <code>Quiz Show (Aka Hawaii Trip)</code></td>\n<td><strong>&quot;The Radio Quiz Show (Trip to Hawaii) with Gale Storm and Charles Farrell&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1955-09-01<br>8:30 PM EDT</td>\n<td><strong>Philip Morris</strong><br>Philip Morris Cigarettes</td>\n<td><strong>Gale Storm</strong>, <strong>Farrell</strong></td>\n<td><strong>Clarence Kolb (Honeywell)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;My Little Margie&quot;, &quot;Gale Storm&quot;, &quot;Philip Morris&quot;]</code></td>\n<td>Margie secretly enters an on-air radio quiz show to win a Hawaiian vacation for her overworked father Vern.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 54 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 522 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Captain America",
+        "Sandy Becker",
+        "Marvel Comics",
+        "Adventure Parade",
+        "Huckleberry Finn",
+        "Mark Twain",
+        "John Griggs",
+        "Serial Story",
+        "Good News of 1939",
+        "Spencer Tracy",
+        "Mickey Rooney",
+        "Boys Town",
+        "My Little Margie",
+        "Gale Storm",
+        "Charles Farrell",
+        "Frank Muir",
+        "BBC Radio 4",
+        "The Family Robinson",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-521-kraft-music-hall-mgm-theater-jimmie-allen-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-521-kraft-music-hall-mgm-theater-jimmie-allen-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Kraft Music Hall, MGM Theater, and Jimmie Allen",
