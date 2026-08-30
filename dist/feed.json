@@ -6,6 +6,38 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-489-jack-benny-perry-mason-the-goldbergs-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-489-jack-benny-perry-mason-the-goldbergs-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Jack Benny, Perry Mason, and The Goldbergs",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 489)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American network comedy milestones, legal detective dramas, and beloved immigrant family soap operas, Jack Benny and Mary Livingstone on <em>The Jell-O Program</em> (1932, 1934), John Larkin as Erle Stanley Gardner&#39;s <em>Perry Mason</em> on CBS (1951, 1954), and Gertrude Berg as Molly Goldberg in <em>The Goldbergs</em> (1932–1954):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 489)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Benny_1932_Sports.mp3</code> <br><em>Alt</em>: <code>Indoor Sports Night Benny</code></td>\n<td><strong>&quot;Indoor Sports Night with Jack Benny and Mary Livingstone&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1932-08-31<br>8:00 PM EDST</td>\n<td><strong>General Foods</strong><br>Jell-O</td>\n<td><strong>Jack Benny</strong>, <strong>Livingstone</strong></td>\n<td><strong>Frank Black Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Jack Benny&quot;, &quot;Mary Livingstone&quot;, &quot;Jell-O&quot;]</code></td>\n<td>Jack Benny attempts to organize a parlor athletic competition in the studio while Mary Livingstone reads insulting fan letters from Plainfield.</td>\n</tr>\n<tr>\n<td><code>Benny_1934_HouseBenny.mp3</code> <br><em>Alt</em>: <code>The House of Benny 1934</code></td>\n<td><strong>&quot;The House of Benny with Jack Benny and Mary Livingstone&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1934-08-31<br>8:30 PM EDST</td>\n<td><strong>General Foods</strong><br>Jell-O (6 Flavors)</td>\n<td><strong>Jack Benny</strong>, <strong>Livingstone</strong></td>\n<td><strong>Don Bestor Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Jack Benny&quot;, &quot;Mary Livingstone&quot;, &quot;Jell-O&quot;]</code></td>\n<td>Jack boasts about his grand new Hollywood mansion, only to have the cast expose that the estate is leased and completely unfurnished.</td>\n</tr>\n<tr>\n<td><code>Mason_1951_LakeHouse.mp3</code> <br><em>Alt</em>: <code>Perry Mason 1951 08 31</code></td>\n<td><strong>&quot;The Murder at the Lake House with John Larkin&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-31<br>2:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide / Camay Soap</td>\n<td><strong>John Larkin</strong>, <strong>Alexander</strong></td>\n<td><strong>Erle Stanley Gardner</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Legal&quot;, &quot;Mystery&quot;, &quot;Perry Mason&quot;, &quot;CBS&quot;]</code></td>\n<td>Perry Mason questions a lakeside boat rental operator to reconstruct a missing client&#39;s movements before a body was discovered floating near the dock.</td>\n</tr>\n<tr>\n<td><code>Mason_1954_Beekman.mp3</code> <br><em>Alt</em>: <code>Ed Beekman&#39;s Daughter Mason</code></td>\n<td><strong>&quot;Ed Beekman&#39;s Daughter with John Larkin&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1954-08-31<br>2:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Tide Detergent</td>\n<td><strong>John Larkin</strong>, <strong>Robinson</strong></td>\n<td><strong>Erle Stanley Gardner</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Legal&quot;, &quot;Mystery&quot;, &quot;Perry Mason&quot;, &quot;CBS&quot;]</code></td>\n<td>Perry Mason investigates threatening anonymous telegrams sent to a wealthy client&#39;s daughter prior to an estate inheritance hearing.</td>\n</tr>\n<tr>\n<td><code>Goldbergs_1942_Mickie.mp3</code> <br><em>Alt</em>: <code>Mickie Suspicious Goldbergs</code></td>\n<td><strong>&quot;Mickie Is Suspicious with Gertrude Berg&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-08-31<br>11:30 AM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz / Oxydol</td>\n<td><strong>Gertrude Berg</strong>, <strong>Waters</strong></td>\n<td><strong>Gertrude Berg (Writer)</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Comedy&quot;, &quot;Drama&quot;, &quot;The Goldbergs&quot;, &quot;CBS&quot;]</code></td>\n<td>Molly Goldberg attempts to smooth over misunderstandings when Mickie misinterprets a neighbor&#39;s secretive visits to the apartment.</td>\n</tr>\n<tr>\n<td><code>Goldbergs_1943_Birdie.mp3</code> <br><em>Alt</em>: <code>Birdie Makes Matters Worse</code></td>\n<td><strong>&quot;Birdie Makes Matters Worse with Gertrude Berg&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-08-31<br>1:45 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Soap</td>\n<td><strong>Gertrude Berg</strong>, <strong>Colaer</strong></td>\n<td><strong>Gertrude Berg (Writer)</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Comedy&quot;, &quot;Drama&quot;, &quot;The Goldbergs&quot;, &quot;CBS&quot;]</code></td>\n<td>Molly intervenes to calm household tensions after well-meaning Aunt Birdie gives conflicting romantic advice to Rosalie.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 234 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 489 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "The Jello Program",
+        "Jack Benny",
+        "Mary Livingstone",
+        "Don Wilson",
+        "General Foods",
+        "Perry Mason",
+        "John Larkin",
+        "Joan Alexander",
+        "Erle Stanley Gardner",
+        "The Goldbergs",
+        "Gertrude Berg",
+        "Molly Goldberg",
+        "Procter & Gamble",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-488-family-theater-judy-canova-eyes-aloft-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-488-family-theater-judy-canova-eyes-aloft-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Family Theater, Judy Canova, and Eyes Aloft",
