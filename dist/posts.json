@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-541-the-whistler-dick-tracy-manhattan-merry-go-round-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-541-the-whistler-dick-tracy-manhattan-merry-go-round-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — The Whistler, Dick Tracy, and Manhattan Merry-Go-Round",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 541)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across West Coast noir thrillers, daily youth comic-strip adventures, Broadway musical showcases, mystery storytelling, and Pacific Northwest modern jazz, Bill Forman in <em>The Whistler</em> for Signal Oil (1946), Howard Culver in <em>Dick Tracy</em> (1947), Johnny Thomas in <em>Tennessee Jed</em> (1947), Evelyn MacGregor on <em>Manhattan Merry-Go-Round</em> for Dr. Lyon&#39;s (1946), Marvin Miller in <em>Armchair Adventures</em> (1952), and KOMO Seattle <em>Jazz Today</em> (1946–1959):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 541)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Whistler_1946_FinalReturns.mp3</code> <br><em>Alt</em>: <code>Final Returns The Whistler</code></td>\n<td><strong>&quot;Final Returns with Bill Forman and Signal Oil&quot;</strong></td>\n<td><strong>CBS Pacific (KNX)</strong><br>1946-09-01<br>8:00 PM PST</td>\n<td><strong>Signal Oil Company</strong><br>Signal Gasoline &amp; Oil</td>\n<td><strong>Bill Forman (Whistler)</strong></td>\n<td><strong>George Allen (Director)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Thriller&quot;, &quot;Psychological&quot;, &quot;The Whistler&quot;, &quot;Signal Oil&quot;]</code></td>\n<td>A crooked mayoral candidate murders his campaign manager to hide kickback ledgers, unaware an election-night broadcast records his betrayal.</td>\n</tr>\n<tr>\n<td><code>Dick_Tracy_1947_FlattopJr.mp3</code> <br><em>Alt</em>: <code>Dick Tracy 1947 Episode</code></td>\n<td><strong>&quot;The Flattop Junior Counterfeit Ring with Howard Culver and Swift&#39;s Frankfurters&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1947-09-01<br>5:00 PM EDT</td>\n<td><strong>Swift &amp; Company</strong><br>Swift&#39;s Frankfurters</td>\n<td><strong>Howard Culver (Tracy)</strong></td>\n<td><strong>Chester Gould (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Juvenile&quot;, &quot;Dick Tracy&quot;, &quot;Howard Culver&quot;, &quot;Swifts&quot;]</code></td>\n<td>Detective Dick Tracy uncovers an underground engraving press printing fake currency notes in an abandoned waterfront warehouse.</td>\n</tr>\n<tr>\n<td><code>Tennessee_Jed_1947_SilverRiver.mp3</code> <br><em>Alt</em>: <code>Tennessee Jed 1947 Episode</code></td>\n<td><strong>&quot;The Silver River Ambush (Episode 412) with Johnny Thomas and Ward&#39;s Tip-Top Bread&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1947-09-01<br>5:15 PM EDT</td>\n<td><strong>Ward Baking Company</strong><br>Tip-Top Bread</td>\n<td><strong>Johnny Thomas (Jed)</strong></td>\n<td><strong>Humphrey Davis</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Juvenile&quot;, &quot;Tennessee Jed&quot;, &quot;Tip-Top Bread&quot;]</code></td>\n<td>Frontier scout Tennessee Jed investigates horse rustlers staging ambushes along the shallow rapids of the Silver River.</td>\n</tr>\n<tr>\n<td><code>Manhattan_Merry_1946_Arden.mp3</code> <br><em>Alt</em>: <code>Manhattan Merry-Go-Round 1946</code></td>\n<td><strong>&quot;With Evelyn MacGregor, Bob Hannon, and Dr. Lyon&#39;s Tooth Powder&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-09-01<br>9:00 PM EDT</td>\n<td><strong>R.L. Watkins Co.</strong><br>Dr. Lyon&#39;s Tooth Powder</td>\n<td><strong>Evelyn MacGregor</strong>, <strong>Hannon</strong></td>\n<td><strong>Victor Arden Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Broadway&quot;, &quot;Manhattan Merry-Go-Round&quot;, &quot;Dr Lyons&quot;]</code></td>\n<td>Victor Arden and his orchestra headline a Broadway musical revue featuring romantic ballads, tango melodies, and popular stage tunes.</td>\n</tr>\n<tr>\n<td><code>Armchair_1952_RealCrime.mp3</code> <br><em>Alt</em>: <code>The Real Crime Armchair Adventures</code></td>\n<td><strong>&quot;The Real Crime with Marvin Miller&quot;</strong></td>\n<td><strong>Syndication</strong><br>1952-09-01</td>\n<td><strong>Sustaining</strong><br>Mystery Narrative</td>\n<td><strong>Marvin Miller (Narrator)</strong></td>\n<td><strong>Syndicated Drama Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Drama&quot;, &quot;Armchair Adventures&quot;, &quot;Marvin Miller&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A wealthy collector hires an expert to appraise a rare stolen canvas only to realize the appraiser orchestrated the theft.</td>\n</tr>\n<tr>\n<td><code>KOMO_1959_JazzToday.mp3</code> <br><em>Alt</em>: <code>Jazz Today - KOMO</code></td>\n<td><strong>&quot;Modern West Coast Jazz and Cool School Showcase with KOMO Seattle&quot;</strong></td>\n<td><strong>KOMO Seattle</strong><br>1959-09-01</td>\n<td><strong>Sustaining</strong><br>Jazz Radio Session</td>\n<td><strong>KOMO Disc Jockey</strong></td>\n<td><strong>KOMO Seattle Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;West Coast Jazz&quot;, &quot;KOMO&quot;, &quot;Seattle&quot;]</code></td>\n<td>An evening jazz broadcast presents West Coast cool jazz recordings alongside historical context on modern Pacific Northwest jazz clubs.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 168 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 541 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "The Whistler",
+        "Bill Forman",
+        "Signal Oil",
+        "Dick Tracy",
+        "Howard Culver",
+        "Chester Gould",
+        "Swifts Frankfurters",
+        "Tennessee Jed",
+        "Johnny Thomas",
+        "Wards Tip-Top Bread",
+        "Manhattan Merry-Go-Round",
+        "Evelyn MacGregor",
+        "Bob Hannon",
+        "Dr Lyons Tooth Powder",
+        "Armchair Adventures",
+        "Marvin Miller",
+        "Jazz Today",
+        "KOMO Seattle",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-540-johnny-mercer-rudy-vallee-ma-perkins-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-540-johnny-mercer-rudy-vallee-ma-perkins-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Johnny Mercer, Rudy Vallee, and Ma Perkins",
