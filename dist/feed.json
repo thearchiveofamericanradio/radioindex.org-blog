@@ -41,6 +41,44 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-443-nero-wolfe-count-basie-bob-and-ray-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-443-nero-wolfe-count-basie-bob-and-ray-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — Nero Wolfe, Count Basie on Jubilee, and Bob & Ray",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 443)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio and wartime AFRS recordings, Santos Ortega as Rex Stout&#39;s orchid-growing detective <em>Nero Wolfe</em> in <em>The Case of the Murderous Signature</em> (1943), Ernie Whitman hosting Count Basie and Lena Horne on <em>Jubilee</em> (Program 43, 1943), Bob &amp; Ray&#39;s satirical radio bits on WHDH (1948, 1949), Spring Byington in <em>December Bride</em> (1953), and Jimmy Wakely&#39;s western melodies (1943–1953):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 443)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Wakely_1953_Range.mp3</code> <br><em>Alt</em>: <code>Jimmy Wakely Rhythm of Range</code></td>\n<td><strong>&quot;Rhythm of the Range with The Plainsmen&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1953-08-30<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Western Music</td>\n<td><strong>Jimmy Wakely</strong>, <strong>Plainsmen</strong></td>\n<td><strong>Jimmy Wakely Show Staff</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Country&quot;, &quot;Music&quot;, &quot;Jimmy Wakely&quot;, &quot;Vocal&quot;]</code></td>\n<td>Cowboy crooner Jimmy Wakely sings western ballads and leads guitar harmonies on Rhythm of the Range.</td>\n</tr>\n<tr>\n<td><code>Bob_Ray_1948_Scouts.mp3</code> <br><em>Alt</em>: <code>Visit Lyle Gump Good Scouts</code></td>\n<td><strong>&quot;Arthur Sturdley&#39;s Good Scouts and Lyle Gump&quot;</strong></td>\n<td><strong>WHDH Boston</strong><br>1948-08-30</td>\n<td><strong>Sustaining</strong><br>Radio Satire</td>\n<td><strong>Bob Elliott</strong>, <strong>Ray Goulding</strong></td>\n<td><strong>Bob &amp; Ray (Writers)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Parody&quot;, &quot;Bob and Ray&quot;, &quot;WHDH&quot;]</code></td>\n<td>Bob and Ray lampoon pompous youth troop leaders and interview bewildered soap opera character Lyle Gump.</td>\n</tr>\n<tr>\n<td><code>Bob_Ray_1949_Eddie.mp3</code> <br><em>Alt</em>: <code>Laughing Eddie Upjohn</code></td>\n<td><strong>&quot;Laughing Eddie Upjohn and the McBeeBee Twins&quot;</strong></td>\n<td><strong>WHDH Boston</strong><br>1949-08-30</td>\n<td><strong>Sustaining</strong><br>Radio Satire</td>\n<td><strong>Bob Elliott</strong>, <strong>Ray Goulding</strong></td>\n<td><strong>Bob &amp; Ray (Writers)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Parody&quot;, &quot;Bob and Ray&quot;, &quot;WHDH&quot;]</code></td>\n<td>The comedic duo parody studio game show announcers with the uncontrollably giggling contestant Eddie Upjohn.</td>\n</tr>\n<tr>\n<td><code>Dec_Bride_1953_Match.mp3</code> <br><em>Alt</em>: <code>December Bride Lily Byington</code></td>\n<td><strong>&quot;Lily Plays Matchmaker with Spring Byington&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1953-08-30<br>7:00 PM EDT</td>\n<td><strong>General Foods</strong><br>Instant Maxwell House Coffee</td>\n<td><strong>Spring Byington</strong>, <strong>March</strong></td>\n<td><strong>Parke Levy (Creator)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Domestic&quot;, &quot;Spring Byington&quot;, &quot;Parke Levy&quot;]</code></td>\n<td>Lively widow Lily Ruskin schemes to find a romantic match for her cynical neighbor Pete, causing chaos for her son-in-law.</td>\n</tr>\n<tr>\n<td><code>Nero_Wolfe_1943_Signature.mp3</code> <br><em>Alt</em>: <code>TCOT Murderous Signature Wolfe</code></td>\n<td><strong>&quot;The Case of the Murderous Signature&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1943-08-30<br>8:30 PM EWT</td>\n<td><strong>Jergens-Woodbury</strong><br>Woodbury Facial Soap</td>\n<td><strong>Santos Ortega</strong>, <strong>van Rooten</strong></td>\n<td><strong>Rex Stout (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Nero Wolfe&quot;, &quot;Rex Stout&quot;, &quot;Santos Ortega&quot;]</code></td>\n<td>Nero Wolfe deduces how an authentic signature on a fraudulent codicil reveals the identity of a wealthy financier&#39;s killer.</td>\n</tr>\n<tr>\n<td><code>Jubilee_1943_Basie_Horne.mp3</code> <br><em>Alt</em>: <code>Jubilee 43 Basie Lena Horne</code></td>\n<td><strong>&quot;Host Ernie Whitman with Count Basie and Lena Horne (AFRS Program 43)&quot;</strong></td>\n<td><strong>AFRS (Program 43)</strong><br>1943-08-30</td>\n<td><strong>Armed Forces Radio</strong><br>U.S. War Department</td>\n<td><strong>Ernie Whitman</strong>, <strong>Basie</strong>, <strong>Horne</strong></td>\n<td><strong>AFRS Jubilee Staff</strong></td>\n<td><code>[&quot;Jazz&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;AFRS&quot;, &quot;Count Basie&quot;]</code></td>\n<td>Ernie Whitman presents Count Basie&#39;s swinging big band, Lena Horne&#39;s smoky torch songs, and jubilee gospel harmonies for overseas troops.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 330 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 443 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "The New Adventures of Nero Wolfe",
+        "Santos Ortega",
+        "Luis van Rooten",
+        "Rex Stout",
+        "Jubilee",
+        "Ernie Whitman",
+        "Count Basie",
+        "Lena Horne",
+        "Golden Gate Quartet",
+        "AFRS",
+        "Bob and Ray",
+        "Bob Elliott",
+        "Ray Goulding",
+        "WHDH Boston",
+        "December Bride",
+        "Spring Byington",
+        "Parke Levy",
+        "Jimmy Wakely",
+        "Rhythm of the Range",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-442-first-nighter-best-plays-i-deal-in-crime-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-442-first-nighter-best-plays-i-deal-in-crime-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — The First Nighter, Best Plays, and I Deal in Crime",
