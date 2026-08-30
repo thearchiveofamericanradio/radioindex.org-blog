@@ -41,6 +41,43 @@
       ]
     },
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-30-walk-423-the-hobbit-bing-crosby-tubby-hayes-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-30-walk-423-the-hobbit-bing-crosby-tubby-hayes-enriched",
+      "title": "Archival Dispatch: August 30 Calendar Walk — The Hobbit, Bing Crosby, and Tubby Hayes",
+      "content_html": "<h2>August 30 Archival Metadata Enrichment (Increment 423)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 30</strong> across American network radio, British modern jazz broadcasting, and landmark fantasy audio dramatizations, <em>The Mind&#39;s Eye</em> audio adaptations of J.R.R. Tolkien&#39;s <em>The Hobbit</em> and Kenneth Grahame&#39;s <em>The Wind in the Willows</em> (1983–1985), Bing Crosby and Rosemary Clooney singing <em>Anything Goes</em> with Buddy Cole (1961), British tenor saxophonist Tubby Hayes on <em>Play It Cool</em> (1964), Blake Edwards&#39; hard-hitting police procedural <em>The Line-Up</em> (1951), and <em>Lum and Abner</em> planning a St. Louis trip for Frigidaire (1948–1985):</p>\n<hr>\n<h2>1. <em>August 30 Archival Inventory (Increment 423)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Lum_Abner_1948_StLouis.mp3</code> <br><em>Alt</em>: <code>Abner Trip St Louis</code></td>\n<td><strong>&quot;Abner Plans a Trip to St. Louis&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-08-30<br>8:00 PM EDT</td>\n<td><strong>General Motors</strong><br>Frigidaire Appliances</td>\n<td><strong>Chester Lauck</strong>, <strong>Goff</strong></td>\n<td><strong>Lauck &amp; Norris Goff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Rural&quot;, &quot;Sitcom&quot;, &quot;Americana&quot;, &quot;Frigidaire&quot;]</code></td>\n<td>Abner decides to spend his remaining savings on a luxury train trip to St. Louis, prompting Lum to devise a frugal alternative.</td>\n</tr>\n<tr>\n<td><code>Play_It_Cool_1964_Hayes.mp3</code> <br><em>Alt</em>: <code>Tubby Hayes Quintet</code></td>\n<td><strong>&quot;Guest Tubby Hayes and His Quintet&quot;</strong></td>\n<td><strong>BBC Light Programme</strong><br>1964-08-30<br>4:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Modern Jazz</td>\n<td><strong>Tubby Hayes &amp; Quintet</strong></td>\n<td><strong>BBC Jazz Production Staff</strong></td>\n<td><code>[&quot;Jazz&quot;, &quot;Hard Bop&quot;, &quot;British&quot;, &quot;Modern Jazz&quot;, &quot;BBC&quot;]</code></td>\n<td>Tubby Hayes leads his modern jazz quintet in high-tempo hard bop compositions and melodic ballad improvisations.</td>\n</tr>\n<tr>\n<td><code>Bing_Rosie_1961_Goes.mp3</code> <br><em>Alt</em>: <code>Anything Goes Crosby Clooney</code></td>\n<td><strong>&quot;Anything Goes with Buddy Cole&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1961-08-30<br>10:45 AM EDT</td>\n<td><strong>Sustaining</strong><br>Morning Vocal Variety</td>\n<td><strong>Bing Crosby</strong>, <strong>Clooney</strong></td>\n<td><strong>Buddy Cole and His Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Pop Standards&quot;, &quot;Easy Listening&quot;, &quot;Duet&quot;]</code></td>\n<td>Bing Crosby and Rosemary Clooney sing Cole Porter&#39;s Anything Goes and trade lighthearted show-business humor with Buddy Cole.</td>\n</tr>\n<tr>\n<td><code>Line_Up_1951_Firebugs.mp3</code> <br><em>Alt</em>: <code>Warehouse Firebugs Line Up</code></td>\n<td><strong>&quot;The Case of the Warehouse Firebugs&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-08-30<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>William Daniels</strong>, <strong>Moyles</strong></td>\n<td><strong>Blake Edwards (Writer)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Crime&quot;, &quot;Docudrama&quot;, &quot;Blake Edwards&quot;]</code></td>\n<td>Lieutenant Ben Guthrie and Sergeant Matt Grebb interrogate suspect arsonists after a string of suspicious waterfront warehouse blazes.</td>\n</tr>\n<tr>\n<td><code>Minds_Eye_1983_Hobbit1.mp3</code> <br><em>Alt</em>: <code>The Minds Eye Hobbit 1</code></td>\n<td><strong>&quot;The Hobbit (Chapter 1 - An Unexpected Party)&quot;</strong></td>\n<td><strong>NPR / Mind&#39;s Eye</strong><br>1983-08-30</td>\n<td><strong>Sustaining</strong><br>Audio Dramatization</td>\n<td><strong>Ray Reinhardt</strong>, <strong>Mayes</strong></td>\n<td><strong>J.R.R. Tolkien &amp; Bob Lewis</strong></td>\n<td><code>[&quot;Fantasy&quot;, &quot;Classics&quot;, &quot;Adventure&quot;, &quot;Adaptation&quot;, &quot;Tolkien&quot;]</code></td>\n<td>Comfortable hobbit Bilbo Baggins is startled when wizard Gandalf and thirteen dwarves arrive uninvited to recruit him for a dragon quest.</td>\n</tr>\n<tr>\n<td><code>Minds_Eye_1985_Willows1.mp3</code> <br><em>Alt</em>: <code>Wind In The Willows 1</code></td>\n<td><strong>&quot;The Wind in the Willows (Part 1 - The River Bank)&quot;</strong></td>\n<td><strong>NPR / Mind&#39;s Eye</strong><br>1985-08-30</td>\n<td><strong>Sustaining</strong><br>Audio Dramatization</td>\n<td><strong>Bernard Mayes</strong>, <strong>Reinhardt</strong></td>\n<td><strong>Kenneth Grahame (Author)</strong></td>\n<td><code>[&quot;Children&#39;s&quot;, &quot;Classics&quot;, &quot;Animal Fantasy&quot;, &quot;Adaptation&quot;, &quot;Audio Drama&quot;]</code></td>\n<td>Mole abandons his spring housecleaning to explore the tranquil riverbank where he befriends Water Rat and learns to row a boat.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 30</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 30</strong>: 210 / 377</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 30 Archival Metadata Enrichment Increment 423 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "August 30",
+        "Calendar Walk",
+        "The Mind's Eye",
+        "J.R.R. Tolkien",
+        "The Hobbit",
+        "Bilbo Baggins",
+        "Gandalf",
+        "The Wind in the Willows",
+        "Kenneth Grahame",
+        "Bing Crosby",
+        "Rosemary Clooney",
+        "Buddy Cole",
+        "Anything Goes",
+        "Tubby Hayes",
+        "Modern Jazz",
+        "BBC Light Programme",
+        "The Line-Up",
+        "Blake Edwards",
+        "Lum and Abner",
+        "Frigidaire",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-30-walk-422-murder-at-midnight-lum-and-abner-romance-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-30-walk-422-murder-at-midnight-lum-and-abner-romance-enriched",
       "title": "Archival Dispatch: August 30 Calendar Walk — Murder at Midnight, Lum and Abner, and Romance",
