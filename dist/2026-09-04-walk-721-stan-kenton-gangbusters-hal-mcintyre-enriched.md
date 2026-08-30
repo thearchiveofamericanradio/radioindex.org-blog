@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Stan Kenton, Gangbusters & Hal McIntyre
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, One Night Stand, Stan Kenton, June Christy, Pete Rugolo, Hollywood Palladium, Hal McIntyre, Les Brown, Band of Renown, AFRS, Gangbusters, Phillips H. Lord, H. Norman Schwarzkopf, Sloan's Liniment, Night Cap Yarns, Henry Hunter, WBBM Chicago, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 721)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across blazing progressive jazz innovations with Stan Kenton live from the Hollywood Palladium, Hal McIntyre and Les Brown swinging for armed forces personnel overseas on *One Night Stand*, Phillips H. Lord's explosive true-crime police manhunts on *Gangbusters*, and whimsical metaphysical late-night storytelling with Henry Hunter on WBBM Chicago, Stan Kenton (1946), Hal McIntyre (1944), Les Brown (1945), Phillips H. Lord (1942, 1957), and Henry Hunter (1939–1957):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 721)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `OneNightStand_1946_StanKenton.mp3` <br>*Alt*: `First Tune - Lover One Night Stand` | **"Lover with Stan Kenton and His Orchestra"** | **AFRS / Palladium**<br>1946-09-04 | **Armed Forces Radio**<br>Troop Entertainment | **Stan Kenton & Christy** | **Pete Rugolo (Arr.)** | `["Music", "Jazz", "One Night Stand", "Stan Kenton", "Hollywood Palladium"]` | Stan Kenton directs his progressive jazz orchestra in dynamic wall-of-sound brass arrangements and rhythmic tempo experiments. |
+| `OneNightStand_1944_HalMcIntyre.mp3` <br>*Alt*: `First Song - There Are No Wings On A Foxhole One Night Stand` | **"There Are No Wings on a Foxhole with Hal McIntyre"** | **AFRS Transcription**<br>1944-09-04 | **Armed Forces Radio**<br>Troop Entertainment | **Hal McIntyre & Orch.** | **Ruth Gaylor (Vocals)** | `["Music", "Big Band", "One Night Stand", "Hal McIntyre", "AFRS"]` | Hal McIntyre leads his swing orchestra in soaring brass ballads and popular dance tunes recorded for military servicemen overseas. |
+| `OneNightStand_1945_LesBrown.mp3` <br>*Alt*: `My Pet Brunette One Night Stand` | **"My Pet Brunette with Les Brown and His Band of Renown"** | **AFRS Transcription**<br>1945-09-04 | **Armed Forces Radio**<br>Troop Entertainment | **Les Brown & Jack Haskell** | **Band of Renown** | `["Music", "Big Band", "One Night Stand", "Les Brown", "AFRS"]` | Les Brown's orchestra plays energetic big band swing standards and romantic fox-trots broadcasting for troop entertainment. |
+| `Gangbusters_1942_WesternTorpedo.mp3` <br>*Alt*: `The Case Of The Western Torpedo Gangbusters` | **"The Case of the Western Torpedo with Phillips H. Lord"** | **Blue Network**<br>1942-09-04<br>8:00 PM EWT | **Dr. Earl S. Sloan**<br>Sloan's Liniment | **Col. Norman Schwarzkopf** | **Phillips H. Lord (Prod.)** | `["Police", "True Crime", "Gangbusters", "Phillips H Lord", "Sloans Liniment"]` | Federal agents and state troopers launch a multistate manhunt to track down a ruthless bank-robbing explosives expert. |
+| `Gangbusters_1957_ArmoredCar.mp3` <br>*Alt*: `Gangbusters 1957 Episode` | **"The St. Louis Armored Car Robbery with Mutual"** | **Mutual (WOR)**<br>1957-09-04<br>8:00 PM EDT | **Sustaining**<br>Police Procedural | **Mutual Dramatic Cast** | **Phillips H. Lord (Prod.)** | `["Police", "True Crime", "Gangbusters", "Phillips H Lord", "Mutual"]` | St. Louis police detectives analyze ballistic tire treads and discarded weaponry to trap an organized armored payroll car robbery gang. |
+| `NightCap_1939_OutsideWorld.mp3` <br>*Alt*: `Outside This World Night Cap Yarns` | **"Outside This World with Henry Hunter"** | **WBBM Chicago / CBS**<br>1939-09-04 | **Sustaining**<br>Metaphysical Fable | **Henry Hunter (Host)** | **WBBM Studio Staff** | `["Fantasy", "Storytelling", "Night Cap Yarns", "Henry Hunter", "WBBM"]` | Henry Hunter narrates a whimsical metaphysical fable about an eccentric clockmaker who stumbles upon a pocket of timeless reality. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 48 / 471 (359 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
