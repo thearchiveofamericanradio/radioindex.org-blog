@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-607-jane-wyman-dick-tracy-tennessee-jed-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-607-jane-wyman-dick-tracy-tennessee-jed-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Jane Wyman, Dick Tracy & Tennessee Jed",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 607)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across romantic literary drama, screwball radio comedies, candy-sponsored comic strip police adventures, western frontier scouting serials, and historical wartime retrospectives, Jane Wyman starring in <em>To Mary with Love</em> on <em>Hallmark Playhouse</em> (1948) and <em>Weekend for Three</em> on <em>The Screen Guild Theater</em> (1946), Matt Crowley as <em>Dick Tracy</em> for Tootsie Roll (1946, 1947), <em>Tennessee Jed</em> for Tip-Top Bread (1946), and Vera Lynn on WRVR New York (1946–1967):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 607)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Hallmark_1948_ToMaryWithLove.mp3</code> <br><em>Alt</em>: <code>Hallmark Playhouse To Mary With Love</code></td>\n<td><strong>&quot;To Mary with Love with Jane Wyman and James Hilton&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-09-02<br>10:00 PM EDT</td>\n<td><strong>Hallmark Cards</strong><br>Greeting Cards</td>\n<td><strong>Jane Wyman</strong>, <strong>Hilton</strong></td>\n<td><strong>Lyn Murray Orchestra</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Hallmark Playhouse&quot;, &quot;Jane Wyman&quot;, &quot;James Hilton&quot;]</code></td>\n<td>A devoted couple navigates economic hardship, personal tragedy, and lingering misunderstandings across two decades of marriage.</td>\n</tr>\n<tr>\n<td><code>ScreenGuild_1946_WeekendThree.mp3</code> <br><em>Alt</em>: <code>The Screen Guild Theater (312) Weekend for Three</code></td>\n<td><strong>&quot;Weekend for Three with Dennis O&#39;Keefe and Jane Wyman&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1946-09-02<br>10:00 PM EDT</td>\n<td><strong>Lady Esther</strong><br>Face Cream &amp; Cosmetics</td>\n<td><strong>Dennis O&#39;Keefe</strong>, <strong>Wyman</strong></td>\n<td><strong>Truman Bradley (Host)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Romance&quot;, &quot;Screen Guild Theater&quot;, &quot;Dennis OKeefe&quot;, &quot;Jane Wyman&quot;]</code></td>\n<td>A newlywed husband&#39;s domestic peace is disrupted when his wife&#39;s eccentric college suitor arrives for an open-ended house visit.</td>\n</tr>\n<tr>\n<td><code>Tracy_1946_FlattopJr.mp3</code> <br><em>Alt</em>: <code>Dick Tracy 1946 Episode</code></td>\n<td><strong>&quot;The Flattop Junior Counterfeit Gang with Tootsie V.M.&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-02<br>5:00 PM EDT</td>\n<td><strong>Sweets Co. of America</strong><br>Tootsie Rolls &amp; V.M.</td>\n<td><strong>Matt Crowley (Tracy)</strong></td>\n<td><strong>Howard Smith &amp; Kinsella</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Police&quot;, &quot;Adventure&quot;, &quot;Dick Tracy&quot;, &quot;Tootsie Roll&quot;]</code></td>\n<td>Dick Tracy tracks a criminal ring using a carnival sideshow wagon to circulate counterfeit ten-dollar treasury notes.</td>\n</tr>\n<tr>\n<td><code>Tracy_1947_StolenFormula.mp3</code> <br><em>Alt</em>: <code>Dick Tracy 1947 Episode</code></td>\n<td><strong>&quot;The Case of the Stolen Formula with Sweets Company&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1947-09-02<br>5:00 PM EDT</td>\n<td><strong>Sweets Co. of America</strong><br>Tootsie Rolls</td>\n<td><strong>Matt Crowley (Tracy)</strong></td>\n<td><strong>Howard Smith (Cast)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Police&quot;, &quot;Adventure&quot;, &quot;Dick Tracy&quot;, &quot;Tootsie Roll&quot;]</code></td>\n<td>Dick Tracy pursues underworld gunmen who rob a municipal research laboratory of an experimental jet propulsion chemical.</td>\n</tr>\n<tr>\n<td><code>Tennessee_1946_GhostCanyon.mp3</code> <br><em>Alt</em>: <code>Tennessee Jed 1946 Episode</code></td>\n<td><strong>&quot;The Outlaws of Ghost Canyon with Ward Bread&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-02<br>5:15 PM EDT</td>\n<td><strong>Ward Baking Co.</strong><br>Tip-Top Bread</td>\n<td><strong>Johnny Thomas (Jed)</strong></td>\n<td><strong>Humphrey Davis (Cook)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Tennessee Jed&quot;, &quot;Tip Top Bread&quot;, &quot;ABC&quot;]</code></td>\n<td>Frontier scout Tennessee Jed Sloan unmasks masked cattle rustlers using spooky cavern echoes to frighten ranch hands away from water holes.</td>\n</tr>\n<tr>\n<td><code>WRVR_1967_VeraLynn.mp3</code> <br><em>Alt</em>: <code>Vera Lynn WRVR New York</code></td>\n<td><strong>&quot;Vera Lynn Retrospective on Wartime British Radio&quot;</strong></td>\n<td><strong>WRVR 106.7 FM</strong><br>1967-09-02</td>\n<td><strong>Sustaining</strong><br>Non-Commercial FM</td>\n<td><strong>Dame Vera Lynn</strong></td>\n<td><strong>WRVR Music Desk</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Interview&quot;, &quot;History&quot;, &quot;Vera Lynn&quot;, &quot;WRVR&quot;]</code></td>\n<td>Archival recordings and interviews highlight Vera Lynn&#39;s iconic troop concerts and BBC broadcasts during the Second World War.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 254 / 480 (226 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 607 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Hallmark Playhouse",
+        "Jane Wyman",
+        "James Hilton",
+        "Hallmark Cards",
+        "The Screen Guild Theater",
+        "Dennis OKeefe",
+        "Lady Esther",
+        "Dick Tracy",
+        "Matt Crowley",
+        "Tootsie Roll",
+        "Tennessee Jed",
+        "Tip Top Bread",
+        "WRVR New York",
+        "Vera Lynn",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-606-rudy-vallee-vera-lynn-uss-missouri-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-606-rudy-vallee-vera-lynn-uss-missouri-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Rudy Vallee, Vera Lynn & USS Missouri Signatures",
