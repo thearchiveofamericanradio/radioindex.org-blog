@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Sam Spade, Rocky Jordan & Superman
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, The Adventures of Sam Spade, Howard Duff, Lurene Tuttle, Wildroot, The Adventures of Rocky Jordan, Jack Moyles, Del Monte Foods, The Adventures of Superman, Clayton Bud Collyer, Serial Story Arc, Professor Thorpe's Bathysphere, Kellogg's Pep, Night Watch, Donn Reed, Culver City Police, All Gas and Gaiters, Derek Nimmo, Robertson Hare, BBC Radio 4, Breakfast Club, Don McNeill, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 729)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on **September 4** across Howard Duff's hardboiled sleuthing on *The Adventures of Sam Spade* for Wildroot Cream-Oil, Jack Moyles facing North African intrigue on *The Adventures of Rocky Jordan* for Del Monte Foods, Bud Collyer racing against time in *Professor Thorpe's Bathysphere* on *The Adventures of Superman*, real-life police documentary recordings on *Night Watch*, ecclesiastical British comedy on *All Gas and Gaiters*, and cheerful morning radio with Don McNeill on *The Breakfast Club*, Howard Duff (1949), Jack Moyles (1949), Bud Collyer (1940), Donn Reed (1954), Derek Nimmo (1972), and Don McNeill (1940–1972):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 729)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Arc Metadata | Story Synopsis |
+|---|---|---|---|---|---|---|---|---|
+| `SamSpade_1949_FlashbackCaper.mp3` <br>*Alt*: `The Flashback Caper Adventures of Sam Spade, The` | **"The Flashback Caper with Howard Duff as Sam Spade"** | **NBC (KNBC)**<br>1949-09-04<br>8:00 PM EDT | **Wildroot Co.**<br>Wildroot Cream-Oil | **Howard Duff & Tuttle** | **Gil Doud & Bob Tallman** | `["Detective", "Hardboiled", "The Adventures of Sam Spade", "Howard Duff", "Wildroot"]` | `null` | Sam Spade is hired by an amnesiac photographer attempting to reconstruct the fragmented memories of a deadly hit-and-run collision. |
+| `RockyJordan_1949_StrangerDesert.mp3` <br>*Alt*: `A Stranger To The Desert Adventures of Rocky Jordan, The` | **"A Stranger to the Desert with Jack Moyles as Rocky Jordan"** | **CBS (KNX)**<br>1949-09-04<br>6:30 PM EDT | **California Packing**<br>Del Monte Brand Foods | **Jack Moyles (Rocky)** | **Larry Roman & Novello** | `["Detective", "Adventure", "Rocky Jordan", "Jack Moyles", "Del Monte"]` | `null` | Cafe proprietor Rocky Jordan is drawn into a lethal desert ambush after sheltering a wounded European refugee carrying an ancient map. |
+| `Superman_1940_Thorpe5.mp3` <br>*Alt*: `Professor Thorpe's Bathysphere, Part 5 of 12 Adventures of Superman, The` | **"Professor Thorpe's Bathysphere (Part 5) with Bud Collyer"** | **Mutual (WOR)**<br>1940-09-04<br>5:15 PM EDST | **Sustaining / Kellogg**<br>Kellogg's Pep | **Bud Collyer (Superman)** | **Siegel & Shuster (Creators)** | `["Superhero", "Adventure", "Superman", "Bud Collyer", "Kellogg"]` | `{"title": "Professor Thorpe's Bathysphere", "part": 5, "total_parts": 12}` | Clark Kent races against the clock to rescue deep-sea explorer Professor Thorpe after sabotage severs the air lines to his submerged ocean sphere. |
+| `NightWatch_1954_WesternUnion.mp3` <br>*Alt*: `Fence 447 And Western Union Raid Night Watch` | **"Fence 447 and Western Union Raid with Donn Reed"** | **CBS (KNX)**<br>1954-09-04<br>8:30 PM EDT | **Sustaining**<br>Police Documentary | **Donn Reed (Recorder)** | **Culver City Police Staff** | `["Police", "Documentary", "Night Watch", "Donn Reed", "CBS"]` | `null` | Tape recorder in hand, Donn Reed rides along with patrol officers raiding a suspected stolen property fencing operation and securing a burgled telegraph office. |
+| `AllGasGaiters_1972_BishopNeighbour.mp3` <br>*Alt*: `The Bishop Loves His Neighbour All Gas And Gaiters` | **"The Bishop Loves His Neighbour with Derek Nimmo"** | **BBC Radio 4**<br>1972-09-04 | **Sustaining**<br>British Sitcom | **Robertson Hare & Nimmo** | **Devaney & Apps (Writers)** | `["Comedy", "Sitcom", "All Gas And Gaiters", "Derek Nimmo", "BBC Radio 4"]` | `null` | Clerical pandemonium ensues across the cathedral close when the Bishop attempts to mediate a boundary dispute with an eccentric neighbor. |
+| `BreakfastClub_1959_BornCemetery.mp3` <br>*Alt*: `He Was Born In A Cemetery Breakfast Club` | **"He Was Born in a Cemetery with Don McNeill"** | **ABC (WLS)**<br>1959-09-04<br>9:00 AM EDT | **Swift & Company**<br>Swift's Premium Meats | **Don McNeill & Allison** | **Sam Cowling & Staff** | `["Variety", "Morning", "Breakfast Club", "Don McNeill", "Swift"]` | `null` | Don McNeill shares lively audience banter, humor from the Memory Time segment, and cheerful early-morning musical selections. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 96 / 471 (311 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

@@ -6,6 +6,84 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-729-sam-spade-rocky-jordan-superman-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-729-sam-spade-rocky-jordan-superman-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Sam Spade, Rocky Jordan & Superman",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 729)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Howard Duff&#39;s hardboiled sleuthing on <em>The Adventures of Sam Spade</em> for Wildroot Cream-Oil, Jack Moyles facing North African intrigue on <em>The Adventures of Rocky Jordan</em> for Del Monte Foods, Bud Collyer racing against time in <em>Professor Thorpe&#39;s Bathysphere</em> on <em>The Adventures of Superman</em>, real-life police documentary recordings on <em>Night Watch</em>, ecclesiastical British comedy on <em>All Gas and Gaiters</em>, and cheerful morning radio with Don McNeill on <em>The Breakfast Club</em>, Howard Duff (1949), Jack Moyles (1949), Bud Collyer (1940), Donn Reed (1954), Derek Nimmo (1972), and Don McNeill (1940–1972):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 729)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SamSpade_1949_FlashbackCaper.mp3</code> <br><em>Alt</em>: <code>The Flashback Caper Adventures of Sam Spade, The</code></td>\n<td><strong>&quot;The Flashback Caper with Howard Duff as Sam Spade&quot;</strong></td>\n<td><strong>NBC (KNBC)</strong><br>1949-09-04<br>8:00 PM EDT</td>\n<td><strong>Wildroot Co.</strong><br>Wildroot Cream-Oil</td>\n<td><strong>Howard Duff &amp; Tuttle</strong></td>\n<td><strong>Gil Doud &amp; Bob Tallman</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;The Adventures of Sam Spade&quot;, &quot;Howard Duff&quot;, &quot;Wildroot&quot;]</code></td>\n<td><code>null</code></td>\n<td>Sam Spade is hired by an amnesiac photographer attempting to reconstruct the fragmented memories of a deadly hit-and-run collision.</td>\n</tr>\n<tr>\n<td><code>RockyJordan_1949_StrangerDesert.mp3</code> <br><em>Alt</em>: <code>A Stranger To The Desert Adventures of Rocky Jordan, The</code></td>\n<td><strong>&quot;A Stranger to the Desert with Jack Moyles as Rocky Jordan&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1949-09-04<br>6:30 PM EDT</td>\n<td><strong>California Packing</strong><br>Del Monte Brand Foods</td>\n<td><strong>Jack Moyles (Rocky)</strong></td>\n<td><strong>Larry Roman &amp; Novello</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Adventure&quot;, &quot;Rocky Jordan&quot;, &quot;Jack Moyles&quot;, &quot;Del Monte&quot;]</code></td>\n<td><code>null</code></td>\n<td>Cafe proprietor Rocky Jordan is drawn into a lethal desert ambush after sheltering a wounded European refugee carrying an ancient map.</td>\n</tr>\n<tr>\n<td><code>Superman_1940_Thorpe5.mp3</code> <br><em>Alt</em>: <code>Professor Thorpe&#39;s Bathysphere, Part 5 of 12 Adventures of Superman, The</code></td>\n<td><strong>&quot;Professor Thorpe&#39;s Bathysphere (Part 5) with Bud Collyer&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1940-09-04<br>5:15 PM EDST</td>\n<td><strong>Sustaining / Kellogg</strong><br>Kellogg&#39;s Pep</td>\n<td><strong>Bud Collyer (Superman)</strong></td>\n<td><strong>Siegel &amp; Shuster (Creators)</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Adventure&quot;, &quot;Superman&quot;, &quot;Bud Collyer&quot;, &quot;Kellogg&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Professor Thorpe&#39;s Bathysphere&quot;, &quot;part&quot;: 5, &quot;total_parts&quot;: 12}</code></td>\n<td>Clark Kent races against the clock to rescue deep-sea explorer Professor Thorpe after sabotage severs the air lines to his submerged ocean sphere.</td>\n</tr>\n<tr>\n<td><code>NightWatch_1954_WesternUnion.mp3</code> <br><em>Alt</em>: <code>Fence 447 And Western Union Raid Night Watch</code></td>\n<td><strong>&quot;Fence 447 and Western Union Raid with Donn Reed&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1954-09-04<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Documentary</td>\n<td><strong>Donn Reed (Recorder)</strong></td>\n<td><strong>Culver City Police Staff</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Documentary&quot;, &quot;Night Watch&quot;, &quot;Donn Reed&quot;, &quot;CBS&quot;]</code></td>\n<td><code>null</code></td>\n<td>Tape recorder in hand, Donn Reed rides along with patrol officers raiding a suspected stolen property fencing operation and securing a burgled telegraph office.</td>\n</tr>\n<tr>\n<td><code>AllGasGaiters_1972_BishopNeighbour.mp3</code> <br><em>Alt</em>: <code>The Bishop Loves His Neighbour All Gas And Gaiters</code></td>\n<td><strong>&quot;The Bishop Loves His Neighbour with Derek Nimmo&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1972-09-04</td>\n<td><strong>Sustaining</strong><br>British Sitcom</td>\n<td><strong>Robertson Hare &amp; Nimmo</strong></td>\n<td><strong>Devaney &amp; Apps (Writers)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;All Gas And Gaiters&quot;, &quot;Derek Nimmo&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td><code>null</code></td>\n<td>Clerical pandemonium ensues across the cathedral close when the Bishop attempts to mediate a boundary dispute with an eccentric neighbor.</td>\n</tr>\n<tr>\n<td><code>BreakfastClub_1959_BornCemetery.mp3</code> <br><em>Alt</em>: <code>He Was Born In A Cemetery Breakfast Club</code></td>\n<td><strong>&quot;He Was Born in a Cemetery with Don McNeill&quot;</strong></td>\n<td><strong>ABC (WLS)</strong><br>1959-09-04<br>9:00 AM EDT</td>\n<td><strong>Swift &amp; Company</strong><br>Swift&#39;s Premium Meats</td>\n<td><strong>Don McNeill &amp; Allison</strong></td>\n<td><strong>Sam Cowling &amp; Staff</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Morning&quot;, &quot;Breakfast Club&quot;, &quot;Don McNeill&quot;, &quot;Swift&quot;]</code></td>\n<td><code>null</code></td>\n<td>Don McNeill shares lively audience banter, humor from the Memory Time segment, and cheerful early-morning musical selections.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 96 / 471 (311 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 729 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Adventures of Sam Spade",
+        "Howard Duff",
+        "Lurene Tuttle",
+        "Wildroot",
+        "The Adventures of Rocky Jordan",
+        "Jack Moyles",
+        "Del Monte Foods",
+        "The Adventures of Superman",
+        "Clayton Bud Collyer",
+        "Serial Story Arc",
+        "Professor Thorpe's Bathysphere",
+        "Kellogg's Pep",
+        "Night Watch",
+        "Donn Reed",
+        "Culver City Police",
+        "All Gas and Gaiters",
+        "Derek Nimmo",
+        "Robertson Hare",
+        "BBC Radio 4",
+        "Breakfast Club",
+        "Don McNeill",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-728-famous-jury-trials-official-detective-radio-superior-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-728-famous-jury-trials-official-detective-radio-superior-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Famous Jury Trials, Official Detective & Radio Superior",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 728)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across legal courtroom proceedings on <em>Famous Jury Trials</em> for General Mills, Lieutenant Dan Cassidy investigating arsenic homicide on <em>Official Detective</em> for Armstrong Tires, five-part mystery serial arcs on CBS&#39;s <em>Mystery of the Week</em> (Donald Morrison investigating <em>Napoleon&#39;s Chess Table</em> and <em>The Deadly Lover</em>), and Brazilian acoustic samba and bossa nova recordings from Rio de Janeiro&#39;s <em>Radio Superior</em>, Maurice Franklin (1948), Craig McDonnell (1951), Donald Morrison (1946, 1947), and <em>Radio Superior</em> (1939, 1957):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 728)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JuryTrials_1948_StateCross.mp3</code> <br><em>Alt</em>: <code>Famous Jury Trials 1948 Episode</code></td>\n<td><strong>&quot;The State vs. Daniel Cross with Maurice Franklin&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1948-09-04<br>8:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Kix Cereal &amp; Gold Medal</td>\n<td><strong>Maurice Franklin (Judge)</strong></td>\n<td><strong>True Boardman &amp; Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Legal&quot;, &quot;Famous Jury Trials&quot;, &quot;Maurice Franklin&quot;, &quot;General Mills&quot;]</code></td>\n<td><code>null</code></td>\n<td>The trial of a wealthy real estate developer accused of poisoning his business partner over a contested commercial land acquisition.</td>\n</tr>\n<tr>\n<td><code>OfficialDet_1951_Poison.mp3</code> <br><em>Alt</em>: <code>Murder by Poison Official Detective</code></td>\n<td><strong>&quot;Murder by Poison with Craig McDonnell as Dan Cassidy&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-04<br>8:30 PM EDT</td>\n<td><strong>Armstrong Rubber</strong><br>Armstrong Tires</td>\n<td><strong>Craig McDonnell (Cassidy)</strong></td>\n<td><strong>William Sweet (Writer)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Official Detective&quot;, &quot;Craig McDonnell&quot;, &quot;Armstrong Tires&quot;]</code></td>\n<td><code>null</code></td>\n<td>Lieutenant Dan Cassidy investigates the arsenic poisoning of a wealthy industrialist found dead in his private suburban study.</td>\n</tr>\n<tr>\n<td><code>MysteryWeek_1946_ChessTable3.mp3</code> <br><em>Alt</em>: <code>CO Napoleon&#39;s Chess Table (Part 3) Mystery of the Week</code></td>\n<td><strong>&quot;Napoleon&#39;s Chess Table (Part 3) with Donald Morrison&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1946-09-04<br>7:00 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Crisco Vegetable Shortening</td>\n<td><strong>Donald Morrison (Host)</strong></td>\n<td><strong>CBS Mystery Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Mystery of the Week&quot;, &quot;Donald Morrison&quot;, &quot;CBS&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Napoleon&#39;s Chess Table&quot;, &quot;part&quot;: 3, &quot;total_parts&quot;: 5}</code></td>\n<td>An antique appraiser examines secret hollow compartments inside an ivory chessboard, searching for stolen diplomatic treaties.</td>\n</tr>\n<tr>\n<td><code>MysteryWeek_1947_DeadlyLover4.mp3</code> <br><em>Alt</em>: <code>COT Deadly Lover (Part 4) Mystery of the Week</code></td>\n<td><strong>&quot;The Deadly Lover (Part 4) with Donald Morrison&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1947-09-04<br>7:00 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Ivory Snow</td>\n<td><strong>Donald Morrison (Host)</strong></td>\n<td><strong>CBS Mystery Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Mystery of the Week&quot;, &quot;Donald Morrison&quot;, &quot;CBS&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Deadly Lover&quot;, &quot;part&quot;: 4, &quot;total_parts&quot;: 5}</code></td>\n<td>A wealthy heiress realizes her charming fiancé has assumed multiple identities across three states to orchestrate her murder.</td>\n</tr>\n<tr>\n<td><code>RadioSuperior_1939_Samba.mp3</code> <br><em>Alt</em>: <code>1939 September 04 Radio Superior</code></td>\n<td><strong>&quot;Brazilian Bossa and Samba Melodies with Radio Superior&quot;</strong></td>\n<td><strong>Radio Superior Rio</strong><br>1939-09-04</td>\n<td><strong>Sustaining</strong><br>Brazilian Music</td>\n<td><strong>Radio Superior Orch.</strong></td>\n<td><strong>Rio Studio Engineers</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Latin&quot;, &quot;Radio Superior&quot;, &quot;Samba&quot;, &quot;Brazil&quot;]</code></td>\n<td><code>null</code></td>\n<td>A live acoustic broadcast of traditional Brazilian chorinho instrumentals, coastal samba rhythms, and lyrical vocal melodies.</td>\n</tr>\n<tr>\n<td><code>RadioSuperior_1957_Bossa.mp3</code> <br><em>Alt</em>: <code>Radio Superior 1957 Episode</code></td>\n<td><strong>&quot;Golden Age Tropicana Rhythms from Rio de Janeiro&quot;</strong></td>\n<td><strong>Radio Superior Rio</strong><br>1957-09-04</td>\n<td><strong>Sustaining</strong><br>Brazilian Music</td>\n<td><strong>Conjunto Radio Superior</strong></td>\n<td><strong>Rio Studio Engineers</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Latin&quot;, &quot;Radio Superior&quot;, &quot;Bossa Nova&quot;, &quot;Brazil&quot;]</code></td>\n<td><code>null</code></td>\n<td>A studio performance of mid-century tropical bossa nova guitar standards and Latin American percussion arrangements.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 90 / 471 (317 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 728 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Famous Jury Trials",
+        "Maurice Franklin",
+        "True Boardman",
+        "General Mills",
+        "Kix",
+        "Official Detective",
+        "Craig McDonnell",
+        "William Sweet",
+        "Armstrong Tires",
+        "Mystery of the Week",
+        "Donald Morrison",
+        "Procter & Gamble",
+        "Serial Story Arc",
+        "Napoleon's Chess Table",
+        "The Deadly Lover",
+        "Radio Superior",
+        "Samba",
+        "Bossa Nova",
+        "Brazil",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-727-sgt-preston-herbert-marshall-date-with-judy-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-727-sgt-preston-herbert-marshall-date-with-judy-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Sgt. Preston, Herbert Marshall & A Date with Judy",
