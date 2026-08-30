@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-457-gang-busters-green-hornet-moon-over-africa-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-457-gang-busters-green-hornet-moon-over-africa-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Gang Busters, Green Hornet, and Moon Over Africa",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 457)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American network true-crime docudramas, superhero adventures, big band AFRS broadcasts, juvenile African expeditions, and late-night Americana, the historical series debut of Phillips H. Lord&#39;s <em>Gang Busters</em> (as <em>G-Men</em>) detailing the Charles Urschel kidnapping (1935), Robert Hall (1946) and Jack McCarthy (1952) in <em>The Green Hornet</em>, Hal McIntyre&#39;s big band swing for the Armed Forces (1944), <em>The Orchids of Death</em> in <em>Moon Over Africa</em> (1935), and Frank Crumit in <em>Night Cap Yarns</em> (1935–1952):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 457)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Hornet_1946_Dark.mp3</code> <br><em>Alt</em>: <code>Death In The Dark Hornet</code></td>\n<td><strong>&quot;Death in the Dark with Robert Hall&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-08-31<br>7:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Superhero Crime Drama</td>\n<td><strong>Robert Hall</strong>, <strong>Tolan</strong></td>\n<td><strong>Dan Beattie (Writer)</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Mystery&quot;, &quot;Crime&quot;, &quot;The Green Hornet&quot;, &quot;ABC&quot;]</code></td>\n<td>Britt Reid exposes an underground blackmail ring that orchestrates deliberate electrical blackouts to commit bank robberies.</td>\n</tr>\n<tr>\n<td><code>Hornet_1952_DeathsHead.mp3</code> <br><em>Alt</em>: <code>Sign of the Deaths Head</code></td>\n<td><strong>&quot;Sign of the Death&#39;s Head with Jack McCarthy&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-08-31<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Superhero Crime Drama</td>\n<td><strong>Jack McCarthy</strong>, <strong>Tolan</strong></td>\n<td><strong>Trendle &amp; Striker</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Mystery&quot;, &quot;Crime&quot;, &quot;The Green Hornet&quot;, &quot;Mutual&quot;]</code></td>\n<td>The Green Hornet investigates the mysterious skull insignia left at the scene of armed jewel warehouse heists.</td>\n</tr>\n<tr>\n<td><code>ONS_1944_McIntyre.mp3</code> <br><em>Alt</em>: <code>What A Difference McIntyre</code></td>\n<td><strong>&quot;Hal McIntyre and His Orchestra - What a Difference a Day Made&quot;</strong></td>\n<td><strong>AFRS (Program 347)</strong><br>1944-08-31</td>\n<td><strong>U.S. Armed Forces</strong><br>AFRS Military Morale</td>\n<td><strong>Hal McIntyre</strong>, <strong>Gaylor</strong></td>\n<td><strong>Hotel Commodore Staff</strong></td>\n<td><code>[&quot;Big Band&quot;, &quot;Swing&quot;, &quot;Live Music&quot;, &quot;Hal McIntyre&quot;, &quot;AFRS&quot;]</code></td>\n<td>Hal McIntyre and his orchestra broadcast live swing arrangements and romantic ballads for overseas military personnel.</td>\n</tr>\n<tr>\n<td><code>Moon_Africa_1935_Ep21.mp3</code> <br><em>Alt</em>: <code>The Orchids Of Death Africa</code></td>\n<td><strong>&quot;The Orchids of Death (Episode 21)&quot;</strong></td>\n<td><strong>Syndicated Adventure</strong><br>1935-08-31</td>\n<td><strong>Sustaining</strong><br>Adventure Serial</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>George F. Foley Jr. (Prod)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;Serial&quot;, &quot;Africa&quot;, &quot;Pulp&quot;]</code><br><em>Arc</em>: <strong>The Mystery of the Sunken City (Part 21)</strong></td>\n<td>Adventurers searching for a lost civilization in the Congo jungle encounter a treacherous gorge lined with poisonous orchids.</td>\n</tr>\n<tr>\n<td><code>NightCap_1939_Glory.mp3</code> <br><em>Alt</em>: <code>Quiet Glory Frank Crumit</code></td>\n<td><strong>&quot;Quiet Glory with Frank Crumit&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-08-31<br>11:15 PM EDST</td>\n<td><strong>Sustaining</strong><br>Late Night Storytelling</td>\n<td><strong>Frank Crumit</strong> (Host)</td>\n<td><strong>NBC Storytelling Staff</strong></td>\n<td><code>[&quot;Storytelling&quot;, &quot;Folklore&quot;, &quot;Americana&quot;, &quot;Frank Crumit&quot;, &quot;NBC Red&quot;]</code></td>\n<td>Frank Crumit narrates a gentle folk yarn celebrating the quiet resilience and unheralded virtues of small-town heroes.</td>\n</tr>\n<tr>\n<td><code>Gangbusters_1935_Urschel.mp3</code> <br><em>Alt</em>: <code>Urschel Kidnapping Case G-Men</code></td>\n<td><strong>&quot;The Urschel Kidnapping Case (Special G-Men Premiere)&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1935-08-31<br>8:00 PM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Shave Cream</td>\n<td><strong>Phillips H. Lord</strong>, <strong>FBI</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;True Crime&quot;, &quot;Police Procedural&quot;, &quot;FBI&quot;, &quot;Gang Busters&quot;, &quot;Phillips Lord&quot;]</code></td>\n<td>Federal Bureau of Investigation agents track down George &#39;Machine Gun&#39; Kelly following the kidnapping of oil tycoon Charles Urschel.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 42 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 457 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Gang Busters",
+        "Phillips H Lord",
+        "FBI",
+        "Machine Gun Kelly",
+        "Urschel Kidnapping",
+        "The Green Hornet",
+        "Robert Hall",
+        "Jack McCarthy",
+        "One Night Stand",
+        "Hal McIntyre",
+        "AFRS",
+        "Moon Over Africa",
+        "Serial Story",
+        "Night Cap Yarns",
+        "Frank Crumit",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-456-green-hornet-inner-sanctum-dr-christian-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-456-green-hornet-inner-sanctum-dr-christian-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Green Hornet, Inner Sanctum, and Dr. Christian",
