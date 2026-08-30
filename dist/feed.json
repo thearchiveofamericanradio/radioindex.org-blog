@@ -6,6 +6,38 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-614-blondie-carnation-contented-heartbeat-theatre-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-614-blondie-carnation-contented-heartbeat-theatre-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Blondie, Carnation Contented & Heartbeat Theatre",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 614)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic comic strip domestic sitcoms, lush orchestral concert hours, door-to-door salesman comedy sketches, generational in-law domestic humor, and spiritual public service audio drama, Penny Singleton and Arthur Lake in <em>Blondie</em> for Camel Cigarettes (1940), Percy Faith on <em>The Carnation Contented Hour</em> (1946), Al Pearce as Elmer Blurt (1951), <em>Abie&#39;s Irish Rose</em> (1944), and <em>Heartbeat Theatre</em> (1940–1962):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 614)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Blondie_1940_Barbecue.mp3</code> <br><em>Alt</em>: <code>Blondie 1940 Episode</code></td>\n<td><strong>&quot;Dagwood&#39;s Labor Day Backyard Barbecue with Penny Singleton&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-02<br>7:30 PM EDST</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Penny Singleton (Blondie)</strong></td>\n<td><strong>Arthur Lake &amp; Stafford</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Blondie&quot;, &quot;Penny Singleton&quot;, &quot;Camel&quot;]</code></td>\n<td>Dagwood attempts to build a backyard barbecue pit for a Labor Day party but accidentally traps Mr. Dithers inside the masonry.</td>\n</tr>\n<tr>\n<td><code>Carnation_1946_LaborDay.mp3</code> <br><em>Alt</em>: <code>Episode Carnation Contented Hour</code></td>\n<td><strong>&quot;Labor Day Folk Melodies with Percy Faith&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-09-02<br>10:00 PM EDT</td>\n<td><strong>Carnation Milk Co.</strong><br>Evaporated Milk</td>\n<td><strong>Percy Faith and Orch.</strong></td>\n<td><strong>Josephine Antoine</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Carnation Contented Hour&quot;, &quot;Percy Faith&quot;, &quot;NBC&quot;]</code></td>\n<td>Percy Faith conducts lush orchestral arrangements of traditional American folk tunes and light classical melodies for Labor Day.</td>\n</tr>\n<tr>\n<td><code>Pearce_1951_PagingLeander.mp3</code> <br><em>Alt</em>: <code>Paging Leander Al Pearce and His Gang</code></td>\n<td><strong>&quot;Paging Leander with Elmer Blurt&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1951-09-02<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Comedy Variety</td>\n<td><strong>Al Pearce (Elmer Blurt)</strong></td>\n<td><strong>Martha Mears &amp; Hoff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Al Pearce&quot;, &quot;Elmer Blurt&quot;, &quot;CBS&quot;]</code></td>\n<td>The bashful door-to-door salesman Elmer Blurt attempts to peddle vacuum cleaner attachments while searching for a lost hotel guest.</td>\n</tr>\n<tr>\n<td><code>Abie_1944_PorchArguments.mp3</code> <br><em>Alt</em>: <code>Abie&#39;s Irish Rose 1944 Episode</code></td>\n<td><strong>&quot;Family Arguments on the Porch with Drene Shampoo&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-09-02<br>8:00 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Special Drene Shampoo</td>\n<td><strong>Sydney Smith</strong>, <strong>Rosemary</strong></td>\n<td><strong>Charlie Cantor &amp; Kinsella</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Abies Irish Rose&quot;, &quot;Drene Shampoo&quot;, &quot;NBC&quot;]</code></td>\n<td>Solomon Levy and Patrick Murphy feud loudly over baby names while Abie and Rosemary try to keep household peace.</td>\n</tr>\n<tr>\n<td><code>Heartbeat_1956_MeetingRain.mp3</code> <br><em>Alt</em>: <code>Meeting in the Rain Heartbeat Theatre</code></td>\n<td><strong>&quot;Meeting in the Rain with The Salvation Army&quot;</strong></td>\n<td><strong>Syndication</strong><br>1956-09-02</td>\n<td><strong>The Salvation Army</strong><br>Public Service Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Major Don Barry (Prod)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Heartbeat Theatre&quot;, &quot;Salvation Army&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A cynical stranded commuter shares an umbrella and life reflections with a compassionate stranger during a sudden city downpour.</td>\n</tr>\n<tr>\n<td><code>Heartbeat_1962_ApplesGold.mp3</code> <br><em>Alt</em>: <code>Apples of Gold Heartbeat Theatre</code></td>\n<td><strong>&quot;Apples of Gold with The Salvation Army&quot;</strong></td>\n<td><strong>Syndication</strong><br>1962-09-02</td>\n<td><strong>The Salvation Army</strong><br>Public Service Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Salvation Army Radio</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Heartbeat Theatre&quot;, &quot;Salvation Army&quot;, &quot;Syndicated&quot;]</code></td>\n<td>An elderly orchard grower helps a troubled runaway teenager find self-worth and purpose through honest seasonal harvesting work.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 296 / 480 (184 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 614 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Blondie",
+        "Penny Singleton",
+        "Arthur Lake",
+        "Camel Cigarettes",
+        "Carnation Contented Hour",
+        "Percy Faith",
+        "Carnation Milk",
+        "Al Pearce and His Gang",
+        "Elmer Blurt",
+        "Abie's Irish Rose",
+        "Drene Shampoo",
+        "Heartbeat Theatre",
+        "Salvation Army",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-613-fred-allen-couple-next-door-front-page-drama-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-613-fred-allen-couple-next-door-front-page-drama-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Fred Allen, The Couple Next Door & Front Page Drama",
