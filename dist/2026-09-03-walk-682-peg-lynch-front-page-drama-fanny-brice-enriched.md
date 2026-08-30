@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Peg Lynch, Front Page Drama & Fanny Brice
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, The Couple Next Door, Peg Lynch, Alan Bunce, Front Page Drama, The American Weekly, Hearst, Edgar Allan Poe, The Masque of the Red Death, The Fanny Brice-Frank Morgan Show, Baby Snooks, Hanley Stafford, Maxwell House, The Big Guy, Craig McDonnell, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 682)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across subtle observational domestic comedies, sensational newspaper feature docudramas, classic Edgar Allan Poe horror adaptations, beloved precocious child comedy, and hardboiled detective investigations, Peg Lynch and Alan Bunce in *The Couple Next Door* (1958, 1959), *Front Page Drama* for Hearst's *The American Weekly* (1933, 1938), Fanny Brice as *Baby Snooks* (1942), and Craig McDonnell in *The Big Guy* (1933–1959):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 682)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `CoupleNextDoor_1958_MotherExplains.mp3` <br>*Alt*: `Mother Explains The Couple Next Door` | **"Mother Explains with Peg Lynch and Alan Bunce"** | **CBS (WCBS)**<br>1958-09-03<br>2:30 PM EDT | **Sustaining**<br>Daytime Comedy | **Peg Lynch (Betsy)** | **Alan Bunce (Joe)** | `["Comedy", "Sitcom", "The Couple Next Door", "Peg Lynch", "Alan Bunce"]` | Betsy's visiting mother offers candid psychological interpretations of household miscommunications and childhood stubbornness. |
+| `CoupleNextDoor_1959_ArmorTrapped.mp3` <br>*Alt*: `Mr. Piper Trapped In Armor The Couple Next Door` | **"Mr. Piper Trapped in Armor with Peg Lynch and Alan Bunce"** | **CBS (WCBS)**<br>1959-09-03<br>2:30 PM EDT | **Sustaining**<br>Daytime Comedy | **Peg Lynch (Betsy)** | **Alan Bunce (Joe)** | `["Comedy", "Sitcom", "The Couple Next Door", "Peg Lynch", "Alan Bunce"]` | Joe Piper tries on an antique suit of medieval armor for a costume gala and becomes hopelessly wedged inside the rusted helmet. |
+| `FrontPage_1933_BorgiaEmerald.mp3` <br>*Alt*: `Episode 19 Front Page Drama` | **"The Emerald of the Borgias with American Weekly"** | **Syndication / Hearst**<br>1933-09-03 | **The American Weekly**<br>Sunday Magazine Feature | **Hearst Drama Cast** | **Hearst Radio Writers** | `["Drama", "Anthology", "Front Page Drama", "American Weekly", "Hearst"]` | An antique collector uncovers an Italian renaissance jewel carrying a deadly poison chamber designed for political assassinations. |
+| `FrontPage_1938_RedDeath.mp3` <br>*Alt*: `The Red Death Front Page Drama` | **"The Red Death with American Weekly and Edgar Allan Poe"** | **Syndication / Hearst**<br>1938-09-03 | **The American Weekly**<br>Sunday Magazine Feature | **Hearst Drama Cast** | **Edgar Allan Poe (Author)** | `["Horror", "Anthology", "Front Page Drama", "Edgar Allan Poe", "Hearst"]` | A decadent medieval prince sequesters his courtiers inside a fortified abbey to escape a devastating airborne pestilence. |
+| `BabySnooks_1942_CampReport.mp3` <br>*Alt*: `The Camp Report Fanny Brice Frank Morgan Show` | **"The Summer Camp Report with Baby Snooks and Maxwell House"** | **NBC (KFI)**<br>1942-09-03<br>8:00 PM EWT | **General Foods**<br>Maxwell House Coffee | **Fanny Brice (Snooks)** | **Hanley Stafford (Daddy)** | `["Comedy", "Sitcom", "Baby Snooks", "Fanny Brice", "Maxwell House"]` | Daddy Higgins attempts to decode the counselor's appraisal letter following Baby Snooks's unruly behavior at summer camp. |
+| `BigGuy_1950_CounterfeitHeir.mp3` <br>*Alt*: `The Big Guy 1950 Episode` | **"The Case of the Counterfeit Heir with Craig McDonnell"** | **NBC (WNBC)**<br>1950-09-03<br>5:00 PM EDT | **Sustaining**<br>Private Detective | **Craig McDonnell (Lead)** | **NBC Dramatic Cast** | `["Detective", "Mystery", "The Big Guy", "Craig McDonnell", "NBC"]` | A massive private investigator exposes a fraud scheme where an impostor poses as a deceased timber tycoon's missing heir. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 283 / 469 (186 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
