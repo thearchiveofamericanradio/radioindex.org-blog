@@ -6,6 +6,82 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-591-gregory-hood-woody-guthrie-edward-r-murrow-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-591-gregory-hood-woody-guthrie-edward-r-murrow-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Gregory Hood, Woody Guthrie & Edward R. Murrow",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 591)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across wine-sponsored cosmopolitan detective mysteries, public radio folk biography audio dramas, live eyewitness Blitz reporting, teenage radio comedy, and daily mystery serials, Gale Gordon as <em>Gregory Hood</em> for Petri Wine (1946), NPR&#39;s <em>Earplay</em> production of <em>Woody Guthrie — The Early Years</em> (1981), Edward R. Murrow reporting from London on CBS (1940), Louise Erickson in <em>A Date with Judy</em> for Tums (1947), Frances Crane&#39;s <em>Mystery of the Week</em> (1947), and <em>Radio Superior</em> (1939–1981):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 591)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Hood_1946_ArcheryMurder.mp3</code> <br><em>Alt</em>: <code>Murder Of The Archery Range Gregory Hood</code></td>\n<td><strong>&quot;The Murder on the Archery Range with Gale Gordon and Petri Wine&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-02<br>8:00 PM EDT</td>\n<td><strong>Petri Wine Co.</strong><br>Petri Port &amp; Sherry</td>\n<td><strong>Gale Gordon (Hood)</strong></td>\n<td><strong>Denis Green &amp; Boucher</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Gregory Hood&quot;, &quot;Gale Gordon&quot;, &quot;Petri Wine&quot;]</code></td>\n<td>San Francisco import merchant Gregory Hood investigates when a wealthy toxicologist is shot with a poisoned hunting arrow on an archery range.</td>\n</tr>\n<tr>\n<td><code>Earplay_1981_WoodyGuthrie1.mp3</code> <br><em>Alt</em>: <code>Woody Guthrie - The Early Years - Part 1</code></td>\n<td><strong>&quot;Woody Guthrie — The Early Years (Part 1) with NPR Audio Drama&quot;</strong></td>\n<td><strong>NPR</strong><br>1981-09-02</td>\n<td><strong>Sustaining</strong><br>Folk Bio Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Karl Schmidt (Producer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Biography&quot;, &quot;Music&quot;, &quot;Earplay&quot;, &quot;Woody Guthrie&quot;]</code></td>\n<td>A biographical radio play dramatizes folk balladeer Woody Guthrie&#39;s Oklahoma childhood and his Dust Bowl journey to California.</td>\n</tr>\n<tr>\n<td><code>Murrow_1940_NightRaids.mp3</code> <br><em>Alt</em>: <code>CBS Heavy Damage In Night Raids Over Britain</code></td>\n<td><strong>&quot;CBS Reports Heavy Damage in Night Air Raids over Britain&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-02<br>6:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>Eyewitness News</td>\n<td><strong>Edward R. Murrow</strong></td>\n<td><strong>Bob Trout (Anchor)</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;Edward R Murrow&quot;, &quot;CBS&quot;]</code></td>\n<td>CBS correspondents report live from London detailing nighttime Luftwaffe incendiary bombings and RAF interception operations during the Battle of Britain.</td>\n</tr>\n<tr>\n<td><code>Judy_1947_NewWardrobe.mp3</code> <br><em>Alt</em>: <code>A Date with Judy 1947 Episode</code></td>\n<td><strong>&quot;Judy&#39;s New School Wardrobe with Louise Erickson and Tums&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1947-09-02<br>8:30 PM EDT</td>\n<td><strong>Lewis-Howe Co.</strong><br>Tums &amp; Nature&#39;s Remedy</td>\n<td><strong>Louise Erickson (Judy)</strong></td>\n<td><strong>John Brown &amp; Davis</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Teen&quot;, &quot;A Date With Judy&quot;, &quot;Tums&quot;]</code></td>\n<td>Judy attempts to manipulate her father into funding an extravagant new autumn wardrobe by taking a chaotic part-time job.</td>\n</tr>\n<tr>\n<td><code>Mystery_1947_DeadlyLover2.mp3</code> <br><em>Alt</em>: <code>COT Deadly Lover (Part 2) Mystery of the Week</code></td>\n<td><strong>&quot;The Case of the Deadly Lover (Part 2) with Procter &amp; Gamble&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1947-09-02<br>7:00 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Ivory Bar &amp; Duz</td>\n<td><strong>Dramatic Mystery Cast</strong></td>\n<td><strong>Frances Crane (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Mystery Of Week&quot;, &quot;Pat Abbott&quot;, &quot;Ivory&quot;]</code></td>\n<td>Private investigators Pat and Jean Abbott uncover forged identity papers while questioning suspects in a coastal resort cottage shooting.</td>\n</tr>\n<tr>\n<td><code>Superior_1939_EuropeMobilization.mp3</code> <br><em>Alt</em>: <code>Radio Superior 1939 Episode</code></td>\n<td><strong>&quot;International Shortwave Relay on the Brink of Global Conflict&quot;</strong></td>\n<td><strong>Shortwave Relay</strong><br>1939-09-02</td>\n<td><strong>Sustaining</strong><br>Shortwave News</td>\n<td><strong>News Announcers</strong></td>\n<td><strong>Radio Superior Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;Shortwave&quot;, &quot;WWII&quot;, &quot;International&quot;]</code></td>\n<td>International shortwave monitors report military mobilizations across Europe following the German invasion of Poland and imminent British declarations.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 158 / 480 (322 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 591 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Casebook of Gregory Hood",
+        "Gale Gordon",
+        "Bill Johnstone",
+        "Petri Wine",
+        "Earplay",
+        "Woody Guthrie",
+        "NPR",
+        "Karl Schmidt",
+        "World War II News",
+        "Edward R Murrow",
+        "Battle of Britain",
+        "London Blitz",
+        "CBS",
+        "A Date with Judy",
+        "Louise Erickson",
+        "Tums",
+        "Mystery of the Week",
+        "Pat Abbott",
+        "Frances Crane",
+        "Radio Superior",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-590-challenge-of-the-yukon-somerset-maugham-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-590-challenge-of-the-yukon-somerset-maugham-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Challenge of the Yukon & Somerset Maugham",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 590)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across rugged Great White North Mountie adventures, colonial psychological courtroom drama, modern BBC comedy panel games, teenage domestic comedies, and historic presidential radio proclamations, Sergeant Preston and King in <em>Challenge of the Yukon</em> for Quaker Oats (1943, 1951), W. Somerset Maugham&#39;s <em>The Letter</em> (1959), Nicholas Parsons hosting <em>Just a Minute</em> on BBC Radio 4 (2002), Dellie Ellis in <em>A Date with Judy</em> for Pepsodent (1941), and President Harry S. Truman (1941–2002):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 590)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Preston_1943_HelpsOrphan.mp3</code> <br><em>Alt</em>: <code>When the Law Helps an Orphan Yukon</code></td>\n<td><strong>&quot;When the Law Helps an Orphan with Quaker Puffed Wheat&quot;</strong></td>\n<td><strong>WXYZ / Michigan</strong><br>1943-09-02<br>5:00 PM EWT</td>\n<td><strong>Quaker Oats Co.</strong><br>Puffed Wheat Sparkies</td>\n<td><strong>Jay Michael (Preston)</strong></td>\n<td><strong>Tom Dougall (Writer)</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Adventure&quot;, &quot;Western&quot;, &quot;Challenge Of The Yukon&quot;, &quot;Sgt Preston&quot;]</code></td>\n<td>Sergeant Preston and his lead sled dog King track claim jumpers attempting to swindle an orphaned boy out of his deceased father&#39;s gold mine.</td>\n</tr>\n<tr>\n<td><code>Preston_1951_BoyAlone.mp3</code> <br><em>Alt</em>: <code>Boy Alone Challenge of the Yukon</code></td>\n<td><strong>&quot;Boy Alone with Quaker Puffed Rice&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-02<br>5:30 PM EDT</td>\n<td><strong>Quaker Oats Co.</strong><br>Puffed Rice Sparkies</td>\n<td><strong>Paul Sutton (Preston)</strong></td>\n<td><strong>Trendle Production Staff</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Adventure&quot;, &quot;Western&quot;, &quot;Challenge Of The Yukon&quot;, &quot;Sgt Preston&quot;]</code></td>\n<td>Sergeant Preston rescues an injured young trapper stranded alone in the Yukon wilderness during an unseasonal blustery gale.</td>\n</tr>\n<tr>\n<td><code>Maugham_1959_TheLetter.mp3</code> <br><em>Alt</em>: <code>Your Radio Theater 1959 Episode</code></td>\n<td><strong>&quot;Somerset Maugham&#39;s The Letter with Dramatic Cast&quot;</strong></td>\n<td><strong>Syndication</strong><br>1959-09-02</td>\n<td><strong>Sustaining</strong><br>World Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>W. Somerset Maugham</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Somerset Maugham&quot;, &quot;Your Radio Theater&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A British plantation wife in colonial Malaya shoots a family acquaintance claiming self-defense until an incriminating letter surfaces in Chinatown.</td>\n</tr>\n<tr>\n<td><code>JAM_2002_Bagpipes.mp3</code> <br><em>Alt</em>: <code>How To Play The Bagpipes Just a Minute</code></td>\n<td><strong>&quot;How to Play the Bagpipes with Chairman Nicholas Parsons&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>2002-09-02<br>6:30 PM BST</td>\n<td><strong>Sustaining</strong><br>Comedy Panel Game</td>\n<td><strong>Nicholas Parsons (Chair)</strong></td>\n<td><strong>Paul Merton &amp; Norton</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Panel&quot;, &quot;Game Show&quot;, &quot;Just A Minute&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>Celebrity panelists battle sixty-second timers on rapid subjects including Scottish bagpipes, train journeys, and supermarket queues.</td>\n</tr>\n<tr>\n<td><code>Judy_1941_SummerParty.mp3</code> <br><em>Alt</em>: <code>A Date with Judy 1941 Episode</code></td>\n<td><strong>&quot;Judy&#39;s End of Summer Party with Dellie Ellis and Pepsodent&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1941-09-02<br>10:00 PM EDST</td>\n<td><strong>Pepsodent Co.</strong><br>Pepsodent Toothpaste</td>\n<td><strong>Dellie Ellis (Judy)</strong></td>\n<td><strong>Harry Cheshire &amp; Davis</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Teen&quot;, &quot;A Date With Judy&quot;, &quot;Pepsodent&quot;]</code></td>\n<td>Teenager Judy Foster scrambles to plan an elaborate end-of-summer backyard dance while navigating competing dates and jealous boyfriends.</td>\n</tr>\n<tr>\n<td><code>Truman_1945_VJDay_Alt.mp3</code> <br><em>Alt</em>: <code>Trumans Victory Over Japan Speech</code></td>\n<td><strong>&quot;President Harry S. Truman on the Formal Surrender of Japan (Alternate)&quot;</strong></td>\n<td><strong>All Networks</strong><br>1945-09-02<br>10:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Historical Proclamation</td>\n<td><strong>President Harry S. Truman</strong></td>\n<td><strong>White House Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;Harry S Truman&quot;, &quot;VJ Day&quot;]</code></td>\n<td>President Harry S. Truman proclaims V-J Day in an evening radio address marking the formal end of the Second World War.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 152 / 480 (328 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 590 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Challenge of the Yukon",
+        "Sergeant Preston",
+        "King Wonder Dog",
+        "Quaker Oats",
+        "Your Radio Theater",
+        "W Somerset Maugham",
+        "The Letter",
+        "Just a Minute",
+        "Nicholas Parsons",
+        "Paul Merton",
+        "Graham Norton",
+        "BBC Radio 4",
+        "A Date with Judy",
+        "Dellie Ellis",
+        "Pepsodent",
+        "World War II News",
+        "President Harry S Truman",
+        "VJ Day",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-589-just-a-minute-under-arrest-hearts-in-harmony-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-589-just-a-minute-under-arrest-hearts-in-harmony-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Just a Minute, Under Arrest & Hearts in Harmony",
