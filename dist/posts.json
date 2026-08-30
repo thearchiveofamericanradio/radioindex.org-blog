@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-699-stan-kenton-big-town-burma-hump-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-699-stan-kenton-big-town-burma-hump-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Stan Kenton, Big Town & Burma Hump",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 699)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across progressive big band concerts live from Chicago&#39;s Blue Note, crusading newspaper extortion exposés, heroic DuPont dramatizations of Himalayan airlift operations over Burma, fast-paced sports newsreel lore, British hospital comedies, and regional Texas sports journalism, Stan Kenton (1952), Edward Pawley in <em>Big Town</em> (1946), <em>Cavalcade of America</em> (1945), Bill Stern for Colgate (1948), Richard Briers in <em>Doctor in the House</em> (1968), and Jinx Tucker (1945–1968):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 699)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>StanKenton_1952_BlueNote.mp3</code> <br><em>Alt</em>: <code>Blue Note Stan Kenton Concert Encores</code></td>\n<td><strong>&quot;Live from the Blue Note with Stan Kenton and His Orchestra&quot;</strong></td>\n<td><strong>Syndication / AFN</strong><br>1952-09-03</td>\n<td><strong>Sustaining</strong><br>Progressive Jazz</td>\n<td><strong>Stan Kenton &amp; Orch.</strong></td>\n<td><strong>Conte Candoli &amp; Ferguson</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Stan Kenton&quot;, &quot;Blue Note&quot;, &quot;Big Band&quot;]</code></td>\n<td>Stan Kenton conducts his progressive jazz orchestra in complex brass arrangements live from the Blue Note club in Chicago.</td>\n</tr>\n<tr>\n<td><code>BigTown_1946_DeadlyHideSeek.mp3</code> <br><em>Alt</em>: <code>Deadly Hide and Seek Big Town</code></td>\n<td><strong>&quot;Deadly Hide and Seek with Edward Pawley as Steve Wilson&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1946-09-03<br>8:00 PM EDT</td>\n<td><strong>Lever Brothers</strong><br>Lifebuoy &amp; Rinso</td>\n<td><strong>Edward Pawley (Wilson)</strong></td>\n<td><strong>Fran Carlon &amp; McGill</strong></td>\n<td><code>[&quot;Newspaper&quot;, &quot;Drama&quot;, &quot;Big Town&quot;, &quot;Edward Pawley&quot;, &quot;Lifebuoy&quot;]</code></td>\n<td>Illustrated Press managing editor Steve Wilson exposes an extortion ring utilizing juvenile street runaways to deliver threatening ransom notes.</td>\n</tr>\n<tr>\n<td><code>Cavalcade_1945_CargoBurma.mp3</code> <br><em>Alt</em>: <code>Cargo Over Burma Cavalcade of America</code></td>\n<td><strong>&quot;Cargo Over Burma with DuPont and NBC&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-09-03<br>8:00 PM EWT</td>\n<td><strong>DuPont</strong><br>Better Things for Better Living</td>\n<td><strong>Paul Muni / Repertory</strong></td>\n<td><strong>Donald Voorhees &amp; Orch.</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;History&quot;, &quot;Cavalcade Of America&quot;, &quot;DuPont&quot;, &quot;WWII&quot;]</code></td>\n<td>Allied transport aviators fly perilous supply missions over the treacherous Himalayan Hump into Burma under extreme monsoon weather.</td>\n</tr>\n<tr>\n<td><code>BillStern_1948_LouNess.mp3</code> <br><em>Alt</em>: <code>Guest Lou Ness Bill Stern&#39;s Sports Newsreel</code></td>\n<td><strong>&quot;Guest Lou Ness with Bill Stern and Colgate&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1948-09-03<br>10:30 PM EDT</td>\n<td><strong>Colgate-Palmolive-Peet</strong><br>Colgate Shave Cream</td>\n<td><strong>Bill Stern (Host)</strong></td>\n<td><strong>Lou Ness (Guest Athlete)</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Talk&quot;, &quot;Bill Stern&quot;, &quot;Colgate&quot;, &quot;Sports Newsreel&quot;]</code></td>\n<td>Bill Stern narrates dramatic sports lore vignettes and interviews athlete Lou Ness regarding overcoming adversity in championship boxing.</td>\n</tr>\n<tr>\n<td><code>DoctorHouse_1968_WomenWine.mp3</code> <br><em>Alt</em>: <code>Women and Wine Doctor In The House - BBC</code></td>\n<td><strong>&quot;Women and Wine with Richard Briers as Simon Sparrow&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1968-09-03</td>\n<td><strong>Sustaining</strong><br>British Medical Comedy</td>\n<td><strong>Richard Briers (Sparrow)</strong></td>\n<td><strong>Geoffrey Sumner &amp; Cooney</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Doctor In The House&quot;, &quot;Richard Briers&quot;, &quot;BBC&quot;]</code></td>\n<td>Junior medical intern Simon Sparrow attempts to juggle romantic hospital engagements while dodging Sir Lancelot Spratt&#39;s strict supervision.</td>\n</tr>\n<tr>\n<td><code>JinxTucker_1947_SportsView.mp3</code> <br><em>Alt</em>: <code>Jinx Tuckers View On Sports Jinx Hot Shots</code></td>\n<td><strong>&quot;Jinx Tucker&#39;s View on Sports with Jinx Tucker&quot;</strong></td>\n<td><strong>WACO Texas</strong><br>1947-09-03</td>\n<td><strong>Sustaining</strong><br>Sports Commentary</td>\n<td><strong>Jinx Tucker (Editor)</strong></td>\n<td><strong>WACO Broadcasting Crew</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Talk&quot;, &quot;Jinx Hot Shots&quot;, &quot;Jinx Tucker&quot;, &quot;WACO&quot;]</code></td>\n<td>Veteran sports journalist Jinx Tucker breaks down regional high school and collegiate football training camps heading into the autumn season.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 385 / 469 (84 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 699 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Stan Kenton",
+        "Blue Note Chicago",
+        "Big Band Jazz",
+        "Big Town",
+        "Edward Pawley",
+        "Fran Carlon",
+        "Lifebuoy",
+        "Lever Brothers",
+        "Cavalcade of America",
+        "DuPont",
+        "WWII",
+        "Burma Hump",
+        "Bill Stern",
+        "Colgate Shave Cream",
+        "Sports Newsreel",
+        "Doctor in the House",
+        "Richard Briers",
+        "BBC Radio 4",
+        "Jinx Hot Shots",
+        "Jinx Tucker",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-698-johnny-dollar-eras-lassie-weird-circle-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-698-johnny-dollar-eras-lassie-weird-circle-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Johnny Dollar Eras, Lassie & The Weird Circle",

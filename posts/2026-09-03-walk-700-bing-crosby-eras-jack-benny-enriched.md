@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Milestone 700! Bing Crosby Eras, Jack Benny & John Carradine
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, Increment 700, Milestone, Bing Crosby, Paul Whiteman, Rhythm Boys, American Red Cross, Ford Roadshow, Buddy Cole, Jack Benny, AFRS, Retrospective, Twenty Questions, Bill Slater, John Carradine, Ronson Lighters, Yankee Yarns, Alton Hall Blackington, New England Folklore, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 700 — Milestone Dispatch!)
+
+This milestone archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across 700 increments of archival restoration! Featuring three groundbreaking eras of Bing Crosby (his early 1929 Cocoanut Grove Paul Whiteman remote, his 1931 national Red Cross disaster relief benefit, and his 1956 Ford Roadshow jazz sessions), Jack Benny's 1970 retrospective, John Carradine on *Twenty Questions* for Ronson lighters, and Alton Hall Blackington's New England regional folklore, Bing Crosby (1929, 1931, 1956), Jack Benny (1970), John Carradine (1949), and *Yankee Yarns* (1929–1970):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 700)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `TwentyQuestions_1949_Carradine.mp3` <br>*Alt*: `John Carradine Twenty Questions` | **"Guest John Carradine with Bill Slater and Ronson Lighters"** | **Mutual (WOR)**<br>1949-09-03<br>8:00 PM EDT | **Ronson Art Metal Works**<br>Ronson Pocket Lighters | **Bill Slater (Host)** | **John Carradine (Guest)** | `["Quiz", "Panel", "Twenty Questions", "John Carradine", "Ronson"]` | Guest panelist John Carradine joins the regular quiz team in identifying hidden animal, vegetable, and mineral mystery subjects within twenty clues. |
+| `YankeeYarns_1950_DarnMan.mp3` <br>*Alt*: `Darn Man Yankee Yarns` | **"The Darned Man of New England with Alton Hall Blackington"** | **WBZ Boston / NBC**<br>1950-09-03 | **First National Stores**<br>New England Grocers | **Alton H. Blackington** | **WBZ Production Staff** | `["Folklore", "Storytelling", "Yankee Yarns", "Alton Hall Blackington", "WBZ"]` | Storyteller Alton Hall Blackington recounts the regional legend of a mysterious wandering wanderer known across rural New England as the Darned Man. |
+| `JackBenny_1970_Retrospective.mp3` <br>*Alt*: `Jack Benny Jack Benny Program, The` | **"The 1970 Golden Age Retrospective with Jack Benny"** | **Syndication / AFRS**<br>1970-09-03 | **Sustaining**<br>Comedy Retrospective | **Jack Benny (Host)** | **Don Wilson & Livingstone** | `["Comedy", "Interview", "Jack Benny", "Retrospective", "AFRS"]` | Jack Benny reminisces on four decades of classic radio comedy sketches, infamous feuds, and iconic character voices. |
+| `BingCrosby_1929_CocoanutGrove.mp3` <br>*Alt*: `Episode 31 Bing Crosby` | **"At the Cocoanut Grove with Paul Whiteman and Bing Crosby"** | **KHJ Los Angeles / CBS**<br>1929-09-03 | **Old Gold Cigarettes**<br>P. Lorillard Tobacco | **Bing Crosby (Vocalist)** | **Paul Whiteman & Orch.** | `["Music", "Jazz", "Bing Crosby", "Paul Whiteman", "Rhythm Boys"]` | Bing Crosby performs early vocal harmonies with The Rhythm Boys accompanied by Paul Whiteman's orchestra live from the Ambassador Hotel. |
+| `BingCrosby_1931_RedCross.mp3` <br>*Alt*: `Red Cross Syndication Bing Crosby` | **"Red Cross Disaster Relief Benefit Program with Bing Crosby"** | **CBS (WABC)**<br>1931-09-03 | **American Red Cross**<br>Drought Relief Appeal | **Bing Crosby (Host)** | **CBS Concert Orchestra** | `["Music", "Public Service", "Bing Crosby", "Red Cross", "CBS"]` | Bing Crosby sings romantic ballads and appeals to national listeners for donations to the American Red Cross drought relief campaign. |
+| `BingCrosby_1956_FordRoadshow.mp3` <br>*Alt*: `Bing Crosby 1956 Episode` | **"The Ford Roadshow with Bing Crosby and Buddy Cole"** | **CBS (KNX)**<br>1956-09-03<br>7:30 PM EDT | **Ford Motor Company**<br>Ford Automobiles | **Bing Crosby (Host)** | **Buddy Cole & Carpenter** | `["Music", "Variety", "Bing Crosby", "Ford", "Buddy Cole"]` | Bing Crosby and pianist Buddy Cole perform intimate jazz tunes and pop hits interspersed with automotive safety tips. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 391 / 469 (78 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
