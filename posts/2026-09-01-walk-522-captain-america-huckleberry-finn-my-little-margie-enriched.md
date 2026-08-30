@@ -1,0 +1,33 @@
+# Archival Dispatch: September 1 Calendar Walk — Captain America, Huckleberry Finn, and My Little Margie
+
+**Date**: 2026-09-01  
+**Author**: radio index  
+**Tags**: September 1, Calendar Walk, Captain America, Sandy Becker, Marvel Comics, Adventure Parade, Huckleberry Finn, Mark Twain, John Griggs, Serial Story, Good News of 1939, Spencer Tracy, Mickey Rooney, Boys Town, My Little Margie, Gale Storm, Charles Farrell, Frank Muir, BBC Radio 4, The Family Robinson, Alternate Titles, Original Filenames
+
+---
+
+## September 1 Archival Metadata Enrichment (Increment 522)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized children's literary metadata, and pure narrative synopses for broadcasts transmitting on **September 1** across Marvel superhero origin adventures, classic Mark Twain literature, Hollywood benefit broadcasts, television-to-radio sitcom adaptations, BBC comedic history, and Carlton E. Morse family dramas, Sandy Becker in *Captain America* (1966), John Griggs in *Adventure Parade* (1947), Spencer Tracy and Mickey Rooney on *Good News of 1939* (1938), Gale Storm in *My Little Margie* (1955), *Frank Muir Goes Into...* on BBC Radio 4 (1975), and *The Family Robinson* (1938–1975):
+
+---
+
+## 1. *September 1 Archival Inventory (Increment 522)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Adv_Parade_1947_HuckFinn1.mp3` <br>*Alt*: `Adventure Parade 1947 Episode` | **"The Adventures of Huckleberry Finn (Part 1) with John Griggs"** | **Mutual (WOR)**<br>1947-09-01<br>4:30 PM EDT | **Sustaining**<br>Children's Classics | **John Griggs (Storyteller)** | **Mark Twain (Author)** | `["Adventure", "Classics", "Juvenile", "Adventure Parade", "Mark Twain"]`<br>*Arc*: **The Adventures of Huckleberry Finn (Part 1)** | Huck Finn fakes his own death to escape his abusive father and retreats to Jackson's Island on the Mississippi River. |
+| `Robinson_1940_LukeResolve.mp3` <br>*Alt*: `American Luke's Resolve To Be An Ideal Husband` | **"Luke's Resolve to Be an Ideal Husband with Carlton E. Morse"** | **Syndication / NBC**<br>1940-09-01 | **Sustaining**<br>Domestic Drama | **Dramatic Voice Ensemble** | **Carlton E. Morse (Creator)** | `["Drama", "Family", "Carlton E Morse", "The Family Robinson"]` | Luke works through family financial stress and renews his commitment to domestic harmony after a tense household misunderstanding. |
+| `Good_News_1938_BoysTown.mp3` <br>*Alt*: `Boys Town Good News` | **"Boys Town Tribute with Spencer Tracy and Mickey Rooney"** | **NBC Red (WEAF)**<br>1938-09-01<br>9:00 PM EDST | **General Foods**<br>Maxwell House Coffee | **Spencer Tracy**, **Rooney** | **Meredith Willson Orchestra** | `["Variety", "Film Preview", "Drama", "Spencer Tracy", "Mickey Rooney", "Good News"]` | Spencer Tracy and Mickey Rooney recreate dramatic scenes from the new MGM film Boys Town alongside founder Father Flanagan. |
+| `Cap_America_1966_Origin.mp3` <br>*Alt*: `The Origin of Captain America` | **"The Origin of Captain America with Sandy Becker"** | **Marvel Syndication**<br>1966-09-01 | **Sustaining**<br>Marvel Comic Serial | **Sandy Becker**, **Ensemble** | **Simon & Kirby (Creators)** | `["Superhero", "Action", "Comic Books", "Captain America", "Marvel"]` | Frail army recruit Steve Rogers volunteers for Operation Rebirth and undergoes the Super-Soldier serum experiment to battle Nazi saboteurs. |
+| `Muir_1975_PopMusic.mp3` <br>*Alt*: `Popular Music Frank Muir` | **"Popular Music with Frank Muir and John Junkin"** | **BBC Radio 4**<br>1975-09-01<br>6:15 PM BST | **Sustaining**<br>BBC Comedy Talk | **Frank Muir**, **Junkin** | **BBC Radio Light Ent.** | `["Comedy", "History", "Music", "Frank Muir", "BBC Radio 4"]` | Frank Muir presents a witty historical exploration of popular song lyrics, catchy jingles, and music hall songwriting conventions. |
+| `Margie_1955_QuizShow.mp3` <br>*Alt*: `Quiz Show (Aka Hawaii Trip)` | **"The Radio Quiz Show (Trip to Hawaii) with Gale Storm and Charles Farrell"** | **CBS (WCBS)**<br>1955-09-01<br>8:30 PM EDT | **Philip Morris**<br>Philip Morris Cigarettes | **Gale Storm**, **Farrell** | **Clarence Kolb (Honeywell)** | `["Comedy", "Sitcom", "My Little Margie", "Gale Storm", "Philip Morris"]` | Margie secretly enters an on-air radio quiz show to win a Hawaiian vacation for her overworked father Vern. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 54 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
