@@ -1,0 +1,33 @@
+# Archival Dispatch: August 30 Calendar Walk — Tarzan Lord of the Jungle and Tennessee Ernie Ford
+
+**Date**: 2026-08-30  
+**Author**: radio index  
+**Tags**: August 30, Calendar Walk, Tarzan, Lord of the Jungle, James Pierce, Lamont Johnson, Edgar Rice Burroughs, Commodore Productions, The Ford Road Show, Tennessee Ernie Ford, Gigi, Walter Schumann, Joe Martin, Al Lamm, Candy Kisses, Country Music, Alternate Titles, Original Filenames
+
+---
+
+## August 30 Archival Metadata Enrichment (Increment 421)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and syndicated jungle adventure archives, four distinct eras of *Tarzan* spanning James H. Pierce in *The Diamond of the Great Temple* (1933) to Lamont Johnson solving jungle murders, rogue poachers, and leopard cults on *Tarzan, Lord of the Jungle* (1951–1952), Tennessee Ernie Ford on *The Ford Road Show* for Ford Motor Company (1958), and Joe Martin and Al Lamm's country guitar duets (1933–1964):
+
+---
+
+## 1. *August 30 Archival Inventory (Increment 421)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Tarzan_1933_Temple.mp3` <br>*Alt*: `Episode 34 Diamond Temple` | **"The Diamond of the Great Temple (Part 34)"** | **Syndicated Serial**<br>1933-08-30 | **Foulds' Milling**<br>Macaroni Products | **James H. Pierce**, **Joan Pierce** | **Edgar Rice Burroughs** | `["Adventure", "Jungle", "Serial", "Juvenile", "Edgar Rice Burroughs"]` | Tarzan navigates subterranean volcanic chambers to protect a sacred tribal diamond from armed European mercenaries. |
+| `Tarzan_1951_Wings.mp3` <br>*Alt*: `Death Has Small Wings` | **"Death Has Small Wings"** | **Mutual (WOR)**<br>1951-08-30 | **Sustaining**<br>Jungle Adventure | **Lamont Johnson** (Tarzan) | **Commodore Productions Staff** | `["Adventure", "Jungle", "Action", "Drama", "Commodore"]` | Tarzan races against time to synthesize a jungle root antidote when a safari expedition is struck by deadly venomous hornets. |
+| `Tarzan_1951_Ivory.mp3` <br>*Alt*: `Episode 34 Mistake Ivory` | **"The Ivory of the Black River"** | **Mutual (WOR)**<br>1951-08-30 | **Sustaining**<br>Jungle Adventure | **Lamont Johnson** (Tarzan) | **Commodore Productions Staff** | `["Adventure", "Jungle", "Action", "Drama", "Commodore"]` | Tarzan tracks ruthless poachers along the Black River who have trapped a peaceful elephant herd in a canyon gorge. |
+| `Tarzan_1952_Night.mp3` <br>*Alt*: `Terror At Night Tarzan` | **"Terror at Night"** | **Mutual (WOR)**<br>1952-08-30 | **Sustaining**<br>Jungle Adventure | **Lamont Johnson** (Tarzan) | **Commodore Productions Staff** | `["Adventure", "Jungle", "Action", "Mystery", "Commodore"]` | Tarzan investigates mysterious nocturnal attacks on remote trading outposts perpetrated by an elusive leopard-cult. |
+| `Ford_Road_1958_Gigi.mp3` <br>*Alt*: `First Song Gigi Ford` | **"Tennessee Ernie Ford with Gigi"** | **CBS (WCBS)**<br>1958-08-30<br>7:00 PM EDT | **Ford Motor Co.**<br>Ford Automobiles | **Tennessee Ernie Ford** | **Voices of Walter Schumann** | `["Music", "Vocal", "Variety", "Country", "Ford"]` | Tennessee Ernie Ford sings popular showtunes including Gigi and delivers down-home humor between Ford automobile announcements. |
+| `Martin_Lamm_1964_Duet.mp3` <br>*Alt*: `Candy Kisses Duet` | **"Country Duets with Candy Kisses"** | **Syndicated Country**<br>1964-08-30 | **Sustaining**<br>Country Showcase | **Joe Martin**, **Al Lamm** | **Joe Martin & Al Lamm Staff** | `["Music", "Country", "Guitar", "Acoustic", "Duet"]` | Joe Martin and Al Lamm perform harmonized acoustic guitar duets and country standards including Candy Kisses. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 198 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
