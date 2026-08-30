@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Counterspy, Let's Pretend & Stars Over Hollywood
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, Counterspy, Don MacLaughlin, Mandel Kramer, Phillips H Lord, Mail Pouch Tobacco, Kentucky Club, Let's Pretend, Nila Mack, Cream of Wheat, Ali Baba, Stars Over Hollywood, Brenda Marshall, Jane Wyatt, Bowey's Dari-Rich, Armour and Company, Dial Soap, In the Crimelight, WOR, A Platform for Christ, Mutual, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 761)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Don MacLaughlin thwarting naval convoy espionage on *Counterspy* for Mail Pouch Tobacco, Nila Mack's junior players in *Ali Baba and the Forty Thieves* on *Let's Pretend* for Cream of Wheat, Brenda Marshall & Jane Wyatt on *Stars Over Hollywood* (Dari-Rich in 1943 and Dial Soap in 1948), true crime police investigations on *In the Crimelight*, and ecumenical labor ethics on *A Platform for Christ*, Don MacLaughlin (1944), Nila Mack (1954), Brenda Marshall & Jane Wyatt (1943, 1948), and *Counterspy* (1935–1960):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 761)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Counterspy_1944_TalkativeHousekeeper.mp3` <br>*Alt*: `The Case of the Talkative Housekeeper Counterspy` | **"The Case of the Talkative Housekeeper with Don MacLaughlin"** | **Blue Network (WJZ)**<br>1944-09-04<br>9:00 PM EWT | **Mail Pouch Tobacco**<br>Kentucky Club Pipe Tobacco | **Don MacLaughlin (Harding)** | **Mandel Kramer & Lord** | `["Espionage", "Mystery", "Counterspy", "Don MacLaughlin", "Phillips H Lord"]` | United States Counterspies uncover an Axis espionage ring gathering confidential defense naval convoy schedules through a chatty boardinghouse maid. |
+| `LetsPretend_1954_AliBaba.mp3` <br>*Alt*: `From Vinyl Ali Baba and the Forty Thieves Let's Pretend` | **"Ali Baba and the Forty Thieves with Nila Mack"** | **CBS (WCBS)**<br>1954-09-04<br>11:05 AM EDT | **Cream of Wheat Corp.**<br>Cream of Wheat Cereal | **Pretenders Junior Troupe** | **Nila Mack (Dir./Writer)** | `["Children", "Fantasy", "Let's Pretend", "Nila Mack", "Cream of Wheat"]` | A whimsical dramatization of the Arabian Nights fairy tale as poor woodcutter Ali Baba discovers the magic password into the treasure cave. |
+| `StarsHollywood_1943_WomansWeapon.mp3` <br>*Alt*: `A Woman's Weapon Stars Over Hollywood` | **"A Woman's Weapon with Brenda Marshall"** | **CBS (KNX)**<br>1943-09-04<br>12:30 PM EWT | **Bowey's, Inc.**<br>Dari-Rich Chocolate Drink | **Brenda Marshall (Star)** | **Dramatic Repertory Cast** | `["Drama", "Anthology", "Stars Over Hollywood", "Brenda Marshall", "Dari-Rich"]` | A spirited society woman uses quick thinking and subtle psychological maneuvering to prevent her fiancé from joining a fraudulent corporate scheme. |
+| `StarsHollywood_1948_ModelWife.mp3` <br>*Alt*: `Stars Over Hollywood 1948 Episode` | **"The Model Wife with Jane Wyatt"** | **CBS (KNX)**<br>1948-09-04<br>1:00 PM EDT | **Armour and Co.**<br>Dial Soap & Chiffon | **Jane Wyatt (Star)** | **Dramatic Repertory Cast** | `["Drama", "Anthology", "Stars Over Hollywood", "Jane Wyatt", "Armour"]` | An ambitious commercial artist's wife orchestrates a series of social dinner parties to help her timid husband win a lucrative department store campaign. |
+| `Crimelight_1935_PoliceDocudrama.mp3` <br>*Alt*: `In The Crimelight 1935 Episode` | **"True Crime Reenactments with WOR Dramatic Cast"** | **WOR New York**<br>1935-09-04 | **Sustaining**<br>Police Docudrama | **WOR Dramatic Company** | **WOR Production Staff** | `["Crime", "Docudrama", "In The Crimelight", "WOR", "Police"]` | A gritty police docudrama tracing police ballistics experts who track down an armed safe-cracking gang operating in Manhattan. |
+| `PlatformChrist_1960_LaborManagement.mp3` <br>*Alt*: `Christ and Labor Management Platform for Christ, A` | **"Christ and Labor Management with Mutual"** | **Mutual Radio**<br>1960-09-04 | **Sustaining**<br>Religious Discussion | **Clergy Panelists** | **Mutual Religious Staff** | `["Religion", "Talk", "Platform for Christ", "Mutual", "Labor Day"]` | A Labor Day ecumenical address examining Christian moral principles applied to collective bargaining, fair wages, and corporate workplace ethics. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 288 / 471 (119 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

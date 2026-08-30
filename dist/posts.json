@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-761-counterspy-lets-pretend-stars-over-hollywood-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-761-counterspy-lets-pretend-stars-over-hollywood-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Counterspy, Let's Pretend & Stars Over Hollywood",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 761)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Don MacLaughlin thwarting naval convoy espionage on <em>Counterspy</em> for Mail Pouch Tobacco, Nila Mack&#39;s junior players in <em>Ali Baba and the Forty Thieves</em> on <em>Let&#39;s Pretend</em> for Cream of Wheat, Brenda Marshall &amp; Jane Wyatt on <em>Stars Over Hollywood</em> (Dari-Rich in 1943 and Dial Soap in 1948), true crime police investigations on <em>In the Crimelight</em>, and ecumenical labor ethics on <em>A Platform for Christ</em>, Don MacLaughlin (1944), Nila Mack (1954), Brenda Marshall &amp; Jane Wyatt (1943, 1948), and <em>Counterspy</em> (1935–1960):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 761)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Counterspy_1944_TalkativeHousekeeper.mp3</code> <br><em>Alt</em>: <code>The Case of the Talkative Housekeeper Counterspy</code></td>\n<td><strong>&quot;The Case of the Talkative Housekeeper with Don MacLaughlin&quot;</strong></td>\n<td><strong>Blue Network (WJZ)</strong><br>1944-09-04<br>9:00 PM EWT</td>\n<td><strong>Mail Pouch Tobacco</strong><br>Kentucky Club Pipe Tobacco</td>\n<td><strong>Don MacLaughlin (Harding)</strong></td>\n<td><strong>Mandel Kramer &amp; Lord</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Mystery&quot;, &quot;Counterspy&quot;, &quot;Don MacLaughlin&quot;, &quot;Phillips H Lord&quot;]</code></td>\n<td>United States Counterspies uncover an Axis espionage ring gathering confidential defense naval convoy schedules through a chatty boardinghouse maid.</td>\n</tr>\n<tr>\n<td><code>LetsPretend_1954_AliBaba.mp3</code> <br><em>Alt</em>: <code>From Vinyl Ali Baba and the Forty Thieves Let&#39;s Pretend</code></td>\n<td><strong>&quot;Ali Baba and the Forty Thieves with Nila Mack&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1954-09-04<br>11:05 AM EDT</td>\n<td><strong>Cream of Wheat Corp.</strong><br>Cream of Wheat Cereal</td>\n<td><strong>Pretenders Junior Troupe</strong></td>\n<td><strong>Nila Mack (Dir./Writer)</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Fantasy&quot;, &quot;Let&#39;s Pretend&quot;, &quot;Nila Mack&quot;, &quot;Cream of Wheat&quot;]</code></td>\n<td>A whimsical dramatization of the Arabian Nights fairy tale as poor woodcutter Ali Baba discovers the magic password into the treasure cave.</td>\n</tr>\n<tr>\n<td><code>StarsHollywood_1943_WomansWeapon.mp3</code> <br><em>Alt</em>: <code>A Woman&#39;s Weapon Stars Over Hollywood</code></td>\n<td><strong>&quot;A Woman&#39;s Weapon with Brenda Marshall&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1943-09-04<br>12:30 PM EWT</td>\n<td><strong>Bowey&#39;s, Inc.</strong><br>Dari-Rich Chocolate Drink</td>\n<td><strong>Brenda Marshall (Star)</strong></td>\n<td><strong>Dramatic Repertory Cast</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Stars Over Hollywood&quot;, &quot;Brenda Marshall&quot;, &quot;Dari-Rich&quot;]</code></td>\n<td>A spirited society woman uses quick thinking and subtle psychological maneuvering to prevent her fiancé from joining a fraudulent corporate scheme.</td>\n</tr>\n<tr>\n<td><code>StarsHollywood_1948_ModelWife.mp3</code> <br><em>Alt</em>: <code>Stars Over Hollywood 1948 Episode</code></td>\n<td><strong>&quot;The Model Wife with Jane Wyatt&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1948-09-04<br>1:00 PM EDT</td>\n<td><strong>Armour and Co.</strong><br>Dial Soap &amp; Chiffon</td>\n<td><strong>Jane Wyatt (Star)</strong></td>\n<td><strong>Dramatic Repertory Cast</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Stars Over Hollywood&quot;, &quot;Jane Wyatt&quot;, &quot;Armour&quot;]</code></td>\n<td>An ambitious commercial artist&#39;s wife orchestrates a series of social dinner parties to help her timid husband win a lucrative department store campaign.</td>\n</tr>\n<tr>\n<td><code>Crimelight_1935_PoliceDocudrama.mp3</code> <br><em>Alt</em>: <code>In The Crimelight 1935 Episode</code></td>\n<td><strong>&quot;True Crime Reenactments with WOR Dramatic Cast&quot;</strong></td>\n<td><strong>WOR New York</strong><br>1935-09-04</td>\n<td><strong>Sustaining</strong><br>Police Docudrama</td>\n<td><strong>WOR Dramatic Company</strong></td>\n<td><strong>WOR Production Staff</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Docudrama&quot;, &quot;In The Crimelight&quot;, &quot;WOR&quot;, &quot;Police&quot;]</code></td>\n<td>A gritty police docudrama tracing police ballistics experts who track down an armed safe-cracking gang operating in Manhattan.</td>\n</tr>\n<tr>\n<td><code>PlatformChrist_1960_LaborManagement.mp3</code> <br><em>Alt</em>: <code>Christ and Labor Management Platform for Christ, A</code></td>\n<td><strong>&quot;Christ and Labor Management with Mutual&quot;</strong></td>\n<td><strong>Mutual Radio</strong><br>1960-09-04</td>\n<td><strong>Sustaining</strong><br>Religious Discussion</td>\n<td><strong>Clergy Panelists</strong></td>\n<td><strong>Mutual Religious Staff</strong></td>\n<td><code>[&quot;Religion&quot;, &quot;Talk&quot;, &quot;Platform for Christ&quot;, &quot;Mutual&quot;, &quot;Labor Day&quot;]</code></td>\n<td>A Labor Day ecumenical address examining Christian moral principles applied to collective bargaining, fair wages, and corporate workplace ethics.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 288 / 471 (119 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 761 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Counterspy",
+        "Don MacLaughlin",
+        "Mandel Kramer",
+        "Phillips H Lord",
+        "Mail Pouch Tobacco",
+        "Kentucky Club",
+        "Let's Pretend",
+        "Nila Mack",
+        "Cream of Wheat",
+        "Ali Baba",
+        "Stars Over Hollywood",
+        "Brenda Marshall",
+        "Jane Wyatt",
+        "Bowey's Dari-Rich",
+        "Armour and Company",
+        "Dial Soap",
+        "In the Crimelight",
+        "WOR",
+        "A Platform for Christ",
+        "Mutual",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-760-lone-ranger-frontier-chronicles-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-760-lone-ranger-frontier-chronicles-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — The Lone Ranger Frontier Chronicles",
