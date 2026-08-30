@@ -1,0 +1,33 @@
+# Archival Dispatch: September 1 Calendar Walk — WWII Outbreak 1939, The Railroad Hour, and Graham Kennedy
+
+**Date**: 2026-09-01  
+**Author**: radio index  
+**Tags**: September 1, Calendar Walk, WWII News, Invasion of Poland, Alvar Liddell, BBC Home Service, Paderewski, Jupp und Willie, Nazi Propaganda, RRG Berlin, The Railroad Hour, Gordon MacRae, Dorothy Kirsten, Graham Kennedy, RS Playhouse, Alternate Titles, Original Filenames
+
+---
+
+## September 1 Archival Metadata Enrichment (Increment 532)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across the epochal radio outbreak of World War II on September 1, 1939, Association of American Railroads operettas, and Australian television/radio comedy revues, Alvar Liddell reporting the Nazi invasion of Poland, Ignacy Jan Paderewski's international appeal, German state radio propaganda on *Jupp und Willie* (1939), Gordon MacRae and Dorothy Kirsten on *The Railroad Hour* (1952), and Graham Kennedy (1939–1979):
+
+---
+
+## 1. *September 1 Archival Inventory (Increment 532)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Railroad_1952_Piccadilly.mp3` <br>*Alt*: `The Pirates Of Picadilly` | **"The Pirates of Piccadilly with Gordon MacRae and Dorothy Kirsten"** | **NBC (WNBC)**<br>1952-09-01<br>8:00 PM EDT | **Assoc. American Rail**<br>Passenger Rail Service | **Gordon MacRae**, **Kirsten** | **Carmen Dragon Orchestra** | `["Music", "Operetta", "Musical", "Railroad Hour", "Gordon MacRae"]` | A musical comedy adaptation follows an ambitious young London songwriter navigating rival theater producers and romantic entanglements. |
+| `Graham_Kennedy_1979_Fever.mp3` <br>*Alt*: `Sunday Morning Fever RS Playhouse` | **"Sunday Morning Fever with Graham Kennedy"** | **3LO Melbourne**<br>1979-09-01 | **Sustaining**<br>Australian Comedy | **Graham Kennedy**, **Cast** | **ABC Radio Comedy** | `["Comedy", "Satire", "Graham Kennedy", "Australia", "Playhouse"]` | Graham Kennedy hosts an irreverent Australian comedy revue spoofing disco dance crazes and weekend suburban hangovers. |
+| `WWII_1939_InvasionPoland.mp3` <br>*Alt*: `Alvar Liddell Reports The Invasion Of Poland` | **"Alvar Liddell Reports the German Invasion of Poland with BBC Home Service"** | **BBC Home Service**<br>1939-09-01<br>10:45 AM BST | **Sustaining**<br>War Bulletin | **Alvar Liddell (Newsreader)** | **BBC News Service** | `["News", "History", "WWII", "Invasion Of Poland", "BBC"]` | Newsreader Alvar Liddell interrupts regular programming to announce that German military forces have invaded Poland and bombed Warsaw. |
+| `WWII_1939_JuppWillie1.mp3` <br>*Alt*: `Rrg Jupp Und Willie Don't Listen To Foreign` | **"Jupp und Willie: Nazi Domestic Propaganda on Listening to Foreign Radio with RRG Berlin"** | **RRG Berlin**<br>1939-09-01 | **German State Radio**<br>Public Enlightenment | **Ludwig Lommel (Jupp)** | **RRG Production Staff** | `["Propaganda", "History", "WWII", "Germany", "RRG"]` | A satirical dialogue between two Berliners serves as domestic propaganda warning citizens against tuning in to foreign enemy radio broadcasts. |
+| `WWII_1939_Paderewski.mp3` <br>*Alt*: `Ignace Paderewski On The War Looming` | **"Ignacy Jan Paderewski on the Nazi Invasion Looming over Poland"** | **International Relay**<br>1939-09-01 | **Polish Relief**<br>International Red Cross | **Ignacy Jan Paderewski** | **Shortwave Broadcast Staff** | `["News", "History", "WWII", "Poland", "Paderewski"]` | Former Polish Prime Minister and composer Ignacy Jan Paderewski delivers an impassioned radio appeal urging world democracies to assist Poland against Nazi aggression. |
+| `WWII_1939_JuppWillie2.mp3` <br>*Alt*: `1939 09 00 Rrg Jupp Und Willie Dont Listen` | **"Jupp und Willie: Blackout and Foreign Broadcast Warning with RRG Berlin (Alternate)"** | **RRG Berlin**<br>1939-09-01 | **German State Radio**<br>State Broadcasting | **RRG Radio Actors** | **RRG Production Staff** | `["Propaganda", "History", "WWII", "Germany", "RRG"]` | Two comical German characters discuss the imposition of wartime blackout regulations and state penalties for listening to BBC transmissions. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 114 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

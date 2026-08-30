@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-531-david-niven-39-steps-everett-sloane-guiding-light-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-531-david-niven-39-steps-everett-sloane-guiding-light-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — David Niven's 39 Steps, Everett Sloane, and Guiding Light",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 531)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across British espionage classics, gritty NYPD station house procedurals, hardboiled adventurer mysteries, legendary daytime radio serials, and federal agent adventures, David Niven in John Buchan&#39;s <em>The 39 Steps</em> on <em>The Hour of Mystery</em> (1946), Everett Sloane in <em>21st Precinct</em> (1953), Ned Wever in <em>Bulldog Drummond</em> (1948), Jone Allison in <em>The Guiding Light</em> for Duz (1950), Claire Niesen in <em>Backstage Wife</em> (1950), and <em>Security Agent, U.S.A.</em> (1946–1953):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 531)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Hour_Mystery_1946_39Steps.mp3</code> <br><em>Alt</em>: <code>The Thirty Nine Steps (David Niven)</code></td>\n<td><strong>&quot;John Buchan&#39;s The 39 Steps with David Niven&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-01<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Summer Mystery Drama</td>\n<td><strong>David Niven</strong>, <strong>Ensemble</strong></td>\n<td><strong>John Buchan (Author)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Espionage&quot;, &quot;Thriller&quot;, &quot;David Niven&quot;, &quot;Hour Of Mystery&quot;]</code></td>\n<td>Richard Hannay is falsely accused of murder and flees across the Scottish highlands while unravelling an international espionage conspiracy.</td>\n</tr>\n<tr>\n<td><code>21st_Precinct_1953_Friend.mp3</code> <br><em>Alt</em>: <code>The Friend 21st Precinct</code></td>\n<td><strong>&quot;The Friend with Everett Sloane&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1953-09-01<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Docudrama</td>\n<td><strong>Everett Sloane</strong>, <strong>Lynch</strong></td>\n<td><strong>John Meston (Writer)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Procedural&quot;, &quot;21st Precinct&quot;, &quot;Everett Sloane&quot;]</code></td>\n<td>Captain Kennelly assists an elderly neighborhood resident whose life savings are stolen by a manipulative boardinghouse acquaintance.</td>\n</tr>\n<tr>\n<td><code>Drummond_1948_DeathRange.mp3</code> <br><em>Alt</em>: <code>Death Rides The Range</code></td>\n<td><strong>&quot;Death Rides the Range with Ned Wever&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-09-01<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Bulldog Drummond</td>\n<td><strong>Ned Wever</strong>, <strong>Van Rooten</strong></td>\n<td><strong>H.C. McNeile (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Adventure&quot;, &quot;Bulldog Drummond&quot;, &quot;Ned Wever&quot;, &quot;Mutual&quot;]</code></td>\n<td>Bulldog Drummond visits a dude ranch in Nevada and investigates the sniper ambush of a wealthy livestock owner.</td>\n</tr>\n<tr>\n<td><code>Guiding_Light_1950_Meta.mp3</code> <br><em>Alt</em>: <code>The Brandons Discuss Meta</code></td>\n<td><strong>&quot;The Brandons Discuss Meta with Jone Allison and Procter &amp; Gamble&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-09-01<br>1:45 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Soap Powder</td>\n<td><strong>Jone Allison</strong>, <strong>Sudrow</strong></td>\n<td><strong>Irna Phillips (Creator)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Soap Opera&quot;, &quot;The Guiding Light&quot;, &quot;Irna Phillips&quot;, &quot;Duz&quot;]</code></td>\n<td>The Brandon family meets in Selby Flats to debate Meta&#39;s legal rights and marital future following a tense confrontation.</td>\n</tr>\n<tr>\n<td><code>Backstage_1950_ClaudiaOliver.mp3</code> <br><em>Alt</em>: <code>Claudia and Oliver Have Been Married</code></td>\n<td><strong>&quot;Claudia and Oliver Have Been Married with Claire Niesen&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1950-09-01<br>4:00 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>White Naptha Soap</td>\n<td><strong>Claire Niesen (Mary)</strong></td>\n<td><strong>Frank &amp; Anne Hummert</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Soap Opera&quot;, &quot;Backstage Wife&quot;, &quot;Hummert&quot;, &quot;NBC&quot;]</code></td>\n<td>Mary Noble reacts with surprise upon learning that Claudia and Oliver secretly eloped, threatening Broadway production rehearsals.</td>\n</tr>\n<tr>\n<td><code>Security_Agent_1949_Passports.mp3</code> <br><em>Alt</em>: <code>Security Agent U S A 1949</code></td>\n<td><strong>&quot;The Counterfeit Passport Ring with Dramatic Cast&quot;</strong></td>\n<td><strong>Syndication</strong><br>1949-09-01</td>\n<td><strong>Sustaining</strong><br>Federal Agent Action</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Syndicated Audio Staff</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Espionage&quot;, &quot;Action&quot;, &quot;Security Agent USA&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Undercover federal agents infiltrate a maritime smuggling network forging official travel documents for international fugitives.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 108 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 531 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "The Hour of Mystery",
+        "David Niven",
+        "The 39 Steps",
+        "John Buchan",
+        "21st Precinct",
+        "Everett Sloane",
+        "John Meston",
+        "Bulldog Drummond",
+        "Ned Wever",
+        "The Guiding Light",
+        "Jone Allison",
+        "Meta Bauer",
+        "Duz",
+        "Backstage Wife",
+        "Claire Niesen",
+        "Security Agent USA",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-530-meet-the-press-chandu-magician-sweeney-march-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-530-meet-the-press-chandu-magician-sweeney-march-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Meet the Press, Chandu the Magician, and Sweeney & March",
