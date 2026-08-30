@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-755-aunt-mary-alan-young-westinghouse-research-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-755-aunt-mary-alan-young-westinghouse-research-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Aunt Mary, Alan Young & Westinghouse Research",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 755)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across three years of Jane Morgan&#39;s beloved Pacific Coast daytime drama <em>Aunt Mary</em> for Albers Milling and Safeway (1945, 1946, 1947), Alan Young grappling with post-war civilian life on <em>The Alan Young Show</em> for Sal Hepatica, Westinghouse science educator Dr. Phillips Thomas exploring entomology on <em>Adventures in Research</em>, and traditional western hoedowns on <em>Chuck Wagon Jamboree</em>, Jane Morgan (1945, 1946, 1947), Alan Young (1945), Dr. Phillips Thomas (1945), and Western Rangers (1945–1948):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 755)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>AuntMary_1945_BabyBorn.mp3</code> <br><em>Alt</em>: <code>Lisa&#39;s Baby Is Born Aunt Mary</code></td>\n<td><strong>&quot;Lisa&#39;s Baby Is Born with Jane Morgan as Aunt Mary&quot;</strong></td>\n<td><strong>NBC Pacific (KNBC)</strong><br>1945-09-04<br>3:30 PM PWT</td>\n<td><strong>Safeway Stores</strong><br>Albers Milling</td>\n<td><strong>Jane Morgan (Aunt Mary)</strong></td>\n<td><strong>Irene Tedrow &amp; Doud</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Aunt Mary&quot;, &quot;Jane Morgan&quot;, &quot;Safeway&quot;]</code></td>\n<td>Aunt Mary rejoices with the Willow Springs community as Lisa safely gives birth to a healthy baby girl at the local clinic.</td>\n</tr>\n<tr>\n<td><code>AuntMary_1946_PaulKitt.mp3</code> <br><em>Alt</em>: <code>Paul Will Call Kitt&#39;s Father Aunt Mary</code></td>\n<td><strong>&quot;Paul Will Call Kitt&#39;s Father with Jane Morgan&quot;</strong></td>\n<td><strong>NBC Pacific (KNBC)</strong><br>1946-09-04<br>3:30 PM PST</td>\n<td><strong>Albers Milling Co.</strong><br>Albers Cereals</td>\n<td><strong>Jane Morgan (Aunt Mary)</strong></td>\n<td><strong>Paul Crandall &amp; Safford</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Aunt Mary&quot;, &quot;Jane Morgan&quot;, &quot;Albers&quot;]</code></td>\n<td>Paul agrees to intervene and contact Kitt&#39;s estranged father to mediate an escalating family disagreement over her future marriage.</td>\n</tr>\n<tr>\n<td><code>AuntMary_1947_KittWhitney.mp3</code> <br><em>Alt</em>: <code>Kitt Tells Dr. Whitney The Future Frightens Her. He Offers Her A Job Aunt Mary</code></td>\n<td><strong>&quot;Kitt Tells Dr. Whitney the Future Frightens Her&quot;</strong></td>\n<td><strong>NBC Pacific (KNBC)</strong><br>1947-09-04<br>3:30 PM PST</td>\n<td><strong>Albers Milling Co.</strong><br>Albers Flapjack Flour</td>\n<td><strong>Jane Morgan &amp; Dr. Whitney</strong></td>\n<td><strong>Gil Doud &amp; Safford</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Aunt Mary&quot;, &quot;Jane Morgan&quot;, &quot;Albers&quot;]</code></td>\n<td>Kitt confides her anxieties about entering the workforce to Dr. Whitney, who encourages her by offering a position as his medical receptionist.</td>\n</tr>\n<tr>\n<td><code>AlanYoung_1945_Readjustment.mp3</code> <br><em>Alt</em>: <code>Alan Young Show 1945 Episode</code></td>\n<td><strong>&quot;Post-War Civilian Readjustment with Alan Young&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1945-09-04<br>8:30 PM EWT</td>\n<td><strong>Bristol-Myers Co.</strong><br>Sal Hepatica &amp; Vitalis</td>\n<td><strong>Alan Young &amp; Backus</strong></td>\n<td><strong>Jean Gillespie &amp; Van Steeden</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Alan Young Show&quot;, &quot;Alan Young&quot;, &quot;Sal Hepatica&quot;]</code></td>\n<td>Alan Young tries to navigate post-war civilian life and impress his girlfriend&#39;s father by demonstrating his eccentric mechanical handyman skills.</td>\n</tr>\n<tr>\n<td><code>AdventuresResearch_1945_InsectZoo.mp3</code> <br><em>Alt</em>: <code>An Insect Zoo Adventures in Research</code></td>\n<td><strong>&quot;An Insect Zoo with Dr. Phillips Thomas&quot;</strong></td>\n<td><strong>Syndication / KDKA</strong><br>1945-09-04</td>\n<td><strong>Westinghouse Electric</strong><br>Institutional Science</td>\n<td><strong>Dr. Phillips Thomas</strong></td>\n<td><strong>Paul Shannon (Narr.)</strong></td>\n<td><code>[&quot;Science&quot;, &quot;Education&quot;, &quot;Adventures in Research&quot;, &quot;Phillips Thomas&quot;, &quot;Westinghouse&quot;]</code></td>\n<td>Dr. Phillips Thomas explores how agricultural scientists study live insect colonies to develop targeted organic crop protection methods.</td>\n</tr>\n<tr>\n<td><code>ChuckWagon_1948_DanTucker.mp3</code> <br><em>Alt</em>: <code>Old dan tucker Chuck Wagon Jamboree</code></td>\n<td><strong>&quot;Old Dan Tucker with Western Rangers&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1948-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>Western Rangers Band</strong></td>\n<td><strong>AFRS Music Staff</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Music&quot;, &quot;Chuck Wagon Jamboree&quot;, &quot;Western Rangers&quot;, &quot;AFRS&quot;]</code></td>\n<td>A lively western string band performs traditional frontier fiddle breakdowns, hoedowns, and folk standards led by Old Dan Tucker.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 252 / 471 (155 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 755 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Aunt Mary",
+        "Jane Morgan",
+        "Irene Tedrow",
+        "Albers Milling",
+        "Safeway",
+        "The Alan Young Show",
+        "Alan Young",
+        "Jim Backus",
+        "Sal Hepatica",
+        "Bristol-Myers",
+        "Adventures in Research",
+        "Dr Phillips Thomas",
+        "Westinghouse Electric",
+        "Chuck Wagon Jamboree",
+        "Western Rangers",
+        "AFRS",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-754-martin-kane-popeye-grand-ole-opry-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-754-martin-kane-popeye-grand-ole-opry-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Martin Kane, Popeye & Grand Ole Opry",
