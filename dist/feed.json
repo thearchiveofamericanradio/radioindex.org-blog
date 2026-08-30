@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-492-david-harding-counterspy-joe-e-brown-fdr-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-492-david-harding-counterspy-joe-e-brown-fdr-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — David Harding Counterspy, Joe E. Brown, and FDR",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 492)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across wartime espionage procedurals, comedy quiz shows, presidential home club addresses, Western lawmen adventures, and British schoolboy domestic comedies, Don MacLaughlin starring in Phillips H. Lord&#39;s <em>David Harding, Counterspy</em> (1942, 1947), Joe E. Brown hosting <em>Stop or Go</em> for Bexel (1944), President Franklin D. Roosevelt in Hyde Park (1940), Brace Beemer in <em>The Lone Ranger</em> (1955), and Jimmy Clitheroe in <em>The Clitheroe Kid</em> on BBC Radio 2 (1940–1969):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 492)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Lone_Ranger_1955_Railroad.mp3</code> <br><em>Alt</em>: <code>Railroad To Prison Lone Ranger</code></td>\n<td><strong>&quot;Railroad to Prison with Brace Beemer&quot;</strong></td>\n<td><strong>ABC Network</strong><br>1955-08-31<br>7:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Cheerios Cereal</td>\n<td><strong>Brace Beemer</strong>, <strong>Todd</strong></td>\n<td><strong>Fred Foy (Announcer)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Juvenile&quot;, &quot;The Lone Ranger&quot;, &quot;Brace Beemer&quot;]</code></td>\n<td>The Lone Ranger foils an outlaw gang attempting to hijack a territorial prison transport train to liberate their condemned leader.</td>\n</tr>\n<tr>\n<td><code>FDR_1940_FiresideHyde.mp3</code> <br><em>Alt</em>: <code>Informal Remarks Roosevelt Club</code></td>\n<td><strong>&quot;Informal Remarks to the Roosevelt Home Club in Hyde Park&quot;</strong></td>\n<td><strong>NBC &amp; CBS Networks</strong><br>1940-08-31<br>3:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>Franklin D. Roosevelt</strong></td>\n<td><strong>White House Staff</strong></td>\n<td><code>[&quot;History&quot;, &quot;Speech&quot;, &quot;Politics&quot;, &quot;FDR&quot;, &quot;Hyde Park&quot;]</code></td>\n<td>President Roosevelt speaks to his hometown Hyde Park neighbors about civic unity and democratic resolve during wartime overseas crises.</td>\n</tr>\n<tr>\n<td><code>Stop_Go_1944_Brown.mp3</code> <br><em>Alt</em>: <code>Stop or Go 1944 Episode</code></td>\n<td><strong>&quot;The Traffic Light Quiz with Joe E. Brown&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1944-08-31<br>10:30 PM EWT</td>\n<td><strong>McKesson &amp; Robbins</strong><br>Bexel Vitamin B</td>\n<td><strong>Joe E. Brown</strong> (Host)</td>\n<td><strong>NBC Production Staff</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Game Show&quot;, &quot;Comedy&quot;, &quot;Joe E Brown&quot;, &quot;Bexel&quot;]</code></td>\n<td>Comedian Joe E. Brown grills contestants under red and green traffic signal lights, awarding cash prizes for quick answers.</td>\n</tr>\n<tr>\n<td><code>Counterspy_1942_OilTanker.mp3</code> <br><em>Alt</em>: <code>TCOT Enemy Oiltanker</code></td>\n<td><strong>&quot;The Case of the Enemy Oil Tanker with Don MacLaughlin&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1942-08-31<br>9:00 PM EWT</td>\n<td><strong>Mail Pouch Tobacco</strong><br>Kentucky Club</td>\n<td><strong>Don MacLaughlin</strong>, <strong>Kramer</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Mystery&quot;, &quot;Counterspy&quot;, &quot;Don MacLaughlin&quot;, &quot;Phillips Lord&quot;]</code></td>\n<td>Counterspy chief David Harding intercepts Axis submarine refueling rendezvous coordinates radioed from a compromised coastal oil tanker.</td>\n</tr>\n<tr>\n<td><code>Counterspy_1947_Stevedore.mp3</code> <br><em>Alt</em>: <code>The Case Of The Silent Stevedore</code></td>\n<td><strong>&quot;The Case of the Silent Stevedore with Don MacLaughlin&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1947-08-31<br>5:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Espionage Procedural</td>\n<td><strong>Don MacLaughlin</strong>, <strong>Kramer</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Mystery&quot;, &quot;Counterspy&quot;, &quot;Don MacLaughlin&quot;, &quot;Phillips Lord&quot;]</code></td>\n<td>David Harding investigates sabotage explosions on Atlantic cargo freighters and tracks a deaf-mute dockworker coerced by foreign agents.</td>\n</tr>\n<tr>\n<td><code>Clitheroe_1969_Phone.mp3</code> <br><em>Alt</em>: <code>Answer That Phone Clitheroe</code></td>\n<td><strong>&quot;Answer That Phone with Jimmy Clitheroe&quot;</strong></td>\n<td><strong>BBC Radio 2</strong><br>1969-08-31<br>1:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Family Sitcom</td>\n<td><strong>Jimmy Clitheroe</strong>, <strong>Sinclair</strong></td>\n<td><strong>Casey &amp; Roscoe (Writers)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Sitcom&quot;, &quot;Clitheroe Kid&quot;, &quot;BBC Radio 2&quot;]</code></td>\n<td>Jimmy creates domestic uproar by intercepting family telephone calls and relaying fabricated messages to his exasperated relatives.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 252 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 492 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "David Harding Counterspy",
+        "Phillips H Lord",
+        "Don MacLaughlin",
+        "ABC",
+        "FDR",
+        "Franklin D Roosevelt",
+        "Hyde Park",
+        "Stop or Go",
+        "Joe E Brown",
+        "Bexel",
+        "The Lone Ranger",
+        "Brace Beemer",
+        "General Mills",
+        "The Clitheroe Kid",
+        "Jimmy Clitheroe",
+        "BBC Radio 2",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-491-the-lone-ranger-frontier-chronicles-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-491-the-lone-ranger-frontier-chronicles-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — The Lone Ranger Frontier Chronicles (1938–1953)",
