@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-488-family-theater-judy-canova-eyes-aloft-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-488-family-theater-judy-canova-eyes-aloft-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Family Theater, Judy Canova, and Eyes Aloft",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 488)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across inspirational moral drama, hillbilly musical comedy, Cold War political thrillers, and wartime Pacific Coast defense docudramas, Barry Sullivan and Maureen O&#39;Sullivan in <em>Family Theater</em> (1955), Judy Canova and Mel Blanc on <em>The Judy Canova Show</em> for Colgate (1943, 1946), Tyrone Power in <em>Freedom, U.S.A.</em> (1952), and the U.S. Army Air Forces&#39; <em>Eyes Aloft</em> (1942, 1943):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 488)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Family_1955_BigOne.mp3</code> <br><em>Alt</em>: <code>The Big One Family Theater</code></td>\n<td><strong>&quot;The Big One with Barry Sullivan and Maureen O&#39;Sullivan&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1955-08-31<br>9:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Family Rosary Drama</td>\n<td><strong>Barry Sullivan</strong>, <strong>O&#39;Sullivan</strong></td>\n<td><strong>Father Patrick Peyton</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Family&quot;, &quot;Family Theater&quot;, &quot;Mutual&quot;]</code></td>\n<td>A troubled commercial fisherman risks his boat and savings pursuing a legendary giant marlin to prove his worth to his family.</td>\n</tr>\n<tr>\n<td><code>Canova_1943_Pig.mp3</code> <br><em>Alt</em>: <code>Getting Pig Back Rancho Canova</code></td>\n<td><strong>&quot;Getting the Pig Back to Rancho Canova with Judy Canova (Colgate)&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-08-31<br>8:30 PM EWT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Dental / Halo</td>\n<td><strong>Judy Canova</strong>, <strong>Mel Blanc</strong></td>\n<td><strong>Gordon Jenkins Orch.</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Hillbilly&quot;, &quot;Music&quot;, &quot;Judy Canova&quot;, &quot;Colgate&quot;]</code></td>\n<td>Judy wreaks havoc across Hollywood trying to transport an escaped prize pig back to her ranch in an open convertible.</td>\n</tr>\n<tr>\n<td><code>Canova_1946_Cactus.mp3</code> <br><em>Alt</em>: <code>Just Back Cactus Junction</code></td>\n<td><strong>&quot;Just Back from Cactus Junction with Judy Canova (Colgate)&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-08-31<br>10:00 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Dental / Palm.</td>\n<td><strong>Judy Canova</strong>, <strong>Gordon</strong></td>\n<td><strong>Sportsmen Quartet</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Hillbilly&quot;, &quot;Music&quot;, &quot;Judy Canova&quot;, &quot;Colgate&quot;]</code></td>\n<td>Judy returns from a family reunion in Cactus Junction loaded down with eccentric country souvenirs and farm animals.</td>\n</tr>\n<tr>\n<td><code>Freedom_1952_MapPiece.mp3</code> <br><em>Alt</em>: <code>Espionage Missing Map Piece</code></td>\n<td><strong>&quot;Espionage and the Missing Map Piece with Tyrone Power&quot;</strong></td>\n<td><strong>Ziv Syndication</strong><br>1952-08-31</td>\n<td><strong>Sustaining</strong><br>Cold War Political Drama</td>\n<td><strong>Tyrone Power</strong>, <strong>Jerome</strong></td>\n<td><strong>Anton M. Leader (Director)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Politics&quot;, &quot;Espionage&quot;, &quot;Tyrone Power&quot;, &quot;ZIV&quot;]</code></td>\n<td>U.S. Senator Dean Edwards exposes a ring of foreign intelligence operatives attempting to reconstruct a classified military radar map.</td>\n</tr>\n<tr>\n<td><code>Eyes_Aloft_1942_Coast.mp3</code> <br><em>Alt</em>: <code>Eyes Aloft 1942 Episode</code></td>\n<td><strong>&quot;Coastal Air Warning Spotters on Duty with Fourth Fighter Command&quot;</strong></td>\n<td><strong>NBC Pacific</strong><br>1942-08-31<br>9:00 PM PWT</td>\n<td><strong>U.S. Army Air Forces</strong><br>IV Fighter Command</td>\n<td><strong>Hollywood Repertory</strong></td>\n<td><strong>True Boardman (Producer)</strong></td>\n<td><code>[&quot;Docudrama&quot;, &quot;WWII&quot;, &quot;Aviation&quot;, &quot;Eyes Aloft&quot;, &quot;NBC Pacific&quot;]</code></td>\n<td>Volunteer civilian aircraft spotters stationed along the Pacific coast identify unidentified enemy aircraft formations in fog.</td>\n</tr>\n<tr>\n<td><code>Eyes_Aloft_1943_NightWatch.mp3</code> <br><em>Alt</em>: <code>Eyes Aloft 1943 Episode</code></td>\n<td><strong>&quot;The Night Watch at Peak Lookout with Fourth Fighter Command&quot;</strong></td>\n<td><strong>NBC Pacific</strong><br>1943-08-31<br>9:00 PM PWT</td>\n<td><strong>U.S. Army Air Forces</strong><br>IV Fighter Command</td>\n<td><strong>Hollywood Repertory</strong></td>\n<td><strong>True Boardman (Producer)</strong></td>\n<td><code>[&quot;Docudrama&quot;, &quot;WWII&quot;, &quot;Aviation&quot;, &quot;Eyes Aloft&quot;, &quot;NBC Pacific&quot;]</code></td>\n<td>Civilian mountain-top lookouts brave blizzard conditions to report emergency radar blips and guide lost Allied bombers home safely.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 228 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 488 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Family Theater",
+        "Barry Sullivan",
+        "Maureen OSullivan",
+        "Father Patrick Peyton",
+        "Mutual",
+        "Judy Canova",
+        "Mel Blanc",
+        "Ruby Dandridge",
+        "Colgate",
+        "Freedom USA",
+        "Tyrone Power",
+        "ZIV",
+        "Eyes Aloft",
+        "Fourth Fighter Command",
+        "Army Air Forces",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-487-martin-kane-grand-ole-opry-nikola-tesla-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-487-martin-kane-grand-ole-opry-nikola-tesla-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Martin Kane, Grand Ole Opry, and Nikola Tesla",
