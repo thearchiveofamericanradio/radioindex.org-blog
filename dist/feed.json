@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-630-bing-crosby-cavalcade-of-america-big-town-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-630-bing-crosby-cavalcade-of-america-big-town-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Bing Crosby, Cavalcade of America & Big Town",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 630)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across American historical docudramas, hardhitting newspaper crusades, lighthearted comedy revues, and national sports newsreels, Bing Crosby as Stephen Foster and Dorothy McGuire in <em>Cavalcade of America</em> for DuPont (1946, 1952), Edward Pawley in <em>Big Town</em> for Lifebuoy (1947), Shirley Booth on <em>The Gulf Spray Show</em> for Gulf Oil (1941, 1947), and Bill Stern interviewing former President Herbert Hoover (1941–1952):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 630)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Cavalcade_1946_CradleClock.mp3</code> <br><em>Alt</em>: <code>With Cradle And Clock Cavalcade of America</code></td>\n<td><strong>&quot;With Cradle and Clock with Dorothy McGuire and DuPont&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-09-02<br>8:00 PM EDT</td>\n<td><strong>DuPont</strong><br>Better Living Chemistry</td>\n<td><strong>Dorothy McGuire</strong></td>\n<td><strong>Karl Swenson &amp; Zoller</strong></td>\n<td><code>[&quot;History&quot;, &quot;Drama&quot;, &quot;Cavalcade Of America&quot;, &quot;Dorothy McGuire&quot;, &quot;DuPont&quot;]</code></td>\n<td>A pioneering nineteenth-century female physician defies entrenched medical prejudice to establish modern maternal healthcare standards.</td>\n</tr>\n<tr>\n<td><code>Cavalcade_1952_MelodyMan.mp3</code> <br><em>Alt</em>: <code>The Melody Man Cavalcade of America</code></td>\n<td><strong>&quot;The Melody Man with Bing Crosby and DuPont&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-09-02<br>8:00 PM EDT</td>\n<td><strong>DuPont</strong><br>Better Living Chemistry</td>\n<td><strong>Bing Crosby (Foster)</strong></td>\n<td><strong>Arthur Arent (Author)</strong></td>\n<td><code>[&quot;History&quot;, &quot;Drama&quot;, &quot;Cavalcade Of America&quot;, &quot;Bing Crosby&quot;, &quot;DuPont&quot;]</code></td>\n<td>The life and musical legacy of beloved American composer Stephen Foster unfold as he pens his iconic folk songs.</td>\n</tr>\n<tr>\n<td><code>BigTown_1947_DoubleTrouble.mp3</code> <br><em>Alt</em>: <code>Double Trouble Big Town</code></td>\n<td><strong>&quot;Double Trouble with Edward Pawley as Steve Wilson&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1947-09-02<br>8:00 PM EDT</td>\n<td><strong>Lever Brothers</strong><br>Lifebuoy Soap</td>\n<td><strong>Edward Pawley (Wilson)</strong></td>\n<td><strong>Fran Carlon &amp; McGill</strong></td>\n<td><code>[&quot;Newspaper&quot;, &quot;Drama&quot;, &quot;Big Town&quot;, &quot;Edward Pawley&quot;, &quot;Lifebuoy&quot;]</code></td>\n<td>Illustrated Press managing editor Steve Wilson uncovers an extortion racket involving identical twin con artists impersonating municipal inspectors.</td>\n</tr>\n<tr>\n<td><code>Gulf_1941_ShirleyBooth.mp3</code> <br><em>Alt</em>: <code>Episode The Gulf Spray Show</code></td>\n<td><strong>&quot;Shirley Booth with Gulf Spray Insecticide&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1941-09-02<br>8:30 PM EDST</td>\n<td><strong>Gulf Oil Corp.</strong><br>Gulf Spray Insecticide</td>\n<td><strong>Shirley Booth</strong>, <strong>Brown</strong></td>\n<td><strong>Frank Black Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Gulf Spray&quot;, &quot;Shirley Booth&quot;, &quot;CBS&quot;]</code></td>\n<td>Shirley Booth performs satirical musical sketches poking fun at suburban garden pests and domestic housekeeping trials.</td>\n</tr>\n<tr>\n<td><code>Gulf_1947_TamingShrew.mp3</code> <br><em>Alt</em>: <code>Kate The Gulf Spray Show</code></td>\n<td><strong>&quot;The Taming of the Shrew with Shirley Booth and Gulf&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1947-09-02<br>8:30 PM EDT</td>\n<td><strong>Gulf Oil Corp.</strong><br>Gulf Gas &amp; Motor Oil</td>\n<td><strong>Shirley Booth (Kate)</strong></td>\n<td><strong>CBS Repertory Ensemble</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Gulf Spray&quot;, &quot;Shirley Booth&quot;, &quot;CBS&quot;]</code></td>\n<td>Shirley Booth stars in a comedic modernization of Shakespeare&#39;s classic battle-of-the-sexes romance.</td>\n</tr>\n<tr>\n<td><code>Stern_1949_HerbertHoover.mp3</code> <br><em>Alt</em>: <code>Guest Herbert Hoover Bill Stern&#39;s Sports Newsreel</code></td>\n<td><strong>&quot;Guest Herbert Hoover with Bill Stern and Colgate&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-09-02<br>10:30 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Shaving Cream</td>\n<td><strong>Bill Stern (Host)</strong></td>\n<td><strong>Herbert Hoover (Guest)</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Interview&quot;, &quot;Bill Stern&quot;, &quot;Herbert Hoover&quot;, &quot;Colgate&quot;]</code></td>\n<td>Bill Stern interviews former President Herbert Hoover about boyhood baseball memories and collegiate athletics at Stanford University.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 392 / 480 (88 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 630 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Cavalcade of America",
+        "Bing Crosby",
+        "Stephen Foster",
+        "Dorothy McGuire",
+        "DuPont",
+        "Big Town",
+        "Edward Pawley",
+        "Lifebuoy",
+        "The Gulf Spray Show",
+        "Shirley Booth",
+        "Gulf Oil",
+        "Bill Sterns Sports Newsreel",
+        "Herbert Hoover",
+        "Colgate",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-629-charles-paris-mysterious-traveler-beulah-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-629-charles-paris-mysterious-traveler-beulah-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Charles Paris, The Mysterious Traveler & Beulah",
