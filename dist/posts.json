@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-618-joel-mccrea-lum-and-abner-air-battle-at-wewak-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-618-joel-mccrea-lum-and-abner-air-battle-at-wewak-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Joel McCrea, Lum & Abner & Air Battle at Wewak",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 618)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across gritty Texas Ranger scientific crime investigations, classic Pine Ridge Arkansas humor, dramatic radio mysteries, authentic wartime aviation combat dramatizations, and syndicated detective thrillers, Joel McCrea as Ranger Jace Pearson in <em>Tales of the Texas Rangers</em> for Wheaties (1950), Chester Lauck and Norris Goff in <em>Lum and Abner</em> for Alka-Seltzer (1947, 1948), <em>Philco Presents</em> (1945), <em>Wings to Victory</em> (1943), and <em>Crime Is My Pastime</em> (1943–1950):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 618)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TexasRangers_1950_PlayKeeps.mp3</code> <br><em>Alt</em>: <code>Play for Keeps Texas Rangers Show</code></td>\n<td><strong>&quot;Play for Keeps with Joel McCrea as Jace Pearson&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1950-09-02<br>8:30 PM EDT</td>\n<td><strong>General Mills</strong><br>Wheaties Cereal</td>\n<td><strong>Joel McCrea (Pearson)</strong></td>\n<td><strong>Stacy Keach Sr. (Dir)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Police&quot;, &quot;Texas Rangers&quot;, &quot;Joel McCrea&quot;, &quot;Wheaties&quot;]</code></td>\n<td>Texas Ranger Jace Pearson uses ballistic ballistics matching and tire tread castings to corner a ruthless highway hijack crew.</td>\n</tr>\n<tr>\n<td><code>Lum_1947_BeautyBrains.mp3</code> <br><em>Alt</em>: <code>Beauty Vrs Brains Miss America Contestants Lum</code></td>\n<td><strong>&quot;Beauty vs. Brains with Miss America Contestants&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1947-09-02<br>8:00 PM EDT</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer &amp; Vitamins</td>\n<td><strong>Chester Lauck (Lum)</strong></td>\n<td><strong>Norris Goff (Abner)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Lum And Abner&quot;, &quot;Alka Seltzer&quot;, &quot;ABC&quot;]</code></td>\n<td>Lum and Abner debate the relative merits of beauty versus brains while preparing a Pine Ridge delegate for a regional pageant.</td>\n</tr>\n<tr>\n<td><code>Lum_1948_BigCar.mp3</code> <br><em>Alt</em>: <code>Abner Arrives Back Home With Big Car Lum</code></td>\n<td><strong>&quot;Abner Returns Home with a Big Car with Alka-Seltzer&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-09-02<br>8:00 PM EDT</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer</td>\n<td><strong>Chester Lauck (Lum)</strong></td>\n<td><strong>Norris Goff (Abner)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Lum And Abner&quot;, &quot;Alka Seltzer&quot;, &quot;CBS&quot;]</code></td>\n<td>Abner drives into town behind the wheel of an enormous luxury touring automobile, prompting frantic speculation across Pine Ridge.</td>\n</tr>\n<tr>\n<td><code>Philco_1945_LeonasRoom.mp3</code> <br><em>Alt</em>: <code>Leona&#39;s Room Philco Presents</code></td>\n<td><strong>&quot;Leona&#39;s Room with Dramatic Cast and Philco&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1945-09-02<br>6:00 PM EWT</td>\n<td><strong>Philco Corp.</strong><br>Philco Radios &amp; App.</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Paul Whiteman (Host)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Philco Presents&quot;, &quot;Philco&quot;, &quot;ABC&quot;]</code></td>\n<td>An introspective mystery unfolds when a young boarding house resident uncovers personal diaries left behind by a vanished tenant.</td>\n</tr>\n<tr>\n<td><code>Wings_1943_BattleWewak.mp3</code> <br><em>Alt</em>: <code>The Story Of The Great Air Battle At Wewak, Indonesia</code></td>\n<td><strong>&quot;The Great Air Battle at Wewak with USAAF&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1943-09-02<br>10:00 PM EWT</td>\n<td><strong>USAAF</strong><br>Military Drama</td>\n<td><strong>USAAF Flight Crews</strong></td>\n<td><strong>Capt. Jerry Devine</strong></td>\n<td><code>[&quot;Military&quot;, &quot;Aviation&quot;, &quot;WWII&quot;, &quot;Wings To Victory&quot;, &quot;USAAF&quot;]</code></td>\n<td>Fifth Air Force B-25 Mitchell bomber squadrons execute low-level strafing runs to destroy fortified enemy airfields in New Guinea.</td>\n</tr>\n<tr>\n<td><code>CrimePastime_1945_Warehouse.mp3</code> <br><em>Alt</em>: <code>Crime Is My Pastime 1945 Episode</code></td>\n<td><strong>&quot;The Waterfront Warehouse Syndicate with Dramatic Cast&quot;</strong></td>\n<td><strong>Syndication</strong><br>1945-09-02</td>\n<td><strong>Sustaining</strong><br>Detective Drama</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Harry S. Goodman (Prod)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Crime Is My Pastime&quot;, &quot;Syndicated&quot;, &quot;Crime&quot;]</code></td>\n<td>A wealthy gentleman criminologist infiltrates a dockside pier syndicate to expose a fencing operation dealing in stolen military surplus.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 320 / 480 (160 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 618 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Tales of the Texas Rangers",
+        "Joel McCrea",
+        "Stacy Keach",
+        "Wheaties",
+        "Lum and Abner",
+        "Chester Lauck",
+        "Norris Goff",
+        "Alka Seltzer",
+        "Philco Presents",
+        "Paul Whiteman",
+        "Philco",
+        "Wings to Victory",
+        "USAAF",
+        "Crime Is My Pastime",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-617-lum-and-abner-six-classics-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-617-lum-and-abner-six-classics-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Six Classic Lum and Abner Broadcasts",
