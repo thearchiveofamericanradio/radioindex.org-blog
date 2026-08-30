@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-537-frank-sinatra-dana-andrews-fbi-peace-war-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-537-frank-sinatra-dana-andrews-fbi-peace-war-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Frank Sinatra, Dana Andrews, and FBI in Peace & War",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 537)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across intimate vocal pop sessions, Cold War espionage docudramas, FBI law enforcement series, post-war Asian geopolitical analyses, and Hollywood MGM musical previews, Frank Sinatra in <em>To Be Perfectly Frank</em> (1954), Dana Andrews in <em>I Was a Communist for the FBI</em> (1952), Martin Blaine in <em>The FBI in Peace and War</em> for Wildroot (1949), <em>The Pacific Story</em> on NBC (1946), and Jeanette MacDonald on <em>Hollywood Is on the Air</em> (1941–1954):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 537)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Communist_1952_Whip.mp3</code> <br><em>Alt</em>: <code>Jump to the Whip</code></td>\n<td><strong>&quot;Jump to the Whip with Dana Andrews&quot;</strong></td>\n<td><strong>Syndication (Ziv)</strong><br>1952-09-01</td>\n<td><strong>Sustaining</strong><br>Anti-Communist Drama</td>\n<td><strong>Dana Andrews (Cvetic)</strong></td>\n<td><strong>Frederic W. Ziv Co.</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Espionage&quot;, &quot;Cold War&quot;, &quot;Dana Andrews&quot;, &quot;Ziv&quot;]</code></td>\n<td>Undercover operative Matt Cvetic infiltrates a Communist Party faction coercing local steelworkers to stage wildcat strikes.</td>\n</tr>\n<tr>\n<td><code>Pacific_1946_NewVoice.mp3</code> <br><em>Alt</em>: <code>The New Voice in the East</code></td>\n<td><strong>&quot;The New Voice in the East with NBC University of the Air&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-09-01<br>11:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Educational Series</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Arnold Marquis (Writer)</strong></td>\n<td><code>[&quot;Documentary&quot;, &quot;History&quot;, &quot;Pacific Story&quot;, &quot;NBC&quot;, &quot;Asia&quot;]</code></td>\n<td>A dramatized documentary explores post-war democratic transitions, agricultural land reforms, and trade union growth in occupied Japan.</td>\n</tr>\n<tr>\n<td><code>Sinatra_1954_PerfectFrank.mp3</code> <br><em>Alt</em>: <code>Frank Sinatra Program 1954</code></td>\n<td><strong>&quot;To Be Perfectly Frank with Frank Sinatra and The Sinatra Symphonette&quot;</strong></td>\n<td><strong>NBC (WRCA)</strong><br>1954-09-01<br>8:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Late-Evening Pop</td>\n<td><strong>Frank Sinatra</strong>, <strong>Miller</strong></td>\n<td><strong>Bill Miller (Conductor)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Vocal&quot;, &quot;Frank Sinatra&quot;, &quot;NBC&quot;]</code></td>\n<td>Frank Sinatra spins classic jazz recordings, chats candidly with listeners, and sings live accompanied by the Sinatra Symphonette.</td>\n</tr>\n<tr>\n<td><code>Hollywood_1941_SmilinThru.mp3</code> <br><em>Alt</em>: <code>Smilin&#39; Thru Hollywood Is On Air</code></td>\n<td><strong>&quot;Smilin&#39; Through Preview with Jeanette MacDonald and Brian Aherne&quot;</strong></td>\n<td><strong>Syndication (MGM)</strong><br>1941-09-01</td>\n<td><strong>MGM Pictures</strong><br>Technicolor Romance</td>\n<td><strong>Jeanette MacDonald</strong>, <strong>Aherne</strong></td>\n<td><strong>MGM Radio Staff</strong></td>\n<td><code>[&quot;Film Preview&quot;, &quot;Music&quot;, &quot;MGM&quot;, &quot;Jeanette MacDonald&quot;, &quot;Hollywood&quot;]</code></td>\n<td>An on-air film preview presents dramatic scenes and vocal highlights from MGM&#39;s Technicolor musical romance Smilin&#39; Through.</td>\n</tr>\n<tr>\n<td><code>Hollywood_1942_Cairo.mp3</code> <br><em>Alt</em>: <code>Cairo Hollywood Is On The Air</code></td>\n<td><strong>&quot;Cairo Preview with Jeanette MacDonald and Robert Young&quot;</strong></td>\n<td><strong>Syndication (MGM)</strong><br>1942-09-01</td>\n<td><strong>MGM Pictures</strong><br>Musical Comedy</td>\n<td><strong>Jeanette MacDonald</strong>, <strong>Young</strong></td>\n<td><strong>MGM Radio Staff</strong></td>\n<td><code>[&quot;Film Preview&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Jeanette MacDonald&quot;, &quot;Robert Young&quot;]</code></td>\n<td>Audio excerpts showcase the wartime musical comedy Cairo featuring Jeanette MacDonald as an American singer caught in an espionage web.</td>\n</tr>\n<tr>\n<td><code>FBI_1949_Organizer.mp3</code> <br><em>Alt</em>: <code>The Organizer (SERIES RETURNS)</code></td>\n<td><strong>&quot;The Organizer with Martin Blaine and Wildroot Cream-Oil&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-09-01<br>8:00 PM EDT</td>\n<td><strong>Wildroot Company</strong><br>Wildroot Cream-Oil</td>\n<td><strong>Martin Blaine</strong>, <strong>Cast</strong></td>\n<td><strong>Frederick L. Collins</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Docudrama&quot;, &quot;FBI In Peace And War&quot;, &quot;Wildroot&quot;]</code></td>\n<td>Special agents track a smooth-talking criminal organizer recruiting ex-convicts to pull off armed interstate bank robberies.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 144 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 537 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Frank Sinatra",
+        "To Be Perfectly Frank",
+        "Sinatra Symphonette",
+        "I Was a Communist for the FBI",
+        "Dana Andrews",
+        "Matt Cvetic",
+        "The FBI in Peace and War",
+        "Martin Blaine",
+        "Wildroot Cream-Oil",
+        "The Pacific Story",
+        "NBC University of the Air",
+        "Hollywood Is on the Air",
+        "Jeanette MacDonald",
+        "Brian Aherne",
+        "Robert Young",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-536-ellery-queen-uss-missouri-surrender-henry-morgan-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-536-ellery-queen-uss-missouri-surrender-henry-morgan-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Ellery Queen, USS Missouri Surrender, and Henry Morgan",
