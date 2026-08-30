@@ -6,6 +6,49 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-737-lux-radio-theatre-murrow-london-mr-da-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-737-lux-radio-theatre-murrow-london-mr-da-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Lux Radio Theatre, Murrow in London & Mr. DA",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 737)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across two star-studded adaptations on <em>Lux Radio Theatre</em> for Lux Toilet Soap (Jeanette MacDonald &amp; Nelson Eddy in <em>Maytime</em> under Cecil B. DeMille in 1944, and Dennis Morgan &amp; Ruth Roman in <em>One Sunday Afternoon</em> under William Keighley in 1950), Edward R. Murrow&#39;s historic CBS live report from London following the British declaration of war in 1939, Jay Jostyn prosecuting murderous household impostors on <em>Mr. District Attorney</em> for Vitalis, Frank Morgan and Baby Snooks on <em>Maxwell House Coffee Time</em>, and Gail Patrick on <em>Skippy Hollywood Theater</em>, Jeanette MacDonald &amp; Nelson Eddy (1944), Dennis Morgan (1950), Edward R. Murrow (1939), Jay Jostyn (1946), Frank Morgan &amp; Fanny Brice (1941), and Gail Patrick (1939–1950):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 737)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Lux_1944_Maytime.mp3</code> <br><em>Alt</em>: <code>Maytime Lux Radio Theatre</code></td>\n<td><strong>&quot;Maytime with Jeanette MacDonald and Nelson Eddy&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1944-09-04<br>9:00 PM EWT</td>\n<td><strong>Lever Brothers Co.</strong><br>Lux Toilet Soap</td>\n<td><strong>Jeanette MacDonald &amp; Eddy</strong></td>\n<td><strong>Cecil B. DeMille (Host)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Lux Radio Theatre&quot;, &quot;Jeanette MacDonald&quot;, &quot;Nelson Eddy&quot;]</code></td>\n<td>An American opera prima donna in 19th-century Paris falls in love with an impoverished baritone student despite being betrothed to her controlling mentor.</td>\n</tr>\n<tr>\n<td><code>Lux_1950_OneSundayAfternoon.mp3</code> <br><em>Alt</em>: <code>One Sunday Afternoon Lux Radio Theatre</code></td>\n<td><strong>&quot;One Sunday Afternoon with Dennis Morgan and Ruth Roman&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-04<br>9:00 PM EDT</td>\n<td><strong>Lever Brothers Co.</strong><br>Lux Toilet Soap</td>\n<td><strong>Dennis Morgan &amp; Roman</strong></td>\n<td><strong>William Keighley (Host)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Lux Radio Theatre&quot;, &quot;Dennis Morgan&quot;, &quot;Ruth Roman&quot;]</code></td>\n<td>A small-town dentist contemplates lethal revenge when the corrupt rival who stole his sweetheart and framed him for embezzlement sits in his dental chair.</td>\n</tr>\n<tr>\n<td><code>Murrow_1939_LondonEvacuation.mp3</code> <br><em>Alt</em>: <code>CBS Edward R Murrow British Class System Radio News</code></td>\n<td><strong>&quot;Edward R. Murrow on British Wartime Evacuation from London&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1939-09-04</td>\n<td><strong>Sustaining</strong><br>Special News Broadcast</td>\n<td><strong>Edward R. Murrow (London)</strong></td>\n<td><strong>CBS News Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;Radio News&quot;, &quot;Edward R Murrow&quot;, &quot;CBS&quot;]</code></td>\n<td>Edward R. Murrow reports from London following the British declaration of war on Germany, describing the evacuation of children and social shifts in wartime society.</td>\n</tr>\n<tr>\n<td><code>MrDA_1946_WrongServant.mp3</code> <br><em>Alt</em>: <code>The Case of the Wrong Servant in the House Mr District Attorney</code></td>\n<td><strong>&quot;The Case of the Wrong Servant in the House with Jay Jostyn&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1946-09-04<br>9:30 PM EDT</td>\n<td><strong>Bristol-Myers Co.</strong><br>Vitalis &amp; Ipana</td>\n<td><strong>Jay Jostyn (Garrett)</strong></td>\n<td><strong>Vicki Vola &amp; Devine</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Mr District Attorney&quot;, &quot;Jay Jostyn&quot;, &quot;Vitalis&quot;]</code></td>\n<td>District Attorney Paul Garrett investigates an impostor posing as a domestic butler to poison an elderly philanthropist for an inheritance.</td>\n</tr>\n<tr>\n<td><code>MaxwellHouse_1941_TwoInLove.mp3</code> <br><em>Alt</em>: <code>Two in Love Maxwell House Coffee Time</code></td>\n<td><strong>&quot;Two in Love with Frank Morgan and Baby Snooks&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1941-09-04<br>8:00 PM EDST</td>\n<td><strong>General Foods</strong><br>Maxwell House Coffee</td>\n<td><strong>Frank Morgan &amp; Fanny Brice</strong></td>\n<td><strong>Hanley Stafford &amp; Willson</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Maxwell House Coffee Time&quot;, &quot;Frank Morgan&quot;, &quot;Fanny Brice&quot;]</code></td>\n<td>Baby Snooks disrupts Daddy&#39;s evening with outrageous romantic matchmaking schemes while Frank Morgan spins tall tales about his youthful courtships.</td>\n</tr>\n<tr>\n<td><code>Skippy_1943_HazeHoneymoon.mp3</code> <br><em>Alt</em>: <code>Haze of Honeymoon Skippy Hollywood Theatre</code></td>\n<td><strong>&quot;Haze of Honeymoon with Gail Patrick&quot;</strong></td>\n<td><strong>Syndication / Skippy</strong><br>1943-09-04</td>\n<td><strong>Rosefield Packing</strong><br>Skippy Peanut Butter</td>\n<td><strong>Gail Patrick (Star)</strong></td>\n<td><strong>Les Mitchel (Dir.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Skippy Hollywood Theater&quot;, &quot;Gail Patrick&quot;, &quot;Skippy&quot;]</code></td>\n<td>A newlywed bride discovers her husband&#39;s idyllic mountain cabin hides secrets connecting him to a missing heiress.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 144 / 471 (263 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 737 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Lux Radio Theatre",
+        "Jeanette MacDonald",
+        "Nelson Eddy",
+        "Cecil B DeMille",
+        "Dennis Morgan",
+        "Ruth Roman",
+        "William Keighley",
+        "Lever Brothers",
+        "Lux Soap",
+        "Mr District Attorney",
+        "Jay Jostyn",
+        "Vicki Vola",
+        "Bristol-Myers",
+        "Vitalis",
+        "Edward R Murrow",
+        "CBS Radio News",
+        "London Wartime Evacuation",
+        "Maxwell House Coffee Time",
+        "Frank Morgan",
+        "Fanny Brice",
+        "Baby Snooks",
+        "Skippy Hollywood Theater",
+        "Gail Patrick",
+        "Skippy Peanut Butter",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-736-jimmy-dorsey-gordon-macrae-peg-lynch-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-736-jimmy-dorsey-gordon-macrae-peg-lynch-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Jimmy Dorsey, Gordon MacRae & Peg Lynch",
