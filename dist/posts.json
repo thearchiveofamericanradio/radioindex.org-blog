@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-766-johnny-dollar-10-2-4-ranch-disaster-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-766-johnny-dollar-10-2-4-ranch-disaster-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Johnny Dollar, 10-2-4 Ranch & Disaster!",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 766)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across three distinct eras of America&#39;s fabulous freelance insurance investigator on <em>Yours Truly, Johnny Dollar</em> starring Charles Russell (1949) and Bob Bailey (1956, 1960), western harmony legends The Sons of the Pioneers and Martha Mears on <em>10-2-4 Ranch</em> for Dr Pepper (1942, 1944), and dramatic reenactments of the tragic 1952 Southern tornadoes on <em>Disaster!</em> for the American Red Cross, Charles Russell (1949), Bob Bailey (1956, 1960), Bob Nolan (1942, 1944), and Don Dowd (1942–1960):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 766)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JohnnyDollar_1949_ExpiringNickels.mp3</code> <br><em>Alt</em>: <code>The Expiring Nickels And The Egyptian Jackpot Yours Truly, Johnny Dollar</code></td>\n<td><strong>&quot;The Expiring Nickels and Egyptian Jackpot Matter&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-09-04<br>6:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Insurance Detective</td>\n<td><strong>Charles Russell (Dollar)</strong></td>\n<td><strong>Paul Dudley &amp; Doud</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Insurance&quot;, &quot;Yours Truly Johnny Dollar&quot;, &quot;Charles Russell&quot;, &quot;CBS&quot;]</code></td>\n<td>Johnny Dollar investigates the suspicious nighttime burglary of a slot machine warehouse and the theft of rare antique Egyptian gaming tokens.</td>\n</tr>\n<tr>\n<td><code>JohnnyDollar_1956_Kamashek2.mp3</code> <br><em>Alt</em>: <code>The Curse of Kamashek Matter Ep 2 Yours Truly, Johnny Dollar</code></td>\n<td><strong>&quot;The Curse of Kamashek Matter (Part 2) with Bob Bailey&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1956-09-04<br>8:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Serialized Detective</td>\n<td><strong>Bob Bailey (Johnny Dollar)</strong></td>\n<td><strong>Jack Johnstone (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Insurance&quot;, &quot;Yours Truly Johnny Dollar&quot;, &quot;Bob Bailey&quot;, &quot;Jack Johnstone&quot;]</code></td>\n<td>Johnny travels to an archaeological research museum where a missing curator&#39;s assistant is discovered murdered inside an Egyptian sarcophagus.</td>\n</tr>\n<tr>\n<td><code>JohnnyDollar_1960_KillerKin.mp3</code> <br><em>Alt</em>: <code>The Killer Kin Matter Yours Truly, Johnny Dollar</code></td>\n<td><strong>&quot;The Killer Kin Matter with Bob Bailey&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1960-09-04<br>5:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Insurance Detective</td>\n<td><strong>Bob Bailey (Johnny Dollar)</strong></td>\n<td><strong>Jack Johnstone (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Insurance&quot;, &quot;Yours Truly Johnny Dollar&quot;, &quot;Bob Bailey&quot;, &quot;Jack Johnstone&quot;]</code></td>\n<td>Johnny Dollar travels to a rural mountain town to investigate an apparent hunting rifle accident involving two feuding half-brothers.</td>\n</tr>\n<tr>\n<td><code>1024Time_1942_MarthaMears.mp3</code> <br><em>Alt</em>: <code>10-2-4 Time 1942 Episode</code></td>\n<td><strong>&quot;Western Tunes with Martha Mears&quot;</strong></td>\n<td><strong>Syndication</strong><br>1942-09-04</td>\n<td><strong>Dr Pepper Company</strong><br>Dr Pepper Carbonated Drink</td>\n<td><strong>Martha Mears &amp; Cass Co.</strong></td>\n<td><strong>Bob Nolan &amp; Dr Pepper</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Western&quot;, &quot;10-2-4 Time&quot;, &quot;Martha Mears&quot;, &quot;Dr Pepper&quot;]</code></td>\n<td>Martha Mears and the Cass County Boys perform down-home western swing tunes, acoustic guitar serenades, and humorous ranch skits.</td>\n</tr>\n<tr>\n<td><code>1024Time_1944_SilveryMoon.mp3</code> <br><em>Alt</em>: <code>First Song - By the Light of the Silvery Moon 10-2-4 Time</code></td>\n<td><strong>&quot;By the Light of the Silvery Moon with Sons of the Pioneers&quot;</strong></td>\n<td><strong>Syndication</strong><br>1944-09-04</td>\n<td><strong>Dr Pepper Company</strong><br>Dr Pepper Soda</td>\n<td><strong>Sons of the Pioneers</strong></td>\n<td><strong>Bob Nolan &amp; Tim Spencer</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Western&quot;, &quot;10-2-4 Time&quot;, &quot;Sons of the Pioneers&quot;, &quot;Dr Pepper&quot;]</code></td>\n<td>The Sons of the Pioneers harmonize classic campfire melodies including By the Light of the Silvery Moon and western cowboy ballads.</td>\n</tr>\n<tr>\n<td><code>Disaster_1955_SouthernTornadoes.mp3</code> <br><em>Alt</em>: <code>The Southern Tornadoes of 1952 Disaster!</code></td>\n<td><strong>&quot;The Southern Tornadoes of 1952 with Don Dowd&quot;</strong></td>\n<td><strong>Syndication / ABC</strong><br>1955-09-04</td>\n<td><strong>American Red Cross</strong><br>Disaster Relief Service</td>\n<td><strong>Don Dowd (Narrator)</strong></td>\n<td><strong>Red Cross Radio Staff</strong></td>\n<td><code>[&quot;Docudrama&quot;, &quot;History&quot;, &quot;Disaster!&quot;, &quot;Don Dowd&quot;, &quot;Red Cross&quot;]</code></td>\n<td>A dramatic reenactment chronicling the catastrophic tornado outbreak across Arkansas, Tennessee, and Mississippi in March 1952 and the emergency rescue mobilization.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 318 / 471 (89 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 766 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Yours Truly Johnny Dollar",
+        "Bob Bailey",
+        "Charles Russell",
+        "Jack Johnstone",
+        "Paul Dudley",
+        "Gil Doud",
+        "CBS Radio",
+        "10-2-4 Time",
+        "Dr Pepper",
+        "Sons of the Pioneers",
+        "Bob Nolan",
+        "Martha Mears",
+        "Cass County Boys",
+        "Disaster!",
+        "Don Dowd",
+        "American Red Cross",
+        "1952 Tornadoes",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-765-herbert-marshall-lassie-jack-carson-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-765-herbert-marshall-lassie-jack-carson-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Herbert Marshall, Lassie & Jack Carson",
