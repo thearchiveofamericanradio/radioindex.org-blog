@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Lucille Ball, Jungle Jim & Space Pirates
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, My Favorite Husband, Lucille Ball, Richard Denning, Gale Gordon, Jell-O, General Foods, Jungle Jim, Matt Crowley, Alex Raymond, Serial Story Arc, The Lost Safari, Captain Starr of Space, ABC Network, Stars Over Hollywood, Carnation Milk, Death Valley Sheriff, Bob Valiant, 20 Mule Team Borax, Radio Playhouse, Springbok Radio, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 694)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on **September 3** across beloved marital sitcoms featuring Lucille Ball and Richard Denning, pulp adventure cliffhanger serials by Alex Raymond, juvenile space opera adventures, Hollywood dramatic showcases, desert frontier law enforcement mysteries, and South African radio theatre, Lucille Ball in *My Favorite Husband* for Jell-O (1948), Matt Crowley in *Jungle Jim* (1938), *Captain Starr of Space* (1953), *Stars Over Hollywood* (1949), *Death Valley Sheriff* (1948), and *Radio Playhouse* (1938–1975):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 694)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Arc Metadata | Story Synopsis |
+|---|---|---|---|---|---|---|---|---|
+| `MyFavHusband_1948_MomOilman.mp3` <br>*Alt*: `Mom Marrying A Houston Oilman My Favorite Husband` | **"Liz's Mother Marrying a Houston Oilman with Lucille Ball"** | **CBS (KNX)**<br>1948-09-03<br>9:00 PM EDT | **General Foods**<br>Jell-O Gelatin & Puddings | **Lucille Ball (Liz)** | **Richard Denning & Gordon** | `["Comedy", "Sitcom", "My Favorite Husband", "Lucille Ball", "Jell-O"]` | `null` | Liz schemes to prevent her mother from marrying an eccentric Texas oil baron by staging an elaborate series of household disasters. |
+| `JungleJim_1938_JungleVisitor.mp3` <br>*Alt*: `Jungle Visitor Jungle Jim` | **"The Jungle Visitor with Matt Crowley as Jungle Jim"** | **Syndication / Hearst**<br>1938-09-03 | **Sustaining**<br>Comic Strip Adventure | **Matt Crowley (Jim)** | **Alex Raymond (Creator)** | `["Adventure", "Jungle Jim", "Matt Crowley", "Alex Raymond", "Syndicated"]` | `{"title": "The Lost Safari", "part": 14, "total_parts": 26}` | Jungle Jim Bradley welcomes an unexpected explorer into his camp who reveals vital coordinates for locating a missing archaeological expedition. |
+| `CaptainStarr_1953_AsteroidPirates.mp3` <br>*Alt*: `Episode Captain Starr Of Space` | **"The Asteroid Pirates with Captain Starr"** | **ABC (WJZ)**<br>1953-09-03<br>8:00 PM EDT | **Sustaining**<br>Space Adventure | **Dramatic Sci-Fi Cast** | **ABC Production Staff** | `["Sci-Fi", "Adventure", "Captain Starr", "Space", "ABC"]` | `null` | Captain Starr navigates his star cruiser through a dangerous asteroid belt to intercept rogue space pirates raiding mining freighters. |
+| `StarsHollywood_1949_LizzieStone.mp3` <br>*Alt*: `The Capture of Lizzie Stone Stars Over Hollywood` | **"The Capture of Lizzie Stone with Carnation Milk"** | **CBS (KNX)**<br>1949-09-03<br>1:00 PM EDT | **Carnation Company**<br>Carnation Evaporated Milk | **Hollywood Guest Cast** | **Paul West (Writer)** | `["Drama", "Anthology", "Stars Over Hollywood", "Carnation Milk", "CBS"]` | `null` | A tenacious small-town female constable tracks down a fugitive bank robber hiding under an alias at a local boarding house. |
+| `DeathValleySheriff_1948_HoraceClearfield.mp3` <br>*Alt*: `The Return of Horace Clearfield Death Valley Sheriff` | **"The Return of Horace Clearfield with Bob Valiant"** | **CBS (KNX)**<br>1948-09-03<br>9:30 PM EDT | **Pacific Coast Borax**<br>20 Mule Team Borax | **Bob Valiant (Sheriff)** | **Ruth Cornwall Woodman** | `["Western", "Mystery", "Death Valley Sheriff", "Bob Valiant", "Borax"]` | `null` | Sheriff Mark Chase investigates the suspicious reappearance of a long-lost prospector who suddenly claims ownership of a lucrative borax deposit. |
+| `RadioPlayhouse_1975_SilverDagger.mp3` <br>*Alt*: `Radio Playhouse 1975 Episode` | **"The Silver Dagger with Springbok Radio Drama"** | **Springbok Radio**<br>1975-09-03 | **Sustaining**<br>Audio Drama | **Springbok Drama Cast** | **Springbok Radio Staff** | `["Drama", "Mystery", "Radio Playhouse", "Springbok Radio", "South Africa"]` | `null` | An antique weapons collector finds himself accused of homicide when an ornate ceremonial blade from his gallery is used in a murder. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 355 / 469 (114 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

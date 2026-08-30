@@ -6,6 +6,86 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-695-voltaire-candide-texaco-jungle-jim-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-695-voltaire-candide-texaco-jungle-jim-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Voltaire's Candide, Texaco & Jungle Jim",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 695)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across prestigious academic literary dramatizations of European classics (Voltaire&#39;s <em>Candide</em> and Anatole France&#39;s <em>The Crime of Sylvestre Bonnard</em>), comic strip safari cliffhangers, operatic vocal concerts, Damon Runyon Brooklyn domestic comedies, and national economic public affairs debates, <em>NBC University Theater</em> (1948, 1950), Matt Crowley in <em>Jungle Jim</em> (1949), James Melton on <em>Texaco Star Theater</em> (1944), Jackson Beck in <em>Joe and Ethel Turp</em> (1941), and Fred G. Clark on <em>Wake Up, America!</em> (1941–1950):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 695)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>NBCUniv_1948_Candide.mp3</code> <br><em>Alt</em>: <code>Candide NBC University Theater</code></td>\n<td><strong>&quot;Candide by Voltaire with David Ellis and NBC&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1948-09-03<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Literary Anthology</td>\n<td><strong>David Ellis (Candide)</strong></td>\n<td><strong>Voltaire &amp; NBC Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;NBC University Theater&quot;, &quot;Voltaire&quot;, &quot;Satire&quot;]</code></td>\n<td><code>null</code></td>\n<td>An incurable philosophical optimist endures catastrophic global misadventures, earthquakes, and inquisitions while discovering the reality of human suffering.</td>\n</tr>\n<tr>\n<td><code>NBCUniv_1950_SylvestreBonnard.mp3</code> <br><em>Alt</em>: <code>The Crime Of Sylvester Bonard NBC University Theater</code></td>\n<td><strong>&quot;The Crime of Sylvestre Bonnard by Anatole France with NBC&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1950-09-03<br>2:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Literary Anthology</td>\n<td><strong>NBC Drama Repertory</strong></td>\n<td><strong>Anatole France (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;NBC University Theater&quot;, &quot;Anatole France&quot;, &quot;Literature&quot;]</code></td>\n<td><code>null</code></td>\n<td>An elderly French philologist and scholar rescues his late sweetheart&#39;s mistreated granddaughter from an oppressive provincial boarding school.</td>\n</tr>\n<tr>\n<td><code>JungleJim_1949_IvoryPoachers.mp3</code> <br><em>Alt</em>: <code>Jungle Jim 1949 Episode</code></td>\n<td><strong>&quot;The Ivory Poachers of the Congo with Matt Crowley&quot;</strong></td>\n<td><strong>Syndication</strong><br>1949-09-03</td>\n<td><strong>Sustaining</strong><br>Comic Strip Adventure</td>\n<td><strong>Matt Crowley (Jim)</strong></td>\n<td><strong>Alex Raymond (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle Jim&quot;, &quot;Matt Crowley&quot;, &quot;Alex Raymond&quot;, &quot;Syndicated&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Congo Ivory Syndicate&quot;, &quot;part&quot;: 1, &quot;total_parts&quot;: 12}</code></td>\n<td>Jungle Jim Bradley tracks an illegal ivory smuggling syndicate operating armed river gunboats in the Congo river basin.</td>\n</tr>\n<tr>\n<td><code>TexacoStar_1944_LawrenceBrooks.mp3</code> <br><em>Alt</em>: <code>Guest - Lawrence Brooks Texaco Star Theater</code></td>\n<td><strong>&quot;Guest Lawrence Brooks with James Melton and Texaco&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-03<br>9:30 PM EWT</td>\n<td><strong>The Texas Company</strong><br>Texaco Gas &amp; Havoline</td>\n<td><strong>James Melton (Tenor)</strong></td>\n<td><strong>Lawrence Brooks &amp; Goodman</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Texaco Star Theater&quot;, &quot;James Melton&quot;, &quot;Lawrence Brooks&quot;]</code></td>\n<td><code>null</code></td>\n<td>Tenor James Melton welcomes Broadway baritone Lawrence Brooks for selections from the operetta Song of Norway.</td>\n</tr>\n<tr>\n<td><code>JoeEthelTurp_1941_RentDispute.mp3</code> <br><em>Alt</em>: <code>Joe and Ethel Turp 1941 Episode</code></td>\n<td><strong>&quot;The Brooklyn Rent Dispute with Jackson Beck&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1941-09-03<br>1:45 PM EDST</td>\n<td><strong>General Foods</strong><br>Postum Beverage</td>\n<td><strong>Jackson Beck (Joe)</strong></td>\n<td><strong>Patsy Campbell &amp; Runyon</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Joe And Ethel Turp&quot;, &quot;Jackson Beck&quot;, &quot;Damon Runyon&quot;]</code></td>\n<td><code>null</code></td>\n<td>Brooklyn couple Joe and Ethel Turp become embroiled in an escalating neighborhood dispute over an unexpected apartment rent increase.</td>\n</tr>\n<tr>\n<td><code>WakeUpAmerica_1944_ClassParties.mp3</code> <br><em>Alt</em>: <code>Are Our Political Parties Becoming Class Conscious Wake Up America</code></td>\n<td><strong>&quot;Are Political Parties Becoming Class Conscious with Fred G. Clark&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1944-09-03<br>3:15 PM EWT</td>\n<td><strong>American Economic Fdn.</strong><br>Public Affairs Debate</td>\n<td><strong>Fred G. Clark (Mod.)</strong></td>\n<td><strong>Economic Guest Panel</strong></td>\n<td><code>[&quot;Public Affairs&quot;, &quot;Debate&quot;, &quot;Wake Up America&quot;, &quot;Fred G Clark&quot;, &quot;Politics&quot;]</code></td>\n<td><code>null</code></td>\n<td>Economists and political theorists debate the influence of organized labor and industrial PACs on the upcoming 1944 presidential campaign.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 361 / 469 (108 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 695 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "NBC University Theater",
+        "Voltaire",
+        "Candide",
+        "Anatole France",
+        "The Crime of Sylvestre Bonnard",
+        "Jungle Jim",
+        "Matt Crowley",
+        "Alex Raymond",
+        "Serial Story Arc",
+        "Congo Ivory Syndicate",
+        "Texaco Star Theater",
+        "James Melton",
+        "Lawrence Brooks",
+        "Texaco Gasoline",
+        "Joe and Ethel Turp",
+        "Jackson Beck",
+        "Patsy Campbell",
+        "Damon Runyon",
+        "General Foods",
+        "Postum",
+        "Wake Up America",
+        "Fred G Clark",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-694-lucille-ball-jungle-jim-space-pirates-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-694-lucille-ball-jungle-jim-space-pirates-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Lucille Ball, Jungle Jim & Space Pirates",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 694)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across beloved marital sitcoms featuring Lucille Ball and Richard Denning, pulp adventure cliffhanger serials by Alex Raymond, juvenile space opera adventures, Hollywood dramatic showcases, desert frontier law enforcement mysteries, and South African radio theatre, Lucille Ball in <em>My Favorite Husband</em> for Jell-O (1948), Matt Crowley in <em>Jungle Jim</em> (1938), <em>Captain Starr of Space</em> (1953), <em>Stars Over Hollywood</em> (1949), <em>Death Valley Sheriff</em> (1948), and <em>Radio Playhouse</em> (1938–1975):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 694)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>MyFavHusband_1948_MomOilman.mp3</code> <br><em>Alt</em>: <code>Mom Marrying A Houston Oilman My Favorite Husband</code></td>\n<td><strong>&quot;Liz&#39;s Mother Marrying a Houston Oilman with Lucille Ball&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1948-09-03<br>9:00 PM EDT</td>\n<td><strong>General Foods</strong><br>Jell-O Gelatin &amp; Puddings</td>\n<td><strong>Lucille Ball (Liz)</strong></td>\n<td><strong>Richard Denning &amp; Gordon</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;My Favorite Husband&quot;, &quot;Lucille Ball&quot;, &quot;Jell-O&quot;]</code></td>\n<td><code>null</code></td>\n<td>Liz schemes to prevent her mother from marrying an eccentric Texas oil baron by staging an elaborate series of household disasters.</td>\n</tr>\n<tr>\n<td><code>JungleJim_1938_JungleVisitor.mp3</code> <br><em>Alt</em>: <code>Jungle Visitor Jungle Jim</code></td>\n<td><strong>&quot;The Jungle Visitor with Matt Crowley as Jungle Jim&quot;</strong></td>\n<td><strong>Syndication / Hearst</strong><br>1938-09-03</td>\n<td><strong>Sustaining</strong><br>Comic Strip Adventure</td>\n<td><strong>Matt Crowley (Jim)</strong></td>\n<td><strong>Alex Raymond (Creator)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle Jim&quot;, &quot;Matt Crowley&quot;, &quot;Alex Raymond&quot;, &quot;Syndicated&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Lost Safari&quot;, &quot;part&quot;: 14, &quot;total_parts&quot;: 26}</code></td>\n<td>Jungle Jim Bradley welcomes an unexpected explorer into his camp who reveals vital coordinates for locating a missing archaeological expedition.</td>\n</tr>\n<tr>\n<td><code>CaptainStarr_1953_AsteroidPirates.mp3</code> <br><em>Alt</em>: <code>Episode Captain Starr Of Space</code></td>\n<td><strong>&quot;The Asteroid Pirates with Captain Starr&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1953-09-03<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Space Adventure</td>\n<td><strong>Dramatic Sci-Fi Cast</strong></td>\n<td><strong>ABC Production Staff</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Adventure&quot;, &quot;Captain Starr&quot;, &quot;Space&quot;, &quot;ABC&quot;]</code></td>\n<td><code>null</code></td>\n<td>Captain Starr navigates his star cruiser through a dangerous asteroid belt to intercept rogue space pirates raiding mining freighters.</td>\n</tr>\n<tr>\n<td><code>StarsHollywood_1949_LizzieStone.mp3</code> <br><em>Alt</em>: <code>The Capture of Lizzie Stone Stars Over Hollywood</code></td>\n<td><strong>&quot;The Capture of Lizzie Stone with Carnation Milk&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1949-09-03<br>1:00 PM EDT</td>\n<td><strong>Carnation Company</strong><br>Carnation Evaporated Milk</td>\n<td><strong>Hollywood Guest Cast</strong></td>\n<td><strong>Paul West (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Stars Over Hollywood&quot;, &quot;Carnation Milk&quot;, &quot;CBS&quot;]</code></td>\n<td><code>null</code></td>\n<td>A tenacious small-town female constable tracks down a fugitive bank robber hiding under an alias at a local boarding house.</td>\n</tr>\n<tr>\n<td><code>DeathValleySheriff_1948_HoraceClearfield.mp3</code> <br><em>Alt</em>: <code>The Return of Horace Clearfield Death Valley Sheriff</code></td>\n<td><strong>&quot;The Return of Horace Clearfield with Bob Valiant&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1948-09-03<br>9:30 PM EDT</td>\n<td><strong>Pacific Coast Borax</strong><br>20 Mule Team Borax</td>\n<td><strong>Bob Valiant (Sheriff)</strong></td>\n<td><strong>Ruth Cornwall Woodman</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Mystery&quot;, &quot;Death Valley Sheriff&quot;, &quot;Bob Valiant&quot;, &quot;Borax&quot;]</code></td>\n<td><code>null</code></td>\n<td>Sheriff Mark Chase investigates the suspicious reappearance of a long-lost prospector who suddenly claims ownership of a lucrative borax deposit.</td>\n</tr>\n<tr>\n<td><code>RadioPlayhouse_1975_SilverDagger.mp3</code> <br><em>Alt</em>: <code>Radio Playhouse 1975 Episode</code></td>\n<td><strong>&quot;The Silver Dagger with Springbok Radio Drama&quot;</strong></td>\n<td><strong>Springbok Radio</strong><br>1975-09-03</td>\n<td><strong>Sustaining</strong><br>Audio Drama</td>\n<td><strong>Springbok Drama Cast</strong></td>\n<td><strong>Springbok Radio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Radio Playhouse&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td><code>null</code></td>\n<td>An antique weapons collector finds himself accused of homicide when an ornate ceremonial blade from his gallery is used in a murder.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 355 / 469 (114 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 694 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "My Favorite Husband",
+        "Lucille Ball",
+        "Richard Denning",
+        "Gale Gordon",
+        "Jell-O",
+        "General Foods",
+        "Jungle Jim",
+        "Matt Crowley",
+        "Alex Raymond",
+        "Serial Story Arc",
+        "The Lost Safari",
+        "Captain Starr of Space",
+        "ABC Network",
+        "Stars Over Hollywood",
+        "Carnation Milk",
+        "Death Valley Sheriff",
+        "Bob Valiant",
+        "20 Mule Team Borax",
+        "Radio Playhouse",
+        "Springbok Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-693-everett-sloane-bing-crosby-fdr-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-693-everett-sloane-bing-crosby-fdr-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Everett Sloane, Bing Crosby & FDR",
