@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-542-cisco-kid-horatio-hornblower-hop-harrigan-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-542-cisco-kid-horatio-hornblower-hop-harrigan-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Cisco Kid, Horatio Hornblower, and Hop Harrigan",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 542)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across Southwestern western adventure, Napoleonic naval warfare drama, aviation serial auditions, big top youth serials, and suburban domestic comedy, Jack Mather and Harry Lang in <em>The Cisco Kid</em> (1953, 1955), Michael Redgrave in C.S. Forester&#39;s <em>The Adventures of Horatio Hornblower</em> (1952), Chester Stratton in <em>Hop Harrigan</em> (1942), <em>Jerry of the Circus</em> (1937), and <em>Claudia and David</em> (1937–1955):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 542)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Cisco_1953_Renegade.mp3</code> <br><em>Alt</em>: <code>Renegade Cisco Kid</code></td>\n<td><strong>&quot;Renegade with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Mutual / Ziv</strong><br>1953-09-01</td>\n<td><strong>Interstate Bakeries</strong><br>Weber&#39;s Bread</td>\n<td><strong>Jack Mather (Cisco)</strong>, <strong>Lang</strong></td>\n<td><strong>O. Henry (Creator)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Cisco Kid&quot;, &quot;Jack Mather&quot;, &quot;Harry Lang&quot;]</code></td>\n<td>Cisco and Pancho pursue a rogue army cavalry deserter leading a gang of bandits terrorizing frontier settlements in New Mexico.</td>\n</tr>\n<tr>\n<td><code>Cisco_1955_SilkHat.mp3</code> <br><em>Alt</em>: <code>Silk Hat Herbert Cisco Kid</code></td>\n<td><strong>&quot;Silk Hat Herbert with Jack Mather and Harry Lang&quot;</strong></td>\n<td><strong>Mutual / Ziv</strong><br>1955-09-01</td>\n<td><strong>Interstate Bakeries</strong><br>Dolly Madison Cakes</td>\n<td><strong>Jack Mather</strong>, <strong>Lang</strong></td>\n<td><strong>O. Henry (Creator)</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;The Cisco Kid&quot;, &quot;Jack Mather&quot;, &quot;Harry Lang&quot;]</code></td>\n<td>Cisco and Pancho outwit an eccentric gentleman swindler who wears a top hat while robbing stagecoaches along the border trail.</td>\n</tr>\n<tr>\n<td><code>Jerry_1937_CourtDelay.mp3</code> <br><em>Alt</em>: <code>Jerrys Court Action Is Delayed</code></td>\n<td><strong>&quot;Jerry&#39;s Court Action Is Delayed (Episode 83) with Dramatic Juvenile Cast&quot;</strong></td>\n<td><strong>Syndication</strong><br>1937-09-01</td>\n<td><strong>Sustaining</strong><br>Juvenile Serial</td>\n<td><strong>Dramatic Juvenile Cast</strong></td>\n<td><strong>Syndicated Audio Staff</strong></td>\n<td><code>[&quot;Juvenile&quot;, &quot;Adventure&quot;, &quot;Circus&quot;, &quot;Jerry Of The Circus&quot;, &quot;Serial&quot;]</code></td>\n<td>Young Jerry faces legal delays when corrupt local officials stall his court petition to recover ownership of his circus animal troupe.</td>\n</tr>\n<tr>\n<td><code>Claudia_1948_Interview.mp3</code> <br><em>Alt</em>: <code>Gets Interviewed Claudia David</code></td>\n<td><strong>&quot;Claudia Gets Interviewed with Patricia Ryan and Richard Kollmar&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-09-01<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Domestic Comedy</td>\n<td><strong>Patricia Ryan</strong>, <strong>Kollmar</strong></td>\n<td><strong>Rose Franken (Author)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;Claudia And David&quot;, &quot;Patricia Ryan&quot;, &quot;Richard Kollmar&quot;]</code></td>\n<td>Claudia agrees to a newspaper interview about suburban homemaking and inadvertently reveals embarrassing private family anecdotes.</td>\n</tr>\n<tr>\n<td><code>Hornblower_1952_ProtectConvoy.mp3</code> <br><em>Alt</em>: <code>Protecting The Convoy Horatio Hornblower</code></td>\n<td><strong>&quot;Protecting the Convoy with Michael Redgrave&quot;</strong></td>\n<td><strong>BBC / Syndication</strong><br>1952-09-01<br>8:00 PM BST</td>\n<td><strong>Sustaining</strong><br>Naval Historical</td>\n<td><strong>Michael Redgrave (Hornblower)</strong></td>\n<td><strong>C.S. Forester (Author)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Historical&quot;, &quot;Naval&quot;, &quot;Horatio Hornblower&quot;, &quot;Michael Redgrave&quot;]</code></td>\n<td>Captain Hornblower maneuvers HMS Lydia through hostile French waters to shield a vulnerable British merchant convoy from enemy frigates.</td>\n</tr>\n<tr>\n<td><code>Harrigan_1942_Audition2.mp3</code> <br><em>Alt</em>: <code>Skyrest Airport Mortgage (Audition #2)</code></td>\n<td><strong>&quot;Skyrest Airport Mortgage (Audition 2) with Chester Stratton&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1942-09-01</td>\n<td><strong>Sustaining</strong><br>Recorded Audition</td>\n<td><strong>Chester Stratton</strong>, <strong>Lynch</strong></td>\n<td><strong>Ken Lynch (Tank Tinker)</strong></td>\n<td><code>[&quot;Aviation&quot;, &quot;Adventure&quot;, &quot;Juvenile&quot;, &quot;Hop Harrigan&quot;, &quot;Audition&quot;]</code></td>\n<td>Aviator Hop Harrigan and mechanic Tank Tinker race to secure air-courier contracts before an unscrupulous rival forecloses on Skyrest Airport.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 174 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 542 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "The Cisco Kid",
+        "Jack Mather",
+        "Harry Lang",
+        "O Henry",
+        "Horatio Hornblower",
+        "Michael Redgrave",
+        "CS Forester",
+        "BBC Light Programme",
+        "Hop Harrigan",
+        "Chester Stratton",
+        "Jerry of the Circus",
+        "Claudia and David",
+        "Patricia Ryan",
+        "Richard Kollmar",
+        "Rose Franken",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-541-the-whistler-dick-tracy-manhattan-merry-go-round-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-541-the-whistler-dick-tracy-manhattan-merry-go-round-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — The Whistler, Dick Tracy, and Manhattan Merry-Go-Round",
