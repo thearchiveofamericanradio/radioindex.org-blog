@@ -1,0 +1,33 @@
+# Archival Dispatch: September 1 Calendar Walk — Leo McKern's Rumpole, Monty Woolley, and Lum & Abner
+
+**Date**: 2026-09-01  
+**Author**: radio index  
+**Tags**: September 1, Calendar Walk, Rumpole of the Bailey, Leo McKern, John Mortimer, Peggy Thorpe-Bates, BBC Radio 4, The Magnificent Montague, Monty Woolley, The Fabulous Dr. Tweedy, Frank Morgan, Pall Mall Cigarettes, Lum and Abner, Chester Lauck, Norris Goff, Alka-Seltzer, Alternate Titles, Original Filenames
+
+---
+
+## September 1 Archival Metadata Enrichment (Increment 549)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across John Mortimer's Old Bailey legal classics, razor-sharp theatrical satires, college campus situations, and rustic general store humor from Pine Ridge, Arkansas, Leo McKern in *Rumpole of the Bailey* (1980), Monty Woolley in *The Magnificent Montague* (1951), Frank Morgan in *The Fabulous Dr. Tweedy* for Pall Mall (1946), and Chester Lauck and Norris Goff in *Lum and Abner* for Alka-Seltzer (1941, 1942, 1943):
+
+---
+
+## 1. *September 1 Archival Inventory (Increment 549)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Rumpole_1980_ShowFolk.mp3` <br>*Alt*: `The Show Folk Rumpole` | **"Rumpole and the Show Folk with Leo McKern"** | **BBC Radio 4**<br>1980-09-01<br>8:00 PM BST | **Sustaining**<br>BBC Legal Drama | **Leo McKern (Rumpole)** | **John Mortimer (Author)** | `["Legal", "Comedy", "Drama", "Rumpole Of The Bailey", "Leo McKern"]` | Horace Rumpole travels to Yorkshire to defend an egotistical stage actor accused of shooting his theatrical business partner during rehearsals. |
+| `Tweedy_1946_Dean.mp3` <br>*Alt*: `Fabulous Dr. Tweedy 1946 Episode` | **"Welcoming the College Dean with Frank Morgan and Pall Mall"** | **NBC (WEAF)**<br>1946-09-01<br>7:00 PM EDT | **American Cigarette**<br>Pall Mall Cigarettes | **Frank Morgan**, **Gordon** | **NBC Staff** | `["Comedy", "Sitcom", "Fabulous Dr Tweedy", "Frank Morgan", "Pall Mall"]` | Absent-minded college professor Dr. Tweedy causes academic confusion while organizing an elaborate welcoming reception for the new campus dean. |
+| `Montague_1951_Gossip.mp3` <br>*Alt*: `Gossip Column (Different Show Than )` | **"The Feared Gossip Column with Monty Woolley"** | **NBC (WNBC)**<br>1951-09-01<br>9:00 PM EDT | **Sustaining**<br>Radio Satire | **Monty Woolley**, **Seymour** | **Pert Kelton (Agnes)** | `["Comedy", "Satire", "Magnificent Montague", "Monty Woolley", "NBC"]` | Former Shakespearean tragedian Edwin Montague schemes to suppress a syndicated gossip item disclosing that he stars in a daytime soap opera. |
+| `Lum_Abner_1941_Diamonds.mp3` <br>*Alt*: `Box Contains Diamonds Lum Abner` | **"The Mystery Box Contains Diamonds with Chester Lauck and Norris Goff (Alka-Seltzer)"** | **NBC Blue (WJZ)**<br>1941-09-01<br>8:15 PM EDST | **Miles Laboratories**<br>Alka-Seltzer / One-A-Day | **Lauck (Lum)**, **Goff (Abner)** | **Lauck & Goff (Writers)** | `["Comedy", "Rural", "Lum And Abner", "Chester Lauck", "Alka-Seltzer"]` | Lum and Abner open a padlocked freight container left at the Jot 'Em Down Store and discover sparkling gemstones hidden inside. |
+| `Lum_Abner_1942_Skimp.mp3` <br>*Alt*: `Squire's Trouble Lum Abner` | **"Squire Skimp's Legal Troubles with Chester Lauck and Norris Goff (Alka-Seltzer)"** | **NBC Blue (WJZ)**<br>1942-09-01<br>8:15 PM EWT | **Miles Laboratories**<br>Alka-Seltzer | **Lauck**, **Goff** | **Lauck & Goff (Writers)** | `["Comedy", "Rural", "Lum And Abner", "Chester Lauck", "Alka-Seltzer"]` | Squire Skimp seeks shelter at the store after angry Pine Ridge shareholders threaten legal warrants over his questionable investments. |
+| `Lum_Abner_1943_Henry.mp3` <br>*Alt*: `Getting Rid Of Uncle Henry Lum Abner` | **"Getting Rid of Uncle Henry with Chester Lauck and Norris Goff (Alka-Seltzer)"** | **NBC Blue (WJZ)**<br>1943-09-01<br>8:15 PM EWT | **Miles Laboratories**<br>Alka-Seltzer | **Lauck**, **Goff** | **Lauck & Goff (Writers)** | `["Comedy", "Rural", "Lum And Abner", "Chester Lauck", "Alka-Seltzer"]` | Abner devises several well-intentioned schemes to encourage an overstaying houseguest to conclude his lengthy summer visit. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 216 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
