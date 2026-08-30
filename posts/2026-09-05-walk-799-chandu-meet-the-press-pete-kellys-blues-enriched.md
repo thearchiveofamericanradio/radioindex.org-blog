@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — Chandu, Meet the Press & Pete Kelly's Blues
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, Chandu the Magician, Gayne Whitman, White King Soap, Meet the Press, James Roosevelt, George Meany, George Romney, Lawrence Spivak, Martha Rountree, Pete Kellys Blues, Jack Webb, Chesterfield Cigarettes, The Guiding Light, Lyle Sudrow, Procter and Gamble, Duz, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 799)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across mystic adventure on *Chandu the Magician* for White King Soap, three historic political confrontations across three decades on *Meet the Press* (James Roosevelt [1947], AFL President George Meany [1954], and Michigan Governor George Romney [1965]), hardboiled speakeasy jazz drama on Jack Webb's *Pete Kelly's Blues* for Chesterfield, and postwar family tragedy on *The Guiding Light* for Duz soap, Gayne Whitman (1932), James Roosevelt (1947), and Jack Webb (1951):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 799)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Chandu_1932_TempleBlackArts.mp3` <br>*Alt*: `Chandu the Magician 1932 Episode` | **"The Temple of the Black Arts with Gayne Whitman"** | **KHJ Los Angeles**<br>1932-09-05<br>8:00 PM PST | **Los Angeles Soap Co.**<br>White King Soap | **Gayne Whitman (Chandu)** | **Harry Earnshaw (Writer)** | `["Adventure", "Occult", "Chandu the Magician", "Gayne Whitman", "White King"]` | Chandu uses his mystic powers to locate Roxor's hidden underground sanctuary and rescue Princess Nadji from ancient sorcery rituals. |
+| `MeetThePress_1947_JamesRoosevelt.mp3` <br>*Alt*: `James Roosevelt Meet the Press` | **"James Roosevelt with Martha Rountree and Lawrence Spivak"** | **Mutual (WOR)**<br>1947-09-05<br>10:00 PM EDT | **Sustaining**<br>Political Journalism | **Rountree, Spivak & Roosevelt** | **Mutual News Division** | `["Interview", "Public Affairs", "Meet the Press", "James Roosevelt", "Mutual"]` | California Democratic leader James Roosevelt answers tough questions from political journalists regarding President Truman's 1948 reelection prospects. |
+| `MeetThePress_1954_GeorgeMeany.mp3` <br>*Alt*: `George Meany Meet the Press` | **"AFL President George Meany with Lawrence Spivak"** | **NBC (WNBC)**<br>1954-09-05<br>6:00 PM EDT | **Revere Copper & Brass**<br>National Labor Report | **Spivak, Brooks & Meany** | **NBC News Staff** | `["Interview", "Public Affairs", "Meet the Press", "George Meany", "NBC"]` | AFL President George Meany addresses national labor policy, Taft-Hartley revisions, and the proposed AFL-CIO merger on the eve of Labor Day. |
+| `MeetThePress_1965_GeorgeRomney.mp3` <br>*Alt*: `Gov George Romney Meet the Press` | **"Governor George Romney with Lawrence Spivak and Edwin Newman"** | **NBC (WNBC)**<br>1965-09-05<br>6:00 PM EDT | **Sustaining**<br>TV/Radio Simulcast | **Newman, Spivak & Romney** | **NBC News Staff** | `["Interview", "Public Affairs", "Meet the Press", "George Romney", "NBC"]` | Michigan Governor George Romney defends state civil rights initiatives, federal urban spending, and Republican party strategy ahead of the 1966 midterms. |
+| `PeteKelly_1951_PhonographRecord.mp3` <br>*Alt*: `Phonograph Record Pete Kellys Blues` | **"The Stolen Acetate Record with Jack Webb"** | **NBC (WEAF)**<br>1951-09-05<br>9:00 PM EDT | **Liggett & Myers**<br>Chesterfield Cigarettes | **Jack Webb & Willson** | **Richard L. Breen (Writer)** | `["Detective", "Music", "Pete Kellys Blues", "Jack Webb", "Chesterfield"]` | Cornet player Pete Kelly is dragged into a gangland turf war when a bootlegger steals a rare jazz master record containing hidden ledger recordings. |
+| `GuidingLight_1950_BillDrunk.mp3` <br>*Alt*: `Bill Gets Drunk Guiding Light` | **"Bill Gets Drunk with Lyle Sudrow"** | **CBS (WABC)**<br>1950-09-05<br>1:45 PM EDT | **Procter & Gamble**<br>Duz & Ivory Flakes | **Lyle Sudrow & Bauer** | **Irna Phillips (Creator)** | `["Soap Opera", "Drama", "Guiding Light", "Lyle Sudrow", "Duz"]` | Bill Bauer succumbs to despair and alcohol after losing his manufacturing job, forcing Bert to confront him about their family stability. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 108 / 401 (293 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
