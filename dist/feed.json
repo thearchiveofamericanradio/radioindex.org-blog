@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-649-roy-rogers-keely-smith-garrison-keillor-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-649-roy-rogers-keely-smith-garrison-keillor-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Roy Rogers, Keely Smith & Garrison Keillor",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 649)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across Treasury savings bond musical specials, public radio variety concerts, romantic radio drama anthologies, talent discovery programs, and historical religious discourses, Roy Rogers and Dale Evans (1950), Keely Smith (1961), Garrison Keillor and the Dirty Dozen Brass Band (2005), Joan Copeland in <em>Faces of Love</em> (1975), Arthur Godfrey on <em>The Scout About Town</em> (1947), and <em>Father Coughlin</em> (1939–2005):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 649)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>GuestStar_1950_RoyRogers.mp3</code> <br><em>Alt</em>: <code>Guest Roy Rogers And Dale Evans Guest Star</code></td>\n<td><strong>&quot;Guests Roy Rogers and Dale Evans with U.S. Treasury&quot;</strong></td>\n<td><strong>Syndication</strong><br>1950-09-03</td>\n<td><strong>U.S. Treasury</strong><br>U.S. Savings Bonds</td>\n<td><strong>Roy Rogers</strong>, <strong>Dale Evans</strong></td>\n<td><strong>Sons of the Pioneers</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Western&quot;, &quot;Guest Star&quot;, &quot;Roy Rogers&quot;, &quot;Dale Evans&quot;]</code></td>\n<td>Roy Rogers and Dale Evans perform Western duets with the Sons of the Pioneers and promote community thrift through savings bonds.</td>\n</tr>\n<tr>\n<td><code>GuestStar_1961_ComesLove.mp3</code> <br><em>Alt</em>: <code>First Song - Comes Love Guest Star</code></td>\n<td><strong>&quot;Comes Love with Keely Smith and U.S. Savings Bonds&quot;</strong></td>\n<td><strong>Syndication</strong><br>1961-09-03</td>\n<td><strong>U.S. Treasury</strong><br>U.S. Savings Bonds</td>\n<td><strong>Keely Smith (Soloist)</strong></td>\n<td><strong>Ray Anthony Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Guest Star&quot;, &quot;Keely Smith&quot;, &quot;Treasury&quot;]</code></td>\n<td>Keely Smith sings jazz vocal standards including Comes Love and encourages listener participation in federal payroll savings.</td>\n</tr>\n<tr>\n<td><code>FacesLove_1975_GoldenCage.mp3</code> <br><em>Alt</em>: <code>Guy Repp, Jackson Beck, Joan Copeland, Joan Lorring Faces of Love</code></td>\n<td><strong>&quot;The Golden Cage with Joan Copeland and Joan Lorring&quot;</strong></td>\n<td><strong>Mutual</strong><br>1975-09-03</td>\n<td><strong>Sustaining</strong><br>Romantic Anthology</td>\n<td><strong>Joan Copeland</strong>, <strong>Lorring</strong></td>\n<td><strong>Himan Brown &amp; Beck</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Faces Of Love&quot;, &quot;Joan Copeland&quot;, &quot;Himan Brown&quot;]</code></td>\n<td>An ambitious concert pianist finds her artistic independence constrained when she marries into a controlling socialite dynasty.</td>\n</tr>\n<tr>\n<td><code>Godfrey_1947_ThreeFlames.mp3</code> <br><em>Alt</em>: <code>Lily Ann Carroll, The Three Flames The Scout About Town</code></td>\n<td><strong>&quot;Guests Lily Ann Carol and The Three Flames with Arthur Godfrey&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1947-09-03<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Talent Showcase</td>\n<td><strong>Arthur Godfrey (Host)</strong></td>\n<td><strong>Lily Ann Carol &amp; Flames</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Scout About Town&quot;, &quot;Arthur Godfrey&quot;, &quot;CBS&quot;]</code></td>\n<td>Arthur Godfrey introduces pop songstress Lily Ann Carol and the rhythm stylings of The Three Flames live from New York.</td>\n</tr>\n<tr>\n<td><code>Coughlin_1939_GoodSamaritan.mp3</code> <br><em>Alt</em>: <code>The Good Samaritan Father Coughlin</code></td>\n<td><strong>&quot;The Good Samaritan Discourse on the Eve of World War II&quot;</strong></td>\n<td><strong>WJR Detroit / Network</strong><br>1939-09-03<br>4:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Religious Discourse</td>\n<td><strong>Father Charles Coughlin</strong></td>\n<td><strong>Shrine of Little Flower</strong></td>\n<td><code>[&quot;Religious&quot;, &quot;Talk&quot;, &quot;Father Coughlin&quot;, &quot;WWII&quot;, &quot;WJR Detroit&quot;]</code></td>\n<td>Father Charles Coughlin delivers a controversial religious sermon examining the biblical Good Samaritan parable amidst outbreak of European war.</td>\n</tr>\n<tr>\n<td><code>PrairieHome_2005_DirtyDozen.mp3</code> <br><em>Alt</em>: <code>Guest - Dirty Dozen Brass Band Garrison Keillor&#39;s Radio Show</code></td>\n<td><strong>&quot;Guest Dirty Dozen Brass Band with Garrison Keillor&quot;</strong></td>\n<td><strong>NPR / MPR</strong><br>2005-09-03</td>\n<td><strong>Sustaining</strong><br>Public Radio Variety</td>\n<td><strong>Garrison Keillor (Host)</strong></td>\n<td><strong>Dirty Dozen Brass Band</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Prairie Home Companion&quot;, &quot;Garrison Keillor&quot;, &quot;NPR&quot;]</code></td>\n<td>Garrison Keillor welcomes New Orleans jazz legends The Dirty Dozen Brass Band for hurricane relief musical tributes and News from Lake Wobegon.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 85 / 469 (384 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 649 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Guest Star",
+        "Roy Rogers",
+        "Dale Evans",
+        "Keely Smith",
+        "US Savings Bonds",
+        "Treasury Department",
+        "A Prairie Home Companion",
+        "Garrison Keillor",
+        "Dirty Dozen Brass Band",
+        "NPR",
+        "Faces of Love",
+        "Joan Copeland",
+        "Joan Lorring",
+        "Himan Brown",
+        "The Scout About Town",
+        "Arthur Godfrey",
+        "Lily Ann Carol",
+        "Father Coughlin",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-648-orson-welles-fred-allen-henry-morgan-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-648-orson-welles-fred-allen-henry-morgan-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Orson Welles, Fred Allen & Henry Morgan",
