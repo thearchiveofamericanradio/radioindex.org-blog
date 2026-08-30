@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-589-just-a-minute-under-arrest-hearts-in-harmony-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-589-just-a-minute-under-arrest-hearts-in-harmony-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Just a Minute, Under Arrest & Hearts in Harmony",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 589)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across classic British verbal panel wit, gritty police radio procedurals, midwestern daytime romance drama, full romantic German opera broadcasts, and juvenile outdoor adventure mysteries, Graeme Garden on BBC Radio 4&#39;s <em>Just a Minute</em> (1977), Joe DeSantis in <em>Under Arrest</em> (1951), Jone Allison in <em>Hearts in Harmony</em> for Kroger (1946, 1947), Carl Maria von Weber&#39;s <em>Euryanthe</em> on <em>NBC Radio Theater</em> (1959), and <em>The Mystery of the Silver Buffalo</em> (1946–1977):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 589)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JAM_1977_GraemeGarden.mp3</code> <br><em>Alt</em>: <code>Guest Graeme Garden Just a Minute</code></td>\n<td><strong>&quot;Guest Panelist Graeme Garden with Chairman Nicholas Parsons&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1977-09-02<br>6:30 PM BST</td>\n<td><strong>Sustaining</strong><br>Radio Panel Game</td>\n<td><strong>Nicholas Parsons (Chair)</strong></td>\n<td><strong>Graeme Garden &amp; Williams</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Panel&quot;, &quot;Game Show&quot;, &quot;Just A Minute&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>Panelists attempt to speak for sixty seconds without hesitation, repetition, or deviation on topics such as Marmalade and Postcards.</td>\n</tr>\n<tr>\n<td><code>Arrest_1951_GilesFrench.mp3</code> <br><em>Alt</em>: <code>The Murder of Giles French Report</code></td>\n<td><strong>&quot;The Murder of Giles French Report with Joe DeSantis and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-02<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Joe DeSantis (Capt. Scott)</strong></td>\n<td><strong>Mutual Police Drama Unit</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Mystery&quot;, &quot;Under Arrest&quot;, &quot;Joe DeSantis&quot;]</code></td>\n<td>Police Captain Jim Scott investigates the fatal poisoning of a reclusive tax consultant whose secret ledger implicates city politicians.</td>\n</tr>\n<tr>\n<td><code>Hearts_1946_FreddieQuestioned.mp3</code> <br><em>Alt</em>: <code>Freddie Questioned Hearts in Harmony</code></td>\n<td><strong>&quot;Freddie Questioned by the Sheriff with Kroger Grocery&quot;</strong></td>\n<td><strong>Syndication (WLW)</strong><br>1946-09-02</td>\n<td><strong>Kroger Grocery Co.</strong><br>Kroger Clock Bread</td>\n<td><strong>Jone Allison (Penny)</strong></td>\n<td><strong>Kroger Daytime Staff</strong></td>\n<td><code>[&quot;Soap&quot;, &quot;Drama&quot;, &quot;Romance&quot;, &quot;Hearts In Harmony&quot;, &quot;Kroger&quot;]</code></td>\n<td>Penny Ross comforts her distraught friend Freddie when local law enforcement questions him regarding a jewelry burglary.</td>\n</tr>\n<tr>\n<td><code>Hearts_1947_MysteryThreat.mp3</code> <br><em>Alt</em>: <code>Mystery Man Threatens Penny</code></td>\n<td><strong>&quot;Mystery Man Threatens Penny with Kroger Grocery&quot;</strong></td>\n<td><strong>Syndication (WLW)</strong><br>1947-09-02</td>\n<td><strong>Kroger Grocery Co.</strong><br>Kroger Clock Bread</td>\n<td><strong>Jone Allison (Penny)</strong></td>\n<td><strong>Kroger Daytime Staff</strong></td>\n<td><code>[&quot;Soap&quot;, &quot;Drama&quot;, &quot;Romance&quot;, &quot;Hearts In Harmony&quot;, &quot;Kroger&quot;]</code></td>\n<td>Penny Ross receives an anonymous threatening phone call warning her to stop investigating an abandoned mill on the edge of town.</td>\n</tr>\n<tr>\n<td><code>Buffalo_1948_SilverBuffalo.mp3</code> <br><em>Alt</em>: <code>The Mystery Of The Silver Buffalo Episode</code></td>\n<td><strong>&quot;The Mystery of the Silver Buffalo: Boy Scout Adventure&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-09-02<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Scouting Adventure</td>\n<td><strong>Dramatic Cast</strong></td>\n<td><strong>Boy Scouts Radio Unit</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Adventure&quot;, &quot;Boy Scouts&quot;, &quot;Silver Buffalo&quot;, &quot;Mutual&quot;]</code></td>\n<td>Two Boy Scouts hiking in the Rocky Mountains uncover an illegal mining operation threatening a national wildlife refuge.</td>\n</tr>\n<tr>\n<td><code>NBC_Theater_1959_Euryanthe.mp3</code> <br><em>Alt</em>: <code>Euryanthe NBC Radio Theater</code></td>\n<td><strong>&quot;Carl Maria von Weber&#39;s Euryanthe with NBC Symphony Orchestra&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1959-09-02<br>8:05 PM EDT</td>\n<td><strong>Sustaining</strong><br>Classical Opera</td>\n<td><strong>Operatic Soloists</strong></td>\n<td><strong>NBC Symphony Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Opera&quot;, &quot;NBC Radio Theater&quot;, &quot;NBC&quot;]</code></td>\n<td>A noble medieval knight defends the virtue and fidelity of his betrothed countess against treacherous court conspirators.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 146 / 480 (334 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 589 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Just a Minute",
+        "Graeme Garden",
+        "Nicholas Parsons",
+        "Kenneth Williams",
+        "BBC Radio 4",
+        "Under Arrest",
+        "Joe DeSantis",
+        "Mutual",
+        "Hearts in Harmony",
+        "Jone Allison",
+        "Kroger Grocery",
+        "NBC Radio Theater",
+        "Euryanthe",
+        "Carl Maria von Weber",
+        "The Mystery of the Silver Buffalo",
+        "Boy Scouts",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-588-cary-grant-roy-rogers-lena-horne-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-588-cary-grant-roy-rogers-lena-horne-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Cary Grant, Roy Rogers & Lena Horne",
