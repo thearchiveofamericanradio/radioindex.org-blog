@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Charles Boyer, Doris Day & Johnny Mercer
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, Theater of Romance, Charles Boyer, Austin Strong, Roma Wine, Call the Police, Joseph Julian, Peter Barry, Lever Brothers, Rinso, AFRS Collection, Johnny Mercer, Jo Stafford, The Pied Pipers, Les Brown, Doris Day, One Night Stand, Harry James, GI Jive, GI Jill, Share and Share Alike, Derek Hoddinott, BBC Radio 4, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 718)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Charles Boyer starring in Austin Strong's romantic Parisian masterpiece *Seventh Heaven* for Roma Wine, hardboiled dockyard homicide investigations on *Call the Police* for Lever Brothers, swinging military troop broadcasts on AFRS featuring Johnny Mercer, Jo Stafford, Doris Day live with Les Brown at the Cafe Rouge, and Harry James's fiery horn solos on *GI Jive*, alongside BBC Radio 4 afternoon drama, Charles Boyer (1945), Doris Day (1945), Johnny Mercer (1944), Harry James (1944), Joseph Julian (1949), and Derek Hoddinott (1944–1978):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 718)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `TheaterRomance_1945_SeventhHeaven.mp3` <br>*Alt*: `Seventh Heaven Theater Of Romance` | **"Seventh Heaven with Charles Boyer"** | **CBS (KNX)**<br>1945-09-04<br>8:30 PM EWT | **Roma Wine Company**<br>Roma California Wine | **Charles Boyer (Chico)** | **Austin Strong & Tracy** | `["Drama", "Romance", "Theater of Romance", "Charles Boyer", "Roma Wine"]` | An impoverished Parisian sewer worker rescues a desperate street girl and sheltered her in his attic apartment, finding redemption before the onset of war. |
+| `CallPolice_1949_DockyardMurder.mp3` <br>*Alt*: `Call The Police 1949 Episode` | **"The Waterfront Dockyard Murder with Joseph Julian"** | **NBC (WNBC)**<br>1949-09-04<br>8:30 PM EDT | **Lever Brothers**<br>Rinso Soap Powder | **Joseph Julian (Campbell)** | **Amzie Strickland & Barry** | `["Police", "Procedural", "Call The Police", "Joseph Julian", "Rinso"]` | Commissioner Bill Campbell investigates the fatal bludgeoning of a night watchman guarding a quarantined cargo freighter docked in the harbor. |
+| `AFRS_1944_JohnnyMercer.mp3` <br>*Alt*: `Johnny Mercers Music Shop AFRS Collection` | **"Johnny Mercer's Music Shop with The Pied Pipers"** | **AFRS Transcription**<br>1944-09-04 | **Armed Forces Radio**<br>Troop Entertainment | **Johnny Mercer & Stafford** | **The Pied Pipers & Weston** | `["Music", "Variety", "AFRS", "Johnny Mercer", "Jo Stafford"]` | Johnny Mercer and Jo Stafford perform relaxed pop duets and swinging songwriting banter for Allied military personnel overseas. |
+| `AFRS_1945_LesBrownDorisDay.mp3` <br>*Alt*: `AFRS One Night Stand Les Brown Doris Day AFRS Collection` | **"One Night Stand with Les Brown and Doris Day"** | **AFRS Transcription**<br>1945-09-04 | **Armed Forces Radio**<br>Troop Entertainment | **Les Brown & Doris Day** | **Band of Renown** | `["Music", "Big Band", "AFRS", "Les Brown", "Doris Day"]` | Les Brown's swing orchestra and featured vocalist Doris Day perform live ballroom dance arrangements broadcasting from the Hotel Pennsylvania's Cafe Rouge. |
+| `AFRS_1944_GIJiveHarryJames.mp3` <br>*Alt*: `AFRS GI Jive: Harry James and His Music Makers AFRS Collection` | **"GI Jive with Harry James and GI Jill"** | **AFRS Transcription**<br>1944-09-04 | **Armed Forces Radio**<br>Troop Entertainment | **Harry James & GI Jill** | **Music Makers** | `["Music", "Big Band", "AFRS", "Harry James", "GI Jill"]` | GI Jill spins top swing records and requests for frontline servicemen featuring dazzling trumpet solos by Harry James. |
+| `ShareAlike_1978_TheFilm.mp3` <br>*Alt*: `The Film Share And Share Alike` | **"The Film by Derek Hoddinott with BBC Radio 4"** | **BBC Radio 4**<br>1978-09-04<br>3:05 PM BST | **Sustaining**<br>British Radio Drama | **BBC Drama Repertory** | **Derek Hoddinott (Author)** | `["Drama", "Anthology", "Share And Share Alike", "Derek Hoddinott", "BBC Radio 4"]` | Two estranged business partners reunite at an auction house to bid against one another for the negative reels of a lost pre-war film. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 30 / 471 (377 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

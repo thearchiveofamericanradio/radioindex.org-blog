@@ -6,6 +6,84 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-719-charlie-mccarthy-lena-horne-johnny-mathis-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-719-charlie-mccarthy-lena-horne-johnny-mathis-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Charlie McCarthy, Lena Horne & Johnny Mathis",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 719)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Edgar Bergen and Charlie McCarthy trading rapid-fire insults with vaudeville comedian Ken Murray for Chase &amp; Sanborn, four distinct eras of all-star musical appeals on <em>Guest Star</em> for the U.S. Treasury (Lena Horne in 1947, Gordon MacRae in 1955, Johnny Mathis in 1960, and Trini Lopez in 1966), alongside 1970s CBS relationship drama on <em>Faces of Love</em>, Edgar Bergen (1938), Lena Horne (1947), Gordon MacRae (1955), Johnny Mathis (1960), Trini Lopez (1966), and Joan Copeland (1938–1975):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 719)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ChaseSanborn_1938_KenMurray.mp3</code> <br><em>Alt</em>: <code>Guest - Ken Murray Chase and Sanborn Program</code></td>\n<td><strong>&quot;Guest Ken Murray with Edgar Bergen and Charlie McCarthy&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1938-09-04<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Coffee</td>\n<td><strong>Edgar Bergen &amp; Charlie</strong></td>\n<td><strong>Ken Murray &amp; Eddy</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Chase and Sanborn&quot;, &quot;Charlie McCarthy&quot;, &quot;Ken Murray&quot;]</code></td>\n<td>Charlie McCarthy trades rapid-fire comedic insults with vaudeville comedian Ken Murray and schemes to crash Hollywood movie sets.</td>\n</tr>\n<tr>\n<td><code>GuestStar_1947_LenaHorne.mp3</code> <br><em>Alt</em>: <code>Guest Lena Horne, Medley Starting Welcome Revival Guest Star</code></td>\n<td><strong>&quot;Guest Lena Horne with US Savings Bonds&quot;</strong></td>\n<td><strong>Syndication / Treasury</strong><br>1947-09-04</td>\n<td><strong>U.S. Treasury Dept.</strong><br>U.S. Savings Bonds</td>\n<td><strong>Lena Horne (Vocalist)</strong></td>\n<td><strong>Treasury Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Guest Star&quot;, &quot;Lena Horne&quot;, &quot;US Treasury&quot;]</code></td>\n<td>Vocalist Lena Horne performs sultry jazz standards and blues ballads to encourage public investment in peacetime security bonds.</td>\n</tr>\n<tr>\n<td><code>GuestStar_1955_GordonMacRae.mp3</code> <br><em>Alt</em>: <code>First Song - It Had To Be You Guest Star</code></td>\n<td><strong>&quot;Guest Gordon MacRae (It Had to Be You)&quot;</strong></td>\n<td><strong>Syndication / Treasury</strong><br>1955-09-04</td>\n<td><strong>U.S. Treasury Dept.</strong><br>U.S. Savings Bonds</td>\n<td><strong>Gordon MacRae (Host)</strong></td>\n<td><strong>Ray Bloch &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Guest Star&quot;, &quot;Gordon MacRae&quot;, &quot;US Treasury&quot;]</code></td>\n<td>Baritone singer Gordon MacRae performs popular Broadway showtunes and romantic melodies led by It Had to Be You.</td>\n</tr>\n<tr>\n<td><code>GuestStar_1960_JohnnyMathis.mp3</code> <br><em>Alt</em>: <code>Guest Star 1960 Episode</code></td>\n<td><strong>&quot;Guest Johnny Mathis with US Savings Bonds&quot;</strong></td>\n<td><strong>Syndication / Treasury</strong><br>1960-09-04</td>\n<td><strong>U.S. Treasury Dept.</strong><br>U.S. Savings Bonds</td>\n<td><strong>Johnny Mathis (Vocalist)</strong></td>\n<td><strong>Treasury Studio Band</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Guest Star&quot;, &quot;Johnny Mathis&quot;, &quot;US Treasury&quot;]</code></td>\n<td>Johnny Mathis delivers smooth pop ballad performances and appeals to American workers to enroll in payroll savings plans.</td>\n</tr>\n<tr>\n<td><code>GuestStar_1966_TriniLopez.mp3</code> <br><em>Alt</em>: <code>Guest Star 1966 Episode</code></td>\n<td><strong>&quot;Guest Trini Lopez with US Savings Bonds&quot;</strong></td>\n<td><strong>Syndication / Treasury</strong><br>1966-09-04</td>\n<td><strong>U.S. Treasury Dept.</strong><br>U.S. Savings Bonds</td>\n<td><strong>Trini Lopez (Guitar/Vocal)</strong></td>\n<td><strong>Treasury Studio Band</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Folk Pop&quot;, &quot;Guest Star&quot;, &quot;Trini Lopez&quot;, &quot;US Treasury&quot;]</code></td>\n<td>Trini Lopez plays rhythmic Latin folk-pop acoustic guitar hits and promotes the purchase of United States Savings Bonds.</td>\n</tr>\n<tr>\n<td><code>FacesLove_1975_MaskAffection.mp3</code> <br><em>Alt</em>: <code>Guy Repp, Jackson Beck (announcer), Joan Copeland, Joan Lorring Faces of Love</code></td>\n<td><strong>&quot;The Mask of Affection with Joan Copeland and Joan Lorring&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1975-09-04</td>\n<td><strong>Sustaining</strong><br>Audio Drama</td>\n<td><strong>Joan Copeland &amp; Lorring</strong></td>\n<td><strong>Ian Martin &amp; Beck</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Faces of Love&quot;, &quot;Joan Copeland&quot;, &quot;CBS Radio&quot;]</code></td>\n<td>Two estranged sisters confront unresolved marital jealousies and deceit when an unexpected legacy forces a tense family reunion.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 36 / 471 (371 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 719 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Chase and Sanborn Program",
+        "Edgar Bergen",
+        "Charlie McCarthy",
+        "Ken Murray",
+        "Standard Brands",
+        "Guest Star",
+        "US Treasury",
+        "US Savings Bonds",
+        "Lena Horne",
+        "Gordon MacRae",
+        "Johnny Mathis",
+        "Trini Lopez",
+        "Ray Bloch",
+        "Faces of Love",
+        "Joan Copeland",
+        "Joan Lorring",
+        "Ian Martin",
+        "CBS Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-718-charles-boyer-doris-day-johnny-mercer-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-718-charles-boyer-doris-day-johnny-mercer-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Charles Boyer, Doris Day & Johnny Mercer",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 718)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Charles Boyer starring in Austin Strong&#39;s romantic Parisian masterpiece <em>Seventh Heaven</em> for Roma Wine, hardboiled dockyard homicide investigations on <em>Call the Police</em> for Lever Brothers, swinging military troop broadcasts on AFRS featuring Johnny Mercer, Jo Stafford, Doris Day live with Les Brown at the Cafe Rouge, and Harry James&#39;s fiery horn solos on <em>GI Jive</em>, alongside BBC Radio 4 afternoon drama, Charles Boyer (1945), Doris Day (1945), Johnny Mercer (1944), Harry James (1944), Joseph Julian (1949), and Derek Hoddinott (1944–1978):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 718)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TheaterRomance_1945_SeventhHeaven.mp3</code> <br><em>Alt</em>: <code>Seventh Heaven Theater Of Romance</code></td>\n<td><strong>&quot;Seventh Heaven with Charles Boyer&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1945-09-04<br>8:30 PM EWT</td>\n<td><strong>Roma Wine Company</strong><br>Roma California Wine</td>\n<td><strong>Charles Boyer (Chico)</strong></td>\n<td><strong>Austin Strong &amp; Tracy</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Theater of Romance&quot;, &quot;Charles Boyer&quot;, &quot;Roma Wine&quot;]</code></td>\n<td>An impoverished Parisian sewer worker rescues a desperate street girl and sheltered her in his attic apartment, finding redemption before the onset of war.</td>\n</tr>\n<tr>\n<td><code>CallPolice_1949_DockyardMurder.mp3</code> <br><em>Alt</em>: <code>Call The Police 1949 Episode</code></td>\n<td><strong>&quot;The Waterfront Dockyard Murder with Joseph Julian&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-09-04<br>8:30 PM EDT</td>\n<td><strong>Lever Brothers</strong><br>Rinso Soap Powder</td>\n<td><strong>Joseph Julian (Campbell)</strong></td>\n<td><strong>Amzie Strickland &amp; Barry</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Call The Police&quot;, &quot;Joseph Julian&quot;, &quot;Rinso&quot;]</code></td>\n<td>Commissioner Bill Campbell investigates the fatal bludgeoning of a night watchman guarding a quarantined cargo freighter docked in the harbor.</td>\n</tr>\n<tr>\n<td><code>AFRS_1944_JohnnyMercer.mp3</code> <br><em>Alt</em>: <code>Johnny Mercers Music Shop AFRS Collection</code></td>\n<td><strong>&quot;Johnny Mercer&#39;s Music Shop with The Pied Pipers&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1944-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>Johnny Mercer &amp; Stafford</strong></td>\n<td><strong>The Pied Pipers &amp; Weston</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;AFRS&quot;, &quot;Johnny Mercer&quot;, &quot;Jo Stafford&quot;]</code></td>\n<td>Johnny Mercer and Jo Stafford perform relaxed pop duets and swinging songwriting banter for Allied military personnel overseas.</td>\n</tr>\n<tr>\n<td><code>AFRS_1945_LesBrownDorisDay.mp3</code> <br><em>Alt</em>: <code>AFRS One Night Stand Les Brown Doris Day AFRS Collection</code></td>\n<td><strong>&quot;One Night Stand with Les Brown and Doris Day&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1945-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>Les Brown &amp; Doris Day</strong></td>\n<td><strong>Band of Renown</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;AFRS&quot;, &quot;Les Brown&quot;, &quot;Doris Day&quot;]</code></td>\n<td>Les Brown&#39;s swing orchestra and featured vocalist Doris Day perform live ballroom dance arrangements broadcasting from the Hotel Pennsylvania&#39;s Cafe Rouge.</td>\n</tr>\n<tr>\n<td><code>AFRS_1944_GIJiveHarryJames.mp3</code> <br><em>Alt</em>: <code>AFRS GI Jive: Harry James and His Music Makers AFRS Collection</code></td>\n<td><strong>&quot;GI Jive with Harry James and GI Jill&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1944-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>Harry James &amp; GI Jill</strong></td>\n<td><strong>Music Makers</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;AFRS&quot;, &quot;Harry James&quot;, &quot;GI Jill&quot;]</code></td>\n<td>GI Jill spins top swing records and requests for frontline servicemen featuring dazzling trumpet solos by Harry James.</td>\n</tr>\n<tr>\n<td><code>ShareAlike_1978_TheFilm.mp3</code> <br><em>Alt</em>: <code>The Film Share And Share Alike</code></td>\n<td><strong>&quot;The Film by Derek Hoddinott with BBC Radio 4&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1978-09-04<br>3:05 PM BST</td>\n<td><strong>Sustaining</strong><br>British Radio Drama</td>\n<td><strong>BBC Drama Repertory</strong></td>\n<td><strong>Derek Hoddinott (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Share And Share Alike&quot;, &quot;Derek Hoddinott&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>Two estranged business partners reunite at an auction house to bid against one another for the negative reels of a lost pre-war film.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 30 / 471 (377 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 718 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Theater of Romance",
+        "Charles Boyer",
+        "Austin Strong",
+        "Roma Wine",
+        "Call the Police",
+        "Joseph Julian",
+        "Peter Barry",
+        "Lever Brothers",
+        "Rinso",
+        "AFRS Collection",
+        "Johnny Mercer",
+        "Jo Stafford",
+        "The Pied Pipers",
+        "Les Brown",
+        "Doris Day",
+        "One Night Stand",
+        "Harry James",
+        "GI Jive",
+        "GI Jill",
+        "Share and Share Alike",
+        "Derek Hoddinott",
+        "BBC Radio 4",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-717-i-love-a-mystery-sicily-paratroopers-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-717-i-love-a-mystery-sicily-paratroopers-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Carlton E. Morse's I Love a Mystery & Sicily Paratroopers",

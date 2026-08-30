@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Charlie McCarthy, Lena Horne & Johnny Mathis
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, The Chase and Sanborn Program, Edgar Bergen, Charlie McCarthy, Ken Murray, Standard Brands, Guest Star, US Treasury, US Savings Bonds, Lena Horne, Gordon MacRae, Johnny Mathis, Trini Lopez, Ray Bloch, Faces of Love, Joan Copeland, Joan Lorring, Ian Martin, CBS Radio, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 719)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Edgar Bergen and Charlie McCarthy trading rapid-fire insults with vaudeville comedian Ken Murray for Chase & Sanborn, four distinct eras of all-star musical appeals on *Guest Star* for the U.S. Treasury (Lena Horne in 1947, Gordon MacRae in 1955, Johnny Mathis in 1960, and Trini Lopez in 1966), alongside 1970s CBS relationship drama on *Faces of Love*, Edgar Bergen (1938), Lena Horne (1947), Gordon MacRae (1955), Johnny Mathis (1960), Trini Lopez (1966), and Joan Copeland (1938–1975):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 719)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `ChaseSanborn_1938_KenMurray.mp3` <br>*Alt*: `Guest - Ken Murray Chase and Sanborn Program` | **"Guest Ken Murray with Edgar Bergen and Charlie McCarthy"** | **NBC Red (WEAF)**<br>1938-09-04<br>8:00 PM EDST | **Standard Brands**<br>Chase & Sanborn Coffee | **Edgar Bergen & Charlie** | **Ken Murray & Eddy** | `["Comedy", "Variety", "Chase and Sanborn", "Charlie McCarthy", "Ken Murray"]` | Charlie McCarthy trades rapid-fire comedic insults with vaudeville comedian Ken Murray and schemes to crash Hollywood movie sets. |
+| `GuestStar_1947_LenaHorne.mp3` <br>*Alt*: `Guest Lena Horne, Medley Starting Welcome Revival Guest Star` | **"Guest Lena Horne with US Savings Bonds"** | **Syndication / Treasury**<br>1947-09-04 | **U.S. Treasury Dept.**<br>U.S. Savings Bonds | **Lena Horne (Vocalist)** | **Treasury Orchestra** | `["Music", "Vocal", "Guest Star", "Lena Horne", "US Treasury"]` | Vocalist Lena Horne performs sultry jazz standards and blues ballads to encourage public investment in peacetime security bonds. |
+| `GuestStar_1955_GordonMacRae.mp3` <br>*Alt*: `First Song - It Had To Be You Guest Star` | **"Guest Gordon MacRae (It Had to Be You)"** | **Syndication / Treasury**<br>1955-09-04 | **U.S. Treasury Dept.**<br>U.S. Savings Bonds | **Gordon MacRae (Host)** | **Ray Bloch & Orch.** | `["Music", "Vocal", "Guest Star", "Gordon MacRae", "US Treasury"]` | Baritone singer Gordon MacRae performs popular Broadway showtunes and romantic melodies led by It Had to Be You. |
+| `GuestStar_1960_JohnnyMathis.mp3` <br>*Alt*: `Guest Star 1960 Episode` | **"Guest Johnny Mathis with US Savings Bonds"** | **Syndication / Treasury**<br>1960-09-04 | **U.S. Treasury Dept.**<br>U.S. Savings Bonds | **Johnny Mathis (Vocalist)** | **Treasury Studio Band** | `["Music", "Vocal", "Guest Star", "Johnny Mathis", "US Treasury"]` | Johnny Mathis delivers smooth pop ballad performances and appeals to American workers to enroll in payroll savings plans. |
+| `GuestStar_1966_TriniLopez.mp3` <br>*Alt*: `Guest Star 1966 Episode` | **"Guest Trini Lopez with US Savings Bonds"** | **Syndication / Treasury**<br>1966-09-04 | **U.S. Treasury Dept.**<br>U.S. Savings Bonds | **Trini Lopez (Guitar/Vocal)** | **Treasury Studio Band** | `["Music", "Folk Pop", "Guest Star", "Trini Lopez", "US Treasury"]` | Trini Lopez plays rhythmic Latin folk-pop acoustic guitar hits and promotes the purchase of United States Savings Bonds. |
+| `FacesLove_1975_MaskAffection.mp3` <br>*Alt*: `Guy Repp, Jackson Beck (announcer), Joan Copeland, Joan Lorring Faces of Love` | **"The Mask of Affection with Joan Copeland and Joan Lorring"** | **CBS Radio**<br>1975-09-04 | **Sustaining**<br>Audio Drama | **Joan Copeland & Lorring** | **Ian Martin & Beck** | `["Drama", "Anthology", "Faces of Love", "Joan Copeland", "CBS Radio"]` | Two estranged sisters confront unresolved marital jealousies and deceit when an unexpected legacy forces a tense family reunion. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 36 / 471 (371 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
