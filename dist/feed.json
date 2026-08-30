@@ -6,6 +6,46 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-587-the-shadow-orson-welles-navy-lark-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-587-the-shadow-orson-welles-navy-lark-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — The Shadow, Orson Welles & The Navy Lark",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 587)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across iconic cloaked superhero crime mysteries, monumental historical drama pageants, beloved British naval comedy, heartwarming small-town New England slice-of-life drama, silent cinema retrospective interviews, and supernatural mystery vignettes, Bret Morrison as <em>The Shadow</em> for &#39;blue coal&#39; (1951), Burgess Meredith and Orson Welles in the 60-minute season finale of CBS&#39;s <em>Forecast</em> (1940), <em>The Navy Lark</em> on BBC Radio 4 (1973), <em>Scattergood Baines</em> for Wrigley&#39;s (1949), <em>Little Old Hollywood</em> (1940), and <em>Strange</em> (1940–1973):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 587)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Shadow_1951_DeadlyDesign.mp3</code> <br><em>Alt</em>: <code>The Deadly Design The Shadow</code></td>\n<td><strong>&quot;The Deadly Design with Bret Morrison, Gertrude Warner, and Blue Coal&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-02<br>5:00 PM EDT</td>\n<td><strong>D.L.&amp;W. Coal Co.</strong><br>&#39;blue coal&#39; Heating</td>\n<td><strong>Bret Morrison (Shadow)</strong></td>\n<td><strong>Gertrude Warner (Margot)</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Mystery&quot;, &quot;The Shadow&quot;, &quot;Bret Morrison&quot;, &quot;Blue Coal&quot;]</code></td>\n<td>Lamont Cranston uses his power to cloud men&#39;s minds to stop an extortionist executing textile executives with booby-trapped fashion patterns.</td>\n</tr>\n<tr>\n<td><code>Forecast_1940_BirthOfNation.mp3</code> <br><em>Alt</em>: <code>The Birth of a Nation [FINAL 1940 SHOW] (60 mins)</code></td>\n<td><strong>&quot;The Birth of a Nation with Burgess Meredith and Orson Welles (Finale)&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-02<br>9:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Dramatic Pageant</td>\n<td><strong>Burgess Meredith</strong>, <strong>Welles</strong></td>\n<td><strong>Bernard Herrmann Orch.</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;History&quot;, &quot;Anthology&quot;, &quot;Forecast&quot;, &quot;Orson Welles&quot;]</code></td>\n<td>A grand historical radio pageant dramatizes the turbulent founding of the United States through revolutionary battles and constitutional debates.</td>\n</tr>\n<tr>\n<td><code>Navy_Lark_1973_BombedRaffia.mp3</code> <br><em>Alt</em>: <code>Bombed By The Raffia (Egbert Hitches A Ride)</code></td>\n<td><strong>&quot;Bombed by the Raffia (Egbert Hitches a Ride) with Stephen Murray&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1973-09-02<br>1:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Naval Comedy</td>\n<td><strong>Stephen Murray</strong>, <strong>Phillips</strong></td>\n<td><strong>Jon Pertwee &amp; Alastair Scott</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;British&quot;, &quot;Military&quot;, &quot;The Navy Lark&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>The bumbling crew of HMS Troutbridge inadvertently launches an airborne cargo mixup involving a stubborn livestock mascot.</td>\n</tr>\n<tr>\n<td><code>Scattergood_1949_Charity.mp3</code> <br><em>Alt</em>: <code>Scattergood Vs Charity Scattergood Baines</code></td>\n<td><strong>&quot;Scattergood vs. Charity with Wendell Holmes and Wrigley&#39;s Gum&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-09-02<br>5:45 PM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Spearmint Gum</td>\n<td><strong>Wendell Holmes (Scattergood)</strong></td>\n<td><strong>Clarence Budington Kelland</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;Scattergood Baines&quot;, &quot;Wendell Holmes&quot;, &quot;Wrigley&quot;]</code></td>\n<td>Coldriver hardware merchant Scattergood Baines outwits an officious charity organizer trying to humiliate impoverished town residents.</td>\n</tr>\n<tr>\n<td><code>Hollywood_1940_Pioneers.mp3</code> <br><em>Alt</em>: <code>Little Old Hollywood 1940 Episode</code></td>\n<td><strong>&quot;Reminiscing with Hollywood Pioneers on NBC Blue with Ben Alexander&quot;</strong></td>\n<td><strong>NBC Blue (KECA)</strong><br>1940-09-02<br>8:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Cinema Retrospective</td>\n<td><strong>Ben Alexander (Host)</strong></td>\n<td><strong>NBC Hollywood Staff</strong></td>\n<td><code>[&quot;Interview&quot;, &quot;History&quot;, &quot;Cinema&quot;, &quot;Little Old Hollywood&quot;, &quot;Ben Alexander&quot;]</code></td>\n<td>Ben Alexander interviews silent motion picture pioneers sharing colorful behind-the-scenes memories of early cinema production.</td>\n</tr>\n<tr>\n<td><code>Strange_1955_PhantasmMoors.mp3</code> <br><em>Alt</em>: <code>Strange 1955 Episode</code></td>\n<td><strong>&quot;The Phantasm of the Moors with Dramatic Cast and Syndication&quot;</strong></td>\n<td><strong>Syndication</strong><br>1955-09-02</td>\n<td><strong>Sustaining</strong><br>Supernatural Anthology</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Walter B. Gibson (Writer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Strange&quot;, &quot;Walter B Gibson&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A skeptical archaeologist unearths a cursed Celtic burial mound and witnesses an apparitional warrior pursuing trespassers across the moors.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 134 / 480 (346 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 587 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "The Shadow",
+        "Bret Morrison",
+        "Gertrude Warner",
+        "Blue Coal",
+        "Forecast",
+        "Burgess Meredith",
+        "Orson Welles",
+        "Bernard Herrmann",
+        "Series Finale",
+        "The Navy Lark",
+        "Stephen Murray",
+        "Leslie Phillips",
+        "Jon Pertwee",
+        "BBC Radio 4",
+        "Scattergood Baines",
+        "Wendell Holmes",
+        "Wrigley Gum",
+        "Strange",
+        "Walter B Gibson",
+        "Little Old Hollywood",
+        "Ben Alexander",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-586-truman-vj-day-bela-lugosi-nelson-eddy-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-586-truman-vj-day-bela-lugosi-nelson-eddy-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Truman V-J Day, Bela Lugosi & Nelson Eddy",
