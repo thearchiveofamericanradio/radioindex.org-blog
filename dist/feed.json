@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-663-meet-the-press-21st-precinct-chandu-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-663-meet-the-press-21st-precinct-chandu-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Meet the Press, 21st Precinct & Chandu",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 663)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across hard-hitting journalistic panel forums, gritty precinct police procedurals, occult mystical cliffhangers, British historical docudramas, and domestic suburban comedy, Lawrence Spivak on <em>Meet the Press</em> with Secretary Maurice Tobin (1948) and Commissioner Harold Howe II (1967), Everett Sloane in <em>21st Precinct</em> (1955), <em>Chandu the Magician</em> (1948), <em>The Travels of Mary Ward</em> (1936), and <em>Friends and Neighbors</em> (1936–1973):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 663)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>MeetPress_1948_MauriceTobin.mp3</code> <br><em>Alt</em>: <code>Maurice Tobin Meet the Press</code></td>\n<td><strong>&quot;Secretary of Labor Maurice Tobin with Lawrence Spivak&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-09-03<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Affairs Forum</td>\n<td><strong>Maurice J. Tobin (Labor)</strong></td>\n<td><strong>Lawrence Spivak &amp; Rountree</strong></td>\n<td><code>[&quot;Interview&quot;, &quot;Public Affairs&quot;, &quot;Meet The Press&quot;, &quot;Maurice Tobin&quot;, &quot;Mutual&quot;]</code></td>\n<td>Newly appointed Secretary of Labor Maurice J. Tobin faces journalists&#39; questioning regarding the Taft-Hartley Act and post-war industrial labor strikes.</td>\n</tr>\n<tr>\n<td><code>MeetPress_1967_HaroldHowe.mp3</code> <br><em>Alt</em>: <code>Harold Howe II Meet the Press</code></td>\n<td><strong>&quot;Commissioner Harold Howe II with Lawrence Spivak&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1967-09-03<br>12:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Affairs Special</td>\n<td><strong>Harold Howe II (Education)</strong></td>\n<td><strong>Lawrence Spivak &amp; Newman</strong></td>\n<td><code>[&quot;Interview&quot;, &quot;Public Affairs&quot;, &quot;Meet The Press&quot;, &quot;Harold Howe II&quot;, &quot;NBC&quot;]</code></td>\n<td>U.S. Commissioner of Education Harold Howe II defends federal school desegregation guidelines and urban educational funding.</td>\n</tr>\n<tr>\n<td><code>21stPrecinct_1955_TheCoffee.mp3</code> <br><em>Alt</em>: <code>The Coffee 21st Precinct</code></td>\n<td><strong>&quot;The Coffee with Everett Sloane as Captain Frank Kennelly&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1955-09-03<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Everett Sloane (Kennelly)</strong></td>\n<td><strong>Ken Lynch &amp; Meston</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;21st Precinct&quot;, &quot;Everett Sloane&quot;, &quot;CBS&quot;]</code></td>\n<td>Captain Kennelly investigates a suspicious diner death where a regular patron collapsed immediately after drinking poisoned coffee.</td>\n</tr>\n<tr>\n<td><code>Chandu_1948_RoxorAlive.mp3</code> <br><em>Alt</em>: <code>Roxor Is Alive Chandu the Magician</code></td>\n<td><strong>&quot;Roxor Is Alive with Tom Collins as Chandu&quot;</strong></td>\n<td><strong>Mutual-Don Lee</strong><br>1948-09-03</td>\n<td><strong>Los Angeles Soap Co.</strong><br>White King Granulated Soap</td>\n<td><strong>Tom Collins (Chandu)</strong></td>\n<td><strong>Luis Van Rooten (Roxor)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Occult&quot;, &quot;Chandu&quot;, &quot;Tom Collins&quot;, &quot;White King&quot;]</code></td>\n<td>Frank Chandler senses occult vibrations in Cairo revealing his arch-nemesis Roxor has survived a deadly Egyptian pyramid collapse.</td>\n</tr>\n<tr>\n<td><code>MaryWard_1936_FlightRome.mp3</code> <br><em>Alt</em>: <code>Travels of Mary Ward 1936 Episode</code></td>\n<td><strong>&quot;Flight to Rome with BBC Drama Cast&quot;</strong></td>\n<td><strong>BBC National</strong><br>1936-09-03</td>\n<td><strong>Sustaining</strong><br>Historical Docudrama</td>\n<td><strong>BBC Drama Cast</strong></td>\n<td><strong>BBC Drama Producers</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;History&quot;, &quot;Mary Ward&quot;, &quot;BBC National&quot;, &quot;Religious&quot;]</code></td>\n<td>Seventeenth-century English religious pioneer Mary Ward undertakes a hazardous foot journey across the Alps to petition the Pope.</td>\n</tr>\n<tr>\n<td><code>FriendsNeighbors_1973_LoveCar.mp3</code> <br><em>Alt</em>: <code>Love Me, Love My Car Friends and Neighbors</code></td>\n<td><strong>&quot;Love Me, Love My Car with Colin Morris&quot;</strong></td>\n<td><strong>Springbok / SABC</strong><br>1973-09-03</td>\n<td><strong>Sustaining</strong><br>Suburban Sitcom</td>\n<td><strong>Colin Morris (Lead)</strong></td>\n<td><strong>SABC Comedy Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Friends And Neighbors&quot;, &quot;Colin Morris&quot;, &quot;Springbok&quot;]</code></td>\n<td>A suburban husband&#39;s obsession with restoring a vintage sports car incites neighborhood feuds and domestic ultimatums.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 169 / 469 (300 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 663 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Meet the Press",
+        "Lawrence Spivak",
+        "Maurice Tobin",
+        "Harold Howe II",
+        "21st Precinct",
+        "Everett Sloane",
+        "John Meston",
+        "CBS",
+        "Chandu the Magician",
+        "Tom Collins",
+        "Roxor",
+        "White King Soap",
+        "The Travels of Mary Ward",
+        "BBC National",
+        "Friends and Neighbors",
+        "Springbok Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-662-basil-rathbone-michael-shayne-charlie-mccarthy-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-662-basil-rathbone-michael-shayne-charlie-mccarthy-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Basil Rathbone, Michael Shayne & Charlie McCarthy",
