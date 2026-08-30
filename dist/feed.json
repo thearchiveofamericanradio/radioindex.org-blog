@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-620-pat-obrien-family-theater-will-rogers-jr-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-620-pat-obrien-family-theater-will-rogers-jr-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Pat O'Brien, Family Theater & Will Rogers Jr.",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 620)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across inspiring moral anthologies, small-town newspaper comedy-dramas, syndicated popular science lectures, and debonair private investigator mysteries, Pat O&#39;Brien, William Bendix, and Ruth Hussey on <em>Family Theater</em> (1948, 1953), Will Rogers Jr. and Georgia Ellis in <em>Rogers of the Gazette</em> (1953), Dr. Phillips Thomas on <em>Adventures in Research</em> for Westinghouse (1947, 1952), and Vincent Price as <em>The Saint</em> (1947–1953):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 620)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Family_1948_GoldenAfternoon.mp3</code> <br><em>Alt</em>: <code>Once On a Golden Afternoon Family Theater</code></td>\n<td><strong>&quot;Once on a Golden Afternoon with Ruth Hussey&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-09-02<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Family Rosary Crusade</td>\n<td><strong>Ruth Hussey (Hostess)</strong></td>\n<td><strong>Arthur Shields &amp; Tuttle</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Family Theater&quot;, &quot;Ruth Hussey&quot;, &quot;Mutual&quot;]</code></td>\n<td>A devoted English schoolteacher inspires young minds through storytelling and discovers lasting personal purpose in an idyllic village.</td>\n</tr>\n<tr>\n<td><code>Family_1953_Testimonial.mp3</code> <br><em>Alt</em>: <code>Testimonial Family Theater</code></td>\n<td><strong>&quot;Testimonial with Pat O&#39;Brien and William Bendix&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1953-09-02<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Family Rosary Crusade</td>\n<td><strong>Pat O&#39;Brien</strong>, <strong>Bendix</strong></td>\n<td><strong>Father Patrick Peyton</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Family Theater&quot;, &quot;Pat OBrien&quot;, &quot;Mutual&quot;]</code></td>\n<td>A modest veteran factory foreman reflects on thirty years of community service and quiet integrity when honored at a town testimonial dinner.</td>\n</tr>\n<tr>\n<td><code>Rogers_1953_BessieRichards.mp3</code> <br><em>Alt</em>: <code>The Bessie Richards Story Rogers Of The Gazette</code></td>\n<td><strong>&quot;The Bessie Richards Story with Will Rogers Jr.&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1953-09-02<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Small-Town Comedy</td>\n<td><strong>Will Rogers Jr. (Tom)</strong></td>\n<td><strong>Georgia Ellis &amp; Del Valle</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;Rogers Of The Gazette&quot;, &quot;Will Rogers Jr&quot;, &quot;CBS&quot;]</code></td>\n<td>Small-town newspaper editor Tom Rogers defends a reclusive local seamstress falsely accused of stealing valuable heirloom jewelry.</td>\n</tr>\n<tr>\n<td><code>Research_1947_ImpracticalPoet.mp3</code> <br><em>Alt</em>: <code>The Impractical Poet Adventures in Research</code></td>\n<td><strong>&quot;The Impractical Poet with Dr. Phillips Thomas&quot;</strong></td>\n<td><strong>Syndication (KDKA)</strong><br>1947-09-02</td>\n<td><strong>Westinghouse</strong><br>Electric Corporation</td>\n<td><strong>Dr. Phillips Thomas</strong></td>\n<td><strong>Paul Shannon (Anncr)</strong></td>\n<td><code>[&quot;Science&quot;, &quot;Education&quot;, &quot;Adventures In Research&quot;, &quot;Westinghouse&quot;, &quot;Syndicated&quot;]</code></td>\n<td>The host explores the scientific innovations of early natural philosophers whose poetic theories anticipated modern electromagnetism.</td>\n</tr>\n<tr>\n<td><code>Research_1952_StoryCement.mp3</code> <br><em>Alt</em>: <code>The Story Of Cement Adventures in Research</code></td>\n<td><strong>&quot;The Story of Cement with Dr. Phillips Thomas&quot;</strong></td>\n<td><strong>Syndication (KDKA)</strong><br>1952-09-02</td>\n<td><strong>Westinghouse</strong><br>Electric Corporation</td>\n<td><strong>Dr. Phillips Thomas</strong></td>\n<td><strong>Paul Shannon (Anncr)</strong></td>\n<td><code>[&quot;Science&quot;, &quot;Education&quot;, &quot;Adventures In Research&quot;, &quot;Westinghouse&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Dr. Phillips Thomas explains the historical development of hydraulic cement from Roman volcanic ash mortar to modern Portland cement.</td>\n</tr>\n<tr>\n<td><code>Saint_1951_FishingBoatAlt.mp3</code> <br><em>Alt</em>: <code>The Fishing Boat Case The Saint (7c8a)</code></td>\n<td><strong>&quot;The Fishing Boat Case with Vincent Price as The Saint&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1951-09-02<br>7:30 PM EDT</td>\n<td><strong>Emerson Drug Co.</strong><br>Bromo-Seltzer</td>\n<td><strong>Vincent Price (Simon)</strong></td>\n<td><strong>Leslie Charteris (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Saint&quot;, &quot;Vincent Price&quot;, &quot;Bromo Seltzer&quot;]</code></td>\n<td>Simon Templar investigates the midnight sabotage of a commercial tuna clipper involved in an international diamond smuggling racket.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 332 / 480 (148 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 620 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Family Theater",
+        "Pat OBrien",
+        "William Bendix",
+        "Ruth Hussey",
+        "Father Patrick Peyton",
+        "Mutual",
+        "Rogers of the Gazette",
+        "Will Rogers Jr",
+        "Georgia Ellis",
+        "CBS",
+        "Adventures in Research",
+        "Dr Phillips Thomas",
+        "Westinghouse",
+        "The Saint",
+        "Vincent Price",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-619-popeye-the-line-up-grand-ole-opry-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-619-popeye-the-line-up-grand-ole-opry-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Popeye, The Line Up & Grand Ole Opry",
