@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-619-popeye-the-line-up-grand-ole-opry-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-619-popeye-the-line-up-grand-ole-opry-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Popeye, The Line Up & Grand Ole Opry",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 619)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across spinach-eating comic nautical adventures, gritty San Francisco police procedurals, hardboiled pipe-smoking detective drama, live country music jamborees, and daytime domestic serial drama, Floyd Buckley as <em>Popeye the Sailor</em> for Wheatena (1936), Bill Johnstone in <em>The Line Up</em> for Wrigley&#39;s Spearmint (1950), Lloyd Nolan as <em>Martin Kane</em> (1951), Red Foley hosting the <em>Grand Ole Opry</em> (1950), and <em>Aunt Mary</em> (1936–1951):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 619)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Popeye_1936_AuctionSale.mp3</code> <br><em>Alt</em>: <code>The Auction Sale Popeye the Sailor</code></td>\n<td><strong>&quot;The Auction Sale with Wheatena&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1936-09-02<br>7:15 PM EDST</td>\n<td><strong>The Wheatena Corp.</strong><br>Wheatena Cereal</td>\n<td><strong>Floyd Buckley (Popeye)</strong></td>\n<td><strong>Olive La Moy &amp; Poppen</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Adventure&quot;, &quot;Comedy&quot;, &quot;Popeye&quot;, &quot;Wheatena&quot;]</code></td>\n<td>Popeye outbids Bluto at a seaside municipal auction to purchase an antique trunk that conceals an elusive treasure map.</td>\n</tr>\n<tr>\n<td><code>LineUp_1950_MissingWitness.mp3</code> <br><em>Alt</em>: <code>Cops search for woman who is key witness - [SHOW MOVES TO SATURDAY]</code></td>\n<td><strong>&quot;The Missing Eyewitness with Bill Johnstone and Wrigley&#39;s&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-02<br>8:00 PM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Spearmint Chewing Gum</td>\n<td><strong>Bill Johnstone (Guthrie)</strong></td>\n<td><strong>Wally Maher &amp; Edwards</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Line Up&quot;, &quot;Bill Johnstone&quot;, &quot;Wrigleys&quot;]</code></td>\n<td>San Francisco police detectives race against underworld hitmen to locate a terrified woman who witnessed a dockside murder.</td>\n</tr>\n<tr>\n<td><code>Kane_1951_BlackmailGigolo.mp3</code> <br><em>Alt</em>: <code>Gigolo tries blackmail Martin Kane Private Investigator</code></td>\n<td><strong>&quot;The Blackmailing Gigolo with Lloyd Nolan&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1951-09-02<br>4:30 PM EDT</td>\n<td><strong>U.S. Tobacco Co.</strong><br>Model Smoking Tobacco</td>\n<td><strong>Lloyd Nolan (Kane)</strong></td>\n<td><strong>Horace McMahon &amp; Kane</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Martin Kane&quot;, &quot;Lloyd Nolan&quot;, &quot;Tobacco&quot;]</code></td>\n<td>Martin Kane investigates when a suave ballroom dance instructor extorting hush money from wealthy socialites is poisoned.</td>\n</tr>\n<tr>\n<td><code>Opry_1950_RedFoley.mp3</code> <br><em>Alt</em>: <code>Grand Ole Opry 1950 Episode</code></td>\n<td><strong>&quot;Red Foley Live from Ryman Auditorium with Prince Albert&quot;</strong></td>\n<td><strong>NBC / WSM</strong><br>1950-09-02<br>10:30 PM EST</td>\n<td><strong>R.J. Reynolds</strong><br>Prince Albert Tobacco</td>\n<td><strong>Red Foley (Host)</strong></td>\n<td><strong>Minnie Pearl &amp; Jordanaires</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Country&quot;, &quot;Grand Ole Opry&quot;, &quot;Red Foley&quot;, &quot;Prince Albert&quot;]</code></td>\n<td>Red Foley headlines a live country music broadcast from Ryman Auditorium featuring comedic sketches and gospel harmonies.</td>\n</tr>\n<tr>\n<td><code>AuntMary_1946_CarlaComes.mp3</code> <br><em>Alt</em>: <code>Carla Comes To See Aunt Mary</code></td>\n<td><strong>&quot;Carla Comes to See with Jane Morgan and Safeway&quot;</strong></td>\n<td><strong>NBC Pacific</strong><br>1946-09-02<br>3:30 PM EDT</td>\n<td><strong>Safeway Stores</strong><br>Kitchen Craft Flour</td>\n<td><strong>Jane Morgan (Mary)</strong></td>\n<td><strong>Pacific Coast Cast</strong></td>\n<td><code>[&quot;Soap&quot;, &quot;Drama&quot;, &quot;Aunt Mary&quot;, &quot;Jane Morgan&quot;, &quot;Safeway&quot;]</code></td>\n<td>Aunt Mary welcomes an estranged city relative whose troubled past threatens to disrupt the peaceful routine of Willow Springs.</td>\n</tr>\n<tr>\n<td><code>AuntMary_1947_LeftysLoan.mp3</code> <br><em>Alt</em>: <code>Leftys 2000 Dollars Will Be Enough To Procure Bank Loan</code></td>\n<td><strong>&quot;Lefty&#39;s Bank Loan Security with Jane Morgan&quot;</strong></td>\n<td><strong>NBC Pacific</strong><br>1947-09-02<br>3:30 PM EDT</td>\n<td><strong>Safeway Stores</strong><br>Kitchen Craft Flour</td>\n<td><strong>Jane Morgan (Mary)</strong></td>\n<td><strong>Pacific Coast Cast</strong></td>\n<td><code>[&quot;Soap&quot;, &quot;Drama&quot;, &quot;Aunt Mary&quot;, &quot;Jane Morgan&quot;, &quot;Safeway&quot;]</code></td>\n<td>Mary helps a reformed ex-convict secure an agricultural development loan by pledging emergency financial backing.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 326 / 480 (154 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 619 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Popeye the Sailor",
+        "Wheatena",
+        "The Line Up",
+        "Bill Johnstone",
+        "Blake Edwards",
+        "Wrigleys Spearmint",
+        "Martin Kane Private Eye",
+        "Lloyd Nolan",
+        "US Tobacco",
+        "Grand Ole Opry",
+        "Red Foley",
+        "Prince Albert Tobacco",
+        "Aunt Mary",
+        "Jane Morgan",
+        "Safeway",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-618-joel-mccrea-lum-and-abner-air-battle-at-wewak-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-618-joel-mccrea-lum-and-abner-air-battle-at-wewak-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Joel McCrea, Lum & Abner & Air Battle at Wewak",
