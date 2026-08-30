@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-674-rudy-vallee-mel-blanc-boris-karloff-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-674-rudy-vallee-mel-blanc-boris-karloff-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Rudy Vallee, Mel Blanc & Boris Karloff",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 674)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across pioneer variety hours, atmospheric horror adaptations, comedic fix-it shop escapades, hardboiled international intrigue in Istanbul, newspaper morality anthologies, and radio drama, Rudy Vallee on <em>The Fleischmann&#39;s Yeast Hour</em> with jazz pioneer Marion Harris (1931) and screen icon Boris Karloff (1936), Mel Blanc for Colgate (1946), Alonzo Deen Cole&#39;s <em>The Witch&#39;s Tale</em> in Australia (1935), Jack Moyles in <em>A Man Named Jordan</em> (1950), and <em>Night Editor</em> (1931–1950):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 674)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Fleischmann_1931_MarionHarris.mp3</code> <br><em>Alt</em>: <code>Marlon Harris Rudy Vallee</code></td>\n<td><strong>&quot;Marion Harris with Rudy Vallee and Fleischmann&#39;s Yeast&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1931-09-03<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Fleischmann&#39;s Yeast</td>\n<td><strong>Rudy Vallee</strong>, <strong>Harris</strong></td>\n<td><strong>Connecticut Yankees</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Rudy Vallee&quot;, &quot;Marion Harris&quot;, &quot;Fleischmanns&quot;]</code></td>\n<td><code>null</code></td>\n<td>Rudy Vallee welcomes pioneer jazz-blues chanteuse Marion Harris for signature torch songs alongside dance orchestra numbers.</td>\n</tr>\n<tr>\n<td><code>Fleischmann_1936_BorisKarloff.mp3</code> <br><em>Alt</em>: <code>Guest - Boris Karloff Rudy Vallee</code></td>\n<td><strong>&quot;Guest Boris Karloff with Rudy Vallee and Fleischmann&#39;s Yeast&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1936-09-03<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Fleischmann&#39;s &amp; Gelatin</td>\n<td><strong>Rudy Vallee</strong>, <strong>Karloff</strong></td>\n<td><strong>Connecticut Yankees</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Drama&quot;, &quot;Rudy Vallee&quot;, &quot;Boris Karloff&quot;, &quot;Fleischmanns&quot;]</code></td>\n<td><code>null</code></td>\n<td>Horror screen star Boris Karloff performs a chilling dramatic radio reading opposite Rudy Vallee&#39;s Connecticut Yankees.</td>\n</tr>\n<tr>\n<td><code>MelBlanc_1946_BirthdayCards.mp3</code> <br><em>Alt</em>: <code>The Birthday Cards Mel Blanc Show</code></td>\n<td><strong>&quot;The Birthday Cards with Mel Blanc and Colgate&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1946-09-03<br>8:30 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Dental &amp; Halo</td>\n<td><strong>Mel Blanc (Self/Twaddle)</strong></td>\n<td><strong>Mary Jane Croft &amp; Kearns</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Mel Blanc&quot;, &quot;Halo Shampoo&quot;, &quot;Colgate&quot;]</code></td>\n<td><code>null</code></td>\n<td>Mel tries to boost sales at his neighborhood fix-it shop by selling humorous customized birthday greeting cards.</td>\n</tr>\n<tr>\n<td><code>WitchsTale_1935_MagicSkin1.mp3</code> <br><em>Alt</em>: <code>Magic Skin Part 1 The Witch&#39;s Tale AU</code></td>\n<td><strong>&quot;The Magic Skin (Part 1) with Old Nancy and 3DB Melbourne&quot;</strong></td>\n<td><strong>3DB Melbourne</strong><br>1935-09-03</td>\n<td><strong>Sustaining</strong><br>Supernatural Drama</td>\n<td><strong>Old Nancy (Narrator)</strong></td>\n<td><strong>Alonzo Deen Cole &amp; Balzac</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Anthology&quot;, &quot;Witchs Tale&quot;, &quot;Old Nancy&quot;, &quot;3DB&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Magic Skin&quot;, &quot;part&quot;: 1, &quot;total_parts&quot;: 2}</code></td>\n<td>A desperate young gambler acquires an ancient talisman skin that grants every wish while shrinking his remaining lifespan.</td>\n</tr>\n<tr>\n<td><code>ManNamedJordan_1950_SmugglersHarbor.mp3</code> <br><em>Alt</em>: <code>A Man Named Jordan 1950 Episode</code></td>\n<td><strong>&quot;The Smuggler&#39;s Harbor with Jack Moyles as Rocky Jordan&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-03<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Expatriate Mystery</td>\n<td><strong>Jack Moyles (Jordan)</strong></td>\n<td><strong>Jay Novello &amp; Roman</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;Rocky Jordan&quot;, &quot;Jack Moyles&quot;, &quot;CBS&quot;]</code></td>\n<td><code>null</code></td>\n<td>Rocky Jordan protects a desperate American maritime engineer framed for contraband smuggling in Istanbul harbor.</td>\n</tr>\n<tr>\n<td><code>NightEditor_1939_FatalScoop.mp3</code> <br><em>Alt</em>: <code>Episode Night Editor</code></td>\n<td><strong>&quot;The Fatal Scoop with Hal Burdick&quot;</strong></td>\n<td><strong>NBC Red (KPO)</strong><br>1939-09-03<br>8:15 PM PST</td>\n<td><strong>Cardinet Candy Co.</strong><br>Crax &amp; U-No Candy Bars</td>\n<td><strong>Hal Burdick (Narrator)</strong></td>\n<td><strong>NBC Pacific Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Night Editor&quot;, &quot;Hal Burdick&quot;, &quot;NBC&quot;]</code></td>\n<td><code>null</code></td>\n<td>A veteran newspaper editor recounts the moral crisis of a police reporter who witnesses a hit-and-run involving his publisher&#39;s son.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 235 / 469 (234 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 674 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Fleischmann's Yeast Hour",
+        "Rudy Vallee",
+        "Marion Harris",
+        "Boris Karloff",
+        "Standard Brands",
+        "The Mel Blanc Show",
+        "Mel Blanc",
+        "Colgate",
+        "Halo Shampoo",
+        "The Witch's Tale",
+        "Alonzo Deen Cole",
+        "Old Nancy",
+        "3DB Melbourne",
+        "Serial Story Arc",
+        "The Magic Skin",
+        "A Man Named Jordan",
+        "Jack Moyles",
+        "Rocky Jordan",
+        "Night Editor",
+        "Hal Burdick",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-673-eve-arden-lily-pons-comic-weekly-man-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-673-eve-arden-lily-pons-comic-weekly-man-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Eve Arden, Lily Pons & The Comic Weekly Man",
