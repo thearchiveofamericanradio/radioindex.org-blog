@@ -1,0 +1,33 @@
+# Archival Dispatch: August 31 Calendar Walk — Green Hornet, Inner Sanctum, and Dr. Christian
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, The Green Hornet, Al Hodge, Kato, Fran Striker, George W Trendle, Inner Sanctum Mystery, Raymond Edward Johnson, Himan Brown, Carters Little Liver Pills, Dr Christian, Jean Hersholt, Rosemary DeCamp, Vaseline, The Sheaffer Parade, Carmen Cavallaro, Sheaffer Pens, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 456)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across American superhero crimefighting, macabre psychological horror, small-town medical drama, and musical piano variety, Al Hodge as Britt Reid in *The Green Hornet* battling municipal racketeers (1937) and a coal monopoly (1939), Raymond Edward Johnson hosting *The Hands of Death* on *Inner Sanctum Mystery* (1941), Jean Hersholt in *Dr. Christian* for Vaseline (1949), and Carmen Cavallaro on *The Sheaffer Parade* (1937–1949):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 456)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Sheaffer_1947_Cavallaro_M1.mp3` <br>*Alt*: `The Musgrave Ritual Sheaffer` | **"Guest Carmen Cavallaro (Master 1)"** | **NBC (WEAF)**<br>1947-08-31<br>3:00 PM EDT | **W.A. Sheaffer Pen Co.**<br>Lifetime Pens & Skrip | **Carmen Cavallaro**, **Breese** | **Lou Breese Orchestra** | `["Music", "Piano", "Big Band", "Carmen Cavallaro", "Sheaffer"]` | Pianist Carmen Cavallaro performs virtuosic keyboard interpretations of popular melodies and Chopin classics. |
+| `Sheaffer_1947_Cavallaro_M2.mp3` <br>*Alt*: `Sheaffer Parade 1947` | **"Guest Carmen Cavallaro (Master 2)"** | **NBC (WEAF)**<br>1947-08-31<br>3:00 PM EDT | **W.A. Sheaffer Pen Co.**<br>Fineline Pencils | **Carmen Cavallaro**, **Breese** | **Lou Breese Orchestra** | `["Music", "Piano", "Big Band", "Carmen Cavallaro", "Sheaffer"]` | Carmen Cavallaro and his rhythm group play sparkling piano solos and romantic ballads for Sheaffer Pens. |
+| `Sanctum_1941_Hands.mp3` <br>*Alt*: `The Hands of Death Sanctum` | **"The Hands of Death with Raymond Edward Johnson"** | **NBC Blue (WJZ)**<br>1941-08-31<br>8:30 PM EDST | **Carter Products**<br>Carter's Little Liver Pills | **Raymond Edward Johnson** | **Himan Brown (Producer)** | `["Horror", "Suspense", "Macabre", "Inner Sanctum", "Himan Brown"]` | A desperate surgeon whose hands are ruined in an accident receives transplants that compel him to commit gruesome stranglings. |
+| `Christian_1949_Towel.mp3` <br>*Alt*: `Tradition of the Towel` | **"Tradition of the Towel with Jean Hersholt"** | **CBS (WCBS)**<br>1949-08-31<br>8:30 PM EDT | **Chesebrough Mfg.**<br>Vaseline Brand Products | **Jean Hersholt**, **DeCamp** | **William N. Robson (Dir)** | `["Drama", "Medical", "Jean Hersholt", "Dr Christian", "Vaseline"]` | Dr. Christian guides a promising medical intern through a personal crisis involving family loyalty and surgical ethics. |
+| `Hornet_1937_Meters.mp3` <br>*Alt*: `Green Hornet 1937 Episode` | **"The Counterfeit Parking Meter Racket with Al Hodge"** | **Mutual / WXYZ**<br>1937-08-31<br>8:00 PM EST | **Sustaining**<br>Superhero Crime Drama | **Al Hodge**, **Hayashi** | **Trendle & Striker** | `["Superhero", "Mystery", "Crime", "The Green Hornet", "Fran Striker"]` | Britt Reid and Kato investigate an extortion gang rigging municipal parking meters to shake down downtown business owners. |
+| `Hornet_1939_Coal.mp3` <br>*Alt*: `Cut-In on Coal Green Hornet` | **"Cut-In on Coal with Al Hodge"** | **Mutual / WXYZ**<br>1939-08-31<br>8:00 PM EST | **Sustaining**<br>Superhero Crime Drama | **Al Hodge**, **Hayashi** | **Fran Striker (Writer)** | `["Superhero", "Mystery", "Crime", "The Green Hornet", "Fran Striker"]` | The Green Hornet crushes a corrupt union syndicate attempting to enforce a monopoly on commercial winter coal deliveries. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 36 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

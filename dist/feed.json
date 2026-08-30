@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-456-green-hornet-inner-sanctum-dr-christian-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-456-green-hornet-inner-sanctum-dr-christian-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Green Hornet, Inner Sanctum, and Dr. Christian",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 456)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American superhero crimefighting, macabre psychological horror, small-town medical drama, and musical piano variety, Al Hodge as Britt Reid in <em>The Green Hornet</em> battling municipal racketeers (1937) and a coal monopoly (1939), Raymond Edward Johnson hosting <em>The Hands of Death</em> on <em>Inner Sanctum Mystery</em> (1941), Jean Hersholt in <em>Dr. Christian</em> for Vaseline (1949), and Carmen Cavallaro on <em>The Sheaffer Parade</em> (1937–1949):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 456)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Sheaffer_1947_Cavallaro_M1.mp3</code> <br><em>Alt</em>: <code>The Musgrave Ritual Sheaffer</code></td>\n<td><strong>&quot;Guest Carmen Cavallaro (Master 1)&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-08-31<br>3:00 PM EDT</td>\n<td><strong>W.A. Sheaffer Pen Co.</strong><br>Lifetime Pens &amp; Skrip</td>\n<td><strong>Carmen Cavallaro</strong>, <strong>Breese</strong></td>\n<td><strong>Lou Breese Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Piano&quot;, &quot;Big Band&quot;, &quot;Carmen Cavallaro&quot;, &quot;Sheaffer&quot;]</code></td>\n<td>Pianist Carmen Cavallaro performs virtuosic keyboard interpretations of popular melodies and Chopin classics.</td>\n</tr>\n<tr>\n<td><code>Sheaffer_1947_Cavallaro_M2.mp3</code> <br><em>Alt</em>: <code>Sheaffer Parade 1947</code></td>\n<td><strong>&quot;Guest Carmen Cavallaro (Master 2)&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-08-31<br>3:00 PM EDT</td>\n<td><strong>W.A. Sheaffer Pen Co.</strong><br>Fineline Pencils</td>\n<td><strong>Carmen Cavallaro</strong>, <strong>Breese</strong></td>\n<td><strong>Lou Breese Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Piano&quot;, &quot;Big Band&quot;, &quot;Carmen Cavallaro&quot;, &quot;Sheaffer&quot;]</code></td>\n<td>Carmen Cavallaro and his rhythm group play sparkling piano solos and romantic ballads for Sheaffer Pens.</td>\n</tr>\n<tr>\n<td><code>Sanctum_1941_Hands.mp3</code> <br><em>Alt</em>: <code>The Hands of Death Sanctum</code></td>\n<td><strong>&quot;The Hands of Death with Raymond Edward Johnson&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1941-08-31<br>8:30 PM EDST</td>\n<td><strong>Carter Products</strong><br>Carter&#39;s Little Liver Pills</td>\n<td><strong>Raymond Edward Johnson</strong></td>\n<td><strong>Himan Brown (Producer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Suspense&quot;, &quot;Macabre&quot;, &quot;Inner Sanctum&quot;, &quot;Himan Brown&quot;]</code></td>\n<td>A desperate surgeon whose hands are ruined in an accident receives transplants that compel him to commit gruesome stranglings.</td>\n</tr>\n<tr>\n<td><code>Christian_1949_Towel.mp3</code> <br><em>Alt</em>: <code>Tradition of the Towel</code></td>\n<td><strong>&quot;Tradition of the Towel with Jean Hersholt&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-08-31<br>8:30 PM EDT</td>\n<td><strong>Chesebrough Mfg.</strong><br>Vaseline Brand Products</td>\n<td><strong>Jean Hersholt</strong>, <strong>DeCamp</strong></td>\n<td><strong>William N. Robson (Dir)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Medical&quot;, &quot;Jean Hersholt&quot;, &quot;Dr Christian&quot;, &quot;Vaseline&quot;]</code></td>\n<td>Dr. Christian guides a promising medical intern through a personal crisis involving family loyalty and surgical ethics.</td>\n</tr>\n<tr>\n<td><code>Hornet_1937_Meters.mp3</code> <br><em>Alt</em>: <code>Green Hornet 1937 Episode</code></td>\n<td><strong>&quot;The Counterfeit Parking Meter Racket with Al Hodge&quot;</strong></td>\n<td><strong>Mutual / WXYZ</strong><br>1937-08-31<br>8:00 PM EST</td>\n<td><strong>Sustaining</strong><br>Superhero Crime Drama</td>\n<td><strong>Al Hodge</strong>, <strong>Hayashi</strong></td>\n<td><strong>Trendle &amp; Striker</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Mystery&quot;, &quot;Crime&quot;, &quot;The Green Hornet&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>Britt Reid and Kato investigate an extortion gang rigging municipal parking meters to shake down downtown business owners.</td>\n</tr>\n<tr>\n<td><code>Hornet_1939_Coal.mp3</code> <br><em>Alt</em>: <code>Cut-In on Coal Green Hornet</code></td>\n<td><strong>&quot;Cut-In on Coal with Al Hodge&quot;</strong></td>\n<td><strong>Mutual / WXYZ</strong><br>1939-08-31<br>8:00 PM EST</td>\n<td><strong>Sustaining</strong><br>Superhero Crime Drama</td>\n<td><strong>Al Hodge</strong>, <strong>Hayashi</strong></td>\n<td><strong>Fran Striker (Writer)</strong></td>\n<td><code>[&quot;Superhero&quot;, &quot;Mystery&quot;, &quot;Crime&quot;, &quot;The Green Hornet&quot;, &quot;Fran Striker&quot;]</code></td>\n<td>The Green Hornet crushes a corrupt union syndicate attempting to enforce a monopoly on commercial winter coal deliveries.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 36 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 456 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "The Green Hornet",
+        "Al Hodge",
+        "Kato",
+        "Fran Striker",
+        "George W Trendle",
+        "Inner Sanctum Mystery",
+        "Raymond Edward Johnson",
+        "Himan Brown",
+        "Carters Little Liver Pills",
+        "Dr Christian",
+        "Jean Hersholt",
+        "Rosemary DeCamp",
+        "Vaseline",
+        "The Sheaffer Parade",
+        "Carmen Cavallaro",
+        "Sheaffer Pens",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-455-greatest-story-henry-morgan-mystery-theater-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-455-greatest-story-henry-morgan-mystery-theater-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Greatest Story, Henry Morgan, and Mystery Theater",
