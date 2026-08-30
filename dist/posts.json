@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-711-the-falcon-dan-duryea-vincent-price-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-711-the-falcon-dan-duryea-vincent-price-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — The Falcon, Dan Duryea & Vincent Price",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 711)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across two classic eras of <em>The Falcon</em> (James Meighan in 1946 for Gem Blades and Les Damon in 1950 for Kraft), gritty Los Angeles homicide investigations starring Dan Duryea, Vincent Price hosting supernatural terror, Edgar Bergen and Charlie McCarthy with British film star Wendy Barrie on the eve of WWII, and cliffhanger boy detective serial adventures, <em>The Falcon</em> (1946, 1950), Dan Duryea (1951), Vincent Price (1980), Edgar Bergen (1939), and <em>Chick Carter</em> (1939–1980):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 711)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TheFalcon_1946_DeathBoxes.mp3</code> <br><em>Alt</em>: <code>Death Comes In Boxes Falcon, The</code></td>\n<td><strong>&quot;Death Comes in Boxes with James Meighan as The Falcon&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-03<br>8:30 PM EDT</td>\n<td><strong>American Safety Razor</strong><br>Gem Blades &amp; Razors</td>\n<td><strong>James Meighan (Falcon)</strong></td>\n<td><strong>Elspeth Eric &amp; Drake</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Falcon&quot;, &quot;James Meighan&quot;, &quot;Gem Blades&quot;]</code></td>\n<td><code>null</code></td>\n<td>Michael Waring investigates the murder of an eccentric packaging manufacturer who mailed miniature coffins to his heirs.</td>\n</tr>\n<tr>\n<td><code>TheFalcon_1950_QuarrelsomeQuartet.mp3</code> <br><em>Alt</em>: <code>The Case Of The Quarrelsome Quartet Falcon, The</code></td>\n<td><strong>&quot;The Case of the Quarrelsome Quartet with Les Damon as The Falcon&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1950-09-03<br>7:00 PM EDT</td>\n<td><strong>Kraft Foods</strong><br>Kraft Mayonnaise</td>\n<td><strong>Les Damon (Falcon)</strong></td>\n<td><strong>Ken Lynch (Corbett)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Falcon&quot;, &quot;Les Damon&quot;, &quot;Kraft&quot;]</code></td>\n<td><code>null</code></td>\n<td>The Falcon investigates the onstage murder of a string quartet cellist whose instrument contained smuggled industrial diamonds.</td>\n</tr>\n<tr>\n<td><code>ManHomicide_1951_Shallberger.mp3</code> <br><em>Alt</em>: <code>Donald Shallberger Murder Man From Homicide, The</code></td>\n<td><strong>&quot;The Donald Shallberger Murder with Dan Duryea as Lou Dana&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1951-09-03<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Hardboiled Police Drama</td>\n<td><strong>Dan Duryea (Lt. Dana)</strong></td>\n<td><strong>Dwight Hauser (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Police&quot;, &quot;The Man From Homicide&quot;, &quot;Dan Duryea&quot;, &quot;ABC&quot;]</code></td>\n<td><code>null</code></td>\n<td>Lt. Lou Dana investigates the brutal beating of a wealthy yacht broker discovered in an alleyway behind a waterfront casino.</td>\n</tr>\n<tr>\n<td><code>MutualTheater_1980_Housewarming.mp3</code> <br><em>Alt</em>: <code>The House Warming Mutual Radio Theater</code></td>\n<td><strong>&quot;The Housewarming with Vincent Price and Elliott Lewis&quot;</strong></td>\n<td><strong>Mutual Radio</strong><br>1980-09-03</td>\n<td><strong>Sustaining</strong><br>Audio Anthology</td>\n<td><strong>Vincent Price (Host)</strong></td>\n<td><strong>Elliott Lewis (Dir.)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Mutual Radio Theater&quot;, &quot;Vincent Price&quot;, &quot;Elliott Lewis&quot;]</code></td>\n<td><code>null</code></td>\n<td>A newly married couple celebrating their suburban home purchase discovers that the previous owner left behind a vengeful demonic presence.</td>\n</tr>\n<tr>\n<td><code>EdgarBergen_1939_WendyBarrie.mp3</code> <br><em>Alt</em>: <code>Charlie McCarthy 122 Guest Wendy Barrie Edgar Bergen</code></td>\n<td><strong>&quot;Guest Wendy Barrie with Edgar Bergen and Charlie McCarthy&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-09-03<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Coffee</td>\n<td><strong>Edgar Bergen &amp; Charlie</strong></td>\n<td><strong>Wendy Barrie (Guest)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Charlie McCarthy&quot;, &quot;Edgar Bergen&quot;, &quot;Wendy Barrie&quot;]</code></td>\n<td><code>null</code></td>\n<td>Charlie McCarthy flirts incorrigibly with British screen actress Wendy Barrie on the evening war breaks out in Europe.</td>\n</tr>\n<tr>\n<td><code>ChickCarter_1943_KidnappedChemist.mp3</code> <br><em>Alt</em>: <code>Chick Carter, Boy Detective 1943 Episode</code></td>\n<td><strong>&quot;The Kidnapped Chemist with Bill Lipton as Chick Carter&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1943-09-03<br>5:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Juvenile Adventure</td>\n<td><strong>Bill Lipton (Chick)</strong></td>\n<td><strong>Leon Janney &amp; Street</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Juvenile&quot;, &quot;Chick Carter&quot;, &quot;Bill Lipton&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Formula for Victory&quot;, &quot;part&quot;: 18, &quot;total_parts&quot;: 30}</code></td>\n<td>Chick Carter tracks a clandestine syndicate of saboteurs holding a synthetic rubber scientist captive in an abandoned warehouse.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 457 / 469 (12 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 711 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Falcon",
+        "James Meighan",
+        "Les Damon",
+        "Gem Razor Blades",
+        "Kraft Foods",
+        "The Man from Homicide",
+        "Dan Duryea",
+        "Dwight Hauser",
+        "ABC",
+        "Mutual Radio Theater",
+        "Vincent Price",
+        "Elliott Lewis",
+        "Edgar Bergen",
+        "Charlie McCarthy",
+        "Wendy Barrie",
+        "Chase & Sanborn",
+        "Chick Carter Boy Detective",
+        "Bill Lipton",
+        "Serial Story Arc",
+        "The Formula for Victory",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-710-nat-king-cole-jim-french-fitch-bandwagon-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-710-nat-king-cole-jim-french-fitch-bandwagon-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Nat King Cole, Jim French & Fitch Bandwagon",
