@@ -6,6 +6,48 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-697-spike-jones-herbert-marshall-amos-n-andy-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-697-spike-jones-herbert-marshall-amos-n-andy-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Spike Jones, Herbert Marshall & Amos 'n' Andy",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 697)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across madcap musical parodies for Coca-Cola, international espionage capers along the Suez canal, classic comedy hospital misunderstandings, wilderness suspense dramas, homespun western variety, and BBC medical satire, Spike Jones with Martha Tilton (1948), Herbert Marshall as <em>The Man Called X</em> (1946), Freeman Gosden and Charles Correll in <em>Amos &#39;n&#39; Andy</em> (1943), Barry Kroeger on <em>High Adventure</em> (1950), Pat Buttram for Wrigley&#39;s (1957), and <em>Struck Off and Die</em> (1943–1993):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 697)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SpikeJones_1948_MarthaTilton.mp3</code> <br><em>Alt</em>: <code>Guest - Martha Tilton The Spike Jones Show</code></td>\n<td><strong>&quot;Guest Martha Tilton with Spike Jones and Coca-Cola&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1948-09-03<br>8:00 PM EDT</td>\n<td><strong>The Coca-Cola Co.</strong><br>Spotlight Revue / Coke</td>\n<td><strong>Spike Jones &amp; Band</strong></td>\n<td><strong>Martha Tilton &amp; Weaver</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Music&quot;, &quot;Spike Jones&quot;, &quot;Martha Tilton&quot;, &quot;Coca Cola&quot;]</code></td>\n<td>Spike Jones and his musical satirists unleash frantic sound-effect orchestral takeoffs with guest vocalist Martha Tilton.</td>\n</tr>\n<tr>\n<td><code>ManCalledX_1946_PortSaid.mp3</code> <br><em>Alt</em>: <code>Episode The Man Called X</code></td>\n<td><strong>&quot;The Port Said Smuggling Ring with Herbert Marshall as Ken Thurston&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1946-09-03<br>8:30 PM EDT</td>\n<td><strong>General Motors</strong><br>Frigidaire Appliances</td>\n<td><strong>Herbert Marshall (X)</strong></td>\n<td><strong>Leon Belasco &amp; Kennedy</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Adventure&quot;, &quot;The Man Called X&quot;, &quot;Herbert Marshall&quot;, &quot;Frigidaire&quot;]</code></td>\n<td>Secret agent Ken Thurston travels to the Suez canal to intercept contraband munitions bound for insurgent factions in the Middle East.</td>\n</tr>\n<tr>\n<td><code>AmosAndy_1943_Hospital.mp3</code> <br><em>Alt</em>: <code>Amos Is In The Hospital Amos &#39;n&#39; Andy</code></td>\n<td><strong>&quot;Amos Is in the Hospital with Freeman Gosden and Charles Correll&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1943-09-03<br>7:00 PM EWT</td>\n<td><strong>Lever Brothers</strong><br>Rinso Soap Powder</td>\n<td><strong>Freeman Gosden (Amos)</strong></td>\n<td><strong>Charles Correll (Andy)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Amos n Andy&quot;, &quot;Freeman Gosden&quot;, &quot;Rinso&quot;]</code></td>\n<td>Andy and the Kingfish tiptoe into the municipal hospital ward to comfort Amos while misinterpreting the head doctor&#39;s chart notes.</td>\n</tr>\n<tr>\n<td><code>HighAdv_1950_WomanInWoods.mp3</code> <br><em>Alt</em>: <code>Woman in the Woods High Adventure</code></td>\n<td><strong>&quot;Woman in the Woods with Barry Kroeger&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-03<br>4:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Adventure Drama</td>\n<td><strong>Barry Kroeger (Host)</strong></td>\n<td><strong>Mutual Drama Cast</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;High Adventure&quot;, &quot;Barry Kroeger&quot;, &quot;Mutual&quot;]</code></td>\n<td>A surveyor traversing an isolated Canadian forest encounters a terrified heiress hiding from armed kidnappers.</td>\n</tr>\n<tr>\n<td><code>JustEntertainment_1957_SweetLeilani.mp3</code> <br><em>Alt</em>: <code>Just Entertainment 1957 Episode</code></td>\n<td><strong>&quot;Sweet Leilani with Pat Buttram and Wrigley&#39;s Spearmint&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1957-09-03<br>1:45 PM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Wrigley&#39;s Spearmint Gum</td>\n<td><strong>Pat Buttram (Host)</strong></td>\n<td><strong>The Cass County Boys</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Pat Buttram&quot;, &quot;Just Entertainment&quot;, &quot;Wrigleys&quot;]</code></td>\n<td>Pat Buttram delivers homespun country humor and introduces western harmony standards headlined by Sweet Leilani.</td>\n</tr>\n<tr>\n<td><code>StruckOff_1993_BirthDeath.mp3</code> <br><em>Alt</em>: <code>Birth and Death Struck Off and Die</code></td>\n<td><strong>&quot;Birth and Death with Dr. Phil Hammond&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1993-09-03</td>\n<td><strong>Sustaining</strong><br>Medical Satire</td>\n<td><strong>Dr. Phil Hammond</strong></td>\n<td><strong>Dr. Tony Gardner</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Struck Off And Die&quot;, &quot;BBC Radio 4&quot;, &quot;Phil Hammond&quot;]</code></td>\n<td>Practicing physicians Phil Hammond and Tony Gardner present satirical sketch reflections on clinical maternity wards and hospital bureaucracy.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 373 / 469 (96 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 697 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Spike Jones Show",
+        "Spike Jones",
+        "City Slickers",
+        "Martha Tilton",
+        "Doodles Weaver",
+        "Coca-Cola",
+        "The Man Called X",
+        "Herbert Marshall",
+        "Leon Belasco",
+        "Frigidaire",
+        "Amos 'n' Andy",
+        "Freeman Gosden",
+        "Charles Correll",
+        "Rinso",
+        "Lever Brothers",
+        "High Adventure",
+        "Barry Kroeger",
+        "Just Entertainment",
+        "Pat Buttram",
+        "Wrigley's Spearmint",
+        "Struck Off and Die",
+        "Phil Hammond",
+        "BBC Radio 4",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-696-boston-blackie-bell-telephone-fbi-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-696-boston-blackie-bell-telephone-fbi-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Boston Blackie, Bell Telephone & FBI",
