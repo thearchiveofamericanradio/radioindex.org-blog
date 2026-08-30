@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-477-rudy-vallee-ma-perkins-man-named-jordan-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-477-rudy-vallee-ma-perkins-man-named-jordan-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Rudy Vallee, Ma Perkins, and A Man Named Jordan",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 477)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American network exotic noir serials, celebrity variety hours, daytime radio institutions, and science docudramas, Jack Moyles in <em>A Man Named Jordan</em> on CBS (1952), Rudy Vallee presenting dramatic one-acts and Olsen &amp; Johnson vaudeville slapstick (1933, 1939), Virginia Payne and Charles Egelston in <em>Ma Perkins</em> (1949, 1950), and Sherman H. Dryer&#39;s <em>Exploring the Unknown</em> covering SOFAR naval acoustics (1933–1952):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 477)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Jordan_1952_Ep9.mp3</code> <br><em>Alt</em>: <code>A Man Named Jordan Episode 9</code></td>\n<td><strong>&quot;The Smuggler&#39;s Warehouse with Jack Moyles (Episode 9)&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1952-08-31<br>7:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Exotic Detective Serial</td>\n<td><strong>Jack Moyles</strong>, <strong>Novello</strong></td>\n<td><strong>Larry Roman (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Exotic&quot;, &quot;Rocky Jordan&quot;, &quot;CBS&quot;]</code><br><em>Arc</em>: <strong>The Istanbul Affair (Part 9)</strong></td>\n<td>Rocky Jordan breaks into a waterfront warehouse in Istanbul to retrieve stolen passports before secret police raid the harbor.</td>\n</tr>\n<tr>\n<td><code>Vallee_1933_Clod.mp3</code> <br><em>Alt</em>: <code>The Clod Mary Morris Lew Cody</code></td>\n<td><strong>&quot;Lewis Beach&#39;s The Clod with Mary Morris and Lew Cody&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1933-08-31<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Fleischmann&#39;s Yeast</td>\n<td><strong>Rudy Vallee</strong>, <strong>Mary Morris</strong></td>\n<td><strong>Connecticut Yankees</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Drama&quot;, &quot;Rudy Vallee&quot;, &quot;Fleischmanns&quot;]</code></td>\n<td>During the American Civil War, an illiterate farm woman snaps and shoots Confederate soldiers who destroyed her prized drinking cup.</td>\n</tr>\n<tr>\n<td><code>Vallee_1939_OlsenJohnson.mp3</code> <br><em>Alt</em>: <code>Guest Olsen and Johnson</code></td>\n<td><strong>&quot;Guests Olsen &amp; Johnson with Rudy Vallee&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-08-31<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Royal Gelatin Desserts</td>\n<td><strong>Rudy Vallee</strong>, <strong>Olsen &amp; Johnson</strong></td>\n<td><strong>Connecticut Yankees</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Rudy Vallee&quot;, &quot;Royal Gelatin&quot;]</code></td>\n<td>Vaudeville comedians Olsen and Johnson unleash slapstick mayhem and zany gags on Rudy Vallee to promote Hellzapoppin.</td>\n</tr>\n<tr>\n<td><code>Ma_Perkins_1949_Rush.mp3</code> <br><em>Alt</em>: <code>Ma Perkins 1949 Episode</code></td>\n<td><strong>&quot;Ma Advises Fay on Rush&#39;s New Business Venture&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1949-08-31<br>1:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Oxydol / Spic &amp; Span</td>\n<td><strong>Virginia Payne</strong>, <strong>Ascot</strong></td>\n<td><strong>Frank &amp; Anne Hummert</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Frank Hummert&quot;, &quot;Ma Perkins&quot;, &quot;CBS&quot;]</code></td>\n<td>Ma Perkins counsels her daughter Fay on the financial risks of Rush&#39;s ambitious new commercial lumber partnership.</td>\n</tr>\n<tr>\n<td><code>Ma_Perkins_1950_Shuffle.mp3</code> <br><em>Alt</em>: <code>Shuffle Tricks Willie Investment</code></td>\n<td><strong>&quot;Shuffle Tricks Willie into Telling of Investment&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1950-08-31<br>1:15 PM EDT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Oxydol Soap</td>\n<td><strong>Virginia Payne</strong>, <strong>Egelston</strong></td>\n<td><strong>Frank &amp; Anne Hummert</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Frank Hummert&quot;, &quot;Ma Perkins&quot;, &quot;CBS&quot;]</code></td>\n<td>Shuffle Shober uses homespun psychology at the Rushville Center lumber yard to get Willie to reveal details of a dubious investment.</td>\n</tr>\n<tr>\n<td><code>Unknown_1947_SOFAR.mp3</code> <br><em>Alt</em>: <code>So Far naval sound fixing</code></td>\n<td><strong>&quot;SOFAR Naval Sound Ranging with Sherman Dryer&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-08-31<br>9:00 PM EDT</td>\n<td><strong>Revere Copper &amp; Brass</strong><br>Revere Kitchenware</td>\n<td><strong>Sherman H. Dryer</strong>, <strong>Cast</strong></td>\n<td><strong>Sherman H. Dryer (Prod.)</strong></td>\n<td><code>[&quot;Science&quot;, &quot;Documentary&quot;, &quot;Educational&quot;, &quot;Exploring the Unknown&quot;, &quot;Revere&quot;]</code></td>\n<td>Naval oceanographers demonstrate deep-sea sound fixing and ranging acoustic channels that allow downed pilots to be rescued across thousands of miles.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 162 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 477 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "A Man Named Jordan",
+        "Jack Moyles",
+        "Larry Roman",
+        "CBS",
+        "Rudy Vallee",
+        "Fleischmanns Yeast",
+        "Royal Gelatin",
+        "Olsen and Johnson",
+        "Mary Morris",
+        "Lew Cody",
+        "Ma Perkins",
+        "Virginia Payne",
+        "Charles Egelston",
+        "Frank Hummert",
+        "Exploring the Unknown",
+        "SOFAR",
+        "Sherman Dryer",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-476-cab-calloway-the-goon-show-witchs-tale-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-476-cab-calloway-the-goon-show-witchs-tale-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Cab Calloway, The Goon Show, and The Witch's Tale",
