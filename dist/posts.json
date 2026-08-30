@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-581-v-j-day-command-performance-carmen-miranda-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-581-v-j-day-command-performance-carmen-miranda-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — V-J Day All-Star Special & Carmen Miranda",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 581)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across monumental historic V-J Day victory celebrations, Latin-American musical comedy revues, deductive clerical detective drama, fast-paced police thrillers, adventure serials, and celebrity bond drives, the historic AFRS <em>Command Performance V-J Day Special</em> featuring Bing Crosby, Frank Sinatra, and Bob Hope (1945), Carmen Miranda and Keenan Wynn on <em>The Chase and Sanborn Program</em> (1945), Karl Swenson as <em>Father Brown</em> (1945), <em>Call the Police</em> for Lever Brothers (1947), <em>I Love a Mystery</em> (1952), and <em>Guest Star</em> (1945–1952):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 581)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>AFRS_1945_VJDaySpecial.mp3</code> <br><em>Alt</em>: <code>AFRS Command Performance VJ Day Special</code></td>\n<td><strong>&quot;Victory over Japan Day All-Star Special with AFRS&quot;</strong></td>\n<td><strong>AFRS Shortwave</strong><br>1945-09-02</td>\n<td><strong>Armed Forces Radio</strong><br>Victory Celebration</td>\n<td><strong>Bing Crosby</strong>, <strong>Sinatra</strong>, <strong>Hope</strong></td>\n<td><strong>AFRS Production Staff</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;AFRS&quot;, &quot;Command Performance&quot;]</code></td>\n<td>An all-star ensemble of Hollywood and Broadway entertainers performs comedy, music, and celebratory anthems for Allied servicemen on Victory over Japan Day.</td>\n</tr>\n<tr>\n<td><code>Chase_1945_MirandaWynn.mp3</code> <br><em>Alt</em>: <code>Guests Keenan Wynn And Carmen Miranda</code></td>\n<td><strong>&quot;Guests Keenan Wynn and Carmen Miranda with Frances Langford&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1945-09-02<br>8:00 PM EWT</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Coffee</td>\n<td><strong>Frances Langford</strong>, <strong>Miranda</strong></td>\n<td><strong>Spike Jones &amp; City Slickers</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Chase And Sanborn&quot;, &quot;Carmen Miranda&quot;]</code></td>\n<td>Comedian Keenan Wynn and Brazilian bombshell Carmen Miranda join Frances Langford and Spike Jones for musical parodies celebrating post-war peace.</td>\n</tr>\n<tr>\n<td><code>Father_Brown_1945_BlueCross.mp3</code> <br><em>Alt</em>: <code>Episode 16 Adventures Of Father Brown</code></td>\n<td><strong>&quot;The Blue Cross with Karl Swenson, Bill Griffis, and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1945-09-02<br>5:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Clerical Detective</td>\n<td><strong>Karl Swenson (Brown)</strong></td>\n<td><strong>G.K. Chesterton (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Father Brown&quot;, &quot;GK Chesterton&quot;, &quot;Karl Swenson&quot;]</code></td>\n<td>Father Brown outwits the notorious French master criminal Flambeau by swapping a valuable sapphire-encrusted silver crucifix with a confectioner&#39;s replica.</td>\n</tr>\n<tr>\n<td><code>Police_1947_DoubleCross.mp3</code> <br><em>Alt</em>: <code>The Double Double Cross Call The Police</code></td>\n<td><strong>&quot;The Double Double Cross with Joseph Julian and Lever Brothers&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1947-09-02<br>9:00 PM EDT</td>\n<td><strong>Lever Brothers</strong><br>Rinso &amp; Lifebuoy</td>\n<td><strong>Joseph Julian (Grant)</strong></td>\n<td><strong>Amzie Strickland &amp; Kramer</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Call The Police&quot;, &quot;Lever Brothers&quot;, &quot;NBC&quot;]</code></td>\n<td>Police Commissioner Bill Grant sets a trap for rival hijackers after a warehouse theft ring turns on its own syndicate boss.</td>\n</tr>\n<tr>\n<td><code>ILAM_1952_CobraKing2.mp3</code> <br><em>Alt</em>: <code>The Cobra King Strikes Back - Part 2</code></td>\n<td><strong>&quot;The Cobra King Strikes Back (Part 2) with Russell Thorson&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-09-02<br>10:15 PM EDT</td>\n<td><strong>Sustaining</strong><br>Adventure Serial</td>\n<td><strong>Russell Thorson</strong>, <strong>Boles</strong></td>\n<td><strong>Carlton E. Morse (Writer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;I Love A Mystery&quot;, &quot;Russell Thorson&quot;, &quot;Mutual&quot;]</code></td>\n<td>Jack Packard and Doc Long navigate the shadowy backstreets of Tangier dodging assassins sent by the mysterious Cobra King cult.</td>\n</tr>\n<tr>\n<td><code>Guest_Star_1951_JerryColonna.mp3</code> <br><em>Alt</em>: <code>Guest Jerry Colonna Guest Star</code></td>\n<td><strong>&quot;Guest Comedian Jerry Colonna with U.S. Treasury Department&quot;</strong></td>\n<td><strong>Syndication</strong><br>1951-09-02</td>\n<td><strong>U.S. Treasury Dept.</strong><br>Defense Savings Bonds</td>\n<td><strong>Jerry Colonna (Comic)</strong></td>\n<td><strong>The Skylarks &amp; Zimmerman</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Comedy&quot;, &quot;Music&quot;, &quot;Jerry Colonna&quot;, &quot;Guest Star&quot;]</code></td>\n<td>Mustachioed comic Jerry Colonna sings operatic parodies and encourages civilian purchases of United States Defense Savings Bonds.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 98 / 480 (382 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 581 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Command Performance",
+        "VJ Day Special",
+        "AFRS",
+        "Bing Crosby",
+        "Frank Sinatra",
+        "Bob Hope",
+        "Orson Welles",
+        "The Chase and Sanborn Program",
+        "Carmen Miranda",
+        "Keenan Wynn",
+        "Frances Langford",
+        "Spike Jones",
+        "Father Brown",
+        "Karl Swenson",
+        "GK Chesterton",
+        "Call the Police",
+        "Lever Brothers",
+        "I Love a Mystery",
+        "Jerry Colonna",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-580-vincent-price-james-melton-i-love-a-mystery-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-580-vincent-price-james-melton-i-love-a-mystery-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Vincent Price, James Melton & I Love a Mystery",
