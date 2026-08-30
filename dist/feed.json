@@ -6,6 +6,77 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-459-kraft-music-hall-mike-hammer-bela-lugosi-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-459-kraft-music-hall-mike-hammer-bela-lugosi-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Kraft Music Hall, Mike Hammer, and Bela Lugosi",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 459)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American network variety, hardboiled detective mysteries, Gothic horror, and British topical satire, three generations of <em>Kraft Music Hall</em> featuring Paul Whiteman (1933), Bob Burns with Donald Crisp (1939), and Sonny Tufts with Oscar Levant performing <em>The Trolley Song</em> (1944), Ted de Corsia as Mike Hammer in <em>That Hammer Guy</em> (1954), Bela Lugosi hosting <em>Mystery House</em> (1947), and Jon Culshaw and Jan Ravens on BBC Radio 4&#39;s <em>Dead Ringers</em> (1933–2001):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 459)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Hammer_1954_TedDeCorsia.mp3</code> <br><em>Alt</em>: <code>Ted deCorsia as Mike Hammer</code></td>\n<td><strong>&quot;The Big Grab with Ted de Corsia as Mike Hammer&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1954-08-31<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Hardboiled Detective</td>\n<td><strong>Ted de Corsia</strong>, <strong>Slate</strong></td>\n<td><strong>Mickey Spillane (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Mike Hammer&quot;, &quot;Mickey Spillane&quot;]</code></td>\n<td>Mike Hammer investigates the murder of a waterfront docks watchman connected to an organized syndicate diamond heist.</td>\n</tr>\n<tr>\n<td><code>KMH_1933_Whiteman.mp3</code> <br><em>Alt</em>: <code>Kraft Music Hall 1933</code></td>\n<td><strong>&quot;Paul Whiteman and His Orchestra&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1933-08-31<br>10:00 PM EDST</td>\n<td><strong>Kraft-Phenix Cheese</strong><br>Kraft Miracle Whip</td>\n<td><strong>Paul Whiteman</strong>, <strong>Taylor</strong></td>\n<td><strong>Paul Whiteman (Director)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Symphonic Jazz&quot;, &quot;Paul Whiteman&quot;, &quot;Kraft&quot;]</code></td>\n<td>Paul Whiteman conducts symphonic jazz orchestrations, novelty vocal arrangements, and pop melodies for Kraft.</td>\n</tr>\n<tr>\n<td><code>KMH_1939_Burns.mp3</code> <br><em>Alt</em>: <code>Bob Burns Donald Crisp KMH</code></td>\n<td><strong>&quot;Guest Host Bob Burns with Donald Crisp and Alice Brady&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1939-08-31<br>10:00 PM EDST</td>\n<td><strong>Kraft-Phenix Cheese</strong><br>Kraft American Cheese</td>\n<td><strong>Bob Burns</strong>, <strong>Donald Crisp</strong></td>\n<td><strong>John Scott Trotter Orch</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Comedy&quot;, &quot;Bob Burns&quot;, &quot;Kraft&quot;]</code></td>\n<td>The Arkansas Traveler Bob Burns trades down-home humor with film stars Donald Crisp and Alice Brady while playing the bazooka.</td>\n</tr>\n<tr>\n<td><code>KMH_1944_Tufts.mp3</code> <br><em>Alt</em>: <code>Trolley Song Sonny Tufts</code></td>\n<td><strong>&quot;Guest Host Sonny Tufts with Oscar Levant and Vera Vague&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-08-31<br>9:00 PM EWT</td>\n<td><strong>Kraft Cheese Company</strong><br>Parkay / Kraft Dinner</td>\n<td><strong>Sonny Tufts</strong>, <strong>Levant</strong></td>\n<td><strong>John Scott Trotter Orch</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Comedy&quot;, &quot;Oscar Levant&quot;, &quot;Kraft&quot;]</code></td>\n<td>Sonny Tufts trades comedic banter with pianist Oscar Levant and Vera Vague before the ensemble performs The Trolley Song.</td>\n</tr>\n<tr>\n<td><code>Mystery_House_1947_Lugosi.mp3</code> <br><em>Alt</em>: <code>Mystery House 1947 Episode</code></td>\n<td><strong>&quot;The Legend of the Black Cat with Bela Lugosi&quot;</strong></td>\n<td><strong>Syndicated Horror</strong><br>1947-08-31</td>\n<td><strong>Sustaining</strong><br>Gothic Horror Drama</td>\n<td><strong>Bela Lugosi</strong> (Host / Star)</td>\n<td><strong>Mystery House Staff</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Macabre&quot;, &quot;Gothic&quot;, &quot;Bela Lugosi&quot;, &quot;Mystery House&quot;]</code></td>\n<td>A superstitious recluse trapped in an isolated ancestral mansion is haunted by an ominous black cat seeking retribution.</td>\n</tr>\n<tr>\n<td><code>Dead_Ringers_2001_S3E6.mp3</code> <br><em>Alt</em>: <code>Dead Ringers 2001 Episode</code></td>\n<td><strong>&quot;Political Parodies and Impressions (Series 3, Episode 6)&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>2001-08-31<br>6:30 PM BST</td>\n<td><strong>Sustaining</strong><br>Topical Satire</td>\n<td><strong>Jon Culshaw</strong>, <strong>Ravens</strong></td>\n<td><strong>Bill Dare (Producer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Impressions&quot;, &quot;BBC Radio 4&quot;, &quot;Dead Ringers&quot;]</code></td>\n<td>Vocal impressionists perform rapid-fire topical sketches parodying British cabinet ministers, media pundits, and TV personalities.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 54 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 459 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Kraft Music Hall",
+        "Paul Whiteman",
+        "Bob Burns",
+        "Donald Crisp",
+        "Sonny Tufts",
+        "Oscar Levant",
+        "Vera Vague",
+        "Kraft",
+        "That Hammer Guy",
+        "Ted de Corsia",
+        "Mike Hammer",
+        "Mickey Spillane",
+        "Mystery House",
+        "Bela Lugosi",
+        "Dead Ringers",
+        "BBC Radio 4",
+        "Jon Culshaw",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-458-gang-busters-rogues-gallery-alec-templeton-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-458-gang-busters-rogues-gallery-alec-templeton-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Gang Busters, Rogues Gallery, and Alec Templeton",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 458)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across American network true crime docudramas, hardboiled detective mysteries, musical comedy series finales, police procedurals, and syndicated Western adventures, two multi-part cases of <em>Gang Busters</em> covering the John Ashley Everglades gang (1938) and Pete Norris (1946), Barry Sullivan as Richard Rogue in <em>Rogues Gallery</em> for Fitch Shampoo (1947), Alec Templeton&#39;s series finale on NBC (1947), <em>Police Blotter</em> (1956), and <em>Lightning Jim</em> (1938–1956):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 458)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres &amp; Serial Arc</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Gangbusters_1938_Ashley.mp3</code> <br><em>Alt</em>: <code>The John Ashley Gang Part 1</code></td>\n<td><strong>&quot;The John Ashley Gang (Part 1)&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1938-08-31<br>10:00 PM EDST</td>\n<td><strong>Colgate-Palmolive</strong><br>Palmolive Shave Cream</td>\n<td><strong>Phillips H. Lord</strong>, <strong>Police</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;True Crime&quot;, &quot;Police Procedural&quot;, &quot;Gang Busters&quot;, &quot;Everglades&quot;, &quot;CBS&quot;]</code><br><em>Arc</em>: <strong>The John Ashley Gang (Part 1 of 2)</strong></td>\n<td>Florida sheriff deputies pursue the notorious John Ashley gang across the Everglades after a string of violent bank robberies.</td>\n</tr>\n<tr>\n<td><code>Gangbusters_1946_Norris.mp3</code> <br><em>Alt</em>: <code>Pete Norris Part 2 Gangbusters</code></td>\n<td><strong>&quot;The Case of Thomas Nathan &#39;Pete&#39; Norris (Part 2)&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-08-31<br>9:00 PM EDT</td>\n<td><strong>L.E. Waterman Co.</strong><br>Waterman&#39;s Fountain Pens</td>\n<td><strong>Phillips H. Lord</strong>, <strong>Police</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;True Crime&quot;, &quot;Police Procedural&quot;, &quot;Gang Busters&quot;, &quot;Phillips Lord&quot;, &quot;ABC&quot;]</code><br><em>Arc</em>: <strong>The Case of Thomas Nathan &#39;Pete&#39; Norris (Part 2 of 2)</strong></td>\n<td>Police detectives set a trap along interstate highways to capture armed robber Pete Norris and dismantle his fugitive network.</td>\n</tr>\n<tr>\n<td><code>Blotter_1956_HitRun.mp3</code> <br><em>Alt</em>: <code>Police Blotter 1956 Episode</code></td>\n<td><strong>&quot;The Midnight Hit-and-Run Investigation&quot;</strong></td>\n<td><strong>Syndicated Police</strong><br>1956-08-31</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Police Blotter Production</strong></td>\n<td><code>[&quot;Police Procedural&quot;, &quot;Crime&quot;, &quot;Investigation&quot;, &quot;Documentary&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Traffic division officers analyze headlight glass fragments and tire tread markings to track down a fatal hit-and-run driver.</td>\n</tr>\n<tr>\n<td><code>Rogues_1947_Fortune.mp3</code> <br><em>Alt</em>: <code>Death Tells a Fortune Sullivan</code></td>\n<td><strong>&quot;Death Tells a Fortune with Barry Sullivan&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-08-31<br>7:30 PM EDT</td>\n<td><strong>F.W. Fitch Co.</strong><br>Fitch&#39;s Shampoo</td>\n<td><strong>Barry Sullivan</strong>, <strong>Paul Frees</strong></td>\n<td><strong>Ray Buffum (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Barry Sullivan&quot;, &quot;Fitch&quot;]</code></td>\n<td>Private investigator Richard Rogue is knocked unconscious while investigating a clairvoyant medium extorting wealthy socialites.</td>\n</tr>\n<tr>\n<td><code>Templeton_1947_Finale.mp3</code> <br><em>Alt</em>: <code>Alec Templeton Time Last Show</code></td>\n<td><strong>&quot;Series Finale with Alec Templeton&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-08-31<br>8:00 PM EDT</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Coffee</td>\n<td><strong>Alec Templeton</strong>, <strong>Ray Noble</strong></td>\n<td><strong>Ray Noble Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Comedy&quot;, &quot;Satire&quot;, &quot;Piano&quot;, &quot;Alec Templeton&quot;]</code></td>\n<td>Blind pianist and satirist Alec Templeton delivers his final summer broadcast with classical parodies and musical improvisations.</td>\n</tr>\n<tr>\n<td><code>Lightning_1939_Rustlers.mp3</code> <br><em>Alt</em>: <code>Lightning Jim 1939 Episode</code></td>\n<td><strong>&quot;The Rustlers of Red Rock Canyon&quot;</strong></td>\n<td><strong>Syndicated Western</strong><br>1939-08-31</td>\n<td><strong>Sustaining</strong><br>Western Adventure</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Lightning Jim Production</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Adventure&quot;, &quot;Cowboy&quot;, &quot;Marshal&quot;, &quot;Syndicated&quot;]</code></td>\n<td>U.S. Marshal Lightning Jim tracks a ruthless gang of cattle rustlers attempting to hijack a herd crossing Red Rock Canyon.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 48 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 458 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Gang Busters",
+        "Phillips H Lord",
+        "John Ashley Gang",
+        "Everglades",
+        "Pete Norris",
+        "Waterman Pens",
+        "Serial Story",
+        "Rogues Gallery",
+        "Barry Sullivan",
+        "Richard Rogue",
+        "Fitch Shampoo",
+        "The Alec Templeton Show",
+        "Alec Templeton",
+        "Ray Noble",
+        "Police Blotter",
+        "Lightning Jim",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-457-gang-busters-green-hornet-moon-over-africa-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-457-gang-busters-green-hornet-moon-over-africa-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Gang Busters, Green Hornet, and Moon Over Africa",
