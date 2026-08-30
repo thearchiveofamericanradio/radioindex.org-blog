@@ -6,6 +6,79 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-687-grand-ole-opry-jim-reeves-harry-nile-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-687-grand-ole-opry-jim-reeves-harry-nile-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Grand Ole Opry, Jim Reeves & Harry Nile",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 687)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across iconic live Saturday night country music broadcasts from the Ryman Auditorium in Nashville (Red Foley, Carl Smith, and Gentleman Jim Reeves), long-running daytime family serials, and hardboiled Pacific Northwest detective mysteries, <em>Grand Ole Opry</em> (1949, 1955, 1960), Jane Morgan in <em>Aunt Mary</em> for Safeway (1946, 1947), and Phil Harper as <em>Harry Nile</em> (1946–1995):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 687)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>GrandOleOpry_1949_EasyToPlease.mp3</code> <br><em>Alt</em>: <code>First Song - Easy To Please Grand Ole Opry</code></td>\n<td><strong>&quot;Easy to Please with Red Foley and Prince Albert&quot;</strong></td>\n<td><strong>NBC (WSM)</strong><br>1949-09-03<br>10:30 PM EDT</td>\n<td><strong>R.J. Reynolds</strong><br>Prince Albert Tobacco</td>\n<td><strong>Red Foley (Host)</strong></td>\n<td><strong>Minnie Pearl &amp; Brasfield</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Music&quot;, &quot;Grand Ole Opry&quot;, &quot;Red Foley&quot;, &quot;Prince Albert&quot;]</code></td>\n<td>Red Foley emcees live country performances from the Ryman Auditorium stage featuring Easy to Please and rural humor from Minnie Pearl.</td>\n</tr>\n<tr>\n<td><code>GrandOleOpry_1955_DontTeaseMe.mp3</code> <br><em>Alt</em>: <code>Don&#39;t Tease Me Grand Ole Opry</code></td>\n<td><strong>&quot;Don&#39;t Tease Me with Carl Smith and Prince Albert&quot;</strong></td>\n<td><strong>NBC (WSM)</strong><br>1955-09-03<br>10:30 PM EDT</td>\n<td><strong>R.J. Reynolds</strong><br>Prince Albert Tobacco</td>\n<td><strong>Carl Smith (Host)</strong></td>\n<td><strong>Chet Atkins &amp; Carter</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Music&quot;, &quot;Grand Ole Opry&quot;, &quot;Carl Smith&quot;, &quot;Prince Albert&quot;]</code></td>\n<td>Carl Smith headlines the Nashville stage with honky-tonk ballad Don&#39;t Tease Me alongside guitar virtuosity from Chet Atkins.</td>\n</tr>\n<tr>\n<td><code>GrandOleOpry_1960_JimReeves.mp3</code> <br><em>Alt</em>: <code>Starring Jim Reeves Grand Ole Opry</code></td>\n<td><strong>&quot;Starring Jim Reeves Live from Ryman Auditorium&quot;</strong></td>\n<td><strong>WSM / NBC</strong><br>1960-09-03<br>10:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Country Showcase</td>\n<td><strong>Jim Reeves (Host)</strong></td>\n<td><strong>The Blue Boys &amp; Jody</strong></td>\n<td><code>[&quot;Country&quot;, &quot;Music&quot;, &quot;Grand Ole Opry&quot;, &quot;Jim Reeves&quot;, &quot;WSM&quot;]</code></td>\n<td>Gentleman Jim Reeves croons velvety country-pop ballads live before an enthusiastic Saturday night crowd at the Ryman.</td>\n</tr>\n<tr>\n<td><code>AuntMary_1946_MarioRide.mp3</code> <br><em>Alt</em>: <code>Gives Mario A Ride Aunt Mary</code></td>\n<td><strong>&quot;Gives Mario a Ride with Jane Morgan as Aunt Mary&quot;</strong></td>\n<td><strong>NBC West Coast</strong><br>1946-09-03<br>3:45 PM EDT</td>\n<td><strong>Safeway Stores</strong><br>Kitchen Craft Flour</td>\n<td><strong>Jane Morgan (Mary)</strong></td>\n<td><strong>Dramatic Radio Cast</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Aunt Mary&quot;, &quot;Jane Morgan&quot;, &quot;Safeway&quot;]</code></td>\n<td>Aunt Mary offers transportation to a troubled neighborhood youth named Mario and learns about his family&#39;s financial distress.</td>\n</tr>\n<tr>\n<td><code>AuntMary_1947_LeftySettlement.mp3</code> <br><em>Alt</em>: <code>Lefty&#39;s Interest To Go To Peggy Aunt Mary</code></td>\n<td><strong>&quot;Lefty&#39;s Estate Settlement with Jane Morgan&quot;</strong></td>\n<td><strong>NBC West Coast</strong><br>1947-09-03<br>3:45 PM EDT</td>\n<td><strong>Safeway Stores</strong><br>Kitchen Craft Flour</td>\n<td><strong>Jane Morgan (Mary)</strong></td>\n<td><strong>Dramatic Radio Cast</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Aunt Mary&quot;, &quot;Jane Morgan&quot;, &quot;Safeway&quot;]</code></td>\n<td>Mary mediates family friction when Lefty&#39;s property shares pass to Peggy while Ben bristles seeing Brett accompany Jessie.</td>\n</tr>\n<tr>\n<td><code>HarryNile_1995_DollarValueDeath.mp3</code> <br><em>Alt</em>: <code>The Dollar Value of Death Adventures oOf Harry Nile, The</code></td>\n<td><strong>&quot;The Dollar Value of Death with Phil Harper as Harry Nile&quot;</strong></td>\n<td><strong>KING / Synd.</strong><br>1995-09-03</td>\n<td><strong>Sustaining</strong><br>Modern Mystery</td>\n<td><strong>Phil Harper (Nile)</strong></td>\n<td><strong>Jim French (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Harry Nile&quot;, &quot;Phil Harper&quot;, &quot;Jim French&quot;]</code></td>\n<td>Seattle private detective Harry Nile is hired by an insurance adjustor to investigate a suspicious term-life payout tied to an apparent drowning.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 313 / 469 (156 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 687 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Grand Ole Opry",
+        "Red Foley",
+        "Carl Smith",
+        "Jim Reeves",
+        "Chet Atkins",
+        "Minnie Pearl",
+        "Prince Albert",
+        "WSM Nashville",
+        "Aunt Mary",
+        "Jane Morgan",
+        "Safeway",
+        "The Adventures of Harry Nile",
+        "Phil Harper",
+        "Jim French",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-686-bing-crosby-martin-kane-father-knows-best-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-686-bing-crosby-martin-kane-father-knows-best-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Bing Crosby, Martin Kane & Father Knows Best",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 686)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across smooth daytime pop standards duets, gritty waterfront narcotics investigations, relatable suburban family sitcoms, country store homecoming serials, big band variety showcases, and symphonic operatic broadcasts, Bing Crosby and Rosemary Clooney (1962), William Gargan as <em>Martin Kane, Private Eye</em> (1950), Robert Young in <em>Father Knows Best</em> (1953), <em>Lum and Abner</em> for Frigidaire (1948), Paul Whiteman on <em>Philco Radio Hall of Fame</em> with Kay Starr (1944), and Henry Weber on <em>The Enchanted Hour</em> (1944–1962):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 686)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BingRosemary_1962_AlabamyBound.mp3</code> <br><em>Alt</em>: <code>I&#39;m Alabamy Bound The Bing Crosby-Rosemary Clooney Show</code></td>\n<td><strong>&quot;I&#39;m Alabamy Bound with Bing Crosby and Rosemary Clooney&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1962-09-03<br>11:45 AM EDT</td>\n<td><strong>Sustaining</strong><br>Daytime Pop Standards</td>\n<td><strong>Bing Crosby</strong>, <strong>Clooney</strong></td>\n<td><strong>Buddy Cole &amp; Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Bing Crosby&quot;, &quot;Rosemary Clooney&quot;, &quot;Buddy Cole&quot;]</code></td>\n<td><code>null</code></td>\n<td>Bing Crosby and Rosemary Clooney trade lighthearted banter and harmonize on classic American songbook favorites featuring I&#39;m Alabamy Bound.</td>\n</tr>\n<tr>\n<td><code>MartinKane_1950_DopeRing.mp3</code> <br><em>Alt</em>: <code>Routs a dope smuggling ring Martin Kane Private Investigator</code></td>\n<td><strong>&quot;Routs a Dope Smuggling Ring with William Gargan as Martin Kane&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-03<br>4:30 PM EDT</td>\n<td><strong>U.S. Tobacco Co.</strong><br>Model Pipe &amp; Sano</td>\n<td><strong>William Gargan (Kane)</strong></td>\n<td><strong>Walter Kinsella &amp; Hediger</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Martin Kane&quot;, &quot;William Gargan&quot;, &quot;US Tobacco&quot;]</code></td>\n<td><code>null</code></td>\n<td>Private investigator Martin Kane goes undercover along the New York waterfront to dismantle an offshore narcotics smuggling operation.</td>\n</tr>\n<tr>\n<td><code>FatherKnowsBest_1953_SchoolWardrobe.mp3</code> <br><em>Alt</em>: <code>Father Knows Best 1953 Episode</code></td>\n<td><strong>&quot;The Back to School Wardrobe Dilemma with Robert Young&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1953-09-03<br>8:30 PM EDT</td>\n<td><strong>General Foods</strong><br>Post&#39;s 40% Bran &amp; Maxwell</td>\n<td><strong>Robert Young (Jim)</strong></td>\n<td><strong>Jean Vander Pyl &amp; Williams</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Father Knows Best&quot;, &quot;Robert Young&quot;, &quot;General Foods&quot;]</code></td>\n<td><code>null</code></td>\n<td>Jim Anderson attempts to rein in the family budget when Betty and Bud make competing demands for brand-new autumn school clothes.</td>\n</tr>\n<tr>\n<td><code>LumAbner_1948_PresentsOldFriends.mp3</code> <br><em>Alt</em>: <code>Abner Has Presents For All Old Friends Lum and Abner</code></td>\n<td><strong>&quot;Abner Has Presents for All Old Friends with Chester Lauck&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1948-09-03<br>10:00 PM EDT</td>\n<td><strong>General Motors</strong><br>Frigidaire Appliances</td>\n<td><strong>Chester Lauck (Lum)</strong></td>\n<td><strong>Norris Goff (Abner)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Lum And Abner&quot;, &quot;Chester Lauck&quot;, &quot;Frigidaire&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Return to Pine Ridge&quot;, &quot;part&quot;: 5, &quot;total_parts&quot;: 15}</code></td>\n<td>Abner returns from his big city travels loaded with quirky novelty souvenirs and mechanical toys for the folks in Pine Ridge.</td>\n</tr>\n<tr>\n<td><code>PhilcoHall_1944_DowneyStarr.mp3</code> <br><em>Alt</em>: <code>Morton Downey and Kay Starr Philco Presents</code></td>\n<td><strong>&quot;Morton Downey and Kay Starr with Paul Whiteman&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1944-09-03<br>6:00 PM EWT</td>\n<td><strong>Philco Corp.</strong><br>Philco Radios &amp; Phonos</td>\n<td><strong>Paul Whiteman (Host)</strong></td>\n<td><strong>Morton Downey &amp; Kay Starr</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Philco Hall Of Fame&quot;, &quot;Paul Whiteman&quot;, &quot;Kay Starr&quot;]</code></td>\n<td><code>null</code></td>\n<td>Paul Whiteman presents Irish tenor Morton Downey and jazz singer Kay Starr performing headline radio hits and popular ballads.</td>\n</tr>\n<tr>\n<td><code>EnchantedHour_1950_Operatic.mp3</code> <br><em>Alt</em>: <code>Enchanted Hour 1950 Episode</code></td>\n<td><strong>&quot;Operatic Melodies with Henry Weber and WGN Symphony&quot;</strong></td>\n<td><strong>Mutual (WGN)</strong><br>1950-09-03<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Classical Concert</td>\n<td><strong>Henry Weber (Cond.)</strong></td>\n<td><strong>Nancy Carr &amp; Bruce Foote</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Enchanted Hour&quot;, &quot;Henry Weber&quot;, &quot;Opera&quot;]</code></td>\n<td><code>null</code></td>\n<td>Conductor Henry Weber leads the WGN Symphony Orchestra and soloists in a concert of light opera arias and romantic orchestral overtures.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 307 / 469 (162 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 686 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Bing Crosby-Rosemary Clooney Show",
+        "Bing Crosby",
+        "Rosemary Clooney",
+        "Buddy Cole",
+        "Martin Kane Private Eye",
+        "William Gargan",
+        "United States Tobacco",
+        "Father Knows Best",
+        "Robert Young",
+        "Jean Vander Pyl",
+        "General Foods",
+        "Lum and Abner",
+        "Chester Lauck",
+        "Frigidaire",
+        "Return to Pine Ridge",
+        "Philco Radio Hall of Fame",
+        "Paul Whiteman",
+        "Morton Downey",
+        "Kay Starr",
+        "The Enchanted Hour",
+        "Henry Weber",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-685-lum-and-abner-serials-bbc-drama-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-685-lum-and-abner-serials-bbc-drama-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Lum and Abner Serial Arcs & BBC Drama",
