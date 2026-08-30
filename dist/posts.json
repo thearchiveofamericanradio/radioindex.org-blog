@@ -6,6 +6,41 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-661-red-skelton-camel-caravan-superman-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-661-red-skelton-camel-caravan-superman-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Red Skelton, Camel Caravan & Superman",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 661)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across juvenile superhero cliffhangers, high-energy clowning and character comedy, pop crooner orchestra broadcasts, South African police mobile unit calls, and early West Coast comedy serials, Clayton Collyer in <em>The Mystery of the Silver Buffalo</em> for Kellogg&#39;s Pep (1948), Red Skelton for Raleigh Cigarettes (1948), Vaughn Monroe on <em>Camel Caravan</em> (1952), <em>Squad Cars</em> on Springbok Radio (1971, 1976), and <em>Frank Watanabe and the Honorable Archie</em> (1934–1976):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 661)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Superman_1948_SilverBuffalo4.mp3</code> <br><em>Alt</em>: <code>The Mystery of the Silver Buffalo - Part 4 Superman</code></td>\n<td><strong>&quot;The Mystery of the Silver Buffalo (Part 4) with Clayton Collyer&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1948-09-03<br>5:15 PM EDT</td>\n<td><strong>Kellogg Company</strong><br>Kellogg&#39;s Pep Cereal</td>\n<td><strong>Clayton Collyer (Superman)</strong></td>\n<td><strong>Jackie Kelk &amp; Lowther</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Superhero&quot;, &quot;Superman&quot;, &quot;Clayton Collyer&quot;, &quot;Kellogg&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Mystery of the Silver Buffalo&quot;, &quot;part&quot;: 4, &quot;total_parts&quot;: 15}</code></td>\n<td>Clark Kent and Jimmy Olsen follow a stolen tribal silver talisman trail into the southwestern desert canyonlands.</td>\n</tr>\n<tr>\n<td><code>RedSkelton_1948_ReturnSummer.mp3</code> <br><em>Alt</em>: <code>Red Returns After The Summer Red Skelton Show</code></td>\n<td><strong>&quot;Red Returns After the Summer with Raleigh Cigarettes&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1948-09-03<br>9:30 PM EDT</td>\n<td><strong>Brown &amp; Williamson</strong><br>Raleigh 903 Cigarettes</td>\n<td><strong>Red Skelton (Host)</strong></td>\n<td><strong>Verna Felton &amp; Rose</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Red Skelton&quot;, &quot;David Rose&quot;, &quot;Raleigh&quot;]</code></td>\n<td><code>null</code></td>\n<td>Red Skelton returns from summer vacation with comic sketches featuring Junior the Mean Widdle Kid and Clem Kadiddlehopper.</td>\n</tr>\n<tr>\n<td><code>CamelCaravan_1952_WishYouWere.mp3</code> <br><em>Alt</em>: <code>First Song - Wish You Were Here Camel Caravan</code></td>\n<td><strong>&quot;Wish You Were Here with Vaughn Monroe and Camel Cigarettes&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1952-09-03<br>10:00 PM EDT</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Vaughn Monroe (Host)</strong></td>\n<td><strong>The Moon Maids &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Camel Caravan&quot;, &quot;Vaughn Monroe&quot;, &quot;Camel&quot;]</code></td>\n<td><code>null</code></td>\n<td>Vaughn Monroe and his orchestra perform the Broadway title ballad Wish You Were Here and popular chart favorites.</td>\n</tr>\n<tr>\n<td><code>Watanabe_1934_HousePainting.mp3</code> <br><em>Alt</em>: <code>Frank Watanabe and the Honorable Archie 1934 Episode</code></td>\n<td><strong>&quot;The House Painting Contract with Eddie Holden&quot;</strong></td>\n<td><strong>KNX Los Angeles</strong><br>1934-09-03</td>\n<td><strong>Sustaining</strong><br>West Coast Comedy</td>\n<td><strong>Eddie Holden (Watanabe)</strong></td>\n<td><strong>Reginald Sharland (Archie)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Frank Watanabe&quot;, &quot;Eddie Holden&quot;, &quot;KNX&quot;]</code></td>\n<td><code>null</code></td>\n<td>Frank Watanabe and his English employer Archie take on a suburban house-painting contract that goes comically awry.</td>\n</tr>\n<tr>\n<td><code>SquadCars_1971_ProblemSon.mp3</code> <br><em>Alt</em>: <code>The Problem Son Squad Cars - SA</code></td>\n<td><strong>&quot;The Problem Son with Springbok Radio&quot;</strong></td>\n<td><strong>Springbok / SABC</strong><br>1971-09-03</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Colin Fish (Lead)</strong></td>\n<td><strong>Hugh Rouse (Writer)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Squad Cars&quot;, &quot;Springbok&quot;, &quot;SABC&quot;]</code></td>\n<td><code>null</code></td>\n<td>South African flying squad officers investigate an armed house burglary ring run by a wealthy family&#39;s delinquent son.</td>\n</tr>\n<tr>\n<td><code>SquadCars_1976_LethalBoots.mp3</code> <br><em>Alt</em>: <code>The Men with the Lethal Boots Squad Cars - SA</code></td>\n<td><strong>&quot;The Men with the Lethal Boots with Springbok Radio&quot;</strong></td>\n<td><strong>Springbok / SABC</strong><br>1976-09-03</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Colin Fish (Lead)</strong></td>\n<td><strong>Hugh Rouse (Writer)</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Squad Cars&quot;, &quot;Springbok&quot;, &quot;SABC&quot;]</code></td>\n<td><code>null</code></td>\n<td>Johannesburg patrol officers track a ruthless gang of dockside muggers wielding steel-toed boots in warehouse ambushes.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 157 / 469 (312 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 661 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Adventures of Superman",
+        "Clayton Collyer",
+        "Jackie Kelk",
+        "Kellogg's Pep",
+        "Serial Story Arc",
+        "The Mystery of the Silver Buffalo",
+        "The Red Skelton Show",
+        "Raleigh Cigarettes",
+        "David Rose",
+        "Camel Caravan",
+        "Vaughn Monroe",
+        "Camel Cigarettes",
+        "Squad Cars",
+        "Springbok Radio",
+        "SABC",
+        "Frank Watanabe and the Honorable Archie",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-660-superman-serials-jack-carson-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-660-superman-serials-jack-carson-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Superman Serials & Jack Carson",
