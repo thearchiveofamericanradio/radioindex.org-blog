@@ -1,0 +1,33 @@
+# Archival Dispatch: September 2 Calendar Walk — Nat King Cole, Bing Crosby & The Sea Hound
+
+**Date**: 2026-09-02  
+**Author**: radio index  
+**Tags**: September 2, Calendar Walk, Howard Miller Show, Nat King Cole, Wrigley's Spearmint, Bing Crosby, Rosemary Clooney, Ford Road Show, The Adventures of the Sea Hound, Ken Daigneau, Fran Striker, Your Symphony Scrapbook, Paul Laval, Tchaikovsky, The Jason Explanation, John Jason, BBC Radio 4, Alternate Titles, Original Filenames
+
+---
+
+## September 2 Archival Metadata Enrichment (Increment 642)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across pop disc jockey interviews, wartime naval adventures, classical music education, satirical philosophical essays, and automotive variety showcases, Nat King Cole on *The Howard Miller Show* for Wrigley's Gum (1955, 1957), Bing Crosby and Rosemary Clooney for Ford (1957), Ken Daigneau in *The Adventures of the Sea Hound* (1946), Paul Laval on *Your Symphony Scrapbook* (1951), and *The Jason Explanation* (1946–1977):
+
+---
+
+## 1. *September 2 Archival Inventory (Increment 642)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Miller_1955_NatKingCole.mp3` <br>*Alt*: `Guest Nat King Cole (1045 11am) Howard Miller Show` | **"Guest Nat King Cole with Howard Miller and Wrigley's"** | **CBS (WBBM)**<br>1955-09-02<br>10:45 AM EDT | **Wm. Wrigley Jr. Co.**<br>Spearmint Chewing Gum | **Howard Miller (Host)** | **Nat King Cole (Guest)** | `["Music", "Talk", "Howard Miller", "Nat King Cole", "Wrigleys"]` | Howard Miller interviews Nat King Cole regarding his latest Capitol record releases and upcoming Las Vegas nightclub engagements. |
+| `Miller_1957_LaborDay.mp3` <br>*Alt*: `Howard Miller Show 1957 Episode` | **"Labor Day Pop Favorites with Howard Miller"** | **CBS (WBBM)**<br>1957-09-02<br>10:45 AM EDT | **Wm. Wrigley Jr. Co.**<br>Spearmint Chewing Gum | **Howard Miller (Host)** | **CBS Production Staff** | `["Music", "Talk", "Howard Miller", "Wrigleys", "CBS"]` | Chicago disc jockey Howard Miller spins the week's top-charting pop 45 rpm records for the holiday morning audience. |
+| `Ford_1957_Monterey.mp3` <br>*Alt*: `It Happened In Monterey The Ford Road Show` | **"It Happened in Monterey with Bing Crosby and Rosemary Clooney"** | **CBS (KNX)**<br>1957-09-02<br>7:30 PM EDT | **Ford Motor Co.**<br>The Ford Road Show | **Bing Crosby**, **Clooney** | **Buddy Cole Trio** | `["Music", "Pop", "Bing Crosby", "Rosemary Clooney", "Ford"]` | Bing Crosby and Rosemary Clooney sing vocal duets on It Happened in Monterey accompanied by the Buddy Cole Trio. |
+| `SeaHound_1946_RescueBalou.mp3` <br>*Alt*: `The Rescue Of Balou The Adventures Of The Sea Hound` | **"The Rescue of Balou with Ken Daigneau"** | **ABC (WJZ)**<br>1946-09-02<br>5:00 PM EDT | **Sustaining**<br>Youth Adventure Drama | **Ken Daigneau (Capt. Silver)** | **Bobby Hastings & Striker** | `["Adventure", "Maritime", "Sea Hound", "Ken Daigneau", "ABC"]` | Captain Silver and Jerry navigate perilous ocean currents along the South American coast to rescue their loyal shipmate Balou. |
+| `Symphony_1951_1812Overture.mp3` <br>*Alt*: `Episode Your Symphony Scrapbook` | **"Tchaikovsky's 1812 Overture with Paul Laval"** | **NBC Radio**<br>1951-09-02 | **RCA Victor**<br>Red Seal Records | **Paul Laval (Conductor)** | **NBC Symphony Orch.** | `["Music", "Classical", "Symphony Scrapbook", "Paul Laval", "NBC"]` | Conductor Paul Laval examines orchestral instrumentation and programmatic themes within Pyotr Ilyich Tchaikovsky's 1812 Overture. |
+| `Jason_1977_OfMoney.mp3` <br>*Alt*: `Of Money The Jason Explanation` | **"Of Money with John Jason and BBC Radio 4"** | **BBC Radio 4**<br>1977-09-02<br>11:45 AM BST | **Sustaining**<br>Satirical Essay | **John Jason (Narrator)** | **BBC Radio Comedy Staff** | `["Comedy", "Essay", "Jason Explanation", "BBC Radio 4", "British"]` | John Jason delivers a satirical and whimsical philosophical monologue investigating the origins, absurdities, and human obsession with money. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 464 / 480 (16 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

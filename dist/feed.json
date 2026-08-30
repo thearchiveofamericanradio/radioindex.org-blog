@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-642-nat-king-cole-bing-crosby-the-sea-hound-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-642-nat-king-cole-bing-crosby-the-sea-hound-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Nat King Cole, Bing Crosby & The Sea Hound",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 642)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across pop disc jockey interviews, wartime naval adventures, classical music education, satirical philosophical essays, and automotive variety showcases, Nat King Cole on <em>The Howard Miller Show</em> for Wrigley&#39;s Gum (1955, 1957), Bing Crosby and Rosemary Clooney for Ford (1957), Ken Daigneau in <em>The Adventures of the Sea Hound</em> (1946), Paul Laval on <em>Your Symphony Scrapbook</em> (1951), and <em>The Jason Explanation</em> (1946–1977):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 642)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Miller_1955_NatKingCole.mp3</code> <br><em>Alt</em>: <code>Guest Nat King Cole (1045 11am) Howard Miller Show</code></td>\n<td><strong>&quot;Guest Nat King Cole with Howard Miller and Wrigley&#39;s&quot;</strong></td>\n<td><strong>CBS (WBBM)</strong><br>1955-09-02<br>10:45 AM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Spearmint Chewing Gum</td>\n<td><strong>Howard Miller (Host)</strong></td>\n<td><strong>Nat King Cole (Guest)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Talk&quot;, &quot;Howard Miller&quot;, &quot;Nat King Cole&quot;, &quot;Wrigleys&quot;]</code></td>\n<td>Howard Miller interviews Nat King Cole regarding his latest Capitol record releases and upcoming Las Vegas nightclub engagements.</td>\n</tr>\n<tr>\n<td><code>Miller_1957_LaborDay.mp3</code> <br><em>Alt</em>: <code>Howard Miller Show 1957 Episode</code></td>\n<td><strong>&quot;Labor Day Pop Favorites with Howard Miller&quot;</strong></td>\n<td><strong>CBS (WBBM)</strong><br>1957-09-02<br>10:45 AM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Spearmint Chewing Gum</td>\n<td><strong>Howard Miller (Host)</strong></td>\n<td><strong>CBS Production Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Talk&quot;, &quot;Howard Miller&quot;, &quot;Wrigleys&quot;, &quot;CBS&quot;]</code></td>\n<td>Chicago disc jockey Howard Miller spins the week&#39;s top-charting pop 45 rpm records for the holiday morning audience.</td>\n</tr>\n<tr>\n<td><code>Ford_1957_Monterey.mp3</code> <br><em>Alt</em>: <code>It Happened In Monterey The Ford Road Show</code></td>\n<td><strong>&quot;It Happened in Monterey with Bing Crosby and Rosemary Clooney&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1957-09-02<br>7:30 PM EDT</td>\n<td><strong>Ford Motor Co.</strong><br>The Ford Road Show</td>\n<td><strong>Bing Crosby</strong>, <strong>Clooney</strong></td>\n<td><strong>Buddy Cole Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Pop&quot;, &quot;Bing Crosby&quot;, &quot;Rosemary Clooney&quot;, &quot;Ford&quot;]</code></td>\n<td>Bing Crosby and Rosemary Clooney sing vocal duets on It Happened in Monterey accompanied by the Buddy Cole Trio.</td>\n</tr>\n<tr>\n<td><code>SeaHound_1946_RescueBalou.mp3</code> <br><em>Alt</em>: <code>The Rescue Of Balou The Adventures Of The Sea Hound</code></td>\n<td><strong>&quot;The Rescue of Balou with Ken Daigneau&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-02<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Youth Adventure Drama</td>\n<td><strong>Ken Daigneau (Capt. Silver)</strong></td>\n<td><strong>Bobby Hastings &amp; Striker</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Maritime&quot;, &quot;Sea Hound&quot;, &quot;Ken Daigneau&quot;, &quot;ABC&quot;]</code></td>\n<td>Captain Silver and Jerry navigate perilous ocean currents along the South American coast to rescue their loyal shipmate Balou.</td>\n</tr>\n<tr>\n<td><code>Symphony_1951_1812Overture.mp3</code> <br><em>Alt</em>: <code>Episode Your Symphony Scrapbook</code></td>\n<td><strong>&quot;Tchaikovsky&#39;s 1812 Overture with Paul Laval&quot;</strong></td>\n<td><strong>NBC Radio</strong><br>1951-09-02</td>\n<td><strong>RCA Victor</strong><br>Red Seal Records</td>\n<td><strong>Paul Laval (Conductor)</strong></td>\n<td><strong>NBC Symphony Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Symphony Scrapbook&quot;, &quot;Paul Laval&quot;, &quot;NBC&quot;]</code></td>\n<td>Conductor Paul Laval examines orchestral instrumentation and programmatic themes within Pyotr Ilyich Tchaikovsky&#39;s 1812 Overture.</td>\n</tr>\n<tr>\n<td><code>Jason_1977_OfMoney.mp3</code> <br><em>Alt</em>: <code>Of Money The Jason Explanation</code></td>\n<td><strong>&quot;Of Money with John Jason and BBC Radio 4&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1977-09-02<br>11:45 AM BST</td>\n<td><strong>Sustaining</strong><br>Satirical Essay</td>\n<td><strong>John Jason (Narrator)</strong></td>\n<td><strong>BBC Radio Comedy Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Essay&quot;, &quot;Jason Explanation&quot;, &quot;BBC Radio 4&quot;, &quot;British&quot;]</code></td>\n<td>John Jason delivers a satirical and whimsical philosophical monologue investigating the origins, absurdities, and human obsession with money.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 464 / 480 (16 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 642 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Howard Miller Show",
+        "Nat King Cole",
+        "Wrigley's Spearmint",
+        "Bing Crosby",
+        "Rosemary Clooney",
+        "Ford Road Show",
+        "The Adventures of the Sea Hound",
+        "Ken Daigneau",
+        "Fran Striker",
+        "Your Symphony Scrapbook",
+        "Paul Laval",
+        "Tchaikovsky",
+        "The Jason Explanation",
+        "John Jason",
+        "BBC Radio 4",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-641-imagination-theater-fitch-bandwagon-eddie-condon-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-641-imagination-theater-fitch-bandwagon-eddie-condon-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Imagination Theater, Fitch Bandwagon & Eddie Condon",
