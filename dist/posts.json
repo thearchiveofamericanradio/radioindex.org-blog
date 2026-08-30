@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-553-orson-welles-rita-hayworth-goldbergs-khj-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-553-orson-welles-rita-hayworth-goldbergs-khj-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Orson Welles & Rita Hayworth, The Goldbergs, and 93 KHJ",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 553)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across dramatic Hollywood adaptations, classic Jewish-American domestic comedy, 1960s top-40 Boss Radio station IDs, and Air Force recruitment big band concerts, Orson Welles and Rita Hayworth in <em>Break of Hearts</em> on <em>Lux Radio Theatre</em> (1944), Gertrude Berg in <em>The Goldbergs</em> for Oxydol and Duz (1942, 1943), <em>93 KHJ Boss Radio</em> jingles (1966), and <em>Serenade in Blue</em> (1942–1966):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 553)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Lux_1944_BreakHearts1.mp3</code> <br><em>Alt</em>: <code>A Lux Break of Hearts Orson Welles Rita</code></td>\n<td><strong>&quot;Break of Hearts (Part 1) with Orson Welles and Rita Hayworth&quot;</strong></td>\n<td><strong>CBS / AFRS</strong><br>1944-09-01<br>9:00 PM EWT</td>\n<td><strong>Lever Brothers</strong><br>Lux Toilet Soap</td>\n<td><strong>Orson Welles</strong>, <strong>Hayworth</strong></td>\n<td><strong>Cecil B. DeMille (Host)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Lux Radio Theatre&quot;, &quot;Orson Welles&quot;, &quot;Rita Hayworth&quot;]</code></td>\n<td>A brilliant orchestral conductor falls passionately in love with a young music student and proposes marriage before embarking on a European tour.</td>\n</tr>\n<tr>\n<td><code>Lux_1944_BreakHearts2.mp3</code> <br><em>Alt</em>: <code>B Lux Conclusion</code></td>\n<td><strong>&quot;Break of Hearts (Part 2 - Conclusion) with Orson Welles and Rita Hayworth&quot;</strong></td>\n<td><strong>CBS / AFRS</strong><br>1944-09-01<br>9:30 PM EWT</td>\n<td><strong>Lever Brothers</strong><br>Lux Soap / AFRS</td>\n<td><strong>Orson Welles</strong>, <strong>Hayworth</strong></td>\n<td><strong>Cecil B. DeMille (Host)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Lux Radio Theatre&quot;, &quot;Orson Welles&quot;, &quot;Rita Hayworth&quot;]</code></td>\n<td>Marital estrangement and alcoholism threaten to ruin the conductor&#39;s career until his estranged wife returns to conduct his comeback concert.</td>\n</tr>\n<tr>\n<td><code>KHJ_1966_StationID.mp3</code> <br><em>Alt</em>: <code>93 KHJ Boss Radio: &#39;More Music / 93 KHJ&#39;</code></td>\n<td><strong>&quot;More Music / 93 KHJ Station ID Chime with The Johnny Mann Singers&quot;</strong></td>\n<td><strong>KHJ Los Angeles</strong><br>1966-09-01</td>\n<td><strong>RKO General</strong><br>Boss Radio ID</td>\n<td><strong>Johnny Mann Singers</strong></td>\n<td><strong>Robert W. Morgan (DJ)</strong></td>\n<td><code>[&quot;Jingle&quot;, &quot;Station ID&quot;, &quot;Boss Radio&quot;, &quot;KHJ&quot;, &quot;Johnny Mann&quot;]</code></td>\n<td>A crisp acapella station jingle and signature electronic chime identify the top-40 Boss Radio broadcast from Los Angeles.</td>\n</tr>\n<tr>\n<td><code>Goldbergs_1942_Hayride.mp3</code> <br><em>Alt</em>: <code>Plans For A Hay Ride The Goldbergs</code></td>\n<td><strong>&quot;Plans for a Hayride with Gertrude Berg and Oxydol&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1942-09-01<br>5:15 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Oxydol Detergent</td>\n<td><strong>Gertrude Berg (Molly)</strong></td>\n<td><strong>Gertrude Berg (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;The Goldbergs&quot;, &quot;Gertrude Berg&quot;, &quot;Oxydol&quot;]</code></td>\n<td>Molly Goldberg rallies her East Side neighbors to organize a community autumn hayride for local working youths.</td>\n</tr>\n<tr>\n<td><code>Goldbergs_1943_SecretOut.mp3</code> <br><em>Alt</em>: <code>The Secret Is Out, Again The Goldbergs</code></td>\n<td><strong>&quot;The Secret Is Out, Again with Gertrude Berg and Duz&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-09-01<br>1:45 PM EWT</td>\n<td><strong>Procter &amp; Gamble</strong><br>Duz Soap Powder</td>\n<td><strong>Gertrude Berg</strong>, <strong>Waters</strong></td>\n<td><strong>Gertrude Berg (Writer)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Domestic&quot;, &quot;The Goldbergs&quot;, &quot;Gertrude Berg&quot;, &quot;Duz&quot;]</code></td>\n<td>Molly attempts to smooth over misunderstandings when an overheard conversation about a surprise wedding present spreads across the tenement.</td>\n</tr>\n<tr>\n<td><code>Serenade_1959_Neighbor.mp3</code> <br><em>Alt</em>: <code>First Tune Is Hi Neighbor Serenade in Blue</code></td>\n<td><strong>&quot;Hi, Neighbor! with The Airmen of Note and United States Air Force&quot;</strong></td>\n<td><strong>USAF Syndication</strong><br>1959-09-01</td>\n<td><strong>U.S. Air Force</strong><br>Aviation Careers</td>\n<td><strong>The Airmen of Note</strong></td>\n<td><strong>USAF Radio Unit</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Swing&quot;, &quot;Serenade In Blue&quot;, &quot;USAF&quot;]</code></td>\n<td>The official dance orchestra of the United States Air Force performs big band swing arrangements and spotlights Air Force career opportunities.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 240 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 553 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Lux Radio Theatre",
+        "Orson Welles",
+        "Rita Hayworth",
+        "Break of Hearts",
+        "Cecil B DeMille",
+        "The Goldbergs",
+        "Gertrude Berg",
+        "Molly Goldberg",
+        "Oxydol",
+        "Duz",
+        "93 KHJ Boss Radio",
+        "Johnny Mann Singers",
+        "Serenade in Blue",
+        "Airmen of Note",
+        "USAF",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-552-clara-barton-judy-canova-calling-all-cars-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-552-clara-barton-judy-canova-calling-all-cars-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Clara Barton, Judy Canova, and Calling All Cars",
