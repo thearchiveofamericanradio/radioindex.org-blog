@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — WWII Milestones, Montgomery & Strange As It Seems
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, WWII News, Outbreak of War, General Bernard Montgomery, Operation Baytown, Italy Invasion, Allied Liberation of Brussels, Douglas Edwards, Strange As It Seems, Gayne Whitman, Bachelor's Children, Hugh Studebaker, Cudahy Packing, The Little Things in Life, Springbok Radio, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 665)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across momentous World War II milestone broadcasts (the 1939 British defense emergency blackout order, the 1943 Eighth Army amphibious landing in Italy, and the 1944 liberation advance toward Brussels), bizarre historical medical folklore, clinical family soap operas, and South African domestic sitcoms, General Bernard Montgomery (1943), Douglas Edwards on *CBS World News Today* (1944), *Strange As It Seems* (1947), Hugh Studebaker in *Bachelor's Children* for Old Dutch Cleanser (1943), and *The Little Things in Life* (1939–1975):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 665)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `WWII_1939_DefenseOrder.mp3` <br>*Alt*: `Reports Defense Order Closing Places Of Entertainment WWII News` | **"Emergency Defense Regulations Announcement on Outbreak of War"** | **BBC Home Service**<br>1939-09-03<br>7:00 PM BST | **Sustaining**<br>Official Announcement | **BBC News Staff** | **Ministry of Information** | `["News", "WWII", "BBC Home", "Emergency", "History"]` | Official BBC broadcast announcing immediate wartime emergency defense orders including civilian blackout procedures and public entertainment venue closures. |
+| `WWII_1943_MontgomeryItaly.mp3` <br>*Alt*: `Mongomery Announces Landings In Italy WWII News` | **"Eighth Army Landings in Italy with General Montgomery"** | **BBC / Allied Radio**<br>1943-09-03<br>9:00 PM BST | **Sustaining**<br>Military Bulletin | **Gen. Bernard Montgomery** | **Eighth Army HQ** | `["News", "WWII", "Bernard Montgomery", "Italy Campaign", "BBC"]` | General Bernard Montgomery announces British Eighth Army assault units crossing the Strait of Messina onto the Italian mainland. |
+| `WWII_1944_BrusselsLiberation.mp3` <br>*Alt*: `World News Today WWII News` | **"Allied Liberation Forces Advance Toward Brussels with Douglas Edwards"** | **CBS (WABC)**<br>1944-09-03<br>2:30 PM EWT | **Sustaining**<br>Wartime News Special | **Douglas Edwards (Anchor)** | **Charles Collingwood** | `["News", "WWII", "CBS News", "Douglas Edwards", "Liberation"]` | Allied war correspondents report rapid armored advances liberating Brussels and entering southern Belgium against retreating German forces. |
+| `Strange_1947_RabiesCure.mp3` <br>*Alt*: `The Old Fashioned Cure for Rabies Strange As It Seems` | **"The Old Fashioned Cure for Rabies with Gayne Whitman"** | **Syndication**<br>1947-09-03 | **Sustaining**<br>Oddity Docudrama | **Gayne Whitman (Narrator)** | **John Hix (Creator)** | `["Docudrama", "History", "Strange As It Seems", "Gayne Whitman", "Syndicated"]` | A historical retelling of early frontier medical superstitions and folklore remedies utilized prior to Louis Pasteur's rabies vaccine. |
+| `Bachelors_1943_ClinicalConsult.mp3` <br>*Alt*: `Bachelor's Children Singles & Doubles Collection` | **"Dr. Bob's Clinical Consultations with Hugh Studebaker"** | **CBS (WBBM)**<br>1943-09-03<br>10:45 AM EWT | **Cudahy Packing Co.**<br>Old Dutch Cleanser | **Hugh Studebaker (Bob)** | **Marjorie Hannan & Flynn** | `["Soap Opera", "Drama", "Bachelors Children", "Hugh Studebaker", "Old Dutch"]` | Dr. Bob Graham advises a nervous expectant father while managing unexpected medical emergencies at his suburban clinic. |
+| `LittleThings_1975_UninvitedGuests.mp3` <br>*Alt*: `The Uninvited Guests Little Things in Life` | **"The Uninvited Guests with Springbok Radio"** | **Springbok / SABC**<br>1975-09-03 | **Sustaining**<br>Domestic Sitcom | **Springbok Comedy Cast** | **SABC Production Team** | `["Comedy", "Sitcom", "Little Things In Life", "Springbok", "SABC"]` | A suburban family's quiet anniversary dinner is overturned when distant eccentric relatives arrive unannounced for an extended stay. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 181 / 469 (288 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
