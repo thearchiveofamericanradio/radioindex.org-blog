@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Great Gildersleeve, King George VI & James Melton
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, The Great Gildersleeve, Harold Peary, Kraft, King George VI, Outbreak of WWII, BBC, Harvest of Stars, Patrice Munsel, James Melton, International Harvester, The James Melton Show, Texaco, Curtain Time, Don Ameche, General Mills, Raffles, Jeremy Clyde, Michael Cochrane, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 646)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across small-town comedy sit-coms, momentous wartime declarations, classical opera showcases, and British mystery dramas, Harold Peary in *The Great Gildersleeve* for Kraft (1944), His Majesty King George VI declaring war on Germany (1939), Patrice Munsel and James Melton on *Harvest of Stars* (1950), *Curtain Time* (1937), *The James Melton Show* (1944), and Jeremy Clyde in *Raffles* (1937–1992):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 646)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Gildersleeve_1944_LonelyGildy.mp3` <br>*Alt*: `Lonely Gildy Great Gildersleeve` | **"Lonely Gildy with Harold Peary as The Great Gildersleeve"** | **NBC (KFI)**<br>1944-09-03<br>6:30 PM EWT | **Kraft Foods Co.**<br>Parkay & Kraft Dinner | **Harold Peary (Gildy)** | **Walter Tetley & Underwood** | `["Comedy", "Sitcom", "Great Gildersleeve", "Harold Peary", "Kraft"]` | Water commissioner Throckmorton P. Gildersleeve feels neglected when his niece and nephew leave for summer camp and embarks on a matchmaking scheme. |
+| `KingGeorge_1939_OutbreakWar.mp3` <br>*Alt*: `King George VI Addresses The Nation (1939)` | **"Address to the British Empire on the Outbreak of World War II"** | **BBC / Global**<br>1939-09-03<br>6:00 PM BST | **Sustaining**<br>Historic Royal Address | **HM King George VI** | **BBC Engineers** | `["Speech", "History", "WWII", "King George VI", "BBC"]` | King George VI delivers his solemn radio address from Buckingham Palace calling upon the British Empire to stand firm following the declaration of war against Germany. |
+| `Harvest_1950_DepuisLeJour.mp3` <br>*Alt*: `Depuis Le Jour Harvest of Stars` | **"Depuis Le Jour with Patrice Munsel and James Melton"** | **NBC (WNBC)**<br>1950-09-03<br>5:30 PM EDT | **International Harvester**<br>Farmall Tractors & Trucks | **Patrice Munsel**, **Melton** | **Frank Black Orchestra** | `["Music", "Classical", "Harvest Of Stars", "Patrice Munsel", "James Melton"]` | Metropolitan Opera soprano Patrice Munsel joins tenor James Melton to perform Gustave Charpentier's aria Depuis le jour and American folk standards. |
+| `CurtainTime_1937_QueensPawn.mp3` <br>*Alt*: `The Queen's Pawn Curtain Time` | **"The Queen's Pawn with Don Ameche and General Mills"** | **Mutual (WGN)**<br>1937-09-03<br>10:00 PM EDST | **General Mills**<br>Wheaties Breakfast Cereal | **Don Ameche (Host)** | **Chicago Drama Players** | `["Drama", "Anthology", "Curtain Time", "Don Ameche", "Mutual"]` | A clever young chess prodigy is recruited into international espionage to outmaneuver foreign agents attempting to steal government naval codes. |
+| `Melton_1944_LawrenceBrooks.mp3` <br>*Alt*: `Guest - Lawrence Brooks The James Melton Show` | **"Guest Lawrence Brooks with James Melton and Texaco"** | **CBS (WABC)**<br>1944-09-03<br>9:30 PM EWT | **The Texas Co.**<br>Texaco Sky Chief Gas | **James Melton**, **Brooks** | **Al Goodman Orchestra** | `["Music", "Variety", "James Melton", "Lawrence Brooks", "Texaco"]` | James Melton welcomes Broadway baritone Lawrence Brooks to sing selections from Edvard Grieg's musical Song of Norway. |
+| `Raffles_1992_LastWord.mp3` <br>*Alt*: `The Last Word Raffles - BBC` | **"The Last Word with Jeremy Clyde and Michael Cochrane"** | **BBC Radio 4**<br>1992-09-03<br>11:30 AM BST | **Sustaining**<br>British Detective Drama | **Jeremy Clyde (Raffles)** | **Michael Cochrane & Mottley** | `["Mystery", "British", "Raffles", "Jeremy Clyde", "BBC Radio 4"]` | Gentleman thief A.J. Raffles orchestrates a daring jewel substitution at an embassy gala while Bunny distracts Scotland Yard inspectors. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 67 / 469 (402 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
