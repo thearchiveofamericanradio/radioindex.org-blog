@@ -1,0 +1,33 @@
+# Archival Dispatch: August 31 Calendar Walk — Crime Doctor, Apollo 11, and Al Jolson Shell Chateau
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, Crime Doctor, Max Marcin, Ray Collins, John McIntire, Philip Morris, Apollo 11, NBC News, Chet Huntley, David Brinkley, Shell Chateau, Al Jolson, Boris Karloff, WKBF Indianapolis, The Words We Live By, Literature of the Bible, Serial Story, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 507)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized biblical study metadata, and pure narrative synopses for broadcasts transmitting on **August 31** across psychiatric criminal investigations, historic lunar landing scientific reviews, legendary variety hours, station dedications, and religious literary education, Ray Collins and John McIntire as Max Marcin's *Crime Doctor* for Philip Morris (1941, 1947), NBC News covering Apollo 11 post-mission lunar analysis (1969), Al Jolson and Boris Karloff launching *Shell Chateau* (1935), WKBF Indianapolis dedication (1933), and *The Words We Live By* (1933–1969):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 507)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Civics_1958_Bible9.mp3` <br>*Alt*: `Words We Live by - Bible Part 9` | **"Literature of the Bible (Part 9) with NBC Radio"** | **NBC (WRCA)**<br>1958-08-31<br>1:30 PM EDT | **Sustaining**<br>Literary Education | **Dramatic Ensemble** | **Dr. Samuel Terrien** | `["Religion", "Education", "Bible", "The Words We Live By", "NBC"]`<br>*Arc*: **Great Words in Literature of the Bible (Part 9)** | Scholars explore poetic imagery and moral themes in the Book of Psalms and prophetic Old Testament passages. |
+| `NBC_1969_Apollo11.mp3` <br>*Alt*: `NBC 1969 Episode` | **"Apollo 11 Post-Mission Analysis with NBC News Special"** | **NBC Radio**<br>1969-08-31<br>8:00 PM EDT | **Sustaining**<br>Space Special Report | **Chet Huntley**, **Brinkley** | **NBC News Division** | `["News", "Space", "Apollo 11", "NBC News", "NASA"]` | NBC correspondents and lunar geologists examine initial laboratory findings and rock samples returned from Tranquility Base. |
+| `WKBF_1933_Dedication.mp3` <br>*Alt*: `Wkbf Indianapolis Dedication` | **"Indianapolis Inaugural Broadcast with WKBF Ensemble"** | **WKBF Indianapolis**<br>1933-08-31<br>8:00 PM CST | **Indianapolis Broad.**<br>Transmitter Launch | **WKBF Studio Orchestra** | **WKBF Engineering** | `["History", "Dedication", "Music", "WKBF", "Indianapolis"]` | Indiana civic officials and studio musicians inaugurate new high-power transmitter facilities with classical selections and speeches. |
+| `Jolson_1935_ShellPremiere.mp3` <br>*Alt*: `Shell Chateau Al Jolson` | **"Shell Chateau Premiere with Boris Karloff and Victor Young"** | **NBC Red (WEAF)**<br>1935-08-31<br>9:30 PM EDST | **Shell Oil Co.**<br>Super-Charged Shell | **Al Jolson**, **Karloff** | **Victor Young Orchestra** | `["Variety", "Comedy", "Music", "Al Jolson", "Boris Karloff", "Shell"]` | Al Jolson performs minstrel standards and trades banter with horror star Boris Karloff on the opening edition of Shell Chateau. |
+| `Doctor_1941_Arsonist.mp3` <br>*Alt*: `Crime Doctor 1941 Episode` | **"The Case of the Reluctant Arsonist with Ray Collins"** | **CBS (WABC)**<br>1941-08-31<br>8:30 PM EDST | **Philip Morris**<br>Philip Morris Cigarettes | **Ray Collins**, **Sloane** | **Max Marcin (Creator)** | `["Detective", "Psychological", "Mystery", "Crime Doctor", "Philip Morris"]` | Dr. Benjamin Ordway evaluates a convicted arsonist's parole application and uncovers an organized insurance arson syndicate. |
+| `Doctor_1947_CounterfeitHeir.mp3` <br>*Alt*: `Crime Doctor 1947 Episode` | **"The Case of the Counterfeit Heir with John McIntire"** | **CBS (WCBS)**<br>1947-08-31<br>8:30 PM EDT | **Philip Morris**<br>Philip Morris Cigarettes | **John McIntire**, **Gregg** | **Max Marcin (Creator)** | `["Detective", "Psychological", "Mystery", "Crime Doctor", "Philip Morris"]` | Dr. Ordway uses psychiatric forensic testing to expose an imposter attempting to claim a deceased timber magnate's estate. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 342 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
