@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-582-inner-sanctum-andrews-sisters-mayor-of-town-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-582-inner-sanctum-andrews-sisters-mayor-of-town-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Inner Sanctum, Andrews Sisters, and Lionel Barrymore",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 582)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across chilling creaking-door horror anthologies, high-energy harmonic swing broadcasts, heartwarming small-town mayoral comedy-dramas, classic radio vocal variety, and 1970s dramatic literary anthologies, Raymond Edward Johnson hosting <em>Inner Sanctum Mysteries</em> for Lipton (1944), The Andrews Sisters for Nash-Kelvinator (1945), Lionel Barrymore and Agnes Moorehead in <em>Mayor of the Town</em> for Rinso (1944), Gordon MacRae and Eddy Arnold on <em>Guest Star</em> (1956, 1962), and Joan Copeland in <em>Faces of Love</em> (1944–1975):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 582)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Inner_Sanctum_1944_MuseumMurder.mp3</code> <br><em>Alt</em>: <code>Murder in the Museum Inner Sanctum</code></td>\n<td><strong>&quot;Murder in the Museum with Raymond Edward Johnson and Lipton Tea&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-02<br>8:30 PM EWT</td>\n<td><strong>Thomas J. Lipton</strong><br>Lipton Tea &amp; Soup</td>\n<td><strong>Raymond Edward Johnson</strong></td>\n<td><strong>Himan Brown (Producer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Inner Sanctum&quot;, &quot;Himan Brown&quot;, &quot;Lipton Tea&quot;]</code></td>\n<td>A nocturnal night watchman at an antiquities museum is found suffocated inside an ancient Egyptian stone sarcophagus.</td>\n</tr>\n<tr>\n<td><code>Andrews_1945_PennsPolka.mp3</code> <br><em>Alt</em>: <code>Penns Polka Andrews Sisters</code></td>\n<td><strong>&quot;The Pennsylvania Polka with Vic Schoen and Nash-Kelvinator&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1945-09-02<br>4:30 PM EWT</td>\n<td><strong>Nash-Kelvinator</strong><br>Kelvinator Appliances</td>\n<td><strong>The Andrews Sisters</strong></td>\n<td><strong>Vic Schoen Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Swing&quot;, &quot;Andrews Sisters&quot;, &quot;Nash Kelvinator&quot;]</code></td>\n<td>The Andrews Sisters deliver rapid three-part vocal swing arrangements featuring The Pennsylvania Polka and comic skits with Curt Massey.</td>\n</tr>\n<tr>\n<td><code>Mayor_1944_LastThroes.mp3</code> <br><em>Alt</em>: <code>Last Throes of Summer (Show moves back to SATURDAYs)</code></td>\n<td><strong>&quot;Last Throes of Summer with Lionel Barrymore and Rinso&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1944-09-02<br>7:00 PM EWT</td>\n<td><strong>Lever Brothers</strong><br>Rinso Soap Powder</td>\n<td><strong>Lionel Barrymore (Mayor)</strong></td>\n<td><strong>Agnes Moorehead &amp; Binyon</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;Mayor Of The Town&quot;, &quot;Lionel Barrymore&quot;, &quot;Rinso&quot;]</code></td>\n<td>Mayor Russell intervenes to calm neighborhood tempers and help town youngsters make the most of the final weekend before school resumes.</td>\n</tr>\n<tr>\n<td><code>Guest_Star_1956_GordonMacRae.mp3</code> <br><em>Alt</em>: <code>Guest Gordon MacRae, Prelude</code></td>\n<td><strong>&quot;Guest Baritone Gordon MacRae with U.S. Treasury Department&quot;</strong></td>\n<td><strong>Syndication</strong><br>1956-09-02</td>\n<td><strong>U.S. Treasury Dept.</strong><br>Savings Bonds</td>\n<td><strong>Gordon MacRae (Vocals)</strong></td>\n<td><strong>The Skylarks &amp; Zimmerman</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Vocal&quot;, &quot;Gordon MacRae&quot;, &quot;Guest Star&quot;]</code></td>\n<td>Baritone Gordon MacRae performs lyrical show tunes and urges civilian listeners to invest in United States Savings Bonds.</td>\n</tr>\n<tr>\n<td><code>Guest_Star_1962_EddyArnold.mp3</code> <br><em>Alt</em>: <code>Guest Star 1962 Episode</code></td>\n<td><strong>&quot;Guest Country Vocalist Eddy Arnold with U.S. Treasury Department&quot;</strong></td>\n<td><strong>Syndication</strong><br>1962-09-02</td>\n<td><strong>U.S. Treasury Dept.</strong><br>Savings Bonds</td>\n<td><strong>Eddy Arnold (Vocals)</strong></td>\n<td><strong>Charles Magnante Orch.</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Country&quot;, &quot;Eddy Arnold&quot;, &quot;Guest Star&quot;]</code></td>\n<td>Country crooner Eddy Arnold sings gentle acoustic folk ballads and presents public service appeals for United States Savings Bonds.</td>\n</tr>\n<tr>\n<td><code>Faces_Love_1975_Schumann.mp3</code> <br><em>Alt</em>: <code>Guy Repp, Jackson Beck (announcer), Joan Copeland</code></td>\n<td><strong>&quot;The Story of Clara Schumann with Joan Copeland and Jackson Beck&quot;</strong></td>\n<td><strong>Syndication</strong><br>1975-09-02</td>\n<td><strong>Sustaining</strong><br>Dramatic Anthology</td>\n<td><strong>Joan Copeland</strong>, <strong>Lorring</strong></td>\n<td><strong>Guy Repp &amp; Jackson Beck</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Biography&quot;, &quot;Romance&quot;, &quot;Faces Of Love&quot;, &quot;Jackson Beck&quot;]</code></td>\n<td>A dramatic biography chronicles the artistic devotion and romantic sacrifices of concert pianist Clara Schumann beside her composer husband Robert.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 104 / 480 (376 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 582 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Inner Sanctum Mysteries",
+        "Raymond Edward Johnson",
+        "Himan Brown",
+        "Lipton Tea",
+        "The Andrews Sisters Show",
+        "Vic Schoen",
+        "Nash Kelvinator",
+        "Mayor of the Town",
+        "Lionel Barrymore",
+        "Agnes Moorehead",
+        "Rinso",
+        "Guest Star",
+        "Gordon MacRae",
+        "Eddy Arnold",
+        "Treasury Department",
+        "Faces of Love",
+        "Joan Copeland",
+        "Jackson Beck",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-581-v-j-day-command-performance-carmen-miranda-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-581-v-j-day-command-performance-carmen-miranda-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — V-J Day All-Star Special & Carmen Miranda",
