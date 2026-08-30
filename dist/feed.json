@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-672-gene-autry-jackie-gleason-fu-manchu-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-672-gene-autry-jackie-gleason-fu-manchu-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Gene Autry, Jackie Gleason & Fu Manchu",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 672)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across western musical dramas, live variety comedy summer revues, exotic pulp mystery serials, cerebral panel quizzes, and child prodigy broadcasts, Gene Autry on <em>Melody Ranch</em> for Wrigley&#39;s (1949), Jackie Gleason and Les Tremayne (1944), Hanley Stafford as <em>Fu Manchu</em> (1939), Clifton Fadiman on <em>Information Please</em> with Joshua Logan and Jo Mielziner (1950), and <em>The Quiz Kids</em> for Alka-Seltzer (1939–1950):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 672)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>MelodyRanch_1949_StagecoachGold.mp3</code> <br><em>Alt</em>: <code>Gene Autry&#39;s Melody Ranch 1949 Episode</code></td>\n<td><strong>&quot;The Stagecoach Gold Caper with Gene Autry and Wrigley&#39;s Gum&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1949-09-03<br>8:00 PM EDT</td>\n<td><strong>Wm. Wrigley Jr. Co.</strong><br>Doublemint Chewing Gum</td>\n<td><strong>Gene Autry</strong>, <strong>Buttram</strong></td>\n<td><strong>Carl Cotner &amp; Orch.</strong></td>\n<td><code>[&quot;Western&quot;, &quot;Music&quot;, &quot;Gene Autry&quot;, &quot;Melody Ranch&quot;, &quot;Wrigley&quot;]</code></td>\n<td>Gene Autry investigates an outlaw gang ambushing state gold shipments while performing Western campfire melodies.</td>\n</tr>\n<tr>\n<td><code>JackieGleason_1944_SummerShow.mp3</code> <br><em>Alt</em>: <code>Jackie Gleason - Les Tremayne Show 1944 Episode</code></td>\n<td><strong>&quot;Summer Comedy Showcase with Jackie Gleason and Les Tremayne&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1944-09-03<br>8:30 PM EWT</td>\n<td><strong>P. Lorillard Co.</strong><br>Old Gold Cigarettes</td>\n<td><strong>Jackie Gleason</strong>, <strong>Tremayne</strong></td>\n<td><strong>Patsy Kelly &amp; Bunker</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Jackie Gleason&quot;, &quot;Les Tremayne&quot;, &quot;Old Gold&quot;]</code></td>\n<td>Jackie Gleason and Les Tremayne present broad summer comedy skits featuring unruly vacation travelers and frantic Broadway rehearsals.</td>\n</tr>\n<tr>\n<td><code>FuManchu_1939_JoyShop.mp3</code> <br><em>Alt</em>: <code>Joy Shop The Shadow Of Fu Manchu</code></td>\n<td><strong>&quot;The Joy Shop with Hanley Stafford as Fu Manchu&quot;</strong></td>\n<td><strong>Syndication</strong><br>1939-09-03</td>\n<td><strong>Sustaining</strong><br>Pulp Mystery Serial</td>\n<td><strong>Hanley Stafford (Fu Manchu)</strong></td>\n<td><strong>Gale Gordon &amp; Rohmer</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;Fu Manchu&quot;, &quot;Hanley Stafford&quot;, &quot;Sax Rohmer&quot;]</code></td>\n<td>Sir Denis Nayland Smith infiltrates an opium den disguised as a curio toy shop to intercept Fu Manchu&#39;s secret assassination orders.</td>\n</tr>\n<tr>\n<td><code>InfoPlease_1950_JoshLogan.mp3</code> <br><em>Alt</em>: <code>Josh Logan, Jo Mielziner Information Please</code></td>\n<td><strong>&quot;Guests Joshua Logan and Jo Mielziner with Clifton Fadiman&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-03<br>10:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Panel Quiz</td>\n<td><strong>Clifton Fadiman (Host)</strong></td>\n<td><strong>Adams, Kieran &amp; Guests</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Panel&quot;, &quot;Information Please&quot;, &quot;Clifton Fadiman&quot;, &quot;Joshua Logan&quot;]</code></td>\n<td>Broadway director Joshua Logan and scenic designer Jo Mielziner test their erudition on theater history and literature against the resident panel.</td>\n</tr>\n<tr>\n<td><code>QuizKids_1941_SchoolBells.mp3</code> <br><em>Alt</em>: <code>The Quiz Kids 1941 Episode</code></td>\n<td><strong>&quot;School Bells and Child Prodigies with Joe Kelly (1941)&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1941-09-03<br>8:00 PM EDST</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer &amp; One-A-Day</td>\n<td><strong>Joe Kelly (Quizmaster)</strong></td>\n<td><strong>Gerard Darrow &amp; Panel</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Panel&quot;, &quot;The Quiz Kids&quot;, &quot;Joe Kelly&quot;, &quot;Alka Seltzer&quot;]</code></td>\n<td>Child prodigies answer difficult listener questions on botany, zoology, and world history to earn savings bond prizes.</td>\n</tr>\n<tr>\n<td><code>QuizKids_1944_WartimeScience.mp3</code> <br><em>Alt</em>: <code>The Quiz Kids 1944 Episode</code></td>\n<td><strong>&quot;Wartime Geography and Science with Joe Kelly (1944)&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1944-09-03<br>7:30 PM EWT</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer &amp; One-A-Day</td>\n<td><strong>Joe Kelly (Quizmaster)</strong></td>\n<td><strong>Joel Kupperman &amp; Panel</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Panel&quot;, &quot;The Quiz Kids&quot;, &quot;Joel Kupperman&quot;, &quot;Alka Seltzer&quot;]</code></td>\n<td>Young math wizard Joel Kupperman and panel solve complex navigation, astronomy, and wartime geography puzzles submitted by listeners.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 223 / 469 (246 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 672 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Gene Autry's Melody Ranch",
+        "Gene Autry",
+        "Pat Buttram",
+        "Wrigley's Gum",
+        "The Jackie Gleason-Les Tremayne Show",
+        "Jackie Gleason",
+        "Les Tremayne",
+        "Old Gold",
+        "The Shadow of Fu Manchu",
+        "Hanley Stafford",
+        "Gale Gordon",
+        "Sax Rohmer",
+        "Information Please",
+        "Clifton Fadiman",
+        "Joshua Logan",
+        "Jo Mielziner",
+        "The Quiz Kids",
+        "Joe Kelly",
+        "Joel Kupperman",
+        "Alka-Seltzer",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-671-frank-sinatra-burns-allen-fred-allen-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-671-frank-sinatra-burns-allen-fred-allen-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Frank Sinatra, Burns & Allen & Fred Allen",
