@@ -1,0 +1,33 @@
+# Archival Dispatch: August 30 Calendar Walk — Voice of Firestone, Garry Moore, and High Adventure
+
+**Date**: 2026-08-30  
+**Author**: radio index  
+**Tags**: August 30, Calendar Walk, The Voice of Firestone, Richard Crooks, Howard Barlow, Firestone Symphony, Beat the Band, Garry Moore, Ted Weems, Raleigh Cigarettes, Socony Sketchbook, Christopher Morley, Mobilgas, High Adventure, Andes Flight, 10-2-4 Time, Cass County Boys, Martha Mears, Dr Pepper, Alternate Titles, Original Filenames
+
+---
+
+## August 30 Archival Metadata Enrichment (Increment 435)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and country variety syndication, Metropolitan Opera tenor Richard Crooks on *The Voice of Firestone* (1943), Garry Moore and Ted Weems on *Beat the Band* for Raleigh Cigarettes (1944), Christopher Morley and Johnny Green on *Socony Sketchbook* for Mobilgas (1935), emergency Andean aviation survival on *High Adventure* (1947), and The Cass County Boys on *10-2-4 Time* for Dr Pepper (1935–1947):
+
+---
+
+## 1. *August 30 Archival Inventory (Increment 435)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `High_Adv_1947_Andes.mp3` <br>*Alt*: `Episode Flight Andes` | **"Flight Over the Andes"** | **Mutual (WOR)**<br>1947-08-30<br>8:30 PM EDT | **Sustaining**<br>Adventure Drama | **Dramatic Voice Cast** | **High Adventure Staff** | `["Adventure", "Aviation", "Drama", "Survival", "Anthology"]` | A veteran transport pilot must navigate treacherous blizzards and engine failure during a perilous emergency flight across the Andes mountains. |
+| `Beat_Band_1944_Moore.mp3` <br>*Alt*: `Beat The Band Weems` | **"Musical Quiz with Garry Moore and Ted Weems"** | **NBC (WEAF)**<br>1944-08-30<br>9:30 PM EWT | **Brown & Williamson**<br>Raleigh Cigarettes | **Garry Moore**, **Weems** | **Beat the Band Staff** | `["Quiz", "Music", "Comedy", "Variety", "Garry Moore"]` | Garry Moore tosses listener-submitted musical trivia questions to band members who must play song melodies or pay cash penalties. |
+| `Socony_1935_Morley.mp3` <br>*Alt*: `Youre All I Need Morley` | **"You're All I Need with Christopher Morley"** | **CBS (WABC)**<br>1935-08-30<br>8:00 PM EDST | **Socony-Vacuum Oil**<br>Mobilgas / Mobiloil | **Christopher Morley**, **Green** | **Socony Sketchbook Staff** | `["Music", "Variety", "Orchestral", "Socony", "Literature"]` | Author Christopher Morley shares urbane literary essays alongside Johnny Green's romantic arrangements of You're All I Need. |
+| `Firestone_1943_Crooks.mp3` <br>*Alt*: `Richard Crooks Firestone 1943` | **"Tenor Richard Crooks with the Firestone Symphony"** | **NBC (WEAF)**<br>1943-08-30<br>8:30 PM EWT | **Firestone Tire & Rubber**<br>Firestone Tires / Service | **Richard Crooks**, **Barlow** | **Firestone Symphony Orch** | `["Classical", "Opera", "Orchestral", "Vocal", "Firestone"]` | Metropolitan Opera tenor Richard Crooks performs operatic arias and traditional American folk airs backed by the Firestone Symphony. |
+| `1024_Time_1943_Mears.mp3` <br>*Alt*: `Martha Mears Cass County` | **"Martha Mears and The Cass County Boys"** | **Syndicated Country**<br>1943-08-30 | **Dr Pepper Company**<br>10-2-4 Carbonated Soda | **Martha Mears**, **Cass Boys** | **10-2-4 Time Staff** | `["Western", "Country", "Music", "Vocal", "Dr Pepper"]` | Martha Mears sings country pop melodies accompanied by the acoustic guitar and fiddle swing of The Cass County Boys. |
+| `1024_Time_1944_Bugle.mp3` <br>*Alt*: `Bunkhouse Bugle Boy Cass` | **"The Bunkhouse Bugle Boy with The Cass County Boys"** | **Syndicated Country**<br>1944-08-30 | **Dr Pepper Company**<br>10-2-4 Carbonated Soda | **The Cass County Boys** | **10-2-4 Time Staff** | `["Western", "Country", "Music", "Vocal", "Dr Pepper"]` | The Cass County Boys perform western swing rhythms including The Bunkhouse Bugle Boy and cowboy close harmonies for Dr Pepper. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 282 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
