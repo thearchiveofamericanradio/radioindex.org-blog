@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-700-bing-crosby-eras-jack-benny-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-700-bing-crosby-eras-jack-benny-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Milestone 700! Bing Crosby Eras, Jack Benny & John Carradine",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 700 — Milestone Dispatch!)</h2>\n<p>This milestone archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across 700 increments of archival restoration! Featuring three groundbreaking eras of Bing Crosby (his early 1929 Cocoanut Grove Paul Whiteman remote, his 1931 national Red Cross disaster relief benefit, and his 1956 Ford Roadshow jazz sessions), Jack Benny&#39;s 1970 retrospective, John Carradine on <em>Twenty Questions</em> for Ronson lighters, and Alton Hall Blackington&#39;s New England regional folklore, Bing Crosby (1929, 1931, 1956), Jack Benny (1970), John Carradine (1949), and <em>Yankee Yarns</em> (1929–1970):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 700)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TwentyQuestions_1949_Carradine.mp3</code> <br><em>Alt</em>: <code>John Carradine Twenty Questions</code></td>\n<td><strong>&quot;Guest John Carradine with Bill Slater and Ronson Lighters&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1949-09-03<br>8:00 PM EDT</td>\n<td><strong>Ronson Art Metal Works</strong><br>Ronson Pocket Lighters</td>\n<td><strong>Bill Slater (Host)</strong></td>\n<td><strong>John Carradine (Guest)</strong></td>\n<td><code>[&quot;Quiz&quot;, &quot;Panel&quot;, &quot;Twenty Questions&quot;, &quot;John Carradine&quot;, &quot;Ronson&quot;]</code></td>\n<td>Guest panelist John Carradine joins the regular quiz team in identifying hidden animal, vegetable, and mineral mystery subjects within twenty clues.</td>\n</tr>\n<tr>\n<td><code>YankeeYarns_1950_DarnMan.mp3</code> <br><em>Alt</em>: <code>Darn Man Yankee Yarns</code></td>\n<td><strong>&quot;The Darned Man of New England with Alton Hall Blackington&quot;</strong></td>\n<td><strong>WBZ Boston / NBC</strong><br>1950-09-03</td>\n<td><strong>First National Stores</strong><br>New England Grocers</td>\n<td><strong>Alton H. Blackington</strong></td>\n<td><strong>WBZ Production Staff</strong></td>\n<td><code>[&quot;Folklore&quot;, &quot;Storytelling&quot;, &quot;Yankee Yarns&quot;, &quot;Alton Hall Blackington&quot;, &quot;WBZ&quot;]</code></td>\n<td>Storyteller Alton Hall Blackington recounts the regional legend of a mysterious wandering wanderer known across rural New England as the Darned Man.</td>\n</tr>\n<tr>\n<td><code>JackBenny_1970_Retrospective.mp3</code> <br><em>Alt</em>: <code>Jack Benny Jack Benny Program, The</code></td>\n<td><strong>&quot;The 1970 Golden Age Retrospective with Jack Benny&quot;</strong></td>\n<td><strong>Syndication / AFRS</strong><br>1970-09-03</td>\n<td><strong>Sustaining</strong><br>Comedy Retrospective</td>\n<td><strong>Jack Benny (Host)</strong></td>\n<td><strong>Don Wilson &amp; Livingstone</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Interview&quot;, &quot;Jack Benny&quot;, &quot;Retrospective&quot;, &quot;AFRS&quot;]</code></td>\n<td>Jack Benny reminisces on four decades of classic radio comedy sketches, infamous feuds, and iconic character voices.</td>\n</tr>\n<tr>\n<td><code>BingCrosby_1929_CocoanutGrove.mp3</code> <br><em>Alt</em>: <code>Episode 31 Bing Crosby</code></td>\n<td><strong>&quot;At the Cocoanut Grove with Paul Whiteman and Bing Crosby&quot;</strong></td>\n<td><strong>KHJ Los Angeles / CBS</strong><br>1929-09-03</td>\n<td><strong>Old Gold Cigarettes</strong><br>P. Lorillard Tobacco</td>\n<td><strong>Bing Crosby (Vocalist)</strong></td>\n<td><strong>Paul Whiteman &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Bing Crosby&quot;, &quot;Paul Whiteman&quot;, &quot;Rhythm Boys&quot;]</code></td>\n<td>Bing Crosby performs early vocal harmonies with The Rhythm Boys accompanied by Paul Whiteman&#39;s orchestra live from the Ambassador Hotel.</td>\n</tr>\n<tr>\n<td><code>BingCrosby_1931_RedCross.mp3</code> <br><em>Alt</em>: <code>Red Cross Syndication Bing Crosby</code></td>\n<td><strong>&quot;Red Cross Disaster Relief Benefit Program with Bing Crosby&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1931-09-03</td>\n<td><strong>American Red Cross</strong><br>Drought Relief Appeal</td>\n<td><strong>Bing Crosby (Host)</strong></td>\n<td><strong>CBS Concert Orchestra</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Public Service&quot;, &quot;Bing Crosby&quot;, &quot;Red Cross&quot;, &quot;CBS&quot;]</code></td>\n<td>Bing Crosby sings romantic ballads and appeals to national listeners for donations to the American Red Cross drought relief campaign.</td>\n</tr>\n<tr>\n<td><code>BingCrosby_1956_FordRoadshow.mp3</code> <br><em>Alt</em>: <code>Bing Crosby 1956 Episode</code></td>\n<td><strong>&quot;The Ford Roadshow with Bing Crosby and Buddy Cole&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1956-09-03<br>7:30 PM EDT</td>\n<td><strong>Ford Motor Company</strong><br>Ford Automobiles</td>\n<td><strong>Bing Crosby (Host)</strong></td>\n<td><strong>Buddy Cole &amp; Carpenter</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Bing Crosby&quot;, &quot;Ford&quot;, &quot;Buddy Cole&quot;]</code></td>\n<td>Bing Crosby and pianist Buddy Cole perform intimate jazz tunes and pop hits interspersed with automotive safety tips.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 391 / 469 (78 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 700 — Milestone Dispatch! This milestone archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorshi...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Increment 700",
+        "Milestone",
+        "Bing Crosby",
+        "Paul Whiteman",
+        "Rhythm Boys",
+        "American Red Cross",
+        "Ford Roadshow",
+        "Buddy Cole",
+        "Jack Benny",
+        "AFRS",
+        "Retrospective",
+        "Twenty Questions",
+        "Bill Slater",
+        "John Carradine",
+        "Ronson Lighters",
+        "Yankee Yarns",
+        "Alton Hall Blackington",
+        "New England Folklore",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-699-stan-kenton-big-town-burma-hump-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-699-stan-kenton-big-town-burma-hump-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Stan Kenton, Big Town & Burma Hump",
