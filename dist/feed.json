@@ -6,6 +6,86 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-702-leo-durocher-your-hit-parade-jack-benny-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-702-leo-durocher-your-hit-parade-jack-benny-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Leo Durocher, Your Hit Parade & Jack Benny",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 702)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across lively Chicago sports interviews with legendary Giants manager Leo Durocher, hit parade countdowns for Lucky Strike, full-length theatrical comedy-mysteries, chilling Canadian Okefenokee swamp horror, breaking wire news of the liberation of Lyon, and insightful backstage oral history interviews with Jack Benny, Leo Durocher on <em>Tom Duggan Sports</em> (1952), Fredda Gibson on <em>Your Hit Parade</em> (1938), Barbara Luddy and Les Tremayne (1940), <em>Nightfall</em> (1982), Douglas Edwards on CBS (1944), and Jack Benny with Chuck Schaden (1938–1982):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 702)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TomDuggan_1952_LeoDurocher.mp3</code> <br><em>Alt</em>: <code>Leo Durocher Tom Duggan Sports</code></td>\n<td><strong>&quot;Interview with NY Giants Manager Leo Durocher with Tom Duggan&quot;</strong></td>\n<td><strong>WGN Chicago</strong><br>1952-09-03</td>\n<td><strong>Sustaining</strong><br>Sports Commentary</td>\n<td><strong>Tom Duggan (Host)</strong></td>\n<td><strong>Leo Durocher (Guest)</strong></td>\n<td><code>[&quot;Sports&quot;, &quot;Interview&quot;, &quot;Tom Duggan&quot;, &quot;Leo Durocher&quot;, &quot;Baseball&quot;]</code></td>\n<td>Tom Duggan interviews fiery New York Giants manager Leo Durocher about pennant race pitching rotations and clubhouse disputes.</td>\n</tr>\n<tr>\n<td><code>HitParade_1938_PocketfulDreams.mp3</code> <br><em>Alt</em>: <code>First Song - I&#39;ve Got A Pocket Full Of Dreams (#7) Your Hit Parade</code></td>\n<td><strong>&quot;I&#39;ve Got a Pocketful of Dreams (#7) with Fredda Gibson&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1938-09-03<br>10:00 PM EDST</td>\n<td><strong>American Tobacco Co.</strong><br>Lucky Strike Cigarettes</td>\n<td><strong>Fredda Gibson (Gibbs)</strong></td>\n<td><strong>Buddy Clark &amp; Goodman</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Countdown&quot;, &quot;Your Hit Parade&quot;, &quot;Lucky Strike&quot;, &quot;Fredda Gibson&quot;]</code></td>\n<td>The Lucky Strike orchestra and vocalists perform the nation&#39;s top hit songs of the week highlighted by I&#39;ve Got a Pocketful of Dreams.</td>\n</tr>\n<tr>\n<td><code>FirstNighter_1940_OneMystery.mp3</code> <br><em>Alt</em>: <code>One Mystery, Coming Up First Nighter Program, The</code></td>\n<td><strong>&quot;One Mystery, Coming Up with Barbara Luddy and Les Tremayne&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-03<br>8:30 PM EDST</td>\n<td><strong>Campana Sales Co.</strong><br>Campana Italian Balm</td>\n<td><strong>Barbara Luddy &amp; Tremayne</strong></td>\n<td><strong>Charles P. Hughes</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Mystery&quot;, &quot;The First Nighter Program&quot;, &quot;Barbara Luddy&quot;, &quot;Campana&quot;]</code></td>\n<td>A mystery novel ghostwriter is hired by an eccentric millionaire to stage a fake mansion murder that unexpectedly turns deadly.</td>\n</tr>\n<tr>\n<td><code>Nightfall_1982_Okefenokee.mp3</code> <br><em>Alt</em>: <code>Nightfall 1982 Episode</code></td>\n<td><strong>&quot;The Alligators of the Okefenokee with CBC Radio Drama&quot;</strong></td>\n<td><strong>CBC Radio</strong><br>1982-09-03</td>\n<td><strong>Sustaining</strong><br>Canadian Horror</td>\n<td><strong>CBC Drama Repertory</strong></td>\n<td><strong>Bill Howell (Producer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Anthology&quot;, &quot;Nightfall&quot;, &quot;CBC&quot;, &quot;Canada&quot;]</code></td>\n<td>Two poachers trespassing in a forbidden Georgia swamp find themselves stalked by giant, unnaturally aggressive prehistoric alligators.</td>\n</tr>\n<tr>\n<td><code>CBSNews_1944_LyonLiberated.mp3</code> <br><em>Alt</em>: <code>An Associated Press Report CBS World News Today</code></td>\n<td><strong>&quot;Allied Liberation of Lyon on CBS World News Today&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-03<br>8:00 AM EWT</td>\n<td><strong>Sustaining</strong><br>Wartime News Special</td>\n<td><strong>Douglas Edwards (Anchor)</strong></td>\n<td><strong>Associated Press Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;CBS News&quot;, &quot;Douglas Edwards&quot;, &quot;Lyon&quot;]</code></td>\n<td>Douglas Edwards reads wire bulletins confirming the liberation of Lyon by French resistance forces and American mechanized armor.</td>\n</tr>\n<tr>\n<td><code>ChuckSchaden_1970_JackBenny.mp3</code> <br><em>Alt</em>: <code>Jack Benny Mill Run Theatre Chuck Schaden Interviews</code></td>\n<td><strong>&quot;Jack Benny Live at the Mill Run Theatre with Chuck Schaden&quot;</strong></td>\n<td><strong>WNIB Chicago</strong><br>1970-09-03</td>\n<td><strong>Sustaining</strong><br>Oral History Interview</td>\n<td><strong>Chuck Schaden (Host)</strong></td>\n<td><strong>Jack Benny (Interviewee)</strong></td>\n<td><code>[&quot;Interview&quot;, &quot;History&quot;, &quot;Chuck Schaden&quot;, &quot;Jack Benny&quot;, &quot;Mill Run&quot;]</code></td>\n<td>Jack Benny discusses the origins of his classic stingy character persona, his legendary violin routines, and the transition from radio to television.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 403 / 469 (66 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 702 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The First Nighter Program",
+        "Barbara Luddy",
+        "Les Tremayne",
+        "Campana Italian Balm",
+        "Tom Duggan Sports",
+        "Leo Durocher",
+        "New York Giants",
+        "Baseball",
+        "Nightfall",
+        "CBC Radio Drama",
+        "Canadian Horror",
+        "CBS World News Today",
+        "Douglas Edwards",
+        "Liberation of Lyon",
+        "Chuck Schaden Interviews",
+        "Jack Benny",
+        "Mill Run Theatre",
+        "Your Hit Parade",
+        "Lucky Strike",
+        "Fredda Gibson",
+        "Georgia Gibbs",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-701-fred-allen-nick-carter-perry-como-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-701-fred-allen-nick-carter-perry-como-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Fred Allen, Nick Carter & Perry Como",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 701)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across legendary V-J Day comedy broadcasts uniting Fred Allen and Charlie McCarthy, hardboiled anatomical theft mysteries solved by Nick Carter, Perry Como&#39;s postwar musical supper club, classic radio theatre romantic comedies, psychological terror from Richard Thorne, and harmonic choral sessions with Bing Crosby and Rosemary Clooney, Fred Allen and Edgar Bergen (1945), Lon Clark as <em>Nick Carter</em> (1950), Perry Como (1945), Don Ameche and Barbara Luddy (1937), Richard Thorne in <em>The Hall of Fantasy</em> (1951), and Bing Crosby (1937–1962):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 701)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>CharlieMcCarthy_1945_FredAllen.mp3</code> <br><em>Alt</em>: <code>Fred Allen Charlie Mc Carthy Show, The</code></td>\n<td><strong>&quot;Guest Fred Allen on V-J Day with Edgar Bergen and Charlie McCarthy&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-09-03<br>8:00 PM EWT</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Coffee</td>\n<td><strong>Edgar Bergen &amp; Charlie</strong></td>\n<td><strong>Fred Allen (Guest)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Charlie McCarthy&quot;, &quot;Edgar Bergen&quot;, &quot;Fred Allen&quot;]</code></td>\n<td>Fred Allen trades acerbic insults with Charlie McCarthy in a special Labor Day and V-J victory celebration broadcast.</td>\n</tr>\n<tr>\n<td><code>NickCarter_1950_MisledSkeletons.mp3</code> <br><em>Alt</em>: <code>The Case of the Misled Skeletons Nick Carter Master Detective</code></td>\n<td><strong>&quot;The Case of the Misled Skeletons with Lon Clark as Nick Carter&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-03<br>6:30 PM EDT</td>\n<td><strong>Cudahy Packing Co.</strong><br>Old Dutch Cleanser</td>\n<td><strong>Lon Clark (Carter)</strong></td>\n<td><strong>Charlotte Manson &amp; MacGregor</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Nick Carter&quot;, &quot;Lon Clark&quot;, &quot;Old Dutch&quot;]</code></td>\n<td>Nick Carter investigates a bizarre anatomical theft where human skeletons are swapped in a medical university ossuary to conceal a homicide.</td>\n</tr>\n<tr>\n<td><code>Chesterfield_1945_FishingMoon.mp3</code> <br><em>Alt</em>: <code>First Song - Fishing for the Moon Chesterfield Supper Club, The</code></td>\n<td><strong>&quot;Fishing for the Moon on V-J Day with Perry Como&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-09-03<br>7:00 PM EWT</td>\n<td><strong>Liggett &amp; Myers</strong><br>Chesterfield Cigarettes</td>\n<td><strong>Perry Como (Host)</strong></td>\n<td><strong>The Satisfiers &amp; Steele</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Chesterfield Supper Club&quot;, &quot;Perry Como&quot;, &quot;Chesterfield&quot;]</code></td>\n<td>Perry Como croons romantic favorites led by Fishing for the Moon on a special celebratory Labor Day edition of the 15-minute supper club.</td>\n</tr>\n<tr>\n<td><code>FirstNighter_1937_SocietySally.mp3</code> <br><em>Alt</em>: <code>Society Sally First Nighter Program, The</code></td>\n<td><strong>&quot;Society Sally with Don Ameche and Barbara Luddy&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1937-09-03<br>10:00 PM EDST</td>\n<td><strong>Campana Sales Co.</strong><br>Campana Italian Balm</td>\n<td><strong>Don Ameche &amp; Luddy</strong></td>\n<td><strong>Charles P. Hughes</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;The First Nighter Program&quot;, &quot;Don Ameche&quot;, &quot;Campana&quot;]</code></td>\n<td>An ambitious manicurist masquerades as a wealthy European countess to crash a high-society charity gala in Manhattan.</td>\n</tr>\n<tr>\n<td><code>HallFantasy_1951_TwistedMind.mp3</code> <br><em>Alt</em>: <code>The Twisted Mind Hall of Fantasy</code></td>\n<td><strong>&quot;The Twisted Mind with Richard Thorne&quot;</strong></td>\n<td><strong>Mutual (WGN)</strong><br>1951-09-03<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Psychological Horror</td>\n<td><strong>Richard Thorne (Dir.)</strong></td>\n<td><strong>Mutual Drama Cast</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Psychological&quot;, &quot;Hall Of Fantasy&quot;, &quot;Richard Thorne&quot;, &quot;Mutual&quot;]</code></td>\n<td>A psychiatrist experimenting with psychic telepathy finds his own subconscious thoughts invaded and tormented by a deceased patient&#39;s vengeful psyche.</td>\n</tr>\n<tr>\n<td><code>BingClooney_1962_BoysChoir.mp3</code> <br><em>Alt</em>: <code>Bob Mitchell Boys Choir Bing Crosby</code></td>\n<td><strong>&quot;Guest Bob Mitchell Boys Choir with Bing Crosby and Rosemary Clooney&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1962-09-03<br>10:45 AM EDT</td>\n<td><strong>Sustaining</strong><br>Daytime Music</td>\n<td><strong>Bing Crosby &amp; Clooney</strong></td>\n<td><strong>Bob Mitchell Boys Choir</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Bing Crosby&quot;, &quot;Rosemary Clooney&quot;, &quot;Buddy Cole&quot;]</code></td>\n<td>Bing Crosby and Rosemary Clooney welcome the young vocalists of the Bob Mitchell Boys Choir for harmonious choral renditions and pop duets.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 397 / 469 (72 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 701 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Charlie McCarthy Show",
+        "Edgar Bergen",
+        "Fred Allen",
+        "Chase & Sanborn",
+        "V-J Day",
+        "Nick Carter Master Detective",
+        "Lon Clark",
+        "Charlotte Manson",
+        "Old Dutch Cleanser",
+        "Chesterfield Supper Club",
+        "Perry Como",
+        "Chesterfield Cigarettes",
+        "The First Nighter Program",
+        "Don Ameche",
+        "Barbara Luddy",
+        "Campana Italian Balm",
+        "The Hall of Fantasy",
+        "Richard Thorne",
+        "Bing Crosby",
+        "Rosemary Clooney",
+        "Bob Mitchell Boys Choir",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-700-bing-crosby-eras-jack-benny-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-700-bing-crosby-eras-jack-benny-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Milestone 700! Bing Crosby Eras, Jack Benny & John Carradine",
