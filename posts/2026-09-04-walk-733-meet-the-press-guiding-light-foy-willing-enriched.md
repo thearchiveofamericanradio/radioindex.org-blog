@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Meet the Press, Guiding Light & Foy Willing
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, Meet the Press, Lawrence Spivak, Marion B Folsom, William P Bundy, NBC News, The Guiding Light, Irna Phillips, Lyle Sudrow, Procter and Gamble, Duz, Riders of the Purple Sage, Foy Willing, Capitol Transcriptions, Murder and Mr Chase, Alan White, Morris West, Macquarie Network, Travels of Mary Ward, Mary Ward, BBC National Programme, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 733)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across two critical mid-century political forums on NBC's *Meet the Press* (Cabinet Secretary Marion B. Folsom in 1955 and Assistant Secretary William P. Bundy in 1966), tense family domestic confrontations on *The Guiding Light* for Procter & Gamble, open-range western harmony with Foy Willing and the Riders of the Purple Sage, Morris West's Australian detective series premiere *Murder and Mr. Chase*, and BBC National Programme's historical docudrama *The Travels of Mary Ward*, Lawrence Spivak (1955, 1966), Lyle Sudrow (1950), Foy Willing (1946), Alan White (1956), and *Mary Ward* (1936–1966):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 733)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `MeetPress_1955_MarionFolsom.mp3` <br>*Alt*: `Marion B Folsom Meet the Press` | **"Marion B. Folsom with Lawrence Spivak"** | **NBC (WNBC)**<br>1955-09-04<br>6:00 PM EDT | **Pan American / Sustaining**<br>Public Affairs | **Marion B. Folsom (HEW)** | **Lawrence Spivak (Mod.)** | `["News", "Interview", "Meet the Press", "Marion B Folsom", "Lawrence Spivak"]` | Secretary of Health, Education, and Welfare Marion B. Folsom faces press questioning regarding federal school construction aid and social security expansion. |
+| `MeetPress_1966_WilliamBundy.mp3` <br>*Alt*: `William P Bundy Meet the Press` | **"William P. Bundy with Lawrence Spivak"** | **NBC (WNBC)**<br>1966-09-04<br>6:00 PM EDT | **Sustaining**<br>Public Affairs Forum | **William P. Bundy (State)** | **Lawrence Spivak (Mod.)** | `["News", "Interview", "Meet the Press", "William P Bundy", "Lawrence Spivak"]` | Assistant Secretary of State William P. Bundy is questioned by national journalists regarding military escalation and diplomatic negotiations in Southeast Asia. |
+| `GuidingLight_1950_TedBill.mp3` <br>*Alt*: `Ted Talks to Bill About His Drinking Guiding Light` | **"Ted Talks to Bill About His Drinking with Procter & Gamble"** | **CBS (WABC)**<br>1950-09-04<br>1:45 PM EDT | **Procter & Gamble**<br>Duz Detergent | **Lyle Sudrow (Bill Bauer)** | **Irna Phillips & Lipton** | `["Soap Opera", "Drama", "The Guiding Light", "Irna Phillips", "Procter & Gamble"]` | Ted confronts his brother Bill Bauer about his escalating alcohol consumption, warning him that his marriage and career are in jeopardy. |
+| `FoyWilling_1946_OpenRange.mp3` <br>*Alt*: `Out on the Open Range Foy Willing And The Riders Of The Purple Sage` | **"Out on the Open Range with Foy Willing"** | **Capitol Transcriptions**<br>1946-09-04 | **Sustaining**<br>Western Music | **Foy Willing & Trio** | **Al Sloey & Purple Sage** | `["Western", "Music", "Riders Of The Purple Sage", "Foy Willing", "Capitol"]` | Foy Willing leads the western vocal trio in cowboy harmony classics, campfire ballads, and rhythmic open-range guitar instrumentals. |
+| `MurderMrChase_1956_Premiere.mp3` <br>*Alt*: `Title Unknown (PREMIERE) Murder and Mr. Chase` | **"The Blackmailed Industrialist (Series Premiere) with Alan White"** | **2GB / Macquarie**<br>1956-09-04 | **Sustaining**<br>Australian Detective | **Alan White (Peter Chase)** | **Morris West (Writer)** | `["Detective", "Mystery", "Murder and Mr Chase", "Alan White", "Macquarie"]` | Private investigator Peter Chase takes on his first case, defending a prominent manufacturing executive blackmailed over a secret wartime pact. |
+| `MaryWard_1936_Alps.mp3` <br>*Alt*: `Travels of Mary Ward 1936 Episode` | **"Crossing the Alps on Foot with BBC National Programme"** | **BBC National**<br>1936-09-04 | **Sustaining**<br>Historical Docudrama | **BBC Drama Repertory** | **Denis Johnston (Author)** | `["Drama", "History", "Travels of Mary Ward", "Mary Ward", "BBC"]` | 17th-century English religious pioneer Mary Ward undertakes a perilous winter trek on foot across the Alps to petition the Pope in Rome for female educational freedom. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 120 / 471 (287 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

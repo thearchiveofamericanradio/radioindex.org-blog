@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-732-candy-matson-sad-sack-ginny-simms-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-732-candy-matson-sad-sack-ginny-simms-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Candy Matson, Sad Sack & Ginny Simms",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 732)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across stylish San Francisco private eye investigations on <em>Candy Matson, YUkon 2-8209</em>, Herb Vigran starring in George Baker&#39;s post-war veteran sitcom <em>The Sad Sack</em> for Old Gold Cigarettes, Ginny Simms singing V-J Day homecoming swing for Philip Morris, Harry McNaughton bumbling as an amnesiac British butler on <em>It&#39;s Higgins, Sir</em>, Charles E. Fuller&#39;s biblical evangelism on <em>The Old Fashioned Revival Hour</em>, and waterfront arson investigations on <em>Police Headquarters</em>, Natalie Masters (1950), Herb Vigran (1946), Ginny Simms (1945), Harry McNaughton (1951), and Charles E. Fuller (1943–1951):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 732)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>CandyMatson_1950_Sacramento.mp3</code> <br><em>Alt</em>: <code>Death in Sacramento Candy Matson, YUkon 2-8209</code></td>\n<td><strong>&quot;Death in Sacramento with Natalie Masters as Candy Matson&quot;</strong></td>\n<td><strong>NBC Pacific (KNBC)</strong><br>1950-09-04<br>8:30 PM PDT</td>\n<td><strong>Sustaining</strong><br>West Coast Detective</td>\n<td><strong>Natalie Masters (Candy)</strong></td>\n<td><strong>Monty Masters &amp; Tobin</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Hardboiled&quot;, &quot;Candy Matson&quot;, &quot;Natalie Masters&quot;, &quot;Monty Masters&quot;]</code></td>\n<td>San Francisco private investigator Candy Matson travels to Sacramento to unmask who murdered a wealthy state senator in his hotel room.</td>\n</tr>\n<tr>\n<td><code>SadSack_1946_JobHunting.mp3</code> <br><em>Alt</em>: <code>Sad Sack 1946 Episode</code></td>\n<td><strong>&quot;Civilian Job Hunting with Herb Vigran as Sad Sack&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1946-09-04<br>9:00 PM EDT</td>\n<td><strong>P. Lorillard Co.</strong><br>Old Gold Cigarettes</td>\n<td><strong>Herb Vigran (Sad Sack)</strong></td>\n<td><strong>Jim Backus &amp; Baker</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Sad Sack&quot;, &quot;Herb Vigran&quot;, &quot;Old Gold&quot;]</code></td>\n<td>A newly discharged GI bumbles through catastrophic employment interviews across the city in search of his first peacetime civilian job.</td>\n</tr>\n<tr>\n<td><code>GinnySimms_1945_VJDay.mp3</code> <br><em>Alt</em>: <code>Episode Ginny Simms Show</code></td>\n<td><strong>&quot;VJ Day Return with Ginny Simms and Philip Morris&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1945-09-04<br>8:00 PM EWT</td>\n<td><strong>Philip Morris &amp; Co.</strong><br>Philip Morris Cigarettes</td>\n<td><strong>Ginny Simms (Host)</strong></td>\n<td><strong>Cookie Fairchild &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Variety&quot;, &quot;Ginny Simms Show&quot;, &quot;Ginny Simms&quot;, &quot;Philip Morris&quot;]</code></td>\n<td>Ginny Simms performs upbeat swing melodies, reuniting returning military servicemen on air with their loved ones.</td>\n</tr>\n<tr>\n<td><code>HigginsSir_1951_Amnesia.mp3</code> <br><em>Alt</em>: <code>Sir Higgins Gets Amnesia It&#39;s Higgins, Sir</code></td>\n<td><strong>&quot;Sir Higgins Gets Amnesia with Harry McNaughton&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1951-09-04<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>British Butler Sitcom</td>\n<td><strong>Harry McNaughton</strong></td>\n<td><strong>Peggy Allenby &amp; Irving</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;It&#39;s Higgins Sir&quot;, &quot;Harry McNaughton&quot;, &quot;NBC&quot;]</code></td>\n<td>An English butler suffers temporary memory loss after a bump on the head, causing confusion when he assumes he is the lord of the manor.</td>\n</tr>\n<tr>\n<td><code>Fuller_1949_Passover.mp3</code> <br><em>Alt</em>: <code>Christ Our Passover Charles E Fuller</code></td>\n<td><strong>&quot;Christ Our Passover with Charles E. Fuller&quot;</strong></td>\n<td><strong>ABC / Mutual</strong><br>1949-09-04<br>8:00 AM EDT</td>\n<td><strong>Gospel Broadcasting</strong><br>Evangelistic Ministry</td>\n<td><strong>Dr. Charles E. Fuller</strong></td>\n<td><strong>Grace Fuller &amp; Choir</strong></td>\n<td><code>[&quot;Religion&quot;, &quot;Sermon&quot;, &quot;Charles E Fuller&quot;, &quot;Old Fashioned Revival Hour&quot;, &quot;Choir&quot;]</code></td>\n<td>Dr. Charles E. Fuller delivers an evangelistic sermon from Long Beach Municipal Auditorium on the symbolism of redemption in biblical scripture.</td>\n</tr>\n<tr>\n<td><code>PoliceHQ_1943_Firebugs.mp3</code> <br><em>Alt</em>: <code>Police Headquarters 1943 Episode</code></td>\n<td><strong>&quot;The Case of the Warehouse Firebugs with Frank Luther&quot;</strong></td>\n<td><strong>Syndication / WOR</strong><br>1943-09-04</td>\n<td><strong>Sustaining</strong><br>Police Procedural</td>\n<td><strong>Dramatic Police Cast</strong></td>\n<td><strong>Syndicated Audio Staff</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Procedural&quot;, &quot;Police Headquarters&quot;, &quot;Frank Luther&quot;, &quot;WOR&quot;]</code></td>\n<td>Police detectives trace a streak of industrial arson blazes to an organized insurance fraud syndicate operating near the riverfront.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 114 / 471 (293 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 732 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Candy Matson YUkon 2-8209",
+        "Natalie Masters",
+        "Monty Masters",
+        "NBC Pacific",
+        "The Sad Sack",
+        "Herb Vigran",
+        "George Baker",
+        "Old Gold Cigarettes",
+        "The Ginny Simms Show",
+        "Ginny Simms",
+        "Philip Morris",
+        "It's Higgins Sir",
+        "Harry McNaughton",
+        "Charles E Fuller",
+        "Old Fashioned Revival Hour",
+        "Police Headquarters",
+        "Frank Luther",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-731-perry-como-michael-shayne-squad-cars-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-731-perry-como-michael-shayne-squad-cars-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Perry Como, Michael Shayne & Squad Cars",
