@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-708-crime-doctor-wyllis-cooper-peter-lorre-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-708-crime-doctor-wyllis-cooper-peter-lorre-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Crime Doctor, Wyllis Cooper & Peter Lorre",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 708)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across psychiatric criminological investigations with John McIntire for Philip Morris, haunting supernatural Dunkirk battlefield drama from Wyllis Cooper on <em>Quiet, Please</em>, Peter Lorre hosting <em>The Whistler</em> on <em>Mystery Playhouse</em> for AFRS, lethal parcel bomb mysteries, and prestigious full-length British theatrical productions on the BBC Home Service, John McIntire in <em>Crime Doctor</em> (1944), Ernest Chappell (1947), Peter Lorre (1945), Brett Halliday (1951), and <em>Saturday Night Theatre</em> (1944–1955):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 708)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>CrimeDoctor_1944_AmbitiousChemist.mp3</code> <br><em>Alt</em>: <code>Crime Doctor 1944 Episode</code></td>\n<td><strong>&quot;The Case of the Ambitious Chemist with John McIntire&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-03<br>8:30 PM EWT</td>\n<td><strong>Philip Morris &amp; Co.</strong><br>Philip Morris Cigarettes</td>\n<td><strong>John McIntire (Ordway)</strong></td>\n<td><strong>Max Marcin (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Psychological&quot;, &quot;Crime Doctor&quot;, &quot;John McIntire&quot;, &quot;Philip Morris&quot;]</code></td>\n<td>Dr. Benjamin Ordway investigates a suspicious laboratory explosion involving an industrial chemist who patented a lucrative synthetic resin formula.</td>\n</tr>\n<tr>\n<td><code>QuietPlease_1947_Dunkerque.mp3</code> <br><em>Alt</em>: <code>Retreat at Dunkerque Quiet Please</code></td>\n<td><strong>&quot;Retreat at Dunkerque with Ernest Chappell and Wyllis Cooper&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1947-09-03<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Radio Drama</td>\n<td><strong>Ernest Chappell (Narr.)</strong></td>\n<td><strong>Wyllis Cooper (Dir.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Supernatural&quot;, &quot;Quiet Please&quot;, &quot;Ernest Chappell&quot;, &quot;Wyllis Cooper&quot;]</code></td>\n<td>A British soldier separated from his unit during the Dunkirk evacuation encounters an enigmatic companion guiding wounded troops through coastal fog.</td>\n</tr>\n<tr>\n<td><code>MysteryPlayhouse_1945_Whistler.mp3</code> <br><em>Alt</em>: <code>Whistler Ambition Perilous Mystery Playhouse</code></td>\n<td><strong>&quot;The Whistler (Ambition, Perilous) with Peter Lorre and AFRS&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1945-09-03</td>\n<td><strong>Armed Forces Radio</strong><br>Mystery Anthology</td>\n<td><strong>Peter Lorre (Host)</strong></td>\n<td><strong>Bill Forman (Whistler)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Psychological&quot;, &quot;Mystery Playhouse&quot;, &quot;Peter Lorre&quot;, &quot;The Whistler&quot;]</code></td>\n<td>An ambitious junior law partner conspires to frame his senior mentor for embezzlement, only to walk into his own intricately planned legal trap.</td>\n</tr>\n<tr>\n<td><code>MurderExperts_1951_ReturnSender.mp3</code> <br><em>Alt</em>: <code>Return to the Sender Murder By Experts</code></td>\n<td><strong>&quot;Return to the Sender with Brett Halliday&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-03<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Mystery Showcase</td>\n<td><strong>Brett Halliday (Host)</strong></td>\n<td><strong>Mutual Mystery Cast</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Anthology&quot;, &quot;Murder By Experts&quot;, &quot;Brett Halliday&quot;, &quot;Mutual&quot;]</code></td>\n<td>A vengeful blackmailer receives an undelivered parcel bomb returned by the post office with fatal consequences.</td>\n</tr>\n<tr>\n<td><code>SatNight_1949_FoolishGentlewoman.mp3</code> <br><em>Alt</em>: <code>The Foolish Gentlewoman Saturday Night Theatre</code></td>\n<td><strong>&quot;The Foolish Gentlewoman by Margery Sharp with BBC&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1949-09-03<br>9:15 PM BST</td>\n<td><strong>Sustaining</strong><br>British Radio Drama</td>\n<td><strong>BBC Drama Repertory</strong></td>\n<td><strong>Margery Sharp (Author)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Saturday Night Theatre&quot;, &quot;BBC Home Service&quot;, &quot;Margery Sharp&quot;]</code></td>\n<td>An elderly aristocratic widow attempts to atone for a decades-old romantic betrayal by offering her entire country estate to an impoverished cousin.</td>\n</tr>\n<tr>\n<td><code>SatNight_1955_TheYard.mp3</code> <br><em>Alt</em>: <code>The Yard Saturday Night Theatre</code></td>\n<td><strong>&quot;The Yard by Jack Pulman with BBC Home Service&quot;</strong></td>\n<td><strong>BBC Home Service</strong><br>1955-09-03<br>9:15 PM BST</td>\n<td><strong>Sustaining</strong><br>British Radio Drama</td>\n<td><strong>BBC Drama Repertory</strong></td>\n<td><strong>Jack Pulman (Author)</strong></td>\n<td><code>[&quot;Crime&quot;, &quot;Drama&quot;, &quot;Saturday Night Theatre&quot;, &quot;BBC Home Service&quot;, &quot;Jack Pulman&quot;]</code></td>\n<td>Scotland Yard detectives conduct an intensive forensic investigation when a dockland watchman is found murdered near a Thames shipping wharf.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 439 / 469 (30 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 708 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Crime Doctor",
+        "John McIntire",
+        "Max Marcin",
+        "Philip Morris Cigarettes",
+        "Quiet Please",
+        "Ernest Chappell",
+        "Wyllis Cooper",
+        "Mystery Playhouse",
+        "Peter Lorre",
+        "The Whistler",
+        "Bill Forman",
+        "AFRS",
+        "Murder by Experts",
+        "Brett Halliday",
+        "Saturday Night Theatre",
+        "BBC Home Service",
+        "Margery Sharp",
+        "Jack Pulman",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-707-sherlock-holmes-burns-allen-golden-gate-quartet-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-707-sherlock-holmes-burns-allen-golden-gate-quartet-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Sherlock Holmes, Burns & Allen & Golden Gate Quartet",
