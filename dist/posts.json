@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-482-cabin-b-13-fdr-hyde-park-challenge-of-space-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-482-cabin-b-13-fdr-hyde-park-challenge-of-space-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Cabin B-13, FDR at Hyde Park, and Challenge of Space",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 482)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across maritime locked-room suspense, presidential neighborhood addresses, space program educational audio, medical daytime serials, and early newspaper dramatizations, Arnold Moss in John Dickson Carr&#39;s <em>Cabin B-13</em> on CBS (1948), President Franklin D. Roosevelt addressing the Hyde Park Home Club (1940), NASA&#39;s <em>Challenge of Space</em> (1970), Ann Shepherd in <em>Hello, Joyce</em> (1951), and Hearst&#39;s <em>Front Page Drama</em> (1933, 1934):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 482)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Space_1970_Factor.mp3</code> <br><em>Alt</em>: <code>The Neglected Factor Space</code></td>\n<td><strong>&quot;The Neglected Factor with NASA Audio Records&quot;</strong></td>\n<td><strong>NASA Syndication</strong><br>1970-08-31</td>\n<td><strong>Sustaining</strong><br>NASA Space Science</td>\n<td><strong>NASA Audio Records</strong></td>\n<td><strong>NASA Science Team</strong></td>\n<td><code>[&quot;Science&quot;, &quot;Space&quot;, &quot;Documentary&quot;, &quot;NASA&quot;, &quot;Educational&quot;]</code></td>\n<td>Aerospace engineers and mission controllers analyze unexpected atmospheric resistance calculations in orbital flight trajectories.</td>\n</tr>\n<tr>\n<td><code>Joyce_1951_Consult.mp3</code> <br><em>Alt</em>: <code>Womens Talk Show Joyce</code></td>\n<td><strong>&quot;Joyce Jordan&#39;s Medical Consultation with Ann Shepherd&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1951-08-31<br>10:45 AM EDT</td>\n<td><strong>Sustaining</strong><br>Medical Soap Drama</td>\n<td><strong>Ann Shepherd</strong> (Dr. Jordan)</td>\n<td><strong>Hiram Brown (Producer)</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Medical&quot;, &quot;Drama&quot;, &quot;Joyce Jordan&quot;, &quot;ABC&quot;]</code></td>\n<td>Dr. Joyce Jordan counsels a young suburban mother facing a critical surgical decision while balancing private hospital duties.</td>\n</tr>\n<tr>\n<td><code>FDR_1940_HydePark.mp3</code> <br><em>Alt</em>: <code>Informal Remarks Roosevelt Club</code></td>\n<td><strong>&quot;Informal Remarks to the Roosevelt Home Club in Hyde Park&quot;</strong></td>\n<td><strong>NBC &amp; CBS Networks</strong><br>1940-08-31<br>3:30 PM EDST</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>Franklin D. Roosevelt</strong></td>\n<td><strong>White House Staff</strong></td>\n<td><code>[&quot;History&quot;, &quot;Speech&quot;, &quot;Politics&quot;, &quot;FDR&quot;, &quot;Hyde Park&quot;]</code></td>\n<td>President Roosevelt delivers informal remarks to Hyde Park neighbors discussing community unity and national defense readiness.</td>\n</tr>\n<tr>\n<td><code>Cabin_B13_1948_Darkness.mp3</code> <br><em>Alt</em>: <code>The Power Of Darkness Cabin</code></td>\n<td><strong>&quot;The Power of Darkness with Arnold Moss and John Dickson Carr&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1948-08-31<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Locked Room Mystery</td>\n<td><strong>Arnold Moss</strong> (Dr. Fabian)</td>\n<td><strong>John Dickson Carr (Author)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Suspense&quot;, &quot;John Dickson Carr&quot;, &quot;Cabin B-13&quot;, &quot;CBS&quot;]</code></td>\n<td>Ship surgeon Dr. Fabian recounts how an obsessive archaeologist was driven to terror by an ominous Egyptian talisman inside a darkened stateroom.</td>\n</tr>\n<tr>\n<td><code>Front_Page_1933_Ep19.mp3</code> <br><em>Alt</em>: <code>Front Page Drama Episode 19</code></td>\n<td><strong>&quot;The Diamond Heiress (Episode 19)&quot;</strong></td>\n<td><strong>Hearst Syndication</strong><br>1933-08-31</td>\n<td><strong>Hearst Newspapers</strong><br>The American Weekly</td>\n<td><strong>Dramatic Voice Ensemble</strong></td>\n<td><strong>Hearst Radio Prod.</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Journalism&quot;, &quot;Crime&quot;, &quot;Front Page Drama&quot;, &quot;Hearst&quot;]</code></td>\n<td>A newspaper investigative reporter unmasks a charming European count swindling a wealthy mining heiress out of her family jewels.</td>\n</tr>\n<tr>\n<td><code>Front_Page_1934_Finale.mp3</code> <br><em>Alt</em>: <code>Grand Finale Front Page Drama</code></td>\n<td><strong>&quot;Grand Finale with The American Weekly&quot;</strong></td>\n<td><strong>Hearst Syndication</strong><br>1934-08-31</td>\n<td><strong>Hearst Newspapers</strong><br>The American Weekly</td>\n<td><strong>Dramatic Voice Ensemble</strong></td>\n<td><strong>Hearst Radio Prod.</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Journalism&quot;, &quot;Crime&quot;, &quot;Front Page Drama&quot;, &quot;Hearst&quot;]</code></td>\n<td>An ambitious prima donna plots revenge on a theatrical impresario who replaced her with an understudy on opening night.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 192 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 482 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Cabin B-13",
+        "John Dickson Carr",
+        "Arnold Moss",
+        "CBS",
+        "FDR",
+        "Franklin D Roosevelt",
+        "Hyde Park",
+        "Challenge of Space",
+        "NASA",
+        "Hello Joyce",
+        "Joyce Jordan",
+        "Front Page Drama",
+        "Hearst",
+        "American Weekly",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-481-edward-r-murrow-mr-and-mrs-north-norman-corwin-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-481-edward-r-murrow-mr-and-mrs-north-norman-corwin-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — Edward R. Murrow, Mr. & Mrs. North, and Norman Corwin",
