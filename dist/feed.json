@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-726-just-a-minute-young-widder-brown-john-steele-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-726-just-a-minute-young-widder-brown-john-steele-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Just a Minute, Young Widder Brown & John Steele",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 726)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across two generations of BBC Radio 4&#39;s rapid-fire panel game <em>Just a Minute</em> hosted by Nicholas Parsons (1982 with Kenneth Williams and 2000 with Paul Merton), daytime drama serial storylines on <em>Hearts in Harmony</em> for Kroger and <em>Young Widder Brown</em> for Bayer Aspirin, and Cold War international espionage with Ted Jewett on <em>John Steele, Adventurer</em>, Nicholas Parsons (1982, 2000), Jone Allison (1946, 1947), Florence Freeman (1950), and Ted Jewett (1946–2000):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 726)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>JustAMinute_1982_BeingNosey.mp3</code> <br><em>Alt</em>: <code>Being Nosey Just a Minute</code></td>\n<td><strong>&quot;Being Nosey with Nicholas Parsons and Kenneth Williams&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1982-09-04<br>1:10 PM BST</td>\n<td><strong>Sustaining</strong><br>British Panel Game</td>\n<td><strong>Nicholas Parsons (Chair)</strong></td>\n<td><strong>Williams &amp; Freud</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Panel Game&quot;, &quot;Just A Minute&quot;, &quot;Nicholas Parsons&quot;, &quot;Kenneth Williams&quot;]</code></td>\n<td><code>null</code></td>\n<td>Panelists attempt to speak for sixty seconds without hesitation, repetition, or deviation on topics starting with Being Nosey.</td>\n</tr>\n<tr>\n<td><code>JustAMinute_2000_WhizKids.mp3</code> <br><em>Alt</em>: <code>Whiz Kids Just a Minute</code></td>\n<td><strong>&quot;Whiz Kids with Nicholas Parsons and Paul Merton&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>2000-09-04<br>6:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Panel Game</td>\n<td><strong>Nicholas Parsons (Chair)</strong></td>\n<td><strong>Paul Merton &amp; Norton</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Panel Game&quot;, &quot;Just A Minute&quot;, &quot;Nicholas Parsons&quot;, &quot;Paul Merton&quot;]</code></td>\n<td><code>null</code></td>\n<td>Contestants challenge one another&#39;s linguistic precision and comedic improvisation on the subject of Whiz Kids.</td>\n</tr>\n<tr>\n<td><code>HeartsHarmony_1946_GoingNY.mp3</code> <br><em>Alt</em>: <code>Going To New York Hearts in Harmony</code></td>\n<td><strong>&quot;Going to New York with Jone Allison as Penny&quot;</strong></td>\n<td><strong>Syndication / Kroger</strong><br>1946-09-04</td>\n<td><strong>Kroger Grocery Co.</strong><br>Kroger Clock Bread</td>\n<td><strong>Jone Allison (Penny)</strong></td>\n<td><strong>Syndicated Drama Cast</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Hearts in Harmony&quot;, &quot;Jone Allison&quot;, &quot;Kroger&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Penny&#39;s Musical Dream&quot;, &quot;part&quot;: 35, &quot;total_parts&quot;: 65}</code></td>\n<td>Penny Rossford prepares to travel to New York to audition for a prestigious Manhattan vocal academy despite family misgivings.</td>\n</tr>\n<tr>\n<td><code>HeartsHarmony_1947_LawyerCarter.mp3</code> <br><em>Alt</em>: <code>Lawyer Frank Carter Fashions a Plan Hearts in Harmony</code></td>\n<td><strong>&quot;Lawyer Frank Carter Fashions a Plan with Kroger&quot;</strong></td>\n<td><strong>Syndication / Kroger</strong><br>1947-09-04</td>\n<td><strong>Kroger Grocery Co.</strong><br>Kroger Tenderay Beef</td>\n<td><strong>Jone Allison (Penny)</strong></td>\n<td><strong>Syndicated Drama Cast</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Hearts in Harmony&quot;, &quot;Jone Allison&quot;, &quot;Kroger&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Rossford Conservatorship&quot;, &quot;part&quot;: 48, &quot;total_parts&quot;: 70}</code></td>\n<td>Attorney Frank Carter devises a legal strategy to protect the Rossford family property from an unscrupulous local land speculator.</td>\n</tr>\n<tr>\n<td><code>WidderBrown_1950_CountryClub.mp3</code> <br><em>Alt</em>: <code>Ellen Meets Norine at the Country Club Young Widder Brown</code></td>\n<td><strong>&quot;Ellen Meets Norine at the Country Club with Bayer Aspirin&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1950-09-04<br>4:45 PM EDT</td>\n<td><strong>Sterling Drug, Inc.</strong><br>Bayer Aspirin</td>\n<td><strong>Florence Freeman (Ellen)</strong></td>\n<td><strong>Wendy Drew &amp; Scourby</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Young Widder Brown&quot;, &quot;Florence Freeman&quot;, &quot;Bayer Aspirin&quot;]</code></td>\n<td><code>null</code></td>\n<td>Ellen Brown confronts social rival Norine at the country club tea, unmasking her scheme to turn Dr. Anthony Loring against the tea room.</td>\n</tr>\n<tr>\n<td><code>JohnSteele_1951_BerlinMicrofilm.mp3</code> <br><em>Alt</em>: <code>John Steele Adventurer 1951 Episode</code></td>\n<td><strong>&quot;The Smuggled Microfilm of Berlin with Ted Jewett&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1951-09-04<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Espionage Drama</td>\n<td><strong>Ted Jewett (John Steele)</strong></td>\n<td><strong>Robert A. Arthur (Writer)</strong></td>\n<td><code>[&quot;Spy&quot;, &quot;Adventure&quot;, &quot;John Steele Adventurer&quot;, &quot;Ted Jewett&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>null</code></td>\n<td>Globe-trotting intelligence agent John Steele slips across the divided sectors of occupied Berlin to extract a courier carrying hidden espionage microfilm.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 78 / 471 (329 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 726 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Just a Minute",
+        "Nicholas Parsons",
+        "Kenneth Williams",
+        "Clement Freud",
+        "Paul Merton",
+        "BBC Radio 4",
+        "Hearts in Harmony",
+        "Jone Allison",
+        "Kroger Grocery",
+        "Serial Story Arc",
+        "Penny's Musical Dream",
+        "The Rossford Conservatorship",
+        "Young Widder Brown",
+        "Florence Freeman",
+        "Bayer Aspirin",
+        "Sterling Drug",
+        "John Steele Adventurer",
+        "Ted Jewett",
+        "Mutual",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-725-steptoe-and-son-joseph-cotten-paul-lukas-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-725-steptoe-and-son-joseph-cotten-paul-lukas-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Steptoe and Son, Joseph Cotten & Paul Lukas",
