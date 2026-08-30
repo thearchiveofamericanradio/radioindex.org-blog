@@ -1,0 +1,33 @@
+# Archival Dispatch: August 31 Calendar Walk — Harry Nile, Sherlock Holmes, and Fitch Bandwagon
+
+**Date**: 2026-08-31  
+**Author**: radio index  
+**Tags**: August 31, Calendar Walk, Imagination Theatre, Harry Nile, Jim French, Phil Harper, Larry Albert, Sherlock Holmes, John Patrick Lowrie, Charles Augustus Milverton, Saturday Night Theatre, Operation Pedestal, Peter Lovesey, Sergeant Cribb, Fitch Bandwagon, Will Bradley, Ray McKinley, Alternate Titles, Original Filenames
+
+---
+
+## August 31 Archival Metadata Enrichment (Increment 509)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across Seattle private eye mysteries, Sherlock Holmes canonical masterworks, wartime Mediterranean convoy docudramas, Victorian Scotland Yard procedurals, and boogie-woogie big band jazz, Jim French's *Imagination Theatre* featuring *Harry Nile* and *The Classic Adventures of Sherlock Holmes* (1997, 2003, 2008), BBC's *Saturday Night Theatre* (1974, 1985), and *The Fitch Bandwagon* with Will Bradley and Ray McKinley (1941–2008):
+
+---
+
+## 1. *August 31 Archival Inventory (Increment 509)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `SNT_1974_Pedestal.mp3` <br>*Alt*: `Operation Pedestal SNT` | **"Operation Pedestal with BBC Radio Drama"** | **BBC Radio 4**<br>1974-08-31<br>8:30 PM BST | **Sustaining**<br>Naval War Docudrama | **Martin Jarvis**, **Stock** | **Gordon Gow (Writer)** | `["Drama", "WWII", "Naval", "Saturday Night Theatre", "BBC"]` | A Royal Navy convoy endures ferocious Mediterranean aerial and submarine assaults to deliver vital fuel supplies to besieged Malta in 1942. |
+| `SNT_1985_CaseSpirits.mp3` <br>*Alt*: `A Case of Spirits SNT` | **"Peter Lovesey's A Case of Spirits with BBC Radio Drama"** | **BBC Radio 4**<br>1985-08-31<br>8:30 PM BST | **Sustaining**<br>Victorian Crime Drama | **Barry Foster**, **King** | **Peter Lovesey (Author)** | `["Detective", "Victorian", "Mystery", "Saturday Night Theatre", "BBC"]` | Victorian Scotland Yard detective Sergeant Cribb investigates a fatal séance poisoning in a London spiritualist salon. |
+| `Nile_1997_WanderingWife.mp3` <br>*Alt*: `HN - The Wandering Wife Matter` | **"Harry Nile — The Wandering Wife Matter / Crisis — Night Rider"** | **Jim French Prod.**<br>1997-08-31 | **Sustaining**<br>Audio Mystery | **Phil Harper**, **French** | **Jim French (Creator/Dir)** | `["Detective", "Mystery", "Hardboiled", "Harry Nile", "Jim French"]` | Seattle private eye Harry Nile is hired to locate a missing socialite, uncovering an intricate blackmail scheme and midnight hit-and-run. |
+| `Nile_2003_Ballerina.mp3` <br>*Alt*: `HN - TCOT Baffled Ballerina` | **"Harry Nile — The Baffled Ballerina / Incident at Crofton Wells"** | **Jim French Prod.**<br>2003-08-31 | **Sustaining**<br>Audio Mystery | **Larry Albert**, **French** | **Jim French (Creator/Dir)** | `["Detective", "Mystery", "Hardboiled", "Harry Nile", "Jim French"]` | Harry Nile protects a prima ballerina whose life is threatened by an anonymous stalker sabotaging stage props. |
+| `Holmes_2008_Milverton.mp3` <br>*Alt*: `CASH- Charles Augustus Milverton` | **"The Classic Adventures of Sherlock Holmes — Charles Augustus Milverton"** | **Jim French Prod.**<br>2008-08-31 | **Sustaining**<br>Sherlock Holmes Audio | **John Patrick Lowrie**, **Albert** | **M.J. Elliott (Adapter)** | `["Detective", "Mystery", "Sherlock Holmes", "Jim French", "Conan Doyle"]` | Sherlock Holmes and Dr. Watson burgle the country estate of a ruthless master blackmailer to recover compromising society letters. |
+| `Bandwagon_1941_Bradley.mp3` <br>*Alt*: `Fitch Bandwagon 1941 Episode` | **"Guest Will Bradley and His Orchestra with Ray Noble and Tobe Reed"** | **NBC Red (WEAF)**<br>1941-08-31<br>7:30 PM EDST | **F.W. Fitch Company**<br>Fitch Shampoo | **Will Bradley**, **McKinley** | **Tobe Reed (Emcee)** | `["Music", "Big Band", "Boogie Woogie", "Fitch Bandwagon", "Fitch"]` | Will Bradley and Ray McKinley lead explosive boogie-woogie arrangements of Beat Me Daddy Eight to the Bar and Down the Road Apiece. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 354 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`

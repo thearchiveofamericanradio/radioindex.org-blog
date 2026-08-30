@@ -6,6 +6,40 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-08-31-walk-509-harry-nile-sherlock-holmes-fitch-bandwagon-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-08-31-walk-509-harry-nile-sherlock-holmes-fitch-bandwagon-enriched",
+      "title": "Archival Dispatch: August 31 Calendar Walk — Harry Nile, Sherlock Holmes, and Fitch Bandwagon",
+      "content_html": "<h2>August 31 Archival Metadata Enrichment (Increment 509)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>August 31</strong> across Seattle private eye mysteries, Sherlock Holmes canonical masterworks, wartime Mediterranean convoy docudramas, Victorian Scotland Yard procedurals, and boogie-woogie big band jazz, Jim French&#39;s <em>Imagination Theatre</em> featuring <em>Harry Nile</em> and <em>The Classic Adventures of Sherlock Holmes</em> (1997, 2003, 2008), BBC&#39;s <em>Saturday Night Theatre</em> (1974, 1985), and <em>The Fitch Bandwagon</em> with Will Bradley and Ray McKinley (1941–2008):</p>\n<hr>\n<h2>1. <em>August 31 Archival Inventory (Increment 509)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SNT_1974_Pedestal.mp3</code> <br><em>Alt</em>: <code>Operation Pedestal SNT</code></td>\n<td><strong>&quot;Operation Pedestal with BBC Radio Drama&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1974-08-31<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>Naval War Docudrama</td>\n<td><strong>Martin Jarvis</strong>, <strong>Stock</strong></td>\n<td><strong>Gordon Gow (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;WWII&quot;, &quot;Naval&quot;, &quot;Saturday Night Theatre&quot;, &quot;BBC&quot;]</code></td>\n<td>A Royal Navy convoy endures ferocious Mediterranean aerial and submarine assaults to deliver vital fuel supplies to besieged Malta in 1942.</td>\n</tr>\n<tr>\n<td><code>SNT_1985_CaseSpirits.mp3</code> <br><em>Alt</em>: <code>A Case of Spirits SNT</code></td>\n<td><strong>&quot;Peter Lovesey&#39;s A Case of Spirits with BBC Radio Drama&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1985-08-31<br>8:30 PM BST</td>\n<td><strong>Sustaining</strong><br>Victorian Crime Drama</td>\n<td><strong>Barry Foster</strong>, <strong>King</strong></td>\n<td><strong>Peter Lovesey (Author)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Victorian&quot;, &quot;Mystery&quot;, &quot;Saturday Night Theatre&quot;, &quot;BBC&quot;]</code></td>\n<td>Victorian Scotland Yard detective Sergeant Cribb investigates a fatal séance poisoning in a London spiritualist salon.</td>\n</tr>\n<tr>\n<td><code>Nile_1997_WanderingWife.mp3</code> <br><em>Alt</em>: <code>HN - The Wandering Wife Matter</code></td>\n<td><strong>&quot;Harry Nile — The Wandering Wife Matter / Crisis — Night Rider&quot;</strong></td>\n<td><strong>Jim French Prod.</strong><br>1997-08-31</td>\n<td><strong>Sustaining</strong><br>Audio Mystery</td>\n<td><strong>Phil Harper</strong>, <strong>French</strong></td>\n<td><strong>Jim French (Creator/Dir)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Harry Nile&quot;, &quot;Jim French&quot;]</code></td>\n<td>Seattle private eye Harry Nile is hired to locate a missing socialite, uncovering an intricate blackmail scheme and midnight hit-and-run.</td>\n</tr>\n<tr>\n<td><code>Nile_2003_Ballerina.mp3</code> <br><em>Alt</em>: <code>HN - TCOT Baffled Ballerina</code></td>\n<td><strong>&quot;Harry Nile — The Baffled Ballerina / Incident at Crofton Wells&quot;</strong></td>\n<td><strong>Jim French Prod.</strong><br>2003-08-31</td>\n<td><strong>Sustaining</strong><br>Audio Mystery</td>\n<td><strong>Larry Albert</strong>, <strong>French</strong></td>\n<td><strong>Jim French (Creator/Dir)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Hardboiled&quot;, &quot;Harry Nile&quot;, &quot;Jim French&quot;]</code></td>\n<td>Harry Nile protects a prima ballerina whose life is threatened by an anonymous stalker sabotaging stage props.</td>\n</tr>\n<tr>\n<td><code>Holmes_2008_Milverton.mp3</code> <br><em>Alt</em>: <code>CASH- Charles Augustus Milverton</code></td>\n<td><strong>&quot;The Classic Adventures of Sherlock Holmes — Charles Augustus Milverton&quot;</strong></td>\n<td><strong>Jim French Prod.</strong><br>2008-08-31</td>\n<td><strong>Sustaining</strong><br>Sherlock Holmes Audio</td>\n<td><strong>John Patrick Lowrie</strong>, <strong>Albert</strong></td>\n<td><strong>M.J. Elliott (Adapter)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Sherlock Holmes&quot;, &quot;Jim French&quot;, &quot;Conan Doyle&quot;]</code></td>\n<td>Sherlock Holmes and Dr. Watson burgle the country estate of a ruthless master blackmailer to recover compromising society letters.</td>\n</tr>\n<tr>\n<td><code>Bandwagon_1941_Bradley.mp3</code> <br><em>Alt</em>: <code>Fitch Bandwagon 1941 Episode</code></td>\n<td><strong>&quot;Guest Will Bradley and His Orchestra with Ray Noble and Tobe Reed&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1941-08-31<br>7:30 PM EDST</td>\n<td><strong>F.W. Fitch Company</strong><br>Fitch Shampoo</td>\n<td><strong>Will Bradley</strong>, <strong>McKinley</strong></td>\n<td><strong>Tobe Reed (Emcee)</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Boogie Woogie&quot;, &quot;Fitch Bandwagon&quot;, &quot;Fitch&quot;]</code></td>\n<td>Will Bradley and Ray McKinley lead explosive boogie-woogie arrangements of Beat Me Daddy Eight to the Bar and Down the Road Apiece.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: August 31</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on August 31</strong>: 354 / 376</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "August 31 Archival Metadata Enrichment Increment 509 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production perso...",
+      "date_published": "2026-08-31T00:00:00.000Z",
+      "tags": [
+        "August 31",
+        "Calendar Walk",
+        "Imagination Theatre",
+        "Harry Nile",
+        "Jim French",
+        "Phil Harper",
+        "Larry Albert",
+        "Sherlock Holmes",
+        "John Patrick Lowrie",
+        "Charles Augustus Milverton",
+        "Saturday Night Theatre",
+        "Operation Pedestal",
+        "Peter Lovesey",
+        "Sergeant Cribb",
+        "Fitch Bandwagon",
+        "Will Bradley",
+        "Ray McKinley",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-08-31-walk-508-bbc-saturday-night-theatre-quiet-please-enriched",
       "url": "https://blog.radioindex.org/posts/2026-08-31-walk-508-bbc-saturday-night-theatre-quiet-please-enriched",
       "title": "Archival Dispatch: August 31 Calendar Walk — BBC Saturday Night Theatre & Quiet Please",
