@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-714-sherlock-holmes-sea-hound-don-defore-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-714-sherlock-holmes-sea-hound-don-defore-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Sherlock Holmes, The Sea Hound & Don DeFore",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 714)</h2>\n<p>This inaugural archival dispatch for <strong>September 4</strong> documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses across three classic Sherlock Holmes investigations (Basil Rathbone on Mutual for Petri Wine alongside Carleton Hobbs and Norman Shelley on the BBC Light Programme), high-seas juvenile radio serial cliffhangers penned by Fran Striker on <em>The Sea Hound</em>, and romantic Hollywood radio previews with Don DeFore, Basil Rathbone (1944), Carleton Hobbs (1962, 1964), <em>The Sea Hound</em> (1944, 1946), and Don DeFore (1944–1964):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 714)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>SherlockHolmes_1944_Demetrius.mp3</code> <br><em>Alt</em>: <code>Demetrius, The Divine Sherlock Holmes</code></td>\n<td><strong>&quot;Demetrius, the Divine with Basil Rathbone as Sherlock Holmes&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-09-04<br>8:30 PM EWT</td>\n<td><strong>Petri Wine Company</strong><br>Petri Wine</td>\n<td><strong>Basil Rathbone (Holmes)</strong></td>\n<td><strong>Nigel Bruce &amp; Boucher</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Sherlock Holmes&quot;, &quot;Basil Rathbone&quot;, &quot;Petri Wine&quot;]</code></td>\n<td><code>null</code></td>\n<td>Sherlock Holmes and Dr. Watson investigate a fraudulent spiritualist charlatan who tricks wealthy London widows out of their inheritances.</td>\n</tr>\n<tr>\n<td><code>SherlockHolmes_1962_MazarinStone.mp3</code> <br><em>Alt</em>: <code>The Mazarin Stone Sherlock Holmes</code></td>\n<td><strong>&quot;The Adventure of the Mazarin Stone with Carleton Hobbs&quot;</strong></td>\n<td><strong>BBC Light Programme</strong><br>1962-09-04</td>\n<td><strong>Sustaining</strong><br>British Radio Drama</td>\n<td><strong>Carleton Hobbs (Holmes)</strong></td>\n<td><strong>Norman Shelley &amp; Hardwick</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Sherlock Holmes&quot;, &quot;Carleton Hobbs&quot;, &quot;BBC Light Programme&quot;]</code></td>\n<td><code>null</code></td>\n<td>Sherlock Holmes places a wax dummy in his Baker Street window to outsmart a jewel thief attempting to fence the Crown&#39;s stolen hundred-thousand-pound yellow diamond.</td>\n</tr>\n<tr>\n<td><code>SherlockHolmes_1964_ThreeGarridebs.mp3</code> <br><em>Alt</em>: <code>The Three Garridebs Sherlock Holmes</code></td>\n<td><strong>&quot;The Adventure of the Three Garridebs with Carleton Hobbs&quot;</strong></td>\n<td><strong>BBC Light Programme</strong><br>1964-09-04</td>\n<td><strong>Sustaining</strong><br>British Radio Drama</td>\n<td><strong>Carleton Hobbs (Holmes)</strong></td>\n<td><strong>Norman Shelley &amp; Hardwick</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Sherlock Holmes&quot;, &quot;Carleton Hobbs&quot;, &quot;BBC Light Programme&quot;]</code></td>\n<td><code>null</code></td>\n<td>Holmes unmasks an American counterfeiter fabricating an elaborate inheritance quest to gain access to an elderly collector&#39;s secret cellar printing press.</td>\n</tr>\n<tr>\n<td><code>SeaHound_1944_Minefield.mp3</code> <br><em>Alt</em>: <code>The Sea Hound 1944 Episode</code></td>\n<td><strong>&quot;The Hidden Minefield with Captain Silver&quot;</strong></td>\n<td><strong>Blue Network</strong><br>1944-09-04<br>5:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Maritime Adventure</td>\n<td><strong>Ken Daigneau (Silver)</strong></td>\n<td><strong>Bobby Hastings &amp; Striker</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Maritime&quot;, &quot;The Sea Hound&quot;, &quot;Fran Striker&quot;, &quot;Blue Network&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Secret of the Caribbean&quot;, &quot;part&quot;: 12, &quot;total_parts&quot;: 30}</code></td>\n<td>Captain Silver and his crew navigate their vessel through underwater explosive mines planted along a hidden Caribbean submarine channel.</td>\n</tr>\n<tr>\n<td><code>SeaHound_1946_PirateRaider.mp3</code> <br><em>Alt</em>: <code>Episode The Sea Hound</code></td>\n<td><strong>&quot;Escaping the Pirate Raider with Captain Silver&quot;</strong></td>\n<td><strong>ABC</strong><br>1946-09-04<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Maritime Adventure</td>\n<td><strong>Ken Daigneau (Silver)</strong></td>\n<td><strong>Bobby Hastings &amp; Crew</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Maritime&quot;, &quot;The Sea Hound&quot;, &quot;Ken Daigneau&quot;, &quot;ABC&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;The Coral Reef Smugglers&quot;, &quot;part&quot;: 15, &quot;total_parts&quot;: 26}</code></td>\n<td>Captain Silver executes an evasive seafaring maneuver through a treacherous coral reef to elude an armed smugglers&#39; gunboat.</td>\n</tr>\n<tr>\n<td><code>HollywoodPreview_1945_Marriage.mp3</code> <br><em>Alt</em>: <code>Ground for Marriage Hollywood Preview</code></td>\n<td><strong>&quot;Ground for Marriage with Don DeFore&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1945-09-04<br>8:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Hollywood Preview</td>\n<td><strong>Don DeFore (Host)</strong></td>\n<td><strong>Sterling Tracy (Dir.)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Romance&quot;, &quot;Hollywood Preview&quot;, &quot;Don DeFore&quot;, &quot;CBS&quot;]</code></td>\n<td><code>null</code></td>\n<td>A charming bachelor doctor finds his quiet routine upended when his opera singer ex-wife orchestrates a comedic campaign to win him back.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 6 / 471 (401 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 714 This inaugural archival dispatch for September 4 documents the historical provenance, broadcast scheduling, commercial sponsorship, cre...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Sherlock Holmes",
+        "Basil Rathbone",
+        "Nigel Bruce",
+        "Carleton Hobbs",
+        "Norman Shelley",
+        "Michael Hardwick",
+        "Arthur Conan Doyle",
+        "Petri Wine",
+        "The Sea Hound",
+        "Fran Striker",
+        "Bobby Hastings",
+        "Ken Daigneau",
+        "Serial Story Arc",
+        "Secret of the Caribbean",
+        "The Coral Reef Smugglers",
+        "Hollywood Preview",
+        "Don DeFore",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-713-raffles-monte-cristo-joan-davis-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-713-raffles-monte-cristo-joan-davis-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Final Increment 713! Raffles, Monte Cristo & Joan Davis",
