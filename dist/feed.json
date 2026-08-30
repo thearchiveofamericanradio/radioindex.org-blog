@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-02-walk-629-charles-paris-mysterious-traveler-beulah-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-02-walk-629-charles-paris-mysterious-traveler-beulah-enriched",
+      "title": "Archival Dispatch: September 2 Calendar Walk — Charles Paris, The Mysterious Traveler & Beulah",
+      "content_html": "<h2>September 2 Archival Metadata Enrichment (Increment 629)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on <strong>September 2</strong> across four-part British theatrical murder serials, eerie supernatural train traveler mysteries, domestic radio sit-coms, vintage Western swing commercial music, and disaster relief field dramatizations, Francis Matthews in Simon Brett&#39;s <em>Charles Paris: Cast in Order of Disappearance</em> (1985), Maurice Tarplin as <em>The Mysterious Traveler</em> (1952), Marlin Hurt in <em>The Beulah Show</em> for Tums (1945), The Sons of the Pioneers on <em>10-2-4 Time</em> for Dr. Pepper (1942), <em>Disaster!</em> for Red Cross (1956), and <em>Captains of Industry</em> (1937–1985):</p>\n<hr>\n<h2>1. <em>September 2 Archival Inventory (Increment 629)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Arc Metadata</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Paris_1985_FirstLunch.mp3</code> <br><em>Alt</em>: <code>First Lunch Charles Paris Mysteries</code></td>\n<td><strong>&quot;Cast in Order of Disappearance (Part 1: First Lunch) with Francis Matthews&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1985-09-02<br>7:45 PM BST</td>\n<td><strong>Sustaining</strong><br>British Detective Serial</td>\n<td><strong>Francis Matthews (Paris)</strong></td>\n<td><strong>Angela Browne &amp; Brett</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;British&quot;, &quot;Charles Paris&quot;, &quot;Francis Matthews&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td><code>{&quot;title&quot;: &quot;Cast in Order of Disappearance&quot;, &quot;part&quot;: 1, &quot;total_parts&quot;: 4}</code></td>\n<td>Actor-detective Charles Paris meets an influential theatrical producer for lunch and becomes entangled in the mysterious disappearance of an eccentric West End star.</td>\n</tr>\n<tr>\n<td><code>Traveler_1952_SuperstitionMtn.mp3</code> <br><em>Alt</em>: <code>Treasure Of Superstition Mountain The Mysterious Traveler</code></td>\n<td><strong>&quot;Treasure of Superstition Mountain with Maurice Tarplin&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1952-09-02<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Weird Mystery</td>\n<td><strong>Maurice Tarplin (Host)</strong></td>\n<td><strong>Robert A. Arthur &amp; Kogan</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Horror&quot;, &quot;Mysterious Traveler&quot;, &quot;Maurice Tarplin&quot;, &quot;Mutual&quot;]</code></td>\n<td><code>null</code></td>\n<td>Two greedy gold prospectors brave Apache legends and fatal desert heat to loot the lost Dutchman mine in Arizona.</td>\n</tr>\n<tr>\n<td><code>Beulah_1945_DonniesBicycle.mp3</code> <br><em>Alt</em>: <code>The Beulah Show 1945 Episode</code></td>\n<td><strong>&quot;Donnie&#39;s New Bicycle with Marlin Hurt as Beulah&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1945-09-02<br>7:00 PM EWT</td>\n<td><strong>Lewis-Howe Co.</strong><br>Tums for the Tummy</td>\n<td><strong>Marlin Hurt (Beulah)</strong></td>\n<td><strong>Hugh Studebaker &amp; Croft</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Beulah&quot;, &quot;Marlin Hurt&quot;, &quot;Tums&quot;]</code></td>\n<td><code>null</code></td>\n<td>Beulah helps young Donnie conceal a bent bicycle frame after an unauthorized trial ride down Elm Street.</td>\n</tr>\n<tr>\n<td><code>Pepper_1942_PioneersSwing.mp3</code> <br><em>Alt</em>: <code>10-2-4 Time 1942 Episode</code></td>\n<td><strong>&quot;Dr. Pepper Western Swing with The Sons of the Pioneers&quot;</strong></td>\n<td><strong>Syndication</strong><br>1942-09-02</td>\n<td><strong>Dr Pepper Co.</strong><br>10-2-4 Carbonated Soda</td>\n<td><strong>Sons of the Pioneers</strong></td>\n<td><strong>Bob Nolan &amp; Farr Bros</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Country&quot;, &quot;10-2-4 Time&quot;, &quot;Dr Pepper&quot;, &quot;Sons Of The Pioneers&quot;]</code></td>\n<td><code>null</code></td>\n<td>The Sons of the Pioneers perform western harmony ballads and upbeat fiddle tunes for Dr. Pepper soda drinkers.</td>\n</tr>\n<tr>\n<td><code>Disaster_1956_RebuildingHomes.mp3</code> <br><em>Alt</em>: <code>The Story of The Rebuilding Of Damaged Or Destroyed Homes</code></td>\n<td><strong>&quot;Rebuilding Shattered Homes with American Red Cross&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1956-09-02<br>8:30 PM EDT</td>\n<td><strong>Red Cross</strong><br>National Disaster Relief</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>John Daly (Narrator)</strong></td>\n<td><code>[&quot;Documentary&quot;, &quot;Drama&quot;, &quot;Disaster&quot;, &quot;Red Cross&quot;, &quot;ABC&quot;]</code></td>\n<td><code>null</code></td>\n<td>Dramatic field reports illustrate emergency relief and long-term home reconstruction after severe Midwest tornado strikes.</td>\n</tr>\n<tr>\n<td><code>Captains_1937_Preemption.mp3</code> <br><em>Alt</em>: <code>No Broadcast Captains of Industry</code></td>\n<td><strong>&quot;Labor Day Economic Preemption Notice on NBC Red&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1937-09-02</td>\n<td><strong>Sustaining</strong><br>Network Notice</td>\n<td><strong>Network Announcer</strong></td>\n<td><strong>NBC Program Operations</strong></td>\n<td><code>[&quot;History&quot;, &quot;Industry&quot;, &quot;Captains Of Industry&quot;, &quot;NBC Red&quot;, &quot;Preemption&quot;]</code></td>\n<td><code>null</code></td>\n<td>Network station announcements confirm regular economic biographical programming is preempted for Labor Day holiday special coverage.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 2</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 2</strong>: 386 / 480 (94 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 2 Archival Metadata Enrichment Increment 629 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-02T00:00:00.000Z",
+      "tags": [
+        "September 2",
+        "Calendar Walk",
+        "Charles Paris",
+        "Simon Brett",
+        "Francis Matthews",
+        "BBC Radio 4",
+        "Serial Story Arc",
+        "The Mysterious Traveler",
+        "Maurice Tarplin",
+        "Robert A Arthur",
+        "Mutual",
+        "The Beulah Show",
+        "Marlin Hurt",
+        "Tums",
+        "10-2-4 Time",
+        "Dr Pepper",
+        "Sons of the Pioneers",
+        "Disaster",
+        "Red Cross",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-02-walk-628-amos-n-andy-this-is-your-fbi-2000-plus-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-02-walk-628-amos-n-andy-this-is-your-fbi-2000-plus-enriched",
       "title": "Archival Dispatch: September 2 Calendar Walk — Amos 'n' Andy, This Is Your FBI & 2000 Plus",
