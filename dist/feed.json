@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-572-al-jolson-macarthur-crime-doctor-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-572-al-jolson-macarthur-crime-doctor-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Al Jolson, General MacArthur, and Crime Doctor",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 572)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across musical variety previews, monumental World War II historical speeches from Tokyo Bay, psychological criminological investigations, radio suspense mysteries, Australian courtroom docudramas, and biblical moral plays, Al Jolson and Oscar Levant for Kraft (1949), General Douglas MacArthur on the eve of Japanese surrender (1945), Ray Collins as the <em>Crime Doctor</em> for Philip Morris (1940), <em>The Clock</em> (1947), and <em>Did Justice Triumph?</em> (1940–1963):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 572)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Jolson_1949_Preview.mp3</code> <br><em>Alt</em>: <code>Episode 0 Al Jolson Show</code></td>\n<td><strong>&quot;Season Preview with Al Jolson, Oscar Levant, and Kraft Foods&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-09-01<br>9:00 PM EDT</td>\n<td><strong>Kraft Foods Company</strong><br>Miracle Whip &amp; Mayonnaise</td>\n<td><strong>Al Jolson</strong>, <strong>Oscar Levant</strong></td>\n<td><strong>Lou Bring Orchestra</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Comedy&quot;, &quot;Al Jolson&quot;, &quot;Kraft Music Hall&quot;]</code></td>\n<td>Al Jolson and Oscar Levant rehearse snappy comedic exchanges and preview Broadway showstoppers for their upcoming fall broadcast season.</td>\n</tr>\n<tr>\n<td><code>WWII_1945_MacArthur_Missouri.mp3</code> <br><em>Alt</em>: <code>Macarthur Holy Mission WWII News</code></td>\n<td><strong>&quot;General Douglas MacArthur on the Eve of Japanese Surrender (A Holy Mission)&quot;</strong></td>\n<td><strong>Combined Networks</strong><br>1945-09-01</td>\n<td><strong>Sustaining</strong><br>Historic News</td>\n<td><strong>Gen. Douglas MacArthur</strong></td>\n<td><strong>Radio Pool Reporters</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;WWII&quot;, &quot;MacArthur&quot;, &quot;Surrender&quot;]</code></td>\n<td>General Douglas MacArthur addresses the world from USS Missouri in Tokyo Bay proclaiming that the occupation of Japan is a holy mission dedicated to lasting peace.</td>\n</tr>\n<tr>\n<td><code>Crime_Doctor_1940_Convict.mp3</code> <br><em>Alt</em>: <code>Crime Doctor 1940 Episode</code></td>\n<td><strong>&quot;The Case of the Paroled Convict with Ray Collins and Philip Morris&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-01<br>8:30 PM EDST</td>\n<td><strong>Philip Morris &amp; Co.</strong><br>Philip Morris Cigarettes</td>\n<td><strong>Ray Collins (Dr. Ordway)</strong></td>\n<td><strong>Max Marcin (Creator)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Crime Doctor&quot;, &quot;Ray Collins&quot;, &quot;Philip Morris&quot;]</code></td>\n<td>Dr. Benjamin Ordway evaluates the psychological rehabilitation of a reformed safe-cracker falsely accused of an armed jewelry store robbery.</td>\n</tr>\n<tr>\n<td><code>Clock_1947_DonMiguel.mp3</code> <br><em>Alt</em>: <code>Don Miguel The Clock</code></td>\n<td><strong>&quot;Don Miguel with Dramatic Suspense Cast and ABC&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1947-09-01<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Suspense Drama</td>\n<td><strong>Dramatic Cast</strong>, <strong>The Clock</strong></td>\n<td><strong>Lawrence Klee (Writer)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Thriller&quot;, &quot;Suspense&quot;, &quot;The Clock&quot;, &quot;ABC&quot;]</code></td>\n<td>A vengeful landowner plots an elaborate scheme of retribution against his greedy business partner before fate intervenes with the ticking hands of time.</td>\n</tr>\n<tr>\n<td><code>Justice_1947_MaryPavoner.mp3</code> <br><em>Alt</em>: <code>Strange Death of Mary Pavoner Did Justice Triumph</code></td>\n<td><strong>&quot;The Strange Death of Mary Pavoner with Dramatic Legal Cast (Macquarie)&quot;</strong></td>\n<td><strong>Macquarie 2GB</strong><br>1947-09-01</td>\n<td><strong>Commercial Australian</strong><br>Legal Docudrama</td>\n<td><strong>Dramatic Legal Cast</strong></td>\n<td><strong>Macquarie Players</strong></td>\n<td><code>[&quot;Courtroom&quot;, &quot;Crime&quot;, &quot;Legal&quot;, &quot;Did Justice Triumph&quot;, &quot;Macquarie&quot;]</code></td>\n<td>Barristers re-examine circumstantial evidence and witness contradictions surrounding the mysterious poisoning of an elderly Victorian widow.</td>\n</tr>\n<tr>\n<td><code>Eternal_1963_SupportingCast9_Alt.mp3</code> <br><em>Alt</em>: <code>The Supporting Cast Of The Bible 9</code></td>\n<td><strong>&quot;The Supporting Cast of the Bible (Part 9) with Jewish Theological Seminary&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1963-09-01<br>12:30 PM EDT</td>\n<td><strong>Jewish Theo. Seminary</strong><br>Religious Drama</td>\n<td><strong>Dramatic Cast</strong></td>\n<td><strong>Marc Siegel (Writer)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Religious&quot;, &quot;History&quot;, &quot;The Eternal Light&quot;, &quot;Marc Siegel&quot;]</code></td>\n<td>A biblical drama dramatizes lesser-known figures of Scripture whose steadfast loyalty altered the moral destiny of ancient Israel.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 354 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 572 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "The Kraft Music Hall",
+        "Al Jolson",
+        "Oscar Levant",
+        "Kraft Foods",
+        "World War II News",
+        "General Douglas MacArthur",
+        "USS Missouri",
+        "Japanese Surrender",
+        "Tokyo Bay",
+        "Crime Doctor",
+        "Ray Collins",
+        "Philip Morris",
+        "The Clock",
+        "Lawrence Klee",
+        "Did Justice Triumph",
+        "Macquarie",
+        "The Eternal Light",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-571-eternal-light-sounds-of-darkness-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-571-eternal-light-sounds-of-darkness-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — The Eternal Light and The Sounds of Darkness",
