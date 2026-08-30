@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-713-raffles-monte-cristo-joan-davis-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-713-raffles-monte-cristo-joan-davis-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Final Increment 713! Raffles, Monte Cristo & Joan Davis",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 713 — 100% CALENDAR DAY COMPLETION!)</h2>\n<p>This final archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for the final 6 broadcasts transmitting on <strong>September 3</strong>, achieving <strong>100% complete archival restoration across all 469 broadcasts for September 3</strong>! Featuring classic swashbuckling adventures with Carleton Young as <em>The Count of Monte Cristo</em>, two legendary eras of gentleman thief A.J. Raffles (Horace Braham on CBS and Jeremy Clyde on BBC Radio 4), Joan Davis opening <em>Joanie&#39;s Tea Room</em> on V-J Day for Swan Soap, and Jan Miner in Frank and Anne Hummert&#39;s daytime serial <em>Lora Lawton</em>, Carleton Young (1946, 1950), Horace Braham &amp; Jeremy Clyde (1943, 1992), Joan Davis (1945), and Jan Miner (1943–1992):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 713)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Raffles_1943_AttilaMask.mp3</code> <br><em>Alt</em>: <code>The Case of Attila&#39;s Mask Raffles</code></td>\n<td><strong>&quot;The Case of Attila&#39;s Mask with Horace Braham as Raffles&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1943-09-03</td>\n<td><strong>Sustaining</strong><br>Gentleman Thief Drama</td>\n<td><strong>Horace Braham (Raffles)</strong></td>\n<td><strong>E.W. Hornung (Creator)</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Adventure&quot;, &quot;Raffles&quot;, &quot;Horace Braham&quot;, &quot;EW Hornung&quot;]</code></td>\n<td>Gentleman jewel thief A.J. Raffles outwits Scotland Yard to recover a stolen ancient golden archaeological mask from a ruthless fence.</td>\n</tr>\n<tr>\n<td><code>Raffles_1992_LastWord.mp3</code> <br><em>Alt</em>: <code>The Last Word Raffles</code></td>\n<td><strong>&quot;The Last Word with Jeremy Clyde as Raffles&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1992-09-03</td>\n<td><strong>Sustaining</strong><br>British Drama</td>\n<td><strong>Jeremy Clyde (Raffles)</strong></td>\n<td><strong>Michael Cochrane &amp; Buck</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Raffles&quot;, &quot;Jeremy Clyde&quot;, &quot;BBC Radio 4&quot;]</code></td>\n<td>Raffles and Bunny undertake an audacious nighttime burglary of a corrupt diplomat&#39;s London townhouse to recover compromising state papers.</td>\n</tr>\n<tr>\n<td><code>MonteCristo_1946_VeniceConspiracy.mp3</code> <br><em>Alt</em>: <code>Episode 106 The Count of Monte Cristo</code></td>\n<td><strong>&quot;The Venice Conspiracy with Carleton Young as The Count&quot;</strong></td>\n<td><strong>Don Lee Mutual</strong><br>1946-09-03<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Swashbuckling Drama</td>\n<td><strong>Carleton Young (Dantès)</strong></td>\n<td><strong>Parley Baer &amp; Dumas</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Swashbuckler&quot;, &quot;The Count Of Monte Cristo&quot;, &quot;Carleton Young&quot;, &quot;Mutual&quot;]</code></td>\n<td>Edmond Dantès uncovers a Venetian kidnapping conspiracy targeting the daughter of a prominent Italian merchant.</td>\n</tr>\n<tr>\n<td><code>MonteCristo_1950_SwordMarseilles.mp3</code> <br><em>Alt</em>: <code>The Count of Monte Cristo 1950 Episode</code></td>\n<td><strong>&quot;The Sword of Marseilles with Carleton Young as The Count&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1950-09-03<br>8:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Swashbuckling Drama</td>\n<td><strong>Carleton Young (Dantès)</strong></td>\n<td><strong>Jaime del Valle (Dir.)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Swashbuckler&quot;, &quot;The Count Of Monte Cristo&quot;, &quot;Carleton Young&quot;, &quot;Alexandre Dumas&quot;]</code></td>\n<td>The Count of Monte Cristo duels a corrupt French nobleman to restore rightful family lands to an impoverished military veteran.</td>\n</tr>\n<tr>\n<td><code>JoanDavis_1945_TeaRoomPremiere.mp3</code> <br><em>Alt</em>: <code>The Joan Davis Show Season Premiere Joan Davis</code></td>\n<td><strong>&quot;Joanie&#39;s Tea Room Season Premiere on V-J Day with Swan Soap&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1945-09-03<br>8:30 PM EWT</td>\n<td><strong>Lever Brothers</strong><br>Swan Soap</td>\n<td><strong>Joan Davis (Joanie)</strong></td>\n<td><strong>Andy Russell &amp; Whiteman</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Joan Davis&quot;, &quot;Swan Soap&quot;, &quot;VJ Day&quot;]</code></td>\n<td>Joan Davis opens Joanie&#39;s Tea Room in a star-studded season premiere celebrating V-J Day and scheming to impress crooner Andy Russell.</td>\n</tr>\n<tr>\n<td><code>LoraLawton_1947_FalseAccusation.mp3</code> <br><em>Alt</em>: <code>Laura Lawton Lora Lawton</code></td>\n<td><strong>&quot;The False Accusation with Jan Miner as Lora Lawton&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1947-09-03<br>10:00 AM EDT</td>\n<td><strong>B.T. Babbitt, Inc.</strong><br>Bab-O Cleanser</td>\n<td><strong>Jan Miner (Lora)</strong></td>\n<td><strong>James Meighan &amp; Hummert</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Lora Lawton&quot;, &quot;Jan Miner&quot;, &quot;Bab-O&quot;]</code></td>\n<td>Lora Lawton defends herself against malicious social slander orchestrated by an envious rival at the country club.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 469 / 469 (<strong>100% COMPLETE — ZERO REMAINING!</strong>)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 713 — 100% CALENDAR DAY COMPLETION! This final archival dispatch documents the historical provenance, broadcast scheduling, commercial spon...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "100 Percent Complete",
+        "Final Increment",
+        "Raffles",
+        "Horace Braham",
+        "Jeremy Clyde",
+        "Michael Cochrane",
+        "EW Hornung",
+        "BBC Radio 4",
+        "The Count of Monte Cristo",
+        "Carleton Young",
+        "Alexandre Dumas",
+        "Don Lee Mutual",
+        "Joan Davis",
+        "Joanie's Tea Room",
+        "V-J Day",
+        "Swan Soap",
+        "Lever Brothers",
+        "Lora Lawton",
+        "Jan Miner",
+        "Bab-O Cleanser",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-712-jean-shepherd-peter-salem-mounties-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-712-jean-shepherd-peter-salem-mounties-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Jean Shepherd Eras, Peter Salem & Mounties",
