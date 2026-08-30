@@ -6,6 +6,39 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-557-david-harding-counterspy-evelyn-ankers-fdr-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-557-david-harding-counterspy-evelyn-ankers-fdr-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — David Harding Counterspy, Evelyn Ankers, and FDR",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 557)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across counter-espionage investigations, Hollywood starlet dramas, space opera adventures, and presidential addresses, Don MacLaughlin in <em>David Harding, Counterspy</em> for Schutter Candy and Pepsi-Cola (1946, 1949), Evelyn Ankers and Richard Long in <em>Stars Over Hollywood</em> for Carnation Milk (1945, 1951), John Dehner in <em>Captain Starr of Space</em> (1953), and President Roosevelt&#39;s 1941 address (1941–1953):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 557)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Counterspy_1946_Uranium.mp3</code> <br><em>Alt</em>: <code>Counterspy 1946 Episode</code></td>\n<td><strong>&quot;The Case of the Counterfeit Uranium with Don MacLaughlin and Schutter Candy&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-01<br>5:30 PM EDT</td>\n<td><strong>Schutter Candy Co.</strong><br>Bit-O-Honey &amp; Old Nick</td>\n<td><strong>Don MacLaughlin</strong>, <strong>Kramer</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Mystery&quot;, &quot;Counterspy&quot;, &quot;Don MacLaughlin&quot;, &quot;Phillips H Lord&quot;]</code></td>\n<td>Counterspy chief David Harding investigates an international espionage syndicate attempting to sell contaminated uranium ores to foreign agents.</td>\n</tr>\n<tr>\n<td><code>Counterspy_1949_Professor2.mp3</code> <br><em>Alt</em>: <code>Cold Blooded Professor Part 2</code></td>\n<td><strong>&quot;The Cold-Blooded Professor (Part 2) with Don MacLaughlin and Pepsi-Cola&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1949-09-01<br>8:00 PM EDT</td>\n<td><strong>Pepsi-Cola Company</strong><br>Pepsi-Cola Soft Drinks</td>\n<td><strong>Don MacLaughlin</strong>, <strong>Kramer</strong></td>\n<td><strong>Phillips H. Lord (Creator)</strong></td>\n<td><code>[&quot;Espionage&quot;, &quot;Mystery&quot;, &quot;Counterspy&quot;, &quot;Don MacLaughlin&quot;, &quot;Pepsi-Cola&quot;]</code></td>\n<td>David Harding closes in on a renegade university physics instructor selling classified atomic propulsion formulas to a foreign power.</td>\n</tr>\n<tr>\n<td><code>Stars_Hwood_1945_Heiress.mp3</code> <br><em>Alt</em>: <code>Guest - Evelyn Ankers Stars Over Hollywood</code></td>\n<td><strong>&quot;The Runaway Heiress with Evelyn Ankers and Carnation Milk&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1945-09-01<br>12:30 PM EWT</td>\n<td><strong>Carnation Company</strong><br>Carnation Evaporated Milk</td>\n<td><strong>Evelyn Ankers</strong></td>\n<td><strong>Hollywood Radio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Stars Over Hollywood&quot;, &quot;Evelyn Ankers&quot;, &quot;Carnation&quot;]</code></td>\n<td>A sheltered socialite heiress flees an arranged marriage and assumes a false identity as a waitress in a roadside diner.</td>\n</tr>\n<tr>\n<td><code>Stars_Hwood_1951_WilderBrown.mp3</code> <br><em>Alt</em>: <code>Young Wilder Brown Stars Over Hollywood</code></td>\n<td><strong>&quot;Young Wilder Brown with Richard Long and Carnation Milk&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1951-09-01<br>12:30 PM EDT</td>\n<td><strong>Carnation Company</strong><br>Carnation Evaporated Milk</td>\n<td><strong>Richard Long</strong></td>\n<td><strong>Hollywood Radio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Romance&quot;, &quot;Stars Over Hollywood&quot;, &quot;Richard Long&quot;, &quot;Carnation&quot;]</code></td>\n<td>An ambitious small-town mechanic risks his life savings to build a custom racing automobile for the state speedway championship.</td>\n</tr>\n<tr>\n<td><code>Captain_Starr_1953_Asteroid.mp3</code> <br><em>Alt</em>: <code>Captain Starr Of Space 1953 Episode</code></td>\n<td><strong>&quot;The Asteroid Pirates (Episode 53) with John Dehner&quot;</strong></td>\n<td><strong>ABC</strong><br>1953-09-01</td>\n<td><strong>Sustaining</strong><br>Space Sci-Fi</td>\n<td><strong>John Dehner (Starr)</strong></td>\n<td><strong>ABC Dramatic Staff</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Space&quot;, &quot;Adventure&quot;, &quot;Captain Starr&quot;, &quot;John Dehner&quot;]</code></td>\n<td>Captain Starr navigates his patrol cruiser through deep-space asteroid fields to capture rogue interplanetary raiders.</td>\n</tr>\n<tr>\n<td><code>FDR_1941_FiresideChat_Alt.mp3</code> <br><em>Alt</em>: <code>Labor Day Radio Address FDR Fireside Chat</code></td>\n<td><strong>&quot;Labor Day Radio Address on Industrial Mobilization (Alternate)&quot;</strong></td>\n<td><strong>All Networks</strong><br>1941-09-01<br>1:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>Franklin D. Roosevelt</strong></td>\n<td><strong>Hyde Park Radio Staff</strong></td>\n<td><code>[&quot;Speech&quot;, &quot;History&quot;, &quot;FDR&quot;, &quot;Fireside Chats&quot;, &quot;Labor Day&quot;]</code></td>\n<td>President Franklin D. Roosevelt addresses the nation from Hyde Park explaining why American labor solidarity is essential to defeating totalitarian aggression.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 264 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 557 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Counterspy",
+        "David Harding",
+        "Don MacLaughlin",
+        "Mandel Kramer",
+        "Phillips H Lord",
+        "Schutter Candy",
+        "Pepsi-Cola",
+        "Stars Over Hollywood",
+        "Evelyn Ankers",
+        "Richard Long",
+        "Carnation Evaporated Milk",
+        "Captain Starr of Space",
+        "John Dehner",
+        "Franklin D Roosevelt",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-556-peter-lorre-nightmare-21st-precinct-lone-ranger-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-556-peter-lorre-nightmare-21st-precinct-lone-ranger-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Peter Lorre's Nightmare, 21st Precinct, and The Lone Ranger",
