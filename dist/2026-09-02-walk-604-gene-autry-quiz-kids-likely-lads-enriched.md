@@ -1,0 +1,33 @@
+# Archival Dispatch: September 2 Calendar Walk — Gene Autry, The Quiz Kids & Likely Lads
+
+**Date**: 2026-09-02  
+**Author**: radio index  
+**Tags**: September 2, Calendar Walk, Gene Autrys Melody Ranch, Gene Autry, Pat Buttram, Doublemint Gum, The Quiz Kids, Joe Kelly, Joel Kupperman, Alka Seltzer, Miles Laboratories, Whatever Happened to the Likely Lads, James Bolam, Rodney Bewes, BBC Radio 4, Ports of Call, Comic Weekly Man, Sunday Funnies, Alternate Titles, Original Filenames
+
+---
+
+## September 2 Archival Metadata Enrichment (Increment 604)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across western music and corral comedy, juvenile radio quiz show genius, British working-class situational comedy, exotic world musical travelogues, and metropolitan Sunday comic readings, Gene Autry and Pat Buttram on *Melody Ranch* for Doublemint Gum (1950), Joe Kelly and Joel Kupperman on *The Quiz Kids* for Alka-Seltzer (1945, 1951), James Bolam and Rodney Bewes in *Whatever Happened to the Likely Lads?* on the BBC (1975), *Ports of Call* (1936), and *The Comic Weekly Man* (1936–1975):
+
+---
+
+## 1. *September 2 Archival Inventory (Increment 604)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `MelodyRanch_1950_SkullValley.mp3` <br>*Alt*: `Gene Autry's Melody Ranch 1950 Episode` | **"The Horse Thief of Skull Valley with Doublemint Gum"** | **CBS (KNX)**<br>1950-09-02<br>8:00 PM EDT | **Wm. Wrigley Jr. Co.**<br>Doublemint Gum | **Gene Autry**, **Buttram** | **Carl Cotner Orch.** | `["Western", "Music", "Comedy", "Melody Ranch", "Gene Autry"]` | Gene Autry tracks rustlers stealing prize quarter horses before singing western standards with Pat Buttram and the Cass County Boys. |
+| `QuizKids_1945_VJDay.mp3` <br>*Alt*: `The Quiz Kids 1945 Episode` | **"V-J Day Special with Joe Kelly and Alka-Seltzer"** | **NBC Blue (WJZ)**<br>1945-09-02<br>7:30 PM EWT | **Miles Laboratories**<br>Alka-Seltzer & Vitamins | **Joe Kelly (Quizmaster)** | **Joel Kupperman & Fischman** | `["Quiz", "Game Show", "Children", "Quiz Kids", "Alka Seltzer"]` | Child prodigies answer rapid-fire questions regarding world geography, Pacific naval battles, and post-war history on V-J Day. |
+| `QuizKids_1951_BackSchool.mp3` <br>*Alt*: `The Quiz Kids 1951 Episode` | **"Back to School Panel with Joe Kelly and Miles Laboratories"** | **CBS (WCBS)**<br>1951-09-02<br>3:30 PM EDT | **Miles Laboratories**<br>Alka-Seltzer & Bactine | **Joe Kelly (Quizmaster)** | **Joel Kupperman & Cooks** | `["Quiz", "Game Show", "Children", "Quiz Kids", "Miles"]` | Young scholar panelists solve complex mathematical puzzles and identify obscure literary quotations during a back-to-school quiz session. |
+| `LikelyLads_1975_DinnerGuest.mp3` <br>*Alt*: `Guess Who's Coming To Dinner Likely Lads` | **"Guess Who's Coming to Dinner with James Bolam and Rodney Bewes"** | **BBC Radio 4**<br>1975-09-02<br>7:00 PM BST | **Sustaining**<br>British Comedy | **James Bolam**, **Bewes** | **Dick Clement & La Frenais** | `["Comedy", "British", "Likely Lads", "BBC Radio 4", "James Bolam"]` | Bob Ferris attempts to impress his wife's upscale dinner guests while desperately concealing Terry Collier's embarrassing presence in the house. |
+| `Ports_1936_ScentCeylon.mp3` <br>*Alt*: `Ports of Call 1936 Episode` | **"The Scent of Ceylon with Dramatic Travelogue Cast"** | **Syndication**<br>1936-09-02 | **Sustaining**<br>Travelogue Drama | **Dramatic Voice Cast** | **World Travelogue Orch.** | `["Travel", "Documentary", "Music", "Ports Of Call", "Syndicated"]` | A musical and dramatic radio excursion visits the spice plantations, coastal ports, and tea gardens of Ceylon. |
+| `Comics_1951_SundayFunnies.mp3` <br>*Alt*: `Comic Weekly Man 1951 Episode` | **"Reading the Sunday Funnies on WOR New York"** | **WOR New York**<br>1951-09-02<br>9:00 AM EDT | **Puck Comic Weekly**<br>Sunday Newspaper Comics | **Comic Weekly Man (Host)** | **Hearst Syndicate Staff** | `["Children", "Comics", "Comic Weekly", "WOR", "Sunday Funnies"]` | The host reads and dramatizes color Sunday newspaper comic strips including Blondie, Popeye, and Flash Gordon for young listeners. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 236 / 480 (244 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
