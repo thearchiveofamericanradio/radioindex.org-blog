@@ -6,6 +6,77 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-570-thin-man-fdr-archie-andrews-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-570-thin-man-fdr-archie-andrews-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Thin Man, FDR Labor Day, and Archie Andrews",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 570)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across urbane society detective mysteries, pivotal wartime presidential radio addresses, Riverdale high school domestic comedies, exotic Far East adventures, and South African radio thrillers, Les Damon and Claudia Morgan in <em>The Adventures of the Thin Man</em> (1948, 1950), President Franklin D. Roosevelt&#39;s historic Labor Day address from Hyde Park (1941), Burt Boyar in <em>Archie Andrews</em> for Swift (1945), <em>Gentleman Adventurer</em> (1948), and <em>The Sounds of Darkness</em> (1941–1967):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 570)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Thin_Man_1948_GorgeousGunman.mp3</code> <br><em>Alt</em>: <code>The Adventure of the Gorgeous Gunman</code></td>\n<td><strong>&quot;The Adventure of the Gorgeous Gunman with Les Damon and Claudia Morgan&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1948-09-01<br>8:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Society Mystery</td>\n<td><strong>Les Damon</strong>, <strong>Morgan</strong></td>\n<td><strong>Parker Fennelly</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Thin Man&quot;, &quot;Les Damon&quot;, &quot;Claudia Morgan&quot;]</code></td>\n<td>Nick and Nora Charles untangle the romantic entanglements of a flamboyant Park Avenue marksman after a society blackmail scheme turns deadly.</td>\n</tr>\n<tr>\n<td><code>Thin_Man_1950_WanderingWitness.mp3</code> <br><em>Alt</em>: <code>Adventures of the Thin Man 1950 Episode</code></td>\n<td><strong>&quot;The Case of the Wandering Witness with Les Damon and Claudia Morgan (Heinz 57)&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1950-09-01<br>8:30 PM EDT</td>\n<td><strong>H.J. Heinz Company</strong><br>Heinz 57 Varieties</td>\n<td><strong>Les Damon</strong>, <strong>Morgan</strong></td>\n<td><strong>Milton Lewis (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Thin Man&quot;, &quot;Les Damon&quot;, &quot;Heinz 57&quot;]</code></td>\n<td>Nick and Nora Charles protect an elusive eyewitness who wandered away from police protection before testifying against a syndicate boss.</td>\n</tr>\n<tr>\n<td><code>FDR_1941_LaborDay.mp3</code> <br><em>Alt</em>: <code>Labor Day 1941 Episode</code></td>\n<td><strong>&quot;National Defense Address on Labor Day with President Franklin D. Roosevelt&quot;</strong></td>\n<td><strong>CBS / NBC (Hyde Park)</strong><br>1941-09-01<br>12:00 PM EDST</td>\n<td><strong>Sustaining</strong><br>Presidential Address</td>\n<td><strong>Franklin D. Roosevelt</strong></td>\n<td><strong>White House Staff</strong></td>\n<td><code>[&quot;News&quot;, &quot;History&quot;, &quot;FDR&quot;, &quot;Politics&quot;, &quot;Labor Day&quot;]</code></td>\n<td>President Franklin D. Roosevelt addresses American industrial workers from Hyde Park emphasizing that victory over totalitarian aggression requires all-out production.</td>\n</tr>\n<tr>\n<td><code>Archie_1945_Camping.mp3</code> <br><em>Alt</em>: <code>Archie Andrews 1945 Episode</code></td>\n<td><strong>&quot;Archie&#39;s Labor Day Weekend Camping Trip with Burt Boyar and Swift&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1945-09-01<br>10:30 AM EWT</td>\n<td><strong>Swift &amp; Company</strong><br>Swift&#39;s Premium Meats</td>\n<td><strong>Burt Boyar (Archie)</strong></td>\n<td><strong>Cameron Andrews &amp; Mann</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Teens&quot;, &quot;Archie Andrews&quot;, &quot;Swift&quot;, &quot;Mutual&quot;]</code></td>\n<td>Archie and Jughead attempt a rugged Labor Day wilderness camping expedition that ends up marooned in Mr. Lodge&#39;s manicured backyard.</td>\n</tr>\n<tr>\n<td><code>Adventurer_1948_Macao.mp3</code> <br><em>Alt</em>: <code>Gentleman Adventurer 1948 Episode</code></td>\n<td><strong>&quot;The Jade Scorpion of Macao with Dramatic Action Cast&quot;</strong></td>\n<td><strong>Syndication</strong><br>1948-09-01</td>\n<td><strong>Sustaining</strong><br>Action Adventure</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Syndicated Audio Staff</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Action&quot;, &quot;Gentleman Adventurer&quot;, &quot;Macao&quot;, &quot;Drama&quot;]</code></td>\n<td>A globe-trotting adventurer infiltrates the gambling dens of Portuguese Macao to recover a stolen gemstone-encrusted antique talisman.</td>\n</tr>\n<tr>\n<td><code>Sounds_Darkness_1967_Makeup.mp3</code> <br><em>Alt</em>: <code>SA Murder Make Up The Sounds Of Darkness</code></td>\n<td><strong>&quot;Murder Make-Up with Dramatic Thriller Cast (South Africa Springbok)&quot;</strong></td>\n<td><strong>Springbok Radio (SABC)</strong><br>1967-09-01</td>\n<td><strong>Commercial Sponsors</strong><br>Springbok Thriller</td>\n<td><strong>Dramatic Voice Cast</strong></td>\n<td><strong>Michael Silver (Producer)</strong></td>\n<td><code>[&quot;Thriller&quot;, &quot;Horror&quot;, &quot;Springbok Radio&quot;, &quot;Sounds Of Darkness&quot;, &quot;South Africa&quot;]</code></td>\n<td>A theatrical cosmetician uses theatrical prosthetics and toxic stage makeup to assume the identity of a deceased diamond mining magnate.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 342 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 570 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Adventures of the Thin Man",
+        "Les Damon",
+        "Claudia Morgan",
+        "Parker Fennelly",
+        "Heinz 57",
+        "Franklin D. Roosevelt",
+        "FDR",
+        "Labor Day",
+        "National Defense",
+        "Hyde Park",
+        "Archie Andrews",
+        "Burt Boyar",
+        "Swift",
+        "Gentleman Adventurer",
+        "Macao",
+        "The Sounds of Darkness",
+        "Springbok Radio",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-569-thin-man-aldrich-family-duke-ellington-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-569-thin-man-aldrich-family-duke-ellington-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Thin Man, Aldrich Family, and Duke Ellington",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 569)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across urbane society detective mysteries, quintessential teenage domestic sitcoms, swing jazz concerts, comedic variety revues, and classic radio whodunits, Les Tremayne and Claudia Morgan in <em>The Adventures of the Thin Man</em> (1944), Norman Tokar in <em>The Aldrich Family</em> (1944), Duke Ellington on <em>A Date with the Duke</em> (1945), Jimmy Durante and Garry Moore for Camel (1944), <em>Murder Clinic</em> (1942), and <em>Bob and Ray</em> (1942–1952):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 569)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Thin_Man_1944_SneakySphinx.mp3</code> <br><em>Alt</em>: <code>TCOT Sneaky Sphinx Adventures of the Thin Man</code></td>\n<td><strong>&quot;The Case of the Sneaky Sphinx with Claudia Morgan, Les Tremayne, and Post&#39;s Toasties&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-01<br>8:30 PM EWT</td>\n<td><strong>General Foods</strong><br>Post&#39;s Toasties</td>\n<td><strong>Les Tremayne</strong>, <strong>Morgan</strong></td>\n<td><strong>Milton Lewis (Writer)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Thin Man&quot;, &quot;Les Tremayne&quot;, &quot;Claudia Morgan&quot;]</code></td>\n<td>Nick and Nora Charles investigate a museum curator&#39;s murder connected to a stolen gold Egyptian sphinx antiquity.</td>\n</tr>\n<tr>\n<td><code>Aldrich_1944_LaborDay.mp3</code> <br><em>Alt</em>: <code>Aldrich Family 1944 Episode</code></td>\n<td><strong>&quot;Henry&#39;s Labor Day Job with Norman Tokar and Post&#39;s 40% Bran Flakes&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1944-09-01<br>8:00 PM EWT</td>\n<td><strong>General Foods</strong><br>Post&#39;s Bran Flakes</td>\n<td><strong>Norman Tokar (Henry)</strong></td>\n<td><strong>Jackie Kelk &amp; Jameson</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Aldrich Family&quot;, &quot;Norman Tokar&quot;, &quot;General Foods&quot;]</code></td>\n<td>Henry Aldrich takes a holiday delivery job at the local drugstore with disastrously tangled bicycle misadventures.</td>\n</tr>\n<tr>\n<td><code>Duke_1945_Alamo.mp3</code> <br><em>Alt</em>: <code>On The Alamo A Date with the Duke</code></td>\n<td><strong>&quot;On the Alamo with Duke Ellington and Treasury Department&quot;</strong></td>\n<td><strong>ABC / Blue</strong><br>1945-09-01<br>5:00 PM EWT</td>\n<td><strong>U.S. Treasury Dept.</strong><br>War Bonds Promotion</td>\n<td><strong>Duke Ellington &amp; Orch.</strong></td>\n<td><strong>Ray Nance &amp; Hodges</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Big Band&quot;, &quot;Duke Ellington&quot;, &quot;Treasury Department&quot;]</code></td>\n<td>Duke Ellington leads his orchestra from the 400 Restaurant in Manhattan performing On the Alamo and signature swing suites.</td>\n</tr>\n<tr>\n<td><code>Durante_1944_LaborDay.mp3</code> <br><em>Alt</em>: <code>Jimmy Durante 1944 Episode</code></td>\n<td><strong>&quot;Labor Day Plans with Garry Moore and Camel Cigarettes&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1944-09-01<br>10:00 PM EWT</td>\n<td><strong>R.J. Reynolds</strong><br>Camel Cigarettes</td>\n<td><strong>Jimmy Durante</strong>, <strong>Moore</strong></td>\n<td><strong>Roy Bargy Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Jimmy Durante&quot;, &quot;Garry Moore&quot;, &quot;Camel&quot;]</code></td>\n<td>Jimmy and Garry hatch competing holiday plans to operate a seashore lemonade concession for Labor Day beach crowds.</td>\n</tr>\n<tr>\n<td><code>Clinic_1942_TheRasp.mp3</code> <br><em>Alt</em>: <code>The Rasp Murder Clinic</code></td>\n<td><strong>&quot;Philip MacDonald&#39;s The Rasp with Anthony Boucher and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1942-09-01<br>9:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Mystery Anthology</td>\n<td><strong>Dramatic Mystery Cast</strong></td>\n<td><strong>Anthony Boucher</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Murder Clinic&quot;, &quot;Mutual&quot;, &quot;Philip MacDonald&quot;]</code></td>\n<td>Sleuth Anthony Gethryn investigates the country manor strangling of a British cabinet minister murdered with a wood rasp.</td>\n</tr>\n<tr>\n<td><code>Bob_Ray_1952_MrDA.mp3</code> <br><em>Alt</em>: <code>Mr. District Attorney Bob and Ray</code></td>\n<td><strong>&quot;Mr. District Attorney Parody with Bob Elliott and Ray Goulding&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-09-01<br>5:45 PM EDT</td>\n<td><strong>Sustaining</strong><br>Radio Satire</td>\n<td><strong>Bob Elliott</strong>, <strong>Ray Goulding</strong></td>\n<td><strong>Elliott &amp; Goulding</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Bob And Ray&quot;, &quot;NBC&quot;, &quot;Parody&quot;]</code></td>\n<td>Bob and Ray spoof police procedurals with an inept prosecuting attorney prosecuting minor municipal paperwork errors.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 336 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 569 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Adventures of the Thin Man",
+        "Les Tremayne",
+        "Claudia Morgan",
+        "Post's Toasties",
+        "The Aldrich Family",
+        "Norman Tokar",
+        "Post's 40% Bran Flakes",
+        "Duke Ellington",
+        "A Date with the Duke",
+        "Treasury Department",
+        "Jimmy Durante",
+        "Garry Moore",
+        "Camel",
+        "Murder Clinic",
+        "Anthony Boucher",
+        "Bob and Ray",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-568-your-hit-parade-bob-and-ray-kirkwoods-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-568-your-hit-parade-bob-and-ray-kirkwoods-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Your Hit Parade, Bob & Ray, and Jack Kirkwood",
