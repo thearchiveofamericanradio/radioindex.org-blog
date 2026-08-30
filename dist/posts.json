@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-547-frank-sinatra-gi-journal-tarzan-murder-at-midnight-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-547-frank-sinatra-gi-journal-tarzan-murder-at-midnight-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Frank Sinatra GI Journal, Tarzan, and Murder at Midnight",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 547)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across wartime military variety, pulp jungle adventure serials, macabre midnight horror mysteries, 1970s feminist radio art, and vintage daytime serials, Frank Sinatra and Jerry Colonna on <em>G.I. Journal</em> for the AFRS (1944), James H. Pierce in <em>Tarzan</em> (1933), <em>Murder at Midnight</em> (1947), Martha Rosler on KPFK Pacifica (1977), <em>Betty and Bob</em> (1947), and Donald Crisp in <em>The Country Sheriff</em> (1933–1977):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 547)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>GI_Journal_1944_Sinatra.mp3</code> <br><em>Alt</em>: <code>Take The Night Train To Memphis</code></td>\n<td><strong>&quot;Night Train to Memphis with Jerry Colonna, Frank Sinatra, and Linda Darnell (AFRS)&quot;</strong></td>\n<td><strong>AFRS (Series 59)</strong><br>1944-09-01</td>\n<td><strong>Armed Forces Radio</strong><br>Wartime Morale</td>\n<td><strong>Jerry Colonna</strong>, <strong>Sinatra</strong></td>\n<td><strong>Paul Weston Orchestra</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;GI Journal&quot;, &quot;Frank Sinatra&quot;, &quot;Jerry Colonna&quot;, &quot;AFRS&quot;]</code></td>\n<td>Jerry Colonna serves as managing editor alongside guest vocalist Frank Sinatra and film star Linda Darnell for armed forces stationed abroad.</td>\n</tr>\n<tr>\n<td><code>Tarzan_1933_Ashair48.mp3</code> <br><em>Alt</em>: <code>Tarzan 1933 Episode</code></td>\n<td><strong>&quot;The Lost Empire of Ashair (Episode 48) with James H. Pierce and Joan Burroughs&quot;</strong></td>\n<td><strong>Syndication</strong><br>1933-09-01</td>\n<td><strong>Foulds Macaroni</strong><br>Sustaining Juvenile</td>\n<td><strong>James H. Pierce</strong>, <strong>Jane</strong></td>\n<td><strong>Edgar Rice Burroughs</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;Tarzan&quot;, &quot;James H Pierce&quot;, &quot;Burroughs&quot;]</code></td>\n<td>Tarzan guides a lost expedition through dense jungle terrain to locate the ancient hidden temples of Ashair.</td>\n</tr>\n<tr>\n<td><code>Pacifica_1977_Rosler.mp3</code> <br><em>Alt</em>: <code>Close Radio Martha Rosler What&#39;s Your Name Little Girl</code></td>\n<td><strong>&quot;What&#39;s Your Name Little Girl? with Martha Rosler on KPFK Pacifica&quot;</strong></td>\n<td><strong>KPFK Los Angeles</strong><br>1977-09-01</td>\n<td><strong>Pacifica Foundation</strong><br>Experimental Sound</td>\n<td><strong>Martha Rosler (Artist)</strong></td>\n<td><strong>John Duncan (Producer)</strong></td>\n<td><code>[&quot;Avant-Garde&quot;, &quot;Sound Art&quot;, &quot;KPFK&quot;, &quot;Martha Rosler&quot;, &quot;Pacifica&quot;]</code></td>\n<td>Conceptual artist Martha Rosler presents an experimental sound art performance exploring childhood socialization and gender identity.</td>\n</tr>\n<tr>\n<td><code>Midnight_1947_MemoryDead.mp3</code> <br><em>Alt</em>: <code>Memory of the Dead Murder At Midnight</code></td>\n<td><strong>&quot;Memory of the Dead with Barry Kroeger and Raymond Edward Johnson&quot;</strong></td>\n<td><strong>Syndication (WJZ)</strong><br>1947-09-01</td>\n<td><strong>Sustaining</strong><br>Macabre Drama</td>\n<td><strong>Barry Kroeger</strong>, <strong>Johnson</strong></td>\n<td><strong>Peter Martin (Writer)</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Mystery&quot;, &quot;Supernatural&quot;, &quot;Murder At Midnight&quot;, &quot;Barry Kroeger&quot;]</code></td>\n<td>A desperate man visits an occult medium hoping to erase terrifying memories of a fatal seaside crime only to summon the victim&#39;s spirit.</td>\n</tr>\n<tr>\n<td><code>Betty_Bob_1947_Letter.mp3</code> <br><em>Alt</em>: <code>Betty and Bob 1947 Episode</code></td>\n<td><strong>&quot;A Letter from the Past with Elizabeth Reller and Lester Tremayne&quot;</strong></td>\n<td><strong>Syndication</strong><br>1947-09-01<br>2:00 PM EDT</td>\n<td><strong>General Mills</strong><br>Bisquick / Gold Medal</td>\n<td><strong>Elizabeth Reller</strong>, <strong>Bob</strong></td>\n<td><strong>Frank &amp; Anne Hummert</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Soap Opera&quot;, &quot;Betty And Bob&quot;, &quot;Hummert&quot;, &quot;Syndicated&quot;]</code></td>\n<td>Betty discovers an unread letter sent to Bob years earlier that threatens to reopen old family resentments.</td>\n</tr>\n<tr>\n<td><code>Sheriff_1945_CrowdedCorpse.mp3</code> <br><em>Alt</em>: <code>The Crowded Corpse [LAST NBC SHOW]</code></td>\n<td><strong>&quot;The Crowded Corpse with Donald Crisp and NBC&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1945-09-01<br>8:00 PM EWT</td>\n<td><strong>Sustaining</strong><br>Rural Police Mystery</td>\n<td><strong>Donald Crisp (Sheriff)</strong></td>\n<td><strong>NBC Radio Staff</strong></td>\n<td><code>[&quot;Mystery&quot;, &quot;Detective&quot;, &quot;Country Sheriff&quot;, &quot;Donald Crisp&quot;, &quot;NBC&quot;]</code></td>\n<td>Sheriff Mark Mason investigates a roadside automobile accident and discovers two different victims stuffed into a single luggage trunk.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 204 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 547 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "G.I. Journal",
+        "Frank Sinatra",
+        "Jerry Colonna",
+        "Linda Darnell",
+        "AFRS",
+        "Tarzan",
+        "James H Pierce",
+        "Joan Burroughs",
+        "Edgar Rice Burroughs",
+        "Murder at Midnight",
+        "Barry Kroeger",
+        "Raymond Edward Johnson",
+        "Close Radio",
+        "Martha Rosler",
+        "KPFK Pacifica",
+        "Betty and Bob",
+        "Country Sheriff",
+        "Donald Crisp",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-546-blondie-dagwood-elmer-blurt-sweeney-march-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-546-blondie-dagwood-elmer-blurt-sweeney-march-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Blondie & Dagwood, Elmer Blurt, and Sweeney & March",
