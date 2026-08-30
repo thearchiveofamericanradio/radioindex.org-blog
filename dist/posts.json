@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-753-bing-crosby-rosemary-clooney-lum-abner-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-753-bing-crosby-rosemary-clooney-lum-abner-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Bing & Rosie, Lum & Abner & Bruch Concerto",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 753)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Bing Crosby &amp; Rosemary Clooney harmonizing with the Buddy Cole Trio on CBS Radio (<em>&#39;S Wonderful</em> in 1961 and <em>In a Little Spanish Town</em> in 1962), three classic Arkansas hill country misadventures with Chester Lauck &amp; Norris Goff on <em>Lum and Abner</em> for Alka-Seltzer, and violinist Robert Quick performing Max Bruch&#39;s Violin Concerto No. 1 on <em>The Enchanted Hour</em> for Mutual/WGN, Bing Crosby &amp; Rosemary Clooney (1961, 1962), Chester Lauck &amp; Norris Goff (1941, 1946), and Robert Quick (1941–1962):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 753)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BingRosie_1961_SWonderful.mp3</code> <br><em>Alt</em>: <code>&#39;S Wonderful Bing Crosby-Rosemary Clooney Show, The</code></td>\n<td><strong>&quot;&#39;S Wonderful with Buddy Cole Trio&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1961-09-04<br>11:30 AM EDT</td>\n<td><strong>Sustaining</strong><br>Daytime Vocal Pop</td>\n<td><strong>Bing Crosby &amp; Clooney</strong></td>\n<td><strong>Buddy Cole Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Bing Crosby Rosemary Clooney&quot;, &quot;Bing Crosby&quot;, &quot;Rosemary Clooney&quot;]</code></td>\n<td>Bing Crosby and Rosemary Clooney trade cheerful banter and sing Gershwin&#39;s &#39;S Wonderful and swinging duet standards.</td>\n</tr>\n<tr>\n<td><code>BingRosie_1962_SpanishTown.mp3</code> <br><em>Alt</em>: <code>In A Little Spanish Town Bing Crosby-Rosemary Clooney Show, The</code></td>\n<td><strong>&quot;In a Little Spanish Town with CBS Radio&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1962-09-04<br>11:30 AM EDT</td>\n<td><strong>Sustaining</strong><br>Daytime Vocal Pop</td>\n<td><strong>Bing Crosby &amp; Clooney</strong></td>\n<td><strong>Buddy Cole Trio</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;Bing Crosby Rosemary Clooney&quot;, &quot;Bing Crosby&quot;, &quot;Rosemary Clooney&quot;]</code></td>\n<td>Bing Crosby and Rosemary Clooney sing vocal arrangements of In a Little Spanish Town alongside intimate jazz keyboard accompaniment.</td>\n</tr>\n<tr>\n<td><code>LumAbner_1941_LumWaitsReply.mp3</code> <br><em>Alt</em>: <code>Lum Waits for Reply Lum and Abner</code></td>\n<td><strong>&quot;Lum Waits for Telegraph Reply (Broadcast Master)&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1941-09-04</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer</td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Rural&quot;, &quot;Lum and Abner&quot;, &quot;Chester Lauck&quot;, &quot;Alka-Seltzer&quot;]</code></td>\n<td>Lum paces the Jot &#39;Em Down Store while waiting for an urgent telegram regarding his missing livestock investment.</td>\n</tr>\n<tr>\n<td><code>LumAbner_1946_HenryClue.mp3</code> <br><em>Alt</em>: <code>Henry Lunsford Finds Clue Lum and Abner</code></td>\n<td><strong>&quot;Henry Lunsford Finds a Clue with Miles Laboratories&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-04<br>8:00 PM EDT</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer &amp; One-A-Day</td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Rural&quot;, &quot;Lum and Abner&quot;, &quot;Chester Lauck&quot;, &quot;Alka-Seltzer&quot;]</code></td>\n<td>Storekeeper Henry Lunsford discovers a mysterious scrap of paper in the ledger book that points to a missing money envelope.</td>\n</tr>\n<tr>\n<td><code>LumAbner_1946_AClue.mp3</code> <br><em>Alt</em>: <code>A Clue Lum and Abner</code></td>\n<td><strong>&quot;Henry&#39;s Secret Clue (Master Recording) with Norris Goff&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1946-09-04</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer</td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Rural&quot;, &quot;Lum and Abner&quot;, &quot;Chester Lauck&quot;, &quot;Norris Goff&quot;]</code></td>\n<td>Lum and Abner decipher a coded note left behind at the store counter, suspecting a local prankster is testing their wits.</td>\n</tr>\n<tr>\n<td><code>EnchantedHour_1949_BruchConcerto.mp3</code> <br><em>Alt</em>: <code>Violinist Robert Quick Performs Bruch&#39;s Violin Concerto in G Minor Enchanted Hour</code></td>\n<td><strong>&quot;Violinist Robert Quick Performs Bruch&#39;s Violin Concerto&quot;</strong></td>\n<td><strong>Mutual / WGN</strong><br>1949-09-04<br>10:30 AM EDT</td>\n<td><strong>Sustaining</strong><br>Classical Concert</td>\n<td><strong>Robert Quick (Violin)</strong></td>\n<td><strong>Henry Weber &amp; WGN Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Classical&quot;, &quot;Enchanted Hour&quot;, &quot;Robert Quick&quot;, &quot;WGN&quot;]</code></td>\n<td>Virtuoso violinist Robert Quick performs Max Bruch&#39;s Violin Concerto No. 1 in G minor accompanied by the WGN Symphony Orchestra.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 240 / 471 (167 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 753 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Bing Crosby-Rosemary Clooney Show",
+        "Bing Crosby",
+        "Rosemary Clooney",
+        "Buddy Cole Trio",
+        "CBS Radio",
+        "Lum and Abner",
+        "Chester Lauck",
+        "Norris Goff",
+        "Pine Ridge",
+        "Miles Laboratories",
+        "Alka-Seltzer",
+        "The Enchanted Hour",
+        "Robert Quick",
+        "Max Bruch",
+        "Henry Weber",
+        "WGN Chicago",
+        "Mutual",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-752-abbott-costello-lum-abner-inspector-west-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-752-abbott-costello-lum-abner-inspector-west-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Abbott & Costello, Lum & Abner & Inspector West",

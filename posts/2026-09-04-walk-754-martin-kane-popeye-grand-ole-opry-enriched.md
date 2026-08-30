@@ -1,0 +1,33 @@
+# Archival Dispatch: September 4 Calendar Walk — Martin Kane, Popeye & Grand Ole Opry
+
+**Date**: 2026-09-04  
+**Author**: radio index  
+**Tags**: September 4, Calendar Walk, Martin Kane Private Eye, William Gargan, Frank Kane, US Tobacco, Model Tobacco, Popeye the Sailor, Jack Mercer, Mae Questel, Wheatena, EC Segar, The Flying Doctor, James McKechnie, Ernest Dudley, BBC Light Programme, The Grand Ole Opry, Roy Acuff, Smoky Mountain Boys, Minnie Pearl, Prince Albert Tobacco, Campana Serenade, Dick Powell, Heart Throbs, WOR, Alternate Titles, Original Filenames
+
+---
+
+## September 4 Archival Metadata Enrichment (Increment 754)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across William Gargan cornering underworld casino racketeers on *Martin Kane, Private Eye* for US Tobacco, Jack Mercer and Mae Questel celebrating diner grand openings on *Popeye the Sailor* for Wheatena, Dr. Greg Halliday's emergency outback aviation rescue on *The Flying Doctor*, Roy Acuff fiddling on *The Grand Ole Opry* for Prince Albert, Dick Powell on *Campana Serenade*, and string arrangements on *Heart Throbs*, William Gargan (1949), Jack Mercer (1936), James McKechnie (1958), Roy Acuff (1943), and Dick Powell (1934–1958):
+
+---
+
+## 1. *September 4 Archival Inventory (Increment 754)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `MartinKane_1949_PublicEnemy.mp3` <br>*Alt*: `Comes face to face with public enemy # 1, a big-time gambler Martin Kane Private Investigator` | **"Public Enemy Number One with William Gargan"** | **Mutual (WOR)**<br>1949-09-04<br>4:30 PM EDT | **U.S. Tobacco Co.**<br>Model Pipe Tobacco | **William Gargan (Kane)** | **Horace McMahon & Kane** | `["Detective", "Hardboiled", "Martin Kane", "William Gargan", "US Tobacco"]` | Hardboiled Broadway private eye Martin Kane corners a notorious syndicate gambler operating an illegal subterranean roulette club. |
+| `Popeye_1936_SpinachCafe.mp3` <br>*Alt*: `Grand Opening Popeye the Sailor` | **"The Spinach Cafe Grand Opening with Jack Mercer"** | **NBC Red (WEAF)**<br>1936-09-04<br>7:15 PM EDST | **The Wheatena Corp.**<br>Wheatena Cereal | **Jack Mercer & Questel** | **Charles Lawrence & Segar** | `["Children", "Comedy", "Popeye the Sailor", "Jack Mercer", "Wheatena"]` | Popeye and Olive Oyl celebrate the grand opening of their waterfront diner while Wimpy tries to secure free hamburgers on credit. |
+| `FlyingDoctor_1958_RedBloodBlue.mp3` <br>*Alt*: `Red Blood and Blue Flying Doctor` | **"Red Blood and Blue with James McKechnie"** | **BBC Light Programme**<br>1958-09-04 | **Sustaining**<br>Outback Adventure | **James McKechnie (Halliday)** | **Ernest Dudley (Writer)** | `["Adventure", "Medical", "The Flying Doctor", "James McKechnie", "BBC Light"]` | Dr. Greg Halliday pilots his medical emergency aircraft into a remote cattle station to treat an injured British aristocrat facing severe blood loss. |
+| `GrandOleOpry_1943_GetAlongCindy.mp3` <br>*Alt*: `Get Along Home Cindy Grand Ole Opry` | **"Get Along Home Cindy with Roy Acuff and Prince Albert"** | **NBC (WSM)**<br>1943-09-04<br>10:30 PM EWT | **R.J. Reynolds**<br>Prince Albert Tobacco | **Roy Acuff & Smoky Boys** | **Minnie Pearl & Paducah** | `["Country", "Music", "Grand Ole Opry", "Roy Acuff", "Prince Albert"]` | Roy Acuff leads the Smoky Mountain Boys in high-spirited fiddle breakdowns and mountain vocal harmonies featuring Get Along Home Cindy. |
+| `Campana_1943_StartNewSeries.mp3` <br>*Alt*: `Start Of New Series Campana Serande` | **"Start of New Series with Dick Powell"** | **NBC (WEAF)**<br>1943-09-04<br>1:00 PM EWT | **Campana Sales Co.**<br>Campana Italian Balm | **Dick Powell (Host)** | **Lud Gluskin & Orch.** | `["Music", "Vocal", "Campana Serenade", "Dick Powell", "Campana"]` | Dick Powell inaugurates a new autumn season of romantic crooning, listener dedications, and melodic orchestral serenades. |
+| `HeartThrobs_1934_SweetheartSerenade.mp3` <br>*Alt*: `Heart Throbs 1934 Episode` | **"Sweetheart Serenades with WOR Chamber Ensemble"** | **WOR New York**<br>1934-09-04 | **Sustaining**<br>String Ensemble | **WOR Chamber Quartet** | **WOR Music Staff** | `["Music", "Romantic", "Heart Throbs", "WOR", "Orchestra"]` | A studio chamber ensemble performs lyrical string arrangements of romantic Victorian ballads and popular waltzes. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 246 / 471 (161 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
