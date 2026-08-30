@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — A Date with Judy, Woody Guthrie & Elmer Davis
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, A Date with Judy, Louise Erickson, Tums, Earplay, Woody Guthrie, NPR, CBS News, Elmer Davis, FDR, Destroyers for Bases, WWII, Mystery of the Week, Donald Gallagher, Ivory Soap, Serial Story Arc, Radio Superior, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 658)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on **September 3** across teenage situation comedies, public radio folk biography dramas, pivotal WWII naval diplomacy news broadcasts, serialized five-part crime mysteries, and Cuban music revues, Louise Erickson in *A Date with Judy* for Tums (1946), *Woody Guthrie: The Union Years* on *Earplay* (1981), Elmer Davis on CBS reporting the Destroyers for Bases agreement (1940), Donald Gallagher in *Mystery of the Week* for Ivory Soap (1946, 1947), and *Radio Superior* (1940–1981):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 658)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Arc Metadata | Story Synopsis |
+|---|---|---|---|---|---|---|---|---|
+| `DateJudy_1946_BabySitters.mp3` <br>*Alt*: `Baby Sitters, Inc. A Date with Judy` | **"Baby Sitters, Inc. with Louise Erickson as Judy Foster"** | **NBC (KFI)**<br>1946-09-03<br>8:30 PM EDT | **Lewis-Howe Co.**<br>Tums for Acid Indigestion | **Louise Erickson (Judy)** | **John Brown & Mack** | `["Comedy", "Sitcom", "A Date With Judy", "Louise Erickson", "Tums"]` | `null` | Teenager Judy Foster and her best friend Mitzi establish a neighborhood childcare cooperative with chaotic domestic results. |
+| `Earplay_1981_WoodyGuthrie2.mp3` <br>*Alt*: `Woody Guthrie- The Union Years - Part 2 Earplay` | **"Woody Guthrie: The Union Years (Part 2) with NPR"** | **NPR / CPB**<br>1981-09-03 | **Sustaining**<br>Public Radio Drama | **Folk Cast Ensemble** | **Karl Schmidt (Prod)** | `["Drama", "Biography", "Earplay", "Woody Guthrie", "NPR"]` | `{"title": "Woody Guthrie: The Union Years", "part": 2, "total_parts": 2}` | Woody Guthrie travels through Pacific Northwest labor encampments composing folk ballads for migrant labor unions. |
+| `CBSNews_1940_DestroyersBases.mp3` <br>*Alt*: `CBS Fdr Pledges 50 Destroyers To Britain News from 1940` | **"Destroyers for Bases Agreement Announcement with Elmer Davis"** | **CBS (WABC)**<br>1940-09-03<br>6:45 PM EDST | **Sustaining**<br>CBS News Analysis | **Elmer Davis (Anchor)** | **Washington Reporters** | `["News", "History", "CBS News", "Elmer Davis", "WWII"]` | `null` | Elmer Davis reports on President Franklin D. Roosevelt's executive agreement trading fifty American naval destroyers to Great Britain for Atlantic naval base leases. |
+| `MysteryWeek_1946_ChessTable2.mp3` <br>*Alt*: `CO Napoleon's Chess Table (Part 2) Mystery of the Week` | **"Napoleon's Chess Table (Part 2) with Donald Gallagher"** | **CBS (WABC)**<br>1946-09-03<br>7:00 PM EDT | **Procter & Gamble**<br>Ivory Soap & Flakes | **Donald Gallagher (Ross)** | **Dramatic Voice Cast** | `["Mystery", "Detective", "Mystery Of The Week", "Donald Gallagher", "Ivory Soap"]` | `{"title": "Napoleon's Chess Table", "part": 2, "total_parts": 5}` | Inspector Ross examines an antique ivory chessboard concealing microfilmed naval blueprints before a second assassination occurs. |
+| `MysteryWeek_1947_DeadlyLover3.mp3` <br>*Alt*: `COT Deadly Lover (Part 3) Mystery of the Week` | **"The Deadly Lover (Part 3) with Donald Gallagher"** | **CBS (WABC)**<br>1947-09-03<br>7:00 PM EDT | **Procter & Gamble**<br>Ivory Soap & Flakes | **Donald Gallagher (Ross)** | **Dramatic Voice Cast** | `["Mystery", "Detective", "Mystery Of The Week", "Donald Gallagher", "Ivory Soap"]` | `{"title": "The Deadly Lover", "part": 3, "total_parts": 5}` | Detectives trace an elusive fortune hunter who seduces wealthy heiresses before staging fatal boating accidents. |
+| `RadioSuperior_1957_HavanaVariety.mp3` <br>*Alt*: `Radio Superior Radio Superior` | **"Havana Variety Showcase with Armando Sanchez"** | **CMQ Havana**<br>1957-09-03 | **Sustaining**<br>Cuban Music Revue | **Armando Sanchez Orch.** | **Cuban Vocal Soloists** | `["Music", "Latin", "Radio Superior", "Cuba", "Havana"]` | `null` | Orchestral danzones and Afro-Cuban rhythms performed live before a studio audience in Havana. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 139 / 469 (330 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
