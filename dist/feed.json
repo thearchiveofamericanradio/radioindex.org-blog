@@ -6,6 +6,43 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-675-ronald-colman-dennis-day-jeff-regan-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-675-ronald-colman-dennis-day-jeff-regan-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Ronald Colman, Dennis Day & Jeff Regan",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 675)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across acclaimed literary adaptations, high-energy tenor sitcoms, tough hardboiled private eye cases, wartime comedy revues, and romantic dramatic theatre, Ronald Colman on <em>Favorite Story</em> (<em>The Luck of Roaring Camp</em> in 1946 and <em>Change of Face</em> in 1949), Dennis Day for Colgate (1949), Frank Graham as <em>Jeff Regan, Investigator</em> (1950), Rudy Vallee with Jack Haley (1942), and Joan Bennett on <em>Woodbury&#39;s Hollywood Playhouse</em> (1939–1950):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 675)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>FavoriteStory_1946_RoaringCamp.mp3</code> <br><em>Alt</em>: <code>Luck of Roaring Camp Favorite Story</code></td>\n<td><strong>&quot;The Luck of Roaring Camp with Ronald Colman&quot;</strong></td>\n<td><strong>Syndication / Ziv</strong><br>1946-09-03</td>\n<td><strong>Sustaining</strong><br>Literary Anthology</td>\n<td><strong>Ronald Colman (Host)</strong></td>\n<td><strong>Bret Harte &amp; Ziv Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Favorite Story&quot;, &quot;Ronald Colman&quot;, &quot;Bret Harte&quot;]</code></td>\n<td>A rough-and-tumble California gold mining camp is softened and transformed when the miners adopt an orphaned newborn baby.</td>\n</tr>\n<tr>\n<td><code>FavoriteStory_1949_ChangeOfFace.mp3</code> <br><em>Alt</em>: <code>Change of Face Favorite Story</code></td>\n<td><strong>&quot;Change of Face with Ronald Colman&quot;</strong></td>\n<td><strong>Syndication / Ziv</strong><br>1949-09-03</td>\n<td><strong>Sustaining</strong><br>Literary Anthology</td>\n<td><strong>Ronald Colman (Host)</strong></td>\n<td><strong>Lawrence &amp; Lee (Writers)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Favorite Story&quot;, &quot;Ronald Colman&quot;, &quot;Ziv&quot;]</code></td>\n<td>A desperate fugitive undergoes radical plastic surgery only to discover he has been given the face of an international criminal.</td>\n</tr>\n<tr>\n<td><code>DennisDay_1949_DennisLearnsFly.mp3</code> <br><em>Alt</em>: <code>A Day In The Life Of Dennis Day 1949 Episode</code></td>\n<td><strong>&quot;Dennis Learns to Fly with Dennis Day and Colgate&quot;</strong></td>\n<td><strong>NBC (KFI)</strong><br>1949-09-03<br>10:00 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Colgate Dental &amp; Lustre</td>\n<td><strong>Dennis Day (Self)</strong></td>\n<td><strong>Barbara Eiler &amp; Benaderet</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Dennis Day&quot;, &quot;Colgate&quot;, &quot;NBC&quot;]</code></td>\n<td>Dennis takes up amateur aviation lessons to impress Mildred&#39;s father, leading to chaotic emergency landings in Weaverville.</td>\n</tr>\n<tr>\n<td><code>JeffRegan_1950_GentlemenHorses.mp3</code> <br><em>Alt</em>: <code>Gentlemen Prefer Horses Jeff Regan Investigator</code></td>\n<td><strong>&quot;Gentlemen Prefer Horses with Frank Graham as Jeff Regan&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1950-09-03<br>9:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Private Detective</td>\n<td><strong>Frank Graham (Regan)</strong></td>\n<td><strong>Frank Nelson &amp; Neuman</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Jeff Regan&quot;, &quot;Frank Graham&quot;, &quot;CBS&quot;]</code></td>\n<td>Private eye Jeff Regan investigates the kidnapping of a prized thoroughbred racehorse on the eve of a championship stakes race.</td>\n</tr>\n<tr>\n<td><code>RudyVallee_1942_JackHaley.mp3</code> <br><em>Alt</em>: <code>Guest - Jack Haley Rudy Vallee</code></td>\n<td><strong>&quot;Guest Jack Haley with Rudy Vallee and Sealtest&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1942-09-03<br>10:00 PM EWT</td>\n<td><strong>National Dairy Products</strong><br>Sealtest Milk &amp; Ice Cream</td>\n<td><strong>Rudy Vallee</strong>, <strong>Haley</strong></td>\n<td><strong>Joan Davis &amp; Redd</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Rudy Vallee&quot;, &quot;Jack Haley&quot;, &quot;Sealtest&quot;]</code></td>\n<td>Comedian Jack Haley joins Rudy Vallee and Joan Davis in a madcap comedy sketch spoofing wartime victory garden farming.</td>\n</tr>\n<tr>\n<td><code>HollywoodPlayhouse_1939_DawnGirl.mp3</code> <br><em>Alt</em>: <code>Dawn Girl Hollywood Star Playhouse</code></td>\n<td><strong>&quot;Dawn Girl with Joan Bennett and Woodbury Soap&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1939-09-03<br>9:00 PM EDST</td>\n<td><strong>Andrew Jergens Co.</strong><br>Woodbury Facial Soap</td>\n<td><strong>Joan Bennett (Lead)</strong></td>\n<td><strong>Hollywood Radio Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Hollywood&quot;, &quot;Woodbury Playhouse&quot;, &quot;Joan Bennett&quot;, &quot;NBC&quot;]</code></td>\n<td>A glamorous Broadway stage actress struggles between career ambition and true romance during a whirlwind European tour.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 241 / 469 (228 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 675 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "Favorite Story",
+        "Ronald Colman",
+        "Bret Harte",
+        "Jerome Lawrence",
+        "Robert E Lee",
+        "A Day in the Life of Dennis Day",
+        "Dennis Day",
+        "Colgate",
+        "Jeff Regan Investigator",
+        "Frank Graham",
+        "Frank Nelson",
+        "E Jack Neuman",
+        "The Rudy Vallee Show",
+        "Jack Haley",
+        "Sealtest",
+        "Hollywood Star Playhouse",
+        "Joan Bennett",
+        "Woodbury Soap",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-674-rudy-vallee-mel-blanc-boris-karloff-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-674-rudy-vallee-mel-blanc-boris-karloff-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Rudy Vallee, Mel Blanc & Boris Karloff",

@@ -1,0 +1,33 @@
+# Archival Dispatch: September 3 Calendar Walk — Ronald Colman, Dennis Day & Jeff Regan
+
+**Date**: 2026-09-03  
+**Author**: radio index  
+**Tags**: September 3, Calendar Walk, Favorite Story, Ronald Colman, Bret Harte, Jerome Lawrence, Robert E Lee, A Day in the Life of Dennis Day, Dennis Day, Colgate, Jeff Regan Investigator, Frank Graham, Frank Nelson, E Jack Neuman, The Rudy Vallee Show, Jack Haley, Sealtest, Hollywood Star Playhouse, Joan Bennett, Woodbury Soap, Alternate Titles, Original Filenames
+
+---
+
+## September 3 Archival Metadata Enrichment (Increment 675)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across acclaimed literary adaptations, high-energy tenor sitcoms, tough hardboiled private eye cases, wartime comedy revues, and romantic dramatic theatre, Ronald Colman on *Favorite Story* (*The Luck of Roaring Camp* in 1946 and *Change of Face* in 1949), Dennis Day for Colgate (1949), Frank Graham as *Jeff Regan, Investigator* (1950), Rudy Vallee with Jack Haley (1942), and Joan Bennett on *Woodbury's Hollywood Playhouse* (1939–1950):
+
+---
+
+## 1. *September 3 Archival Inventory (Increment 675)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `FavoriteStory_1946_RoaringCamp.mp3` <br>*Alt*: `Luck of Roaring Camp Favorite Story` | **"The Luck of Roaring Camp with Ronald Colman"** | **Syndication / Ziv**<br>1946-09-03 | **Sustaining**<br>Literary Anthology | **Ronald Colman (Host)** | **Bret Harte & Ziv Staff** | `["Drama", "Anthology", "Favorite Story", "Ronald Colman", "Bret Harte"]` | A rough-and-tumble California gold mining camp is softened and transformed when the miners adopt an orphaned newborn baby. |
+| `FavoriteStory_1949_ChangeOfFace.mp3` <br>*Alt*: `Change of Face Favorite Story` | **"Change of Face with Ronald Colman"** | **Syndication / Ziv**<br>1949-09-03 | **Sustaining**<br>Literary Anthology | **Ronald Colman (Host)** | **Lawrence & Lee (Writers)** | `["Drama", "Anthology", "Favorite Story", "Ronald Colman", "Ziv"]` | A desperate fugitive undergoes radical plastic surgery only to discover he has been given the face of an international criminal. |
+| `DennisDay_1949_DennisLearnsFly.mp3` <br>*Alt*: `A Day In The Life Of Dennis Day 1949 Episode` | **"Dennis Learns to Fly with Dennis Day and Colgate"** | **NBC (KFI)**<br>1949-09-03<br>10:00 PM EDT | **Colgate-Palmolive**<br>Colgate Dental & Lustre | **Dennis Day (Self)** | **Barbara Eiler & Benaderet** | `["Comedy", "Sitcom", "Dennis Day", "Colgate", "NBC"]` | Dennis takes up amateur aviation lessons to impress Mildred's father, leading to chaotic emergency landings in Weaverville. |
+| `JeffRegan_1950_GentlemenHorses.mp3` <br>*Alt*: `Gentlemen Prefer Horses Jeff Regan Investigator` | **"Gentlemen Prefer Horses with Frank Graham as Jeff Regan"** | **CBS (KNX)**<br>1950-09-03<br>9:30 PM EDT | **Sustaining**<br>Private Detective | **Frank Graham (Regan)** | **Frank Nelson & Neuman** | `["Detective", "Mystery", "Jeff Regan", "Frank Graham", "CBS"]` | Private eye Jeff Regan investigates the kidnapping of a prized thoroughbred racehorse on the eve of a championship stakes race. |
+| `RudyVallee_1942_JackHaley.mp3` <br>*Alt*: `Guest - Jack Haley Rudy Vallee` | **"Guest Jack Haley with Rudy Vallee and Sealtest"** | **NBC (WEAF)**<br>1942-09-03<br>10:00 PM EWT | **National Dairy Products**<br>Sealtest Milk & Ice Cream | **Rudy Vallee**, **Haley** | **Joan Davis & Redd** | `["Comedy", "Variety", "Rudy Vallee", "Jack Haley", "Sealtest"]` | Comedian Jack Haley joins Rudy Vallee and Joan Davis in a madcap comedy sketch spoofing wartime victory garden farming. |
+| `HollywoodPlayhouse_1939_DawnGirl.mp3` <br>*Alt*: `Dawn Girl Hollywood Star Playhouse` | **"Dawn Girl with Joan Bennett and Woodbury Soap"** | **NBC Blue (WJZ)**<br>1939-09-03<br>9:00 PM EDST | **Andrew Jergens Co.**<br>Woodbury Facial Soap | **Joan Bennett (Lead)** | **Hollywood Radio Staff** | `["Drama", "Hollywood", "Woodbury Playhouse", "Joan Bennett", "NBC"]` | A glamorous Broadway stage actress struggles between career ambition and true romance during a whirlwind European tour. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 241 / 469 (228 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
