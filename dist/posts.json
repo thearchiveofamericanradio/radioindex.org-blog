@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-704-bob-hope-mel-torme-aldrich-family-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-704-bob-hope-mel-torme-aldrich-family-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Bob Hope, Mel Tormé & The Aldrich Family",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 704)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across early rapid-fire Bob Hope variety comedy featuring guest jazz vocalist Mel Tormé for Pepsodent, classic teenage domestic misadventures on <em>The Aldrich Family</em> (Ezra Stone in 1939 and Norman Tokar in 1942), high-energy AFRS <em>Jubilee</em> broadcasts with Ernie Whitman spotlighting The Treniers and New Orleans jazz pioneer Kid Ory, and offbeat network studio satire with Bob and Ray, Bob Hope (1936), <em>The Aldrich Family</em> (1939, 1942), <em>Jubilee</em> (1948, 1949), and <em>Bob and Ray</em> (1936–1952):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 704)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>BobHope_1936_TuttiFrutti.mp3</code> <br><em>Alt</em>: <code>&#39;Tutti Frutti&#39; by Mel Torme Bob Hope Show, The</code></td>\n<td><strong>&quot;Tutti Frutti by Mel Tormé with Bob Hope and Pepsodent&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1936-09-03</td>\n<td><strong>The Pepsodent Co.</strong><br>Pepsodent Toothpaste</td>\n<td><strong>Bob Hope (Host)</strong></td>\n<td><strong>Mel Tormé &amp; Ennis</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Music&quot;, &quot;Bob Hope&quot;, &quot;Mel Torme&quot;, &quot;Pepsodent&quot;]</code></td>\n<td>Bob Hope trades rapid-fire one-liners before introducing young jazz vocalist Mel Tormé for a swinging rendition of Tutti Frutti.</td>\n</tr>\n<tr>\n<td><code>AldrichFamily_1939_AuntHarriet.mp3</code> <br><em>Alt</em>: <code>Aldrich Family 1939 Episode</code></td>\n<td><strong>&quot;Henry Takes Aunt Harriet to the Movies with Ezra Stone&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1939-09-03<br>8:00 PM EDST</td>\n<td><strong>General Foods</strong><br>Jell-O Gelatin</td>\n<td><strong>Ezra Stone (Henry)</strong></td>\n<td><strong>Jackie Kelk &amp; Goldsmith</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;The Aldrich Family&quot;, &quot;Ezra Stone&quot;, &quot;Jell-O&quot;]</code></td>\n<td>Henry Aldrich is tasked with escorting his fussy aunt to an evening cinema showing but loses her ticket in a comedy of errors.</td>\n</tr>\n<tr>\n<td><code>AldrichFamily_1942_BirdBath.mp3</code> <br><em>Alt</em>: <code>Aldrich Family 1942 Episode</code></td>\n<td><strong>&quot;Henry Builds a Bird Bath with Norman Tokar as Henry Aldrich&quot;</strong></td>\n<td><strong>NBC (WEAF)</strong><br>1942-09-03<br>8:30 PM EWT</td>\n<td><strong>General Foods</strong><br>Postum Cereal Beverage</td>\n<td><strong>Norman Tokar (Henry)</strong></td>\n<td><strong>Jackie Kelk &amp; Jameson</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;The Aldrich Family&quot;, &quot;Norman Tokar&quot;, &quot;Postum&quot;]</code></td>\n<td>Henry and Homer attempt to construct a concrete bird bath in the backyard, inadvertently damaging Mr. Aldrich&#39;s prized prize-winning flowerbed.</td>\n</tr>\n<tr>\n<td><code>Jubilee_1948_Treniers.mp3</code> <br><em>Alt</em>: <code>Jubilee 1948 Episode</code></td>\n<td><strong>&quot;Starring Ernie Whitman and The Treniers with AFRS&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1948-09-03</td>\n<td><strong>Armed Forces Radio</strong><br>Military Entertainment</td>\n<td><strong>Ernie Whitman (MC)</strong></td>\n<td><strong>The Treniers &amp; Carter</strong></td>\n<td><code>[&quot;Music&quot;, &quot;R&amp;B&quot;, &quot;Jubilee&quot;, &quot;Ernie Whitman&quot;, &quot;The Treniers&quot;]</code></td>\n<td>Ernie Whitman hosts an energetic jump blues and R&amp;B showcase featuring The Treniers and Benny Carter&#39;s swing orchestra for overseas troops.</td>\n</tr>\n<tr>\n<td><code>Jubilee_1949_KidOry.mp3</code> <br><em>Alt</em>: <code>Guest - Kid Ory Orchestra Jubilee</code></td>\n<td><strong>&quot;Guest Kid Ory and His Creole Jazz Band with Ernie Whitman&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1949-09-03</td>\n<td><strong>Armed Forces Radio</strong><br>Military Entertainment</td>\n<td><strong>Ernie Whitman (Host)</strong></td>\n<td><strong>Kid Ory &amp; Creole Band</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Jazz&quot;, &quot;Jubilee&quot;, &quot;Kid Ory&quot;, &quot;Ernie Whitman&quot;]</code></td>\n<td>Trombonist Kid Ory leads his traditional New Orleans Creole jazz ensemble in fiery Dixieland standards recorded for military personnel.</td>\n</tr>\n<tr>\n<td><code>BobRay_1952_LittleBrother.mp3</code> <br><em>Alt</em>: <code>Little Brother Visits And Sings Bob and Ray Present the CBS Radio Network</code></td>\n<td><strong>&quot;Little Brother Visits and Sings with Bob and Ray on NBC&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1952-09-03<br>5:45 PM EDT</td>\n<td><strong>Sustaining</strong><br>Network Comedy</td>\n<td><strong>Bob Elliott &amp; Ray Goulding</strong></td>\n<td><strong>Bob &amp; Ray Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Satire&quot;, &quot;Bob and Ray&quot;, &quot;Bob Elliott&quot;, &quot;Ray Goulding&quot;]</code></td>\n<td>Bob and Ray introduce an obstreperous singing kid brother character who disrupts the broadcast studio and heckles the organist.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 415 / 469 (54 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 704 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "The Bob Hope Show",
+        "Bob Hope",
+        "Mel Tormé",
+        "Pepsodent",
+        "The Aldrich Family",
+        "Ezra Stone",
+        "Norman Tokar",
+        "Jackie Kelk",
+        "House Jameson",
+        "Clifford Goldsmith",
+        "Jell-O",
+        "Postum",
+        "Jubilee",
+        "Ernie Whitman",
+        "The Treniers",
+        "Kid Ory",
+        "AFRS",
+        "Bob and Ray",
+        "NBC",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-703-the-fat-man-bob-and-ray-anatole-france-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-703-the-fat-man-bob-and-ray-anatole-france-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — The Fat Man, Bob & Ray & Anatole France",
