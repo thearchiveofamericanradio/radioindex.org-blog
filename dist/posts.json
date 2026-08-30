@@ -6,6 +6,45 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-723-orson-welles-shadow-jean-arthur-buddy-clark-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-723-orson-welles-shadow-jean-arthur-buddy-clark-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Orson Welles' Shadow, Jean Arthur & Buddy Clark",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 723)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Orson Welles and Agnes Moorehead confronting poison dart traps in <em>The Black Buddha</em> on <em>The Shadow</em> for Blue Coal, Jean Arthur and Fred MacMurray in Somerset Maugham&#39;s marital farce <em>Too Many Husbands</em> for AFRS, popular crooner Buddy Clark joining Percy Faith on <em>The Carnation Contented Hour</em>, British naval comedy on <em>The Navy Lark</em>, and historical penal colony escapes from Devil&#39;s Island, Orson Welles (1938), Jean Arthur (1944), Buddy Clark (1949), Jon Pertwee (1966), and <em>Famous Escapes</em> (1938–1966):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 723)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>TheShadow_1938_BlackBuddha.mp3</code> <br><em>Alt</em>: <code>Black Buddha Shadow, The</code></td>\n<td><strong>&quot;The Black Buddha with Orson Welles as The Shadow&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1938-09-04<br>5:30 PM EDST</td>\n<td><strong>DL&amp;W Coal Company</strong><br>&#39;blue coal&#39; Home Heating</td>\n<td><strong>Orson Welles (Shadow)</strong></td>\n<td><strong>Agnes Moorehead &amp; Bierstadt</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Shadow&quot;, &quot;Orson Welles&quot;, &quot;Blue Coal&quot;]</code></td>\n<td>The Shadow investigates a string of sudden deaths surrounding an antique jade-inlaid black Buddha statue harboring a deadly poison dart trap.</td>\n</tr>\n<tr>\n<td><code>TheShadow_1938_BlackBuddha_Alt.mp3</code> <br><em>Alt</em>: <code>The Black Buddha Shadow, The</code></td>\n<td><strong>&quot;The Black Buddha with Orson Welles and Agnes Moorehead&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1938-09-04<br>5:30 PM EDST</td>\n<td><strong>DL&amp;W Coal Company</strong><br>&#39;blue coal&#39; Home Heating</td>\n<td><strong>Orson Welles &amp; Margot</strong></td>\n<td><strong>Ken Roberts &amp; Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Shadow&quot;, &quot;Orson Welles&quot;, &quot;Agnes Moorehead&quot;]</code></td>\n<td>Lamont Cranston uses his power to cloud men&#39;s minds to intercept an occult smuggling ring murdering rival collectors for a cursed black statuette.</td>\n</tr>\n<tr>\n<td><code>FrontLine_1944_TooManyHusbands.mp3</code> <br><em>Alt</em>: <code>Too Many Husbands Front Line Theater</code></td>\n<td><strong>&quot;Too Many Husbands with Jean Arthur and Fred MacMurray&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1944-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>Jean Arthur &amp; MacMurray</strong></td>\n<td><strong>Maugham (Author)</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Romance&quot;, &quot;Front Line Theater&quot;, &quot;Jean Arthur&quot;, &quot;Fred MacMurray&quot;]</code></td>\n<td>A remarried wartime widow finds her domestic life thrown into hilarious chaos when her presumed-dead first husband returns home from a Pacific island.</td>\n</tr>\n<tr>\n<td><code>ContentedHour_1949_BuddyClark.mp3</code> <br><em>Alt</em>: <code>Guest Buddy Clark Contented Hour</code></td>\n<td><strong>&quot;Guest Buddy Clark with Percy Faith and His Orchestra&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-09-04<br>10:00 PM EDT</td>\n<td><strong>Carnation Milk Co.</strong><br>Carnation Evaporated Milk</td>\n<td><strong>Buddy Clark (Vocalist)</strong></td>\n<td><strong>Percy Faith &amp; Jimmy Wallington</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Concert&quot;, &quot;Contented Hour&quot;, &quot;Buddy Clark&quot;, &quot;Carnation&quot;]</code></td>\n<td>Crooner Buddy Clark joins Percy Faith&#39;s orchestra in swinging pop melodies and romantic ballads.</td>\n</tr>\n<tr>\n<td><code>NavyLark_1966_WhereTroutbridge.mp3</code> <br><em>Alt</em>: <code>Searching for their Ship - Where is Troutbridge Navy Lark, The</code></td>\n<td><strong>&quot;Where Is Troutbridge? with Stephen Murray and Jon Pertwee&quot;</strong></td>\n<td><strong>BBC Light Programme</strong><br>1966-09-04<br>1:30 PM BST</td>\n<td><strong>Sustaining</strong><br>British Naval Sitcom</td>\n<td><strong>Stephen Murray &amp; Pertwee</strong></td>\n<td><strong>Lawrie Wyman &amp; Phillips</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;The Navy Lark&quot;, &quot;Stephen Murray&quot;, &quot;Jon Pertwee&quot;]</code></td>\n<td>The bumbling crew of HMS Troutbridge returns from shore leave to discover that their frigate has mysteriously vanished from the naval dockyard.</td>\n</tr>\n<tr>\n<td><code>FamousEscapes_1938_DevilsIsland.mp3</code> <br><em>Alt</em>: <code>Episode Famous Escapes</code></td>\n<td><strong>&quot;The Escape from Devil&#39;s Island with Dramatic Cast&quot;</strong></td>\n<td><strong>Syndication / WOR</strong><br>1938-09-04</td>\n<td><strong>Sustaining</strong><br>Historical Anthology</td>\n<td><strong>Dramatic Radio Cast</strong></td>\n<td><strong>Syndicated Production Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;History&quot;, &quot;Famous Escapes&quot;, &quot;Devils Island&quot;, &quot;Syndicated&quot;]</code></td>\n<td>A French political prisoner executes an audacious jungle and shark-infested sea raft escape from the penal colony of Devil&#39;s Island.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 60 / 471 (347 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 723 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Shadow",
+        "Orson Welles",
+        "Agnes Moorehead",
+        "Blue Coal",
+        "Lamont Cranston",
+        "Front Line Theater",
+        "Jean Arthur",
+        "Fred MacMurray",
+        "AFRS",
+        "The Carnation Contented Hour",
+        "Buddy Clark",
+        "Percy Faith",
+        "Carnation Evaporated Milk",
+        "The Navy Lark",
+        "Stephen Murray",
+        "Jon Pertwee",
+        "Leslie Phillips",
+        "BBC Light Programme",
+        "Famous Escapes",
+        "Devils Island",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-722-pinocchio-jack-webb-kraft-music-hall-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-722-pinocchio-jack-webb-kraft-music-hall-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Pinocchio, Jack Webb & Kraft Music Hall",
