@@ -6,6 +6,44 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-752-abbott-costello-lum-abner-inspector-west-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-752-abbott-costello-lum-abner-inspector-west-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Abbott & Costello, Lum & Abner & Inspector West",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 752)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Bud Abbott &amp; Lou Costello bickering over used automobile deals on <em>The Abbott and Costello Show</em> for Chase &amp; Sanborn, three classic Arkansas hill country chronicles on <em>Lum and Abner</em> across Horlick&#39;s Malted Milk (1935) and Alka-Seltzer (1941), Patrick Barr investigating London extortion homicides in Part 2 of John Creasey&#39;s <em>Inspector West Makes Haste</em>, and chamber poetry on <em>Music and the Muse</em>, Bud Abbott &amp; Lou Costello (1940), Chester Lauck &amp; Norris Goff (1935, 1941), Patrick Barr (1971), and WNYC Ensemble (1935–1971):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 752)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>AbbottCostello_1940_UsedCar.mp3</code> <br><em>Alt</em>: <code>Lou Buys a Car Abbott and Costello</code></td>\n<td><strong>&quot;Lou Buys a Used Car with Bud Abbott and Lou Costello&quot;</strong></td>\n<td><strong>NBC Red (WEAF)</strong><br>1940-09-04<br>8:00 PM EDST</td>\n<td><strong>Standard Brands</strong><br>Chase &amp; Sanborn Coffee</td>\n<td><strong>Bud Abbott &amp; Costello</strong></td>\n<td><strong>Van Steeden &amp; Sportsmen</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Variety&quot;, &quot;Abbott and Costello&quot;, &quot;Bud Abbott&quot;, &quot;Lou Costello&quot;]</code></td>\n<td>Bud Abbott attempts to assist Lou Costello in purchasing a bargain second-hand automobile, resulting in rapid-fire fast-talking sales arguments.</td>\n</tr>\n<tr>\n<td><code>LumAbner_1935_FakeKidnap.mp3</code> <br><em>Alt</em>: <code>Abner&#39;s Fake Kidnapping Lum and Abner</code></td>\n<td><strong>&quot;Abner&#39;s Fake Kidnapping with Chester Lauck and Norris Goff&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1935-09-04<br>7:30 PM EDST</td>\n<td><strong>Horlick&#39;s Malted Milk</strong><br>Malted Milk Tablets</td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Rural&quot;, &quot;Lum and Abner&quot;, &quot;Chester Lauck&quot;, &quot;Horlick&#39;s&quot;]</code></td>\n<td>Lum concocts a scheme to stage Abner&#39;s fake abduction from the Jot &#39;Em Down Store to raise money for community welfare funds.</td>\n</tr>\n<tr>\n<td><code>LumAbner_1935_RansomDemand.mp3</code> <br><em>Alt</em>: <code>Abner&#39;s Kidnapping Lum and Abner</code></td>\n<td><strong>&quot;The Ransom Demand (Master Recording) with Norris Goff&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1935-09-04</td>\n<td><strong>Horlick&#39;s Malted Milk</strong><br>Malted Milk Tablets</td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Rural&quot;, &quot;Lum and Abner&quot;, &quot;Chester Lauck&quot;, &quot;Norris Goff&quot;]</code></td>\n<td>Lum and Abner draft an exaggerated ransom letter while hiding out in the Pine Ridge hills, worrying that the town constable will discover them.</td>\n</tr>\n<tr>\n<td><code>LumAbner_1941_WaitingReply.mp3</code> <br><em>Alt</em>: <code>Anxiously Waiting For Reply Lum and Abner</code></td>\n<td><strong>&quot;Anxiously Waiting for Reply with Miles Laboratories&quot;</strong></td>\n<td><strong>NBC Blue (WJZ)</strong><br>1941-09-04<br>8:15 PM EDST</td>\n<td><strong>Miles Laboratories</strong><br>Alka-Seltzer &amp; One-A-Day</td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><strong>Chester Lauck &amp; Goff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Rural&quot;, &quot;Lum and Abner&quot;, &quot;Chester Lauck&quot;, &quot;Alka-Seltzer&quot;]</code></td>\n<td>Lum and Abner wait nervously by the Pine Ridge post office for a crucial bank telegram approving their county fair concession loan.</td>\n</tr>\n<tr>\n<td><code>InspectorWest_1971_MurderStepsIn2.mp3</code> <br><em>Alt</em>: <code>Makes Haste - Murder Steps In Inspector West</code></td>\n<td><strong>&quot;Murder Steps In (Part 2) with Patrick Barr as Inspector West&quot;</strong></td>\n<td><strong>BBC Radio 4</strong><br>1971-09-04</td>\n<td><strong>Sustaining</strong><br>British Detective Serial</td>\n<td><strong>Patrick Barr (West)</strong></td>\n<td><strong>Maurice Travers &amp; Creasey</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Police&quot;, &quot;Inspector West&quot;, &quot;Patrick Barr&quot;, &quot;John Creasey&quot;]</code></td>\n<td>Chief Inspector Roger West follows a trail of extortion letters to a London photography studio where the prime blackmailer is found dead.</td>\n</tr>\n<tr>\n<td><code>MusicMuse_1949_ClassicalPoetry.mp3</code> <br><em>Alt</em>: <code>Episode ++++ Music And The Muse</code></td>\n<td><strong>&quot;Classical Poetry and Symphony with WNYC Ensemble&quot;</strong></td>\n<td><strong>WNYC New York</strong><br>1949-09-04</td>\n<td><strong>Sustaining</strong><br>Fine Arts Showcase</td>\n<td><strong>WNYC String Quartet</strong></td>\n<td><strong>WNYC Music Department</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Poetry&quot;, &quot;Music And The Muse&quot;, &quot;WNYC&quot;, &quot;Classical&quot;]</code></td>\n<td>Readings of English Romantic verse paired with live chamber string quartet performances of Mozart and Schubert.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 234 / 471 (173 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 752 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "The Abbott and Costello Show",
+        "Bud Abbott",
+        "Lou Costello",
+        "Chase and Sanborn",
+        "Standard Brands",
+        "Lum and Abner",
+        "Chester Lauck",
+        "Norris Goff",
+        "Pine Ridge",
+        "Horlick's Malted Milk",
+        "Miles Laboratories",
+        "Alka-Seltzer",
+        "Inspector West",
+        "Patrick Barr",
+        "John Creasey",
+        "Maurice Travers",
+        "BBC Radio 4",
+        "Music and the Muse",
+        "WNYC New York",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-751-mcgarry-and-mouse-romance-robert-montgomery-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-751-mcgarry-and-mouse-romance-robert-montgomery-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — McGarry & Mouse, Romance & Robert Montgomery",
