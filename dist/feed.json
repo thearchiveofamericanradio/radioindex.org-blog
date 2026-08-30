@@ -6,6 +6,46 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-750-betty-grable-tarzan-tennessee-ernie-ford-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-750-betty-grable-tarzan-tennessee-ernie-ford-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Betty Grable, Tarzan & Tennessee Ernie Ford",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 750)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Hollywood pin-up icon Betty Grable and Mel Blanc joining Kay Kyser on <em>G.I. Journal</em> for AFRS, James Pierce starring in Part 70 of Edgar Rice Burroughs&#39; <em>The Diamond of Asher</em> on <em>Tarzan</em>, Tennessee Ernie Ford sharing motoring safety advice on <em>The Ford Road Show</em>, an aging steam engineer braving trestle washouts on <em>Heartbeat Theatre</em> for The Salvation Army, Arlene Francis on <em>Betty and Bob</em>, and John Brown&#39;s Broadway gambler antics on <em>The Damon Runyon Theater</em>, Betty Grable &amp; Mel Blanc (1943), James Pierce (1933), Tennessee Ernie Ford (1957), and Arlene Francis (1933–1960):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 750)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>GIJournal_1943_BettyGrable.mp3</code> <br><em>Alt</em>: <code>GI Journal 1943 Episode</code></td>\n<td><strong>&quot;Guest Betty Grable and Mel Blanc with Kay Kyser&quot;</strong></td>\n<td><strong>AFRS Transcription</strong><br>1943-09-04</td>\n<td><strong>Armed Forces Radio</strong><br>Troop Entertainment</td>\n<td><strong>Betty Grable &amp; Mel Blanc</strong></td>\n<td><strong>Kay Kyser &amp; Ish Kabibble</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Comedy&quot;, &quot;GI Journal&quot;, &quot;Betty Grable&quot;, &quot;Mel Blanc&quot;]</code></td>\n<td>Hollywood star Betty Grable joins bandleader Kay Kyser and Mel Blanc for GI comedy sketches, pin-up banter, and musical swing hits.</td>\n</tr>\n<tr>\n<td><code>Tarzan_1933_DiamondAsher70.mp3</code> <br><em>Alt</em>: <code>Episode Tarzan</code></td>\n<td><strong>&quot;The Diamond of Asher: Escape from the Cannibal Cave (Part 70)&quot;</strong></td>\n<td><strong>Syndication</strong><br>1933-09-04</td>\n<td><strong>Foulds / Signal Oil</strong><br>Sustaining Western</td>\n<td><strong>James Pierce &amp; Burroughs</strong></td>\n<td><strong>Edgar Rice Burroughs</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Jungle&quot;, &quot;Tarzan&quot;, &quot;James Pierce&quot;, &quot;Edgar Rice Burroughs&quot;]</code></td>\n<td>Tarzan leads an expedition of explorers through subterranean caverns, avoiding hostile jungle tribes to protect the sacred diamond idol.</td>\n</tr>\n<tr>\n<td><code>FordRoadShow_1957_HighwaySafety.mp3</code> <br><em>Alt</em>: <code>Ford Road Show 1957 Episode</code></td>\n<td><strong>&quot;Highway Driving and Road Safety with Tennessee Ernie Ford&quot;</strong></td>\n<td><strong>CBS Radio</strong><br>1957-09-04</td>\n<td><strong>Ford Motor Co.</strong><br>Ford Division</td>\n<td><strong>Tennessee Ernie Ford</strong></td>\n<td><strong>Green Valley Boys</strong></td>\n<td><code>[&quot;Talk&quot;, &quot;Variety&quot;, &quot;Ford Road Show&quot;, &quot;Tennessee Ernie Ford&quot;, &quot;Ford&quot;]</code></td>\n<td>Tennessee Ernie Ford shares folksy humor, country gospel songs, and practical highway motoring advice for Labor Day travelers.</td>\n</tr>\n<tr>\n<td><code>HeartbeatTheatre_1960_McDevittsRun.mp3</code> <br><em>Alt</em>: <code>McDevitt&#39;s Last Run Heartbeat Theatre</code></td>\n<td><strong>&quot;McDevitt&#39;s Last Run with The Salvation Army&quot;</strong></td>\n<td><strong>Mutual / Syndication</strong><br>1960-09-04</td>\n<td><strong>The Salvation Army</strong><br>Public Service</td>\n<td><strong>Dramatic Repertory Cast</strong></td>\n<td><strong>Don Forbes (Dir.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Heartbeat Theatre&quot;, &quot;Salvation Army&quot;, &quot;Railroad&quot;]</code></td>\n<td>An aging railroad locomotive engineer facing mandatory retirement navigates a perilous washed-out mountain trestle during an unexpected thunderstorm.</td>\n</tr>\n<tr>\n<td><code>BettyBob_1947_DrakeEstate.mp3</code> <br><em>Alt</em>: <code>Betty and Bob 1947 Episode</code></td>\n<td><strong>&quot;Rebuilding the Drake Estate with Arlene Francis&quot;</strong></td>\n<td><strong>Syndication</strong><br>1947-09-04</td>\n<td><strong>Sustaining</strong><br>Daytime Drama</td>\n<td><strong>Arlene Francis &amp; Frank</strong></td>\n<td><strong>Frank and Anne Hummert</strong></td>\n<td><code>[&quot;Soap Opera&quot;, &quot;Drama&quot;, &quot;Betty and Bob&quot;, &quot;Arlene Francis&quot;, &quot;Carl Frank&quot;]</code></td>\n<td>Betty Drake attempts to resolve a bitter family estate conflict while supporting Bob through difficult financial restructuring at his publishing firm.</td>\n</tr>\n<tr>\n<td><code>DamonRunyon_1949_CemeteryBait2.mp3</code> <br><em>Alt</em>: <code>Cemetery Bait The Damon Runyon Theatre</code></td>\n<td><strong>&quot;Cemetery Bait (Syndicated Master) with John Brown&quot;</strong></td>\n<td><strong>Syndication / Mayfair</strong><br>1949-09-04</td>\n<td><strong>Sustaining</strong><br>Broadway Comedy</td>\n<td><strong>John Brown (Broadway)</strong></td>\n<td><strong>Russell Hughes &amp; Runyon</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Drama&quot;, &quot;Damon Runyon Theater&quot;, &quot;John Brown&quot;, &quot;Damon Runyon&quot;]</code></td>\n<td>A superstitious Broadway racetrack gambler buys a burial plot from an anxious undertaker, triggering unexpected fortune on a long-shot horse.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 222 / 471 (185 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 750 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "GI Journal",
+        "Betty Grable",
+        "Mel Blanc",
+        "Kay Kyser",
+        "AFRS",
+        "Tarzan",
+        "James Pierce",
+        "Joan Burroughs",
+        "Edgar Rice Burroughs",
+        "The Diamond of Asher",
+        "Ford Road Show",
+        "Tennessee Ernie Ford",
+        "Ford Motor Company",
+        "Heartbeat Theatre",
+        "The Salvation Army",
+        "Don Forbes",
+        "The Damon Runyon Theater",
+        "John Brown",
+        "Betty and Bob",
+        "Arlene Francis",
+        "Frank and Anne Hummert",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-749-blondie-rin-tin-tin-carnation-contented-hour-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-749-blondie-rin-tin-tin-carnation-contented-hour-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Blondie, Rin-Tin-Tin & Carnation Contented Hour",
