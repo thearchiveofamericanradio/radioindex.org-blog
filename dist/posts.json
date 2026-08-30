@@ -6,6 +6,79 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-576-my-friend-irma-falcon-chick-carter-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-576-my-friend-irma-falcon-chick-carter-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — My Friend Irma, The Falcon, and Chick Carter",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 576)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across classic apartment domestic sitcoms, smooth jewel detective thrillers, juvenile adventure serials, pioneering female police procedurals, and national radio town hall debates, Marie Wilson in <em>My Friend Irma</em> for Swan Soap (1947), James Meighan as <em>The Falcon</em> for Gem Blades (1943), Leon Janney in <em>Chick Carter, Boy Detective</em> (1943, 1944), Betty Garde in <em>Police Woman</em> (1946), and <em>America&#39;s Town Meeting of the Air</em> (1943–1953):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 576)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Irma_1947_JobHunt.mp3</code> <br><em>Alt</em>: <code>My Friend Irma 1947 Episode</code></td>\n<td><strong>&quot;Irma&#39;s Labor Day Job Hunting with Marie Wilson and Swan Soap&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1947-09-01<br>8:30 PM EDT</td>\n<td><strong>Lever Brothers</strong><br>Swan Soap</td>\n<td><strong>Marie Wilson (Irma)</strong></td>\n<td><strong>Cathy Lewis &amp; John Brown</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;My Friend Irma&quot;, &quot;Marie Wilson&quot;, &quot;Swan&quot;]</code></td>\n<td>Irma attempts to find an easy holiday job for her perpetually unemployed boyfriend Al with hilarious mixups at a department store.</td>\n</tr>\n<tr>\n<td><code>Falcon_1943_WanderingCorpse.mp3</code> <br><em>Alt</em>: <code>The Falcon 1943 Episode</code></td>\n<td><strong>&quot;The Case of the Wandering Corpse with James Meighan and Gem Blades&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1943-09-01<br>8:30 PM EWT</td>\n<td><strong>American Safety Razor</strong><br>Gem Blades</td>\n<td><strong>James Meighan (Waring)</strong></td>\n<td><strong>Mutual Mystery Staff</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Falcon&quot;, &quot;James Meighan&quot;, &quot;Gem Blades&quot;]</code></td>\n<td>Michael Waring investigates when a body found in an apartment elevator disappears and turns up inside a locked steamer trunk.</td>\n</tr>\n<tr>\n<td><code>Carter_1943_CertainDeath.mp3</code> <br><em>Alt</em>: <code>Cheating Certain Death Chick Carter</code></td>\n<td><strong>&quot;Cheating Certain Death with Leon Janney and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1943-09-01<br>5:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Juvenile Serial</td>\n<td><strong>Leon Janney (Chick)</strong></td>\n<td><strong>Bill Lipton &amp; Mack</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Adventure&quot;, &quot;Mystery&quot;, &quot;Chick Carter&quot;, &quot;Mutual&quot;]</code></td>\n<td>Chick Carter escapes from an abandoned mill cellar rigged with explosive fuses and races to alert the harbor patrol.</td>\n</tr>\n<tr>\n<td><code>Carter_1944_SubmarineBase.mp3</code> <br><em>Alt</em>: <code>Chick Carter, Boy Detective 1944 Episode</code></td>\n<td><strong>&quot;The Submarine Base Sabotage with Leon Janney and Mutual&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1944-09-01<br>5:30 PM EWT</td>\n<td><strong>Sustaining</strong><br>Juvenile Serial</td>\n<td><strong>Leon Janney</strong>, <strong>McCoy</strong></td>\n<td><strong>Bill Lipton (Actor)</strong></td>\n<td><code>[&quot;Children&quot;, &quot;Adventure&quot;, &quot;Mystery&quot;, &quot;Chick Carter&quot;, &quot;Mutual&quot;]</code></td>\n<td>Chick discovers a hidden transmitter sending coded shipping schedules to an enemy submarine lurking off the Atlantic coast.</td>\n</tr>\n<tr>\n<td><code>Police_1946_Bowline.mp3</code> <br><em>Alt</em>: <code>TCOT Running Bowline Police Woman</code></td>\n<td><strong>&quot;The Case of the Running Bowline (The Jittery Socialite) with Betty Garde&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-01<br>5:45 PM EDT</td>\n<td><strong>Sterling Drug</strong><br>Phillips&#39; Milk of Magnesia</td>\n<td><strong>Betty Garde (Sullivan)</strong></td>\n<td><strong>Phillips Drug Staff</strong></td>\n<td><code>[&quot;Police&quot;, &quot;Crime&quot;, &quot;Police Woman&quot;, &quot;Betty Garde&quot;, &quot;Phillips&quot;]</code></td>\n<td>Officer Mary Sullivan investigates an anxious Long Island heiress targeted by yachting extortionists using nautical knot messages.</td>\n</tr>\n<tr>\n<td><code>Town_Meeting_1953_LaborDisputes.mp3</code> <br><em>Alt</em>: <code>America&#39;s Town Meeting 1953 Episode</code></td>\n<td><strong>&quot;How Can We Best Resolve Cold War Labor Disputes? with George V. Denny Jr.&quot;</strong></td>\n<td><strong>ABC (WJZ)</strong><br>1953-09-01<br>9:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Public Forum</td>\n<td><strong>George V. Denny Jr.</strong></td>\n<td><strong>Town Hall Forum Staff</strong></td>\n<td><code>[&quot;Discussion&quot;, &quot;Public Affairs&quot;, &quot;Town Meeting&quot;, &quot;ABC&quot;, &quot;Politics&quot;]</code></td>\n<td>Panelists and audience members debate governmental arbitration versus collective bargaining for vital defense industry labor disputes.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 378 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 576 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "My Friend Irma",
+        "Marie Wilson",
+        "Cathy Lewis",
+        "Lever Brothers",
+        "Swan Soap",
+        "The Falcon",
+        "James Meighan",
+        "Gem Blades",
+        "Chick Carter Boy Detective",
+        "Leon Janney",
+        "Mutual",
+        "Police Woman",
+        "Betty Garde",
+        "Phillips Milk of Magnesia",
+        "America's Town Meeting of the Air",
+        "George V Denny Jr",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.radioindex.org/posts/2026-09-01-walk-575-harry-nile-fitch-bandwagon-richard-widmark-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-01-walk-575-harry-nile-fitch-bandwagon-richard-widmark-enriched",
+      "title": "Archival Dispatch: September 1 Calendar Walk — Harry Nile, Fitch Bandwagon, and Richard Widmark",
+      "content_html": "<h2>September 1 Archival Metadata Enrichment (Increment 575)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 1</strong> across modern Seattle detective theater, collegiate marching band broadcasts, lyrical Irish autobiography, mid-century music industry dialogues, African safari adventures, and Sears-sponsored radio dramas, Larry Albert as Harry Nile in <em>Imagination Theatre</em> (2013), Tobe Reed on <em>The Fitch Bandwagon</em> (1940), Richard Widmark hosting <em>Mutual Radio Theater</em> (1980), <em>Twenty Years A-Growing</em> on the BBC (1977), <em>The Howard Miller Show</em> (1955), and <em>On Safari</em> (1940–2013):</p>\n<hr>\n<h2>1. <em>September 1 Archival Inventory (Increment 575)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>Nile_2013_SinisterMinister.mp3</code> <br><em>Alt</em>: <code>HN - The Case of the Sinister Minister / A Scheduled Murder</code></td>\n<td><strong>&quot;Harry Nile — A Scheduled Murder &amp; The Case of the Sinister Minister&quot;</strong></td>\n<td><strong>Syndication</strong><br>2013-09-01</td>\n<td><strong>Sustaining</strong><br>Audio Mystery</td>\n<td><strong>Larry Albert (Nile)</strong>, <strong>French</strong></td>\n<td><strong>Jim French (Writer/Director)</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;Harry Nile&quot;, &quot;Jim French&quot;, &quot;Imagination Theatre&quot;]</code></td>\n<td>Private investigator Harry Nile solves a calculated railway murder and exposes a fraudulent clergyman conducting illegal real estate swindles.</td>\n</tr>\n<tr>\n<td><code>Fitch_1940_CalBand.mp3</code> <br><em>Alt</em>: <code>UNIVERSITY OF CALIFORNIA BAND Fitch</code></td>\n<td><strong>&quot;Guest University of California Marching Band with Tobe Reed and Fitch Shampoo&quot;</strong></td>\n<td><strong>NBC Red (KPO)</strong><br>1940-09-01<br>7:30 PM EDST</td>\n<td><strong>F.W. Fitch Co.</strong><br>Fitch Shampoo</td>\n<td><strong>Tobe Reed (MC)</strong></td>\n<td><strong>UC Marching Band</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Big Band&quot;, &quot;Marching Band&quot;, &quot;Fitch Bandwagon&quot;, &quot;Fitch&quot;]</code></td>\n<td>Tobe Reed spotlights collegiate fight songs and rousing brass arrangements performed by the University of California Band.</td>\n</tr>\n<tr>\n<td><code>Growing_1977_Blasket.mp3</code> <br><em>Alt</em>: <code>Twenty Years A-Growing 1977 Episode</code></td>\n<td><strong>&quot;An Blascaod Mór Autobiography with BBC Radio Drama&quot;</strong></td>\n<td><strong>BBC Radio 3</strong><br>1977-09-01</td>\n<td><strong>Sustaining</strong><br>Irish Radio Drama</td>\n<td><strong>Irish Radio Repertory</strong></td>\n<td><strong>Muiris Ó Súilleabháin</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Biography&quot;, &quot;Irish&quot;, &quot;BBC Radio 3&quot;, &quot;Literature&quot;]</code></td>\n<td>A lyrical dramatization recounts a young fisherman&#39;s coming-of-age on the windswept Great Blasket Island off the Irish coast.</td>\n</tr>\n<tr>\n<td><code>Miller_1955_HugoLuigi.mp3</code> <br><em>Alt</em>: <code>Guest Luigi Craetori And Hugo Pereti Howard Miller</code></td>\n<td><strong>&quot;Guest Record Producers Luigi Creatore and Hugo Peretti with Howard Miller&quot;</strong></td>\n<td><strong>CBS (WBBM)</strong><br>1955-09-01<br>10:45 AM EDT</td>\n<td><strong>Sustaining</strong><br>Music Interview</td>\n<td><strong>Howard Miller</strong>, <strong>Hugo &amp; Luigi</strong></td>\n<td><strong>CBS Radio Music Staff</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Interview&quot;, &quot;Pop&quot;, &quot;Howard Miller&quot;, &quot;CBS&quot;]</code></td>\n<td>Chicago disc jockey Howard Miller interviews hitmakers Hugo &amp; Luigi about current pop record production techniques and upcoming vinyl releases.</td>\n</tr>\n<tr>\n<td><code>Safari_1967_Ramazani.mp3</code> <br><em>Alt</em>: <code>SA Spirit Of Ramazani On Safari</code></td>\n<td><strong>&quot;The Spirit of Ramazani with Dramatic African Adventure Cast&quot;</strong></td>\n<td><strong>Springbok Radio (SABC)</strong><br>1967-09-01</td>\n<td><strong>Commercial Sponsors</strong><br>African Adventure</td>\n<td><strong>Dramatic Voice Ensemble</strong></td>\n<td><strong>Adrian Steed (Producer)</strong></td>\n<td><code>[&quot;Adventure&quot;, &quot;Mystery&quot;, &quot;On Safari&quot;, &quot;Springbok Radio&quot;, &quot;South Africa&quot;]</code></td>\n<td>Game wardens track dangerous diamond poachers using tribal superstition and the legend of an ancestral spirit to frighten local trackers.</td>\n</tr>\n<tr>\n<td><code>Mutual_1980_WordsWords.mp3</code> <br><em>Alt</em>: <code>Words Words Mutual Radio Theater</code></td>\n<td><strong>&quot;Words, Words with Host Richard Widmark and Sears&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1980-09-01<br>9:05 PM EDT</td>\n<td><strong>Sears Roebuck</strong><br>Radio Theater</td>\n<td><strong>Richard Widmark (Host)</strong></td>\n<td><strong>Fletcher Markle (Director)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Mystery&quot;, &quot;Mutual Radio Theater&quot;, &quot;Richard Widmark&quot;, &quot;Sears&quot;]</code></td>\n<td>An obsessive lexicographer discovers a coded manuscript whose subtle semantic word alterations foretell catastrophic financial collapses.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 1</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 1</strong>: 372 / 389</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 1 Archival Metadata Enrichment Increment 575 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-01T00:00:00.000Z",
+      "tags": [
+        "September 1",
+        "Calendar Walk",
+        "Imagination Theatre",
+        "Harry Nile",
+        "Larry Albert",
+        "Pat French",
+        "Jim French",
+        "The Fitch Bandwagon",
+        "University of California Marching Band",
+        "Tobe Reed",
+        "Fitch Shampoo",
+        "Twenty Years A-Growing",
+        "Muiris O Suilleabhain",
+        "BBC Radio 3",
+        "Howard Miller",
+        "Hugo & Luigi",
+        "On Safari",
+        "Springbok Radio",
+        "Mutual Radio Theater",
+        "Richard Widmark",
+        "Sears",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-01-walk-574-island-of-dr-moreau-robin-hood-imagination-theatre-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-01-walk-574-island-of-dr-moreau-robin-hood-imagination-theatre-enriched",
       "title": "Archival Dispatch: September 1 Calendar Walk — Saturday Night Theatre & Imagination Theatre",
