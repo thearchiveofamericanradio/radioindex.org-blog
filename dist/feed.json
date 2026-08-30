@@ -6,6 +6,48 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-04-walk-741-radio-city-playhouse-night-editor-morton-downey-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-04-walk-741-radio-city-playhouse-night-editor-morton-downey-enriched",
+      "title": "Archival Dispatch: September 4 Calendar Walk — Radio City Playhouse, Night Editor & Morton Downey",
+      "content_html": "<h2>September 4 Archival Metadata Enrichment (Increment 741)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 4</strong> across Harry Bartell starring in Harry W. Junkin&#39;s airborne bomb suspense thriller <em>Night Flight to Madrid</em> on <em>Radio City Playhouse</em>, Hal Burdick narrating newspaper city-room human-interest drama on <em>Night Editor</em> for Edwards Coffee, Irish tenor Morton Downey crooning on <em>The Coke Club</em> for Coca-Cola, classic Australian transcriptions of Alonzo Deen Cole&#39;s supernatural horror <em>The Witch&#39;s Tale</em> on 3DB Melbourne, Chuck Schaden&#39;s extended biographical interview on <em>The Mel Blanc Show</em>, and CBS schedule pre-emption logs for <em>Our Miss Brooks</em>, Harry Bartell (1949), Hal Burdick (1938), Morton Downey (1946), Alonzo Deen Cole (1933), and Mel Blanc (1933–1988):</p>\n<hr>\n<h2>1. <em>September 4 Archival Inventory (Increment 741)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>RadioCity_1949_NightFlightMadrid.mp3</code> <br><em>Alt</em>: <code>Radio City Playhouse 1949 Episode</code></td>\n<td><strong>&quot;Night Flight to Madrid with Harry Bartell&quot;</strong></td>\n<td><strong>NBC (WNBC)</strong><br>1949-09-04<br>5:00 PM EDT</td>\n<td><strong>Sustaining</strong><br>Dramatic Anthology</td>\n<td><strong>Harry Bartell (Star)</strong></td>\n<td><strong>Harry W. Junkin (Dir.)</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Radio City Playhouse&quot;, &quot;Harry Bartell&quot;, &quot;NBC&quot;]</code></td>\n<td>A desperate diplomatic courier aboard a midnight transatlantic flight discovers one of the passengers has smuggled a ticking time bomb aboard.</td>\n</tr>\n<tr>\n<td><code>NightEditor_1938_ForgottenWill.mp3</code> <br><em>Alt</em>: <code>Episode Night Editor</code></td>\n<td><strong>&quot;The Story of the Forgotten Will with Hal Burdick&quot;</strong></td>\n<td><strong>CBS Pacific (KNX)</strong><br>1938-09-04<br>8:45 PM PST</td>\n<td><strong>Dwight Edwards Co.</strong><br>Edwards Coffee</td>\n<td><strong>Hal Burdick (Narr.)</strong></td>\n<td><strong>CBS Pacific Staff</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Night Editor&quot;, &quot;Hal Burdick&quot;, &quot;Edwards Coffee&quot;]</code></td>\n<td>The Night Editor recounts a dramatic newsroom chronicle about an impoverished young widow who uncovers a handwritten estate will hidden inside a family Bible.</td>\n</tr>\n<tr>\n<td><code>CokeClub_1946_MortonDowney.mp3</code> <br><em>Alt</em>: <code>First Tune My O&#39;darlin, My O&#39;lovely, My O&#39;brien The Coke Club</code></td>\n<td><strong>&quot;My O&#39;Darlin&#39; My O&#39;Lovely with Morton Downey&quot;</strong></td>\n<td><strong>Mutual (WOR)</strong><br>1946-09-04<br>12:15 PM EDT</td>\n<td><strong>The Coca-Cola Co.</strong><br>Coca-Cola</td>\n<td><strong>Morton Downey &amp; Ray</strong></td>\n<td><strong>Jimmy Lytell &amp; Orch.</strong></td>\n<td><code>[&quot;Music&quot;, &quot;Vocal&quot;, &quot;The Coke Club&quot;, &quot;Morton Downey&quot;, &quot;Coca-Cola&quot;]</code></td>\n<td>Tenor Morton Downey croons romantic Irish-American melodies and pop favorites including My O&#39;Darlin&#39; My O&#39;Lovely for daytime listeners.</td>\n</tr>\n<tr>\n<td><code>WitchTale_1933_LittletonHouse.mp3</code> <br><em>Alt</em>: <code>The Old Littleton House The Witch&#39;s Tale AU</code></td>\n<td><strong>&quot;The Old Littleton House with Alonzo Deen Cole&quot;</strong></td>\n<td><strong>3DB Melbourne</strong><br>1933-09-04</td>\n<td><strong>Sustaining</strong><br>Supernatural Horror</td>\n<td><strong>Adelaide Fitz-Allen</strong></td>\n<td><strong>Alonzo Deen Cole</strong></td>\n<td><code>[&quot;Horror&quot;, &quot;Supernatural&quot;, &quot;The Witch&#39;s Tale&quot;, &quot;Alonzo Deen Cole&quot;, &quot;3DB&quot;]</code></td>\n<td>Old Nancy and Satan the cat introduce a chilling tale of two greedy cousins who spend a stormy night inside a haunted colonial estate seeking buried treasure.</td>\n</tr>\n<tr>\n<td><code>MelBlanc_1988_RadioClassics.mp3</code> <br><em>Alt</em>: <code>By Telephone On Radio Classics 51 Min Mel Blanc Show</code></td>\n<td><strong>&quot;The Life and Voices of Mel Blanc with Chuck Schaden&quot;</strong></td>\n<td><strong>WBBM Chicago</strong><br>1988-09-04</td>\n<td><strong>Sustaining</strong><br>Radio History Interview</td>\n<td><strong>Mel Blanc &amp; Schaden</strong></td>\n<td><strong>Chuck Schaden (Host)</strong></td>\n<td><code>[&quot;Interview&quot;, &quot;History&quot;, &quot;Mel Blanc Show&quot;, &quot;Mel Blanc&quot;, &quot;Chuck Schaden&quot;]</code></td>\n<td>Mel Blanc discusses his legendary voice characterizations, his wartime comedy routines, and the creation of his 1946 CBS sitcom on Chuck Schaden&#39;s radio showcase.</td>\n</tr>\n<tr>\n<td><code>MissBrooks_1949_Preempted.mp3</code> <br><em>Alt</em>: <code>pre-empted Our Miss Brooks</code></td>\n<td><strong>&quot;Pre-empted for Special Broadcast on CBS&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1949-09-04<br>6:30 PM EDT</td>\n<td><strong>Colgate-Palmolive</strong><br>Lustre-Creme Shampoo</td>\n<td><strong>CBS Announcers</strong></td>\n<td><strong>CBS Production Staff</strong></td>\n<td><code>[&quot;Comedy&quot;, &quot;Sitcom&quot;, &quot;Our Miss Brooks&quot;, &quot;Eve Arden&quot;, &quot;CBS&quot;]</code></td>\n<td>The regularly scheduled broadcast of Our Miss Brooks is pre-empted by CBS for a live special national public affairs address.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 4</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 4</strong>: 168 / 471 (239 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 4 Archival Metadata Enrichment Increment 741 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-04T00:00:00.000Z",
+      "tags": [
+        "September 4",
+        "Calendar Walk",
+        "Radio City Playhouse",
+        "Harry Bartell",
+        "Harry W Junkin",
+        "Night Flight to Madrid",
+        "Night Editor",
+        "Hal Burdick",
+        "Edwards Coffee",
+        "The Coke Club",
+        "Morton Downey",
+        "Leah Ray",
+        "Jimmy Lytell",
+        "Coca-Cola",
+        "The Witch's Tale",
+        "Alonzo Deen Cole",
+        "Adelaide Fitz-Allen",
+        "3DB Melbourne",
+        "The Mel Blanc Show",
+        "Mel Blanc",
+        "Chuck Schaden",
+        "Radio Classics",
+        "WBBM Chicago",
+        "Our Miss Brooks",
+        "Eve Arden",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-04-walk-740-groucho-marx-gene-autry-quiz-kids-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-04-walk-740-groucho-marx-gene-autry-quiz-kids-enriched",
       "title": "Archival Dispatch: September 4 Calendar Walk — Groucho Marx, Gene Autry & The Quiz Kids",
