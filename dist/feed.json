@@ -6,6 +6,42 @@
   "description": "Forensic OTR audio archaeology, neural speech models, and primary newspaper scan verification.",
   "items": [
     {
+      "id": "https://blog.radioindex.org/posts/2026-09-03-walk-680-edward-r-murrow-vincent-price-arthur-godfrey-enriched",
+      "url": "https://blog.radioindex.org/posts/2026-09-03-walk-680-edward-r-murrow-vincent-price-arthur-godfrey-enriched",
+      "title": "Archival Dispatch: September 3 Calendar Walk — Edward R. Murrow, Vincent Price & Arthur Godfrey",
+      "content_html": "<h2>September 3 Archival Metadata Enrichment (Increment 680)</h2>\n<p>This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on <strong>September 3</strong> across legendary European wartime news reporting (Edward R. Murrow broadcasting live from London on the 1939 outbreak of war and the 1940 Battle of Britain daylight Blitz), debonair private investigator mysteries, national talent competitions, classic Dickens literary dramatizations, and 1960s sci-fi radio theatre, Edward R. Murrow (1939, 1940), Vincent Price as <em>The Saint</em> (1947), Arthur Godfrey for Lipton (1946), Charles Boyer in <em>Hollywood Players</em> (1946), and Fred Foy on <em>Theater Five</em> (1939–1964):</p>\n<hr>\n<h2>1. <em>September 3 Archival Inventory (Increment 680)</em></h2>\n<table>\n<thead>\n<tr>\n<th>Original Circulating Filename &amp; Alternate Titles</th>\n<th>Canonical Title</th>\n<th>Network, Airdate &amp; Showtime</th>\n<th>Sponsor &amp; Commercial Ads</th>\n<th>Credited Cast &amp; Performers</th>\n<th>Director, Writers &amp; Crew</th>\n<th>Genres</th>\n<th>Story Synopsis</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>CBSNews_1939_MurrowOutbreak.mp3</code> <br><em>Alt</em>: <code>Britain At War With Germany CBS European News</code></td>\n<td><strong>&quot;Britain at War with Germany with Edward R. Murrow from London&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1939-09-03<br>6:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>CBS News Roundup</td>\n<td><strong>Edward R. Murrow (London)</strong></td>\n<td><strong>Bob Trout (New York)</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;CBS News&quot;, &quot;Edward R Murrow&quot;, &quot;London&quot;]</code></td>\n<td>Edward R. Murrow describes the somber mood on the streets of London following the morning declaration of war and subsequent false air raid alarm.</td>\n</tr>\n<tr>\n<td><code>CBSNews_1940_MurrowBlitz.mp3</code> <br><em>Alt</em>: <code>Two Air Raids On London CBS European News</code></td>\n<td><strong>&quot;Two Air Raids on London with Edward R. Murrow&quot;</strong></td>\n<td><strong>CBS (WABC)</strong><br>1940-09-03<br>6:45 PM EDST</td>\n<td><strong>Sustaining</strong><br>Battle of Britain Report</td>\n<td><strong>Edward R. Murrow (London)</strong></td>\n<td><strong>Eric Sevareid &amp; News Desk</strong></td>\n<td><code>[&quot;News&quot;, &quot;WWII&quot;, &quot;CBS News&quot;, &quot;Edward R Murrow&quot;, &quot;Battle of Britain&quot;]</code></td>\n<td>Edward R. Murrow broadcasts eyewitness accounts of daylight German Luftwaffe bombing raids over London docks and RAF fighter interceptions.</td>\n</tr>\n<tr>\n<td><code>TheSaint_1947_BaseballShooting.mp3</code> <br><em>Alt</em>: <code>Baseball Team Shooting Saint</code></td>\n<td><strong>&quot;The Baseball Team Shooting with Vincent Price as The Saint&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1947-09-03<br>8:30 PM EDT</td>\n<td><strong>Campbell Soup Co.</strong><br>Campbell&#39;s Soups</td>\n<td><strong>Vincent Price (Templar)</strong></td>\n<td><strong>Barry Sullivan &amp; Charteris</strong></td>\n<td><code>[&quot;Detective&quot;, &quot;Mystery&quot;, &quot;The Saint&quot;, &quot;Vincent Price&quot;, &quot;Leslie Charteris&quot;]</code></td>\n<td>Simon Templar investigates the locker room shooting of a star pennant-race baseball pitcher targeted by illegal gambling racketeers.</td>\n</tr>\n<tr>\n<td><code>Godfrey_1946_TalentWinners.mp3</code> <br><em>Alt</em>: <code>Winner - Florita Rizzo, Lee Rogers Arthur Godfrey Collection</code></td>\n<td><strong>&quot;Talent Winners Florita Rizzo and Lee Rogers with Arthur Godfrey&quot;</strong></td>\n<td><strong>CBS (WCBS)</strong><br>1946-09-03<br>8:00 PM EDT</td>\n<td><strong>Thomas J. Lipton</strong><br>Lipton Tea &amp; Noodle Soup</td>\n<td><strong>Arthur Godfrey (Host)</strong></td>\n<td><strong>Rizzo, Rogers &amp; Bleyer</strong></td>\n<td><code>[&quot;Variety&quot;, &quot;Music&quot;, &quot;Arthur Godfrey&quot;, &quot;Talent Scouts&quot;, &quot;Lipton&quot;]</code></td>\n<td>Arthur Godfrey introduces aspiring talent scout discoveries with voting applause crowning singer Lee Rogers and operatic soprano Florita Rizzo.</td>\n</tr>\n<tr>\n<td><code>HollywoodPlayers_1946_SmallServant.mp3</code> <br><em>Alt</em>: <code>The Small Servant Hollywood Players</code></td>\n<td><strong>&quot;The Small Servant with Charles Boyer and Cresta Blanca&quot;</strong></td>\n<td><strong>CBS (KNX)</strong><br>1946-09-03<br>9:30 PM EDT</td>\n<td><strong>Schenley Distillers</strong><br>Cresta Blanca Wine</td>\n<td><strong>Charles Boyer (Dick)</strong></td>\n<td><strong>Dickens, Lawrence &amp; Lee</strong></td>\n<td><code>[&quot;Drama&quot;, &quot;Anthology&quot;, &quot;Hollywood Players&quot;, &quot;Charles Boyer&quot;, &quot;Charles Dickens&quot;]</code></td>\n<td>A carefree London clerk befriends a mistreated young maidservant and rescues her from oppressive employment.</td>\n</tr>\n<tr>\n<td><code>TheaterFive_1964_TroubleAlphie.mp3</code> <br><em>Alt</em>: <code>The Trouble With Alphie Theater Five</code></td>\n<td><strong>&quot;The Trouble with Alphie with Fred Foy&quot;</strong></td>\n<td><strong>ABC (WABC)</strong><br>1964-09-03<br>10:30 PM EDT</td>\n<td><strong>Sustaining</strong><br>Modern Radio Drama</td>\n<td><strong>Fred Foy (Announcer)</strong></td>\n<td><strong>Jack Johnstone (Writer)</strong></td>\n<td><code>[&quot;Sci-Fi&quot;, &quot;Drama&quot;, &quot;Theater Five&quot;, &quot;Fred Foy&quot;, &quot;ABC&quot;]</code></td>\n<td>A meek suburban accountant buys an experimental robotic domestic helper that develops obsessive control over his household.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>2. <em>Archival Verification Summary</em></h2>\n<ul>\n<li><strong>Target Calendar Day</strong>: September 3</li>\n<li><strong>Broadcasts Resolved This Increment</strong>: 6</li>\n<li><strong>Cumulative Resolved on September 3</strong>: 271 / 469 (198 remaining)</li>\n<li><strong>Target Repositories Synchronized</strong>: <code>radioindex.org-meta</code> and <code>radioindex.org-blog</code></li>\n</ul>\n",
+      "summary": "September 3 Archival Metadata Enrichment Increment 680 This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production per...",
+      "date_published": "2026-09-03T00:00:00.000Z",
+      "tags": [
+        "September 3",
+        "Calendar Walk",
+        "CBS European News",
+        "Edward R Murrow",
+        "This Is London",
+        "Battle of Britain",
+        "Outbreak of War",
+        "The Saint",
+        "Vincent Price",
+        "Leslie Charteris",
+        "Campbell Soup",
+        "Arthur Godfrey's Talent Scouts",
+        "Lipton Tea",
+        "The Cresta Blanca Hollywood Players",
+        "Charles Boyer",
+        "Charles Dickens",
+        "Theater Five",
+        "Fred Foy",
+        "Jack Johnstone",
+        "Alternate Titles",
+        "Original Filenames"
+      ],
+      "authors": [
+        {
+          "name": "radio index"
+        }
+      ]
+    },
+    {
       "id": "https://blog.radioindex.org/posts/2026-09-03-walk-679-yankees-vs-tigers-lovecraft-red-foley-enriched",
       "url": "https://blog.radioindex.org/posts/2026-09-03-walk-679-yankees-vs-tigers-lovecraft-red-foley-enriched",
       "title": "Archival Dispatch: September 3 Calendar Walk — Yankees vs Tigers, Lovecraft & Red Foley",
