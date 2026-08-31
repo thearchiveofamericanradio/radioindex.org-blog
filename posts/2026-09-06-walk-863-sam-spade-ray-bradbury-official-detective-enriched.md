@@ -1,0 +1,35 @@
+# Archival Dispatch: September 6 Calendar Walk — Sam Spade, Ray Bradbury & Official Detective
+
+**Date**: 2026-09-06  
+**Author**: radio index  
+**Tags**: September 6, Calendar Walk, The Adventures of Sam Spade, Howard Duff, Dashiell Hammett, Wildroot Cream-Oil, Ray Bradbury, A Sound of Thunder, Official Detective, Craig McDonnell, Mutual, Son of Cliche, Chris Barrie, BBC Radio 4, The Kingsmen, Margaret Whiting, Clean Titles, Pure Synopses, Alternate Titles, Original Filenames
+
+---
+
+## September 6 Archival Metadata Enrichment (Increment 863)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across Howard Duff as private eye Sam Spade on *The Adventures of Sam Spade* for Wildroot Cream-Oil (1946), Ray Bradbury's classic time-travel masterpiece *A Sound of Thunder* (2010), two authentic police casefiles on *Official Detective* (1949, 1956), early sketch comedy by Rob Grant and Doug Naylor on BBC Radio 4's *Son of Cliché* (1983), and Margaret Whiting guest starring with *The Kingsmen* vocal quartet (1949).
+
+All episode titles maintain pure canonical naming, with credited performers, conductors, and story details recorded in the narrative description:
+
+---
+
+## 1. *September 6 Archival Inventory (Increment 863)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Clean Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `SamSpade_1946_CorpMurders.mp3` <br>*Alt*: `The Corporation Murders The Adventures of Sam Spade` | **"The Corporation Murders"** | **ABC (WJZ)**<br>1946-09-06<br>8:00 PM EDT | **Wildroot Co. Inc.**<br>Wildroot Cream-Oil | **Howard Duff (Spade)** | **William Spier (Producer)** | `["Detective", "Mystery", "Sam Spade", "Howard Duff", "Wildroot Cream-Oil"]` | Howard Duff stars as hardboiled private investigator Sam Spade, sorting through boardroom intrigue and sudden fatalities inside a chemical manufacturing firm. |
+| `RayBradbury_2010_SoundThunder.mp3` <br>*Alt*: `A Sound Of Thunder Stories of Ray Bradbury` | **"A Sound of Thunder"** | **BBC Radio 4**<br>2010-09-06<br>3:30 PM BST | **BBC Sustaining**<br>Sci-Fi Audio Drama | **BBC Repertory Company** | **Ray Bradbury (Author)** | `["Sci-Fi", "Anthology", "Ray Bradbury", "BBC", "Audio Drama"]` | Ray Bradbury's seminal science fiction tale of a time-safari traveler whose crushed prehistoric butterfly irrevocably alters the future of humanity. |
+| `OfficialDet_1949_Nightclub.mp3` <br>*Alt*: `Official Detective 1949 Episode` | **"The Nightclub Holdup Murders"** | **Mutual (WOR)**<br>1949-09-06<br>8:30 PM EDT | **Sustaining**<br>Police Procedural | **Craig McDonnell (Britt)** | **Wynn Wright (Director)** | `["Police Procedural", "Docudrama", "Official Detective", "Craig McDonnell", "Mutual"]` | Detective Lieutenant Dan Britt leads an intensive manhunt to identify masked gunmen who shot a cashier during a late-night supper club robbery. |
+| `OfficialDet_1956_DesertAmbush.mp3` <br>*Alt*: `Official Detective 1956 Episode` | **"The Desert Highway Ambush"** | **Mutual (WOR)**<br>1956-09-06<br>8:30 PM EDT | **Sustaining**<br>Police Procedural | **Craig McDonnell (Britt)** | **Wynn Wright (Director)** | `["Police Procedural", "Docudrama", "Official Detective", "Craig McDonnell", "Mutual"]` | Lieutenant Britt reconstructs tire tracks and bullet trajectories to trap an armed robber targeting stranded motorists on remote desert highways. |
+| `SonOfCliche_1983_Radio4.mp3` <br>*Alt*: `Radio Four Programmes Son of Cliche` | **"Radio 4 Programmes Parody"** | **BBC Radio 4**<br>1983-09-06<br>11:00 PM BST | **BBC Sustaining**<br>Radio Comedy Sketch | **Chris Barrie & Maloney** | **Grant & Naylor (Writers)** | `["Comedy", "Satire", "Son of Cliche", "Chris Barrie", "BBC"]` | Rob Grant and Doug Naylor pen quick-fire radio parodies and satirical sketches starring Chris Barrie and Nick Maloney on BBC Radio 4. |
+| `Kingsmen_1949_Whiting.mp3` <br>*Alt*: `The Margaret Whiting Kingsmen` | **"Guest: Margaret Whiting"** | **Syndicated Radio**<br>1949-09-06 | **Sustaining**<br>Vocal Music Quartet | **The Kingsmen & Whiting** | **Syndicated Music Unit** | `["Music", "Vocal", "The Kingsmen", "Margaret Whiting", "Syndicated"]` | The Kingsmen vocal quartet harmonize popular standards and perform delightful duets with featured guest singer Margaret Whiting. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 154 / 471 (317 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
