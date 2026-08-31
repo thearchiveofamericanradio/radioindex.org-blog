@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — Charles Boyer, Perry Mason & The Goldbergs
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, Presenting Charles Boyer, Charles Boyer, NBC, Perry Mason, John Larkin, Joan Alexander, Tide, The Goldbergs, Gertrude Berg, Oxydol, The Eddie Cantor Show, Pinky Tomlin, Texaco, Hour of Charm, Phil Spitalny, General Electric, Authors Studio, Alexandre Dumas, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 822)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across Charles Boyer in *The Royal Phantom of Versailles* for NBC (1950), courtroom investigation on *Perry Mason* starring John Larkin for Tide (1951), Molly Goldberg's tenement wisdom on *The Goldbergs* for Oxydol (1941), Eddie Cantor and Pinky Tomlin's million-dollar inheritance comedy for Texaco (1937), Phil Spitalny's All-Girl Orchestra on *The Hour of Charm* for GE (1943), and Alexandre Dumas's classic *The Iron Mask* on *The Author's Studio* (1975), Eddie Cantor (1937), Gertrude Berg (1941), and Charles Boyer (1950):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 822)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Boyer_1950_PhantomVersailles.mp3` <br>*Alt*: `Royal Phantom Of Versailles Presenting Charles Boyer` | **"The Royal Phantom of Versailles with Charles Boyer"** | **NBC (WNBC)**<br>1950-09-05<br>8:00 PM EDT | **Sustaining**<br>Dramatic Showcase | **Charles Boyer & Cast** | **Nat Wolff (Director)** | `["Drama", "Anthology", "Presenting Charles Boyer", "Charles Boyer", "NBC"]` | An aristocratic historian staying at a French estate investigates nocturnal sightings of an 18th-century ghost wandering the Hall of Mirrors. |
+| `PerryMason_1951_ReluctantWitness.mp3` <br>*Alt*: `Perry Mason 1951 Episode` | **"The Case of the Reluctant Witness with John Larkin"** | **CBS (WABC)**<br>1951-09-05<br>2:15 PM EDT | **Procter & Gamble**<br>Tide Miracle Detergent | **John Larkin & Alexander** | **Erle Stanley Gardner** | `["Mystery", "Courtroom", "Perry Mason", "John Larkin", "Tide"]` | Defense attorney Perry Mason cross-examines an uncooperative bookkeeper who claims amnesia regarding missing corporate funds. |
+| `Goldbergs_1941_BoughtonNote.mp3` <br>*Alt*: `Mr. Boughton Left A Note The Goldbergs` | **"Mr. Boughton Left a Note with Gertrude Berg"** | **CBS (WABC)**<br>1941-09-05<br>5:00 PM EDST | **Procter & Gamble**<br>Oxydol Laundry Soap | **Gertrude Berg & Waters** | **Gertrude Berg (Writer)** | `["Comedy", "Sitcom", "The Goldbergs", "Gertrude Berg", "Oxydol"]` | Molly Goldberg discovers a mysterious farewell note left by a troubled apartment neighbor and intervenes to prevent a family breakup. |
+| `HourCharm_1943_YesterdayToday.mp3` <br>*Alt*: `Of Yesterday and Today Hour of Charm` | **"Of Yesterday and Today with Phil Spitalny"** | **NBC (WEAF)**<br>1943-09-05<br>10:00 PM EWT | **General Electric Co.**<br>GE Mazda Lamps | **Spitalny & Evelyn** | **All-Girl Orchestra & Choir** | `["Music", "Concert", "Hour of Charm", "Phil Spitalny", "General Electric"]` | Phil Spitalny leads his all-female orchestra and choir through nostalgic Victorian melodies contrasted with modern wartime swing arrangements. |
+| `AuthorsStudio_1975_IronMask.mp3` <br>*Alt*: `Author's Studio 1975 Episode` | **"The Iron Mask with Springbok Radio"** | **Springbok Radio**<br>1975-09-05 | **Sustaining**<br>Classic Literature | **SABC Dramatic Cast** | **Alexandre Dumas (Author)** | `["Drama", "Anthology", "Authors Studio", "Alexandre Dumas", "Springbok"]` | A French musketeer uncovers the royal secret of a mysterious prisoner condemned to spend his life behind a fitted iron visor. |
+| `EddieCantor_1937_MillionDollars.mp3` <br>*Alt*: `Pinky Inherits One Million Dollars The Eddie Cantor Show` | **"Pinky Inherits One Million Dollars with Eddie Cantor"** | **CBS (KNX)**<br>1937-09-05<br>8:30 PM EDST | **The Texas Company**<br>Texaco Fire-Chief Gasoline | **Cantor, Tomlin & Durbin** | **Jacques Renard Orchestra** | `["Comedy", "Variety", "Eddie Cantor", "Pinky Tomlin", "Texaco"]` | Eddie Cantor schemes to help singer Pinky Tomlin manage a sudden million-dollar windfall while evading opportunistic gold-diggers. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 246 / 401 (155 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
