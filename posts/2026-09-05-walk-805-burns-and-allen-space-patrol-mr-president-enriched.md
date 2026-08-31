@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — Burns and Allen, Space Patrol & Mr. President
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, Burns and Allen, George Burns, Gracie Allen, Swan Soap, Maxwell House, Space Patrol, Ed Kemmer, Lyn Osborn, Nestles, Mr President, Edward Arnold, ABC, The Pacific Story, Frank Hemingway, NBC, The FBI In Peace And War, Martin Blaine, Wildroot, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 805)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across domestic comedy with George Burns and Gracie Allen for Swan Soap (1944) and Maxwell House (1946), interplanetary sci-fi thrills on *Space Patrol* with Buzz Corry and Cadet Happy for Nestlé's, Edward Arnold portraying Ulysses S. Grant on *Mr. President*, historical documentary on *The Pacific Story*, and FBI counterfeit investigations on *The FBI in Peace and War* for Wildroot Cream-Oil, Frank Hemingway (1943), George Burns & Gracie Allen (1944, 1946), and Ed Kemmer (1953):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 805)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `PacificStory_1943_CliveToGandhi.mp3` <br>*Alt*: `India: From Clive to Gandhi The Pacific Story` | **"India: From Clive to Gandhi with Frank Hemingway"** | **NBC (KFI)**<br>1943-09-05<br>11:30 PM EWT | **Sustaining**<br>Docudrama Series | **Frank Hemingway & Cast** | **NBC Documentary Unit** | `["Docudrama", "History", "The Pacific Story", "Frank Hemingway", "NBC"]` | Historical dramatization surveying British colonial rule in India from Robert Clive's 18th-century campaigns through Mahatma Gandhi's civil disobedience movement. |
+| `SpacePatrol_1953_ValleyDread.mp3` <br>*Alt*: `The Valley Of Dread Space Patrol` | **"The Valley of Dread with Ed Kemmer and Lyn Osborn"** | **ABC (KECA)**<br>1953-09-05<br>10:30 AM EST | **The Nestlé Company**<br>Nestlé's Quik & Chocolate | **Ed Kemmer & Osborn** | **Larry Robertson (Director)** | `["Sci-Fi", "Adventure", "Space Patrol", "Ed Kemmer", "Nestles"]` | Commander Buzz Corry and Cadet Happy investigate a volcanic canyon on Mars where an energy-draining forcefield immobilizes patrol cruisers. |
+| `BurnsAllen_1944_KitchenAntics.mp3` <br>*Alt*: `Episode 4 Burns and Allen` | **"Gracie's Kitchen Antics with George Burns and Gracie Allen"** | **CBS (KNX)**<br>1944-09-05<br>9:00 PM EWT | **Lever Brothers Co.**<br>Swan Pure Floating Soap | **Burns, Allen & Goodwin** | **Felix Mills Orchestra** | `["Comedy", "Sitcom", "Burns and Allen", "George Burns", "Gracie Allen"]` | Gracie attempts to prepare a gourmet dinner for George's visiting business clients with uproarious recipe substitutions. |
+| `BurnsAllen_1946_GeorgesAllergies.mp3` <br>*Alt*: `George's Allergies Burns and Allen` | **"George's Allergies with George Burns and Gracie Allen"** | **NBC (KFI)**<br>1946-09-05<br>8:30 PM EDT | **General Foods Corp.**<br>Maxwell House Coffee | **Burns, Allen & Blanc** | **Meredith Willson Orch.** | `["Comedy", "Sitcom", "Burns and Allen", "George Burns", "Gracie Allen"]` | Gracie convinces herself that George is allergic to household furniture and redecorates their entire living room with surreal paper products. |
+| `MrPresident_1948_UlyssesGrant.mp3` <br>*Alt*: `Ulysses S. Grant Mr President` | **"Ulysses S. Grant with Edward Arnold"** | **ABC (KGO)**<br>1948-09-05<br>2:30 PM EDT | **Sustaining**<br>Presidential Biography | **Edward Arnold & Cast** | **Dwight Hauser (Director)** | `["Docudrama", "Biography", "Mr President", "Edward Arnold", "ABC"]` | Edward Arnold portrays Ulysses S. Grant confronting postwar financial panic and personal betrayal while preserving national monetary stability. |
+| `FBI_1946_CounterfeitRing.mp3` <br>*Alt*: `The FBI In Peace And War 1946 Episode` | **"The Counterfeit Ring with Martin Blaine"** | **CBS (WABC)**<br>1946-09-05<br>8:30 PM EDT | **Wildroot Company Inc.**<br>Wildroot Cream-Oil | **Martin Blaine & Cast** | **Max Marcin (Director)** | `["Police Procedural", "Crime", "The FBI In Peace And War", "Martin Blaine", "Wildroot"]` | FBI special agents track an elusive syndicate printing high-grade counterfeit twenty-dollar bills across Midwest department stores. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 144 / 401 (257 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
