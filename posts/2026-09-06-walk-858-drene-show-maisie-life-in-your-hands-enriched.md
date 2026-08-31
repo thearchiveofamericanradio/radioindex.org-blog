@@ -1,0 +1,35 @@
+# Archival Dispatch: September 6 Calendar Walk — The Drene Show, Maisie & A Life in Your Hands
+
+**Date**: 2026-09-06  
+**Author**: radio index  
+**Tags**: September 6, Calendar Walk, The Drene Show, Rudy Vallee, Billie Burke, Drene Shampoo, The Adventures of Maisie, Ann Sothern, A Life In Your Hands, Erle Stanley Gardner, Jonathan Kringle, Bob Elson Interviews, Don Pierson, Hollywood Radio Theater, The Mystery Project, CBC, Clean Titles, Pure Synopses, Alternate Titles, Original Filenames
+
+---
+
+## September 6 Archival Metadata Enrichment (Increment 858)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across Rudy Vallee welcoming Billie Burke on *The Drene Show* (1945), Ann Sothern's Catskills resort comedy on *The Adventures of Maisie* (1946), Erle Stanley Gardner's courtroom drama on *A Life in Your Hands* (1949), broadcast pioneer Don Pierson interviewed on *Bob Elson Interviews* (1980), wartime Portuguese espionage on *Hollywood Radio Theater* (1943), and cold-case audio mystery on CBC's *The Mystery Project* (1997).
+
+All episode titles strictly adhere to clean canonical naming, with performer, sponsor, and network details recorded in the narrative description:
+
+---
+
+## 1. *September 6 Archival Inventory (Increment 858)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Clean Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `DreneShow_1945_BillieBurke.mp3` <br>*Alt*: `Rudy Vallee The Drene Show 1945 Episode` | **"Villa Vallee Nightclub Quiz"** | **NBC (WNBC)**<br>1945-09-06<br>8:00 PM EWT | **Procter & Gamble**<br>Drene Shampoo | **Rudy Vallee & Billie Burke** | **Sweeney & March** | `["Music", "Comedy", "Rudy Vallee", "Billie Burke", "Drene Shampoo"]` | Rudy Vallee sings 'I Should Care', leads a comedy quiz game, and trades witty quips with guests Billie Burke and comedy duo Sweeney & March for Drene Shampoo. |
+| `Maisie_1946_Resort.mp3` <br>*Alt*: `Episode The Adventures Of Maisie` | **"The Mountain Resort Mix-Up"** | **CBS (KNX)**<br>1946-09-06<br>8:30 PM EDT | **Eversharp Inc.**<br>Schick Injector Razors | **Ann Sothern & Cast** | **John L. Greene (Writer)** | `["Comedy", "Sitcom", "Adventures of Maisie", "Ann Sothern", "CBS"]` | Maisie Ravier takes a summer job at an upscale Catskills resort and becomes entangled in an eccentric matchmaking scheme between rival guests. |
+| `LifeInYourHands_1949_Heiress.mp3` <br>*Alt*: `A Life In Your Hands 1949 Episode` | **"The Ambitious Heiress"** | **NBC (WNBC)**<br>1949-09-06<br>8:30 PM EDT | **Sustaining**<br>Legal Courtroom Drama | **Jonathan Kringle Troupe** | **Erle Stanley Gardner (Creator)** | `["Courtroom", "Drama", "A Life In Your Hands", "Erle Stanley Gardner", "NBC"]` | Defense attorney Jonathan Kringle cross-examines key witnesses to prove a young woman was framed for the arsenic poisoning of her wealthy aunt. |
+| `BobElson_1980_DonPierson.mp3` <br>*Alt*: `Don Pierson Bob Elson Interviews` | **"Guest: Don Pierson"** | **Syndicated Radio**<br>1980-09-06 | **Sustaining**<br>Traveler Interview | **Bob Elson & Don Pierson** | **Chicago Rail Terminal Unit** | `["Interview", "Talk", "Bob Elson Interviews", "Bob Elson", "Syndicated"]` | Bob Elson interviews offshore radio pioneer and broadcasting executive Don Pierson aboard the Twentieth Century Limited train in Chicago. |
+| `HollywoodRadio_1943_Lisbon.mp3` <br>*Alt*: `Hollywood Radio Theater 1943 Episode` | **"The Lady from Lisbon"** | **AFRS**<br>1943-09-06 | **U.S. Armed Forces**<br>Wartime Drama Special | **AFRS Dramatic Troupe** | **AFRS Hollywood Unit** | `["Drama", "Espionage", "Hollywood Radio Theater", "AFRS", "Armed Forces"]` | An espionage melodrama starring Hollywood screen actors as Allied agents racing through wartime Portugal to intercept stolen industrial formulas. |
+| `MysteryProject_1997_IceBoy.mp3` <br>*Alt*: `Clean Sweep - The Ice Boy The Mystery Project` | **"Clean Sweep: The Ice Boy"** | **CBC Radio**<br>1997-09-06<br>8:00 PM EDT | **CBC Sustaining**<br>Canadian Audio Mystery | **CBC Mystery Repertory** | **CBC Drama Bureau** | `["Mystery", "Anthology", "The Mystery Project", "CBC", "Canadian Drama"]` | An audio mystery drama following an investigator unraveling a cold-case murder mystery tied to a vanished neighborhood youth. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 124 / 471 (347 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
