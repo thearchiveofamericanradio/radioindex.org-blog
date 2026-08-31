@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — Jeff Regan, Dick Tracy & Ma Perkins
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, Jeff Regan Investigator, Jack Webb, Wilms Herbert, CBS, Dick Tracy, Matt Crowley, Tootsie Roll, Ma Perkins, Virginia Payne, Oxydol, Armchair Adventures, Marvin Miller, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 809)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across hardboiled detective investigations on *Jeff Regan, Investigator* starring Jack Webb as the Lion's Eye investigator (1947, 1948), comic strip police pursuits on *Dick Tracy* for Tootsie Roll, small-town heartland advice on *Ma Perkins* for Oxydol (1949, 1950), and solo dramatic monologues on Marvin Miller's *Armchair Adventures*, Matt Crowley (1947), Jack Webb (1947, 1948), and Virginia Payne (1949, 1950):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 809)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `MaPerkins_1949_LaborDay.mp3` <br>*Alt*: `Episode Ma Perkins` | **"Labor Day Reflections with Virginia Payne"** | **CBS (WABC)**<br>1949-09-05<br>1:15 PM EDT | **Procter & Gamble**<br>Oxydol Granulated Soap | **Virginia Payne & Forbes** | **Frank and Anne Hummert** | `["Soap Opera", "Drama", "Ma Perkins", "Virginia Payne", "Oxydol"]` | Ma Perkins spends Labor Day advising Willie Fizgerald on lumber yard payroll disputes and family obligations in Rushville Center. |
+| `MaPerkins_1950_MoreFacts.mp3` <br>*Alt*: `Ma Wants More Facts Ma Perkins` | **"Ma Wants More Facts with Virginia Payne"** | **CBS (WABC)**<br>1950-09-05<br>1:15 PM EDT | **Procter & Gamble**<br>Oxydol Granulated Soap | **Payne & Charles Egelston** | **Frank and Anne Hummert** | `["Soap Opera", "Drama", "Ma Perkins", "Virginia Payne", "Oxydol"]` | Ma refuses to authorize a suspicious real estate deal until partner Shuffle Shober investigates the developer's background in Chicago. |
+| `JeffRegan_1947_Winchell.mp3` <br>*Alt*: `W Walter Winchell Jeff Regan Investigator` | **"The Walter Winchell Protection Case with Jack Webb"** | **CBS Pacific**<br>1947-09-05<br>8:30 PM PST | **Sustaining**<br>West Coast Mystery | **Jack Webb & Herbert** | **E. Jack Neuman (Writer)** | `["Detective", "Hardboiled", "Jeff Regan Investigator", "Jack Webb", "CBS"]` | The Lion's Eye Detective Agency assigns Jeff Regan to shadow a syndicated gossip columnist targeted by underworld extortionists. |
+| `JeffRegan_1948_WhisperingPines.mp3` <br>*Alt*: `Jeff Regan Investigator 1948 Episode` | **"The Guy from Whispering Pines with Jack Webb"** | **CBS Pacific**<br>1948-09-05<br>8:30 PM PST | **Sustaining**<br>West Coast Mystery | **Jack Webb & Herbert** | **E. Jack Neuman (Writer)** | `["Detective", "Hardboiled", "Jeff Regan Investigator", "Jack Webb", "CBS"]` | Jeff Regan travels to an isolated mountain sanatorium to locate an heiress's vanished fiancé and uncovers a fraudulent medical scheme. |
+| `Armchair_1952_Scoop.mp3` <br>*Alt*: `Scoop Armchair Adventures` | **"Scoop with Marvin Miller"** | **CBS (WABC)**<br>1952-09-05<br>10:45 PM EDT | **Sustaining**<br>Dramatic Monologue | **Marvin Miller (Narrator)** | **CBS Production Staff** | `["Drama", "Anthology", "Armchair Adventures", "Marvin Miller", "CBS"]` | An ambitious cub reporter risks his life sneaking inside an illegal riverboat gambling den to secure a front-page exposé. |
+| `DickTracy_1947_Flattop.mp3` <br>*Alt*: `Dick Tracy 1947 Episode` | **"The Flattop Murder Plot with Matt Crowley"** | **ABC (WJZ)**<br>1947-09-05<br>5:00 PM EDT | **Sweets Co. of America**<br>Tootsie Rolls & Pops | **Matt Crowley & Smith** | **Chester Gould (Creator)** | `["Detective", "Adventure", "Dick Tracy", "Matt Crowley", "Tootsie Roll"]` | Detective Dick Tracy uncovers an underworld conspiracy by criminal hitmen attempting to hijack a high-security prison transport convoy. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 168 / 401 (233 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
