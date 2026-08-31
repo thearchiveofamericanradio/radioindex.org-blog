@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — Walter Winchell, Smiley Burnette & Heartbeat Theatre
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, Walter Winchell, Jergens Journal, Jergens Lotion, Smiley Burnette, Western Music, Teleways, Heartbeat Theatre, Salvation Army, The Carrington Playhouse, Elaine Carrington, Mutual, Betty and Bob, Arlene Francis, Carl Frank, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 815)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across Walter Winchell covering the 1948 presidential race on *The Jergens Journal*, western musical comedy with Smiley Burnette, inspirational drama on *Heartbeat Theatre* (1957, 1965) for the Salvation Army, murder mystery on *The Carrington Playhouse*, and daytime serial romance on *Betty and Bob* starring Arlene Francis and Carl Frank, Elaine Carrington (1946), Arlene Francis (1947), Smiley Burnette (1947), and Walter Winchell (1948):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 815)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Jergens_1948_CampaignTrail.mp3` <br>*Alt*: `Jergens Journal 1948 Episode` | **"1948 Presidential Campaign Trail with Walter Winchell"** | **ABC (WJZ)**<br>1948-09-05<br>9:00 PM EDT | **Andrew Jergens Co.**<br>Jergens Lotion & Woodbury | **Winchell & Richard Stark** | **ABC News Department** | `["News", "Commentary", "Jergens Journal", "Walter Winchell", "Jergens"]` | Walter Winchell analyzes Truman and Dewey campaign tour stops, Berlin airlift logistics, and exclusive international news scoops. |
+| `Heartbeat_1957_BaileyBoy.mp3` <br>*Alt*: `That Bailey Boy Heartbeat Theatre` | **"That Bailey Boy with Salvation Army Players"** | **Syndicated Radio**<br>1957-09-05 | **The Salvation Army**<br>Community Outreach | **Salvation Army Troupe** | **Salvation Army Radio Unit** | `["Drama", "Anthology", "Heartbeat Theatre", "Salvation Army", "Syndicated"]` | A troubled juvenile delinquent finds purpose and second chances through guidance from a neighborhood youth outreach counselor. |
+| `Heartbeat_1965_HouseWithoutMusic.mp3` <br>*Alt*: `A House Without Music Heartbeat Theatre` | **"A House Without Music with Salvation Army Players"** | **Syndicated Radio**<br>1965-09-05 | **The Salvation Army**<br>Community Outreach | **Salvation Army Troupe** | **Salvation Army Radio Unit** | `["Drama", "Anthology", "Heartbeat Theatre", "Salvation Army", "Syndicated"]` | An aging concert pianist regains his lost enthusiasm for music and family reconciliation after visiting a rehabilitation mission. |
+| `Carrington_1946_MakeMineMurder.mp3` <br>*Alt*: `Make Mine Murder Carrington Playhouse` | **"Make Mine Murder with Elaine Carrington"** | **Mutual (WOR)**<br>1946-09-05<br>8:00 PM EDT | **Sustaining**<br>Original Radio Drama | **Elaine Carrington & Cast** | **Elaine Carrington (Writer)** | `["Mystery", "Drama", "Carrington Playhouse", "Elaine Carrington", "Mutual"]` | An amateur mystery novelist writes a fictitious crime story only to discover a real-world killer is executing each murder step-by-step. |
+| `BettyBob_1947_InheritedEstate.mp3` <br>*Alt*: `Betty and Bob 1947 Episode` | **"The Inherited Estate with Arlene Francis and Carl Frank"** | **Syndicated Radio**<br>1947-09-05 | **Sustaining**<br>Daytime Drama | **Arlene Francis & Carl Frank** | **Frank and Anne Hummert** | `["Soap Opera", "Drama", "Betty and Bob", "Arlene Francis", "Carl Frank"]` | Betty and Bob Drake confront unexpected legal challenges and hostile relatives disputing their rights to a country property inheritance. |
+| `SmileyBurnette_1947_MaryLou.mp3` <br>*Alt*: `The Smiley Burnette Show: 'Mary' Smiley Burnette` | **"Mary Lou and Western Melodies with Smiley Burnette"** | **Syndicated Radio**<br>1947-09-05 | **Teleways Radio**<br>Western Music | **Smiley Burnette & Girls** | **Teleways Productions** | `["Country", "Comedy", "Smiley Burnette", "Western", "Music"]` | Smiley Burnette sings comic novelty tunes, performs 'Mary Lou' on accordion, and trades folksy western tall tales. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 204 / 401 (197 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
