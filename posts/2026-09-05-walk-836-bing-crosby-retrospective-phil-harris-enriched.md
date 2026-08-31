@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — Bing Crosby Retrospective & Phil Harris
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, Bing Crosby, Victor Young, Buddy Cole, Rosemary Clooney, Cremo Cigars, CBS, The Phil Harris-Alice Faye Show, Phil Harris, Alice Faye, Elliott Lewis, Rexall, Meet Miss Sherlock, Sondra Gair, Monte Masters, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 836)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across four eras of Bing Crosby's legendary broadcasting career (1931 for Cremo Cigars; 1955, 1956 with Buddy Cole; 1960 with Rosemary Clooney), Hollywood domestic sitcom antics on *The Phil Harris-Alice Faye Show* for Rexall (1951), and amateur female sleuthing on *Meet Miss Sherlock* (1946), Bing Crosby (1931, 1955, 1956, 1960), Sondra Gair (1946), and Phil Harris & Alice Faye (1951):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 836)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `HarrisFaye_1951_Zelda.mp3` <br>*Alt*: `Zelda Phil Harris And Alice Faye` | **"Rehearsing with Guest Zelda with Phil Harris and Alice Faye"** | **NBC (WNBC)**<br>1951-09-05 | **Rexall Drug Co.**<br>Rexall Drug Stores | **Harris, Faye & Lewis** | **Paul Phillips (Director)** | `["Comedy", "Sitcom", "Phil Harris", "Alice Faye", "Rexall"]` | Phil schemes to recruit an eccentric singer named Zelda for his band's upcoming nightclub engagement, sending Frankie into comic fits. |
+| `MissSherlock_1946_MissingMatron.mp3` <br>*Alt*: `Meet Miss Sherlock 1946 Episode` | **"The Case of the Missing Matron with Sondra Gair"** | **CBS (KNX)**<br>1946-09-05<br>10:00 PM EDT | **Sustaining**<br>Female Sleuth Mystery | **Sondra Gair & Masters** | **David Vaile (Director)** | `["Detective", "Mystery", "Meet Miss Sherlock", "Sondra Gair", "CBS"]` | Amateur sleuth Jane Cole and her long-suffering detective boyfriend Peter Higgins track down a missing socialite kidnapped from a Park Avenue hotel. |
+| `Crosby_1931_OldPlaymate.mp3` <br>*Alt*: `First Song - Old Playmate Bing Crosby` | **"Old Playmate with Bing Crosby and Victor Young"** | **CBS (WABC)**<br>1931-09-05<br>11:00 PM EDST | **American Cigar Co.**<br>Cremo 5¢ Cigars | **Bing Crosby (Soloist)** | **Victor Young Orchestra** | `["Music", "Vocal", "Bing Crosby", "Cremo Cigars", "CBS"]` | Bing Crosby introduces his breakout radio crooning style with 'Old Playmate' and early jazz standards accompanied by Victor Young's orchestra. |
+| `Crosby_1955_AutumnSerenade.mp3` <br>*Alt*: `Bing Crosby 1955 Episode` | **"Autumn Serenade with Bing Crosby and Buddy Cole"** | **CBS (KNX)**<br>1955-09-05<br>9:00 PM EDT | **Sustaining**<br>Musical Showcase | **Crosby & Buddy Cole** | **Ken Carpenter (Anncr)** | `["Music", "Vocal", "Bing Crosby", "Buddy Cole", "CBS"]` | Bing Crosby croons relaxed autumn standards with accompaniment from the Buddy Cole Trio and shares Hollywood anecdotes. |
+| `Crosby_1956_HighTor.mp3` <br>*Alt*: `Bing Crosby 1956 Episode` | **"High Tor Melodies with Bing Crosby and Buddy Cole"** | **CBS (KNX)**<br>1956-09-05<br>7:30 PM EDT | **Sustaining**<br>Musical Showcase | **Crosby & Buddy Cole** | **Ken Carpenter (Anncr)** | `["Music", "Vocal", "Bing Crosby", "Buddy Cole", "CBS"]` | Bing sings popular soundtrack selections from his television musical 'High Tor' alongside easy listening jazz tunes. |
+| `CrosbyClooney_1960_Avalon.mp3` <br>*Alt*: `First Song - Avalon Bing Crosby` | **"Avalon and Big Band Standards with Bing Crosby and Rosemary Clooney"** | **CBS (KNX)**<br>1960-09-05<br>10:30 AM EDT | **Sustaining**<br>Daytime Music Variety | **Crosby & Clooney** | **Buddy Cole Trio** | `["Music", "Variety", "Bing Crosby", "Rosemary Clooney", "CBS"]` | Bing Crosby and Rosemary Clooney harmonize on a lively rendition of 'Avalon' and trade witty jokes about golf and recording sessions. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 330 / 401 (71 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
