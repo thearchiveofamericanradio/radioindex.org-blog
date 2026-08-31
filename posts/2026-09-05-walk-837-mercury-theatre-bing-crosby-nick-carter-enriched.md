@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — Mercury Theatre, Bing Crosby & Nick Carter
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, The Mercury Theatre on the Air, Orson Welles, GK Chesterton, Bernard Herrmann, CBS, Bing Crosby, Rosemary Clooney, Harry James, Betty Grable, Nick Carter Master Detective, Lon Clark, Old Dutch Cleanser, Bob Barkley, Springbok Radio, WITR Comedy, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 837)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across Orson Welles's surreal adaptation of G.K. Chesterton's *The Man Who Was Thursday* on *The Mercury Theatre on the Air* (1938), Bing Crosby vocal broadcasts with Rosemary Clooney (1961) and guests Harry James and Betty Grable (1962), detective sleuthing on *Nick Carter, Master Detective* for Old Dutch Cleanser (1948), undercover operations on *Bob Barkley, Undercover Agent* (1951), and indie college radio on *WITR* (1997), Orson Welles (1938), Lon Clark (1948), and Bing Crosby (1961, 1962):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 837)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Mercury_1938_Thursday.mp3` <br>*Alt*: `The Man Who Was Thursday Mercury Theater` | **"The Man Who Was Thursday with Orson Welles"** | **CBS (WABC)**<br>1938-09-05<br>9:00 PM EDST | **Sustaining**<br>Literary Showcase | **Orson Welles & Cast** | **Bernard Herrmann (Score)** | `["Drama", "Anthology", "Mercury Theater", "Orson Welles", "GK Chesterton"]` | A Scotland Yard poet infiltrates a secret council of anarchist conspirators named after days of the week, uncovering surreal metaphysical riddles. |
+| `Crosby_1961_BlueHeaven.mp3` <br>*Alt*: `First Song - My Blue Heaven (2) Bing Crosby` | **"My Blue Heaven with Bing Crosby and Rosemary Clooney"** | **CBS (KNX)**<br>1961-09-05<br>10:30 AM EDT | **Sustaining**<br>Daytime Music Variety | **Crosby & Clooney** | **Buddy Cole Trio** | `["Music", "Variety", "Bing Crosby", "Rosemary Clooney", "CBS"]` | Bing and Rosie perform vocal duets of 'My Blue Heaven' and classic pop standards accompanied by Buddy Cole's organ and piano. |
+| `Crosby_1962_HarryJames.mp3` <br>*Alt*: `Harry James and Betty Grable Bing Crosby` | **"Guests Harry James and Betty Grable with Bing Crosby"** | **CBS (KNX)**<br>1962-09-05<br>10:30 AM EDT | **Sustaining**<br>Musical Showcase | **Crosby, James & Grable** | **Buddy Cole (Music Dir.)** | `["Music", "Variety", "Bing Crosby", "Harry James", "Betty Grable"]` | Bing welcomes trumpet virtuoso Harry James and movie star Betty Grable for big band swing numbers and playful Hollywood reminiscences. |
+| `NickCarter_1948_QuietRoommate.mp3` <br>*Alt*: `Nick Carter 356 The Case Of The Quiet Roommate Nick Carter Master Detective` | **"The Case of the Quiet Roommate with Lon Clark"** | **Mutual (WOR)**<br>1948-09-05<br>6:30 PM EDT | **The Cudahy Packing Co.**<br>Old Dutch Cleanser | **Lon Clark & Manson** | **Jock MacGregor (Director)** | `["Detective", "Mystery", "Nick Carter", "Lon Clark", "Old Dutch Cleanser"]` | Nick Carter investigates the unexplained disappearance of a quiet boarding house resident and uncovers a subterranean counterfeiting plant. |
+| `BobBarkley_1951_Macao.mp3` <br>*Alt*: `Round Trip to Macao Bob Barkley Undercover Agent` | **"Round Trip to Macao with Springbok Radio Players"** | **Springbok Radio**<br>1951-09-05 | **Sustaining**<br>Undercover Espionage | **SABC Dramatic Troupe** | **SABC Drama Department** | `["Espionage", "Adventure", "Bob Barkley", "Springbok", "Undercover"]` | Secret operative Bob Barkley journeys to Portuguese Macao to recover stolen diplomatic currency plates from a casino smuggler. |
+| `WITR_1997_FrigginHere.mp3` <br>*Alt*: `Show WITR - Friggin Here Comedy Radio Show` | **"The Friggin Here Show on WITR"** | **WITR 89.7 FM**<br>1997-09-05 | **Sustaining**<br>College Radio Comedy | **WITR Comedy Players** | **WITR Student Unit** | `["Comedy", "College Radio", "WITR", "Satire", "Improv"]` | College radio hosts perform improvisational sketches, prank phone calls, and campus culture satire on Rochester's indie station. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 336 / 401 (65 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
