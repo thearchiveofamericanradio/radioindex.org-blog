@@ -1,0 +1,33 @@
+# Archival Dispatch: September 6 Calendar Walk — Jack Armstrong, Treasury Agent & Curtain Time
+
+**Date**: 2026-09-06  
+**Author**: radio index  
+**Tags**: September 6, Calendar Walk, Jack Armstrong The All-American Boy, Charles Flynn, Wheaties, Treasury Agent, Lyle Sudrow, Phillips H Lord, Mutual, Curtain Time, Harry Elders, Mars Candy, Im Sorry I Havent A Clue, Humphrey Lyttelton, BBC, Cities Service Highways, Paul Lavalle, Kay Kyser, AFRS, Alternate Titles, Original Filenames
+
+---
+
+## September 6 Archival Metadata Enrichment (Increment 849)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across Congo jungle juvenile adventure on *Jack Armstrong, The All-American Boy* for Wheaties (1948), diamond smuggling investigations on *Treasury Agent* (1955), romantic chauffeur mix-ups on *Curtain Time* for Mars Candy (1947), British comedy panel anarchy on *I'm Sorry I Haven't a Clue* (1986), patriotic brass marches on *Cities Service Highways in Melody* (1954), and Kay Kyser's military camp show for AFRS (1945), Kay Kyser (1945), Harry Elders (1947), Charles Flynn (1948), and Lyle Sudrow (1955):
+
+---
+
+## 1. *September 6 Archival Inventory (Increment 849)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `JackArmstrong_1948_JungleGreed.mp3` <br>*Alt*: `Jungle Greed Jack Armstrong, The All-American Boy` | **"Jungle Greed with Charles Flynn"** | **ABC (WJZ)**<br>1948-09-06<br>5:30 PM EDT | **General Mills, Inc.**<br>Wheaties Breakfast | **Charles Flynn & York** | **Robert Hardy Andrews** | `["Adventure", "Juvenile", "Jack Armstrong", "Charles Flynn", "Wheaties"]` | Jack Armstrong and his Hudson High companions journey into the dense Congo jungle to protect a peaceful village from ruthless diamond prospectors. |
+| `TreasuryAgent_1955_DeviousDiamond.mp3` <br>*Alt*: `TCOT Devious Ring (or) TCOT Devious Diamond Treasury Agent` | **"The Case of the Devious Diamond with Lyle Sudrow"** | **Mutual (WOR)**<br>1955-09-06<br>8:30 PM EDT | **Sustaining**<br>Federal Law Enforcement | **Lyle Sudrow (Joe Lincoln)** | **Phillips H. Lord (Creator)** | `["Docudrama", "Police Procedural", "Treasury Agent", "Lyle Sudrow", "Mutual"]` | Federal Customs agents track an international gem-smuggling ring slipping uncut diamonds through New York harbor disguised inside novelty souvenirs. |
+| `CurtainTime_1947_HomeJames.mp3` <br>*Alt*: `Home, James Curtain Time` | **"Home, James with Harry Elders"** | **NBC (WNBC)**<br>1947-09-06<br>7:30 PM EDT | **Mars, Inc.**<br>Mars Candy Bars | **Harry Elders & Vaughn** | **Arch Oboler (Writer)** | `["Drama", "Comedy", "Curtain Time", "Harry Elders", "Mars Candy"]` | A wealthy society heiress hires an impoverished chauffeur and becomes entangled in a delightful mix-up involving stolen jewels. |
+| `ISIHAC_1986_TeachersBall.mp3` <br>*Alt*: `Teachers Ball I'm Sorry I Haven't a Clue` | **"The Teacher's Ball with Humphrey Lyttelton"** | **BBC Radio 4**<br>1986-09-06<br>12:27 PM BST | **BBC Sustaining**<br>British Comedy Panel | **Humphrey Lyttelton & Cryer** | **Jon Naismith (Producer)** | `["Comedy", "Panel", "Im Sorry I Havent A Clue", "Humphrey Lyttelton", "BBC"]` | Humphrey Lyttelton chairs another hilarious round of 'the antidote to panel games' featuring Mornington Crescent and satirical charades. |
+| `HighwaysMelody_1954_BandAmerica.mp3` <br>*Alt*: `Episode Cities Service Highways in Melody` | **"Band of America with Paul Lavalle"** | **NBC (WNBC)**<br>1954-09-06<br>9:30 PM EDT | **Cities Service Oil Co.**<br>Petroleum Products | **Paul Lavalle (Cond.)** | **Band of America** | `["Music", "Concert", "Cities Service Highways", "Paul Lavalle", "Cities Service"]` | Paul Lavalle directs the Band of America in energetic marches, overtures, and patriotic American concert band anthems. |
+| `KayKyser_1945_CampIrwin_AFRS.mp3` <br>*Alt*: `Kollege Of Musical Knowledge 150 Camp Irwin Kay Kyser` | **"Armed Forces Remote at Camp Irwin with Kay Kyser"** | **AFRS**<br>1945-09-06 | **U.S. Armed Forces**<br>Armed Forces Radio | **Kay Kyser & Carroll** | **AFRS Unit** | `["Music", "Variety", "Kay Kyser", "AFRS", "Armed Forces"]` | The Ol' Professor brings musical knowledge contests and comedy songs to military servicemen stationed at the Mojave desert armor center. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 70 / 471 (401 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
