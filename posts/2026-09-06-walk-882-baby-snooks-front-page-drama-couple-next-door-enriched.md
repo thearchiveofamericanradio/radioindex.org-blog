@@ -1,0 +1,35 @@
+# Archival Dispatch: September 6 Calendar Walk — Baby Snooks, Front Page Drama & Couple Next Door
+
+**Date**: 2026-09-06  
+**Author**: radio index  
+**Tags**: September 6, Calendar Walk, Fanny Brice, Baby Snooks, Hanley Stafford, Maxwell House, Front Page Drama, The American Weekly, The Couple Next Door, Peg Lynch, Alan Bunce, CBS, Clean Titles, Pure Synopses, Alternate Titles, Original Filenames
+
+---
+
+## September 6 Archival Metadata Enrichment (Increment 882)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across Fanny Brice's comedic tantrums as Baby Snooks on *The Fanny Brice Show* for Maxwell House Coffee (1946), four dramatic tabloid headline adaptations on *Front Page Drama* from *The American Weekly* (ghost painter in 1935; table forensic clues in 1940; wartime tragic lovers in 1941; journalist death threats in 1953), and Peg Lynch's domestic suburban humor on *The Couple Next Door* (1960).
+
+All episode titles maintain pure canonical naming, with credited performers, conductors, and story details recorded in the narrative description:
+
+---
+
+## 1. *September 6 Archival Inventory (Increment 882)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Clean Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `BabySnooks_1946_FirstDaySchool.mp3` <br>*Alt*: `First Day at School Fanny Brice Frank Morgan Show` | **"First Day at School"** | **CBS (KNX)**<br>1946-09-06<br>8:00 PM EDT | **General Foods Corp.**<br>Maxwell House Coffee | **Fanny Brice & Stafford** | **Phil Rapp (Writer)** | `["Comedy", "Sitcom", "Baby Snooks", "Fanny Brice", "CBS"]` | Fanny Brice as mischievous Baby Snooks terrorizes Daddy Higgins with dizzy tantrums and clever mischief on the first morning of school for Maxwell House. |
+| `FrontPageDrama_1935_GhostPainter.mp3` <br>*Alt*: `The Ghost Painter Front Page Drama` | **"The Ghost Painter"** | **Syndicated Radio**<br>1935-09-06 | **Hearst Publications**<br>The American Weekly | **Dramatic Repertory Cast** | **Hearst Radio Features** | `["Mystery", "Drama", "Front Page Drama", "The American Weekly", "Syndicated"]` | An eerie mystery dramatization about a deceased artist whose unfinished portraits appear to be completed by supernatural nocturnal intervention. |
+| `FrontPageDrama_1940_TableTalks.mp3` <br>*Alt*: `The Table Talks Front Page Drama` | **"The Table Talks"** | **Syndicated Radio**<br>1940-09-06 | **Hearst Publications**<br>The American Weekly | **Dramatic Repertory Cast** | **Hearst Radio Features** | `["Mystery", "Drama", "Front Page Drama", "The American Weekly", "Syndicated"]` | A dramatic newspaper feature story chronicling how physical forensic clues left upon a parlor table expose an ingenious murder plot. |
+| `FrontPageDrama_1941_LoveDeath.mp3` <br>*Alt*: `Love in Death United Front Page Drama` | **"Love in Death United"** | **Syndicated Radio**<br>1941-09-06 | **Hearst Publications**<br>The American Weekly | **Dramatic Repertory Cast** | **Hearst Radio Features** | `["Drama", "Romance", "Front Page Drama", "The American Weekly", "Syndicated"]` | A tragic romance adapted from front-page headlines exploring the devotion of star-crossed lovers facing wartime separation and fatal danger. |
+| `FrontPageDrama_1953_LastWarning.mp3` <br>*Alt*: `Front Page Drama 1953 Episode` | **"The Last Warning"** | **Syndicated Radio**<br>1953-09-06 | **Hearst Publications**<br>The American Weekly | **Dramatic Repertory Cast** | **Hearst Radio Features** | `["Drama", "Crime", "Front Page Drama", "The American Weekly", "Syndicated"]` | A suspenseful newspaper dramatization following an investigative journalist threatened by racketeers before publishing a damning political exposé. |
+| `CoupleNextDoor_1960_FairOrganized.mp3` <br>*Alt*: `Getting The Fair Organized The Couple Next Door` | **"Getting the Fair Organized"** | **CBS (WCBS)**<br>1960-09-06<br>2:30 PM EDT | **Sustaining**<br>Daytime Domestic Comedy | **Peg Lynch & Alan Bunce** | **Peg Lynch (Creator)** | `["Comedy", "Sitcom", "The Couple Next Door", "Peg Lynch", "CBS"]` | Peg Lynch and Alan Bunce star as a suburban married couple dealing with chaotic community volunteers and booth preparations for the church charity fair. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 268 / 471 (203 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
