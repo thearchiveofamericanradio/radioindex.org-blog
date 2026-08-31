@@ -1,0 +1,35 @@
+# Archival Dispatch: September 6 Calendar Walk — Lincoln Highway, Adventurers Club & Backstage Wife
+
+**Date**: 2026-09-06  
+**Author**: radio index  
+**Tags**: September 6, Calendar Walk, Lincoln Highway, Merle Oberon, Shinola, The Adventurers Club, Paul Cyr, OSS, Burma, Backstage Wife, Claire Niesen, Procter & Gamble, The American Challenge, Robert Fulton, Contraband, Martin Lamm, Clean Titles, Pure Synopses, Alternate Titles, Original Filenames
+
+---
+
+## September 6 Archival Metadata Enrichment (Increment 866)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across screen star Merle Oberon guest starring on *Lincoln Highway* for Shinola Shoe Polish (1941), OSS guerrilla operative Paul Cyr narrating Burmese jungle warfare on *The Adventurers Club* (1947), daytime Broadway melodrama on *Backstage Wife* (1950), invention docudrama on *The American Challenge* (1942), diamond smuggling investigations on *Contraband* (1955), and Scandinavian literary theater history on *Martin Lamm* (1964).
+
+All episode titles maintain pure canonical naming, with credited performers, conductors, and story details recorded in the narrative description:
+
+---
+
+## 1. *September 6 Archival Inventory (Increment 866)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Clean Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `LincolnHighway_1941_MerleOberon.mp3` <br>*Alt*: `Guest - Merle Oberon Lincoln Highway` | **"The Hitchhiker's Secret"** | **NBC Red (WEAF)**<br>1941-09-06<br>11:00 AM EDST | **Hecker Products Corp.**<br>Shinola Shoe Polish | **Merle Oberon (Guest)** | **Maurice Evans (Narrator)** | `["Drama", "Anthology", "Lincoln Highway", "Merle Oberon", "Shinola"]` | Film star Merle Oberon guest stars in a cross-country highway drama about an enigmatic traveler stranded along the historic transcontinental route. |
+| `AdventurersClub_1947_PaulCyr2.mp3` <br>*Alt*: `The Paul Cyr Story Part 2 Adventurers Club` | **"The Paul Cyr Story"** | **CBS (KNX)**<br>1947-09-06<br>11:30 AM EDT | **Sustaining**<br>Military Docudrama | **Paul Cyr (OSS Officer)** | **John Loveton (Producer)** | `["Adventure", "Docudrama", "Adventurers Club", "Paul Cyr", "CBS"]` | OSS operative Paul Cyr recounts harrowing covert behind-the-lines guerrilla warfare and jungle survival against enemy forces in Japanese-occupied Burma. |
+| `BackstageWife_1950_MaryNoble.mp3` <br>*Alt*: `Backstage Wife 1950 Episode` | **"Mary's Solitary Decision"** | **NBC (WNBC)**<br>1950-09-06<br>4:00 PM EDT | **Procter & Gamble**<br>Duz & Camay Soap | **Claire Niesen (Mary)** | **Frank & Anne Hummert** | `["Soap Opera", "Drama", "Backstage Wife", "Claire Niesen", "Procter & Gamble"]` | Mary Noble confronts theatrical temptations and gossip columnists threatening her marriage to Broadway matinee idol Larry Noble. |
+| `AmericanChallenge_1942_Fulton.mp3` <br>*Alt*: `Life of Robert Fulton The American Challenge` | **"Life of Robert Fulton"** | **NBC Red (WEAF)**<br>1942-09-06<br>2:30 PM EWT | **Sustaining**<br>Historical Docudrama | **American Dramatic Troupe** | **NBC Historical Unit** | `["Historical", "Docudrama", "American Challenge", "Invention", "NBC"]` | A historical docudrama chronicling the visionary perseverance of American engineer Robert Fulton in developing the commercially viable steamboat. |
+| `Contraband_1955_Antwerp.mp3` <br>*Alt*: `Contraband 1955 Episode` | **"The Diamond Smugglers of Antwerp"** | **Mutual (WOR)**<br>1955-09-06<br>8:00 PM EDT | **Sustaining**<br>Customs Docudrama | **Customs Dramatic Cast** | **Mutual Radio Unit** | `["Crime", "Docudrama", "Contraband", "Customs", "Mutual"]` | Customs intelligence agents trail an international smuggling syndicate moving uncut diamonds concealed in maritime industrial cargo. |
+| `MartinLamm_1964_LovelyRose.mp3` <br>*Alt*: `A Wild And Lovely Rose Martin Lamm` | **"A Wild and Lovely Rose"** | **Sveriges Radio**<br>1964-09-06 | **SR Sustaining**<br>Scandinavian Theater | **Martin Lamm (Scholar)** | **Swedish Radio Drama** | `["Talk", "Literary", "Martin Lamm", "Swedish Radio", "Theater"]` | A literary audio essay exploring Scandinavian theater history, dramatic symbolism, and the cultural influence of August Strindberg. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 172 / 471 (299 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
