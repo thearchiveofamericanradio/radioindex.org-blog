@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — BBC Saturday Night Theatre & Imagination Theater
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, Saturday Night Theatre, BBC Radio Drama, BBC Home Service, BBC Radio 4, Harry Harrison, JB Priestley, Edward Wooll, Michael Brett, Ken Whitmore, Imagination Theater, Jim French, Audio Drama, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 843)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across five diverse British radio plays on BBC's *Saturday Night Theatre* (1959 Mediterranean romance, 1964 courtroom libel trial, 1970 peacekeeping thriller, 1981 Harry Harrison sci-fi satire *The Technicolor Time Machine*, 1987 psychological cold-case drama), alongside modern audio suspense on Jim French's *Imagination Theatre* (1999), BBC Drama Company (1959, 1964, 1970, 1981, 1987), and Jim French (1999):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 843)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `BBC_1959_Tamarinda.mp3` <br>*Alt*: `Tamarinda Saturday Night Theatre` | **"Tamarinda with BBC Radio Drama Company"** | **BBC Home Service**<br>1959-09-05<br>8:30 PM BST | **BBC Sustaining**<br>Saturday Night Theatre | **BBC Drama Repertory** | **Vincent Tilsley (Writer)** | `["Drama", "Anthology", "Saturday Night Theatre", "BBC", "Vincent Tilsley"]` | An English expatriate living in a Mediterranean coastal village finds his quiet retirement upended by a visiting stranger's sudden revelations. |
+| `BBC_1964_Libel.mp3` <br>*Alt*: `Libel Saturday Night Theatre` | **"Libel with BBC Radio Drama Company"** | **BBC Home Service**<br>1964-09-05<br>8:30 PM BST | **BBC Sustaining**<br>Courtroom Drama | **BBC Drama Repertory** | **Edward Wooll (Writer)** | `["Drama", "Courtroom", "Saturday Night Theatre", "BBC", "Edward Wooll"]` | A baronet sues a national newspaper for defamation after it claims he is an imposter who murdered the real baronet during wartime internment. |
+| `BBC_1970_Volunteer.mp3` <br>*Alt*: `The Volunteer Saturday Night Theatre` | **"The Volunteer with BBC Radio Drama Company"** | **BBC Radio 4**<br>1970-09-05<br>8:30 PM BST | **BBC Sustaining**<br>Radio Thriller | **BBC Drama Repertory** | **Michael Brett (Writer)** | `["Drama", "Thriller", "Saturday Night Theatre", "BBC", "Michael Brett"]` | A retired military officer volunteers for a hazardous local peacekeeping assignment and confronts unexpected moral betrayals. |
+| `BBC_1981_Technicolor.mp3` <br>*Alt*: `The Technicolour Time Machime Saturday Night Theatre` | **"The Technicolor Time Machine with BBC Drama Troupe"** | **BBC Radio 4**<br>1981-09-05<br>8:30 PM BST | **BBC Sustaining**<br>Science Fiction Satire | **BBC Drama Repertory** | **Harry Harrison (Author)** | `["Sci-Fi", "Comedy", "Saturday Night Theatre", "Harry Harrison", "BBC"]` | A bankrupt Hollywood film producer uses a newly invented time machine to shoot a low-budget Viking epic on location in eleventh-century North America. |
+| `BBC_1987_LongerThanDeath.mp3` <br>*Alt*: `A Memory Longer Than Death Saturday Night Theatre` | **"A Memory Longer Than Death with BBC Players"** | **BBC Radio 4**<br>1987-09-05<br>7:45 PM BST | **BBC Sustaining**<br>Psychological Suspense | **BBC Drama Repertory** | **Ken Whitmore (Writer)** | `["Mystery", "Thriller", "Saturday Night Theatre", "BBC", "Ken Whitmore"]` | A psychological thriller exploring the lingering obsession of a retired detective trying to solve an unsolved cold case murder from his youth. |
+| `Imagination_1999_Crisis.mp3` <br>*Alt*: `Crisis-A Summer House and Crisis-A Gift from Stacy Imagination Theater` | **"Crisis: A Summer House and A Gift from Stacy"** | **Syndicated Radio**<br>1999-09-05 | **Sustaining**<br>Modern Audio Theater | **Jim French Ensemble** | **Jim French (Director)** | `["Suspense", "Anthology", "Imagination Theater", "Jim French", "Audio Drama"]` | Two suspenseful modern audio plays exploring unexpected betrayals at an isolated summer lake house and a mysterious birthday delivery. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 372 / 401 (29 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
