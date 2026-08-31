@@ -1,0 +1,33 @@
+# Archival Dispatch: September 5 Calendar Walk — The Lone Ranger, David Rose & Proudly We Hail
+
+**Date**: 2026-09-05  
+**Author**: radio index  
+**Tags**: September 5, Calendar Walk, The Lone Ranger, George Stenius, Earle Graser, John Todd, Silvercup Bread, Bond Bread, California Melodies, David Rose, Maxine Gray, Mutual, Proudly We Hail, Kenneth Banghart, US Army, Alternate Titles, Original Filenames
+
+---
+
+## September 5 Archival Metadata Enrichment (Increment 823)
+
+This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across three legendary eras of *The Lone Ranger* (George Stenius/George Seaton in 1933; Earle Graser & John Todd in 1934 for Silvercup and 1938 for Bond Bread), lush string arrangements by maestro David Rose on *California Melodies* (1940, 1942), and frontier military history on *Proudly We Hail* for the U.S. Army Recruiting Service (1948), George Stenius (1933), Earle Graser (1934, 1938), and David Rose (1940, 1942):
+
+---
+
+## 1. *September 5 Archival Inventory (Increment 823)*
+
+| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `LoneRanger_1933_RedRiver.mp3` <br>*Alt*: `Lone Ranger 1933 Episode` | **"Outlaw Rustlers of Red River with George Stenius and John Todd"** | **WXYZ Detroit**<br>1933-09-05<br>7:30 PM EDST | **Sustaining**<br>Pioneer Western | **George Stenius & Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "The Lone Ranger", "George Stenius", "John Todd"]` | The masked rider and Tonto track a gang of ruthless cattle rustlers terrorizing homesteaders along the Red River valley. |
+| `LoneRanger_1934_GhostCanyon.mp3` <br>*Alt*: `Lone Ranger 1934 Episode` | **"Ambush at Ghost Canyon with Earle Graser and John Todd"** | **WXYZ / Mutual**<br>1934-09-05<br>7:30 PM EDST | **Gordon Baking Co.**<br>Silvercup Bread | **Earle Graser & Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "The Lone Ranger", "Earle Graser", "Silvercup Bread"]` | The Lone Ranger unmasks a fraudulent land baron who staged canyon ambushes to drive pioneer settlers off mineral-rich claims. |
+| `LoneRanger_1938_ForgottenLaws.mp3` <br>*Alt*: `Forgotten Laws Lone Ranger` | **"Forgotten Laws with Earle Graser and John Todd"** | **Mutual (WOR)**<br>1938-09-05<br>7:30 PM EDST | **General Baking Co.**<br>Bond Bread | **Earle Graser & Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "The Lone Ranger", "Earle Graser", "Bond Bread"]` | The Lone Ranger invokes territorial mining statutes to prevent corrupt claim-jumpers from dispossessing an elderly prospector and his daughter. |
+| `CaliforniaMelodies_1940_HolidayStrings.mp3` <br>*Alt*: `First Song - Holiday For Strings California Melodies` | **"Holiday for Strings with David Rose and His Orchestra"** | **Mutual (KHJ)**<br>1940-09-05<br>8:30 PM PST | **Sustaining**<br>Musical Showcase | **David Rose & Maxine Gray** | **David Rose (Conductor)** | `["Music", "Orchestral", "California Melodies", "David Rose", "Mutual"]` | Maestro David Rose conducts dazzling string arrangements including his trademark composition 'Holiday for Strings' and cinematic melodies. |
+| `CaliforniaMelodies_1942_Showcase.mp3` <br>*Alt*: `California Melodies California Melodies` | **"Hollywood Showcase with David Rose and Maxine Gray"** | **Mutual (KHJ)**<br>1942-09-05<br>9:00 PM PWT | **Sustaining**<br>Musical Broadcast | **David Rose & Maxine Gray** | **David Rose (Conductor)** | `["Music", "Orchestral", "California Melodies", "David Rose", "Maxine Gray"]` | David Rose leads sweeping orchestral arrangements of contemporary pop tunes and wartime ballads featuring vocalist Maxine Gray. |
+| `ProudlyWeHail_1948_WestwardHo.mp3` <br>*Alt*: `Westward Ho Proudly We Hail` | **"Westward Ho with Kenneth Banghart"** | **Syndicated Radio**<br>1948-09-05 | **US Army & Air Force**<br>Recruiting Service | **Kenneth Banghart & Cast** | **US Army Radio Unit** | `["Docudrama", "Western", "Proudly We Hail", "US Army", "Recruiting"]` | A historical dramatization following early frontier Army surveying teams charting wagon train passes across the Rocky Mountains. |
+
+---
+
+## 2. *Archival Verification Summary*
+
+- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 252 / 401 (149 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`
