@@ -121,6 +121,17 @@ main { flex: 1; margin-bottom: 64px; }
    blue as its own background, so the colour is set at 0-2-0 to outrank it. */
 .markdown-body .entry-paper-link { color: var(--color-canvas-default); text-decoration: none; }
 .entry-paper-link:hover { filter: brightness(1.15); }
+.papers { max-width: 52rem; }
+.papers-heading { margin: 0 0 4px; }
+.papers-count { margin: 0 0 28px; color: var(--color-fg-muted); font-family: var(--font-mono); font-size: 0.85rem; }
+.papers-group { margin: 0 0 26px; }
+.papers-date { margin: 0 0 8px; font-size: 0.9rem; font-family: var(--font-mono); color: var(--color-fg-muted); border-bottom: 1px solid var(--color-border-default); padding-bottom: 4px; }
+.papers-list { list-style: none; margin: 0; padding: 0; }
+.papers-row { margin: 0 0 2px; }
+.papers-row a { display: flex; gap: 10px; align-items: baseline; text-decoration: none; padding: 4px 6px; border-radius: 4px; }
+.papers-row a:hover { background: var(--color-canvas-subtle); }
+.papers-tr { font-family: var(--font-mono); font-size: 0.74rem; color: var(--color-fg-muted); white-space: nowrap; }
+.papers-title { color: var(--color-accent-fg); }
 
 /* Footer */
 footer.site-footer { border-top: 1px solid var(--color-border-muted); padding: 28px 0; font-family: var(--font-mono); font-size: 0.8rem; color: var(--color-fg-subtle); text-align: center; background: var(--color-canvas-subtle); }
