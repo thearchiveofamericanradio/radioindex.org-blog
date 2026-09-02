@@ -50,6 +50,10 @@ const maxSentence = opt("--max-sentence", 30);
 function prose(raw) {
   let t = raw;
   t = t.replace(/^---\n[\s\S]*?\n---\n/, "");
+  // A post opens with a title and a metadata block (Date, Author, Tags) closed by a
+  // rule. That is a record, not a sentence, and measuring it as one reports a
+  // 43-word sentence that nobody wrote.
+  t = t.replace(/^#\s+[^\n]*\n[\s\S]*?\n---\n/, "");
   t = t.replace(/```[\s\S]*?```/g, " ");
   t = t.replace(/`[^`]*`/g, " ");
   t = t.replace(/^\|.*$/gm, " ");
