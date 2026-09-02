@@ -257,92 +257,36 @@ a newspaper radio log and a recording diverge. Evidence internal to a recording 
 category most readily confounded by a subsequent repeat, a subsequent copy, or an Armed
 Forces Radio Service reissue of the same program.
 
-## 4. The procedure, and the strength of evidence
+## 4. The method
 
-The procedure specified below is written so a reader is able to replicate the identical
-sequence of steps. The procedure commences with a recording together with the documentation
-accompanying the recording. The procedure concludes with a date, a mark indicating the
-strength of the evidence, and the citations validating both the date and the mark.
+Set aside the date supplied with the file. A file name constitutes a claim advanced by an
+unknown party, and a procedure that adopts an unverified claim as a starting point ceases to
+be an inquiry into the date and becomes an inquiry into agreement.
 
-**Step 1 — Set aside the date accompanying the recording.** Record the date arriving with the
-item, and record the origin of the date: the file name, an index compiled by the source
-collection, or an earlier catalog. Designate the date as never validated. Do not treat the
-date as evidence at any subsequent step. Catalogers omit Step 1 more frequently than any
-other step, and the omission of Step 1 is precisely the mechanism converting an estimate into
-an apparent fact. A cataloger commencing from the transmitted date will locate support for
-the transmitted date, because the search has become a search for support.
+Establish the approximate period of the recording from internal evidence: references to
+current events, an identifiable advertising campaign, the announcer, or the wording of a
+station identification. A war report or an election result frequently fixes the week.
 
-**Step 2 — Identify the program and the program's customary time.** Locate the program, and,
-from published schedules across the program's run, derive the customary day and hour. A
-customary day and hour reduces the field of candidate dates. A customary day and hour never
-establishes a date independently. Section 5.4 analyzes two candidate dates separated by seven
-years, and both candidate dates conform to the program's customary time.
+Consult the radio listings of the four newspapers for the week so established.
 
-**Step 3 — Derive candidate dates from the recording.** Listen for datable content:
-references to the news, advertising campaigns, the announcer's name, network wording, station
-identification, and any spoken date. References to the news impose the strongest constraint,
-frequently to the exact week. Record each candidate date as a range rather than as a single
-day.
+Count the newspapers listing the program at the corresponding hour. The resulting count
+constitutes the strength of the date:
 
-**Step 4 — Test each candidate date against the newspaper radio logs.** For every candidate
-date, consult the radio log of each of the four newspapers for the corresponding date and
-city. Record each result as the newspaper, the date, and the category of listing. A candidate
-date surviving in two or more independently compiled radio logs is confirmed. A candidate
-date surviving in a single radio log is supported.
+- **A** — two or more newspapers list the broadcast
+- **B** — a single newspaper lists the broadcast
+- **C** — no newspaper lists the broadcast, but internal evidence and the program's
+  established schedule are consistent with a date
+- **D** — an estimate, expressed as a range, with the reasoning made explicit
+- **E** — the date arrived with the file and remains unverified
 
-**Step 5 — Consult the trade periodicals.** Read *Broadcasting* for the corresponding week,
-for schedule alterations, advertiser assignments, and special events. Trade evidence
-distinguishes a single broadcast from an adjacent broadcast within a run wherever the daily
-newspaper radio logs supply only the program name.
+Mark E bears the analytical weight. A catalog lacking an explicit category for unverified
+material will invariably convert an unknown party's estimate into an apparent fact, which is
+the sequence by which 13 February 1955 acquired authority in section 5.4.
 
-**Step 6 — Test for a repeat or a reissue.** Before assigning the date, pose an explicit
-question. Is the recording an Armed Forces Radio Service reissue, a regional repeat, or a
-subsequent copy of the same program? Evidence internal to the recording adjudicates the
-question. The presence of advertising, and the absence of advertising, is frequently
-sufficient, because reissues prepared for the armed forces had the advertising removed. A
-recording consistent with a listing has not thereby been demonstrated to be the broadcast the
-listing describes.
-
-**Step 7 — Assign the mark, and cite the sources.** Assign the record the strongest mark the
-evidence sustains. Cite every listing consulted. Where the date constitutes an estimate,
-state the estimate explicitly as an estimate, explain the reasoning, and supply a range
-rather than a single day.
-
-**Step 8 — Reconcile with the other copies.** Where the collection holds additional records
-of the same broadcast, resolve the records together. A record lacking a date inherits the
-*evidence* of a confirmed record, and not merely the confirmed record's answer. See section
-2.1.
-
-The procedure yields a date together with a mark for the strength of the evidence. The marks
-comprise five categories.
-
-**Mark A — Confirmed.** Two or more independent contemporary published listings support the
-date, and nothing internal to the recording contradicts the listings. The listings must be
-independent: two newspapers printing an identical network schedule constitute a single source
-rather than two sources.
-
-**Mark B — Supported.** A single contemporary published listing supports the date, and
-nothing internal to the recording contradicts the listing.
-
-**Mark C — Reasoned.** No listing states the date explicitly. The date nevertheless follows
-from evidence internal to the recording together with the program's established schedule. A
-reference to the news fixes the week, for example, and the program is established to have
-been transmitted on Tuesday evenings.
-
-**Mark D — Estimated.** A bounded estimate, supplied as a range rather than as a single day,
-with the reasoning stated explicitly. As the Association for Recorded Sound Collections
-observes, an explained estimate is preferable to the omission of the information.
-
-**Mark E — Transmitted, not validated.** A date carried forward from a source collection, and
-not yet validated by The Archive of American Radio against contemporary published evidence.
-Mark E exists so unvalidated dates remain visible as unvalidated, instead of quietly
-acquiring the status of fact. Mark E is the mark from which cataloging work promotes records.
-
-The most significant property of the marking framework is simply the capacity to record Mark
-E at all. A framework in which every date is merely a date cannot express the difference
-between a date an archive has validated and a date an archive has merely received. A
-framework lacking Mark E will misrepresent the archive's own evidence, irrespective of the
-care invested in the work behind the archive.
+Two cautions apply. Two newspapers reproducing an identical network schedule constitute a
+single source rather than two independent sources. And a recording corresponding to a listing
+may nonetheless be a subsequent repeat, so establish whether the advertising has been
+removed, as the Armed Forces Radio Service removed advertising from reissued material.
 
 ## 5. Examples
 

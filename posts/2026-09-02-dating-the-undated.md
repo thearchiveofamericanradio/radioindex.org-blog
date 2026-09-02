@@ -230,81 +230,34 @@ schedule. So evidence inside a recording decides the question when a radio log a
 recording do not agree. Evidence inside a recording is also the kind most easily mixed up by
 a later repeat, a later copy, or an Armed Forces Radio Service reissue of the same program.
 
-## 4. The procedure, and the strength of evidence
+## 4. The method
 
-The procedure below is written so a reader can follow the same steps. The procedure begins
-with a recording and whatever information arrived with the recording. The procedure ends with
-a date, a mark showing how strong the evidence is, and the citations that support both.
+Ignore the date that came with the file. A file name is a claim by a stranger. Start from a
+stranger's claim and the search stops being a search for the date, and becomes a search for
+agreement.
 
-**Step 1 — Put the date that came with the recording to the side.** Write down the date that
-arrived with the item. Note where the date came from: the file name, an index from the source
-collection, or an earlier catalog. Mark the date as never tested. Do not use the date as
-evidence at any later step. Catalogers leave out Step 1 more than any other step, and leaving
-out Step 1 is what turns a chosen date into a seeming fact. A cataloger who starts from the
-passed-along date will find support for the passed-along date, because the search has become
-a search for support.
+Work out roughly when the recording was made. Listen for news, for an advertising campaign,
+for the announcer, for a station identification. A war report or an election result often
+fixes the week.
 
-**Step 2 — Identify the program and the program's usual time.** Find the program, and from
-published schedules across the program's run, find the usual day and hour. A usual day and hour cuts down the possible dates. A usual day and hour never proves a date alone. Section 5.4
-shows two possible dates, seven years away from each other, and both possible dates fit the program's
-usual time.
+Look that week up in the radio listings of the four newspapers.
 
-**Step 3 — Get possible dates from the recording.** Listen for content that can be dated:
-words about the news, advertising campaigns, the announcer's name, network wording, station
-identification, and any spoken date. Words about the news give the strongest limit, often to
-the exact week. Record each possible date as a range, and not as a single day.
+Count how many of the four newspapers list the program at the same hour. The count is the
+strength of the date:
 
-**Step 4 — Test each possible date against the radio logs.** For every possible date, read
-the radio log of each of the four newspapers for the date and the city. Write down each hit
-as the newspaper, the date, and the kind of listing. A date that survives in two or more
-separately produced radio logs is confirmed. A date that survives in a single radio log is
-supported.
+- **A** — two or more newspapers list the broadcast
+- **B** — one newspaper lists the broadcast
+- **C** — no newspaper lists the broadcast, but the recording and the program's known
+  schedule agree on a date
+- **D** — an estimate, given as a range, with the reasoning written down
+- **E** — the date came with the file, and nobody has checked the date yet
 
-**Step 5 — Check the trade magazines.** Read *Broadcasting* for the same week, for schedule
-changes, advertiser assignments, and special events. Trade evidence separates a broadcast
-from another broadcast inside a run, when the daily radio logs give only the program name.
+Mark E carries the weight. A catalog with no way to say "nobody has checked this" will turn
+a stranger's guess into a fact, which is how 13 February 1955 got authority in section 5.4.
 
-**Step 6 — Test for a repeat or a reissue.** Before assigning the date, ask a question. Is the recording an Armed Forces Radio Service reissue, a regional repeat, or a later copy of the same program? Evidence inside the recording decides the question. When advertising is present, and when advertising is missing, is often enough, because reissues for the armed forces had the advertising
-removed. A recording that agrees with a listing has not thereby been shown to be the
-broadcast the listing describes.
-
-**Step 7 — Mark the strength, and cite the sources.** Give the record the strongest mark the
-evidence supports. Cite every listing read. Where the date is an estimate, say so, explain the
-reasoning, and give a range instead of a single day.
-
-**Step 8 — Compare with the other copies.** Where the collection holds other records of the
-same broadcast, settle the records together. A record without a date takes the *evidence* of
-a confirmed record, and not simply the answer. See section 2.1.
-
-The procedure produces a date together with a mark for the strength of the evidence. The
-marks are:
-
-**Mark A — Confirmed.** Two or more separate published listings from the time support the
-date, and nothing inside the recording contradicts the listings. The listings must be
-separate: two newspapers printing the same network schedule are a single source, and not two
-sources.
-
-**Mark B — Supported.** A single published listing from the time supports the date, and
-nothing inside the recording contradicts the listing.
-
-**Mark C — Reasoned.** No listing states the date directly. But the date follows from
-evidence inside the recording together with the program's known schedule. For example, a word about the news fixes the week, and the program is known to have aired on Tuesday
-evenings.
-
-**Mark D — Estimated.** A limited estimate, given as a range and not as a single day, with
-the reasoning stated. As the Association for Recorded Sound Collections says, an explained
-estimate is better than no information.
-
-**Mark E — Passed along, not tested.** A date carried forward from a source collection, and
-not yet tested by The Archive of American Radio against published evidence. Mark E exists so
-that never-tested dates stay visible as never tested, instead of quietly becoming facts. Mark E is
-the mark cataloging work moves records up from.
-
-The most important feature of the marking system is simply that Mark E can be recorded at all.
-A system in which every date is only a date cannot show the difference between a date an
-archive has proved and a date an archive has only received. A system without Mark E will give
-a false picture of the archive's own evidence, no matter how careful the work behind the
-archive has been.
+Two cautions. Two newspapers printing the same network schedule are one source, and not two.
+And a recording that agrees with a listing may still be a later repeat, so check whether the
+advertising was removed, which is what the Armed Forces Radio Service did.
 
 ## 5. Examples
 
