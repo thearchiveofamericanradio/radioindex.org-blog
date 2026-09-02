@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 29 Calendar Walk — Kraft Music Hall, Alec Templeton, and Lightning Jim</article-title>
+      <pub-date>2026-08-29</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 29, Calendar Walk, Kraft Music Hall, Paul Whiteman, Bob Burns, Edward Everett Horton, John Garfield, Joseph Schildkraut, The Music Maids, Kraft Miracle Whip, Alec Templeton Time, Alka-Seltzer, Lightning Jim, Frank Bingham, Taxi, Ray Brooks, Bob Grant, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 29 Archival Metadata Enrichment (Increment 330)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 29** across American network radio, BBC Radio 4, and electrical transcription, three distinct eras of *Kraft Music Hall* headliners spanning Paul Whiteman, Arkansas humorist Bob Burns with John Garfield, and Edward Everett Horton (1935–1946), pianist Alec Templeton's musical parodies for Alka-Seltzer (1939), Marshal *Lightning Jim* chasing gold coach robbers, and London cabbie mishaps on *Taxi!* (1935–1971):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 29 Archival Inventory (Increment 330)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Alec_Templeton_1939.mp3` <br>*Alt*: `Musical Parodies & Impressions` | **"Musical Parodies and Impressions"** | **NBC Red (WEAF)**<br>1939-08-29<br>9:30 PM EDST | **Miles Laboratories**<br>Alka-Seltzer / One-A-Day | **Alec Templeton**, **Edna O'Dell** | **Billy Mills Orchestra** | `["Music", "Comedy", "Piano", "Variety", "Parody"]` | Blind pianist Alec Templeton performs dazzling classical improvisations and satirical impressions of opera divas. |
+| `Lightning_Jim_1939.mp3` <br>*Alt*: `Stagecoach Gold Ambush` | **"The Stagecoach Gold Ambush"** | **Syndicated Elec**<br>1939-08-29 | **Commercial**<br>Regional Sponsors | **Frank Bingham** (Marshal Jim) | **Syndicated Western Staff** | `["Western", "Adventure", "Action", "Law Enforcement", "Americana"]` | United States Marshal Lightning Jim pursues an outlaw gang that dynamited a mountain pass to rob an armored gold stagecoach. |
+| `Taxi_1971_Bullfrog.mp3` <br>*Alt*: `Herbert the Bullfrog` | **"Herbert the Bullfrog"** | **BBC Radio 4**<br>1971-08-29 | **Sustaining**<br>British Comedy | **Ray Brooks**, **Bob Grant** | **BBC Comedy Staff** | `["Comedy", "British", "Sitcom", "Humor", "London"]` | A London cab driver is hired by an eccentric pet-store customer whose prize bullfrog escapes inside the backseat during rush hour. |
+| `KMH_1935_Whiteman.mp3` <br>*Alt*: `Paul Whiteman Ramona` | **"Paul Whiteman with Ramona and Jack Fulton"** | **NBC Red (WEAF)**<br>1935-08-29<br>10:00 PM EDST | **Kraft-Phenix Cheese**<br>Kraft Mayonnaise / Miracle Whip | **Paul Whiteman**, **Ramona** | **Jack Fulton & King's Men** | `["Variety", "Music", "Big Band", "Jazz", "Vocal"]` | Paul Whiteman conducts symphonic jazz arrangements and vocal solos alongside piano novelty numbers from the Kraft Music Hall. |
+| `KMH_1940_Garfield.mp3` <br>*Alt*: `Bob Burns John Garfield` | **"Guests John Garfield and Joseph Schildkraut"** | **NBC Red (WEAF)**<br>1940-08-29<br>10:00 PM EDST | **Kraft Cheese Co.**<br>Kraft Mayonnaise / Miracle Whip | **Bob Burns**, **John Garfield** | **Joseph Schildkraut & Trotter** | `["Variety", "Music", "Comedy", "Hollywood", "Vocal"]` | Bob Burns plays the bazooka, swaps Arkansas yarns, and welcomes dramatic actors John Garfield and Joseph Schildkraut for comedic banter. |
+| `KMH_1946_Horton.mp3` <br>*Alt*: `Edward Everett Horton KMH` | **"Summer Music with Edward Everett Horton and The Music Maids"** | **NBC (WNBC)**<br>1946-08-29<br>9:00 PM EDT | **Kraft Foods Company**<br>Kraft Cheese / Miracle Whip | **Edward Everett Horton** | **The Music Maids & Trotter** | `["Variety", "Music", "Comedy", "Vocal", "Pop Standard"]` | Edward Everett Horton hosts summer variety sketches and lively vocal harmonies with The Music Maids while Bing Crosby vacations. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 29
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 29**: 48
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

@@ -11,7 +11,9 @@
     "voa": "node scripts/voa-lint.mjs",
     "paper:ingest": "node scripts/paper-ingest.mjs",
     "paper:build": "node scripts/paper-build.mjs",
-    "papers": "node scripts/paper-build.mjs papers/dating-undated.xml voa posts/2026-09-02-dating-the-undated.md && node scripts/paper-build.mjs papers/dating-undated.xml awl posts/2026-09-02-register-awl.md"
+    "papers": "node scripts/paper-build.mjs papers/dating-undated.xml voa posts/2026-09-02-dating-the-undated.md && node scripts/paper-build.mjs papers/dating-undated.xml awl posts/2026-09-02-register-awl.md",
+    "papers:all": "node scripts/paper-all.mjs ingest",
+    "papers:verify": "node scripts/paper-all.mjs verify"
   },
   "dependencies": {
     "hono": "^4.7.0"

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — Nick Carter, Tommy Dorsey, and Ed Begley</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, Nick Carter Master Detective, Lon Clark, Helen Choate, Ferrin N Fraser, Street and Smith, Serial Story, Tommy Dorsey, Fame and Fortune, Sy Oliver, The Sentimentalists, Mystery Classics, Ed Begley, Twelfth Night, Orson Welles, Tallulah Bankhead, Shakespeare, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 441)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and mystery drama syndication, Lon Clark in three cases of *Nick Carter, Master Detective* including *The Ragoff Brooch*, serialized thriller *The Drums of Death* (Part 3), and *The Rodeo Murders* (1943, 1944, 1953), Tommy Dorsey and Sy Oliver on *Fame and Fortune* (1946), Ed Begley in *The Killing at Lafayette Place* (1956), and Orson Welles and Tallulah Bankhead in Shakespeare's *Twelfth Night* (1937–1956):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 441)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Tommy_Dorsey_1946_Ep22.mp3` <br>*Alt*: `Episode 22 Tommy Dorsey` | **"Sy Oliver and The Sentimentalists (Episode 22)"** | **NBC (WEAF)**<br>1946-08-30<br>8:30 PM EDT | **Standard Brands**<br>Tender Leaf Tea / Yeast | **Tommy Dorsey**, **Sy Oliver** | **Tommy Dorsey Orchestra** | `["Big Band", "Swing", "Jazz", "Tommy Dorsey", "Sy Oliver"]` | Tommy Dorsey leads his brass orchestra through swinging dance numbers and vocal harmonies with The Sentimentalists. |
+| `Nick_Carter_1943_Ragoff.mp3` <br>*Alt*: `Ragoff Brooch Nick Carter` | **"The Case of the Ragoff Brooch"** | **Mutual (WOR)**<br>1943-08-30<br>7:00 PM EWT | **Sustaining**<br>Detective Drama | **Lon Clark**, **Helen Choate** | **Ferrin N. Fraser (Writer)** | `["Detective", "Mystery", "Hardboiled", "Lon Clark", "Street & Smith"]` | Nick Carter investigates the violent theft of an antique Czarist jeweled brooch and unmasks a cunning jewel smuggler. |
+| `Nick_Carter_1944_Drums3.mp3` <br>*Alt*: `The Drums of Death Part 3` | **"The Drums of Death (Part 3)"** | **Mutual (WOR)**<br>1944-08-30<br>7:00 PM EWT | **Sustaining**<br>Detective Drama | **Lon Clark**, **Helen Choate** | **Ferrin N. Fraser (Writer)** | `["Detective", "Mystery", "Serial", "Lon Clark", "Street & Smith"]`<br>*Arc*: **The Drums of Death (Part 3 of 4)** | Nick and Patsy track the sinister rhythmic drum signals to a remote island estate where a renegade cult holds hostages. |
+| `Nick_Carter_1953_Rodeo.mp3` <br>*Alt*: `Case of Rodeo Murders` | **"The Case of the Rodeo Murders"** | **Mutual (WOR)**<br>1953-08-30<br>6:00 PM EDT | **Sustaining**<br>Detective Drama | **Lon Clark**, **Manson** | **Street & Smith Publications** | `["Detective", "Mystery", "Western", "Lon Clark", "Street & Smith"]` | Nick Carter goes undercover at a touring championship rodeo to expose who is sabotaging riders' saddle equipment. |
+| `Mystery_Classics_1956_Begley.mp3` <br>*Alt*: `Killing at Lafayette Place` | **"The Killing at Lafayette Place with Ed Begley"** | **Syndicated Drama**<br>1956-08-30 | **Sustaining**<br>Police Drama | **Ed Begley**, **Cast** | **Mystery Classics Staff** | `["Mystery", "Crime", "Police", "Ed Begley", "Anthology"]` | A seasoned police detective unravels contradictory alibis surrounding a wealthy antiquarian found dead in his study. |
+| `Shakespeare_1937_12thNight.mp3` <br>*Alt*: `Twelfth Night Shakespeare Cycle` | **"Twelfth Night with Orson Welles and Tallulah Bankhead"** | **CBS (WABC)**<br>1937-08-30<br>8:00 PM EDST | **Sustaining**<br>Shakespearean Cycle | **Orson Welles**, **Bankhead** | **Brewster Morgan (Director)** | `["Drama", "Classics", "Shakespeare", "Comedy", "Orson Welles"]` | Shipwrecked Viola disguises herself as Cesario in Illyria, leading to comic confusion and romantic misunderstandings. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 318 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

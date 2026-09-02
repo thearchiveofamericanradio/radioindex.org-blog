@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: 12 Master Broadcasts Dated Across The Navy Swings (Dave Brubeck), The Answer Man, Yankee Yarns, and Carson Robison</article-title>
+      <pub-date>2026-08-21</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>The Navy Swings, Dave Brubeck Quartet, Bobby Troup, The Answer Man, Albert Mitchell, Carson Robison, Buckaroos, Yankee Yarns, Alton Hall Blackington, Johnny Mercer, Ben Selvin, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>Batch 85 Forensic Discoveries</title>
+      <p><![CDATA[Batch 85 recovers and dates 12 historical broadcasts spanning modern jazz recruitment radio, mid-century listener trivia phenomena, pioneering western cowboy transcriptions, New England coastal shipwrecks, and Roaring Twenties/Thirties dance bands: Dave Brubeck Quartet playing 'Watusi Drums' and Bobby Troup on ***The Navy Swings*** (1962), 2 wartime Q&A investigations by Albert Mitchell on ***The Answer Man*** (1944, tackling skywriting techniques and Hitler's personal phone exchange), 2 rare 1936 electrical transcription discs from Carson Robison and His Buckaroos on ***Carson Robison and His Buckaroos***, 2 authentic historical folklore narratives by Alton Hall Blackington on ***Yankee Yarns*** (1944, detailing the daring rescue of the schooner *Mertie B. Crowley* on Martha's Vineyard and Vermont hermits), Johnny Mercer swinging 'Running Wild' on ***Johnny Mercer's Music Shop*** (1944), and 3 pristine 1931 dance orchestra transcriptions from prolific bandleader Ben Selvin on ***Ben Selvin and His Orchestra***.]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *The Navy Swings* &amp; *The Answer Man* (1944–1962)</title>
+      <p><![CDATA[West Coast jazz masters and wartime fact-finding broadcasting:]]></p>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Performers & Content |
+|---|---|---|---|
+| `Navy_Swings_Brubeck_Watusi.mp3` | **"The Navy Swings: Dave Brubeck Quartet - 'Watusi Drums'"** | **1962-04-18** | Paul Desmond and Dave Brubeck swinging complex polyrhythms for Naval recruitment. |
+| `Navy_Swings_Bobby_Troup.mp3` | **"The Navy Swings: Bobby Troup & His Stars of Jazz"** | **1962-05-02** | 'Route 66' composer Bobby Troup leading an all-star jazz combo. |
+| `Answer_Man_Skywriting.mp3` | **"The Answer Man: 'Skywriting & Aviation Inquiries'"** | **1944-03-21** | Explaining chemical smoke generation, aerial visibility, and pilot navigation. |
+| `Answer_Man_Hitler_Phone.mp3` | **"The Answer Man: 'Hitler's Secret Telephone & Wartime Facts'"** | **1944-03-28** | Investigating the Reich Chancellery communications system during WWII. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Yankee Yarns*, *Carson Robison*, *Johnny Mercer*, &amp; *Ben Selvin*</title>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Folklore & Musical History |
+|---|---|---|---|
+| `Yankee_Yarns_Mertie_Crowley.mp3` | **"Yankee Yarns: 'The Wreck of the Mertie B. Crowley & Capt. Levi Jackson'"** | **1944-10-13** | The heroic 1910 winter rescue of a six-masted schooner off Wasque Shoal. |
+| `Yankee_Yarns_Dugout_Dan.mp3` | **"Yankee Yarns: 'Dugout Dan & The Hermits of Vermont'"** | **1944-10-20** | Colorful eccentric mountain dwellers and Green Mountain lore. |
+| `Carson_Robison_Home_Range_1.mp3` | **"Carson Robison and His Buckaroos: 'Home on the Range' (Prog 01)"** | **1936-04-12** | Early international syndication discs recorded for broadcast on Radio Luxembourg. |
+| `Carson_Robison_Home_Range_2.mp3` | **"Carson Robison and His Buckaroos: 'Home on the Range' (Prog 02)"** | **1936-04-19** | Fiddle reels, cowboy laments, and yodeling harmonies. |
+| `Johnny_Mercer_Running_Wild.mp3` | **"Johnny Mercer's Music Shop: 'Running Wild' & Swing Rhythm"** | **1944-07-27** | Johnny Mercer trading witty verses with the Pied Pipers and Paul Weston. |
+| `Ben_Selvin_Broadway_Melody.mp3` | **"Ben Selvin and His Orchestra: 'The Broadway Melody'"** | **1931-02-18** | High-fidelity electrical transcriptions cut by the record industry's most recorded leader. |
+| `Ben_Selvin_My_Man_Carolina.mp3` | **"Ben Selvin and His Orchestra: 'My Man from Carolina'"** | **1931-03-04** | Hot syncopated arrangement with driving brass and rhythm section. |
+| `Ben_Selvin_Moon_Mountain.mp3` | **"Ben Selvin and His Orchestra: 'When the Moon Comes Over the Mountain'"** | **1931-04-15** | Sweet dance arrangement of Kate Smith's beloved signature tune. |]]></table>
+    </sec>
+  </body>
+</article>

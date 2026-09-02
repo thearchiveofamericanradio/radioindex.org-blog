@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 6 Calendar Walk — The Adventures of Superman &amp; Breakfast Club</article-title>
+      <pub-date>2026-09-06</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 6, Calendar Walk, The Adventures of Superman, Clayton Bud Collyer, Kellogg's Pep, Mutual, Breakfast Club, Don McNeill, ABC, Clean Titles, Pure Synopses, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 6 Archival Metadata Enrichment (Increment 864)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across five iconic serial adventures starring Clayton "Bud" Collyer as the Man of Steel on *The Adventures of Superman* for Kellogg's Pep (ocean bathysphere rescue in 1940; Civil Air Patrol saboteurs in 1943; the Scorpion's lair in 1944; swindlers confidence ring in 1945; crooked political boss George Latimer in 1946), and Don McNeill's festive Chicago broadcast on *The Breakfast Club* (1960).]]></p>
+      <p><![CDATA[All episode titles maintain pure canonical naming, with multi-part serial numbers cleanly recorded in the `story` attribute and cast/sponsors preserved in the narrative description:]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 6 Archival Inventory (Increment 864)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Clean Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Superman_1940_Bathysphere6.mp3` <br>*Alt*: `Professor Thorpe's Bathysphere, Part 6 of 12 The Adventures of Superman` | **"Professor Thorpe's Bathysphere"** | **Mutual (WOR)**<br>1940-09-06<br>5:15 PM EDST | **Kellogg Co.**<br>Kellogg's Pep Cereal | **Bud Collyer (Superman)** | **Robert & Maxwell (Producers)** | `["Superhero", "Adventure", "Superman", "Clayton Bud Collyer", "Kellogg's"]` | Clark Kent races against the clock beneath ocean depths as Superman to rescue Professor Thorpe trapped in a damaged deep-sea diving sphere. |
+| `Superman_1943_CAP14.mp3` <br>*Alt*: `The Civil Air Patrol - Part 14 The Adventures of Superman` | **"The Civil Air Patrol"** | **Mutual (WOR)**<br>1943-09-06<br>5:15 PM EWT | **Kellogg Co.**<br>Kellogg's Pep | **Bud Collyer (Superman)** | **B.P. Freeman (Writer)** | `["Superhero", "Adventure", "Superman", "Clayton Bud Collyer", "Kellogg's"]` | Superman aids Civil Air Patrol spotters in intercepting enemy saboteurs attempting to bomb a coastal radar installation. |
+| `Superman_1944_Scorpion7.mp3` <br>*Alt*: `The Scorpion - Part 7 The Adventures of Superman` | **"The Scorpion"** | **Mutual (WOR)**<br>1944-09-06<br>5:15 PM EWT | **Kellogg Co.**<br>Kellogg's Pep | **Bud Collyer & Jimmy Olsen** | **George Lowther (Director)** | `["Superhero", "Adventure", "Superman", "Clayton Bud Collyer", "Kellogg's"]` | Clark Kent and Daily Planet photographer Jimmy Olsen follow clues to uncover the secret lair of the elusive mastermind known as the Scorpion. |
+| `Superman_1945_DrBly2.mp3` <br>*Alt*: `Dr. Bly's Confidence Gang, Part 2 of 13 The Adventures of Superman` | **"Dr. Bly's Confidence Gang"** | **Mutual (WOR)**<br>1945-09-06<br>5:15 PM EWT | **Kellogg Co.**<br>Kellogg's Pep | **Bud Collyer (Superman)** | **Jessica Maxwell (Director)** | `["Superhero", "Adventure", "Superman", "Clayton Bud Collyer", "Kellogg's"]` | Superman intervenes to protect unsuspecting elderly citizens targeted by Dr. Bly's elaborate phony investment swindle. |
+| `Superman_1946_Latimer4.mp3` <br>*Alt*: `George Latimer, Crooked Political Boss, Part 4 of 17 The Adventures of Superman` | **"George Latimer, Crooked Political Boss"** | **Mutual (WOR)**<br>1946-09-06<br>5:15 PM EDT | **Kellogg Co.**<br>Kellogg's Pep | **Bud Collyer (Superman)** | **Allen Ducovny (Director)** | `["Superhero", "Adventure", "Superman", "Clayton Bud Collyer", "Kellogg's"]` | Clark Kent gathers crucial testimony to break the corrupt municipal stronghold of political boss George Latimer in Metropolis. |
+| `BreakfastClub_1960_Holiday.mp3` <br>*Alt*: `Christmas Show Breakfast Club` | **"Holiday Breakfast Special"** | **ABC (WLS)**<br>1960-09-06<br>9:00 AM CST | **Sustaining**<br>Morning Variety Show | **Don McNeill & Cast** | **Cliff Petersen (Producer)** | `["Variety", "Talk", "Breakfast Club", "Don McNeill", "ABC"]` | Don McNeill and the Breakfast Club ensemble lead morning inspiration, audience marches, and lively acoustic harmonies from Chicago. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 160 / 471 (311 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

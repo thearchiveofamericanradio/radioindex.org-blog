@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 27 Calendar Walk — Harvest of Stars, James Melton, and Glenn Miller</article-title>
+      <pub-date>2026-08-27</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 27, Calendar Walk, Harvest of Stars, James Melton, Nadine Conner, International Harvester, Frank Black, Gold Coast Rhythm, Big George Miller, AFRS, Texaco Star Theater, Jarmila Novotna, Al Goodman, The Kranesburg Matter, Springbok Radio, Raffles, Jeremy Clyde, Michael Cochrane, Glenn Miller, Ray Eberle, Marion Hutton, Chesterfield, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 27 Archival Metadata Enrichment (Increment 194)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American, British, and South African radio, operatic concert standards on *Harvest of Stars* and *The James Melton Show* (James Melton, Nadine Conner, Jarmila Novotna), Big George Miller on *Gold Coast Rhythm*, Michael Fisher's South African diamond thriller *The Kranesburg Matter*, Jeremy Clyde in *Raffles: The Knees of the Gods*, and Glenn Miller's legendary *Chesterfield Moonlight Serenade* (1940–1992):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 27 Archival Inventory (Increment 194)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Harvest_of_Stars_1950.mp3` <br>*Alt*: `James Melton Nadine Conner`, `1950` | **"Concert Standards with James Melton & Nadine Conner"** | **NBC (WEAF)**<br>1950-08-27<br>5:30 PM EDT | **Intl Harvester**<br>Trucks & Farmall Tractors | **James Melton**, **Nadine Conner** | **Frank Black**, **Don Wilson** | `["Music", "Classical", "Operetta", "Vocal", "Concert"]` | James Melton and soprano Nadine Conner perform operatic duets and American concert standards, accompanied by Frank Black conducting the symphony orchestra. |
+| `Gold_Coast_Rhythm_1957.mp3` <br>*Alt*: `Helping Junior Piano Lessons`, `1957` | **"Helping Junior with Piano Lessons"** | **AFRS (KFI)**<br>1957-08-27 | **AFRS**<br>Armed Forces Radio | **Big George Miller**, **The Rhythm Kings** | **AFRS Los Angeles Staff** | `["Music", "Jazz", "Rhythm & Blues", "Jump Blues", "Talk"]` | Big George Miller shares humorous domestic anecdotes about coaching his young son through piano practice while spinning swinging jazz and rhythm-and-blues sides. |
+| `James_Melton_1944.mp3` <br>*Alt*: `Guest - Jarmina Navotna`, `Texaco 1944` | **"Guest Jarmila Novotna & Operatic Arias"** | **CBS (WABC)**<br>1944-08-27<br>9:30 PM EWT | **Texaco**<br>Sky Chief & Havoline Oil | **James Melton**, **Jarmila Novotna** | **Al Goodman**, **Jimmy Wallington** | `["Music", "Classical", "Operetta", "Vocal", "Pop Standards"]` | James Melton welcomes Metropolitan Opera soprano Jarmila Novotna to perform arias from Carmen and popular romantic standards with the concert orchestra. |
+| `Kranesburg_Matter_1956.mp3` <br>*Alt*: `Diamond Syndicate Infiltration`, `1956` | **"The Diamond Syndicate Infiltration"** | **Springbok Radio**<br>1956-08-27<br>8:30 PM | **Commercial**<br>Mystery Sponsors | **Michael Fisher**, **Colin Fish** | **Michael Fisher** | `["Detective", "Noir", "Thriller", "Crime", "Espionage"]` | An undercover insurance investigator travels to the remote mining town of Kranesburg to track a network of illicit diamond buyers smuggling uncut stones. |
+| `Raffles_BBC_1992.mp3` <br>*Alt*: `The Knees of the Gods`, `Part 6` | **"The Knees of the Gods (Part 6)"** | **BBC Radio 4**<br>1992-08-27<br>10:00 PM | **Sustaining**<br>BBC Radio Drama | **Jeremy Clyde** (Raffles), **Michael Cochrane** (Bunny) | **David Buck**, **Gordon House** | `["Detective", "Mystery", "British", "Classics", "Historical"]` | Raffles and Bunny enlist in the British Army during the Second Boer War under assumed names, finding redemption on the South African veld during a dangerous scouting mission. |
+| `Moonlight_Serenade_1940.mp3` <br>*Alt*: `A Jeannie with the Light Brown Hair`, `1940` | **"Jeanie with the Light Brown Hair & Pennsylvania 6-5000"** | **CBS (WABC)**<br>1940-08-27<br>10:00 PM EDST | **Liggett & Myers**<br>Chesterfield ("They Satisfy!") | **Glenn Miller**, **Ray Eberle**, **Marion Hutton** | **Newell-Emmett**, **Paul Douglas** | `["Music", "Big Band", "Swing", "Jazz", "Pop Standards"]` | Glenn Miller leads the orchestra in Stephen Foster's 'Jeanie with the Light Brown Hair', 'Pennsylvania 6-5000', and swing arrangements featuring vocalists Ray Eberle and Marion Hutton. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 77
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

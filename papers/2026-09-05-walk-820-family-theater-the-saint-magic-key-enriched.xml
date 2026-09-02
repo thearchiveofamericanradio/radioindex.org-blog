@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Family Theater, The Saint &amp; The Magic Key</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, Family Theater, Stephen McNally, Ruth Hussey, Father Patrick Peyton, Mutual, The Saint, Brian Aherne, Campbells, The Magic Key, Richard Bonelli, Frank Black, RCA Victor, Baby Snooks, Fanny Brice, Hanley Stafford, Maxwell House, Adventures in Research, Westinghouse, Stephen Hales, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 820)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across inspirational family drama on Father Patrick Peyton's *Family Theater* (Stephen McNally in 1951; Ruth Hussey in 1956), Leslie Charteris's gentleman thief in *The Saint* starring Brian Aherne for Campbell's Soup (1945), grand operatic variety on *The Magic Key of RCA* featuring baritone Richard Bonelli and maestro Frank Black (1937), Baby Snooks magazine scams for Maxwell House (1940), and scientific history on *Adventures in Research* exploring Stephen Hales's plant physiology discoveries (1950), Richard Bonelli (1937), Fanny Brice (1940), and Brian Aherne (1945):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 820)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Research_1950_InquisitiveVicar.mp3` <br>*Alt*: `The Inquisitive Vicar Adventures in Research` | **"The Inquisitive Vicar with Dr. Phillips Thomas"** | **Syndicated Radio**<br>1950-09-05 | **Westinghouse Electric**<br>Institutional Science | **Dr. Phillips Thomas** | **Paul Shannon (Announcer)** | `["Docudrama", "Science", "Adventures in Research", "Westinghouse", "Stephen Hales"]` | The story of 18th-century clergyman Stephen Hales, whose pioneering botanical experiments measured sap pressure and laid the foundations of plant physiology. |
+| `MagicKey_1937_Bonelli.mp3` <br>*Alt*: `The Magic Key 1937 Episode` | **"Richard Bonelli and the Frank Black Symphony"** | **NBC Blue (WJZ)**<br>1937-09-05<br>2:00 PM EDST | **Radio Corp. of America**<br>RCA Victor Radios | **Bonelli & Milton Cross** | **Frank Black and Symphony** | `["Music", "Concert", "The Magic Key", "Richard Bonelli", "RCA"]` | Baritone Richard Bonelli performs operatic arias and Broadway show tunes accompanied by Frank Black's studio symphony orchestra. |
+| `FamilyTheater_1951_ShiningArmor.mp3` <br>*Alt*: `In Shining Armor Family Theater` | **"In Shining Armor with Stephen McNally"** | **Mutual (WOR)**<br>1951-09-05<br>9:30 PM EDT | **Sustaining**<br>Inspirational Drama | **McNally & Father Peyton** | **David Young (Director)** | `["Drama", "Anthology", "Family Theater", "Stephen McNally", "Father Peyton"]` | An idealistic community youth leader helps an embittered war veteran overcome cynicism and find renewed purpose coaching high school athletics. |
+| `FamilyTheater_1956_TheOuting.mp3` <br>*Alt*: `The Outing Family Theater` | **"The Outing with Ruth Hussey"** | **Mutual (WOR)**<br>1956-09-05<br>9:30 PM EDT | **Sustaining**<br>Inspirational Drama | **Hussey & Father Peyton** | **David Young (Director)** | `["Drama", "Anthology", "Family Theater", "Ruth Hussey", "Father Peyton"]` | A busy suburban mother organizes an impromptu family camping trip to bridge growing emotional distances between her teenage children. |
+| `BabySnooks_1940_MagazineScam_Alt.mp3` <br>*Alt*: `Magazine Scam (Begin Maxwell House Coffee Time) Baby Snooks` | **"The Magazine Subscription Scam with Fanny Brice"** | **NBC Red (WEAF)**<br>1940-09-05<br>8:00 PM EDST | **General Foods Corp.**<br>Maxwell House Coffee | **Fanny Brice & Stafford** | **Phil Rapp (Writer)** | `["Comedy", "Sitcom", "Baby Snooks", "Fanny Brice", "Maxwell House"]` | Snooks deceives door-to-door salesmen by forging Daddy's signature on dozens of annual periodicals, triggering an avalanche of postal deliveries. |
+| `Saint_1945_VanishingLady_Alt.mp3` <br>*Alt*: `The Vanishing Lady The Saint` | **"The Vanishing Lady on the Train with Brian Aherne"** | **CBS (KNX)**<br>1945-09-05<br>8:00 PM EWT | **Campbell Soup Co.**<br>Campbell's Soups | **Brian Aherne & Arthur** | **Leslie Charteris (Creator)** | `["Mystery", "Detective", "The Saint", "Brian Aherne", "Campbells"]` | Simon Templar investigates the mysterious disappearance of a woman from a moving railway carriage and uncovers a plot involving diamond substitution. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 234 / 401 (167 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

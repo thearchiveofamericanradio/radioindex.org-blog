@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 3 Calendar Walk — Hop Harrigan, Death Valley Days &amp; Claudia and David</article-title>
+      <pub-date>2026-09-03</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 3, Calendar Walk, Hop Harrigan, Chester Stratton, Ken Lynch, General Foods, Grape-Nuts, Post's Cereals, Serial Story Arc, Atlantic Submarine Patrol, Secret Jet Formula, Death Valley Days, The Old Ranger, 20 Mule Team Borax, Boraxo, Ruth Cornwall Woodman, Claudia and David, Rose Franken, Patricia Ryan, Richard Kollmar, Jerry of the Circus, Jerry Morris, Under the Big Top, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 3 Archival Metadata Enrichment (Increment 678)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on **September 3** across juvenile aviation adventure serials, frontier historical Western anthologies, charming marital comedies, and traveling circus cliffhangers, Chester Stratton as *Hop Harrigan* for Grape-Nuts and Post's Cereals (1942, 1947), The Old Ranger on *Death Valley Days* for 20 Mule Team Borax (1937, 1942), Rose Franken's *Claudia and David* (1948), and *Jerry of the Circus* (1937–1948):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 3 Archival Inventory (Increment 678)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Arc Metadata | Story Synopsis |
+|---|---|---|---|---|---|---|---|---|
+| `HopHarrigan_1942_AtlanticPatrol.mp3` <br>*Alt*: `Hop Harrigan 1942 Episode` | **"Aerial Reconnaissance Over the Atlantic with Chester Stratton"** | **Blue Network**<br>1942-09-03<br>5:15 PM EWT | **General Foods**<br>Grape-Nuts Flakes | **Chester Stratton (Hop)** | **Ken Lynch (Tank)** | `["Adventure", "Aviation", "Hop Harrigan", "Chester Stratton", "Grape Nuts"]` | `{"title": "Atlantic Submarine Patrol", "part": 12, "total_parts": 15}` | Aviator Hop Harrigan and mechanic Tank Tinker spot a surfaced enemy submarine refueling in coastal fog off the Eastern seaboard. |
+| `HopHarrigan_1947_SecretJet.mp3` <br>*Alt*: `Important Papers Missing CWP 6 Hop Harrigan` | **"Important Papers Missing with Chester Stratton"** | **Mutual (WOR)**<br>1947-09-03<br>5:00 PM EDT | **General Foods**<br>Post's Raisin Bran & Cereals | **Chester Stratton (Hop)** | **Ken Lynch (Tank)** | `["Adventure", "Aviation", "Hop Harrigan", "Chester Stratton", "Posts Cereals"]` | `{"title": "Secret Jet Formula", "part": 6, "total_parts": 10}` | Hop Harrigan discovers that experimental jet propulsion blueprints were stolen from an airfield safe during a nighttime hangar blackout. |
+| `DeathValley_1937_BlackThunder.mp3` <br>*Alt*: `Black Thunder Death Valley Days` | **"Black Thunder with The Old Ranger and 20 Mule Team Borax"** | **NBC Blue (WJZ)**<br>1937-09-03<br>8:30 PM EDST | **Pacific Coast Borax**<br>20 Mule Team Borax | **The Old Ranger (Host)** | **Ruth Cornwall Woodman** | `["Western", "History", "Death Valley Days", "Old Ranger", "Borax"]` | `null` | The Old Ranger recounts how a brave stallion known as Black Thunder led desert mustang herds away from greedy horse trappers. |
+| `DeathValley_1942_TeethInLaw.mp3` <br>*Alt*: `Putting Teeth in the Law Death Valley Days` | **"Putting Teeth in the Law with The Old Ranger"** | **CBS (WABC)**<br>1942-09-03<br>8:00 PM EWT | **Pacific Coast Borax**<br>20 Mule Team & Boraxo | **The Old Ranger (Host)** | **Ruth Cornwall Woodman** | `["Western", "History", "Death Valley Days", "Old Ranger", "Boraxo"]` | `null` | A newly appointed frontier magistrate confronts corrupt town aldermen to enforce mining claim laws in the Nevada territory. |
+| `ClaudiaDavid_1948_SummerStock.mp3` <br>*Alt*: `In Summer Stock Dress Rehearsal Claudia and David` | **"In Summer Stock Dress Rehearsal with Patricia Ryan and Richard Kollmar"** | **CBS (WABC)**<br>1948-09-03<br>4:30 PM EDT | **Sustaining**<br>Marital Comedy | **Patricia Ryan**, **Kollmar** | **Rose Franken (Author)** | `["Comedy", "Drama", "Claudia And David", "Patricia Ryan", "Richard Kollmar"]` | `null` | Claudia endures chaotic backstage disputes and forgotten lines while preparing for opening night at a rural summer playhouse. |
+| `JerryCircus_1937_SpikeRecognized.mp3` <br>*Alt*: `Spike Is Recognized Jerry of the Circus` | **"Spike Is Recognized with Jerry Morris"** | **Syndication**<br>1937-09-03 | **Sustaining**<br>Circus Serial | **Jerry Morris (Jerry)** | **Circus Drama Cast** | `["Children", "Adventure", "Jerry Of The Circus", "Circus", "Syndicated"]` | `{"title": "Under the Big Top", "part": 45, "total_parts": 130}` | Jerry discovers that the circus tent boss Spike is actually an escaped convict hiding from state marshals. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 259 / 469 (210 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

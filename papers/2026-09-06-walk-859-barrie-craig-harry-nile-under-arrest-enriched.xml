@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 6 Calendar Walk — Barrie Craig, Harry Nile &amp; Under Arrest</article-title>
+      <pub-date>2026-09-06</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 6, Calendar Walk, Barrie Craig Confidential Investigator, William Gargan, NBC, The Adventures of Harry Nile, Phil Harper, Jim French, Under Arrest, Joe DeSantis, Mutual, The Drene Show, Rudy Vallee, Best Sellers, Bret Morrison, Clean Titles, Pure Synopses, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 6 Archival Metadata Enrichment (Increment 859)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across William Gargan as private eye Barrie Craig (1953), Phil Harper as Seattle detective Harry Nile on Jim French's *The Adventures of Harry Nile* (1992), two police procedural cases on *Under Arrest* (1953, 1954), Rudy Vallee crooning 'I Should Care' on *The Drene Show* (1945), and Bret Morrison narrating Elisabeth Ogilvie's coastal drama on *Best Sellers* (1945).]]></p>
+      <p><![CDATA[All episode titles maintain pure canonical naming, with credited performers, conductors, and story details recorded in the narrative description:]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 6 Archival Inventory (Increment 859)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Clean Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `BarrieCraig_1953_FinalPayment.mp3` <br>*Alt*: `Final Payment Barrie Craig, Confidential Investigator` | **"Final Payment"** | **NBC (WNBC)**<br>1953-09-06<br>8:30 PM EDT | **Sustaining**<br>Private Detective | **William Gargan (Craig)** | **Him Brown (Director)** | `["Detective", "Mystery", "Barrie Craig", "William Gargan", "NBC"]` | Private detective Barrie Craig is retained by an uneasy businessman to deliver an extortion payoff, only to find the blackmailer shot to death in a hotel lobby. |
+| `HarryNile_1992_Advertise.mp3` <br>*Alt*: `It Pays To Advertise The Adventures of Harry Nile` | **"It Pays to Advertise"** | **Syndicated Radio**<br>1992-09-06 | **Sustaining**<br>Modern Detective Drama | **Phil Harper & Pat French** | **Jim French (Author/Dir.)** | `["Detective", "Mystery", "Harry Nile", "Phil Harper", "Jim French"]` | Seattle private eye Harry Nile and assistant Murphy take on a high-paying client who placed a newspaper classified ad seeking protection against a hitman. |
+| `UnderArrest_1953_DiamondBrooch.mp3` <br>*Alt*: `Under Arrest 1953 Episode` | **"The Stolen Diamond Brooch"** | **Mutual (WOR)**<br>1953-09-06<br>5:00 PM EDT | **Sustaining**<br>Police Procedural | **Joe DeSantis (Capt. Drake)** | **Wynn Wright (Director)** | `["Police Procedural", "Drama", "Under Arrest", "Joe DeSantis", "Mutual"]` | Police Captain John Drake investigates an apartment burglary where an antique heirloom brooch was taken during a staged power outage. |
+| `UnderArrest_1954_SmugglingRing.mp3` <br>*Alt*: `Under Arrest 1954 Episode` | **"The Waterfront Smuggling Ring"** | **Mutual (WOR)**<br>1954-09-06<br>5:00 PM EDT | **Sustaining**<br>Police Procedural | **Joe DeSantis (Capt. Drake)** | **Wynn Wright (Director)** | `["Police Procedural", "Drama", "Under Arrest", "Joe DeSantis", "Mutual"]` | Police Captain Drake goes undercover among harbor longshoremen to uncover the ringleader of a contraband theft syndicate. |
+| `DreneShow_1945_IShouldCare.mp3` <br>*Alt*: `1st I Should Care Rudy Vallee The Drene Show` | **"I Should Care"** | **NBC (WNBC)**<br>1945-09-06<br>8:00 PM EWT | **Procter & Gamble**<br>Drene Shampoo | **Rudy Vallee & Cugat** | **Xavier Cugat Orchestra** | `["Music", "Comedy", "Rudy Vallee", "Xavier Cugat", "Drene Shampoo"]` | Rudy Vallee croons the romantic ballad 'I Should Care', performs comedy skits with Xavier Cugat and his rhythm ensemble, and jokes with announcer Lou Crosby for Drene. |
+| `BestSellers_1945_StormTide4.mp3` <br>*Alt*: `Storm Tide - Part 4 Best Sellers` | **"Storm Tide"** | **NBC (WNBC)**<br>1945-09-06<br>1:30 PM EWT | **Sustaining**<br>Literary Serialization | **Bret Morrison (Narrator)** | **Elisabeth Ogilvie (Author)** | `["Drama", "Literary", "Best Sellers", "Bret Morrison", "Elisabeth Ogilvie"]` | Bret Morrison narrates Elisabeth Ogilvie's coastal Maine drama about a young lobsterman and his bride weathering isolation and rivalry on Bennett's Island. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 130 / 471 (341 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 23 Calendar Walk — Johnny Mercer, Rudy Vallee, and This Is Jazz</article-title>
+      <pub-date>2026-08-23</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 23, Calendar Walk, Johnny Mercer's Music Shop, Johnny Mercer, Jo Stafford, The Pied Pipers, Paul Weston, Pepsodent, The Rudy Vallee Show, The Fleischmann Hour, Ernest Truex, Casper Milquetoast, Chesterfield Presents, Fred Waring, Pennsylvanians, The Witch's Tale, 3DB Melbourne, Australian Radio, Attorney at Law, Jim Ameche, Johnson's Wax, This Is Jazz, Rudi Blesh, Wild Bill Davison, James P Johnson, Baby Dodds, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 23 Exhaustive Archival Metadata Enrichment (Increment 28)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American and international network broadcasting history (1932–1947):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 23 Archival Inventory (Increment 28)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Fred_Waring_1942_08_23.mp3` <br>*Alt*: `Too Old To Dream`, `Chesterfield Waring 1942` | **"Fred Waring and his Pennsylvanians: 'When I Grow Too Old to Dream' (Chesterfield)"** | **NBC Red (WEAF)**<br>1942-08-23<br>7:00 PM EWT | **Liggett & Myers**<br>Chesterfield Cigarettes | **Fred Waring & his Pennsylvanians**, **Jane Wilson**, **Donna Dae**, **Waring Glee Club** | **Roy Ringwald** (Arranger), **Paul Douglas** (Announcer) | `["Music", "Vocal", "Choral", "Easy Listening", "Big Band"]` | Fred Waring leads his renowned Pennsylvanians and choral glee club in a stirring musical program for Chesterfield cigarettes, highlighting rich vocal arrangements of 'When I Grow Too Old to Dream' and patriotic wartime anthems. |
+| `Witchs_Tale_1932_08_23.mp3` <br>*Alt*: `Great Green Stone`, `Emerald of Doom 1932` | **"The Witch's Tale: The Great Green Stone (3DB Melbourne)"** | **3DB Melbourne**<br>1932-08-23<br>9:30 PM | **Local Commercials**<br>Australian Advertisers | **Old Nancy the Witch**, **Satan the Cat**, **Keith Eden**, **Catherine Neill** | **Alonzo Deen Cole** (Author), **3DB Studios** | `["Horror", "Supernatural", "Occult", "Anthology", "Australian"]` | Old Nancy the Witch and her black cat Satan introduce the terrifying legend of a cursed emerald jewel stolen from an ancient Tibetan shrine, whose gleaming facets drive every subsequent owner to madness and sudden death. |
+| `Johnny_Mercer_1944_08_23.mp3` <br>*Alt*: `Music Shop 1944`, `Jo Stafford Pied Pipers` | **"Johnny Mercer's Music Shop with Jo Stafford & The Pied Pipers (Pepsodent)"** | **NBC (WEAF)**<br>1944-08-23<br>8:00 PM EWT | **Pepsodent Co.**<br>Pepsodent Toothpaste & Powder | **Johnny Mercer**, **Jo Stafford**, **The Pied Pipers**, **Paul Weston Orchestra** | **Bob Brewster** (Director), **Wendell Niles** (Announcer) | `["Music", "Vocal", "Pop", "Jazz", "Variety"]` | Songwriter Johnny Mercer hosts his summery music shop for Pepsodent, singing witty novelty rhymes alongside vocal sensation Jo Stafford and The Pied Pipers, backed by the breezy swing rhythms of Paul Weston's Orchestra. |
+| `Attorney_At_Law_1938_08_23.mp3` <br>*Alt*: `Devils Own Brother`, `Terry Regan Johnsons Wax` | **"The Case of the Devil's Own Brother (Johnson's Wax)"** | **NBC Red (WEAF)**<br>1938-08-23<br>9:30 PM EDST | **S.C. Johnson & Son**<br>Johnson's Wax & Glo-Coat | **Jim Ameche** (Terry Regan), **Fran Carlon**, **Henry Hunter** | **Milton Geiger** (Writer), **Fort Pearson** (Announcer) | `["Legal", "Drama", "Crime", "Mystery"]` | Idealistic young courtroom attorney Terry Regan defends an upright, hard-working clerk accused of warehouse arson, uncovering proof that the clerk's vengeful identical twin brother framed him to steal an inheritance. |
+| `This_Is_Jazz_1947_08_23.mp3` <br>*Alt*: `Ballin the Jack`, `Wild Bill Davison Rudi Blesh` | **"This Is Jazz: 'Ballin' the Jack' with Wild Bill Davison, James P. Johnson & Baby Dodds"** | **Mutual (WOR)**<br>1947-08-23<br>2:30 PM EDT | **Sustaining**<br>Mutual Jazz Presentation | **Rudi Blesh** (Host), **Wild Bill Davison**, **James P. Johnson**, **Baby Dodds** | **Rudi Blesh** (Producer), WOR Sound Engineering | `["Music", "Jazz", "Dixieland", "Historical"]` | Jazz historian Rudi Blesh convenes the world's finest traditional New Orleans and Chicago jazz pioneers for a historic live jam session, performing electrifying renditions of 'Ballin' the Jack', 'High Society', and 'Careless Love'. |
+| `Rudy_Vallee_1934_08_23.mp3` <br>*Alt*: `Casper Milquetoast`, `Fleischmann Yeast 1934` | **"The Fleischmann Hour: Rudy Vallee with Ernest Truex as Casper Milquetoast"** | **NBC Red (WEAF)**<br>1934-08-23<br>8:00 PM EDST | **Standard Brands, Inc.**<br>Fleischmann's Yeast | **Rudy Vallee & Connecticut Yankees**, **Ernest Truex** | **J. Walter Thompson Co.**, **Graham McNamee** | `["Variety", "Comedy", "Music", "Vocal"]` | Host Rudy Vallee and his Connecticut Yankees present stage comedian Ernest Truex in a hilarious dramatic sketch bringing H.T. Webster's timid comic strip hero Casper Milquetoast to life, complemented by Rudy's signature crooning of romantic ballads. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 168
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

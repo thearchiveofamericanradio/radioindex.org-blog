@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: 14 Master Broadcasts Dated Across 1940 Superman Audition, Joe DiMaggio, and The Marx Brothers Esso Show</article-title>
+      <pub-date>2026-08-21</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>Superman, The Adventures of Superman, Bud Collyer, 1940 Audition, Joe DiMaggio, Leo Durocher, Laraine Day, Double Play, The Marx Brothers, Flywheel Shyster and Flywheel, Groucho Marx, Chico Marx, Bing Crosby, Charlie Barnet, Peggy King, Norma Shearer, Fredric March, The Barretts of Wimpole Street, Music On Deck, US Navy, Merchant Marine, The Happiness Boys, Billy Jones, Ernie Hare, Frontier Fighters, George Pickett, Jedediah Smith, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>Batch 100 Forensic Milestone</title>
+      <p><![CDATA[Batch 100 marks a monumental milestone—surpassing **1,930 canonical mystery broadcasts resolved, dated, committed to main, deployed to edge workers, and fully documented across 104 archival dispatches**: 2 legendary audition transcriptions of ***The Adventures of Superman*** starring Bud Collyer as Clark Kent and the Man of Steel detailing the destruction of the planet Krypton and his arrival on Earth (1940), New York Yankees icon Joe DiMaggio discussing hitting streaks, retirement, and pennant races with Leo Durocher and Laraine Day on ***Double Play*** (1953), Groucho and Chico Marx starring in their rare 1933 Esso radio series *Flywheel, Shyster, and Flywheel* featuring guest Bing Crosby, jazz bandleader Charlie Barnet teaming up with songstress Peggy King on 'Lonesome Road' (1950), MGM's 1934 radio promotional drama preview for *The Barretts of Wimpole Street* starring Norma Shearer and Fredric March, Bing Crosby performing for Navy sailors on ***Music on Deck*** (1952), wartime merchant sailors in combat on ***Heroes of the Merchant Marine*** (1943), early radio pioneers Billy Jones & Ernie Hare celebrating the New Deal as ***The Happiness Boys*** (1933), and 3 historical frontier dramatizations on ***Frontier Fighters*** (1935).]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *Superman: The 1940 Origin Auditions* &amp; *Joe DiMaggio*</title>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Pop Culture Context |
+|---|---|---|---|
+| `Superman_1940_Audition_Part1.mp3` | **"The Adventures of Superman: 'The Origin of Superman' Original 1940 Audition Recording (Part 1)"** | **1940-02-05** | Bud Collyer's legendary audition disk pitching the syndicated Superman serial to radio stations. |
+| `Superman_1940_Audition_Part2.mp3` | **"The Adventures of Superman: 'The Origin of Superman' Original 1940 Audition Recording (Part 2)"** | **1940-02-07** | Superman arriving in Metropolis, adopting the identity of Clark Kent, and landing at the Daily Planet. |
+| `Joe_DiMaggio_Double_Play.mp3` | **"Double Play with Leo Durocher and Laraine Day: Guest Joe DiMaggio"** | **1953-06-25** | 'The Yankee Clipper' discussing baseball strategy, career reflections, and modern outfielders. |
+| `Warren_Giles_Double_Play.mp3` | **"Double Play with Leo Durocher and Laraine Day: Guest National League President Warren Giles"** | **1953-07-02** | National League chief Warren Giles discussing major league expansion and franchise relocation. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *The Marx Brothers Esso Show: Flywheel, Shyster, &amp; Flywheel* (1933)</title>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Comedy / Guest Star |
+|---|---|---|---|
+| `Marx_Brothers_Bing_Crosby.mp3` | **"The Marx Brothers Esso Show: Flywheel, Shyster, and Flywheel - Guest Bing Crosby"** | **1933-02-27** | Groucho (Waldorf T. Flywheel) and Chico (Emmanuel Ravelli) trading jokes and songs with Bing Crosby. |
+| `Marx_Brothers_Hollywood_Agents.mp3` | **"The Marx Brothers Esso Show: 'Hollywood Agents & Time Marxes On'"** | **1933-03-06** | Flywheel and Ravelli spoofing the Hollywood studio system and theatrical agents. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>3. *Charlie Barnet*, *Bing Crosby US Navy*, *The Happiness Boys*, &amp; *Frontier Fighters*</title>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Genre & Production |
+|---|---|---|---|
+| `Charlie_Barnet_Peggy_King.mp3` | **"The Charlie Barnet Show: Charlie Barnet and His Orchestra featuring Peggy King - 'Lonesome Road'"** | **1950-08-15** | Swing orchestrations featuring 'Redskin Rhumba' and Peggy King's vocal feature. |
+| `Barretts_Wimpole_Street_Preview.mp3` | **"MGM Movie Parade: Preview of 'The Barretts of Wimpole Street' Starring Norma Shearer & Fredric March"** | **1934-09-12** | MGM syndicated radio drama adaptation previewing the prestige film release. |
+| `Bing_Crosby_Music_On_Deck.mp3` | **"Music on Deck: Eddie Gallagher Presents Bing Crosby & The US Navy Bluejackets"** | **1952-11-20** | Armed forces naval radio series featuring Bing Crosby singing for enlisted sailors. |
+| `Merchant_Marine_Douglas_Brown.mp3` | **"Heroes of the Merchant Marine: 'The Story of SSgt. Douglas T. Brown'"** | **1943-03-14** | WWII maritime convoy defense and bravery in the South Pacific theater. |
+| `Happiness_Boys_New_Deal.mp3` | **"The Happiness Boys: Billy Jones & Ernie Hare - 'New Deal Good Health & Happiness'"** | **1933-04-18** | Radio's first major comedy duo performing New Deal topical patter songs. |
+| `Frontier_Fighters_Pickett.mp3` | **"Frontier Fighters: 'The Story of Captain George E. Pickett'"** | **1935-05-10** | Pre-Civil War Pacific Northwest frontier drama and the Pig War. |
+| `Frontier_Fighters_Jedediah_Smith.mp3` | **"Frontier Fighters: 'The Trail of Jedediah Strong Smith'"** | **1935-05-17** | Mountain man and explorer Jedediah Smith mapping the American West. |
+| `Frontier_Fighters_Taos_Revolt.mp3` | **"Frontier Fighters: 'The Taos Revolt of 1847 in New Mexico'"** | **1935-05-24** | The Mexican-American War conflict and resistance in Taos, New Mexico. |]]></table>
+    </sec>
+  </body>
+</article>

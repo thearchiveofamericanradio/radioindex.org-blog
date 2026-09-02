@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 24 Calendar Walk — Flashgun Casey, Let George Do It, and Tony Martin</article-title>
+      <pub-date>2026-08-24</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 24, Calendar Walk, Casey Crime Photographer, Flashgun Casey, Staats Cotsworth, Jan Miner, Philip Morris, Let George Do It, Bob Bailey, Virginia Gregg, Standard Oil Chevron, The Texaco Star Theater, Tony Martin, Evelyn Knight, Victor Young, Texaco, Tales from a Long Room, Robin Bailey, Peter Tinniswood, BBC Radio 4, States of the Union, Massachusetts, NPR, Listeners Playhouse, Ranald MacDougall, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 24 Exhaustive Archival Metadata Enrichment (Increment 45)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 24** across American network, British BBC Radio 4, and NPR documentary radio history (1940–1981):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 24 Archival Inventory (Increment 45)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Texaco_Star_1947_08_24.mp3` <br>*Alt*: `Episode`, `Tony Martin Texaco 1947` | **"Summer Variety Showcase (Tony Martin & Evelyn Knight — Texaco)"** | **CBS (WCBS)**<br>1947-08-24<br>9:30 PM EDT | **The Texas Company**<br>Texaco Fire-Chief Gas | **Tony Martin**, **Evelyn Knight**, **Victor Young Orchestra** | **Kudner Agency**, **Bill Lawrence**, **Jimmy Wallington** | `["Music", "Variety", "Vocal", "Big Band", "Comedy"]` | Suave baritone Tony Martin and songstress Evelyn Knight join forces for a summer variety broadcast featuring romantic ballads, hit standards with Victor Young's Orchestra, and comedic commercials for Texaco Fire-Chief Gasoline. |
+| `George_Valentine_1953_08_24.mp3` <br>*Alt*: `Missing Heir Palisades`, `George Valentine Chevron` | **"The Missing Pacific Palisades Heiress (Bob Bailey as George Valentine — Chevron)"** | **Don Lee (KHJ)**<br>1953-08-24<br>8:00 PM PDT | **Standard Oil of Calif.**<br>Chevron & RPM Oil | **Bob Bailey** (George), **Virginia Gregg** (Brooksy) | **David Victor & Jackson Gillis**, **Kenneth Webb**, **John Hiestand** | `["Detective", "Mystery", "Hardboiled", "Comedy", "Crime"]` | "Write full details to George Valentine, personal problems solved..." Private investigator George Valentine and loyal assistant Brooksy investigate the disappearance of an eccentric Pacific Palisades oil heiress, only to uncover that her fortune is being drained by a bogus spiritualist. |
+| `Long_Room_1981_08_24.mp3` <br>*Alt*: `Our Own Dear Queen`, `Tales from Long Room 1981` | **"Our Own Dear Queen (Robin Bailey as The Brigadier — BBC Radio 4)"** | **BBC Radio 4**<br>1981-08-24<br>6:30 PM BST | **Sustaining**<br>BBC Satirical Monologue | **Robin Bailey** (The Brigadier) | **Peter Tinniswood** (Writer), **John Tydeman** (Producer) | `["Comedy", "Satire", "Sports", "British", "Monologue"]` | The Brigadier (Robin Bailey) settles into his armchair in the cricket club's Long Room to spin an outrageously eccentric, dryly satirical reminiscence about Queen Victoria's supposed clandestine obsession with county cricket. |
+| `Crime_Photographer_1950_08_24.mp3` <br>*Alt*: `Woman Golden Hair`, `Casey Philip Morris 1950` | **"The Woman with Golden Hair (Staats Cotsworth as Flashgun Casey — Philip Morris)"** | **CBS (WCBS)**<br>1950-08-24<br>9:30 PM EDT | **Philip Morris & Co.**<br>Philip Morris Cigarettes | **Staats Cotsworth** (Casey), **Jan Miner**, **John Gibson** | **George Harmon Coxe**, **John Dietz**, **Herman Chittison** | `["Detective", "Mystery", "Journalism", "Noir", "Crime"]` | Over drinks at the Blue Note Cafe with Ethelbert, *Morning Express* photographer Flashgun Casey and reporter Ann Williams review crime scene negatives that reveal a deadly blackmailer targeting a series of glamorous blonde socialites across Manhattan. |
+| `States_Union_1975_08_24.mp3` <br>*Alt*: `Massachusetts`, `NPR Bicentennial Massachusetts` | **"The Commonwealth of Massachusetts (NPR Bicentennial Series)"** | **NPR (WBUR)**<br>1975-08-24<br>7:00 PM EDT | **Sustaining**<br>National Endowment Arts | **Fred Calland** (Narrator), **Massachusetts Historians** | **WBUR Boston & NPR Cultural Programs** | `["Documentary", "Historical", "Educational", "Americana", "Public Affairs"]` | An evocative American Bicentennial audio documentary exploring the rich political, literary, and maritime heritage of Massachusetts, from the historic wharves of Boston and Salem to the industrial mills of Lowell and the revolutionary commons of Lexington and Concord. |
+| `Listeners_Playhouse_1940_08_24.mp3` <br>*Alt*: `Trees That Shelter`, `Listeners Playhouse MacDougall` | **"The Trees That Shelter (Written by Ranald MacDougall — Listeners Playhouse)"** | **NBC Red (WEAF)**<br>1940-08-24<br>8:30 PM EDST | **Sustaining**<br>Dramatic Workshop | **Karl Swenson**, **Anne Seymour**, **Neil O'Malley** | **Ranald MacDougall** (Writer), **Wynn Wright**, **Gene Hamilton** | `["Drama", "Anthology", "Psychological", "Americana", "Audio Drama"]` | A poignant radio drama written by Ranald MacDougall, recounting the multi-generational emotional bond between an old New England farming family and an ancient grove of maple trees that sheltered their homestead through war, drought, and economic upheaval. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 24
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 24**: 270
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

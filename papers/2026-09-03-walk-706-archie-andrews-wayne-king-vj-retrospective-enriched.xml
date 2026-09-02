@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 3 Calendar Walk — Archie Andrews, Wayne King &amp; V-J Retrospectives</article-title>
+      <pub-date>2026-09-03</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 3, Calendar Walk, Archie Andrews, Bob Hastings, Harlan Stone, Rosemary Rice, Swift &amp; Company, The Incomparable Music of Wayne King, Wayne King, Missouri Waltz, Mutual Overseas War Report, V-J Day Surrender, USS Missouri, The Sounds of Darkness, Springbok Radio, NBC Special Broadcast, The Words We Live By, The Catholic Hour, Father Thomas Reese, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 3 Archival Metadata Enrichment (Increment 706)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across Riverdale teenage comedy misadventures with Archie and Jughead for Swift & Company, lush saxophone waltz standards from Wayne King, South African science fiction body horror, retrospective documentary relays of the 1945 Tokyo Bay surrender ceremonies, constitutional educational programs, and theological discourses, Bob Hastings in *Archie Andrews* (1949), Wayne King (1947), *The Sounds of Darkness* (1974), *Mutual War Report* (1982), and NBC public service broadcasts (1947–1982):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 3 Archival Inventory (Increment 706)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `ArchieAndrews_1949_SchoolJob.mp3` <br>*Alt*: `Episode Archie Andrews` | **"Archie's Back to School Job with Bob Hastings"** | **NBC (WNBC)**<br>1949-09-03<br>10:30 AM EDT | **Swift & Company**<br>Peter Pan Peanut Butter | **Bob Hastings (Archie)** | **Harlan Stone & Rice** | `["Comedy", "Teen", "Archie Andrews", "Bob Hastings", "Swift"]` | Archie takes an ill-fated part-time job delivering ice cream to raise money for back-to-school clothes and date Veronica. |
+| `WayneKing_1947_MissouriWaltz.mp3` <br>*Alt*: `Missouri Waltz The Incomparable Music Of Wayne King` | **"The Missouri Waltz with Wayne King and His Orchestra"** | **Syndication / WGN**<br>1947-09-03 | **Sustaining**<br>Waltz Showcase | **Wayne King & Orch.** | **Franklyn MacCormack** | `["Music", "Easy Listening", "Wayne King", "Missouri Waltz", "Syndicated"]` | Wayne King leads his sweet orchestra in lush romantic arrangements and saxophone solos headlined by The Missouri Waltz. |
+| `SoundsDarkness_1974_TwoForPrice.mp3` <br>*Alt*: `Two for the Price of One The Sounds Of Darkness` | **"Two for the Price of One with Springbok Radio Drama"** | **Springbok Radio**<br>1974-09-03 | **Sustaining**<br>Psychological Horror | **Springbok Drama Cast** | **Colin Fish (Dir.)** | `["Horror", "Psychological", "Sounds Of Darkness", "Springbok Radio", "South Africa"]` | A desperate gambler seeks an illegal back-alley surgeon to implant a cybernetic eyesight enhancer with gruesome side effects. |
+| `MutualWar_1982_VJRetrospective.mp3` <br>*Alt*: `Last Visit Mutual Overseas War Report` | **"Retrospective on the 1945 V-J Day Surrender with Mutual"** | **Mutual Radio**<br>1982-09-03 | **Sustaining**<br>Historical Special | **Mutual War Correspondents** | **Mutual News Staff** | `["Documentary", "History", "Mutual", "WWII", "VJ Day"]` | Mutual news commentators reflect on the surrender ceremonies aboard the USS Missouri that formally concluded World War II. |
+| `NBC_1950_WordsWeLiveBy.mp3` <br>*Alt*: `The Words We Live By NBC` | **"The Words We Live By (The Constitution and Human Rights)"** | **NBC (WNBC)**<br>1950-09-03<br>1:30 PM EDT | **Sustaining**<br>Civic Education | **NBC Dramatic Repertory** | **Constitutional Scholars** | `["Public Affairs", "Education", "NBC", "Constitution", "Civics"]` | Scholars and dramatic actors explore the historical foundation of the United States Constitution and its protection of fundamental civil liberties. |
+| `NBC_1961_CatholicHourLove15.mp3` <br>*Alt*: `Love - Human And Divine # 15 NBC` | **"Love, Human and Divine (Part 15) with Father Thomas Reese"** | **NBC (WNBC)**<br>1961-09-03<br>2:30 PM EDT | **Natl. Catholic Men**<br>The Catholic Hour | **Father Thomas Reese** | **Catholic Hour Choir** | `["Religion", "Inspirational", "The Catholic Hour", "NBC", "Father Thomas Reese"]` | Father Thomas Reese delivers a theological address on balancing earthly romantic affection with transcendent spiritual devotion. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 427 / 469 (42 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

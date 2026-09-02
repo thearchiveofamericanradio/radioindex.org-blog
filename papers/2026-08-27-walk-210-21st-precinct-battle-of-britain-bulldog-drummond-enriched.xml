@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 27 Calendar Walk — 21st Precinct, Battle of Britain, and Bulldog Drummond</article-title>
+      <pub-date>2026-08-27</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 27, Calendar Walk, 21st Precinct, Everett Sloane, John Meston, CBS News of the World, Edward R Murrow, William L Shirer, London Blitz, Battle of Britain, Bright Star, Irene Dunne, Fred MacMurray, Swing and Sway, Sammy Kaye, Serutan, Bulldog Drummond, Ned Wever, The Amazing Mr Malone, Craig Rice, Gene Raymond, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 27 Archival Metadata Enrichment (Increment 210)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio, Everett Sloane as Captain Frank Kennelly in John Meston's *21st Precinct*, Edward R. Murrow and William L. Shirer's live coverage of the Battle of Britain on *CBS News of the World*, Irene Dunne and Fred MacMurray in *Bright Star*, Sammy Kaye on *Swing and Sway* for Serutan, Ned Wever in *Bulldog Drummond*, and Gene Raymond as Craig Rice's Chicago lawyer *The Amazing Mr. Malone* (1940–1955):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 27 Archival Inventory (Increment 210)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `21st_Precinct_1955.mp3` <br>*Alt*: `The Name`, `Captain Kennelly 1955` | **"The Name"** | **CBS (WCBS)**<br>1955-08-27<br>9:30 PM EDT | **Sustaining**<br>Police Docudrama | **Everett Sloane** (Kennelly), **Ken Lynch** | **John Meston** (Writer/Director) | `["Police", "Procedural", "Crime", "Docudrama", "Action"]` | Captain Kennelly investigates a series of forged prescriptions for narcotics, confronting a corrupt orderly impersonating a licensed surgeon. |
+| `CBS_News_1940.mp3` <br>*Alt*: `Air Raids Over London`, `Murrow` | **"Air Raids Over London & The Battle of Britain"** | **CBS (WABC)**<br>1940-08-27<br>8:00 AM EDST | **Sustaining**<br>World News Round-up | **Edward R. Murrow**, **William L. Shirer** | **Elmer Davis**, **CBS News** | `["News", "Journalism", "Wartime", "Historical", "Live Broadcast"]` | Edward R. Murrow and William L. Shirer report live from London and Berlin on overnight Luftwaffe bombing raids and RAF defensive scrambles across southeastern England. |
+| `Bright_Star_1953.mp3` <br>*Alt*: `Department Store Merger Scoop` | **"The Department Store Merger Scoop"** | **Syndicated (Ziv)**<br>1953-08-27<br>8:00 PM | **Commercial**<br>Newspaper Comedy | **Irene Dunne** (Kenyon), **Fred MacMurray** | **Frederic W. Ziv Company** | `["Comedy", "Journalism", "Romance", "Newspaper", "Americana"]` | Hillsdale Morning Gazette editor Susan Kenyon and ace reporter George Harvey uncover a corrupt city councilman profiting from a downtown zoning variance. |
+| `Swing_and_Sway_1944.mp3` <br>*Alt*: `I'm Making Believe`, `Kaye 1944` | **"Wartime Swing & Sweet Melodies"** | **NBC Blue (WJZ)**<br>1944-08-27<br>1:30 PM EWT | **Serutan Co.**<br>Serutan | **Sammy Kaye**, **Billy Williams**, **Three Kaydets** | **NBC Blue Production** | `["Music", "Sweet Band", "Pop Standards", "Vocal", "Big Band"]` | Sammy Kaye and his orchestra perform wartime pop standards including 'I'm Making Believe', sweet swing ballads, and romantic poetry readings. |
+| `Bulldog_Drummond_1945.mp3` <br>*Alt*: `TCOT Trick Killer`, `1945` | **"The Case of the Trick Killer"** | **Mutual (WOR)**<br>1945-08-27<br>8:00 PM EWT | **Sustaining**<br>Mystery Adventure | **Ned Wever** (Drummond), **Luis Van Rooten** | **Mutual Dramatic Staff** | `["Detective", "Mystery", "British", "Adventure", "Crime"]` | Captain Hugh 'Bulldog' Drummond investigates when a magician's assistant is murdered with a prop dagger that fails to retract during a stage illusion. |
+| `Mr_Malone_1950.mp3` <br>*Alt*: `Case of the Fatal Fortune`, `1950` | **"The Case of the Fatal Fortune"** | **NBC (WNBC)**<br>1950-08-27<br>6:00 PM EDT | **Sustaining**<br>Legal Mystery | **Gene Raymond** (Malone), **Larry Haines** | **Craig Rice** (Creator) | `["Detective", "Legal", "Hardboiled", "Mystery", "Crime"]` | Chicago criminal lawyer John J. Malone defends a penniless art student framed for the poisoning of an eccentric millionaire patron. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 173
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

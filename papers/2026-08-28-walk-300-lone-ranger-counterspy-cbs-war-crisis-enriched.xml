@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 28 Calendar Walk — The Lone Ranger, Counterspy, and CBS War Crisis</article-title>
+      <pub-date>2026-08-28</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 28, Calendar Walk, The Lone Ranger, Brace Beemer, John Todd, Cheerios, General Mills, In The Crimelight, Counterspy, David Harding, Don MacLaughlin, Mandel Kramer, Phillips H Lord, Kentucky Club, CBS European War Crisis, Edward R Murrow, William L Shirer, Bob Trout, Nevile Henderson, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 28 Archival Metadata Enrichment (Increment 300)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio and syndication, Brace Beemer in three thrilling adventures on *The Lone Ranger* for Cheerios (1946–1953), true-crime diamond heist investigations on *In the Crimelight*, Don MacLaughlin halting Axis sabotage on *Counterspy* for Kentucky Club Pipe Tobacco, and Edward R. Murrow & William L. Shirer reporting on Ambassador Henderson's final flight before WWII (1935–1953):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 28 Archival Inventory (Increment 300)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lone_Ranger_1946.mp3` <br>*Alt*: `The Cross-roads`, `Cheerios` | **"The Cross-roads"** | **ABC (WJZ)**<br>1946-08-28<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Brace Beemer**, **John Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Juvenile", "Action", "Frontier"]` | The Lone Ranger guides a reformed convict to make an honorable life choice when his former outlaw gang pressures him to rob a stagecoach. |
+| `Lone_Ranger_1950.mp3` <br>*Alt*: `Homer with Two Guns` | **"Homer with Two Guns"** | **ABC (WJZ)**<br>1950-08-28<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Brace Beemer**, **John Todd** | **Fran Striker (Writer)** | `["Western", "Comedy", "Adventure", "Juvenile", "Action"]` | A timid eastern clerk arrives in town pretending to be a fearless two-gun gunslinger, unwittingly drawing the wrath of the county's deadliest cattle baron. |
+| `Lone_Ranger_1953.mp3` <br>*Alt*: `Deadline, Five-Fifteen` | **"Deadline, Five-Fifteen"** | **ABC (WABC)**<br>1953-08-28<br>7:30 PM EDT | **General Mills**<br>Cheerios Cereal | **Brace Beemer**, **John Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Juvenile", "Action", "Suspense"]` | The masked rider races against the clock to deliver a governor's stay of execution before the five-fifteen railway time limit. |
+| `Crimelight_1935.mp3` <br>*Alt*: `Diamond Syndicate Heist` | **"The Diamond Syndicate Heist"** | **Syndicated Elec**<br>1935-08-28 | **Commercial**<br>Regional Sponsors | **Dramatic True-Crime Cast** | **Syndicated Crime Staff** | `["True Crime", "Docudrama", "Police Procedural", "Noir", "Heist"]` | A dramatic reenactment of how police detectives tracked down international jewel thieves after a daring midnight heist of industrial diamonds. |
+| `Counterspy_1944.mp3` <br>*Alt*: `The Case of the House Divided` | **"The Case of the House Divided"** | **NBC Blue (WJZ)**<br>1944-08-28<br>9:00 PM EWT | **Mail Pouch Tobacco**<br>Kentucky Club Pipe | **Don MacLaughlin**, **M. Kramer** | **Phillips H. Lord** | `["Espionage", "Wartime", "Hardboiled", "Action", "World War II"]` | David Harding uncovers an Axis sabotage plot targeting an aircraft assembly plant after a German-American family is torn by conflicting loyalties. |
+| `CBS_News_1939_Crisis.mp3` <br>*Alt*: `CBS European War Crisis` | **"CBS European War Crisis — Henderson's Final Flight"** | **CBS (WABC)**<br>1939-08-28<br>6:45 PM EDST | **Sustaining**<br>Pre-War Crisis News | **Edward R. Murrow**, **W.L. Shirer** | **Bob Trout** (New York) | `["News", "Broadcast Journalism", "Historical", "Diplomacy", "World War II"]` | CBS correspondents report live on the tense final hours before the outbreak of World War II as British Ambassador Sir Nevile Henderson flies back to Berlin. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 264
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

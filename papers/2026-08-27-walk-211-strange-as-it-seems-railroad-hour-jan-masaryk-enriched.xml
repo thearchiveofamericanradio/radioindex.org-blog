@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 27 Calendar Walk — Strange As It Seems, Railroad Hour, and Jan Masaryk</article-title>
+      <pub-date>2026-08-27</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 27, Calendar Walk, Strange As It Seems, John Hix, Haym Salomon, Revolutionary War, Singles and Doubles, Brunswick Records, The 880 Quiz Club, Its a Living, Ben Alexander, The Railroad Hour, Gordon MacRae, Dorothy Kirsten, AAR, WWII News, Jan Masaryk, London, Poland Crisis, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 27 Archival Metadata Enrichment (Increment 211)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio and early transcription services, Revolutionary War financier Haym Salomon on *Strange As It Seems*, three distinct historic rarities from the *Singles & Doubles Collection* (1929 Brunswick Panatrope records, 1942 WABC *880 Quiz Club*, and 1948 Ben Alexander quiz pilot *It's a Living*), Gordon MacRae and Dorothy Kirsten in *The Railroad Hour* for the Association of American Railroads, and Czechoslovak diplomat Jan Masaryk addressing the nation from London on the eve of World War II (1929–1951):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 27 Archival Inventory (Increment 211)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Strange_As_It_Seems_1947.mp3` <br>*Alt*: `Man Who Financed Revolution`, `1947` | **"The Man Who Financed the Revolution (Haym Salomon)"** | **Mutual (WOR)**<br>1947-08-27<br>7:30 PM EDT | **Sustaining**<br>Historical Curiosities | **John Hix** (Host), **Gayne Whitman** (Narrator) | **John Hix Production** | `["Docudrama", "Historical", "Biography", "Revolutionary War", "Americana"]` | The extraordinary true history of merchant broker Haym Salomon, who raised critical emergency loans to keep General George Washington's Continental Army fed and equipped during the Revolutionary War. |
+| `Brunswick_Brevities_1929.mp3` <br>*Alt*: `Brunswick Brevities`, `Panatrope` | **"Brunswick Brevities"** | **Brunswick Elec**<br>1929-08-27 | **Brunswick Co.**<br>Panatrope & Records | **Brunswick Concert Orchestra**, **Quartette** | **Brunswick-Balke-Collender** | `["Music", "Jazz", "Early Radio", "Pop Standards", "Orchestral"]` | An early electrical transcription concert featuring popular dance hits, operatic medleys, and novelty recordings from the Brunswick record catalogue. |
+| `Quiz_Club_1942.mp3` <br>*Alt*: `The 880 Quiz Club`, `WABC 1942` | **"The 880 Quiz Club"** | **CBS (WABC)**<br>1942-08-27<br>7:00 PM EWT | **Local Sponsors**<br>Audience Quiz | **Quizmaster**, **Audience Contestants** | **WABC Production** | `["Quiz Show", "Game Show", "Wartime", "Audience Participation", "Americana"]` | Studio contestants test their general knowledge and wartime geography skills to win War Bonds and cash prizes. |
+| `Its_a_Living_1948.mp3` <br>*Alt*: `It's A Living`, `Ben Alexander Pilot` | **"It's a Living (Quiz Pilot)"** | **Mutual (WOR)**<br>1948-08-27<br>8:30 PM EDT | **Sustaining**<br>Quiz Pilot | **Ben Alexander** (Host/Quizmaster) | **Mutual Production** | `["Quiz Show", "Game Show", "Comedy", "Panel Game", "Americana"]` | A comedy quiz program where contestants with unusual occupations and bizarre professions challenge a panel of celebrities to guess what they do for a living. |
+| `Railroad_Hour_1951.mp3` <br>*Alt*: `Danny Freel`, `AAR 1951` | **"Danny Freel"** | **NBC (WNBC)**<br>1951-08-27<br>8:00 PM EDT | **Assoc. American Railroads**<br>AAR Rail Freight | **Gordon MacRae**, **Dorothy Kirsten** | **Carmen Dragon**, **Marvin Miller** | `["Musical", "Operetta", "Western", "Romance", "Americana"]` | Baritone Gordon MacRae and soprano Dorothy Kirsten star in an original musical operetta set against the scenic Western frontier railway expansion. |
+| `WWII_News_1939.mp3` <br>*Alt*: `Czech Ambassador In London On Poland` | **"Czech Ambassador Jan Masaryk in London on Polish Crisis"** | **NBC Red (WEAF)**<br>1939-08-27<br>6:45 PM EDST | **Sustaining**<br>NBC News Address | **Jan Masaryk** (Czechoslovak Diplomat) | **NBC News Foreign Desk** | `["News", "Political", "Wartime", "Historical", "Live Broadcast"]` | Czechoslovak diplomat Jan Masaryk delivers a grave address from London warning that Germany's ultimatum to Poland threatens the freedom of all European democracies. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 179
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 27 Calendar Walk — The Shadow, Rocky Jordan, and Roy Rogers</article-title>
+      <pub-date>2026-08-27</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 27, Calendar Walk, The Shadow, Bret Morrison, Gertrude Warner, Carey Salt, Blue Coal, Hearthstone of the Death Squad, Frank Hummert, Rocky Jordan, Jack Moyles, Jay Novello, Cairo, Forecast, Sinclair Lewis, Helen Hayes, Meredith Willson, Johnsons Wax, Roy Rogers, Dale Evans, Trigger, Quaker Oats, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 27 Archival Metadata Enrichment (Increment 201)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio, Bret Morrison and Gertrude Warner in *The Shadow* for Carey Salt, Frank Hummert's *Hearthstone of the Death Squad*, Jack Moyles as *Rocky Jordan* in Cairo, Helen Hayes starring in Sinclair Lewis's *Bethel Merriday* on *Forecast*, Meredith Willson's *Musical Revue* for Johnson's Wax, and Roy Rogers & Dale Evans in *The Roy Rogers Show* for Quaker Oats (1940–1952):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 27 Archival Inventory (Increment 201)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `The_Shadow_1950.mp3` <br>*Alt*: `Murder on Wheels`, `Carey Salt 1950` | **"Murder on Wheels"** | **Mutual (WOR)**<br>1950-08-27<br>5:00 PM EDT | **Carey Salt Co.**<br>Carey Table Salt / Coal | **Bret Morrison** (Shadow), **Gertrude Warner** (Margot) | **Carl Caruso**, **Mutual Staff** | `["Superhero", "Mystery", "Detective", "Hardboiled", "Crime"]` | The Shadow investigates when a professional stock car racer is sabotaged during a high-speed championship race, unmasking an extortion syndicate fixing sporting wagers. |
+| `Hearthstone_1952.mp3` <br>*Alt*: `The Case of the Fatal Prescription` | **"The Case of the Fatal Prescription"** | **CBS (WCBS)**<br>1952-08-27<br>8:00 PM EDT | **Sustaining**<br>Police Procedural | **Alfred Shirley** (Hearthstone), **James Monk** | **Frank Hummert**, **Anne Hummert** | `["Police", "Procedural", "Detective", "Mystery", "Crime"]` | Inspector Hearthstone and Detective Cook investigate the sudden poisoning of a wealthy dowager, tracing the lethal dose to an altered apothecary ledger. |
+| `Rocky_Jordan_1950.mp3` <br>*Alt*: `Dr. Markoff's Discovery`, `Cairo 1950` | **"Dr. Markoff's Discovery"** | **CBS (KNX)**<br>1950-08-27<br>6:30 PM EDT | **Sustaining**<br>Exotic Mystery | **Jack Moyles** (Rocky), **Jay Novello** (Sabaaya) | **Larry Roman**, **Cliff Howell** | `["Noir", "Detective", "Exotic", "Crime", "Hardboiled"]` | Cafe proprietor Rocky Jordan is drawn into danger in Cairo when an archaeologist carrying an ancient papyrus map is stabbed in the alley behind the Cafe Tambourine. |
+| `Forecast_1940.mp3` <br>*Alt*: `Bethel Merriday (Actually )`, `Sinclair Lewis` | **"Sinclair Lewis's Bethel Merriday"** | **CBS (WABC)**<br>1940-08-27<br>9:00 PM EDST | **Sustaining**<br>Dramatic Pilot | **Helen Hayes**, **Sinclair Lewis** (Author) | **Davidson Taylor** | `["Drama", "Theatre", "Literature", "Anthology", "Americana"]` | A young stage-struck Midwestern girl leaves home to join a touring summer stock theatrical troupe, navigating the triumphs and heartbreaks of life behind the footlights. |
+| `Meredith_Willson_1940.mp3` <br>*Alt*: `Episode`, `Johnsons Wax 1940` | **"Summer Symphony & Choral Harmonies"** | **NBC Red (WEAF)**<br>1940-08-27<br>9:30 PM EDST | **S.C. Johnson**<br>Johnson's Wax & Carnu | **Meredith Willson**, **The Choralairs** | **Meredith Willson Orchestra** | `["Music", "Classical", "Vocal", "Concert", "Pop Standards"]` | Meredith Willson conducts the concert orchestra in American light orchestral compositions, virtuosic flute interludes, and choral arrangements. |
+| `Roy_Rogers_1950.mp3` <br>*Alt*: `The Rustlers of Red Rock Canyon`, `1950` | **"The Rustlers of Red Rock Canyon"** | **Mutual (KHJ)**<br>1950-08-27<br>6:00 PM EDT | **Quaker Oats Co.**<br>Puffed Wheat & Rice | **Roy Rogers**, **Dale Evans**, **Pat Brady** | **Foy Willing**, **Riders Purple Sage** | `["Western", "Adventure", "Country", "Americana", "Juvenile"]` | Roy Rogers, Dale Evans, and Trigger track a gang of ruthless cattle rustlers diverting a river to force homesteaders off their drought-stricken ranches. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 119
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

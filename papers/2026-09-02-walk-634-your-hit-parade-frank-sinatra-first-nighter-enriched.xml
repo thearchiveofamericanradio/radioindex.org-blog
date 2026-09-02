@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 2 Calendar Walk — Your Hit Parade, Frank Sinatra &amp; First Nighter</article-title>
+      <pub-date>2026-09-02</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 2, Calendar Walk, Your Hit Parade, Frank Sinatra, Joan Edwards, Mark Warnow, Lucky Strike, The First Nighter Program, Barbara Luddy, Les Tremayne, Campana Italian Balm, Chuck Schaden, George Balzer, Jack Benny, It's a Crime Mr Collins, Mandel Kramer, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 2 Archival Metadata Enrichment (Increment 634)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across America's commercial pop countdown surveys, romantic radio anthologies, historic comedy writer interviews, and Australian private detective mysteries, Frank Sinatra, Joan Edwards, and Mark Warnow on *Your Hit Parade* for Lucky Strike (1936, 1939, 1944), Barbara Luddy and Les Tremayne in *The First Nighter Program* for Campana (1941), Chuck Schaden interviewing Jack Benny writer George Balzer (1981), and Mandel Kramer in *It's a Crime, Mr. Collins* (1936–1981):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 2 Archival Inventory (Increment 634)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `HitParade_1936_ByeByeBaby.mp3` <br>*Alt*: `First Song - Bye Bye Baby (#10) Your Hit Parade` | **"Bye Bye Baby with Freddie Rich and Lucky Strike"** | **NBC Red (WEAF)**<br>1936-09-02<br>10:00 PM EDST | **American Tobacco Co.**<br>Lucky Strike Cigarettes | **Freddie Rich Orch.** | **Stuart Allen & Thompson** | `["Music", "Pop", "Hit Parade", "Lucky Strike", "NBC"]` | The orchestra and vocal soloists survey the nation's top ten most popular tunes including the dance hit Bye Bye Baby. |
+| `HitParade_1939_WhiteSails.mp3` <br>*Alt*: `First Song - White Sails (#10) Your Hit Parade` | **"White Sails with Mark Warnow and Lucky Strike"** | **CBS (WABC)**<br>1939-09-02<br>9:00 PM EDST | **American Tobacco Co.**<br>Lucky Strike Cigarettes | **Mark Warnow Orch.** | **Lanny Ross & Bea Wain** | `["Music", "Pop", "Hit Parade", "Lucky Strike", "CBS"]` | Mark Warnow conducts the top-ranked commercial radio hits of the week including the seafaring melody White Sails. |
+| `HitParade_1944_IsYouIs.mp3` <br>*Alt*: `Is You Is Or Is You Ain't My Baby Your Hit Parade` | **"Is You Is or Is You Ain't My Baby with Frank Sinatra"** | **CBS (WABC)**<br>1944-09-02<br>9:00 PM EWT | **American Tobacco Co.**<br>Lucky Strike Cigarettes | **Frank Sinatra**, **Edwards** | **Mark Warnow Orchestra** | `["Music", "Pop", "Hit Parade", "Frank Sinatra", "Lucky Strike"]` | Frank Sinatra and Joan Edwards perform the week's leading jukebox hits featuring Louis Jordan's jump blues rhythm Is You Is or Is You Ain't My Baby. |
+| `FirstNighter_1941_FuturePreferred.mp3` <br>*Alt*: `Future Preferred The First Nighter Program` | **"Future Preferred with Barbara Luddy and Les Tremayne"** | **CBS (WABC)**<br>1941-09-02<br>8:30 PM EDST | **Campana Corp.**<br>Italian Balm & Solitair | **Barbara Luddy**, **Tremayne** | **Marvin Miller (Host)** | `["Drama", "Anthology", "First Nighter", "Barbara Luddy", "Campana"]` | An ambitious young architectural draftsman secures a life-changing design commission while concealing a whirlwind romance from his employer. |
+| `Schaden_1981_GeorgeBalzer.mp3` <br>*Alt*: `George Balzer Van Nuys CA 106 Min Chuck Schaden` | **"George Balzer Interview with Chuck Schaden"** | **WNIB Chicago**<br>1981-09-02 | **Sustaining**<br>Oral History Interview | **Chuck Schaden (Host)** | **George Balzer (Guest)** | `["Interview", "History", "Chuck Schaden", "George Balzer", "Jack Benny"]` | Veteran comedy head writer George Balzer shares behind-the-scenes memories of scripting the Jack Benny Program for over twenty-five years. |
+| `Collins_1957_EmeraldNecklace.mp3` <br>*Alt*: `The AUS Fabulous Emerald Necklace Its A Crime Mr Collins` | **"The Fabulous Emerald Necklace with Mandel Kramer"** | **Syndication**<br>1957-09-02 | **Sustaining**<br>Private Eye Drama | **Mandel Kramer (Collins)** | **Frank Gould (Writer)** | `["Detective", "Mystery", "Mr Collins", "Mandel Kramer", "Syndicated"]` | Private investigator Greg Collins and his wife Gail uncover a substitute jewel switch while guarding an heiress's heirloom emerald necklace. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 416 / 480 (64 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

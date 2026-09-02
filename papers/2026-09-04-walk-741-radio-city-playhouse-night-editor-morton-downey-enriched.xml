@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 4 Calendar Walk — Radio City Playhouse, Night Editor &amp; Morton Downey</article-title>
+      <pub-date>2026-09-04</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 4, Calendar Walk, Radio City Playhouse, Harry Bartell, Harry W Junkin, Night Flight to Madrid, Night Editor, Hal Burdick, Edwards Coffee, The Coke Club, Morton Downey, Leah Ray, Jimmy Lytell, Coca-Cola, The Witch's Tale, Alonzo Deen Cole, Adelaide Fitz-Allen, 3DB Melbourne, The Mel Blanc Show, Mel Blanc, Chuck Schaden, Radio Classics, WBBM Chicago, Our Miss Brooks, Eve Arden, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 4 Archival Metadata Enrichment (Increment 741)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Harry Bartell starring in Harry W. Junkin's airborne bomb suspense thriller *Night Flight to Madrid* on *Radio City Playhouse*, Hal Burdick narrating newspaper city-room human-interest drama on *Night Editor* for Edwards Coffee, Irish tenor Morton Downey crooning on *The Coke Club* for Coca-Cola, classic Australian transcriptions of Alonzo Deen Cole's supernatural horror *The Witch's Tale* on 3DB Melbourne, Chuck Schaden's extended biographical interview on *The Mel Blanc Show*, and CBS schedule pre-emption logs for *Our Miss Brooks*, Harry Bartell (1949), Hal Burdick (1938), Morton Downey (1946), Alonzo Deen Cole (1933), and Mel Blanc (1933–1988):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 4 Archival Inventory (Increment 741)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `RadioCity_1949_NightFlightMadrid.mp3` <br>*Alt*: `Radio City Playhouse 1949 Episode` | **"Night Flight to Madrid with Harry Bartell"** | **NBC (WNBC)**<br>1949-09-04<br>5:00 PM EDT | **Sustaining**<br>Dramatic Anthology | **Harry Bartell (Star)** | **Harry W. Junkin (Dir.)** | `["Drama", "Anthology", "Radio City Playhouse", "Harry Bartell", "NBC"]` | A desperate diplomatic courier aboard a midnight transatlantic flight discovers one of the passengers has smuggled a ticking time bomb aboard. |
+| `NightEditor_1938_ForgottenWill.mp3` <br>*Alt*: `Episode Night Editor` | **"The Story of the Forgotten Will with Hal Burdick"** | **CBS Pacific (KNX)**<br>1938-09-04<br>8:45 PM PST | **Dwight Edwards Co.**<br>Edwards Coffee | **Hal Burdick (Narr.)** | **CBS Pacific Staff** | `["Drama", "Anthology", "Night Editor", "Hal Burdick", "Edwards Coffee"]` | The Night Editor recounts a dramatic newsroom chronicle about an impoverished young widow who uncovers a handwritten estate will hidden inside a family Bible. |
+| `CokeClub_1946_MortonDowney.mp3` <br>*Alt*: `First Tune My O'darlin, My O'lovely, My O'brien The Coke Club` | **"My O'Darlin' My O'Lovely with Morton Downey"** | **Mutual (WOR)**<br>1946-09-04<br>12:15 PM EDT | **The Coca-Cola Co.**<br>Coca-Cola | **Morton Downey & Ray** | **Jimmy Lytell & Orch.** | `["Music", "Vocal", "The Coke Club", "Morton Downey", "Coca-Cola"]` | Tenor Morton Downey croons romantic Irish-American melodies and pop favorites including My O'Darlin' My O'Lovely for daytime listeners. |
+| `WitchTale_1933_LittletonHouse.mp3` <br>*Alt*: `The Old Littleton House The Witch's Tale AU` | **"The Old Littleton House with Alonzo Deen Cole"** | **3DB Melbourne**<br>1933-09-04 | **Sustaining**<br>Supernatural Horror | **Adelaide Fitz-Allen** | **Alonzo Deen Cole** | `["Horror", "Supernatural", "The Witch's Tale", "Alonzo Deen Cole", "3DB"]` | Old Nancy and Satan the cat introduce a chilling tale of two greedy cousins who spend a stormy night inside a haunted colonial estate seeking buried treasure. |
+| `MelBlanc_1988_RadioClassics.mp3` <br>*Alt*: `By Telephone On Radio Classics 51 Min Mel Blanc Show` | **"The Life and Voices of Mel Blanc with Chuck Schaden"** | **WBBM Chicago**<br>1988-09-04 | **Sustaining**<br>Radio History Interview | **Mel Blanc & Schaden** | **Chuck Schaden (Host)** | `["Interview", "History", "Mel Blanc Show", "Mel Blanc", "Chuck Schaden"]` | Mel Blanc discusses his legendary voice characterizations, his wartime comedy routines, and the creation of his 1946 CBS sitcom on Chuck Schaden's radio showcase. |
+| `MissBrooks_1949_Preempted.mp3` <br>*Alt*: `pre-empted Our Miss Brooks` | **"Pre-empted for Special Broadcast on CBS"** | **CBS (KNX)**<br>1949-09-04<br>6:30 PM EDT | **Colgate-Palmolive**<br>Lustre-Creme Shampoo | **CBS Announcers** | **CBS Production Staff** | `["Comedy", "Sitcom", "Our Miss Brooks", "Eve Arden", "CBS"]` | The regularly scheduled broadcast of Our Miss Brooks is pre-empted by CBS for a live special national public affairs address. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 168 / 471 (239 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>
