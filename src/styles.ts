@@ -48,11 +48,12 @@ body { min-height: 100vh; display: flex; flex-direction: column; }
 
 /* Header */
 header.site-header { padding: 20px 0; border-bottom: 1px solid var(--color-border-muted); margin-bottom: 32px; background: var(--color-canvas-subtle); }
-.site-nav { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.site-nav { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .brand { font-family: var(--font-mono); font-size: 1.05rem; font-weight: 700; color: var(--color-fg-default); text-decoration: none; display: flex; align-items: center; gap: 8px; }
 .brand-pulse { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--color-success-fg); }
 .brand-tag { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; background: var(--color-canvas-default); color: var(--color-accent-fg); padding: 2px 8px; border-radius: 6px; border: 1px solid var(--color-border-default); }
-.nav-links { display: flex; align-items: center; gap: 16px; font-family: var(--font-mono); font-size: 0.85rem; }
+.nav-links { display: flex; align-items: center; gap: 16px; font-family: var(--font-mono); font-size: 0.85rem; flex-wrap: wrap; }
+.nav-links a { white-space: nowrap; }
 .nav-links a { color: var(--color-fg-muted); text-decoration: none; transition: color 0.15s; }
 .nav-links a:hover { color: var(--color-accent-fg); }
 
@@ -128,7 +129,7 @@ main { flex: 1; margin-bottom: 64px; }
 .papers-date { margin: 0 0 8px; font-size: 0.9rem; font-family: var(--font-mono); color: var(--color-fg-muted); border-bottom: 1px solid var(--color-border-default); padding-bottom: 4px; }
 .papers-list { list-style: none; margin: 0; padding: 0; }
 .papers-row { margin: 0 0 2px; }
-.papers-row a { display: flex; gap: 10px; align-items: baseline; text-decoration: none; padding: 4px 6px; border-radius: 4px; }
+.papers-row a { display: flex; gap: 10px; align-items: baseline; text-decoration: none; padding: 4px 6px; border-radius: 4px; flex-wrap: wrap; }
 .papers-row a:hover { background: var(--color-canvas-subtle); }
 .papers-tr { font-family: var(--font-mono); font-size: 0.74rem; color: var(--color-fg-muted); white-space: nowrap; }
 .papers-title { color: var(--color-accent-fg); }
