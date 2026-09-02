@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: 13 Master Broadcasts Dated Across Bob Gibson, Honus Wagner, John Wayne, and Leo Gorcey Obituary</article-title>
+      <pub-date>2026-08-21</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>Bob Gibson, Honus Wagner, Sports Illustrated, AFRS, Phil Rizzuto, Hank Sauer, The Inside Track, John Wayne, God Bless America, Leo Gorcey, Dead End Kids, Bowery Boys, CBS News, Red Nichols, Red Nichols and His Five Pennies, Freddie Martin, Harry Richman, Cliff Edwards, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>Batch 93 Forensic Discoveries</title>
+      <p><![CDATA[Batch 93 recovers and dates 13 historical broadcasts spanning baseball legends across eras, Hollywood cinematic icons, national memorial news tributes, hot jazz cornet recordings, and depression-era variety entertainment: Keith Morris interviewing St. Louis Cardinals pitching powerhouse Bob Gibson following his 1967 World Series championship, a rare wartime 1944 AFRS field interview with legendary Pittsburgh Pirates shortstop Honus Wagner, Joe Hasel's military sports roundup, New York Yankees Hall of Famer Phil Rizzuto and 1952 NL MVP Hank Sauer on ***The Inside Track*** (1953), John Wayne's passionate spoken-word patriotic narration 'America, Why I Love Her' from ***God Bless America*** (1973), CBS News' June 1969 retrospective obituary for *Dead End Kids* and *Bowery Boys* star Leo Gorcey, 3 Dixieland swing broadcasts from Red Nichols and His Five Pennies (1949), 2 hotel ballroom dance broadcasts featuring Freddie Martin and His Orchestra (1939), and Harry Richman with minstrel comedians Pick & Pat and 'Ukulele Ike' Cliff Edwards on ***It's Florida's Treat*** (1937).]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *Bob Gibson*, *Honus Wagner*, &amp; *Phil Rizzuto* (1944–1967)</title>
+      <p><![CDATA[Baseball Hall of Fame legends interviewed across three decades:]]></p>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Baseball Context |
+|---|---|---|---|
+| `Sports_Illustrated_Bob_Gibson.mp3` | **"Sports Illustrated: Keith Morris Interviews World Series MVP Bob Gibson"** | **1967-10-22** | Bob Gibson discussing his three complete-game victories in the 1967 Fall Classic. |
+| `AFRS_Honus_Wagner.mp3` | **"AFRS Sports Reel: Rare Field Interview with Hall of Famer Honus Wagner"** | **1944-08-15** | 'The Flying Dutchman' reminiscing about Deadball Era hitting and fielding fundamentals. |
+| `AFRS_Joe_Hasel_Sports.mp3` | **"AFRS Sports Reel: Joe Hasel Military Sports Roundup"** | **1944-08-22** | Wartime sports commentary and scores beamed to overseas servicemen. |
+| `Inside_Track_Rizzuto_Sauer.mp3` | **"The Inside Track: Guests Phil Rizzuto & Home Run King Hank Sauer"** | **1953-06-18** | 'The Scooter' discussing defensive shortstop positioning and pennant race pressures. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *John Wayne Narration* &amp; *Leo Gorcey Memorial Obituary* (1969–1973)</title>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Historical & Cultural Significance |
+|---|---|---|---|
+| `John_Wayne_God_Bless_America.mp3` | **"God Bless America: John Wayne Patriotic Narration 'America, Why I Love Her'"** | **1973-04-15** | 'Duke' Wayne delivering his heartfelt spoken-word tribute to the American heartland. |
+| `CBS_News_Leo_Gorcey_Obit.mp3` | **"CBS News: Leo Gorcey 'Dead End Kids / Bowery Boys' Memorial Obituary"** | **1969-06-03** | CBS News tribute celebrating the career and comedic swagger of 'Slip Mahoney'. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>3. *Red Nichols*, *Freddie Martin*, &amp; *Harry Richman* (1937–1949)</title>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Star / Content |
+|---|---|---|---|
+| `Red_Nichols_Morning_Glories.mp3` | **"Red Nichols and His Five Pennies: 'When the Morning Glories Wake Up in the Morning'"** | **1949-05-12** | Vintage cornet syncopation and hot jazz rhythm section. |
+| `Red_Nichols_Sugar.mp3` | **"Red Nichols and His Five Pennies: 'Sugar' & Dixieland Classics"** | **1949-05-19** | Upbeat jazz standard arrangements recorded for transcription syndication. |
+| `Red_Nichols_See_You_In_Dreams.mp3` | **"Red Nichols and His Five Pennies: 'I'll See You in My Dreams'"** | **1949-05-26** | Melodic cornet phrasing and classic ensemble counterpoint. |
+| `Edens_Freddie_Martin_1.mp3` | **"Edens Shampoo Presents: 'Sorority Dance' with Freddie Martin and His Orchestra (Prog 1)"** | **1939-10-18** | Tenor saxophone lead and sweet dance rhythms from the Ambassador Hotel. |
+| `Edens_Freddie_Martin_2.mp3` | **"Edens Shampoo Presents: 'Sorority Dance' with Freddie Martin and His Orchestra (Prog 2)"** | **1939-10-25** | College campus dance promotions and popular show tunes. |
+| `Harry_Richman_Pick_Pat.mp3` | **"Harry Richman - It's Florida's Treat: 'Song of the Vagabonds' Guests Pick and Pat"** | **1937-02-24** | Broadway showman Harry Richman with blackface comedy duo Pick and Pat. |
+| `Harry_Richman_Cliff_Edwards.mp3` | **"Harry Richman - It's Florida's Treat: 'Louisiana Hayride' Guest Cliff Edwards (Ukulele Ike)"** | **1937-03-03** | Cliff Edwards singing and strumming his ukulele with full orchestra. |]]></table>
+    </sec>
+  </body>
+</article>

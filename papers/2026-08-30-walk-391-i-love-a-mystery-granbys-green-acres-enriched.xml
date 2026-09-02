@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — I Love a Mystery and Granby's Green Acres</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, I Love a Mystery, Carlton E Morse, Jack Packard, Doc Long, Michael Raffetto, Barton Yarborough, Russell Thorson, Granby's Green Acres, Gale Gordon, Bea Benaderet, Jay Sommers, Sanka Coffee, Theater Of Romance, Martha Scott, Colgate, Halo Shampoo, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 391)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio, four legendary storylines written and directed by Carlton E. Morse on *I Love a Mystery* spanning the 1939 Fleischmann's Yeast West Coast run to the 1950 Mutual revival, Gale Gordon and Bea Benaderet in *Granby's Green Acres* for Sanka Coffee (1950), and Martha Scott starring in *Mrs. Moonlight* on *Theater of Romance* for Colgate (1939–1950):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 391)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `ILAM_1939_Battle.mp3` <br>*Alt*: `Battle Century Part 1` | **"Battle of the Century (Part 1)"** | **NBC West Coast**<br>1939-08-30<br>7:15 PM PST | **Standard Brands**<br>Fleischmann's Yeast | **Michael Raffetto**, **Yarborough** | **Carlton E. Morse (Writer/Dir)** | `["Adventure", "Mystery", "Serial", "Detective", "Hardboiled"]` | The A-1 Detective Agency trio is hired by an eccentric boxing promoter to guard a championship prizefighter from death threats. |
+| `ILAM_1943_Monk.mp3` <br>*Alt*: `Decapitation Monk 1` | **"The Decapitation of Jefferson Monk (Part 1)"** | **CBS (WABC)**<br>1943-08-30<br>7:00 PM EWT | **Procter & Gamble**<br>Ivory Soap / Oxydol | **Michael Raffetto**, **Yarborough** | **Carlton E. Morse (Writer/Dir)** | `["Adventure", "Mystery", "Occult", "Serial", "Suspense"]` | Jack Packard and Doc Long meet a frantic man who claims a secret occult brotherhood has marked him for ritual decapitation. |
+| `ILAM_1944_Vamp.mp3` <br>*Alt*: `Temple Vampires 7` | **"The Temple of Vampires (Part 7)"** | **CBS (WABC)**<br>1944-08-30<br>7:00 PM EWT | **Procter & Gamble**<br>Ivory Soap / Oxydol | **Michael Raffetto**, **Yarborough** | **Carlton E. Morse (Writer/Dir)** | `["Adventure", "Mystery", "Occult", "Serial", "Gothic"]` | Jack Packard and Doc Long navigate treacherous underground catacombs in the Nicaraguan jungle while pursued by vampire cultists. |
+| `ILAM_1950_Turq.mp3` <br>*Alt*: `Turquoise Pass Part 8` | **"Murder in Turquoise Pass (Part 8)"** | **Mutual (WOR)**<br>1950-08-30<br>7:30 PM EDT | **Sustaining**<br>Adventure Mystery | **Russell Thorson**, **Boles** | **Carlton E. Morse (Writer/Dir)** | `["Adventure", "Mystery", "Western", "Serial", "Detective"]` | Jack and Doc discover a concealed mining shaft containing stolen gold bullion and set an ambush for the Turquoise Pass smugglers. |
+| `Granby_1950.mp3` <br>*Alt*: `Granby Green Acres 1950` | **"Granby Tries Farm Carpentry and Barn Repairs"** | **CBS (WCBS)**<br>1950-08-30<br>9:30 PM EDT | **General Foods**<br>Sanka Coffee / Post | **Gale Gordon**, **Benaderet** | **Jay Sommers (Creator)** | `["Sitcom", "Comedy", "Rural", "Satire", "Americana"]` | Ex-banker John Granby attempts to repair a crumbling barn roof without professional assistance, resulting in structural collapse. |
+| `Theater_Romance_1943.mp3` <br>*Alt*: `Mrs Moonlight Scott` | **"Mrs. Moonlight with Martha Scott"** | **CBS (WABC)**<br>1943-08-30<br>8:30 PM EWT | **Colgate-Palmolive**<br>Colgate / Halo Shampoo | **Martha Scott**, **Repertory** | **Benn W. Levy (Author)** | `["Romance", "Fantasy", "Drama", "Victorian", "Adaptation"]` | A young Victorian bride wishes upon a cursed family necklace to retain perpetual youth, only to watch her loved ones age and die. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 18 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

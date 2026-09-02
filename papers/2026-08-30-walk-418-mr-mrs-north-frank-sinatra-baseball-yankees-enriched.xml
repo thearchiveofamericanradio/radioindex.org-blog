@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — Mr. and Mrs. North, Frank Sinatra, and Major League Baseball</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, Mr and Mrs North, Alice Frost, Joseph Curtin, Frank Lovejoy, Colgate, Broadway Bandbox, Frank Sinatra, Raymond Scott, Major League Baseball, New York Yankees, Boston Red Sox, Kansas City Athletics, Mel Allen, Red Barber, Phil Rizzuto, CBS European News, Romania, Transylvania, Passport to Romance, Alfredo Antonini, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 418)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio, sports broadcasting, and wartime news services, Alice Frost and Joseph Curtin solving a studio poisoning on *Mr. and Mrs. North* for Colgate (1944), Frank Sinatra and Raymond Scott's orchestra on *Broadway Bandbox* (1943), two historic New York Yankees baseball broadcasts against the Kansas City Athletics (1960) and Boston Red Sox (1964) called by Mel Allen, Red Barber, and Phil Rizzuto, CBS European news reporting on the Second Vienna Award (1940), and Alfredo Antonini's *Passport to Romance* (1940–1964):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 418)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Passport_Romance_1946.mp3` <br>*Alt*: `Episode ++++ Romance` | **"Journey to the Costa Brava"** | **Mutual (WOR)**<br>1946-08-30 | **Sustaining**<br>Musical Romance | **Alfredo Antonini & Orch** | **Passport to Romance Staff** | `["Music", "Orchestral", "Romance", "Latin", "Travel"]` | Alfredo Antonini conducts Mediterranean melodies evoking coastal Spain interspersed with romantic narrative vignettes. |
+| `Baseball_1960_Athletics.mp3` <br>*Alt*: `Athletics At Yankees 1960` | **"Kansas City Athletics at New York Yankees"** | **Yankee Network (WPIX)**<br>1960-08-30<br>8:00 PM EDT | **Ballantine / Camel**<br>Beer / Cigarettes | **Mel Allen**, **Red Barber**, **Rizzuto** | **MLB Broadcast Staff** | `["Sports", "Baseball", "Live Broadcast", "Major League Baseball", "Historical"]` | The New York Yankees host the Kansas City Athletics in an American League pennant race night game at Yankee Stadium. |
+| `Baseball_1964_RedSox.mp3` <br>*Alt*: `Red Sox At Yankees 1964` | **"Boston Red Sox at New York Yankees"** | **Yankee Network (WPIX)**<br>1964-08-30<br>2:00 PM EDT | **Ballantine / White Owl**<br>Beer / Cigars | **Mel Allen**, **Red Barber**, **Rizzuto** | **MLB Broadcast Staff** | `["Sports", "Baseball", "Live Broadcast", "Major League Baseball", "Historical"]` | The New York Yankees battle arch-rival Boston Red Sox in an intense afternoon game at Yankee Stadium during the 1964 pennant drive. |
+| `Broadway_Bandbox_1943.mp3` <br>*Alt*: `Frank Sinatra Raymond Scott` | **"Frank Sinatra with Raymond Scott and His Orchestra"** | **CBS (WABC)**<br>1943-08-30<br>9:30 PM EWT | **Sustaining**<br>Big Band / Vocal | **Frank Sinatra**, **Scott** | **Raymond Scott Orchestra** | `["Music", "Vocal", "Big Band", "Pop Standards", "Swing"]` | Frank Sinatra sings popular standards and comedic novelty duets backed by Raymond Scott's distinctive swing orchestra. |
+| `CBS_News_1940_Romania.mp3` <br>*Alt*: `Romania Accepts Axis Terms` | **"Romania Accepts Axis Terms Over Hungarian Border Dispute"** | **CBS (WABC)**<br>1940-08-30<br>6:45 PM EDST | **Sustaining**<br>Wartime News | **Edward R. Murrow**, **Shirer** | **Elmer Davis (Commentator)** | `["News", "World War II", "Journalism", "European Theater", "Historical"]` | CBS foreign correspondents report on the Second Vienna Award forcing Romania to cede Northern Transylvania to Hungary under Axis pressure. |
+| `Mr_Mrs_North_1944_Unreel.mp3` <br>*Alt*: `Norths Unreel Murder` | **"The Norths Unreel a Murder"** | **NBC (WEAF)**<br>1944-08-30<br>8:00 PM EWT | **Colgate-Palmolive**<br>Halo / Colgate Dental | **Alice Frost**, **Joseph Curtin** | **Richard & Frances Lockridge** | `["Mystery", "Comedy-Mystery", "Detective", "Lockridge", "Colgate"]` | Pamela and Jerry North investigate the poisoning of a motion picture director whose final moments were captured on 16mm film. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 180 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

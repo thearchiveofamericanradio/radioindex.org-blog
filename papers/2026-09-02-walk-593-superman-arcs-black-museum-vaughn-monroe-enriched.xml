@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 2 Calendar Walk — Superman Arcs, Black Museum &amp; Vaughn Monroe</article-title>
+      <pub-date>2026-09-02</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 2, Calendar Walk, The Adventures of Superman, Bud Collyer, Joan Alexander, Jackie Kelk, Kelloggs Pep, Serial Arcs, The Black Museum, Orson Welles, Scotland Yard, Harry Alan Towers, The Camel Caravan, Vaughn Monroe, Mona Lisa, Camel Cigarettes, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 2 Archival Metadata Enrichment (Increment 593)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across classic superhero serialized story arcs, grim Scotland Yard true-crime artifacts, and chart-topping big band vocal variety, Bud Collyer as *Superman* for Kellogg's Pep across four different storylines (1942, 1943, 1946, 1948), Orson Welles hosting *The Black Museum* (1952), and Vaughn Monroe performing *Mona Lisa* on *The Camel Caravan* (1942–1952):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 2 Archival Inventory (Increment 593)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Superman_1942_TheWolf1.mp3` <br>*Alt*: `The Wolf - Part 1 Superman` | **"The Wolf (Part 1) with Bud Collyer and Kellogg's Pep"** | **Mutual (WOR)**<br>1942-09-02<br>5:15 PM EWT | **Kellogg Company**<br>Kellogg's Pep Cereal | **Bud Collyer (Superman)** | **Joan Alexander & Noa** | `["Superhero", "Action", "Adventure", "Superman", "Bud Collyer"]` | Clark Kent investigates rumors of a savage mutant timber wolf terrorizing isolated lumber camps near the northern frontier. |
+| `Superman_1943_CAP12.mp3` <br>*Alt*: `The Civil Air Patrol - Part 12 Superman` | **"The Civil Air Patrol (Part 12) with Bud Collyer and Kellogg's Pep"** | **Mutual (WOR)**<br>1943-09-02<br>5:15 PM EWT | **Kellogg Company**<br>Kellogg's Pep Cereal | **Bud Collyer**, **Kelk** | **Julian Noa (Perry White)** | `["Superhero", "Action", "Adventure", "Superman", "Bud Collyer"]` | Superman intercepts a rogue enemy bomber heading toward an East Coast munitions plant spotted by volunteer Civil Air Patrol spotters. |
+| `Superman_1946_CandyMyers8.mp3` <br>*Alt*: `Candy Meyer's Big Story, Part 8 of 8` | **"Candy Myers's Big Story (Part 8) with Bud Collyer and Kellogg's"** | **Mutual (WOR)**<br>1946-09-02<br>5:15 PM EDT | **Kellogg Company**<br>Kellogg's Pep Cereal | **Bud Collyer (Superman)** | **Candy Myers & Alexander** | `["Superhero", "Action", "Adventure", "Superman", "Bud Collyer"]` | Superman rounds up an entire syndicate of jewel smugglers and delivers proof to the Daily Planet that clears private detective Candy Myers. |
+| `Superman_1948_SilverBuffalo3.mp3` <br>*Alt*: `The Mystery Of The Silver Buffalo, Part 3` | **"The Mystery of the Silver Buffalo (Part 3) with Bud Collyer"** | **Mutual (WOR)**<br>1948-09-02<br>5:15 PM EDT | **Kellogg Company**<br>Kellogg's Pep Cereal | **Bud Collyer (Clark Kent)** | **Joan Alexander (Lois)** | `["Superhero", "Action", "Adventure", "Superman", "Bud Collyer"]` | Clark Kent tracks a gang of armed gold rustlers using ancient tribal caves to conceal stolen bullion shipments. |
+| `Black_Museum_1952_SashCord.mp3` <br>*Alt*: `The Sash Cord The Black Museum` | **"The Sash Cord with Orson Welles and Mutual"** | **Mutual (WOR)**<br>1952-09-02<br>8:00 PM EDT | **Sustaining**<br>Scotland Yard Crime | **Orson Welles (Host)** | **Harry Alan Towers (Prod)** | `["Police", "Crime", "Mystery", "Black Museum", "Orson Welles"]` | Orson Welles inspects a frayed length of window sash cord from Scotland Yard's repository that helped detectives solve a lodging house strangulation. |
+| `Camel_1950_MonaLisa.mp3` <br>*Alt*: `First Song - Mona Lisa Camel Caravan` | **"Mona Lisa with Vaughn Monroe and Camel Cigarettes"** | **CBS (KNX)**<br>1950-09-02<br>7:30 PM EDT | **R.J. Reynolds**<br>Camel Cigarettes | **Vaughn Monroe (Vocals)** | **The Moon Maids & Men** | `["Music", "Big Band", "Pop", "Camel Caravan", "Vaughn Monroe"]` | Baritone Vaughn Monroe leads his orchestra singing the number-one hit Mona Lisa alongside upbeat swing numbers and collegiate medleys. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 170 / 480 (310 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

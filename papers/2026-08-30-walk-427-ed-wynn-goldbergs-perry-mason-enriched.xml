@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — Ed Wynn, The Goldbergs, and Perry Mason</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, The Fire Chief, Ed Wynn, Graham McNamee, Texaco, The Goldbergs, Gertrude Berg, Duz, Perry Mason, Erle Stanley Gardner, John Larkin, Tide, A Voice in the Night, Rattlesnake, The Fleischmann's Yeast Hour, Rudy Vallee, Treasury Star Parade, Jan Garber, War Bonds, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 427)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and early variety hours, Ed Wynn's legendary *Fire Chief* broadcast for Texaco (1932), Gertrude Berg's domestic humor on *The Goldbergs* for Duz (1943), John Larkin defending an estranged daughter on *Perry Mason* (1954), desert suspense on *A Voice in the Night* (1946), Rudy Vallee's *Fleischmann's Yeast Hour* with Elsie Mae Gordon and Jeanne Aubert (1934), and Jan Garber on *Treasury Star Parade* (1932–1954):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 427)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Fire_Chief_1932_Wynn.mp3` <br>*Alt*: `When You Were 8 And I Was 9` | **"When You Were 8 and I Was 9 We Were 17 with Ed Wynn"** | **NBC Red (WEAF)**<br>1932-08-30<br>9:30 PM EDST | **The Texas Company**<br>Texaco Fire-Chief Gas | **Ed Wynn**, **Graham McNamee** | **Ed Wynn (Writer)** | `["Comedy", "Vaudeville", "Slapstick", "Ed Wynn", "Texaco"]` | Ed Wynn spins nonsensical vaudeville puns and silly childhood rhymes while demonstrating absurd firefighting inventions for Graham McNamee. |
+| `Goldbergs_1943_Birdie.mp3` <br>*Alt*: `Who Has Birdie Told` | **"Who Has Birdie Told?"** | **CBS (WABC)**<br>1943-08-30<br>1:45 PM EWT | **Procter & Gamble**<br>Duz Soap Powder | **Gertrude Berg**, **Waters** | **Gertrude Berg (Writer)** | `["Comedy", "Domestic", "Sitcom", "Gertrude Berg", "Procter & Gamble"]` | Molly Goldberg scrambles to contain neighborhood rumors after Birdie inadvertently reveals a sensitive family secret. |
+| `Perry_Mason_1954_Daughter.mp3` <br>*Alt*: `Ed Beekmans Daughter` | **"Ed Beekman's Daughter"** | **CBS (WCBS)**<br>1954-08-30<br>2:15 PM EDT | **Procter & Gamble**<br>Tide / Camay Soap | **John Larkin**, **Alexander** | **Erle Stanley Gardner** | `["Courtroom", "Drama", "Mystery", "Serial", "Erle Stanley Gardner"]` | Perry Mason aids a client's estranged daughter who has become entangled in a suspicious suburban inheritance dispute. |
+| `Voice_Night_1946_Snake.mp3` <br>*Alt*: `The Rattlesnake Voice Night` | **"The Rattlesnake"** | **Syndicated Mystery**<br>1946-08-30 | **Sustaining**<br>Suspense Drama | **Dramatic Voice Cast** | **Voice in the Night Staff** | `["Mystery", "Thriller", "Suspense", "Macabre", "Anthology"]` | A vengeful rancher plots the ultimate murder by concealing a venomous desert rattlesnake inside his business partner's sleeping bag. |
+| `Fleischmann_1934_Crossed.mp3` <br>*Alt*: `Crossed Roads Elsie Mae Gordon` | **"Crossed Roads with Elsie Mae Gordon and Jeanne Aubert"** | **NBC Red (WEAF)**<br>1934-08-30<br>8:00 PM EDST | **Standard Brands**<br>Fleischmann's Yeast | **Rudy Vallee**, **Gordon**, **Aubert** | **Rudy Vallee Staff** | `["Variety", "Music", "Vocal", "Rudy Vallee", "Fleischmann's"]` | Rudy Vallee hosts dramatic sketches starring mimic Elsie Mae Gordon alongside songs performed by French soubrette Jeanne Aubert. |
+| `Treas_Star_1943_Garber.mp3` <br>*Alt*: `Jan Garber Ill Always Be In Love` | **"I'll Always Be in Love with You featuring Jan Garber and His Orchestra"** | **Treasury Dept Syndication**<br>1943-08-30 | **U.S. Treasury Dept**<br>War Savings Bonds | **Jan Garber and His Orch** | **Treasury Star Parade Staff** | `["Music", "Big Band", "War Bonds", "Treasury", "World War II"]` | Jan Garber leads sweet swing renditions of I'll Always Be in Love with You to promote homefront war bond purchases. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 234 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 1 Calendar Walk — Gene Autry, Quiz Kids, and Columbia Workshop</article-title>
+      <pub-date>2026-09-01</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 1, Calendar Walk, Gene Autry's Melody Ranch, Pat Buttram, Cass County Boys, Wrigleys Doublemint, The Quiz Kids, Joe Kelly, Alka-Seltzer, Columbia Workshop, Cleveland Air Races, CBS Sports, Night Editor, Hal Burdick, Uncle Ned's Squadron, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 1 Archival Metadata Enrichment (Increment 539)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across Western musical variety hours, juvenile quiz shows, experimental workshop sports coverage, late-night newspaper storytelling, and special pre-empted holiday features, Gene Autry on *Melody Ranch* for Wrigley's Gum (1946, 1951), Joe Kelly and *The Quiz Kids* for Alka-Seltzer (1946), *Columbia Workshop* sports coverage (1946), Hal Burdick in *Night Editor* (1940), and *Uncle Ned's Squadron* (1940–1951):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 1 Archival Inventory (Increment 539)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Columbia_1946_AirRaces.mp3` <br>*Alt*: `[Pre-empted for Cleveland air races]` | **"Special Sports Coverage of the National Air Races in Cleveland with CBS Sports"** | **CBS (WABC)**<br>1946-09-01<br>4:30 PM EDT | **Sustaining**<br>Special Sports | **CBS Sports Crew** | **CBS Sports Broadcasters** | `["Sports", "Aviation", "Special", "Columbia Workshop", "CBS"]` | CBS preempts the scheduled drama workshop for live wire reports and course commentary from the National Air Races in Cleveland, Ohio. |
+| `Autry_1946_GoldStrike.mp3` <br>*Alt*: `Melody Ranch 1946 Episode` | **"The Ghost Town Gold Strike with Gene Autry and Wrigley's Gum"** | **CBS (KNX)**<br>1946-09-01<br>5:30 PM EDT | **Wm. Wrigley Jr. Co.**<br>Doublemint & Spearmint | **Gene Autry**, **Buttram** | **Carl Cotner Orchestra** | `["Western", "Music", "Comedy", "Gene Autry", "Melody Ranch", "Wrigleys"]` | Gene Autry investigates fraudulent gold mining claims in an abandoned desert ghost town while performing western cowboy ballads. |
+| `Autry_1951_BuckKate.mp3` <br>*Alt*: `Buck And Kate Melody Ranch` | **"Buck and Kate with Gene Autry, Pat Buttram, and Wrigley's Doublemint"** | **CBS (KNX)**<br>1951-09-01<br>8:00 PM EDT | **Wm. Wrigley Jr. Co.**<br>Doublemint Chewing Gum | **Gene Autry**, **Buttram** | **Johnny Bond & Pinafores** | `["Western", "Music", "Comedy", "Gene Autry", "Melody Ranch", "Wrigleys"]` | Gene and Pat Buttram mediate a comic feud between two stubborn frontier newlyweds and sing classic trail songs. |
+| `Quiz_Kids_1946_LaborScience.mp3` <br>*Alt*: `The Quiz Kids 1946 Episode` | **"Grade School Brains on Labor and Science with Joe Kelly and Alka-Seltzer"** | **NBC (WEAF)**<br>1946-09-01<br>4:00 PM EDT | **Miles Laboratories**<br>Alka-Seltzer & One-A-Day | **Joe Kelly (Quizmaster)** | **Panel of Child Prodigies** | `["Quiz", "Panel", "Juvenile", "Quiz Kids", "Alka-Seltzer"]` | Quizmaster Joe Kelly challenges a panel of gifted youngsters with listener-submitted questions covering world history, physics, and classical literature. |
+| `Night_Editor_1940_Nowhere.mp3` <br>*Alt*: `Night Editor 1940 Episode` | **"The Man Who Returned from Nowhere with Hal Burdick"** | **NBC Pacific**<br>1940-09-01<br>8:15 PM PST | **Sustaining**<br>Newspaper Drama | **Hal Burdick (Editor)** | **Hal Burdick (Writer)** | `["Drama", "Mystery", "Journalism", "Night Editor", "Hal Burdick"]` | A veteran newspaperman in a darkened editorial office recounts how a presumed-dead traveler returned home to claim his family inheritance. |
+| `Squadron_1951_Homecoming.mp3` <br>*Alt*: `PRE-EMPTED (by 'Homecoming 1949')` | **"Special Homecoming 1949 Broadcast (Pre-empted Feature)"** | **Mutual (WOR)**<br>1951-09-01 | **Sustaining**<br>Holiday Special | **Station Announcers** | **Choral Ensemble** | `["Music", "Variety", "Special", "Uncle Neds Squadron", "Mutual"]` | A special Labor Day holiday homecoming broadcast preempts the regular aviation variety program to feature community choral music. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 156 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

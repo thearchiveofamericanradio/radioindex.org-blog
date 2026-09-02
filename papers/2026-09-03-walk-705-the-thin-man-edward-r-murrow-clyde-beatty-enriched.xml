@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 3 Calendar Walk — The Thin Man, Edward R. Murrow &amp; Clyde Beatty</article-title>
+      <pub-date>2026-09-03</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 3, Calendar Walk, The Adventures of the Thin Man, Les Damon, Claudia Morgan, Dashiell Hammett, Post Toasties, General Foods, Edward R Murrow, CBS News, BBC, Neville Chamberlain, Declaration of War, WWII, The Clyde Beatty Show, Clyde Beatty, Kellogg's, Calling All Detectives, Frank Lovejoy, Sealy Mattress, We Deliver The Goods, USMS, Catalina Island, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 3 Archival Metadata Enrichment (Increment 705)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across witty high-society husband-and-wife mystery banter penned by Dashiell Hammett for Post Toasties, momentous CBS London news relays capturing the exact moment Britain declared war on Nazi Germany, thrilling big-top animal trainer adventures in Bengal, interactive detective puzzles, and wartime Merchant Marine musical showcases, Les Damon and Claudia Morgan in *The Adventures of the Thin Man* (1941, 1943), Edward R. Murrow (1939), Clyde Beatty (1951), Frank Lovejoy (1948), and *We Deliver the Goods* (1939–1951):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 3 Archival Inventory (Increment 705)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `ThinMan_1941_RussianDressing.mp3` <br>*Alt*: `Ham, With Russian Dressing Adventures of the Thin Man` | **"Ham, with Russian Dressing with Les Damon as Nick Charles"** | **NBC Red (WEAF)**<br>1941-09-03<br>8:00 PM EDST | **Sustaining**<br>Comedy Mystery | **Les Damon (Nick)** | **Claudia Morgan & Hammett** | `["Detective", "Comedy", "The Thin Man", "Les Damon", "Claudia Morgan"]` | Nick and Nora Charles investigate the backstage poisoning of an egotistical theatrical producer found dead in his dressing room. |
+| `ThinMan_1943_UnfortunateFortune.mp3` <br>*Alt*: `TCOT Unfortunate Fortune Teller Adventures of the Thin Man` | **"The Unfortunate Fortune Teller with Les Damon as Nick Charles"** | **CBS (WABC)**<br>1943-09-03<br>8:30 PM EWT | **General Foods**<br>Post Toasties Corn Flakes | **Les Damon (Nick)** | **Claudia Morgan & Lewis** | `["Detective", "Comedy", "The Thin Man", "Les Damon", "Post Toasties"]` | Nick and Nora Charles solve the strangulation of a clairvoyant medium who predicted her own murder during a seaside séance. |
+| `Murrow_1939_WarDeclaration.mp3` <br>*Alt*: `BBC Musical Program Is Interrupted for News, Starting Forty, A Edward R Murrow` | **"BBC Music Interrupted for War Declaration with Edward R. Murrow"** | **CBS / BBC**<br>1939-09-03<br>6:15 AM EDST | **Sustaining**<br>Historic News Relay | **Edward R. Murrow** | **Neville Chamberlain & BBC** | `["News", "WWII", "Edward R Murrow", "Declaration of War", "BBC"]` | A live BBC musical transmission is abruptly cut off for Prime Minister Neville Chamberlain's announcement that Britain is at war with Germany. |
+| `ClydeBeatty_1951_BengalTiger.mp3` <br>*Alt*: `Episode Clyde Beatty Show, The` | **"The Man-Eating Tiger of Bengal with Clyde Beatty"** | **Mutual (WOR)**<br>1951-09-03<br>5:30 PM EDT | **Kellogg's**<br>Corn Flakes & Rice Krispies | **Clyde Beatty (Host)** | **Mutual Production Staff** | `["Adventure", "Circus", "Clyde Beatty", "Kelloggs", "Mutual"]` | Clyde Beatty tracks a rogue man-eating royal Bengal tiger terrorizing an Indian plantation settlement to capture it alive for the circus. |
+| `CallingDetectives_1948_FoxHenHouse.mp3` <br>*Alt*: `The Fox Minding The Hen House Calling All Detectives` | **"The Fox Minding the Hen House with Frank Lovejoy"** | **Syndication / Mutual**<br>1948-09-03 | **Sealy Mattress Co.**<br>Sealy Posturepedic | **Frank Lovejoy** | **Vincent Pelletier (Ann.)** | `["Detective", "Interactive", "Calling All Detectives", "Frank Lovejoy", "Sealy"]` | Listeners solve an interactive micro-mystery involving an untrustworthy security night watchman who orchestrated a warehouse robbery. |
+| `WeDeliverGoods_1944_Catalina.mp3` <br>*Alt*: `We Deliver The Goods 1944 Episode` | **"US Maritime Service Band from Catalina Island"** | **Mutual (KHJ)**<br>1944-09-03<br>12:00 PM EWT | **U.S. Maritime Service**<br>Merchant Marine Recruiting | **USMS Cadet Band** | **Lt. Curt Roberts** | `["Music", "Military", "We Deliver The Goods", "USMS", "Mutual"]` | Merchant Marine cadet musicians perform patriotic marches and swing standards broadcasting from the Catalina Island training station. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 421 / 469 (48 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

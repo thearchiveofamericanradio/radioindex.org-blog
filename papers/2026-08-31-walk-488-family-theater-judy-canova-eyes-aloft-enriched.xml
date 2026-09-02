@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 31 Calendar Walk — Family Theater, Judy Canova, and Eyes Aloft</article-title>
+      <pub-date>2026-08-31</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 31, Calendar Walk, Family Theater, Barry Sullivan, Maureen OSullivan, Father Patrick Peyton, Mutual, Judy Canova, Mel Blanc, Ruby Dandridge, Colgate, Freedom USA, Tyrone Power, ZIV, Eyes Aloft, Fourth Fighter Command, Army Air Forces, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 31 Archival Metadata Enrichment (Increment 488)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across inspirational moral drama, hillbilly musical comedy, Cold War political thrillers, and wartime Pacific Coast defense docudramas, Barry Sullivan and Maureen O'Sullivan in *Family Theater* (1955), Judy Canova and Mel Blanc on *The Judy Canova Show* for Colgate (1943, 1946), Tyrone Power in *Freedom, U.S.A.* (1952), and the U.S. Army Air Forces' *Eyes Aloft* (1942, 1943):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 31 Archival Inventory (Increment 488)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Family_1955_BigOne.mp3` <br>*Alt*: `The Big One Family Theater` | **"The Big One with Barry Sullivan and Maureen O'Sullivan"** | **Mutual (WOR)**<br>1955-08-31<br>9:05 PM EDT | **Sustaining**<br>Family Rosary Drama | **Barry Sullivan**, **O'Sullivan** | **Father Patrick Peyton** | `["Drama", "Anthology", "Family", "Family Theater", "Mutual"]` | A troubled commercial fisherman risks his boat and savings pursuing a legendary giant marlin to prove his worth to his family. |
+| `Canova_1943_Pig.mp3` <br>*Alt*: `Getting Pig Back Rancho Canova` | **"Getting the Pig Back to Rancho Canova with Judy Canova (Colgate)"** | **CBS (WABC)**<br>1943-08-31<br>8:30 PM EWT | **Colgate-Palmolive**<br>Colgate Dental / Halo | **Judy Canova**, **Mel Blanc** | **Gordon Jenkins Orch.** | `["Comedy", "Hillbilly", "Music", "Judy Canova", "Colgate"]` | Judy wreaks havoc across Hollywood trying to transport an escaped prize pig back to her ranch in an open convertible. |
+| `Canova_1946_Cactus.mp3` <br>*Alt*: `Just Back Cactus Junction` | **"Just Back from Cactus Junction with Judy Canova (Colgate)"** | **NBC (WEAF)**<br>1946-08-31<br>10:00 PM EDT | **Colgate-Palmolive**<br>Colgate Dental / Palm. | **Judy Canova**, **Gordon** | **Sportsmen Quartet** | `["Comedy", "Hillbilly", "Music", "Judy Canova", "Colgate"]` | Judy returns from a family reunion in Cactus Junction loaded down with eccentric country souvenirs and farm animals. |
+| `Freedom_1952_MapPiece.mp3` <br>*Alt*: `Espionage Missing Map Piece` | **"Espionage and the Missing Map Piece with Tyrone Power"** | **Ziv Syndication**<br>1952-08-31 | **Sustaining**<br>Cold War Political Drama | **Tyrone Power**, **Jerome** | **Anton M. Leader (Director)** | `["Drama", "Politics", "Espionage", "Tyrone Power", "ZIV"]` | U.S. Senator Dean Edwards exposes a ring of foreign intelligence operatives attempting to reconstruct a classified military radar map. |
+| `Eyes_Aloft_1942_Coast.mp3` <br>*Alt*: `Eyes Aloft 1942 Episode` | **"Coastal Air Warning Spotters on Duty with Fourth Fighter Command"** | **NBC Pacific**<br>1942-08-31<br>9:00 PM PWT | **U.S. Army Air Forces**<br>IV Fighter Command | **Hollywood Repertory** | **True Boardman (Producer)** | `["Docudrama", "WWII", "Aviation", "Eyes Aloft", "NBC Pacific"]` | Volunteer civilian aircraft spotters stationed along the Pacific coast identify unidentified enemy aircraft formations in fog. |
+| `Eyes_Aloft_1943_NightWatch.mp3` <br>*Alt*: `Eyes Aloft 1943 Episode` | **"The Night Watch at Peak Lookout with Fourth Fighter Command"** | **NBC Pacific**<br>1943-08-31<br>9:00 PM PWT | **U.S. Army Air Forces**<br>IV Fighter Command | **Hollywood Repertory** | **True Boardman (Producer)** | `["Docudrama", "WWII", "Aviation", "Eyes Aloft", "NBC Pacific"]` | Civilian mountain-top lookouts brave blizzard conditions to report emergency radar blips and guide lost Allied bombers home safely. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 228 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

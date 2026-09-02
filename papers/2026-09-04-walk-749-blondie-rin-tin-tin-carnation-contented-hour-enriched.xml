@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 4 Calendar Walk — Blondie, Rin-Tin-Tin &amp; Carnation Contented Hour</article-title>
+      <pub-date>2026-09-04</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 4, Calendar Walk, Blondie, Penny Singleton, Arthur Lake, Hanley Stafford, Camel Cigarettes, The Adventures of Rin-Tin-Tin, Lee Aaker, James Brown, Nabisco, Shredded Wheat, The Carnation Contented Hour, Percy Faith, Buddy Clark, Ted Dale, Carnation Milk, Abie's Irish Rose, Mercedes McCambridge, Sydney Smith, Drene Shampoo, Hollywood Hotel, Dick Powell, Frances Langford, Campbell's, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 4 Archival Metadata Enrichment (Increment 749)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Penny Singleton & Arthur Lake in suburban domestic mishaps on *Blondie* for Camel Cigarettes, young Lee Aaker at Fort Apache on *The Adventures of Rin-Tin-Tin* for Nabisco, two golden editions of *The Carnation Contented Hour* for Carnation Evaporated Milk (Percy Faith's anniversary overtures in 1939 and Buddy Clark singing Broadway hits in 1949), Mercedes McCambridge on *Abie's Irish Rose* for Drene, and Dick Powell previewing *Romeo and Juliet* on *Hollywood Hotel* for Campbell's, Penny Singleton (1939), Lee Aaker (1955), Percy Faith (1939), Buddy Clark (1949), Mercedes McCambridge (1943), and Dick Powell (1936–1955):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 4 Archival Inventory (Increment 749)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Blondie_1939_DagwoodCarpentry.mp3` <br>*Alt*: `Blondie 1939 Episode` | **"Dagwood Takes Up Carpentry with Penny Singleton"** | **CBS (WABC)**<br>1939-09-04<br>7:30 PM EDST | **R.J. Reynolds**<br>Camel Cigarettes | **Penny Singleton & Arthur Lake** | **Hanley Stafford & Chic Young** | `["Comedy", "Sitcom", "Blondie", "Penny Singleton", "Arthur Lake"]` | Dagwood attempts to build a backyard patio table with disastrous results, accidentally sawing through Mr. Dithers' prize blueprints. |
+| `RinTinTin_1955_RustyResigns.mp3` <br>*Alt*: `Rusty Resigns From the Army Adventures of Rin-Tin-Tin` | **"Rusty Resigns from the Army with Lee Aaker"** | **Mutual (WOR)**<br>1955-09-04<br>5:00 PM EDT | **National Biscuit Co.**<br>Nabisco Shredded Wheat | **Lee Aaker (Rusty)** | **James Brown & Sawyer** | `["Western", "Adventure", "Rin-Tin-Tin", "Lee Aaker", "Nabisco"]` | Young orphan corporal Rusty feels responsible for an accidental cavalry patrol blunder and attempts to tender his resignation from Fort Apache. |
+| `Carnation_1939_AnniversaryOverture.mp3` <br>*Alt*: `First Song - The Carnation Anniversary Overture Carnation Contented Hour` | **"Carnation Anniversary Overture with Percy Faith"** | **NBC Red (WEAF)**<br>1939-09-04<br>10:00 PM EDST | **Carnation Milk Co.**<br>Carnation Evaporated Milk | **Percy Faith & Chorus** | **Lullaby Lady & Orch.** | `["Music", "Concert", "Carnation Contented Hour", "Percy Faith", "Carnation"]` | Percy Faith conducts lush orchestral arrangements of classical anniversary overtures and sentimental parlor melodies for Labor Day. |
+| `Carnation_1949_BuddyClark.mp3` <br>*Alt*: `Guest - Buddy Clark Carnation Contented Hour` | **"Guest Buddy Clark with Ted Dale and His Orchestra"** | **NBC (WNBC)**<br>1949-09-04<br>10:00 PM EDT | **Carnation Milk Co.**<br>Carnation Evaporated Milk | **Buddy Clark (Guest)** | **Ted Dale and His Orch.** | `["Music", "Vocal", "Carnation Contented Hour", "Buddy Clark", "Carnation"]` | Popular crooner Buddy Clark sings Broadway show tunes and romantic pop ballads accompanied by Ted Dale's symphony orchestra. |
+| `AbiesIrishRose_1943_Anniversary.mp3` <br>*Alt*: `Abie's Irish Rose 1943 Episode` | **"The Secret Wedding Anniversary with Mercedes McCambridge"** | **NBC (WEAF)**<br>1943-09-04<br>8:00 PM EWT | **Procter & Gamble**<br>Special Drene Shampoo | **Mercedes McCambridge** | **Sydney Smith & Kinsella** | `["Comedy", "Domestic", "Abie's Irish Rose", "Mercedes McCambridge", "Drene"]` | Abie and Rose Mary celebrate their wedding anniversary while trying to prevent their squabbling fathers from discovering the surprise party. |
+| `HollywoodHotel_1936_RomeoJuliet.mp3` <br>*Alt*: `Romeo and Juliet Hollywood Hotel` | **"Romeo and Juliet with Dick Powell and Frances Langford"** | **CBS (WABC)**<br>1936-09-04<br>9:00 PM EDST | **Campbell Soup Co.**<br>Campbell's Soups | **Dick Powell & Langford** | **Louella Parsons & Paige** | `["Variety", "Film Preview", "Hollywood Hotel", "Dick Powell", "Campbell's"]` | Dick Powell and Frances Langford preview MGM's cinematic adaptation of Romeo and Juliet with musical comedy interludes and Hollywood gossip. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 216 / 471 (191 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

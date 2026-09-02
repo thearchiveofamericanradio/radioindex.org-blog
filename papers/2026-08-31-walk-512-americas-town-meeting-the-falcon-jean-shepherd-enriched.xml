@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 31 Calendar Walk — America's Town Meeting, The Falcon, and Jean Shepherd</article-title>
+      <pub-date>2026-08-31</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 31, Calendar Walk, Americas Town Meeting of the Air, George V Denny Jr, Blue Network, ABC, The Falcon, George Petrie, Mike Waring, The Affairs of Peter Salem, Santos Ortega, Louis Vittes, Jean Shepherd, WOR New York, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 31 Archival Metadata Enrichment (Increment 512)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across historic national debate broadcasts, private eye murder mysteries, small-town sleuthing, and late-night philosophical monologues, George V. Denny Jr. hosting *America's Town Meeting of the Air* across ten years of civic discourse (1944, 1948, 1954), George Petrie in *The Falcon* (1953), Santos Ortega in *The Affairs of Peter Salem* (1952), and Jean Shepherd on WOR New York (1944–1964):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 31 Archival Inventory (Increment 512)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Falcon_1953_GreenEyedMonster.mp3` <br>*Alt*: `The Falcon 1953 Episode` | **"The Case of the Green-Eyed Monster with George Petrie"** | **Mutual (WOR)**<br>1953-08-31<br>8:00 PM EDT | **Sustaining**<br>Detective Mystery | **George Petrie**, **Lynch** | **Mutual Production Staff** | `["Detective", "Mystery", "Hardboiled", "The Falcon", "Mutual"]` | Mike Waring investigates a Broadway playwright accused of murdering his leading lady's jealous ex-fiancé backstage. |
+| `Salem_1952_DeadlyDance.mp3` <br>*Alt*: `Affair of the Deadly Dance` | **"The Affair of the Deadly Dance with Santos Ortega"** | **Mutual (WOR)**<br>1952-08-31<br>5:00 PM EDT | **Sustaining**<br>Detective Drama | **Santos Ortega**, **Grimes** | **Louis Vittes (Writer)** | `["Detective", "Mystery", "Peter Salem", "Santos Ortega", "Mutual"]` | Small-town sleuth Peter Salem uncovers a blackmail syndicate operating behind a local ballroom dance academy. |
+| `Town_1944_GermanyPeace.mp3` <br>*Alt*: `Americas Town Meeting 1944` | **"What Should Be the Peace Settlement with Germany?"** | **Blue Network**<br>1944-08-31<br>8:30 PM EWT | **Sustaining**<br>Public Forum | **George V. Denny Jr.** | **Town Hall Inc.** | `["News", "Debate", "WWII", "Americas Town Meeting", "Blue Network"]` | Geopolitical analysts debate postwar German partition, disarmament, reparations, and military occupation policies. |
+| `Town_1948_Citizenship.mp3` <br>*Alt*: `Americas Town Meeting 1948` | **"Are Our Schools Teaching Good Citizenship?"** | **ABC (WJZ)**<br>1948-08-31<br>8:30 PM EDT | **Sustaining**<br>Public Forum | **George V. Denny Jr.** | **Town Hall Inc.** | `["Civics", "Debate", "Education", "Americas Town Meeting", "ABC"]` | Educators debate whether public high schools adequately teach democratic constitutional principles and civic responsibility. |
+| `Town_1954_FederalGov.mp3` <br>*Alt*: `Americas Town Meeting 1954` | **"Is the Federal Government Growing Too Powerful?"** | **ABC (WABC)**<br>1954-08-31<br>9:00 PM EDT | **Sustaining**<br>Public Forum | **George V. Denny Jr.** | **Town Hall Inc.** | `["Civics", "Debate", "Politics", "Americas Town Meeting", "ABC"]` | Congressional lawmakers and constitutional scholars debate states' rights versus expanding federal regulatory authority. |
+| `Shepherd_1964_DoWormsTalk.mp3` <br>*Alt*: `Do Worms Talk Jean Shepherd` | **"Do Worms Talk? with Jean Shepherd"** | **WOR New York**<br>1964-08-31<br>11:15 PM EDT | **Sustaining**<br>Midnight Monologue | **Jean Shepherd** | **Jean Shepherd (Host)** | `["Comedy", "Monologue", "Humor", "Jean Shepherd", "WOR"]` | Jean Shepherd reflects on subterranean insect life, human self-importance, and childhood summer memories along Lake Michigan. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 372 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

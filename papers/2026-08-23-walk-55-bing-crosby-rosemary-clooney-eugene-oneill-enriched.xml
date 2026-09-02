@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 23 Calendar Walk — Bing Crosby, Rosemary Clooney, and Eugene O'Neill</article-title>
+      <pub-date>2026-08-23</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 23, Calendar Walk, Bing Crosby, Rosemary Clooney, Buddy Cole Trio, Bill Morrow, Ken Carpenter, Ford Motor Company, Post Cereals, Eugene O'Neill, The Straw, Peggy Wood, Frank Lovejoy, Frank Black, NBC Blue, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 23 Exhaustive Archival Metadata Enrichment (Increment 55)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American network broadcasting history (1937–1961):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 23 Archival Inventory (Increment 55)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `ONeill_1937_08_23.mp3` <br>*Alt*: `First Topic Quarrel`, `The Straw ONeill 1937` | **"The Straw (Starring Peggy Wood & Frank Lovejoy — Eugene O'Neill Cycle)"** | **NBC Blue (WJZ)**<br>1937-08-23<br>9:30 PM EDST | **Sustaining**<br>NBC Cultural Drama | **Peggy Wood** (Eileen Carmody), **Frank Lovejoy**, **John McIntire** | **Eugene O'Neill** (Playwright), **Homer Fickett**, **Frank Black** | `["Drama", "Anthology", "Literature", "Medical", "Romance"]` | In Eugene O'Neill's poignant drama *The Straw*, a young tuberculosis patient at a Connecticut sanatorium falls deeply in love with an aspiring writer, discovering hope and emotional redemption as they face uncertain health together. |
+| `Bing_Crosby_1955_08_23.mp3` <br>*Alt*: `Episode 197`, `Bing Crosby Post Cereals` | **"The Bing Crosby Show #197: Swanee River & Swing (Post Cereals)"** | **CBS (KNX)**<br>1955-08-23<br>9:15 PM EDT | **General Foods**<br>Post Cereals & Jell-O | **Bing Crosby**, **The Buddy Cole Trio** | **Bill Morrow** (Producer), **Ken Carpenter** (Announcer) | `["Music", "Easy Listening", "Vocal", "Variety", "Jazz"]` | Der Bingle sings relaxed vocal selections including 'It's Easy to Remember' and 'Swinging on a Star' accompanied by the intimate swing rhythms of the Buddy Cole Trio. |
+| `Bing_Crosby_1956_08_23.mp3` <br>*Alt*: `Bing Crosby Ford 1956`, `Buddy Cole Trio 1956` | **"The Bing Crosby Show with The Buddy Cole Trio (Ford Motors)"** | **CBS (WCBS)**<br>1956-08-23<br>9:15 PM EDT | **Ford Motor Company**<br>Ford Cars & Thunderbird | **Bing Crosby**, **The Buddy Cole Trio** | **Bill Morrow** (Producer), **Ken Carpenter** (Announcer) | `["Music", "Easy Listening", "Vocal", "Variety", "Jazz"]` | Bing Crosby delivers smooth crooning interpretations of classic Tin Pan Alley standards alongside snappy banter and breezy organ and piano jazz arrangements by Buddy Cole. |
+| `Bing_Crosby_1958_08_23.mp3` <br>*Alt*: `Mary Ellen Washabatt Giraffe`, `Ford Road Show 1958` | **"The Ford Road Show: Mary Ellen Washabatt's Giraffe (Bing Crosby)"** | **CBS (WCBS)**<br>1958-08-23<br>10:15 AM EDT | **Ford Motor Company**<br>Ford Division Dealers | **Bing Crosby**, **Ken Carpenter**, **Buddy Cole Trio** | **Bill Morrow** (Producer), **Buddy Cole** (Music) | `["Music", "Easy Listening", "Vocal", "Comedy", "Variety"]` | Bing Crosby shares a whimsical humorous anecdote about a listener's backyard pet giraffe before singing sunny interpretations of 'In a Little Spanish Town' with Buddy Cole. |
+| `Bing_Crosby_1960_08_23.mp3` <br>*Alt*: `Never Say Never Again`, `Bing Crosby Rosemary Clooney` | **"I'll Never Say Never Again Again (Bing Crosby & Rosemary Clooney)"** | **CBS (WCBS)**<br>1960-08-23<br>10:35 AM EDT | **Sustaining**<br>CBS Radio Music Presentation | **Bing Crosby**, **Rosemary Clooney**, **Buddy Cole Trio** | **Bill Morrow** (Producer), **Ken Carpenter** | `["Music", "Easy Listening", "Vocal", "Jazz", "Big Band"]` | Bing Crosby opens with an upbeat rendition of 'I'll Never Say Never Again Again', chatting with Ken Carpenter and performing sparkling swing duets with Rosemary Clooney. |
+| `Bing_Crosby_1961_08_23.mp3` <br>*Alt*: `My How Time Goes By`, `Crosby Clooney Show 1961` | **"My, How the Time Goes By: Bing Crosby & Rosemary Clooney"** | **CBS (WCBS)**<br>1961-08-23<br>10:35 AM EDT | **Sustaining**<br>CBS Radio Music Presentation | **Bing Crosby**, **Rosemary Clooney**, **Buddy Cole Trio** | **Bill Morrow** (Producer), **Buddy Cole** (Organ) | `["Music", "Easy Listening", "Vocal", "Jazz", "Duet"]` | Bing Crosby and Rosemary Clooney charm listeners with breezy vocal chemistry, opening with a warm interpretation of 'My, How the Time Goes By' alongside Buddy Cole's swinging jazz organ accompaniment. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 330
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

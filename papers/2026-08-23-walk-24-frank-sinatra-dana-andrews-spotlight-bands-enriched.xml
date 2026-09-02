@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 23 Calendar Walk — Frank Sinatra, Dana Andrews, and Spotlight Bands</article-title>
+      <pub-date>2026-08-23</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 23, Calendar Walk, The Frank Sinatra Program, Frank Sinatra, Axel Stordahl, Vimms Vitamins, Spotlight Bands, Bob Chester, Bobby Sherwood, Coca-Cola, AFRS, Here's to Romance, Larry Douglas, Patrice Munsel, Ray Bloch, Bourjois, Evening in Paris, I Was a Communist for the FBI, Dana Andrews, Matt Cvetic, Ziv, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 23 Exhaustive Archival Metadata Enrichment (Increment 24)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American broadcasting history (1943–1953):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 23 Archival Inventory (Increment 24)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Spotlight_Bands_1943_08_23.mp3` <br>*Alt*: `Chester Bounce`, `Fort Belvoir Spotlight` | **"Spotlight Bands #597: Bob Chester Live from Fort Belvoir (Coca-Cola)"** | **Blue Network**<br>1943-08-23<br>9:30 PM EWT | **The Coca-Cola Co.**<br>Coca-Cola | **Bob Chester and his Orchestra**, **Betty Bradley**, **Gene Howard** | **Larry Hammond** (Director), **Gil Martyn** (Announcer) | `["Music", "Big Band", "Swing", "Jazz", "War"]` | Bob Chester and his Orchestra broadcast live from the Engineer Replacement Training Center at Fort Belvoir, Virginia, performing swing favorites for thousands of servicemen, kicking off with 'The Bounce' and featuring Betty Bradley singing 'You'll Never Know'. |
+| `Spotlight_Bands_1944_08_23.mp3` <br>*Alt*: `Flying Telegraph`, `Bobby Sherwood Camp Kearns` | **"Spotlight Bands #911: Bobby Sherwood Live from Camp Kearns (Coca-Cola)"** | **Blue Network**<br>1944-08-23<br>9:30 PM EWT | **The Coca-Cola Co.**<br>Coca-Cola | **Bobby Sherwood and his Orchestra** | **Gil Martyn** (Announcer), D'Arcy Advertising | `["Music", "Big Band", "Swing", "Jazz", "War"]` | Bobby Sherwood and his Orchestra bring high-energy swing to troops stationed at the Army Air Forces Overseas Replacement Depot in Camp Kearns, Utah, spotlighting their signature showstopper 'The Elks' Parade' and hot jump tune 'The Flying Telegraph'. |
+| `AFRS_Spotlight_1944_08_23.mp3` <br>*Alt*: `Bobby Sherwood AFRS`, `Spotlight Bands 431` | **"AFRS Spotlight Bands #431: Bobby Sherwood and his Orchestra"** | **AFRS Hollywood**<br>1944-08-23<br>(AFRS Disc #431) | **Non-commercial**<br>War Dept GI Broadcast | **Bobby Sherwood and his Orchestra** | **AFRS Production**, Blue Network Masters | `["Music", "Big Band", "Swing", "Jazz", "War"]` | Armed Forces Radio Service presents the overseas GI broadcast of Bobby Sherwood and his Orchestra, playing fast-paced swing arrangements and jump blues for soldiers stationed across the European and Pacific battlefronts. |
+| `Heres_To_Romance_1945_08_23.mp3` <br>*Alt*: `Patrice Munsel Evening in Paris`, `Larry Douglas 1945` | **"Here's to Romance: Larry Douglas with Guest Patrice Munsel (Evening in Paris)"** | **CBS (WABC)**<br>1945-08-23<br>10:30 PM EWT | **Bourjois, Inc.**<br>Evening in Paris Perfume & Powder | **Larry Douglas** (Tenor), **Patrice Munsel**, **Ray Bloch and his Orchestra** | **Marx Loeb** (Director), **Frank Gallop** (Announcer) | `["Music", "Vocal", "Easy Listening", "Romance"]` | Tenor Larry Douglas and maestro Ray Bloch welcome Metropolitan Opera star soprano Patrice Munsel for a romantic musical program sponsored by Evening in Paris perfume, singing operatic duets and classic love ballads. |
+| `I_Was_A_Communist_1953_08_23.mp3` <br>*Alt*: `Red Infiltration Steel`, `Matt Cvetic Pittsburgh` | **"The Red Infiltration of Steel (Starring Dana Andrews as Matt Cvetic)"** | **Ziv Syndication**<br>1953-08-23<br>(WNBC / Syndicated) | **Local Commercials**<br>Co-op Advertisers | **Dana Andrews** (Matt Cvetic), **Ken Peters**, **Joy Terry** | **Henry Hayward** (Director), **David Rose**, **Fred Foy** | `["Spy", "Espionage", "Drama", "Cold War", "Thriller"]` | Undercover FBI operative Matt Cvetic infiltrates a Pittsburgh Communist Party cell plotting industrial sabotage at a steel manufacturing plant, risking exposure as a traitor to his family while feeding counter-espionage intelligence to federal agents. |
+| `Frank_Sinatra_1944_08_23.mp3` <br>*Alt*: `Sinatra Vimms 1944`, `Sinatra Axel Stordahl` | **"The Frank Sinatra Show with Axel Stordahl and his Orchestra (Vimms Vitamins)"** | **CBS (KNX)**<br>1944-08-23<br>9:00 PM EWT | **Lever Brothers Co.**<br>Vimms Multi-Vitamins | **Frank Sinatra**, **Eileen Barton**, **Bobby Tucker Singers**, **Axel Stordahl Orchestra** | **William N. Robson** (Director), **Harlow Wilcox** | `["Music", "Vocal", "Pop", "Variety", "Big Band"]` | Frank Sinatra thrills swooning bobby-soxers and wartime radio listeners on CBS, crooning 'Long Ago and Far Away', 'I'll Be Seeing You', and 'The Music Stopped', backed by the lush arrangements of Axel Stordahl and his Orchestra. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 144
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

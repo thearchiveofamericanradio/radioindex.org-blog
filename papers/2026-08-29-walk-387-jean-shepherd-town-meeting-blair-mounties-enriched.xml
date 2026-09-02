@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 29 Calendar Walk — Jean Shepherd, America's Town Meeting, and Blair of the Mounties</article-title>
+      <pub-date>2026-08-29</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 29, Calendar Walk, The Jean Shepherd Show, Jean Shepherd, Martin Luther King Jr, March on Washington, WOR New York, Coney Island, America's Town Meeting of the Air, George V Denny Jr, Cold War, Korean War, Blair of the Mounties, Colonel ST Wood, RCMP, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 29 Archival Metadata Enrichment (Increment 387)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 29** across American network radio and syndication, Jean Shepherd delivering his famous broadcast on Dr. Martin Luther King Jr.'s March on Washington address on WOR New York (1963–1964), George V. Denny Jr. moderating *America's Town Meeting of the Air* on the Cold War and Korean War mobilization (1946–1950), and Royal Canadian Mounted Police wilderness serial *Blair of the Mounties* (1935–1964):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 29 Archival Inventory (Increment 387)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Town_Meeting_1946.mp3` <br>*Alt*: `Are We Facing World War` | **"Are We Facing Another World War?"** | **ABC (WJZ)**<br>1946-08-29<br>8:30 PM EDT | **Sustaining**<br>Public Affairs Forum | **George V. Denny Jr.** | **Town Hall Staff** | `["Public Affairs", "Debate", "History", "Talk", "Cold War"]` | Foreign policy analysts debate escalating diplomatic tensions with the Soviet Union and postwar European reconstruction. |
+| `Town_Meeting_1950.mp3` <br>*Alt*: `What Does Korean War Mean` | **"What Does the Korean War Mean to America?"** | **ABC (WJZ)**<br>1950-08-29<br>9:00 PM EDT | **Sustaining**<br>Public Affairs Forum | **George V. Denny Jr.** | **Town Hall Staff** | `["Public Affairs", "Debate", "Korean War", "Military", "Talk"]` | Military analysts and political leaders debate American intervention in Korea, domestic wartime mobilization, and draft policies. |
+| `Blair_Mounties_1935.mp3` <br>*Alt*: `Smugglers Moose Creek 10` | **"The Smugglers of Moose Creek (Episode 10)"** | **Transcribed Synd**<br>1935-08-29 | **Sustaining**<br>Mountie Adventure | **Colonel S.T. Wood** | **RCMP Production Staff** | `["Adventure", "Western", "Mounties", "Juvenile", "Action"]` | Sergeant Blair tracks fur smugglers operating along the frozen Canadian wilderness border and ambushes their hidden cabin. |
+| `Blair_Mounties_1938.mp3` <br>*Alt*: `Lord Waverton Part 3` | **"Lord Waverton's Dilemma (Part 3)"** | **Transcribed Synd**<br>1938-08-29 | **Sustaining**<br>Mountie Adventure | **Colonel S.T. Wood** | **RCMP Production Staff** | `["Adventure", "Western", "Mounties", "Juvenile", "Serial"]` | Sergeant Blair rescues a British nobleman held hostage by timber poachers and recovers stolen estate deeds in the Yukon. |
+| `Jean_Shep_1963_MLK.mp3` <br>*Alt*: `Shep Describes MLK Speech` | **"Reflections on Martin Luther King Jr.'s March on Washington Speech"** | **WOR (New York)**<br>1963-08-29<br>11:15 PM EDT | **Village Voice / WOR**<br>Station Advertisers | **Jean Shepherd** (Host) | **Jean Shepherd (Writer)** | `["Monologue", "Humor", "Civil Rights", "Commentary", "WOR New York"]` | Jean Shepherd delivers an emotional monologue praising Dr. Martin Luther King Jr.'s March on Washington address as brilliant American oratory. |
+| `Jean_Shep_1964_Coney.mp3` <br>*Alt*: `Evading The Issue` | **"Evading the Issue and Coney Island Memories"** | **WOR (New York)**<br>1964-08-29<br>11:15 PM EDT | **Village Voice / WOR**<br>Station Advertisers | **Jean Shepherd** (Host) | **Jean Shepherd (Writer)** | `["Monologue", "Humor", "Americana", "Nostalgia", "WOR New York"]` | Jean Shepherd reminisces about summer boardwalk excursions to Coney Island and dissects political doublespeak in modern society. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 29
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 29**: 390
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

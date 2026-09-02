@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Fibber McGee and Molly &amp; Pat Novak</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, Fibber McGee and Molly, Jim Jordan, Marian Jordan, Johnsons Wax, Gale Gordon, Pat Novak For Hire, Jack Webb, Tudor Owen, Richard L Breen, Twenty Questions, Danton Walker, Bill Slater, Mutual, International Airport, Springbok Radio, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 834)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across three comedic classics on *Fibber McGee and Molly* starring Jim and Marian Jordan (1939 for Johnson's Wax; 1954, 1955), hardboiled waterfront noir on *Pat Novak, For Hire* starring Jack Webb (1946), mystery parlor game guessing on *Twenty Questions* featuring Broadway columnist Danton Walker (1953), and aviation emergency drama on *International Airport* (1951), Jim & Marian Jordan (1939, 1954, 1955), Jack Webb (1946), and Danton Walker (1953):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 834)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `FibberMcGee_1939_FishFry.mp3` <br>*Alt*: `McGee's Fish Fry Fibber McGee And Molly` | **"McGee's Fish Fry with Jim and Marian Jordan"** | **NBC Red (WEAF)**<br>1939-09-05<br>9:30 PM EDST | **S.C. Johnson & Son**<br>Johnson's Wax & Glo-Coat | **Jim & Marian Jordan** | **Don Quinn (Writer)** | `["Comedy", "Sitcom", "Fibber McGee and Molly", "Jim Jordan", "Johnsons Wax"]` | Fibber boasts of catching trophy bass at Dugan's Lake and hosts an elaborate neighborhood fish fry that goes comically awry. |
+| `FibberMcGee_1954_TwinRock.mp3` <br>*Alt*: `McGees' Twin Rock Falls Trip Fibber McGee And Molly` | **"Twin Rock Falls Vacation Trip with Jim and Marian Jordan"** | **NBC (WNBC)**<br>1954-09-05 | **Sustaining**<br>Wistful Vista Comedy | **Jim & Marian Jordan** | **Phil Leslie (Writer)** | `["Comedy", "Sitcom", "Fibber McGee and Molly", "Jim Jordan", "Marian Jordan"]` | Fibber attempts to pack the car trunk for a weekend camping trip to Twin Rock Falls and wreaks havoc in the hallway closet. |
+| `FibberMcGee_1955_LawnChairs.mp3` <br>*Alt*: `Fibber McGee And Molly 1955 Episode` | **"McGee's Painted Lawn Chairs with Jim and Marian Jordan"** | **NBC (WNBC)**<br>1955-09-05 | **Sustaining**<br>Wistful Vista Comedy | **Jim & Marian Jordan** | **Gale Gordon (LaTrivia)** | `["Comedy", "Sitcom", "Fibber McGee and Molly", "Jim Jordan", "Marian Jordan"]` | Fibber paints the backyard lawn furniture with quick-drying enamel and inadvertently traps Mayor LaTrivia in wet turquoise paint. |
+| `PatNovak_1946_JohnStJohn.mp3` <br>*Alt*: `John St. John Pat Novak, For Hire` | **"John St. John with Jack Webb"** | **ABC West Coast**<br>1946-09-05 | **Sustaining**<br>Hardboiled Noir | **Jack Webb & Tudor Owen** | **Richard L. Breen (Writer)** | `["Detective", "Noir", "Pat Novak For Hire", "Jack Webb", "Richard L Breen"]` | Waterfront fix-it man Pat Novak is hired to deliver an envelope to a gambler named John St. John and discovers a corpse instead. |
+| `TwentyQuestions_1953_DantonWalker.mp3` <br>*Alt*: `Danton Walker Twenty Questions` | **"Guest Danton Walker with Bill Slater"** | **Mutual (WOR)**<br>1953-09-05<br>8:00 PM EDT | **Sustaining**<br>Parlor Game Quiz | **Bill Slater & Walker** | **Mutual Quiz Staff** | `["Panel", "Quiz", "Twenty Questions", "Danton Walker", "Mutual"]` | Guest panelist Danton Walker joins the mystery quiz team to identify animate and inanimate objects within twenty clues. |
+| `Airport_1951_NoTimeLove.mp3` <br>*Alt*: `No Time For Love International Airport` | **"No Time for Love with Springbok Radio"** | **Springbok Radio**<br>1951-09-05 | **Sustaining**<br>Aviation Drama | **SABC Dramatic Troupe** | **SABC Drama Department** | `["Drama", "Anthology", "International Airport", "Aviation", "Springbok"]` | Airport ground control officers coordinate emergency landing logistics for an inbound commercial airliner experiencing hydraulic pressure loss. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 318 / 401 (83 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

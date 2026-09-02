@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 1 Calendar Walk — Johnny Dollar, Hollywood Bowl Jubilee, and Dr. Pepper</article-title>
+      <pub-date>2026-09-01</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 1, Calendar Walk, Yours Truly Johnny Dollar, John Lund, Virginia Gregg, Parley Baer, Howard McNear, Hollywood Bowl Silver Jubilee, Dorothy Eustis, Leopold Stokowski, AFRS, 10-2-4 Time, The Tune Wranglers, Dr Pepper, Disaster!, American Red Cross, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 1 Archival Metadata Enrichment (Increment 562)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across hard-boiled insurance investigations, classical symphony concert jubilees from the Hollywood Bowl, upbeat western swing shows for Dr. Pepper, and humanitarian relief docudramas, John Lund as Johnny Dollar (1953), Dorothy Eustis at the Hollywood Bowl (1946), *10-2-4 Time* (1943, 1944), and *Disaster!* for the American Red Cross (1943–1957):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 1 Archival Inventory (Increment 562)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Johnny_Dollar_1953_StanleyPrice.mp3` <br>*Alt*: `The Stanley Price Matter Johnny Dollar` | **"The Stanley Price Matter with John Lund and CBS"** | **CBS (KNX)**<br>1953-09-01<br>9:00 PM EDT | **Sustaining**<br>Insurance Mystery | **John Lund (Dollar)**, **Gregg** | **John Dawson (Writer)** | `["Detective", "Mystery", "Johnny Dollar", "John Lund", "CBS"]` | Johnny Dollar investigates a suspicious boating fatality off the California coast where a heavily insured yacht owner vanished in calm waters. |
+| `Bowl_1946_Algeri1.mp3` <br>*Alt*: `AFRS 032 - 1st Selection - Litaliana in Algeri - Part 1` | **"Rossini's L'Italiana in Algeri (Part 1) with Dorothy Eustis and AFRS"** | **AFRS (Series 32)**<br>1946-09-01 | **Armed Forces Radio**<br>Classical Jubilee | **Dorothy Eustis (Piano)** | **Hollywood Bowl Symphony** | `["Classical", "Concert", "Symphony", "Hollywood Bowl", "AFRS"]` | Pianist Dorothy Eustis performs classical concert repertoire under the stars at the Hollywood Bowl alongside the symphony orchestra. |
+| `Bowl_1946_Algeri2.mp3` <br>*Alt*: `AFRS 032 - 1st Selection - Litaliana in Algeri - Part 2` | **"Rossini's L'Italiana in Algeri (Part 2) with Dorothy Eustis and AFRS"** | **AFRS (Series 32)**<br>1946-09-01 | **Armed Forces Radio**<br>Classical Jubilee | **Dorothy Eustis (Piano)** | **Hollywood Bowl Symphony** | `["Classical", "Concert", "Symphony", "Hollywood Bowl", "AFRS"]` | The Hollywood Bowl symphony concludes its Silver Jubilee concert program featuring romantic piano concerto movements. |
+| `Pepper_1943_Southern.mp3` <br>*Alt*: `10-2-4 Time 1943 Episode` | **"Southern Melodies with The Tune Wranglers and Dr Pepper"** | **Syndication**<br>1943-09-01 | **Dr. Pepper Co.**<br>10-2-4 Refreshment | **The Tune Wranglers** | **Martha Mears (Vocals)** | `["Country", "Western Swing", "Music", "10-2-4 Time", "Dr Pepper"]` | The Tune Wranglers perform Texas swing and down-home country harmonies to promote Dr. Pepper's refreshing midday boost. |
+| `Pepper_1944_Rio.mp3` <br>*Alt*: `First Song - Rio de Janeiro 10-2-4 Time` | **"Rio de Janeiro with The Tune Wranglers and Dr Pepper"** | **Syndication**<br>1944-09-01 | **Dr. Pepper Co.**<br>10-2-4 Refreshment | **The Tune Wranglers** | **Southern Radio Unit** | `["Country", "Western Swing", "Music", "10-2-4 Time", "Dr Pepper"]` | Western swing rhythms meet Latin-American dance tunes as the ensemble performs Rio de Janeiro for southern listeners. |
+| `Disaster_1957_RedCross.mp3` <br>*Alt*: `Labor and the Red Cross Disaster!` | **"Labor and the Red Cross with American Red Cross"** | **Syndication**<br>1957-09-01 | **American Red Cross**<br>Humanitarian Aid | **Dramatic Voice Cast** | **Red Cross Radio Unit** | `["Documentary", "History", "Disaster", "Red Cross", "Syndicated"]` | A documentary dramatization chronicles trade union volunteers partnering with Red Cross relief workers during Midwest flood emergencies. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 294 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

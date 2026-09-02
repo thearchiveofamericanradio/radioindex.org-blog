@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 31 Calendar Walk — Johnny Dollar, Lassie, and Sons of the Pioneers</article-title>
+      <pub-date>2026-08-31</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 31, Calendar Walk, Yours Truly Johnny Dollar, Bob Bailey, Edmond OBrien, Jack Johnstone, Serial Story, Lassie, Marvin Miller, Red Heart, 10-2-4 Time, Sons of the Pioneers, Dr Pepper, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 31 Archival Metadata Enrichment (Increment 497)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata, and pure narrative synopses for broadcasts transmitting on **August 31** across hardboiled insurance investigations, serialized multi-part crime arcs, canine rescue adventures, and Western harmony transcriptions, Edmond O'Brien and Bob Bailey across four broadcasts of *Yours Truly, Johnny Dollar* (1950, 1956, 1958), Marvin Miller narrating *The Lassie Show* for Red Heart Dog Food (1947), and *The Sons of the Pioneers* on *10-2-4 Time* for Dr. Pepper (1942–1958):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 31 Archival Inventory (Increment 497)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lassie_1947_Timberline.mp3` <br>*Alt*: `Lassie 1947 Episode` | **"The Lost Boy at Timberline with Marvin Miller"** | **ABC Network**<br>1947-08-31<br>3:00 PM EDT | **John Morrell & Co.**<br>Red Heart Dog Food | **Pal (Lassie)**, **Miller** | **Frank Ferrin (Director)** | `["Drama", "Juvenile", "Adventure", "Lassie", "Red Heart"]` | Lassie guides mountain rescue scouts along treacherous rocky switchbacks to find an injured boy trapped on a mountain ledge. |
+| `Pioneers_1942_DrPepper.mp3` <br>*Alt*: `10-2-4 Time 1942 Episode` | **"Dr. Pepper Country Swing with The Sons of the Pioneers"** | **Syndicated Trans.**<br>1942-08-31 | **Dr. Pepper Co.**<br>10-2-4 Energy Drink | **Sons of the Pioneers** | **Bob Nolan (Lead)** | `["Country", "Western", "Music", "Sons of the Pioneers", "Dr Pepper"]` | The Sons of the Pioneers perform Western harmonies, yodeling solos, and cowboy ballads for Dr. Pepper bottling distributors. |
+| `Dollar_1950_VirginiaBeach.mp3` <br>*Alt*: `The Virginia Beach Matter Dollar` | **"The Virginia Beach Matter with Edmond O'Brien"** | **CBS (WCBS)**<br>1950-08-31<br>8:30 PM EDT | **Sustaining**<br>Insurance Mystery | **Edmond O'Brien**, **Gregg** | **E. Jack Neuman (Writer)** | `["Detective", "Mystery", "Hardboiled", "Johnny Dollar", "Edmond O'Brien"]` | Johnny Dollar investigates a suspicious boating drowning off Virginia Beach and discovers a high-stakes life insurance substitution conspiracy. |
+| `Dollar_1956_Kranesburg5.mp3` <br>*Alt*: `The Kranesburg Matter Episode 6` | **"The Kranesburg Matter (Part 5) with Bob Bailey"** | **CBS (WCBS)**<br>1956-08-31<br>8:05 PM EDT | **Sustaining**<br>Serial Mystery | **Bob Bailey**, **Gregg** | **Jack Johnstone (Director)** | `["Detective", "Mystery", "Hardboiled", "Johnny Dollar", "Bob Bailey"]`<br>*Arc*: **The Kranesburg Matter (Part 5 of 6)** | Johnny Dollar corners an elusive smuggler in a waterfront warehouse, uncovering counterfeit bonds and fraudulent transport manifests. |
+| `Dollar_1956_Kranesburg6.mp3` <br>*Alt*: `The Kranesburg Matter Ep 5 (6th of 6)` | **"The Kranesburg Matter (Part 6) with Bob Bailey"** | **CBS (WCBS)**<br>1956-08-31<br>8:20 PM EDT | **Sustaining**<br>Serial Mystery | **Bob Bailey**, **Dobkin** | **Jack Johnstone (Director)** | `["Detective", "Mystery", "Hardboiled", "Johnny Dollar", "Bob Bailey"]`<br>*Arc*: **The Kranesburg Matter (Part 6 of 6)** | Johnny Dollar unmasks the criminal mastermind behind the Kranesburg ring and recovers the insured diamonds before closing his expense account. |
+| `Dollar_1958_LimpingLiability.mp3` <br>*Alt*: `The Limping Liability Matter` | **"The Limping Liability Matter with Bob Bailey"** | **CBS (WCBS)**<br>1958-08-31<br>6:05 PM EDT | **Sustaining**<br>Insurance Mystery | **Bob Bailey**, **Thorson** | **Jack Johnstone (Director)** | `["Detective", "Mystery", "Hardboiled", "Johnny Dollar", "Bob Bailey"]` | Johnny Dollar travels upstate to verify an industrial accident injury claim and exposes an elaborate staged-disability racket. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 282 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

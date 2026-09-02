@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 27 Calendar Walk — Boston Blackie, Bell Telephone Hour, and CBSRMT</article-title>
+      <pub-date>2026-08-27</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 27, Calendar Walk, Stand By for Adventure, Charles Irving, Safari, Treasury Salute, War Bonds, Boston Blackie, Richard Kollmar, Lesley Woods, Maurice Tarplin, Bell Telephone Hour, Marjorie Lawrence, Donald Voorhees, Pepper Youngs Family, Elaine Carrington, Mason Adams, Camay Soap, CBS Radio Mystery Theater, EG Marshall, Robert Louis Stevenson, Bottle Imp, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 27 Archival Metadata Enrichment (Increment 239)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio and syndication, African safari adventure on *Stand By for Adventure*, veteran rehabilitation on *Treasury Salute*, Richard Kollmar in *Boston Blackie*, dramatic soprano Marjorie Lawrence on *The Bell Telephone Hour*, Elaine Carrington's *Pepper Young's Family* for Camay Soap, and E.G. Marshall hosting Robert Louis Stevenson's supernatural classic *The Bottle Imp* on *CBS Radio Mystery Theater* (1945–1998):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 27 Archival Inventory (Increment 239)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Adventure_1946.mp3` <br>*Alt*: `The Hunter And The Beast`, `Safari` | **"The Hunter and the Beast"** | **Syndicated Elec**<br>1946-08-27 | **Sustaining**<br>Adventure Showcase | **Charles Irving** (Host) | **Syndicated Dramatic Cast** | `["Adventure", "Jungle", "Action", "Safari", "Anthology"]` | Four worldly globe-trotters swap tales at their club, recounting a treacherous big-game safari in the African bush where the hunter becomes the hunted. |
+| `Treasury_1945.mp3` <br>*Alt*: `The Return Of Danny O'Brien`, `1945` | **"The Return of Danny O'Brien"** | **Treasury Synd**<br>1945-08-27 | **US Treasury Dept.**<br>War & Victory Bonds | **Treasury Dramatic Cast** | **Mark Warnow Orchestra** | `["Docudrama", "Military", "Wartime", "Historical", "Anthology"]` | A returning disabled combat veteran finds purpose and renewed community respect helping his hometown launch their Victory Bond campaign. |
+| `Boston_Blackie_1945.mp3` <br>*Alt*: `Disappearing Diamond Necklace` | **"The Disappearing Diamond Necklace"** | **Mutual (WOR)**<br>1945-08-27<br>8:00 PM EWT | **Commercial**<br>Mystery Sponsors | **Richard Kollmar** (Blackie), **Lesley Woods** | **Maurice Tarplin** (Faraday) | `["Detective", "Hardboiled", "Mystery", "Crime", "Action"]` | Boston Blackie is framed for the theft of an insured million-dollar gemstone and races across Manhattan to unmask the true jewel thieves. |
+| `Bell_Telephone_1945.mp3` <br>*Alt*: `Guest - Marjorie Lawrence`, `1945` | **"Guest Marjorie Lawrence"** | **NBC (WEAF)**<br>1945-08-27<br>9:00 PM EWT | **Bell System**<br>Telephone Service | **Marjorie Lawrence**, **Donald Voorhees** | **Bell Telephone Orchestra** | `["Music", "Classical", "Opera", "Orchestral", "Vocal"]` | Renowned dramatic soprano Marjorie Lawrence performs stirring operatic arias and traditional folk ballads backed by Donald Voorhees and the 57-piece orchestra. |
+| `Pepper_Young_1948.mp3` <br>*Alt*: `Fun On The Telephone`, `Camay` | **"Fun on the Telephone"** | **NBC (WNBC)**<br>1948-08-27<br>3:30 PM EDT | **Procter & Gamble**<br>Camay Soap | **Mason Adams** (Pepper), **Marion Barney** | **Elaine Carrington** (Writer) | `["Soap Opera", "Drama", "Domestic", "Family", "Serial"]` | Pepper Young gets tangled in a comical series of crossed telephone wires while attempting to arrange a secret double date. |
+| `CBSRMT_1998.mp3` <br>*Alt*: `The Imp In The Bottle`, `Stevenson` | **"The Bottle Imp (The Imp in the Bottle)"** | **CBS Syndicated**<br>1998-08-27 | **Sustaining**<br>Mystery Theater | **E.G. Marshall**, **Norman Rose**, **Marian Seldes** | **Robert Louis Stevenson**, **Ian Martin** | `["Mystery", "Supernatural", "Classic Literature", "Horror", "Anthology"]` | A poor Hawaiian sailor purchases an enchanted bottle containing a wish-granting demon, only to discover the terrifying spiritual curse attached to selling it. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 347
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

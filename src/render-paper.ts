@@ -12,7 +12,8 @@ function scholarTags(post: BlogPost, canonical: string): string {
   const day = String(Number(post.date.slice(8, 10)));
   return [
     `<meta name="citation_title" content="${attr(post.title)}">`,
-    `<meta name="citation_author" content="The Archive of American Radio">`,
+    `<meta name="citation_author" content="Vincent, Mike">`,
+    `<meta name="citation_author_institution" content="The Archive of American Radio">`,
     `<meta name="citation_publication_date" content="${year}/${month}/${day}">`,
     `<meta name="citation_technical_report_institution" content="The Archive of American Radio">`,
     `<meta name="citation_technical_report_number" content="${attr(reportNumber(post))}">`,
@@ -54,7 +55,7 @@ export function renderPaper(post: BlogPost, meta: SiteMeta): string {
   });
 
   const citation =
-    `"${post.title}." ${tr}. The Archive of American Radio, ${pretty}. ${canonical}.`;
+    `Vincent, Mike. "${post.title}." ${tr}. The Archive of American Radio, ${pretty}. ${canonical}.`;
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -77,7 +78,8 @@ export function renderPaper(post: BlogPost, meta: SiteMeta): string {
     <header class="paper-head">
       <p class="paper-series">${tr} &middot; Technical Report</p>
       <h1 class="paper-title">${esc(post.title)}</h1>
-      <p class="paper-author">The Archive of American Radio</p>
+      <p class="paper-author">Mike Vincent</p>
+      <p class="paper-affil">The Archive of American Radio</p>
       <p class="paper-date">${pretty}</p>
     </header>
 
