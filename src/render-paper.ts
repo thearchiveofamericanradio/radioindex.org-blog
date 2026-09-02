@@ -68,6 +68,13 @@ export function renderPaper(post: BlogPost, meta: SiteMeta): string {
       <p class="paper-date">${pretty}</p>
     </header>
 
+    <aside class="paper-status" role="note">
+      Stuff hasn't been dated on many sites for decades. This doesn't exist in books — we
+      have periodicals and newspaper highlights and newspaper listings. Those listings are
+      held against each broadcast record at
+      <a href="https://radioindex.org">radioindex.org</a>.
+    </aside>
+
     <section class="paper-abstract">
       <h2>Abstract</h2>
       <p>${esc(post.excerpt)}</p>
