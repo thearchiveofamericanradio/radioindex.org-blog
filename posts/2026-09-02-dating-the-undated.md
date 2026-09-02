@@ -485,7 +485,23 @@ a trading collection into a collection scholars can cite.
 
 ## Notes
 
-1. <span id= 5 ></span> 19  *Radio News*; and  20  (two records), *Winston Churchill Speeches and Radio Broadcasts*. Radio Index, retrieved 1 September 2026. The first two carry the date Monday, 6 September 1943 and six page images each; the third carries neither date nor image. <a href= 5 ><a href= 6 ></span>On the copyright of the recordings themselves: United States law, at 17 U.S.C. section 1401, brought sound recordings made before 1972 under federal copyright. Recordings first published between 1926 and 1946 are protected for 100 years, and those from 1947 to 1956 for 110 years. Unpublished recordings made before 1972 are protected until 15 February 2067. There is no general rule that material from before 1972 is free of copyright. <a href="#r16 38 n17 39 #r17">&#8617;</a>
+1. <span id="n1"></span>Association for Recorded Sound Collections, *Guidelines for Discographies*. <a href="#r1">&#8617;</a>
+2. <span id="n2"></span>John Dunning, *On the Air: The Encyclopedia of Old-Time Radio* (Oxford University Press, 1998). <a href="#r2">&#8617;</a>
+3. <span id="n3"></span>Jon D. Swartz and Robert C. Reinehr, *Handbook of Old-Time Radio: A Comprehensive Guide to Golden Age Radio Listening and Collecting* (Scarecrow Press, 1993). <a href="#r3">&#8617;</a>
+4. <span id="n4"></span>Counted from the published sitemap of radioindex.org, 1 September 2026: 259,915 episode addresses across 123 sitemap files, and 6,114 series addresses. One file (episodes-96.xml) returns a valid but empty list; it is counted among the files and excluded from the record count. <a href="#r4">&#8617;</a>
+5. <span id="n5"></span>Random sample of sixty cataloged broadcasts drawn from the 40,727 item names carrying a date between 1930 and 1959; retrieved 1 September 2026. Fifty-nine carried one or more page images. <a href="#r5">&#8617;</a>
+6. <span id="n6"></span>Random samples of forty records from all 44,566 date-carrying item names, and sixty from the 1930 to 1959 group; retrieved 1 September 2026. A disagreement means the date in the item name differs from the broadcast date the catalog record states. <a href="#r6">&#8617;</a>
+7. <span id="n7"></span>Random sample of 150 records from the whole catalog; retrieved 1 September 2026. <a href="#r7">&#8617;</a>
+8. <span id="n8"></span>"Winston Churchill on Anglo-American Unity," *Radio News*; and "Anglo-American Unity" (two records), *Winston Churchill Speeches and Radio Broadcasts*. Radio Index, retrieved 1 September 2026. The first two carry the date Monday, 6 September 1943 and six page images each; the third carries neither date nor image. <a href="#r8">&#8617;</a>
+9. <span id="n9"></span>"Alvar Liddell Reports the German Invasion of Poland." *WWII News*. Radio broadcast, 1 September 1939. Radio Index. https://www.radioindex.org/series/wwii-news/episodes/alvar-liddell-reports-the-german-invasion-of-poland. <a href="#r9">&#8617;</a>
+10. <span id="n10"></span>Radio logs, *Chicago Daily Tribune*, *New York Times*, *Los Angeles Times*, and *Washington Post*, all Friday, 1 September 1939; and *Broadcasting*, 1 September 1939.<sup id="r17"><a href="#n17">17</a></sup> <a href="#r10">&#8617;</a>
+11. <span id="n11"></span>"Ignacy Jan Paderewski on the Nazi Invasion Looming over Poland." *WWII News*. Radio broadcast, 1 September 1939. Radio Index. https://www.radioindex.org/series/wwii-news/episodes/ignacy-jan-paderewski-on-the-nazi-invasion-looming-over-poland. <a href="#r11">&#8617;</a>
+12. <span id="n12"></span>"Chancellor Franz von Papen." *WWII News*. Radio broadcast, 13 August 1932. Radio Index. Supporting listings: *New York Times* and *Washington Post* radio logs, Saturday, 13 August 1932. <a href="#r12">&#8617;</a>
+13. <span id="n13"></span>"They Did Not Receive Him." *Greatest Story Ever Told*. Radio broadcast, 29 February 1948. Radio Index. https://www.radioindex.org/series/greatest-story-ever-told/episodes/they-did-not-receive-him. The item name keeps the wrong inherited date 1955-02-13. <a href="#r13">&#8617;</a>
+14. <span id="n14"></span>Radio logs, *New York Times*, *Washington Post*, *Los Angeles Times*, and *Chicago Daily Tribune*; "Radio Highlights," *Chicago Daily Tribune*; and *Broadcasting* — all Sunday, 29 February 1948. <a href="#r14">&#8617;</a>
+15. <span id="n15"></span>Sample of fourteen cataloged broadcasts from *WWII News*, retrieved 1 September 2026; page-image counts taken from each record's newspaper and periodical sections. <a href="#r15">&#8617;</a>
+16. <span id="n16"></span>On the copyright of the recordings themselves: United States law, at 17 U.S.C. section 1401, brought sound recordings made before 1972 under federal copyright. Recordings first published between 1926 and 1946 are protected for 100 years, and those from 1947 to 1956 for 110 years. Unpublished recordings made before 1972 are protected until 15 February 2067. There is no general rule that material from before 1972 is free of copyright. <a href="#r16">&#8617;</a>
+17. <span id="n17"></span>Following the Chicago Manual of Style, 18th edition, page numbers are left out of newspaper citations throughout this paper. A newspaper may print several editions in one day, and items move or disappear between them. The newspaper, the city, the date, and the kind of listing identify the item; the page number does not do so reliably. <a href="#r17">&#8617;</a>
 
 ---
 
@@ -496,27 +512,27 @@ in a bibliography. The Archive of American Radio holds these recordings. Each is
 permanent web address. The dates given are the broadcast dates established by the method in
 section 4, with the strength mark in parentheses.
 
- 40  *WWII News*. Radio broadcast, 1
+"Alvar Liddell Reports the German Invasion of Poland." *WWII News*. Radio broadcast, 1
 September 1939 (Mark A). Radio Index.
 https://www.radioindex.org/series/wwii-news/episodes/alvar-liddell-reports-the-german-invasion-of-poland.
 
- 41  *Winston Churchill Speeches and Radio Broadcasts*. Radio broadcast, 6
+"Anglo-American Unity." *Winston Churchill Speeches and Radio Broadcasts*. Radio broadcast, 6
 September 1943 (Mark A); and a second record of the same broadcast carrying neither a date
 nor a supporting listing (Mark E). Radio Index.
 
- 42  *WWII News*. Radio broadcast, 13 August 1932 (Mark A). Radio
+"Chancellor Franz von Papen." *WWII News*. Radio broadcast, 13 August 1932 (Mark A). Radio
 Index.
 
- 43  *WWII News*. Radio
+"Ignacy Jan Paderewski on the Nazi Invasion Looming over Poland." *WWII News*. Radio
 broadcast, 1 September 1939 (Mark A). Radio Index.
 https://www.radioindex.org/series/wwii-news/episodes/ignacy-jan-paderewski-on-the-nazi-invasion-looming-over-poland.
 
- 44  *Greatest Story Ever Told*. Radio broadcast, 29 February 1948
+"They Did Not Receive Him." *Greatest Story Ever Told*. Radio broadcast, 29 February 1948
 (Mark A). Radio Index.
 https://www.radioindex.org/series/greatest-story-ever-told/episodes/they-did-not-receive-him.
 Circulates under the wrong inherited date 13 February 1955; see section 5.4.
 
- 45  *Radio News*. Radio broadcast, 6 September 1943
+"Winston Churchill on Anglo-American Unity." *Radio News*. Radio broadcast, 6 September 1943
 (Mark A). Radio Index.
 
 The twenty *WWII News* records examined for section 6 appear with their supporting sources in
@@ -539,7 +555,8 @@ of the bibliography.
 
 ## Sources for the discography
 
-This section states the sources the method rests on. This section also states what each source covers, and where the coverage fails, so a reader can follow the steps in section 4.
+This section states the sources the method rests on, what each one covers, and where the
+coverage fails, so that a reader can follow the same steps described in section 4.
 
 **Newspaper radio logs.** Four large daily newspapers carry this method: the *New York Times*
 (New York), the *Washington Post* (Washington), the *Chicago Daily Tribune* (Chicago), and the
@@ -554,19 +571,19 @@ were produced separately.
 Coverage is not even. Within the archive's holdings, the number of listings available for a
 broadcast rises across the 1930s, from an average of 3.0 in 1932 to 7.8 in 1939 in the sample
 studied (section 6). For the years 1930 to 1959, 98 percent of the cataloged broadcasts
-sampled carry at least one page image. Across the whole collection the number is 68.7
+sampled carry at least one page image. Across the whole collection the figure is 68.7
 percent. Almost all of that difference comes from records with no date, of which only two in
 forty-two carry any page image at all.
 
 **Where the newspaper images came from.** The catalog presents each newspaper listing as a
 page image, labeled with the newspaper, the city, the date, and the kind of listing. It does
 not record where the scan came from. The published version of this paper should name that
-source. It should say if each run was read in a library newspaper database, on
+source. It should say whether each run was read in a library newspaper database, on
 microfilm, or in a scan collection made by someone else. It should also say what is known
 about how complete that source is. Where the source is a private collection rather than a
-library, the paper should say so clearly. It should give what is known about the
+library, the paper should say so plainly. It should give what is known about the
 collection's history and about any rights it claims. A reader cannot follow steps whose
-starting point is not named, and recording it is the single most useful addition this system
+starting point is unnamed, and recording it is the single most useful addition this apparatus
 still needs.
 
 **Trade magazines.** *Broadcasting*, the industry weekly, is read through WorldRadioHistory,
@@ -574,8 +591,8 @@ which the catalog names and cites as the source of the scan. Trade coverage is w
 than daily. It is used for schedule changes, advertiser assignments, network line-ups, and
 special events — that is, for separating one broadcast from another inside a run when the
 daily logs give only a program name. In the sample studied, *Broadcasting* appears for the
-better documented broadcasts and is missing for the less ones. It adds to the daily logs.
-It does not stand in for them.
+better documented broadcasts and is missing for the thinner ones. It adds to the daily logs.
+It does not replace them.
 
 **Evidence inside the recordings.** The recordings are the archive's own holdings. Each has a
 permanent web address in the form `/series/{program}/episodes/{item}`, and each carries a
@@ -583,11 +600,11 @@ formal citation. Where this paper cites evidence inside a recording, it means so
 be heard in the archive's copy.
 
 **Where coverage fails.** Three failures are known, and any reader following this work should
-expect them. Radio logs record the schedule and not the broadcast, so a program that was
-pulled breaks the link. That happens most often during news events, and news events are when
-this collection is richest. Logs went to press before the broadcast day began. And they are
-printed in dense, small kind that computers read badly, so mistakes in the evidence pass
-with no sign into the catalog. Adding more newspapers does not fix any of these, because all four
+expect them. Radio logs record the schedule and not the broadcast, so a replaced program
+breaks the match — and that happens most often during news events, which is when this
+collection is richest. Logs went to press before the broadcast day began. And they are
+printed in dense, small type that computers read badly, so mistakes in the evidence pass
+silently into the catalog. Adding more newspapers does not fix any of these, because all four
 newspapers share them.
 
 ---
@@ -595,7 +612,7 @@ newspapers share them.
 ## Appendix: Dated log
 
 The log below covers the *WWII News* recordings examined for this paper, in order of
-broadcast date. It follows the usual form for a discography: the date, the name, the length
+broadcast date. It follows the usual form for a discography: the date, the title, the running
 time, the number of separate supporting listings, those listings by short name, and the
 strength mark from section 4.
 
@@ -630,6 +647,6 @@ because they were produced separately.
 Every record in this log carries Mark A. Each is supported by two or more separately produced
 listings from the time. That sameness is a feature of the program sampled, not of the whole
 collection. *WWII News* is international news, the kind of program most reliably printed in
-every city's radio log. A log taken from local daytime drama would show a very different
+every city's radio log. A log drawn from local daytime drama would show a very different
 spread of marks, and section 6 should be read with that in mind.
 

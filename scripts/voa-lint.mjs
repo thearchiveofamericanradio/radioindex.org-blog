@@ -128,7 +128,21 @@ function known(word) {
   return false;
 }
 
-const text = prose(readFileSync(file, "utf8"));
+const source = readFileSync(file, "utf8");
+
+// A rewrite pass that swaps text through placeholders can leave the placeholders
+// behind. Twenty-six NUL bytes once reached the published page and destroyed a
+// notes section, and nothing reported it because the prose still measured well.
+const control = [...source].filter((ch) => {
+  const code = ch.charCodeAt(0);
+  return code < 9 || (code > 13 && code < 32);
+}).length;
+if (control) {
+  console.error(`FAIL control bytes: ${control} in the file. A rewrite left placeholders behind.`);
+  process.exit(1);
+}
+
+const text = prose(source);
 
 // Proper nouns are names, not vocabulary. Only a capital inside a sentence counts,
 // so a word that merely starts a sentence is still checked.
