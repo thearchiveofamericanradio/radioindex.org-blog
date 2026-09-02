@@ -54,6 +54,18 @@ function prose(raw) {
   t = t.replace(/`[^`]*`/g, " ");
   t = t.replace(/^\|.*$/gm, " ");
   t = t.replace(/^\d+\.\s+<span id="n\d+">[\s\S]*?$/gm, " ");
+  // Reference sections are citation data, not the author's prose. Their contents
+  // are titles and publisher names, which no reading vocabulary governs.
+  t = t.replace(/^##\s+(Discography|Bibliography|Notes)\s*$[\s\S]*?(?=^##\s|\Z)/gm, " ");
+  // A verbatim quotation is someone else's words. Rewriting it to fit a word list
+  // would falsify the source, so it is measured out rather than reported.
+  // Bounded on purpose: an unbalanced quote mark elsewhere in the file would let a
+  // greedy span swallow whole sections, which silently hides real faults.
+  // A quotation may wrap across lines, so newlines are allowed inside it, but a
+  // blank line ends it: without that bound an unbalanced quote mark elsewhere lets
+  // the span swallow whole sections and silently hide real faults.
+  t = t.replace(/"(?:(?!\n\n)[^"]){20,400}"/g, " ");
+  t = t.replace(/“(?:(?!\n\n)[^”]){20,400}”/g, " ");
   t = t.replace(/<[^>]+>/g, " ");
   t = t.replace(/https?:\/\/\S+/g, " ");
   t = t.replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1");
@@ -116,8 +128,19 @@ const text = prose(readFileSync(file, "utf8"));
 
 // Proper nouns are names, not vocabulary. Only a capital inside a sentence counts,
 // so a word that merely starts a sentence is still checked.
+// A lookbehind for "not after a full stop" misses a name that opens a sentence.
+// Counting instead: a word written with a capital more often than without is a
+// name, whatever position it happens to sit in.
+const upper = new Map();
+const lower = new Map();
+for (const m of text.matchAll(/\b([A-Za-z][A-Za-z']+)\b/g)) {
+  const w = m[1];
+  const key = w.toLowerCase();
+  const bin = /^[A-Z]/.test(w) ? upper : lower;
+  bin.set(key, (bin.get(key) ?? 0) + 1);
+}
 const proper = new Set();
-for (const m of text.matchAll(/(?<![.!?]\s|^)\b([A-Z][a-zA-Z']+)/gm)) proper.add(m[1].toLowerCase());
+for (const [w, n] of upper) if (n > (lower.get(w) ?? 0)) proper.add(w);
 
 /** Second tier: the academic list, tested through the same morphology. */
 function academic(word) {
