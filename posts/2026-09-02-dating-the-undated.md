@@ -230,81 +230,54 @@ schedule. So evidence inside a recording decides the question when a radio log a
 recording do not agree. Evidence inside a recording is also the kind most easily mixed up by
 a later repeat, a later copy, or an Armed Forces Radio Service reissue of the same program.
 
-## 4. The procedure, and the strength of evidence
+## 4. The method
 
-The procedure below is written so a reader can follow the same steps. The procedure begins
-with a recording and whatever information arrived with the recording. The procedure ends with
-a date, a mark showing how strong the evidence is, and the citations that support both.
+The whole method is one sentence. Ignore the date on the file, work out roughly which week
+the recording is from, look that week up in the newspaper radio listings, and count how many
+of the four newspapers list it. The count is how sure you get to be.
 
-**Step 1 — Put the date that came with the recording to the side.** Write down the date that
-arrived with the item. Note where the date came from: the file name, an index from the source
-collection, or an earlier catalog. Mark the date as never tested. Do not use the date as
-evidence at any later step. Catalogers leave out Step 1 more than any other step, and leaving
-out Step 1 is what turns a chosen date into a seeming fact. A cataloger who starts from the
-passed-along date will find support for the passed-along date, because the search has become
-a search for support.
+The rest of this section is why each step is there.
 
-**Step 2 — Identify the program and the program's usual time.** Find the program, and from
-published schedules across the program's run, find the usual day and hour. A usual day and hour cuts down the possible dates. A usual day and hour never proves a date alone. Section 5.4
-shows two possible dates, seven years away from each other, and both possible dates fit the program's
-usual time.
+**Ignore the date on the file.** The date on a file name was put there by someone you cannot
+ask. Start from that date and the work quietly changes shape: instead of asking what night
+the show went out, you start looking for a reason to keep the date you were handed. And you
+will find one, because a plausible date usually has a plausible story around it. So write the
+date down, mark where it came from, and set it aside. Do not use it again until the end.
 
-**Step 3 — Get possible dates from the recording.** Listen for content that can be dated:
-words about the news, advertising campaigns, the announcer's name, network wording, station
-identification, and any spoken date. Words about the news give the strongest limit, often to
-the exact week. Record each possible date as a range, and not as a single day.
+**Work out roughly when the recording was made.** Listen to it. A war report, an election
+result, a sports score, a joke about the news — any of these can fix the week. The advertising
+helps too, because campaigns ran in seasons. So does the announcer, and so does the wording of
+the station identification, which changed over the years. None of this gives a day. It gives a
+window, and a window is enough to go looking.
 
-**Step 4 — Test each possible date against the radio logs.** For every possible date, read
-the radio log of each of the four newspapers for the date and the city. Write down each hit
-as the newspaper, the date, and the kind of listing. A date that survives in two or more
-separately produced radio logs is confirmed. A date that survives in a single radio log is
-supported.
+**Look that week up in the newspaper radio listings.** Every big American daily printed the
+next day's radio schedule: station, time, show. Four papers matter here — the *New York
+Times*, the *Washington Post*, the *Chicago Daily Tribune*, the *Los Angeles Times*. Read the
+listings for each candidate date, in each paper.
 
-**Step 5 — Check the trade magazines.** Read *Broadcasting* for the same week, for schedule
-changes, advertiser assignments, and special events. Trade evidence separates a broadcast
-from another broadcast inside a run, when the daily radio logs give only the program name.
+**Count the newspapers that list the show at the same hour.** The count is the answer, and it
+becomes the mark on the record:
 
-**Step 6 — Test for a repeat or a reissue.** Before assigning the date, ask a question. Is the recording an Armed Forces Radio Service reissue, a regional repeat, or a later copy of the same program? Evidence inside the recording decides the question. When advertising is present, and when advertising is missing, is often enough, because reissues for the armed forces had the advertising
-removed. A recording that agrees with a listing has not thereby been shown to be the
-broadcast the listing describes.
+- **A** — two or more newspapers list the broadcast
+- **B** — one newspaper lists the broadcast
+- **C** — no newspaper lists the broadcast, but the recording and the show's known schedule
+  point to the same date
+- **D** — an estimate, given as a range, with the reasoning written down
+- **E** — the date came with the file and nobody has checked it
 
-**Step 7 — Mark the strength, and cite the sources.** Give the record the strongest mark the
-evidence supports. Cite every listing read. Where the date is an estimate, say so, explain the
-reasoning, and give a range instead of a single day.
+Counting works because the four papers are separate. Each built its listings in its own city,
+in its own time zone, from copy the networks sent to each paper on its own. Four papers
+agreeing is four people who never spoke to each other saying the same thing. That is why two
+is the line for Mark A.
 
-**Step 8 — Compare with the other copies.** Where the collection holds other records of the
-same broadcast, settle the records together. A record without a date takes the *evidence* of
-a confirmed record, and not simply the answer. See section 2.1.
+**Mark E is the one that matters.** A catalog with no way to write down "nobody has checked
+this" will turn a stranger's guess into a fact, and will do it silently. Section 5.4 is exactly
+that: 13 February 1955 never had evidence behind it. It had repetition behind it.
 
-The procedure produces a date together with a mark for the strength of the evidence. The
-marks are:
-
-**Mark A — Confirmed.** Two or more separate published listings from the time support the
-date, and nothing inside the recording contradicts the listings. The listings must be
-separate: two newspapers printing the same network schedule are a single source, and not two
-sources.
-
-**Mark B — Supported.** A single published listing from the time supports the date, and
-nothing inside the recording contradicts the listing.
-
-**Mark C — Reasoned.** No listing states the date directly. But the date follows from
-evidence inside the recording together with the program's known schedule. For example, a word about the news fixes the week, and the program is known to have aired on Tuesday
-evenings.
-
-**Mark D — Estimated.** A limited estimate, given as a range and not as a single day, with
-the reasoning stated. As the Association for Recorded Sound Collections says, an explained
-estimate is better than no information.
-
-**Mark E — Passed along, not tested.** A date carried forward from a source collection, and
-not yet tested by The Archive of American Radio against published evidence. Mark E exists so
-that never-tested dates stay visible as never tested, instead of quietly becoming facts. Mark E is
-the mark cataloging work moves records up from.
-
-The most important feature of the marking system is simply that Mark E can be recorded at all.
-A system in which every date is only a date cannot show the difference between a date an
-archive has proved and a date an archive has only received. A system without Mark E will give
-a false picture of the archive's own evidence, no matter how careful the work behind the
-archive has been.
+Two things to watch. Two papers printing the same network schedule are one source, not two —
+the network wrote it once. And a recording that fits a listing may still be a later repeat, so
+check whether the advertising has been cut out, because that is what the Armed Forces Radio
+Service did when it reissued a show.
 
 ## 5. Examples
 
