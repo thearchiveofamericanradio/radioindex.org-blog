@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 28 Calendar Walk — Mr. District Attorney, Burns &amp; Allen, and Damon Runyon</article-title>
+      <pub-date>2026-08-28</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 28, Calendar Walk, The Little Things in Life, Peg Lynch, Alan Bunce, The Damon Runyon Theater, John Brown, Alan Reed, Russell Hughes, Mr District Attorney, Jay Jostyn, Vicki Vola, Len Doyle, Phillips H Lord, Vitalis, Skippy Hollywood Theater, Les Mitchel, Skippy Peanut Butter, Maxwell House Coffee Time, George Burns, Gracie Allen, Bill Goodwin, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 28 Archival Metadata Enrichment (Increment 277)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio and syndication, Peg Lynch's suburban domestic comedy *The Little Things in Life*, John Brown narrating Damon Runyon's *Social Error*, two hardboiled crime investigations on *Mr. District Attorney* for Vitalis Hair Tonic, Les Mitchel in *Skippy Hollywood Theater*, and George Burns & Gracie Allen confusing university admissions in *Maxwell House Coffee Time* (1940–1975):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 28 Archival Inventory (Increment 277)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Little_Things_1975.mp3` <br>*Alt*: `The Crisis With A Dead Pet` | **"The Crisis with a Dead Pet"** | **Syndicated Drama**<br>1975-08-28 | **Sustaining**<br>Family Comedy | **Peg Lynch**, **Alan Bunce** | **Peg Lynch** (Creator) | `["Sitcom", "Comedy", "Domestic", "Family", "Americana"]` | A suburban couple faces an emotional dilemma when their young neighbor's pet goldfish dies while in their care. |
+| `Runyon_1949.mp3` <br>*Alt*: `Social Error`, `Russell Hughes` | **"Social Error"** | **Syndicated Elec**<br>1949-08-28 | **Commercial**<br>Regional Sponsors | **John Brown**, **Alan Reed** | **Russell Hughes** (Adapter) | `["Comedy", "Crime", "Anthology", "Broadway", "Americana"]` | Broadway narrator tells the story of a tough Manhattan gangster who hires etiquette tutors to crash a high-society debutante ball. |
+| `Mr_DA_1940.mp3` <br>*Alt*: `Case of Counterfeit Swindle` | **"The Case of the Counterfeit Swindle"** | **NBC Red (WEAF)**<br>1940-08-28<br>8:00 PM EDST | **Bristol-Myers**<br>Vitalis / Ipana | **Jay Jostyn**, **Vicki Vola** | **Len Doyle**, **Phillips H. Lord** | `["Police Procedural", "Legal", "Detective", "True Crime", "Hardboiled"]` | The district attorney investigates a sophisticated con artist preying on small-town investors with bogus oil well stock. |
+| `Mr_DA_1946.mp3` <br>*Alt*: `Case of Conference of Killers` | **"The Case of the Conference of Killers"** | **NBC (WEAF)**<br>1946-08-28<br>9:30 PM EDT | **Bristol-Myers**<br>Vitalis / Sal Hepatica | **Jay Jostyn**, **Len Doyle** | **Phillips H. Lord** (Creator) | `["Police Procedural", "Legal", "Detective", "True Crime", "Hardboiled"]` | Mr. District Attorney and investigator Harrington plant wiretaps at an underworld summit where syndicate bosses plan a regional syndicate takeover. |
+| `Skippy_1943.mp3` <br>*Alt*: `Fault of the Frog`, `Skippy` | **"The Fault of the Frog"** | **Syndicated Elec**<br>1943-08-28 | **Rosefield Packing**<br>Skippy Peanut Butter | **Hollywood Guest Cast** | **Les Mitchel** (Host / Dir) | `["Drama", "Mystery", "Hollywood", "Comedy", "Anthology"]` | An eccentric country doctor uncovers an inheritance swindle while treating a wealthy patient whose pet tree frog serves as an unlikely alibi. |
+| `Burns_Allen_1947.mp3` <br>*Alt*: `College Days`, `Maxwell House` | **"College Days"** | **NBC (WNBC)**<br>1947-08-28<br>8:30 PM EDT | **General Foods**<br>Maxwell House Coffee | **George Burns**, **Gracie Allen** | **Bill Goodwin**, **Meredith Willson** | `["Sitcom", "Comedy", "Domestic", "Vaudeville", "Music"]` | Gracie Allen decides to enroll in college courses to improve her intellect, confounding the university admissions dean with her circular logic. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 132
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

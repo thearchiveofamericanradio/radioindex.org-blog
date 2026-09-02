@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 29 Calendar Walk — The Goon Show, Johnny Mercer, and Beyond Midnight</article-title>
+      <pub-date>2026-08-29</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 29, Calendar Walk, The Goon Show, Spike Milligan, Peter Sellers, Harry Secombe, BBC Transcription, Johnny Mercers Music Shop, Johnny Mercer, Jo Stafford, Jack Teagarden, Pied Pipers, Chesterfield Presents, Eileen Farrell, Golden Gate Quartet, Night Editor, Hal Burdick, Edwards Coffee, Beyond Midnight, Michael McCabe, Springbok Radio, Radio City Playhouse, Harry Junkin, Jan Miner, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 29 Archival Metadata Enrichment (Increment 347)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 29** across American network radio, BBC Transcription Services, and South African Springbok Radio, Spike Milligan, Peter Sellers & Harry Secombe in *The China Story* on *The Goon Show* (1956), Johnny Mercer & Jo Stafford jamming with Jack Teagarden (1944), Eileen Farrell & the Golden Gate Quartet on *Chesterfield Presents* (1943), Michael McCabe's supernatural chiller on *Beyond Midnight*, Hal Burdick's *Night Editor*, and *Radio City Playhouse* (1937–1969):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 29 Archival Inventory (Increment 347)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Goon_Show_1956.mp3` <br>*Alt*: `China Story Special` | **"The China Story (Transcription Service Special)"** | **BBC Transcription**<br>1956-08-29 | **Sustaining**<br>Surreal Comedy | **Spike Milligan**, **Sellers** | **Harry Secombe & Milligan** | `["Comedy", "Surreal", "Satire", "British", "Parody"]` | Neddie Seagoon leads a British military garrison in 19th-century China fighting off siege attacks orchestrated by the villainous Grytpype-Thynne. |
+| `Chesterfield_1943.mp3` <br>*Alt*: `Eileen Farrell Golden Gate` | **"Eileen Farrell and The Golden Gate Quartet"** | **NBC (WEAF)**<br>1943-08-29<br>8:00 PM EWT | **Liggett & Myers**<br>Chesterfield Cigarettes | **Eileen Farrell**, **Quartet** | **Frank Black Orchestra** | `["Music", "Vocal", "Gospel", "Classical", "Pop Standard"]` | Soprano Eileen Farrell and the pioneering Golden Gate Quartet perform operatic arias, spiritual harmonies, and wartime pop standards. |
+| `Night_Editor_1937.mp3` <br>*Alt*: `Fatal Matchbook Burdick` | **"The Fatal Matchbook"** | **NBC Red (WEAF)**<br>1937-08-29<br>9:00 PM EDST | **Edwards Coffee**<br>Edwards Dependable | **Hal Burdick** (Host) | **Hal Burdick (Creator)** | `["Drama", "Journalism", "Anthology", "Storytelling", "Mystery"]` | A veteran newspaper editor recounts how a single discarded matchbook found beside a highway drainage ditch convicted a ruthless hit-and-run driver. |
+| `Radio_City_1949.mp3` <br>*Alt*: `Unguarded Moment Junkin` | **"The Unguarded Moment"** | **NBC (WNBC)**<br>1949-08-29<br>10:00 PM EDT | **Sustaining**<br>Radio Drama | **Jan Miner**, **John Larkin** | **Harry W. Junkin (Director)** | `["Drama", "Psychological", "Suspense", "Anthology", "Domestic"]` | A devoted suburban wife lets slip a single careless phrase during a dinner party that unravels her husband's covert embezzlement scheme. |
+| `Beyond_Midnight_1969.mp3` <br>*Alt*: `Take Your Partners` | **"Take Your Partners"** | **Springbok Radio**<br>1969-08-29 | **Sustaining**<br>Supernatural Drama | **Michael McCabe** (Host) | **Dramatic Mystery Cast** | `["Horror", "Supernatural", "Ghost Story", "Suspense", "South Africa"]` | A young woman attending a seaside ballroom dance discovers her charming dance partner is a phantom who drowned fifty years earlier. |
+| `Johnny_Mercer_1944.mp3` <br>*Alt*: `Jack Teagarden Jo Stafford` | **"Guest Jack Teagarden and Jo Stafford"** | **NBC (WEAF)**<br>1944-08-29<br>8:00 PM EWT | **American Pencils**<br>Chesterfield Cigarettes | **Johnny Mercer**, **Stafford** | **Jack Teagarden & Weston** | `["Music", "Jazz", "Swing", "Vocal", "Variety"]` | Johnny Mercer and Jo Stafford welcome jazz trombonist Jack Teagarden for swing tunes, blues jams, and upbeat lyrical banter. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 29
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 29**: 150
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

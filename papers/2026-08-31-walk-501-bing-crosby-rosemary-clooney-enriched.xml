@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 31 Calendar Walk — Bing Crosby and Rosemary Clooney Harmony Hours</article-title>
+      <pub-date>2026-08-31</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 31, Calendar Walk, Bing Crosby, Rosemary Clooney, Buddy Cole, Ford Road Show, Ford Motor Company, Cole Porter, Rodgers and Hart, CBS, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 31 Archival Metadata Enrichment (Increment 501)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across seven years of CBS musical sessions featuring Bing Crosby, Rosemary Clooney, organist Buddy Cole, and Ken Carpenter for General Motors, the Ford Motor Company, and CBS daytime broadcasting (1955–1962):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 31 Archival Inventory (Increment 501)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Crosby_1955_Ep203.mp3` <br>*Alt*: `Episode 203 Bing Crosby` | **"Episode 203 with Buddy Cole and His Trio"** | **CBS (WCBS)**<br>1955-08-31<br>9:00 PM EDT | **General Motors**<br>Quality Dealer Service | **Bing Crosby**, **Buddy Cole** | **Ken Carpenter (Announcer)** | `["Music", "Pop", "Jazz", "Bing Crosby", "Buddy Cole", "CBS"]` | Bing Crosby croons mid-century standards and banters with organist Buddy Cole over late-summer golf outings. |
+| `Crosby_1956_SummerHarmonies.mp3` <br>*Alt*: `Bing Crosby 1956 Episode` | **"Summertime Harmonies with Buddy Cole"** | **CBS (WCBS)**<br>1956-08-31<br>9:00 PM EDT | **Sustaining**<br>Evening Music | **Bing Crosby**, **Buddy Cole** | **Ken Carpenter (Announcer)** | `["Music", "Pop", "Jazz", "Bing Crosby", "Buddy Cole", "CBS"]` | Bing Crosby and Buddy Cole perform relaxed jazz renditions of popular American standards and discuss Pacific Coast fishing. |
+| `Ford_1958_Sturdley8.mp3` <br>*Alt*: `The New Sturdley-8 New Car` | **"The New Sturdley-8 Automobile with Bing Crosby"** | **CBS (WCBS)**<br>1958-08-31<br>7:30 PM EDT | **Ford Motor Company**<br>Ford Dealers | **Bing Crosby**, **Clooney** | **Buddy Cole Trio** | `["Music", "Variety", "Comedy", "Bing Crosby", "Ford"]` | Bing jokes about test-driving an imaginary luxury model car while performing upbeat vocal duets with Rosemary Clooney. |
+| `Crosby_1960_FromThisMoment.mp3` <br>*Alt*: `First Song - From This Moment On` | **"From This Moment On with Buddy Cole"** | **CBS (WCBS)**<br>1960-08-31<br>10:45 AM EDT | **Sustaining**<br>Daytime Music Showcase | **Bing Crosby**, **Clooney** | **Buddy Cole Trio** | `["Music", "Pop", "Vocal", "Bing Crosby", "Rosemary Clooney", "CBS"]` | Rosemary Clooney opens with Cole Porter's From This Moment On followed by Bing's smooth rendition of swinging pop melodies. |
+| `Crosby_1961_AdvantageOfMe.mp3` <br>*Alt*: `First Song - You Took Advantage Of Me` | **"You Took Advantage of Me with Buddy Cole"** | **CBS (WCBS)**<br>1961-08-31<br>10:45 AM EDT | **Sustaining**<br>Daytime Music Showcase | **Bing Crosby**, **Clooney** | **Buddy Cole Trio** | `["Music", "Pop", "Vocal", "Bing Crosby", "Rosemary Clooney", "CBS"]` | Bing and Rosie exchange witty marital banter and harmonize on Rodgers & Hart's You Took Advantage of Me. |
+| `Crosby_1962_MarriageRacket.mp3` <br>*Alt*: `Marriage Racket Crosby` | **"The Marriage Racket Comedy with Buddy Cole"** | **CBS (WCBS)**<br>1962-08-31<br>10:45 AM EDT | **Sustaining**<br>Daytime Music Showcase | **Bing Crosby**, **Clooney** | **Buddy Cole Trio** | `["Music", "Comedy", "Pop", "Bing Crosby", "Rosemary Clooney", "CBS"]` | Bing and Rosemary spoof matrimonial counseling advice columns and perform romantic duet arrangements. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 306 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

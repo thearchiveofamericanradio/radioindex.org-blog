@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — The Lone Ranger, 21st Precinct, and Radio Active</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, The Lone Ranger, Earle Graser, Brace Beemer, John Todd, Fran Striker, Silvercup Bread, Cheerios, 21st Precinct, Everett Sloane, Stanley Niss, CBS, Radio Active, Angus Deayton, BBC Radio 4, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 429)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and British radio comedy, four iconic episodes of *The Lone Ranger* written by Fran Striker spanning Earle Graser (1940) to Brace Beemer during wartime and postwar adventures (1943, 1944, 1954), Everett Sloane in *The Ledge* on *21st Precinct* (1956), and Angus Deayton's media parody *Good Day Sport* on *Radio Active* (1940–1982):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 429)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lone_Ranger_1940_Outcast.mp3` <br>*Alt*: `Outcasts and Outlaws` | **"Outcasts and Outlaws"** | **Mutual (WOR)**<br>1940-08-30<br>7:30 PM EDST | **Gordon Baking Co.**<br>Silvercup Bread | **Earle Graser**, **Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Cowboy", "Action", "Fran Striker"]` | The Lone Ranger intervenes when a shunned former convict is framed for an armed stagecoach payroll robbery. |
+| `Lone_Ranger_1943_Strip.mp3` <br>*Alt*: `Cherokee Strip Land Rush` | **"The Cherokee Strip Land Rush"** | **NBC Blue (WJZ)**<br>1943-08-30<br>7:30 PM EWT | **General Mills**<br>Cheerioats / Kix Cereal | **Brace Beemer**, **Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Cowboy", "Action", "Fran Striker"]` | The masked rider thwarts corrupt sooner claim-jumpers attempting to illegally seize fertile homestead land before the official opening gun. |
+| `Lone_Ranger_1944_Royal.mp3` <br>*Alt*: `A Royal Welcome 1944` | **"A Royal Welcome"** | **NBC Blue (WJZ)**<br>1944-08-30<br>7:30 PM EWT | **General Mills**<br>Cheerioats / Kix Cereal | **Brace Beemer**, **Todd** | **Fran Striker (Writer)** | `["Western", "Adventure", "Cowboy", "Action", "Fran Striker"]` | The Lone Ranger and Tonto protect a visiting European dignitary touring the frontier from an extortion kidnapping plot. |
+| `Lone_Ranger_1954_Teacher.mp3` <br>*Alt*: `Teachers Brother Beemer` | **"Teacher's Brother"** | **ABC (WABC)**<br>1954-08-30<br>7:30 PM EDT | **General Mills**<br>Cheerios / Wheaties | **Brace Beemer**, **Todd** | **Dan Beattie (Writer)** | `["Western", "Adventure", "Cowboy", "Action", "General Mills"]` | The Lone Ranger helps a young frontier schoolteacher rehabilitate her rebellious younger brother before he joins a gang of cattle rustlers. |
+| `21st_Precinct_1956_Ledge.mp3` <br>*Alt*: `The Ledge Everett Sloane` | **"The Ledge with Everett Sloane"** | **CBS (WCBS)**<br>1956-08-30<br>8:30 PM EDT | **Sustaining**<br>Police Drama | **Everett Sloane**, **Lynch** | **Stanley Niss (Writer)** | `["Police", "Procedural", "Crime", "Docudrama", "Everett Sloane"]` | Captain Frank Kennelly coordinates emergency rooftop rescue squads to talk down a despondent man threatening to jump from a high hotel window ledge. |
+| `Radio_Active_1982_Sport.mp3` <br>*Alt*: `Good Day Sport KYTV` | **"Good Day Sport (Series 2, Episode 3)"** | **BBC Radio 4**<br>1982-08-30<br>6:30 PM BST | **Sustaining**<br>BBC Satirical Comedy | **Angus Deayton**, **Pope** | **Radio Active Cast (Writers)** | `["Comedy", "British", "Satire", "Parody", "BBC Radio 4"]` | The satirical broadcast team lampoons television sports coverage, incompetent live commentators, and bizarre athletic sponsorships. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 246 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

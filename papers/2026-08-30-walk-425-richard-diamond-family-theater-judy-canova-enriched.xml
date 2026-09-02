@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — Richard Diamond, Family Theater, and Judy Canova</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, Richard Diamond Private Detective, Dick Powell, Virginia Gregg, Ed Begley, Blake Edwards, Rexall Drug, AFRTS, Family Theater, William Frawley, Maureen O'Sullivan, Patrick Peyton, Rancho Canova, Judy Canova, Mel Blanc, Colgate, Author's Playhouse, Olan Soule, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 425)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio and Armed Forces transcription services, three archival transfers of Blake Edwards' hardboiled classic *The Big Foot Grafton Case* starring Dick Powell on *Richard Diamond, Private Detective* (1950 Network Master, West Coast Repeat, and 1953 AFRTS release), William Frawley in the sandlot baseball drama *Brannigan's Bat* on *Family Theater* (1950), Judy Canova's hillbilly musical comedy for Colgate (1947), and Olan Soule in *Runaway* on *Author's Playhouse* (1942–1953):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 425)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Fam_Theater_1950_Bat.mp3` <br>*Alt*: `Brannigans Bat Frawley` | **"Brannigan's Bat with William Frawley"** | **Mutual (WOR)**<br>1950-08-30<br>9:30 PM EDT | **Sustaining**<br>Family Rosary Crusade | **William Frawley**, **O'Sullivan** | **Father Patrick Peyton (Host)** | `["Drama", "Sports", "Baseball", "Inspirational", "Family Theater"]` | An aging sandlot baseball coach discovers a lucky bat that restores faith and teamwork to a struggling neighborhood youth team. |
+| `Rancho_Canova_1947.mp3` <br>*Alt*: `Judy Canova Smart Sylvesters` | **"Judy Canova and The Smart Sylvesters"** | **NBC (WEAF)**<br>1947-08-30<br>10:00 PM EDT | **Colgate-Palmolive**<br>Halo / Colgate Dental | **Judy Canova**, **Mel Blanc** | **Rancho Canova Staff** | `["Comedy", "Hillbilly", "Variety", "Music", "Judy Canova"]` | Country hillbilly singer Judy Canova tries to organize a charity barn dance while outwitting pretentious socialite neighbors. |
+| `Authors_Play_1942_Run.mp3` <br>*Alt*: `Runaway Olan Soule` | **"Runaway with Olan Soule"** | **NBC (WEAF)**<br>1942-08-30<br>6:30 PM EWT | **Sustaining**<br>Literary Drama | **Olan Soule**, **Cast** | **Wynn Wright (Director)** | `["Drama", "Anthology", "Literary", "Adaptation", "Youth"]` | A restless youth flees his rural hometown seeking big-city fortune only to encounter dangerous underworld drifters. |
+| `Rich_Diamond_1950_Grafton.mp3` <br>*Alt*: `Big Foot Grafton Case Master` | **"The Big Foot Grafton Case (Network Master)"** | **NBC (WEAF)**<br>1950-08-30<br>9:00 PM EDT | **Rexall Drug Co.**<br>Rexall Products | **Dick Powell**, **Gregg**, **Begley** | **Blake Edwards (Writer)** | `["Detective", "Mystery", "Hardboiled", "Dick Powell", "Blake Edwards"]` | Richard Diamond protects an eccentric collector targeted by extortionists after acquiring a legendary oversized emerald. |
+| `Rich_Diamond_1950_Coast.mp3` <br>*Alt*: `Rich 064 Bigfoot Grafton Repeat` | **"The Big Foot Grafton Case (West Coast Repeat)"** | **NBC Pacific**<br>1950-08-30<br>8:00 PM PST | **Rexall Drug Co.**<br>Rexall Products | **Dick Powell**, **Gregg**, **Begley** | **Blake Edwards (Writer)** | `["Detective", "Mystery", "Hardboiled", "Dick Powell", "Blake Edwards"]` | Richard Diamond investigates an underworld syndicate seeking a priceless jewel collection from an eccentric recluse named Big Foot Grafton. |
+| `Rich_Diamond_1953_AFRTS.mp3` <br>*Alt*: `Big Foot Grafton AFRTS 154` | **"The Big Foot Grafton Case (AFRTS Re-broadcast)"** | **AFRTS (Program 154)**<br>1953-08-30 | **Armed Forces Radio**<br>U.S. Military Sustaining | **Dick Powell**, **Gregg**, **Begley** | **Blake Edwards (Writer)** | `["Detective", "Mystery", "Hardboiled", "Dick Powell", "AFRTS"]` | Private investigator Richard Diamond uses witty repartee and deductive traps to catch the killers hunting a wealthy gem collector. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 222 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

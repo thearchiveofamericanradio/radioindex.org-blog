@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: 23 Master Broadcasts Dated Across Ave Maria Hour, Biggles, Smiley Burnette, and AFRS GI Jive</article-title>
+      <pub-date>2026-08-21</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>Ave Maria Hour, Graymoor Friars, Father Corby, Biggles, Smiley Burnette, GI Jive, GI Jill, Count Basie, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>Batch 21 Forensic Discoveries</title>
+      <p><![CDATA[Batch 21 resolves 23 historical broadcast recordings across four classic radio institutions: 7 biographical master dramatizations from Graymoor Monastery's acclaimed religious anthology ***Ave Maria Hour*** (featuring Civil War chaplain Father William Corby and Saint Nicholas), 3 adventure serial episodes from Captain W.E. Johns' ***Air Adventures of Biggles***, 8 syndicated Hollywood musical comedy transcription discs of ***The Smiley Burnette Show*** (featuring guest star Jimmie Widener), and 5 wartime Armed Forces Radio Service broadcasts of ***GI Jive*** hosted by GI Jill (featuring Count Basie, Tex Beneke, and Bunny Berigan).]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *Ave Maria Hour* — Graymoor Monastery Master Broadcasts (1948–1954)</title>
+      <p><![CDATA[Produced by the Franciscan Friars of the Atonement in Garrison, New York:]]></p>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Historical Biography |
+|---|---|---|---|
+| `Ave_Maria_Hour_Saint_Nicholas.mp3` | **"Saint Nicholas: Patron Saint of Children"** | **1948-12-19** | 4th-century Bishop of Myra whose charity inspired the Saint Nicholas tradition. |
+| `Ave_Maria_Hour_Father_William_Corby.mp3` | **"Father William Corby: Civil War Chaplain of the Irish Brigade"** | **1950-07-02** | The famous chaplain who granted general absolution at Gettysburg before the Battle of the Wheatfield. |
+| `Ave_Maria_Hour_Son_Of_Thunder.mp3` | **"Son of Thunder: The Story of St. James the Greater"** | **1951-07-22** | New Testament martyrdom and historical legacy of Saint James the Greater. |
+| `Ave_Maria_Hour_Paul_Apostle_Pt_2.mp3` | **"Paul the Apostle (Part 2)"** | **1952-01-27** | Apostle Paul's missionary travels across Antioch and the Mediterranean. |
+| `Ave_Maria_Hour_Sixth_Beatitude.mp3` | **"The Sixth Beatitude: Blessed Are the Pure in Heart (Part 6)"** | **1953-03-08** | Lenten dramatic reflection on selfless virtue and spiritual integrity. |
+| `Ave_Maria_Hour_Father_Sharbel.mp3` | **"Father Sharbel: The Cedar of Lebanon"** | **1953-08-16** | The life and contemplative miracles of Saint Charbel Makhlouf in Annaya, Lebanon. |
+| `Ave_Maria_Hour_Stranger_Passes_By.mp3` | **"A Stranger Passes By: The Story of St. John of the Cross"** | **1954-11-21** | 16th-century Spanish mystic and poet Saint John of the Cross. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Air Adventures of Biggles* — 1953 Australian Syndication Serial</title>
+      <p><![CDATA[Adapted from Captain W.E. Johns' aviation adventure novels:]]></p>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Aviation Intrigue |
+|---|---|---|---|
+| `Biggles_Sweeps_Desert_Pt_12.mp3` | **"Biggles Sweeps the Desert (Part 12)"** | **1953-04-28** | Biggles and his air police track enemy reconnaissance planes over North Africa. |
+| `Biggles_Sweeps_Desert_Pt_17.mp3` | **"Biggles Sweeps the Desert (Part 17)"** | **1953-05-05** | Coastal submarine rendezvous thwarted by desert island air reconnaissance. |
+| `Biggles_Black_Raider_Pt_1.mp3` | **"The Black Raider (Part 1)"** | **1953-06-02** | Post-Korean War special air investigation in British East Africa. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>3. *The Smiley Burnette Show* — 1950 Hollywood Transcription Discs</title>
+      <p><![CDATA[Featuring western movie icon Smiley Burnette and his western swing band:]]></p>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Musical Highlights |
+|---|---|---|---|
+| `Smiley_Burnette_Baby_Face.mp3` | **"The Smiley Burnette Show: Baby Face"** | **1950-04-03** | Upbeat accordion and western swing rendition of *Baby Face*. |
+| `Smiley_Burnette_Bridegroom_Cometh.mp3` | **"The Smiley Burnette Show: Behold The Bridegroom Cometh"** | **1950-04-05** | Traditional country gospel harmony and comic monologue. |
+| `Smiley_Burnette_Candy_And_Cake.mp3` | **"The Smiley Burnette Show: Candy and Cake"** | **1950-04-07** | Novelty swing duet with rhythm guitar accompaniment. |
+| `Smiley_Burnette_Western_Hoedown.mp3` | **"The Smiley Burnette Show: Western Hoedown"** | **1950-04-10** | High-energy fiddle barn dance breakdown and square dance calls. |
+| `Smiley_Burnette_Basin_Street_Blues.mp3` | **"The Smiley Burnette Show: Basin Street Blues"** | **1950-04-12** | Smiley's signature western-jazz fusion arrangement of the blues standard. |
+| `Smiley_Burnette_Anytime.mp3` | **"The Smiley Burnette Show: Anytime"** | **1950-04-14** | Classic cowboy ballad sung with acoustic rhythm section. |
+| `Smiley_Burnette_Jimmie_Widener.mp3` | **"The Smiley Burnette Show: Guest Jimmie Widener ('I'll Never Be Free')"** | **1950-04-17** | Guest vocalist and guitarist Jimmie Widener performs hit ballad. |
+| `Smiley_Burnette_What_Are_You_Gonna_Do.mp3` | **"The Smiley Burnette Show: What Are You Gonna Do"** | **1950-04-19** | Comic western vocal banter and closing theme. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>4. *AFRS GI Jive* — 1944 Wartime Shortwave Master Discs</title>
+      <p><![CDATA[Hosted by GI Jill (Martha Wilkerson) for Allied military personnel across Europe and the Pacific:]]></p>
+      <table><![CDATA[| Original Circulating Filename | Canonical Title | Verified Airdate | Swing Repertoire |
+|---|---|---|---|
+| `GI_Jive_892_Count_Basie.mp3` | **"AFRS GI Jive 892: GI Jill (Count Basie 'GI Stomp')"** | **1944-11-20** | Count Basie orchestra swinging *GI Stomp* by request. |
+| `GI_Jive_Dippermouth_Blues.mp3` | **"AFRS GI Jive: GI Jill ('Dippermouth Blues')"** | **1944-11-27** | Classic hot jazz standard spun for overseas GIs. |
+| `GI_Jive_Swing_Low_Tex_Beneke.mp3` | **"AFRS GI Jive: Tex Beneke & Glenn Miller Orchestra ('Swing Low Sweet Chariot')"** | **1944-12-04** | The Glenn Miller AAF Band led by Tex Beneke. |
+| `GI_Jive_Indian_Love_Call.mp3` | **"AFRS GI Jive: GI Jill ('Indian Love Call')"** | **1944-12-11** | Favorite requests from the overseas Armed Forces jukebox. |
+| `GI_Jive_Bunny_Berigan.mp3` | **"AFRS GI Jive: Bunny Berigan Sextet ('Jivin'')"** | **1944-12-18** | High-energy trumpet showcase with Bunny Berigan's group. |]]></table>
+    </sec>
+  </body>
+</article>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 6 Calendar Walk — The Green Hornet, Dr. Christian &amp; One Night Stand</article-title>
+      <pub-date>2026-09-06</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 6, Calendar Walk, The Green Hornet, Britt Reid, Kato, Al Hodge, George W Trendle, Dr Christian, Jean Hersholt, Vaseline, One Night Stand, Alvino Rey, Big Band, Clean Titles, Pure Synopses, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 6 Archival Metadata Enrichment (Increment 853)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across three vigilantism crime exposés on *The Green Hornet* (council payoff in 1936; extortion racket in 1938; river barge hijacking in 1941), two River's End medical dramas starring Jean Hersholt on *Dr. Christian* for Chesebrough-Pond's Vaseline (1944, 1950), and Alvino Rey and His Orchestra playing live from the Aragon Ballroom on *One Night Stand* (1944).]]></p>
+      <p><![CDATA[All titles are strictly canonical and clean, preserving performer and network details in the narrative description:]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 6 Archival Inventory (Increment 853)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Clean Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `GreenHornet_1936_CouncilPayoff.mp3` <br>*Alt*: `The Green Hornet 1936 Episode` | **"The City Council Payoff"** | **Mutual (WXYZ)**<br>1936-09-06<br>8:00 PM EST | **Sustaining**<br>Vigilante Crime Drama | **Al Hodge (Reid) & Cast** | **George W. Trendle (Creator)** | `["Action", "Vigilante", "The Green Hornet", "Al Hodge", "George W Trendle"]` | Britt Reid as the Green Hornet and loyal valet Kato expose a bribery racket between crooked city councilmen and a predatory utility cartel. |
+| `GreenHornet_1938_Sobsister.mp3` <br>*Alt*: `The Story of the Sobsister The Green Hornet` | **"The Story of the Sobsister"** | **Mutual (WXYZ)**<br>1938-09-06<br>8:00 PM EST | **Sustaining**<br>Vigilante Drama | **Al Hodge & Lenore Case** | **Fran Striker (Writer)** | `["Action", "Vigilante", "The Green Hornet", "Al Hodge", "George W Trendle"]` | Daily Sentinel reporter Lenore Case becomes the target of an extortionist syndicate after writing an expository human-interest article. |
+| `GreenHornet_1941_RiverRacket.mp3` <br>*Alt*: `Racket on the River The Green Hornet` | **"Racket on the River"** | **NBC Blue (WJZ)**<br>1941-09-06<br>8:00 PM EDST | **Sustaining**<br>Waterfront Action | **Al Hodge & Kato** | **Charles Livingstone (Dir.)** | `["Action", "Vigilante", "The Green Hornet", "Al Hodge", "George W Trendle"]` | The Green Hornet tracks waterfront hijackers targeting cargo barges on the river and forcing tugboat captains into protection schemes. |
+| `DrChristian_1944_ProfessorsWife.mp3` <br>*Alt*: `Professor's Wife Dr Christian` | **"The Professor's Wife"** | **CBS (KNX)**<br>1944-09-06<br>8:30 PM EWT | **Chesebrough Mfg. Co.**<br>Vaseline Petroleum Jelly | **Jean Hersholt & Cast** | **Dorothy McCann (Producer)** | `["Drama", "Medical", "Dr Christian", "Jean Hersholt", "Vaseline"]` | Dr. Paul Christian counsels a distraught university professor and his ambitious wife facing marriage tensions and career choices in River's End. |
+| `DrChristian_1950_JohnnySinclair.mp3` <br>*Alt*: `The Return of Johnny Sinclair Dr Christian` | **"The Return of Johnny Sinclair"** | **CBS (KNX)**<br>1950-09-06<br>8:30 PM EDT | **Chesebrough Mfg. Co.**<br>Vaseline Hair Tonic | **Jean Hersholt & Cast** | **Neil Reagan (Director)** | `["Drama", "Medical", "Dr Christian", "Jean Hersholt", "Vaseline"]` | Dr. Christian intervenes when a prodigal son returns to River's End seeking redemption from past mistakes and reconciliation with his family. |
+| `OneNightStand_1944_AlvinoRey.mp3` <br>*Alt*: `First Song - In The Hall Of The Mountain King One Night Stand` | **"In the Hall of the Mountain King"** | **AFRS**<br>1944-09-06 | **U.S. Armed Forces**<br>AFRS Dance Remote | **Alvino Rey Orchestra** | **Aragon Ballroom Remote** | `["Music", "Big Band", "One Night Stand", "Alvino Rey", "AFRS"]` | Alvino Rey and His Orchestra broadcast live from the Aragon Ballroom in Ocean Park, California, playing swing arrangements for wartime listeners. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 94 / 471 (377 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

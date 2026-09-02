@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 28 Calendar Walk — Candy Matson, Sad Sack, and Revival Hour</article-title>
+      <pub-date>2026-08-28</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 28, Calendar Walk, The Old Fashioned Revival Hour, Charles E Fuller, Rudy Atwood, Candy Matson, Natalie Masters, Lou Tobin, Monty Masters, The Ginny Simms Show, Philip Morris, Police Headquarters, The Sad Sack, Herb Vigran, Jim Backus, George Baker, The Travels of Mary Ward, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 28 Archival Metadata Enrichment (Increment 273)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio, the BBC Regional Programme, and syndication, Charles E. Fuller preaching on Passover from Long Beach, Natalie Masters solving a fatal arson in *Candy Matson*, Ginny Simms honoring returning veterans for Philip Morris, *Police Headquarters* stakeouts, Herb Vigran as *The Sad Sack* washing dishes on a date, and 17th-century pioneer Mary Ward crossing the Bavarian Alps (1936–1950):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 28 Archival Inventory (Increment 273)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Revival_Hour_1949.mp3` <br>*Alt*: `Moses Kept The Passover` | **"Moses Kept the Passover"** | **ABC (WJZ)**<br>1949-08-28<br>8:00 AM EDT | **Gospel Broadcasting**<br>Listener Supported | **Rev. Charles E. Fuller** | **Rudy Atwood** (Piano) | `["Religious", "Spiritual", "Gospel", "Music", "Sermon"]` | Rev. Charles E. Fuller preaches on the Exodus deliverance and the spiritual significance of the Passover sacrifice from Long Beach Auditorium. |
+| `Candy_Matson_1950.mp3` <br>*Alt*: `The Burning House`, `YUkon 2-8209` | **"The Burning House"** | **NBC (WNBC)**<br>1950-08-28<br>9:30 PM EDT | **Sustaining**<br>Hardboiled Detective | **Natalie Masters**, **Lou Tobin** | **Monty Masters** (Creator) | `["Detective", "Hardboiled", "Noir", "Mystery", "Female Sleuth"]` | San Francisco private eye Candy Matson investigates an arson fire at a hillside estate where an insurance investigator's charred body was discovered. |
+| `Ginny_Simms_1945.mp3` <br>*Alt*: `The Guest Jack Statham` | **"Guest Jack Statham"** | **NBC (WEAF)**<br>1945-08-28<br>8:00 PM EWT | **Philip Morris & Co.**<br>"Call for Philip Morris!" | **Ginny Simms**, **Jack Statham** | **Edgar Fairchild Orchestra** | `["Variety", "Music", "Vocal", "Wartime", "Tribute"]` | Vocalist Ginny Simms honors returning World War II serviceman Jack Statham with live musical tributes, ballads, and serviceman reunion interviews. |
+| `Police_HQ_1943.mp3` <br>*Alt*: `Episode 11`, `Phantom Robber` | **"The Phantom Robber"** | **Syndicated Elec**<br>1943-08-28 | **Commercial**<br>Regional Sponsors | **Police Dramatic Cast** | **Syndicated Police Writers** | `["Police Procedural", "Detective", "Hardboiled", "Crime", "Mystery"]` | City detectives set a downtown jewelry district stakeout to capture a masked thief who vanishes through subterranean subway tunnels. |
+| `Sad_Sack_1946.mp3` <br>*Alt*: `Sad Sack road romance rocky` | **"Road to Romance"** | **CBS (WABC)**<br>1946-08-28<br>9:00 PM EDT | **P. Lorillard Co.**<br>Old Gold Cigarettes | **Herb Vigran**, **Jim Backus** | **Sgt. George Baker** (Creator) | `["Sitcom", "Comedy", "Military", "Americana", "Slapstick"]` | Sad Sack attempts to impress his girlfriend Lucy by taking her to a fancy French restaurant, only to lose his wallet and end up washing dishes. |
+| `Mary_Ward_1936.mp3` <br>*Alt*: `Travels of Mary Ward` | **"The Bavarian Crossing"** | **BBC Regional**<br>1936-08-28 | **Sustaining**<br>BBC Historical Drama | **BBC Dramatic Repertory** | **BBC Drama Department** | `["Historical", "Docudrama", "Biography", "British", "Drama"]` | 17th-century English religious pioneer Mary Ward and her devoted companions brave alpine blizzards on foot while traveling to Munich to establish schools. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 108
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

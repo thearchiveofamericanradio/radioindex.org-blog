@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — The Shadow, The Scarlet Pimpernel, and Claudette Colbert</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, The Shadow, Bret Morrison, Gertrude Warner, Blue Coal, The Scarlet Pimpernel, Marius Goring, Baroness Orczy, David Kossoff, Mail Call, Claudette Colbert, Eddie Cantor, Andy Russell, AFRS, Hallmark Playhouse, Herbert Marshall, Hallmark Cards, The Frank Muir Version, That Was the Year, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 397)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio, British broadcasting, and Armed Forces programming, Bret Morrison as *The Shadow* solving an organist curse (1953), Marius Goring as *The Scarlet Pimpernel* staging an estate haunting to rescue French nobles (1953), Hollywood star Claudette Colbert and Eddie Cantor on *Mail Call* for overseas troops (1944), Herbert Marshall starring in *Accent on Youth* on *Hallmark Playhouse* (1951), Frank Muir on art history (1976), and *That Was the Year* spotlighting 1918 (1937–1976):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 397)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `The_Shadow_1953.mp3` <br>*Alt*: `Death Rings Requiem` | **"Death Rings a Requiem"** | **Mutual (WOR)**<br>1953-08-30<br>5:00 PM EDT | **Blue Coal / Sust**<br>Detective Mystery | **Bret Morrison**, **Warner** | **The Shadow Production Staff** | `["Mystery", "Detective", "Superheroes", "Crime", "Supernatural"]` | The Shadow investigates a string of sudden deaths targeting church organists who played a cursed renaissance hymn. |
+| `Frank_Muir_1976.mp3` <br>*Alt*: `Frank Muir Art` | **"The Philosophy and History of Art"** | **BBC Radio 4**<br>1976-08-30 | **Sustaining**<br>BBC Comedy | **Frank Muir** (Host / Humor) | **BBC Radio Comedy Staff** | `["Comedy", "Humor", "Talk", "Art History", "British"]` | Frank Muir presents a witty exploration of famous painters, art movements, and gallery eccentricities through historical anecdotes. |
+| `Scarlet_Pimp_1953.mp3` <br>*Alt*: `Ghosts Martins Folly` | **"The Ghosts of Martin's Folly"** | **NBC / Towers Synd**<br>1953-08-30 | **Sustaining**<br>Swashbuckler Drama | **Marius Goring**, **Kossoff** | **Baroness Orczy & Towers** | `["Adventure", "Historical", "Swashbuckler", "French Revolution", "Adaptation"]` | Sir Percy Blakeney stages a phantom haunting in a coastal estate to smuggle an aristocratic family past French revolutionary guards. |
+| `Mail_Call_1944_Colbert.mp3` <br>*Alt*: `Guest Claudette Colbert` | **"Guest Claudette Colbert, Eddie Cantor, and Andy Russell"** | **AFRS Mail Call**<br>1944-08-30 | **Sustaining**<br>Armed Forces Radio | **Claudette Colbert**, **Cantor** | **Andy Russell & Jerry Wald** | `["Variety", "Comedy", "Music", "Vocal", "Military"]` | Hollywood star Claudette Colbert performs comedy sketches with Eddie Cantor and introduces vocal selections for overseas servicemen. |
+| `That_Was_Year_1918.mp3` <br>*Alt*: `Spotlighting Year 1918` | **"Spotlighting the Year 1918"** | **Mutual (WOR)**<br>1937-08-30<br>8:00 PM EDST | **Sustaining**<br>Historical Chronicle | **Dramatic Narrator** | **Orchestra Ensemble** | `["Historical", "Docudrama", "World War I", "Retrospective", "Anthology"]` | A retrospective docudrama revisits the dramatic headlines, songs, and historical turning points of 1918 during the armistice of World War I. |
+| `Hallmark_1951_Marshall.mp3` <br>*Alt*: `Accent on Youth Marshall` | **"Accent on Youth with Herbert Marshall"** | **CBS (WCBS)**<br>1951-08-30<br>9:00 PM EDT | **Hallmark Cards**<br>Greeting Cards | **Herbert Marshall**, **Chandler** | **Samson Raphaelson (Author)** | `["Drama", "Romance", "Comedy", "Broadway", "Adaptation"]` | A middle-aged playwright realizes his young secretary is in love with him while casting his new romantic Broadway production. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 54 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

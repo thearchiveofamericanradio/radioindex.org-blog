@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 28 Calendar Walk — Charlie Ruggles, Proudly We Hail, and Fred Waring</article-title>
+      <pub-date>2026-08-28</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 28, Calendar Walk, A Barrel of Fun, Charlie Ruggles, Benny Rubin, Rem Cough Syrup, Authors Studio, BBC Radio 4, Proudly We Hail, John Conte, Lee Bowman, Joan Banks, US Army Recruiting, Fred Waring, Hoagy Carmichael, American Meat Institute, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 28 Archival Metadata Enrichment (Increment 298)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio, BBC Radio 4, and syndication, Charlie Ruggles hosting quiz stunts on *A Barrel of Fun* for Rem Cough Syrup, modern short fiction on *Author's Studio*, three patriotic service dramas on *Proudly We Hail* for US Army Recruiting, and Fred Waring's choral arrangement of Hoagy Carmichael's *Washboard Blues* (1941–1975):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 28 Archival Inventory (Increment 298)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Barrel_Fun_1941.mp3` <br>*Alt*: `Charlie Ruggles Quiz Games` | **"Charlie Ruggles and the Quiz Games"** | **Mutual (WOR)**<br>1941-08-28<br>8:00 PM EDST | **Maryland Pharm**<br>Rem and Rel Cough Syrup | **Charlie Ruggles**, **Benny Rubin** | **Ray Bloch Orchestra** | `["Variety", "Comedy", "Game Show", "Quiz", "Music"]` | Charlie Ruggles leads studio contestants through madcap stunt games and comedy sketches interspersed with swing arrangements. |
+| `Authors_Studio_1975.mp3` <br>*Alt*: `Modern British Stories` | **"Modern British Short Stories"** | **BBC Radio 4**<br>1975-08-28 | **Sustaining**<br>BBC Literary Drama | **BBC Drama Readers** | **BBC Drama Repertory** | `["Drama", "Literature", "British", "Anthology", "Short Story"]` | BBC actors present dramatic unabridged readings of contemporary British short fiction exploring marital infidelity and post-industrial town life. |
+| `Proudly_Hail_1946.mp3` <br>*Alt*: `Between Stations`, `Train Romance` | **"Between Stations"** | **Syndicated Elec**<br>1946-08-28 | **US Army Recruiting**<br>Army / Air Force | **John Conte** (Host) | **Dramatic Repertory** | `["Drama", "Military", "Anthology", "Romance", "Americana"]` | A returning combat infantryman on a cross-country passenger train helps a stranded war widow and finds unexpected romance. |
+| `Proudly_Hail_1949.mp3` <br>*Alt*: `The Professor Takes a Powder` | **"The Professor Takes a Powder"** | **Syndicated Elec**<br>1949-08-28 | **US Army Recruiting**<br>Army / Air Force | **Lee Bowman**, **Ken Niles** | **Dramatic Cast** | `["Drama", "Comedy", "Military", "Anthology", "Americana"]` | An absentminded physics professor enlists in the peacetime Army reserve to test his experimental ballistics theories. |
+| `Proudly_Hail_1955.mp3` <br>*Alt*: `Three Girls Named Jones`, `WAC` | **"Three Girls Named Jones"** | **Syndicated Elec**<br>1955-08-28 | **US Army Recruiting**<br>Women's Army Corps | **Joan Banks**, **Paula Winslowe** | **Ken Niles (Host)** | `["Drama", "Comedy", "Military", "Women in Military", "Anthology"]` | Three unrelated young women with identical surnames join the Women's Army Corps and discover confusing administrative mix-ups at basic training. |
+| `Fred_Waring_1947.mp3` <br>*Alt*: `The Washboard Blues` | **"The Washboard Blues"** | **NBC (WEAF)**<br>1947-08-28<br>10:00 AM EDT | **American Meat Inst.**<br>"Meat Builds Strong Bodies" | **Fred Waring**, **Jane Wilson** | **Waring Glee Club** | `["Music", "Choral", "Jazz Standard", "Pop Standard", "Variety"]` | Fred Waring leads his glee club and full orchestra in choral arrangements of American standards, highlighting Hoagy Carmichael's 'Washboard Blues'. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 252
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

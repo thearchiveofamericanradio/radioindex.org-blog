@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 4 Calendar Walk — Jack Webb, Jean Arthur &amp; The Whistler</article-title>
+      <pub-date>2026-09-04</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 4, Calendar Walk, Jeff Regan Investigator, Jack Webb, Wilms Herbert, E Jack Neuman, The Screen Guild Theater, Jean Arthur, Fred MacMurray, Frank Morgan, Lady Esther, The Whistler, Bill Forman, Signal Oil, Joel Malone, Hollywood Star Playhouse, Herbert Marshall, Bromo-Seltzer, Jack Johnstone, The Adventures of Dick Tracy, Matt Crowley, Tootsie Roll, Chester Gould, Armchair Adventures, Marvin Miller, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 4 Archival Metadata Enrichment (Increment 743)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 4** across Jack Webb starring as hardboiled private eye Jeff Regan in *The House by the Sea*, Jean Arthur and Fred MacMurray in Somerset Maugham's matrimonial farce *Too Many Husbands* on *The Screen Guild Theater* for Lady Esther, Bill Forman narrating railroad track-switching sabotage on *The Whistler* for Signal Oil, Herbert Marshall in isolated jungle outpost drama on *Hollywood Star Playhouse*, Matt Crowley foiling international munitions cartels on *The Adventures of Dick Tracy*, and Marvin Miller's solo short story performances on *Armchair Adventures*, Jack Webb (1948), Jean Arthur & Fred MacMurray (1944), Bill Forman (1946), Herbert Marshall (1950), Matt Crowley (1944), and Marvin Miller (1944–1952):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 4 Archival Inventory (Increment 743)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `JeffRegan_1948_HouseSea.mp3` <br>*Alt*: `Investigator The House By The Sea Jeff Regan Investigator` | **"The House by the Sea with Jack Webb as Jeff Regan"** | **CBS (KNX)**<br>1948-09-04<br>9:00 PM EDT | **Sustaining**<br>Hardboiled Detective | **Jack Webb (Jeff Regan)** | **Wilms Herbert & Neuman** | `["Detective", "Hardboiled", "Jeff Regan", "Jack Webb", "CBS"]` | Hardboiled investigator Jeff Regan is hired by an eccentric collector to recover stolen rare pearls from a cliffside Pacific beach house. |
+| `ScreenGuild_1944_TooManyHusbands.mp3` <br>*Alt*: `The Screen Guild Theater (210) Too Many Husbands Screen Guild Theater` | **"Too Many Husbands with Jean Arthur and Fred MacMurray"** | **CBS (KNX)**<br>1944-09-04<br>10:00 PM EWT | **Lady Esther Ltd.**<br>Lady Esther Cosmetics | **Jean Arthur & MacMurray** | **Frank Morgan & Bradley** | `["Comedy", "Romance", "Screen Guild Theater", "Jean Arthur", "Fred MacMurray"]` | A fashionable woman whose first husband was presumed lost at sea finds herself comically married to two men when he reappears after she remarried. |
+| `Whistler_1946_LinesCross.mp3` <br>*Alt*: `Where The Lines Cross Whistler, The` | **"Where the Lines Cross with Bill Forman as The Whistler"** | **CBS Pacific (KNX)**<br>1946-09-04<br>9:00 PM PST | **Signal Oil Co.**<br>Signal Gasoline | **Bill Forman (Whistler)** | **Joel Malone (Writer)** | `["Mystery", "Thriller", "The Whistler", "Bill Forman", "Signal Oil"]` | A corrupt railroad dispatcher tampers with track signals to orchestrate a fatal train collision and collect on his business partner's life insurance. |
+| `HollywoodStar_1950_Outpost.mp3` <br>*Alt*: `Outpost Hollywood Star Playhouse` | **"Outpost with Herbert Marshall"** | **CBS (KNX)**<br>1950-09-04<br>8:00 PM EDT | **Emerson Drug Co.**<br>Bromo-Seltzer | **Herbert Marshall (Star)** | **Jack Johnstone (Dir.)** | `["Drama", "Anthology", "Hollywood Star Playhouse", "Herbert Marshall", "Bromo-Seltzer"]` | A British colonial officer stationed at an isolated jungle outpost suspects his junior colleague is secretly collaborating with ivory smugglers. |
+| `DickTracy_1944_BlackPearl.mp3` <br>*Alt*: `Dick Tracy 1944 Episode` | **"The Black Pearl of Singapore with Matt Crowley as Dick Tracy"** | **Blue Network**<br>1944-09-04<br>5:15 PM EWT | **Sweets Co. of America**<br>Tootsie Rolls | **Matt Crowley (Tracy)** | **Howard Smith & Gould** | `["Detective", "Adventure", "Dick Tracy", "Matt Crowley", "Tootsie Roll"]` | Dick Tracy and Junior pursue an undercover sabotage operative smuggling black pearls to finance an illegal munitions pipeline. |
+| `ArmchairAdv_1952_FishermansLuck.mp3` <br>*Alt*: `Fisherman's Luck Armchair Adventures` | **"Fisherman's Luck with Marvin Miller"** | **Syndication**<br>1952-09-04 | **Sustaining**<br>Solo Storytelling | **Marvin Miller (All Voices)** | **Syndicated Audio Staff** | `["Drama", "Anthology", "Armchair Adventures", "Marvin Miller", "Syndication"]` | An elderly coastal fisherman hooks an unexpected waterlogged strongbox containing clues to an unsolved harbor heist. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 180 / 471 (227 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

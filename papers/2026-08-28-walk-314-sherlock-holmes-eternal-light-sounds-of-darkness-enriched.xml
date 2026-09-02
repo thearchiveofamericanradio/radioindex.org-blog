@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 28 Calendar Walk — Sherlock Holmes, The Eternal Light, and Sounds of Darkness</article-title>
+      <pub-date>2026-08-28</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 28, Calendar Walk, The New Adventures of Sherlock Holmes, Carleton Hobbs, Norman Shelley, Sir Arthur Conan Doyle, Michael Hardwick, The Bruce-Partington Plans, The Eternal Light, Jewish Theological Seminary, Alexander Scourby, Norman Rose, Marian Seldes, The Sounds of Darkness, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 28 Archival Metadata Enrichment (Increment 314)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio, BBC Light Programme, and syndication, Carleton Hobbs & Norman Shelley recovering stolen naval submarine blueprints on *The New Adventures of Sherlock Holmes* (1964), Alexander Scourby in four spiritual and ethical dramatizations on NBC's *The Eternal Light* for the Jewish Theological Seminary (1949–1966), and a chilling loan shark thriller on *The Sounds of Darkness* (1949–1973):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 28 Archival Inventory (Increment 314)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Sounds_Darkness_1973.mp3` <br>*Alt*: `A Mug's Game` | **"A Mug's Game"** | **Syndicated Elec**<br>1973-08-28 | **Sustaining**<br>Audio Thriller | **Dramatic Horror Cast** | **Syndicated Drama Staff** | `["Horror", "Suspense", "Psychological", "Noir", "Anthology"]` | A desperate small-time gambler gets trapped in a lethal underworld loan trap when his debt-collection deadline arrives. |
+| `Eternal_Light_1949.mp3` <br>*Alt*: `Words We Live By (Part 8)` | **"The Words We Live By (Part 8)"** | **NBC (WNBC)**<br>1949-08-28<br>12:30 PM EDT | **Jewish Theo. Seminary**<br>Sustaining Broadcast | **Alexander Scourby**, **Roger De Koven** | **Cantorial Choir** | `["Religious", "Judaica", "Docudrama", "Philosophy", "Anthology"]` | A philosophical dramatization exploring the universal moral ethics and timeless wisdom embedded within biblical proverbs. |
+| `Eternal_Light_1955.mp3` <br>*Alt*: `Stories Hebrew People Pt 9` | **"Stories of the Hebrew People (Part 9)"** | **NBC (WRCA)**<br>1955-08-28<br>12:30 PM EDT | **Jewish Theo. Seminary**<br>Sustaining Broadcast | **Alexander Scourby**, **Norman Rose** | **Dramatic Ensemble** | `["Religious", "Judaica", "Docudrama", "History", "Anthology"]` | A dramatic chronicle of ancient desert wandering and spiritual renewal during the building of biblical sanctuaries. |
+| `Eternal_Light_1960.mp3` <br>*Alt*: `Psalms Human Documents 12` | **"The Psalms as Great Human Documents (Part 12)"** | **NBC (WNBC)**<br>1960-08-28<br>12:30 PM EDT | **Jewish Theo. Seminary**<br>Sustaining Broadcast | **Alexander Scourby**, **David Putterman** | **NBC Religious Staff** | `["Religious", "Judaica", "Docudrama", "Poetry", "Inspirational"]` | An interpretive celebration of King David's Psalms as foundational literary documents of human perseverance, comfort, and faith. |
+| `Eternal_Light_1966.mp3` <br>*Alt*: `Words of Faith and Freedom` | **"Words of Faith and Freedom"** | **NBC (WNBC)**<br>1966-08-28<br>12:30 PM EDT | **Jewish Theo. Seminary**<br>Sustaining Broadcast | **Alexander Scourby**, **Marian Seldes** | **NBC Religious Staff** | `["Religious", "Judaica", "Docudrama", "Civil Rights", "Human Interest"]` | A documentary dramatization tracing modern civil rights struggles through the lens of ancient biblical covenants and ethical teachings. |
+| `Holmes_1964_Bruce.mp3` <br>*Alt*: `The Bruce-Partington Plans` | **"The Bruce-Partington Plans"** | **BBC Light Prog**<br>1964-08-28 | **Sustaining**<br>Detective Drama | **Carleton Hobbs**, **Norman Shelley** | **Michael Hardwick (Adapt)** | `["Detective", "British", "Mystery", "Victorian", "Espionage"]` | Sherlock Holmes and Dr. Watson race across London to recover stolen top-secret submarine blueprints found on a murdered clerk atop a subway train carriage. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 348
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

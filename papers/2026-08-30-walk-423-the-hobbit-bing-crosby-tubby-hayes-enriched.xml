@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — The Hobbit, Bing Crosby, and Tubby Hayes</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, The Mind's Eye, J.R.R. Tolkien, The Hobbit, Bilbo Baggins, Gandalf, The Wind in the Willows, Kenneth Grahame, Bing Crosby, Rosemary Clooney, Buddy Cole, Anything Goes, Tubby Hayes, Modern Jazz, BBC Light Programme, The Line-Up, Blake Edwards, Lum and Abner, Frigidaire, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 423)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio, British modern jazz broadcasting, and landmark fantasy audio dramatizations, *The Mind's Eye* audio adaptations of J.R.R. Tolkien's *The Hobbit* and Kenneth Grahame's *The Wind in the Willows* (1983–1985), Bing Crosby and Rosemary Clooney singing *Anything Goes* with Buddy Cole (1961), British tenor saxophonist Tubby Hayes on *Play It Cool* (1964), Blake Edwards' hard-hitting police procedural *The Line-Up* (1951), and *Lum and Abner* planning a St. Louis trip for Frigidaire (1948–1985):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 423)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lum_Abner_1948_StLouis.mp3` <br>*Alt*: `Abner Trip St Louis` | **"Abner Plans a Trip to St. Louis"** | **CBS (WCBS)**<br>1948-08-30<br>8:00 PM EDT | **General Motors**<br>Frigidaire Appliances | **Chester Lauck**, **Goff** | **Lauck & Norris Goff** | `["Comedy", "Rural", "Sitcom", "Americana", "Frigidaire"]` | Abner decides to spend his remaining savings on a luxury train trip to St. Louis, prompting Lum to devise a frugal alternative. |
+| `Play_It_Cool_1964_Hayes.mp3` <br>*Alt*: `Tubby Hayes Quintet` | **"Guest Tubby Hayes and His Quintet"** | **BBC Light Programme**<br>1964-08-30<br>4:30 PM BST | **Sustaining**<br>British Modern Jazz | **Tubby Hayes & Quintet** | **BBC Jazz Production Staff** | `["Jazz", "Hard Bop", "British", "Modern Jazz", "BBC"]` | Tubby Hayes leads his modern jazz quintet in high-tempo hard bop compositions and melodic ballad improvisations. |
+| `Bing_Rosie_1961_Goes.mp3` <br>*Alt*: `Anything Goes Crosby Clooney` | **"Anything Goes with Buddy Cole"** | **CBS (WCBS)**<br>1961-08-30<br>10:45 AM EDT | **Sustaining**<br>Morning Vocal Variety | **Bing Crosby**, **Clooney** | **Buddy Cole and His Trio** | `["Music", "Vocal", "Pop Standards", "Easy Listening", "Duet"]` | Bing Crosby and Rosemary Clooney sing Cole Porter's Anything Goes and trade lighthearted show-business humor with Buddy Cole. |
+| `Line_Up_1951_Firebugs.mp3` <br>*Alt*: `Warehouse Firebugs Line Up` | **"The Case of the Warehouse Firebugs"** | **CBS (WCBS)**<br>1951-08-30<br>9:00 PM EDT | **Sustaining**<br>Police Procedural | **William Daniels**, **Moyles** | **Blake Edwards (Writer)** | `["Police", "Procedural", "Crime", "Docudrama", "Blake Edwards"]` | Lieutenant Ben Guthrie and Sergeant Matt Grebb interrogate suspect arsonists after a string of suspicious waterfront warehouse blazes. |
+| `Minds_Eye_1983_Hobbit1.mp3` <br>*Alt*: `The Minds Eye Hobbit 1` | **"The Hobbit (Chapter 1 - An Unexpected Party)"** | **NPR / Mind's Eye**<br>1983-08-30 | **Sustaining**<br>Audio Dramatization | **Ray Reinhardt**, **Mayes** | **J.R.R. Tolkien & Bob Lewis** | `["Fantasy", "Classics", "Adventure", "Adaptation", "Tolkien"]` | Comfortable hobbit Bilbo Baggins is startled when wizard Gandalf and thirteen dwarves arrive uninvited to recruit him for a dragon quest. |
+| `Minds_Eye_1985_Willows1.mp3` <br>*Alt*: `Wind In The Willows 1` | **"The Wind in the Willows (Part 1 - The River Bank)"** | **NPR / Mind's Eye**<br>1985-08-30 | **Sustaining**<br>Audio Dramatization | **Bernard Mayes**, **Reinhardt** | **Kenneth Grahame (Author)** | `["Children's", "Classics", "Animal Fantasy", "Adaptation", "Audio Drama"]` | Mole abandons his spring housecleaning to explore the tranquil riverbank where he befriends Water Rat and learns to row a boat. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 210 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 2 Calendar Walk — FBI in Peace and War, Lower Basin Street &amp; Ray Anthony</article-title>
+      <pub-date>2026-09-02</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 2, Calendar Walk, The FBI in Peace and War, Martin Blaine, Wrigleys Gum, Chamber Music Society of Lower Basin Street, Henry Levine, Jane Pickens, AFRS, Here's to Veterans, Ray Anthony, Veterans Administration, Voice of the Army, The Half and Half Show, Leo Reisman, Half and Half Tobacco, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 2 Archival Metadata Enrichment (Increment 603)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across gripping Federal Bureau of Investigation crime investigations, satirical Dixieland jazz concerts, public service veteran big band remotes, military recruitment comedies, and society orchestra melodies, Martin Blaine in *The FBI in Peace and War* for Wrigley's Gum (1953, 1956), Henry Levine and Jane Pickens on *The Chamber Music Society of Lower Basin Street* (1950), Ray Anthony on *Here's to Veterans* (1952), *Voice of the Army* (1946), and Leo Reisman on *The Half and Half Show* (1938–1956):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 2 Archival Inventory (Increment 603)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `FBI_1953_EndRope.mp3` <br>*Alt*: `End Of The Rope The FBI In Peace And War` | **"End of the Rope with Martin Blaine and Wrigley's"** | **CBS (WCBS)**<br>1953-09-02<br>8:00 PM EDT | **Wm. Wrigley Jr. Co.**<br>Spearmint Chewing Gum | **Martin Blaine (Narrator)** | **Walter Greaza & Marcin** | `["Police", "Crime", "FBI", "FBI In Peace And War", "Wrigleys"]` | Federal agents track an extortionist who mails threatening demands for ransom money to prominent department store executives. |
+| `FBI_1956_IntentKill.mp3` <br>*Alt*: `With Intent to Kill FBI In Peace And War` | **"With Intent to Kill with Martin Blaine"** | **CBS (WCBS)**<br>1956-09-02<br>6:30 PM EDT | **Sustaining**<br>Crime Drama | **Martin Blaine (Narrator)** | **CBS Crime Drama Unit** | `["Police", "Crime", "FBI", "FBI In Peace And War", "CBS"]` | Special agents unravel a premeditated murder-for-hire plot targeting a state crown witness scheduled to testify in an interstate gambling trial. |
+| `Voice_1946_Dentist.mp3` <br>*Alt*: `Private Dingle and The Dentist Voice of Army` | **"Private Dingle and the Dentist with U.S. Army Recruiting"** | **Syndication**<br>1946-09-02 | **U.S. Army Recruiting**<br>Public Service | **Military Dramatic Cast** | **U.S. Army Radio Bureau** | `["Military", "Drama", "Comedy", "Voice Of The Army", "Recruiting"]` | A nervous young enlistee discovers modern painless military dental care during routine recruit processing. |
+| `Basin_1950_LevinePickens.mp3` <br>*Alt*: `Guest - Henry Levine, Jane Pickens (AFRS)` | **"Guests Henry Levine and Jane Pickens with AFRS"** | **AFRS / NBC**<br>1950-09-02 | **Armed Forces Radio**<br>Downbeat Feature | **Henry Levine**, **Pickens** | **Barefooted Philharmonic** | `["Music", "Jazz", "Dixieland", "Lower Basin Street", "AFRS"]` | Trumpeter Henry Levine and soprano Jane Pickens perform swinging Dixieland jazz and satirical classical counterpoint. |
+| `Veterans_1952_RayAnthony.mp3` <br>*Alt*: `Here's to Veterans: Ray Anthony and His Orchestra` | **"Ray Anthony and His Orchestra with Veterans Administration"** | **VA Transcriptions**<br>1952-09-02 | **Veterans Administration**<br>GI Bill Information | **Ray Anthony and Orch.** | **Tommy Mercer (Vocals)** | `["Music", "Big Band", "Heres To Veterans", "Ray Anthony", "VA"]` | Bandleader Ray Anthony plays vibrant brass swing instrumentals and promotes educational benefits under the GI Bill. |
+| `HalfHalf_1938_SaysMyHeart.mp3` <br>*Alt*: `First Song - Says My Heart Half and Half Show` | **"Says My Heart with Leo Reisman and Half & Half Tobacco"** | **CBS (WABC)**<br>1938-09-02<br>10:00 PM EDST | **American Tobacco Co.**<br>Half & Half Tobacco | **Leo Reisman and Orch.** | **Felix Knight (Tenor)** | `["Music", "Big Band", "Half and Half Show", "Leo Reisman", "Tobacco"]` | Leo Reisman conducts his society orchestra playing melodic dance tunes including the popular hit Says My Heart. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 230 / 480 (250 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

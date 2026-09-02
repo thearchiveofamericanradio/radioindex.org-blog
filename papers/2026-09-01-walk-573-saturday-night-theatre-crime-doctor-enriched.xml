@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 1 Calendar Walk — Saturday Night Theatre &amp; Crime Doctor</article-title>
+      <pub-date>2026-09-01</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 1, Calendar Walk, Saturday Night Theatre, BBC Home Service, BBC Radio 4, Sutton Vane, Outward Bound, Hugh Hastings, Seagulls Over Sorrento, Val Gielgud, Crime Doctor, Ray Collins, Philip Morris, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 1 Archival Metadata Enrichment (Increment 573)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across the illustrious history of British radio drama on the BBC and American psychological detective mysteries, Ray Collins in *Crime Doctor* for Philip Morris (1946), alongside a five-decade retrospective of the BBC's flagship *Saturday Night Theatre* presenting Sutton Vane's metaphysical masterpiece *Outward Bound* (1945), *The Raphael Resurrection* (1951), Hugh Hastings's *Seagulls Over Sorrento* (1956), *This Land of Ours* (1962), and *The Rise and Fall of Liberty Wilkes* (1973):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 1 Archival Inventory (Increment 573)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Crime_Doctor_1946_Barbers.mp3` <br>*Alt*: `1st chair barber vs 4th chair barber` | **"The First Chair Barber vs. the Fourth Chair Barber with Ray Collins"** | **CBS (WABC)**<br>1946-09-01<br>8:30 PM EDT | **Philip Morris & Co.**<br>Philip Morris Cigarettes | **Ray Collins (Dr. Ordway)** | **Max Marcin (Creator)** | `["Detective", "Mystery", "Crime Doctor", "Ray Collins", "Philip Morris"]` | Dr. Benjamin Ordway mediates a bitter rivalry between barbershop employees after razor sabotage threatens a customer's life. |
+| `SNT_1945_OutwardBound.mp3` <br>*Alt*: `Outward Bound Saturday Night Theatre` | **"Sutton Vane's Outward Bound with BBC Radio Drama"** | **BBC Home Service**<br>1945-09-01<br>9:20 PM BST | **Sustaining**<br>British Radio Drama | **BBC Drama Repertory Co.** | **Val Gielgud (Producer)** | `["Drama", "Fantasy", "Saturday Night Theatre", "BBC", "Val Gielgud"]` | A diverse group of ocean liner passengers slowly realize they are deceased souls journeying toward divine judgment. |
+| `SNT_1951_Raphael.mp3` <br>*Alt*: `The Raphael Resurrection SNT` | **"The Raphael Resurrection with BBC Radio Drama"** | **BBC Home Service**<br>1951-09-01<br>9:15 PM BST | **Sustaining**<br>British Radio Drama | **BBC Drama Repertory Co.** | **BBC Drama Unit** | `["Drama", "Mystery", "Saturday Night Theatre", "BBC", "Art"]` | An art restorer uncovers hidden Renaissance brushwork beneath a forgotten religious canvas, triggering an international provenance dispute. |
+| `SNT_1956_SeagullsSorrento.mp3` <br>*Alt*: `Seagulls over Sorrento SNT` | **"Hugh Hastings's Seagulls Over Sorrento with BBC Radio Drama"** | **BBC Home Service**<br>1956-09-01<br>9:15 PM BST | **Sustaining**<br>British Radio Drama | **BBC Drama Repertory Co.** | **Hugh Hastings (Writer)** | `["Drama", "Military", "Saturday Night Theatre", "BBC", "Naval"]` | British naval ratings stationed on an isolated Scottish island fortress face perilous explosive trials while testing an experimental underwater mine. |
+| `SNT_1962_ThisLand.mp3` <br>*Alt*: `This Land of Ours Saturday Night Theatre` | **"This Land of Ours with BBC Radio Drama"** | **BBC Home Service**<br>1962-09-01<br>8:30 PM BST | **Sustaining**<br>British Radio Drama | **BBC Drama Repertory Co.** | **BBC Drama Unit** | `["Drama", "Family", "Saturday Night Theatre", "BBC", "Rural"]` | Generational tensions erupt within an English farming family when post-war industrial developers seek to purchase ancestral pastureland. |
+| `SNT_1973_LibertyWilkes.mp3` <br>*Alt*: `The Rise and Fall of Liberty Wilkes` | **"The Rise and Fall of Liberty Wilkes with BBC Radio Drama"** | **BBC Radio 4**<br>1973-09-01<br>8:30 PM BST | **Sustaining**<br>British Radio Drama | **BBC Drama Repertory Co.** | **BBC Radio 4 Drama** | `["Drama", "History", "Saturday Night Theatre", "BBC Radio 4", "Victorian"]` | A charismatic Victorian orator builds a working-class political movement before corrupt financial entanglements threaten his reputation. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 360 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

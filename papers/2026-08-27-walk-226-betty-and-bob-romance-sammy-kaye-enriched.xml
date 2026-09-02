@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 27 Calendar Walk — Betty and Bob, Romance, and Sammy Kaye</article-title>
+      <pub-date>2026-08-27</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 27, Calendar Walk, Betty and Bob, Frank and Anne Hummert, Arlene Francis, Spencer Bentley, Romance, Norman Macdonnell, John Dehner, Virginia Gregg, Parley Baer, Jeanette Nolan, Sammy Kaye, Swing and Sway, Serutan, Retribution, Chesterfield Time, Hal Kemp, Skinny Ennis, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 27 Archival Metadata Enrichment (Increment 226)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio and syndication, Frank and Anne Hummert's classic daytime serial *Betty and Bob*, two Norman Macdonnell productions on *Romance* (1953 Captain Huckabee's Beard with John Dehner, 1955 Mrs. O'Toole with Parley Baer), Sammy Kaye swinging on *Sammy Kaye's Showroom* for Serutan, European espionage thriller *Retribution*, and Hal Kemp & Skinny Ennis on *Chesterfield Time* (1937–1955):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 27 Archival Inventory (Increment 226)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Betty_and_Bob_1947.mp3` <br>*Alt*: `A Difficult Decision for Bob`, `1947` | **"A Difficult Decision for Bob"** | **Mutual (WOR)**<br>1947-08-27<br>10:15 AM EDT | **Commercial**<br>Soap Opera Sponsors | **Arlene Francis** (Betty), **Spencer Bentley** (Bob) | **Frank & Anne Hummert** | `["Soap Opera", "Drama", "Domestic", "Marriage", "Serial"]` | Bob Drake struggles with a painful ethical compromise at his publishing firm while Betty tries to shield their family from impending financial ruin. |
+| `Romance_1953.mp3` <br>*Alt*: `Captain Huckabee's Beard`, `1953` | **"Captain Huckabee's Beard"** | **CBS (WCBS)**<br>1953-08-27<br>9:00 PM EDT | **Sustaining**<br>Dramatic Anthology | **John Dehner**, **Virginia Gregg** | **Norman Macdonnell** (Director) | `["Romance", "Comedy", "Nautical", "Drama", "Anthology"]` | A stubborn old sea captain refuses to trim his magnificent nautical beard for his wedding until an eccentric bet forces his hand. |
+| `Romance_1955.mp3` <br>*Alt*: `The Courtship Of Mrs. Otoole`, `1955` | **"The Courtship of Mrs. O'Toole"** | **CBS (WCBS)**<br>1955-08-27<br>1:30 PM EDT | **Sustaining**<br>Dramatic Anthology | **Parley Baer**, **Jeanette Nolan** | **Norman Macdonnell** (Director) | `["Romance", "Comedy", "Drama", "Americana", "Anthology"]` | A determined Irish railroad worker attempts to court a proud, sharp-tongued boardinghouse widow with humorous persistence. |
+| `Sammy_Kaye_1944.mp3` <br>*Alt*: `Swing And Sway 1st Song - I'm Making Believe` | **"I'm Making Believe"** | **NBC Red (WEAF)**<br>1944-08-27<br>1:30 PM EWT | **Serutan**<br>"Read It Backwards" | **Sammy Kaye**, **Nancy Norman**, **Tommy Ryan** | **Sammy Kaye Ensemble** | `["Music", "Big Band", "Swing", "Pop Standards", "Vocal"]` | Sammy Kaye leads his orchestra in gentle swing melodies and audience sing-alongs, headlined by Mack Gordon's wartime ballad 'I'm Making Believe'. |
+| `Retribution_1946.mp3` <br>*Alt*: `The Double Cross in Lisbon`, `1946` | **"The Double Cross in Lisbon"** | **Syndicated Elec**<br>1946-08-27 | **Commercial**<br>Crime Melodrama | **Syndicated Dramatic Cast** | **Syndicated Production** | `["Crime", "Mystery", "Noir", "Suspense", "Anthology"]` | A ruthless international jewel smuggler in postwar Lisbon schemes to double-cross his conspirators, unaware that his trusted accomplice is an undercover agent. |
+| `Chesterfield_1937.mp3` <br>*Alt*: `First Song - You Can't Have Everything` | **"You Can't Have Everything"** | **CBS (WABC)**<br>1937-08-27<br>8:30 PM EDST | **Liggett & Myers**<br>Chesterfield ("They Satisfy!") | **Hal Kemp**, **Skinny Ennis**, **The Smoothies** | **Paul Douglas** (Announcer) | `["Music", "Big Band", "Swing", "Pop Standards", "Vocal"]` | Hal Kemp leads his orchestra in sophisticated dance rhythms, featuring Skinny Ennis singing the title song from the 20th Century-Fox musical 'You Can't Have Everything'. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 269
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

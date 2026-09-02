@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — Orson Welles' Twelfth Night, Bulldog Drummond, and The Amazing Mr. Malone</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, Columbia Presents Shakespeare, Twelfth Night, Orson Welles, Tallulah Bankhead, Burgess Meredith, Bulldog Drummond, Ned Wever, Luis Van Rooten, The Amazing Mr Malone, Gene Raymond, Craig Rice, Backstage Wife, Frank and Anne Hummert, Claire Niesen, Camay Soap, Strange As It Seems, Mary Celeste, Easy Money, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 407)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio, Orson Welles and Tallulah Bankhead starring in Shakespeare's *Twelfth Night* on *Columbia Presents Shakespeare* (1937), Ned Wever and Luis Van Rooten in *Bulldog Drummond* (1943), Gene Raymond as Craig Rice's criminal defense lawyer on *The Amazing Mr. Malone* (1947), Frank and Anne Hummert's *Backstage Wife* for Camay (1950), the maritime enigma of the *Mary Celeste* on *Strange As It Seems* (1935), and postal inspectors busting financial fraud on *Easy Money* (1935–1950):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 407)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Easy_Money_1946.mp3` <br>*Alt*: `Oil Stock Swindle` | **"The Oil Stock Swindle"** | **Mutual (WOR)**<br>1946-08-30<br>8:30 PM EDT | **Sustaining**<br>Financial Docudrama | **Dramatic Voice Cast** | **Willard Wiener (Creator)** | `["True Crime", "Docudrama", "Fraud", "Swindles", "Investigation"]` | Postal inspectors track down a sophisticated confidence ring selling worthless shares in nonexistent Texas oil wells to elderly retirees. |
+| `CBS_Shakes_1937_12th.mp3` <br>*Alt*: `Twelfth Night Welles` | **"Twelfth Night with Orson Welles and Tallulah Bankhead"** | **CBS (WABC)**<br>1937-08-30<br>8:00 PM EDST | **Sustaining**<br>Shakespearean Cycle | **Orson Welles**, **Bankhead** | **Meredith & Victor Bay** | `["Drama", "Classics", "Shakespeare", "Comedy", "Adaptation"]` | Shipwrecked Viola disguises herself as a pageboy in Illyria and falls into a web of romantic confusion with Duke Orsino and Countess Olivia. |
+| `Bulldog_Drum_1943.mp3` <br>*Alt*: `Case Dancing Skeletons` | **"The Case of the Dancing Skeletons"** | **Mutual (WOR)**<br>1943-08-30<br>8:00 PM EWT | **Sustaining**<br>Detective Adventure | **Ned Wever**, **Van Rooten** | **H.C. McNeile (Author)** | `["Detective", "Mystery", "Adventure", "British Sleuth", "Espionage"]` | Bulldog Drummond and Denny investigate ghostly luminous apparitions in an abandoned abbey used to mask an Axis espionage ring. |
+| `Backstage_1950_Party.mp3` <br>*Alt*: `Mary Invites Julia Oliver` | **"Mary Invites Julia and Oliver to a Theatre Party"** | **NBC (WNBC)**<br>1950-08-30<br>4:00 PM EDT | **Procter & Gamble**<br>Camay Soap / Crisco | **Claire Niesen**, **Meighan** | **Frank & Anne Hummert** | `["Soap Opera", "Drama", "Serial", "Daytime", "Hummert"]` | Mary attempts to reconcile Broadway rivals by hosting an intimate post-performance gathering after Larry's opening night. |
+| `Mr_Malone_1947_Book.mp3` <br>*Alt*: `Murdered Bookmaker` | **"The Case of the Murdered Bookmaker"** | **ABC (WJZ)**<br>1947-08-30<br>9:30 PM EDT | **Sustaining**<br>Mystery Drama | **Gene Raymond** (Malone) | **Craig Rice (Creator)** | `["Mystery", "Legal Drama", "Detective", "Hardboiled", "Craig Rice"]` | Criminal attorney John J. Malone defends a desperate gambler framed for the shooting death of a prominent Chicago bookmaker. |
+| `Strange_Seems_1935.mp3` <br>*Alt*: `Mystery Mary Celeste` | **"The Mystery of the Mary Celeste"** | **CBS (KNX)**<br>1935-08-30<br>9:00 PM PST | **Ex-Lax / Sust**<br>Laxative / Oddities | **John Hix** (Host) | **Strange As It Seems Staff** | `["Docudrama", "Mystery", "Historical", "Maritime", "Anthology"]` | John Hix dramatizes bizarre historical oddities including the ghost ship Mary Celeste discovered floating abandoned with cargo untouched. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 114 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

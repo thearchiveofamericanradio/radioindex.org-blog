@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Crime Files of Flamond &amp; I'm Sorry I Haven't a Clue</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, Crime Files of Flamond, Everett Clarke, Mike Wallace, Myron Wallace, Mutual, Im Sorry I Havent A Clue, Humphrey Lyttelton, Tim Brooke-Taylor, Graeme Garden, Barry Cryer, Willie Rushton, BBC Radio 4, Cities Service Concert, Highways in Melody, Paul Lavalle, Band of America, James Melton, Texaco Star Theatre, Al Goodman, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 783)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across psychological detective investigations on *The Crime Files of Flamond* starring Everett Clarke and a young Mike Wallace (as Myron Wallace), British panel satire on *I'm Sorry I Haven't a Clue* hosted by Humphrey Lyttelton (*The Artists Ball* [1978] and *The Hollywood Ball* [1981]), patriotic marches on *Cities Service Highways in Melody*, and James Melton singing operatic ballads on the *Texaco Star Theatre*, Everett Clarke (1946), Humphrey Lyttelton (1978–1981), and James Melton (1943–1955):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 783)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `CrimeFilesFlamond_1946_DubiousDeath.mp3` <br>*Alt*: `TCOT Dubious Death The Crime Files Of Flamond` | **"The Case of the Dubious Death with Everett Clarke"** | **Mutual (WOR)**<br>1946-09-05<br>8:30 PM EDT | **Sustaining**<br>Detective Mystery | **Everett Clarke & Dunlap** | **Russell Hughes (Writer)** | `["Detective", "Mystery", "Crime Files of Flamond", "Everett Clarke", "Mutual"]` | Criminologist Flamond uses psychiatric deductions to prove an apparent suicide in a locked art studio was an elaborate staging by a rival painter. |
+| `CrimeFilesFlamond_1956_CounterfeitWill.mp3` <br>*Alt*: `The Crime Files Of Flamond 1956 Episode` | **"The Case of the Counterfeit Will with Myron Wallace"** | **Mutual Radio**<br>1956-09-05 | **Sustaining**<br>Criminology Drama | **Myron Wallace (Flamond)** | **Mutual Production Staff** | `["Detective", "Mystery", "Crime Files of Flamond", "Mike Wallace", "Mutual"]` | Flamond uncovers a forged holographic testament used by an unscrupulous heir to seize an estate from an orphan foundation. |
+| `ISIHAC_1978_ArtistsBall.mp3` <br>*Alt*: `Artists Ball I'm Sorry I Haven't a Clue` | **"The Artists Ball with Humphrey Lyttelton"** | **BBC Radio 4**<br>1978-09-05 | **Sustaining**<br>British Comedy Panel | **Humphrey Lyttelton & Panel** | **Brooke-Taylor, Garden & Cryer** | `["Comedy", "Panel Show", "Im Sorry I Havent A Clue", "Humphrey Lyttelton", "BBC Radio 4"]` | The un-cooperative panel competes in improvised punning games, absurd songs to the tune of another, and the riotous Artists Ball round. |
+| `ISIHAC_1981_HollywoodBall.mp3` <br>*Alt*: `Hollywood Ball I'm Sorry I Haven't a Clue` | **"The Hollywood Ball with Humphrey Lyttelton"** | **BBC Radio 4**<br>1981-09-05 | **Sustaining**<br>British Comedy Panel | **Humphrey Lyttelton & Panel** | **Graeme Garden & Junkin** | `["Comedy", "Panel Show", "Im Sorry I Havent A Clue", "Humphrey Lyttelton", "BBC Radio 4"]` | Humphrey Lyttelton leads the panelists through Mornington Crescent tactics, film parodies in the Hollywood Ball, and silly song definitions. |
+| `CitiesService_1955_AutumnSymphony.mp3` <br>*Alt*: `Cities Service Highways in Melody 1955 Episode` | **"Autumn Symphony with Paul Lavalle and Band of America"** | **NBC (WRCA)**<br>1955-09-05<br>8:00 PM EDT | **Cities Service Co.**<br>Premium Petroleum | **Paul Lavalle & Band** | **Green Brothers & Black** | `["Music", "Concert Band", "Cities Service", "Paul Lavalle", "NBC"]` | Paul Lavalle directs the Band of America in brass arrangements of patriotic anthems, overtures, and traditional American marches. |
+| `JamesMelton_1943_SummerConcert.mp3` <br>*Alt*: `The James Melton Show 1943 Episode` | **"Summer Concert with James Melton and Texaco"** | **CBS (WABC)**<br>1943-09-05<br>9:30 PM EWT | **The Texas Company**<br>Texaco Fire-Chief Gas | **James Melton (Tenor)** | **Al Goodman and Orch.** | `["Music", "Vocal", "James Melton", "Texaco", "CBS"]` | Metropolitan Opera tenor James Melton sings operatic arias and romantic ballad selections backed by Al Goodman's Orchestra for Texaco. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 12 / 401 (389 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>
