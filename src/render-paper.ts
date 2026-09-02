@@ -26,8 +26,21 @@ function scholarTags(post: BlogPost, canonical: string): string {
  * document type, so the series needs no journal, ISSN, or editorial board. */
 export function reportNumber(post: BlogPost): string {
   const year = post.date.slice(0, 4);
-  const seq = /walk-(\d+)/.exec(post.slug)?.[1] ?? "000";
-  return `AAR-TR-${year}-${seq.padStart(4, "0")}`;
+  const walk = /walk-(\d+)/.exec(post.slug)?.[1];
+  if (walk) return `AAR-TR-${year}-${walk.padStart(4, "0")}`;
+  // A post that is not a numbered calendar walk still needs a stable number, and
+  // "0000" reads as a bug. Slug-derived so it never moves, and held above the walk
+  // range so the two series cannot collide.
+  let hash = 0;
+  for (const ch of post.slug) hash = (hash * 31 + ch.charCodeAt(0)) >>> 0;
+  return `AAR-TR-${year}-${String(9000 + (hash % 1000))}`;
+}
+
+/** A post written as a paper carries its own abstract heading. Rendering the
+ * template one as well shows the reader two abstracts, the excerpt and the real
+ * one, under identical headings. */
+function hasOwnAbstract(post: BlogPost): boolean {
+  return /<h[1-6][^>]*>\s*Abstract\s*<\/h[1-6]>/i.test(post.html);
 }
 
 export function renderPaper(post: BlogPost, meta: SiteMeta): string {
@@ -75,10 +88,10 @@ export function renderPaper(post: BlogPost, meta: SiteMeta): string {
       <a href="https://radioindex.org">radioindex.org</a>.
     </aside>
 
-    <section class="paper-abstract">
+    ${hasOwnAbstract(post) ? "" : `<section class="paper-abstract">
       <h2>Abstract</h2>
       <p>${esc(post.excerpt)}</p>
-    </section>
+    </section>`}
 
     <section class="paper-body">
       ${post.html}
