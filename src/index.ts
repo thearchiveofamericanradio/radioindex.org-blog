@@ -4,7 +4,6 @@ import { renderHome } from "./render-home";
 import { renderPost } from "./render-post";
 import { renderPaper } from "./render-paper";
 import { renderPapers } from "./render-papers";
-import { paperFor } from "./paper-registry";
 
 const app = new Hono();
 
@@ -71,10 +70,7 @@ app.get("/papers", (c) => c.html(renderPapers(POSTS, SITE_META), 200, CACHE_HEAD
 app.get("/paper/:slug", (c) => {
   const slug = c.req.param("slug");
   const post = POSTS.find((p) => p.slug === slug);
-  // Only registered papers get a paper view. A dated archival dispatch is a record
-  // of cataloguing work, not an argument with evidence, and serving 1,100 of them
-  // as technical reports both overclaims and buries the real papers.
-  if (!post || !paperFor(slug)) {
+  if (!post) {
     return c.redirect(`/posts/${slug}`, 302);
   }
   return c.html(renderPaper(post, SITE_META), 200, CACHE_HEADERS);

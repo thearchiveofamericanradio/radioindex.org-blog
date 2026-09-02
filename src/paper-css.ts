@@ -66,7 +66,6 @@ body {
   font-weight: 600;
 }
 .paper-author { margin: 0; font-size: 18px; }
-.paper-affil { margin: 2px 0 0; font-size: 16px; color: var(--paper-muted); }
 .paper-date { margin: 4px 0 0; font-size: 16px; color: var(--paper-muted); }
 .paper h2 {
   margin: 40px 0 12px;

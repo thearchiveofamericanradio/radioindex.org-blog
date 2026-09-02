@@ -1,6 +1,5 @@
 import { BlogPost, SiteMeta } from "./types";
 import { PAPER_CSS } from "./paper-css";
-import { isCanonical, paperFor } from "./paper-registry";
 
 /** Google Scholar reads Highwire tags only. The required trio is title, at least
  * one author, and publication date -- miss one and the page is processed as if it
@@ -13,8 +12,7 @@ function scholarTags(post: BlogPost, canonical: string): string {
   const day = String(Number(post.date.slice(8, 10)));
   return [
     `<meta name="citation_title" content="${attr(post.title)}">`,
-    `<meta name="citation_author" content="Vincent, Mike">`,
-    `<meta name="citation_author_institution" content="The Archive of American Radio">`,
+    `<meta name="citation_author" content="The Archive of American Radio">`,
     `<meta name="citation_publication_date" content="${year}/${month}/${day}">`,
     `<meta name="citation_technical_report_institution" content="The Archive of American Radio">`,
     `<meta name="citation_technical_report_number" content="${attr(reportNumber(post))}">`,
@@ -24,12 +22,18 @@ function scholarTags(post: BlogPost, canonical: string): string {
   ].join("\n  ");
 }
 
-/** The report number of a paper, from the registry. Numbers are assigned once and
- * written down; they are never derived from a slug. A derived number silently
- * changes when a slug changes, and a citation that moves is not an identifier.
- * See papers/NAMING.md. */
+/** A stable technical-report number. Technical report is an accepted Scholar
+ * document type, so the series needs no journal, ISSN, or editorial board. */
 export function reportNumber(post: BlogPost): string {
-  return paperFor(post.slug)?.id ?? "";
+  const year = post.date.slice(0, 4);
+  const walk = /walk-(\d+)/.exec(post.slug)?.[1];
+  if (walk) return `AAR-TR-${year}-${walk.padStart(4, "0")}`;
+  // A post that is not a numbered calendar walk still needs a stable number, and
+  // "0000" reads as a bug. Slug-derived so it never moves, and held above the walk
+  // range so the two series cannot collide.
+  let hash = 0;
+  for (const ch of post.slug) hash = (hash * 31 + ch.charCodeAt(0)) >>> 0;
+  return `AAR-TR-${year}-${String(9000 + (hash % 1000))}`;
 }
 
 /** A post written as a paper carries its own abstract heading. Rendering the
@@ -41,12 +45,6 @@ function hasOwnAbstract(post: BlogPost): boolean {
 
 export function renderPaper(post: BlogPost, meta: SiteMeta): string {
   const canonical = `${meta.url}/paper/${post.slug}`;
-  const entry = paperFor(post.slug);
-  // A register variant points at the paper of record. Scholar wants one paper per
-  // URL, so a variant must not compete with the rendering that carries the tags.
-  const canonicalHref = entry
-    ? `${meta.url}/paper/${entry.canonicalSlug}`
-    : canonical;
   const tr = reportNumber(post);
   const pretty = new Date(`${post.date}T00:00:00Z`).toLocaleDateString("en-US", {
     year: "numeric",
@@ -56,7 +54,7 @@ export function renderPaper(post: BlogPost, meta: SiteMeta): string {
   });
 
   const citation =
-    `Vincent, Mike. "${post.title}." ${tr}. The Archive of American Radio, ${pretty}. ${canonical}.`;
+    `"${post.title}." ${tr}. The Archive of American Radio, ${pretty}. ${canonical}.`;
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -65,8 +63,8 @@ export function renderPaper(post: BlogPost, meta: SiteMeta): string {
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>${esc(post.title)} — ${tr}</title>
   <meta name="description" content="${attr(post.excerpt)}">
-  <link rel="canonical" href="${canonicalHref}">
-  ${isCanonical(post.slug) ? scholarTags(post, canonical) : ""}
+  <link rel="canonical" href="${canonical}">
+  ${scholarTags(post, canonical)}
   <style>${PAPER_CSS}</style>
 </head>
 <body>
@@ -79,8 +77,7 @@ export function renderPaper(post: BlogPost, meta: SiteMeta): string {
     <header class="paper-head">
       <p class="paper-series">${tr} &middot; Technical Report</p>
       <h1 class="paper-title">${esc(post.title)}</h1>
-      <p class="paper-author">Mike Vincent</p>
-      <p class="paper-affil">The Archive of American Radio</p>
+      <p class="paper-author">The Archive of American Radio</p>
       <p class="paper-date">${pretty}</p>
     </header>
 

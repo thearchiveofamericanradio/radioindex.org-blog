@@ -1,7 +1,6 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { BlogPost, SiteMeta } from "../src/types";
-import { PAPERS } from "../src/paper-registry";
 import { renderHome } from "../src/render-home";
 import { renderPost } from "../src/render-post";
 
@@ -132,9 +131,8 @@ function generateSitemap(posts: BlogPost[], meta: SiteMeta): string {
     <priority>0.8</priority>
   </url>`),
     // Google Scholar crawls the paper pages, so each needs its own sitemap entry
-    // and a browse index it can reach in plain links. Only registered papers: a
-    // dispatch listed here is a claim that the dispatch is a technical report.
-    ...posts.filter((p) => PAPERS[p.slug]).map((p) => `  <url>
+    // and a browse index it can reach in plain links.
+    ...posts.map((p) => `  <url>
     <loc>${meta.url}/paper/${p.slug}</loc>
     <lastmod>${p.date}</lastmod>
     <changefreq>monthly</changefreq>
