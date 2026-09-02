@@ -116,7 +116,10 @@ main { flex: 1; margin-bottom: 64px; }
 .entry-log-item strong { color: var(--color-fg-default); font-weight: 600; }
 .entry-raw-link { color: var(--color-accent-fg); text-decoration: none; padding: 2px 8px; border: 1px solid var(--color-border-default); border-radius: 4px; background: var(--color-canvas-default); font-size: 0.78rem; }
 .entry-raw-link:hover { border-color: var(--color-accent-fg); }
-.entry-paper-link { color: var(--color-canvas-default); text-decoration: none; padding: 2px 8px; border: 1px solid var(--color-accent-fg); border-radius: 4px; background: var(--color-accent-fg); font-size: 0.78rem; margin-right: 6px; }
+.entry-paper-link { text-decoration: none; padding: 2px 8px; border: 1px solid var(--color-accent-fg); border-radius: 4px; background: var(--color-accent-fg); font-size: 0.78rem; margin-right: 6px; }
+/* The generic markdown-body link rule is 0-1-1 and would paint this label the same
+   blue as its own background, so the colour is set at 0-2-0 to outrank it. */
+.markdown-body .entry-paper-link { color: var(--color-canvas-default); text-decoration: none; }
 .entry-paper-link:hover { filter: brightness(1.15); }
 
 /* Footer */
