@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 26 Calendar Walk — Vaughn Monroe, Marie McDonald (AFRS), and Squad Cars SA</article-title>
+      <pub-date>2026-08-26</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 26, Calendar Walk, The Camel Caravan, Vaughn Monroe, Goodnight Irene, Mona Lisa, Camel Cigarettes, Command Performance, Marie McDonald, Woody Herman, Thundering Herd, Harry Von Zell, AFRS, Squad Cars, Springbok Radio, SABC South Africa, David Gooden, Artistry and Rhythm, Stan Kenton, June Christy, Maynard Ferguson, The American Challenge, Clara Barton, Red Cross, Anne Seymour, Morton Wishengrad, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 26 Exhaustive Archival Metadata Enrichment (Increment 145)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American, British, and international networks, Vaughn Monroe headlining 'Goodnight, Irene' on *The Camel Caravan*, glamorous movie star Marie McDonald hosting Woody Herman's Thundering Herd on *Command Performance*, two high-stakes flying squad cases on South Africa's *Squad Cars*, Stan Kenton and June Christy in *Artistry and Rhythm*, and Anne Seymour portraying Red Cross founder Clara Barton on *The American Challenge* (1940–1983):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 26 Archival Inventory (Increment 145)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Camel_Caravan_1950.mp3` <br>*Alt*: `First Song - Good Night, Irene`, `Vaughn Monroe Goodnight Irene` | **"Goodnight, Irene & Mona Lisa (Vaughn Monroe — Camel Caravan)"** | **CBS (WCBS)**<br>1950-08-26<br>7:30 PM EDT | **R.J. Reynolds Co.**<br>Camel Cigarettes & Prince Albert | **Vaughn Monroe**, **The Moon Maids**, **Ziggy Talent** | **William Esty & Co.**, **Bob Sherry** | `["Music", "Big Band", "Swing", "Vocal", "Variety"]` | "The Camel Caravan, starring Vaughn Monroe and his Orchestra, brought to you by Camel Cigarettes!" Baritone Vaughn Monroe and the Moon Maids headline the nationwide chart-topper 'Goodnight, Irene', followed by 'Mona Lisa', high-energy trumpet solos, and comedic novelty numbers from Ziggy Talent for Camel Cigarettes. |
+| `Command_Perf_1947.mp3` <br>*Alt*: `Marie McDonald, Woody Herman`, `Command Performance 286` | **"Command Performance #286 (Marie McDonald & Woody Herman — AFRS)"** | **AFRS**<br>1947-08-26<br>(Troop Broadcast) | **U.S. Armed Forces**<br>AFRS Worldwide Service | **Marie McDonald**, **Woody Herman Orchestra**, **Harry Von Zell** | **AFRS Hollywood**, **Bob Welch**, **Ken Carpenter** | `["Comedy", "Variety", "Military", "Big Band", "Vaudeville"]` | "Command Performance! By request of our fighting men overseas, starring glamorous Marie McDonald!" Marie McDonald hosts swinging musical requests with Woody Herman's Thundering Herd tearing through 'Caldonia' and 'Apple Honey', paired with comedy skits from Harry Von Zell for American troops stationed abroad. |
+| `Squad_Cars_1977.mp3` <br>*Alt*: `A Change of Luck`, `Squad Cars A Change of Luck` | **"A Change of Luck (David Gooden — Springbok Radio Squad Cars)"** | **Springbok Radio**<br>1977-08-26<br>8:00 PM SAST | **General Motors**<br>Chevrolet & Delco Batteries | **Colin Fisher**, **Hugh Rouse**, **Brian O'Shaughnessy** | **David Gooden** (Creator/Dir.) | `["Police Procedural", "Crime", "Action", "Drama", "International"]` | "They cruise the city streets by night and by day... Squad Cars!" When a small-time burglar experiences an unexpected streak of good fortune after looting a suburban safe, flying squad detectives in Johannesburg trace the sudden wealth to an armed diamond smuggling ring. |
+| `Squad_Cars_1983.mp3` <br>*Alt*: `The Peeping Tom`, `Squad Cars Peeping Tom 1983` | **"The Peeping Tom (Colin Fisher & David C. Campbell — Squad Cars)"** | **Springbok Radio**<br>1983-08-26<br>8:30 PM SAST | **Sustaining**<br>Police Flying Squad Drama | **David C. Campbell**, **Colin Fisher**, **Peter Terry** | **Colin Fisher**, **David Gooden** | `["Police Procedural", "Crime", "Action", "Drama", "International"]` | "Calling Car 5... Calling Car 5... Squad Cars!" Patrol car officers investigate reports of a nocturnal prowler stalking residential estates in Durban, realizing the voyeur is actually casing affluent homes for an organized syndicate of armed jewel thieves. |
+| `Artistry_Rhythm_1951.mp3` <br>*Alt*: `Artistry and Rhythm: Stan Kenton Prog 3`, `Kenton Progressive Jazz` | **"Progressive Jazz Concert #3 (Stan Kenton & June Christy — AFRS)"** | **AFRS**<br>1951-08-26<br>(Jazz Series #3) | **U.S. Armed Forces**<br>AFRS Worldwide Jazz | **Stan Kenton**, **June Christy**, **Maynard Ferguson** | **Pete Rugolo**, **Stan Kenton**, **Gene Norman** | `["Music", "Jazz", "Big Band", "Progressive Jazz", "Instrumental"]` | "Artistry and Rhythm, presenting Stan Kenton and his Innovations in Modern Music Orchestra!" Stan Kenton introduces groundbreaking modern jazz compositions including 'Artistry in Rhythm', 'Collaboration', and 'Eager Beaver', featuring soaring brass solos from Maynard Ferguson and vocals from June Christy. |
+| `American_Challenge_1940.mp3` <br>*Alt*: `The American Challenge 1940-08-26`, `Clara Barton Red Cross` | **"The Story of Clara Barton & The Red Cross (Anne Seymour — NBC Red)"** | **NBC Red (WEAF)**<br>1940-08-26<br>9:00 PM EDST | **Sustaining**<br>American History Docudrama | **Anne Seymour** (Clara Barton), **Karl Swenson** | **Morton Wishengrad**, **Joseph Losey**, **Ben Grauer** | `["Historical", "Docudrama", "Biography", "Drama", "Americana"]` | "The American Challenge! Stories of courage that built a free nation!" The heroic life of Civil War 'Angel of the Battlefield' Clara Barton is dramatized, chronicling her relentless crusade against bureaucratic opposition to establish the American Red Cross and provide battlefield relief to wounded soldiers. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 95
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

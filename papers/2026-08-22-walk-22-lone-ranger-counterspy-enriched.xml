@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 22 Calendar Walk — The Lone Ranger and David Harding, Counterspy</article-title>
+      <pub-date>2026-08-22</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 22, Calendar Walk, The Lone Ranger, Brace Beemer, Earle Graser, John Todd, Tonto, Fred Foy, General Mills, Cheerios, Bond Bread, Counterspy, David Harding, Don MacLaughlin, Mandel Kramer, Phillips H Lord, Kentucky Club Tobacco, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 22 Exhaustive Archival Metadata Enrichment</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for 6 historical broadcasts transmitting on **August 22** across American network broadcasting history (1941–1952):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 22 Exhaustive Archival Inventory*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lone_Ranger_1941_08_22.mp3` <br>*Alt*: `The Race`, `Land Rush 1342` | **"The Cross-Country Land Rush"** | **Mutual (WXYZ / WOR)**<br>1941-08-22<br>7:30 PM EST | **General Baking Company**<br>Bond Bread ("Certificate of Quality") | **Earle Graser / Brace Beemer** (Lone Ranger), **John Todd** (Tonto), **Bob Hite** (Announcer) | **Fran Striker** (Writer), **Charles D. Livingstone** (Director) | `["Western", "Adventure", "Children"]` | The Lone Ranger and Tonto help an honest young homesteader outride an armed posse hired by a ruthless cattle baron to prevent settlers from registering land claims at the federal territory office. |
+| `Lone_Ranger_1945_08_22.mp3` <br>*Alt*: `Last Coach West`, `Red River Gorge 1968` | **"The Last Coach West to Red River Gorge"** | **Blue / ABC (WXYZ)**<br>1945-08-22<br>7:30 PM EWT | **General Mills**<br>Cheerios ("Breakfast of energy") | **Brace Beemer** (The Lone Ranger), **John Todd** (Tonto), **Fred Foy** (Announcer) | **Fran Striker** (Writer), **Charles D. Livingstone** (Director) | `["Western", "Adventure", "Children"]` | The Lone Ranger and Tonto ride shotgun on the final scheduled overland stagecoach departing from St. Joe, thwarting a notorious highwayman's plot to dynamite the bridge over Red River Gorge. |
+| `Lone_Ranger_1947_08_22.mp3` <br>*Alt*: `Race Against Time`, `Serum Run 2278` | **"Race Against Time for Medical Serum"** | **ABC (WXYZ Detroit)**<br>1947-08-22<br>7:30 PM EDT | **General Mills**<br>Cheerios & Kix Cereal | **Brace Beemer** (The Lone Ranger), **John Todd** (Tonto), **Fred Foy** (Announcer) | **Fran Striker** (Writer), **Fred Flowerday** (Sound Effects) | `["Western", "Adventure", "Children"]` | With Silver galloping at breakneck speed, the Lone Ranger and Tonto race against time across an arid desert canyon to deliver life-saving medical serum to a quarantined settlement before an epidemic spreads. |
+| `Lone_Ranger_1951_08_22.mp3` <br>*Alt*: `Homecoming`, `Ex-Convict Son 2894` | **"The Rancher's Ex-Convict Son"** | **ABC (WXYZ Detroit)**<br>1951-08-22<br>7:30 PM EDT | **General Mills**<br>Cheerios & Wheaties ("Breakfast of Champions") | **Brace Beemer** (The Lone Ranger), **John Todd** (Tonto), **Fred Foy** (Announcer) | **Dan Beattie** (Writer), **Charles D. Livingstone** (Director) | `["Western", "Adventure", "Children"]` | The masked rider helps a reformed ex-convict prove his innocence when local townspeople accuse him of robbing the county bank on the very day he returned home to take over his ailing father's ranch. |
+| `Lone_Ranger_1952_08_22.mp3` <br>*Alt*: `Canvas Suitcase`, `Desert Stash 3050` | **"The Canvas Suitcase and the Desert Stash"** | **ABC (WXYZ Detroit)**<br>1952-08-22<br>7:30 PM EDT | **General Mills**<br>Cheerios | **Brace Beemer** (The Lone Ranger), **John Todd** (Tonto), **Fred Foy** (Announcer) | **Fran Striker** (Writer), **Charles D. Livingstone** (Director) | `["Western", "Adventure", "Children"]` | The Lone Ranger and Tonto track a canvas suitcase stuffed with stolen payroll money abandoned in an old mining shack, setting a trap for the desperate bandit gang when they return to retrieve their loot under cover of darkness. |
+| `Counterspy_1945_08_22.mp3` <br>*Alt*: `Counterfeit Passports`, `David Harding Nazi Cell` | **"The Case of the Counterfeit Passports"** | **Blue / ABC (WJZ)**<br>1945-08-22<br>8:30 PM EWT | **Mail Pouch Tobacco Co.**<br>Kentucky Club Pipe Tobacco | **Don MacLaughlin** (David Harding), **Mandel Kramer** (Harry Peters), **Ralph Bell** (Fritz) | **Phillips H. Lord** (Creator & Director), **Jerry O'Brien** (Sound Effects), **Bob Hite** (Announcer) | `["Espionage", "Mystery", "Drama", "Thriller"]` | Counterspy chief David Harding and operative Harry Peters investigate a forged passport ring operating out of a New York import-export warehouse, intercepting an escaped Nazi saboteur attempting to flee to South America with microfilmed industrial research. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 22
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 22**: 146
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

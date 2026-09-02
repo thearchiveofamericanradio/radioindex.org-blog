@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 1 Calendar Walk — Gangbusters, Lord Jim, and Mike Hammer</article-title>
+      <pub-date>2026-09-01</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 1, Calendar Walk, Gangbusters, Phillips H Lord, Norman Schwarzkopf, Palmolive, Sloans Liniment, Chesterfield, BBC Classic Serial, Joseph Conrad, Lord Jim, Patrick Malahide, Rogues Gallery, Dick Powell, Fitch, That Hammer Guy, Mickey Spillane, Larry Haines, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 1 Archival Metadata Enrichment (Increment 520)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serialized classic drama metadata, and pure narrative synopses for broadcasts transmitting on **September 1** across hard-hitting police docudramas, BBC maritime literary serials, hardboiled detective mysteries, and pulp noir, three explosive cases of Phillips H. Lord's *Gangbusters* (1937, 1944, 1951), Patrick Malahide in Joseph Conrad's *Lord Jim* (1985), Dick Powell as Richard Rogue in *Rogue's Gallery* (1946), and Larry Haines as Mickey Spillane's *Mike Hammer* (1937–1985):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 1 Archival Inventory (Increment 520)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres & Serial Arc | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Gangbusters_1937_BobZwick1.mp3` <br>*Alt*: `The Case Of Bob Zwick - Part 1` | **"The Case of Bob Zwick (Part 1) with Colonel H. Norman Schwarzkopf and Palmolive"** | **CBS (WABC)**<br>1937-09-01<br>10:00 PM EDST | **Colgate-Palmolive**<br>Palmolive Shave Cream | **Norman Schwarzkopf** | **Phillips H. Lord (Creator)** | `["Crime", "Docudrama", "Gangbusters", "Phillips H Lord", "Palmolive"]`<br>*Arc*: **The Case of Bob Zwick (Part 1 of 2)** | State troopers initiate a multi-county manhunt for a daring armed bank robber and prison escapee known as Bob Zwick. |
+| `Gangbusters_1944_RedJordan.mp3` <br>*Alt*: `The Case Of Red Jordon` | **"The Case of Red Jordan with Phillips H. Lord and Sloan's Liniment"** | **Blue Network**<br>1944-09-01<br>9:00 PM EWT | **Wm. R. Warner Co.**<br>Sloan's Liniment | **Phillips H. Lord**, **MacLaughlin** | **Paul Stewart (Director)** | `["Crime", "Docudrama", "Gangbusters", "Phillips H Lord", "Sloans"]` | Federal agents and highway patrolmen track a violent armed payroll bandit operating across state lines in the Midwest. |
+| `Gangbusters_1951_TriggerTwins.mp3` <br>*Alt*: `The Case Of The Trigger Twins` | **"The Case of the Trigger Twins with Phillips H. Lord and Chesterfield"** | **CBS (WCBS)**<br>1951-09-01<br>9:00 PM EDT | **Liggett & Myers**<br>Chesterfield Cigarettes | **Phillips H. Lord**, **Haines** | **Phillips H. Lord (Producer)** | `["Crime", "Docudrama", "Gangbusters", "Phillips H Lord", "Chesterfield"]` | Detectives stake out city jewelry shops to apprehend two ruthless twin brothers executing daylight smash-and-grab robberies. |
+| `LordJim_1985_Part1.mp3` <br>*Alt*: `Lord Jim - Part 1 of 6` | **"Joseph Conrad's Lord Jim (Part 1) with BBC Radio Drama"** | **BBC Radio 4**<br>1985-09-01<br>9:00 PM BST | **Sustaining**<br>BBC Literary Serial | **Patrick Malahide**, **Lang** | **Joseph Conrad (Author)** | `["Drama", "Classics", "Literature", "Lord Jim", "BBC Radio 4"]`<br>*Arc*: **Lord Jim (Part 1 of 6)** | A disgraced young British maritime officer faces a formal naval board of inquiry after abandoning the pilgrim ship Patna. |
+| `Rogues_1946_Triangle.mp3` <br>*Alt*: `Rogues Gallery 1946 Episode` | **"The Triangle Murder Case with Dick Powell (Fitch)"** | **Mutual (WOR)**<br>1946-09-01<br>7:30 PM EDT | **F.W. Fitch Company**<br>Fitch Shampoo | **Dick Powell**, **Tuttle** | **Ray Buffum (Writer)** | `["Detective", "Mystery", "Hardboiled", "Rogues Gallery", "Dick Powell", "Fitch"]` | Private investigator Richard Rogue is knocked unconscious while investigating a jealous love triangle and meets his alter-ego Eugor in Cloud Eight. |
+| `Hammer_1953_Blackmail.mp3` <br>*Alt*: `That Hammer Guy 1953 Episode` | **"The Blackmail Homicide with Larry Haines (Mickey Spillane)"** | **Mutual (WOR)**<br>1953-09-01<br>8:30 PM EDT | **Sustaining**<br>Mickey Spillane Mystery | **Larry Haines**, **Miner** | **Mickey Spillane (Creator)** | `["Detective", "Hardboiled", "Mike Hammer", "Mickey Spillane", "Mutual"]` | Mike Hammer tears through the city's criminal underworld to avenge a friend framed for the shooting of a corrupt blackmailer. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 42 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

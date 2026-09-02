@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 4 Calendar Walk — Pinocchio, Jack Webb &amp; Kraft Music Hall</article-title>
+      <pub-date>2026-09-04</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 4, Calendar Walk, Academy Award Theater, Pinocchio, Cliff Edwards, Jiminy Cricket, Squibb, Kraft Music Hall, Don Ameche, Joan Bennett, Roland Young, Nelson Eddy, Nadine Conner, Kraft Foods, Johnny Madero Pier 23, Jack Webb, Richard L Breen, Jimmie Allen, Skelly Oil, Speed Gibson, John Lake, Howard McNear, Serial Story Arc, The Transcontinental Air Race, The Octopus Gang, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 4 Archival Metadata Enrichment (Increment 722)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story metadata declarations, and pure narrative synopses for broadcasts transmitting on **September 4** across Cliff Edwards reprising his voice role as Jiminy Cricket in *Pinocchio* on *Academy Award Theater* for Squibb, two classic guest-host eras on *Kraft Music Hall* (Don Ameche in 1941 and Nelson Eddy in 1947), Jack Webb's tough waterfront sleuth on *Johnny Madero, Pier 23*, vintage aviation serial cliffhangers on *Jimmie Allen*, and youth spy adventures on *Speed Gibson*, Cliff Edwards (1946), Don Ameche (1941), Nelson Eddy (1947), Jack Webb (1947), *Jimmie Allen* (1936), and *Speed Gibson* (1936–1947):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 4 Archival Inventory (Increment 722)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Arc Metadata | Story Synopsis |
+|---|---|---|---|---|---|---|---|---|
+| `AcadAward_1946_Pinocchio.mp3` <br>*Alt*: `Pinnochio Academy Award Theater` | **"Pinocchio with Cliff Edwards as Jiminy Cricket"** | **CBS (KNX)**<br>1946-09-04<br>10:00 PM EDT | **E.R. Squibb & Sons**<br>Squibb Dental Cream | **Cliff Edwards (Jiminy)** | **Dee Engelbach (Dir.)** | `["Drama", "Fantasy", "Academy Award Theater", "Cliff Edwards", "Squibb"]` | `null` | A wooden puppet carved by Geppetto embarks on a whimsical journey to become a real living boy by proving himself brave, truthful, and unselfish. |
+| `Kraft_1941_DonAmeche.mp3` <br>*Alt*: `Guest Host - Don Ameche, Guest - Joan Bennett, Roland Young Kraft Music Hall` | **"Guest Host Don Ameche with Joan Bennett and Roland Young"** | **NBC Red (WEAF)**<br>1941-09-04<br>9:00 PM EDST | **Kraft Cheese Co.**<br>Miracle Whip & Mayonnaise | **Don Ameche (Host)** | **Joan Bennett & Young** | `["Music", "Variety", "Kraft Music Hall", "Don Ameche", "Joan Bennett"]` | `null` | Guest host Don Ameche trades comedic banter with screen stars Joan Bennett and Roland Young between swing and pop orchestral medleys. |
+| `Kraft_1947_NelsonEddy.mp3` <br>*Alt*: `Guest Host - Nelson Eddy Kraft Music Hall` | **"Guest Host Nelson Eddy with Nadine Conner"** | **NBC (WEAF)**<br>1947-09-04<br>9:00 PM EDT | **Kraft Foods Co.**<br>Kraft Mayonnaise | **Nelson Eddy & Conner** | **John Scott Trotter** | `["Music", "Vocal", "Kraft Music Hall", "Nelson Eddy", "Kraft"]` | `null` | Operatic baritone Nelson Eddy and soprano Nadine Conner perform classical arias and romantic Broadway showtunes. |
+| `JimmieAllen_1936_Hangar.mp3` <br>*Alt*: `Trapped in the Hangar Air Adventures of Jimmie Allen` | **"Trapped in the Hangar with Jimmie Allen"** | **Syndication / Skelly**<br>1936-09-04 | **Skelly Oil Company**<br>Tagolene Motor Oil | **Murray McLean (Jimmie)** | **Bob Burtt & Moore** | `["Adventure", "Aviation", "Jimmie Allen", "Skelly Oil", "Juvenile"]` | `{"title": "The Transcontinental Air Race", "part": 28, "total_parts": 45}` | Teenage aviator Jimmie Allen is locked inside an airfield hangar by saboteurs attempting to tamper with his racing plane's fuel lines. |
+| `JohnnyMadero_1947_PearlDiving.mp3` <br>*Alt*: `Johnny Madero, Pier 23 1947 Episode` | **"The Fatal Pearl Diving Syndicate with Jack Webb as Johnny Madero"** | **Mutual (WOR)**<br>1947-09-04<br>8:30 PM EDT | **Sustaining**<br>Hardboiled Detective | **Jack Webb (Johnny)** | **Richard L. Breen (Writer)** | `["Detective", "Hardboiled", "Johnny Madero", "Jack Webb", "Mutual"]` | `null` | San Francisco waterfront boat-renter Johnny Madero investigates the drowning murder of an offshore deep-sea pearl diver. |
+| `SpeedGibson_1937_LostTunnel.mp3` <br>*Alt*: `Speed Is Lost In The Tunnel Speed Gibson` | **"Speed Is Lost in the Tunnel with John Lake as Speed Gibson"** | **Syndication / Mutual**<br>1937-09-04 | **Sustaining**<br>International Spy Drama | **John Lake (Speed)** | **Howard McNear & Cooke** | `["Adventure", "Spy", "Speed Gibson", "John Lake", "Juvenile"]` | `{"title": "The Octopus Gang", "part": 38, "total_parts": 60}` | Young secret agent Speed Gibson navigates a pitch-black subterranean tunnel beneath an Asian mountain fortress to escape the Octopus cartel. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 4
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 4**: 54 / 471 (353 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

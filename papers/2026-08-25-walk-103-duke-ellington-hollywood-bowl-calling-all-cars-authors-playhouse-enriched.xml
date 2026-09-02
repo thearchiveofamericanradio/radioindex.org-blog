@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 25 Calendar Walk — Duke Ellington (Hollywood Bowl), Calling All Cars (Rio Grande), and Author's Playhouse</article-title>
+      <pub-date>2026-08-25</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 25, Calendar Walk, Duke Ellington, Johnny Hodges, Paul Gonsalves, Hollywood Bowl, Voice of America, Calling All Cars, LAPD Chief James E Davis, Rio Grande Gasoline, Authors Playhouse, Arthur Wing Pinero, Les Tremayne, Barbara Luddy, Olan Soule, Jane and the Boys, Jose Bettancourt, Walk Softly Peter Troy, Guy Doleman, ABC Australia, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 25 Exhaustive Archival Metadata Enrichment (Increment 103)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, Duke Ellington's legendary live concert at the Hollywood Bowl broadcast worldwide via Voice of America, LAPD Chief James E. Davis narrating real police case files on *Calling All Cars* for Rio Grande Gasoline, two stagings of Sir Arthur Wing Pinero's Cumberland drama on *Author's Playhouse*, tropical marimbas, and Australian hardboiled crime (1939–1966):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 25 Archival Inventory (Increment 103)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Authors_Playhouse_1943.mp3` <br>*Alt*: `Widow of Wasdales Place`, `Wasdale Head 1943 Pinero` | **"The Widow of Wasdale Head by Sir Arthur Wing Pinero (1943 — NBC)"** | **NBC Red (WMAQ)**<br>1943-08-25<br>11:30 PM EWT | **Sustaining**<br>Literary Drama Anthology | **Les Tremayne**, **Betty Winkler**, **Bret Morrison** | **Sir Arthur Wing Pinero**, **Wynn Wright**, **Marvin Mueller** | `["Drama", "Anthology", "British", "Classics", "Literature"]` | "Author's Playhouse, dedicated to the finest in world literature!" In this 1943 production of Sir Arthur Wing Pinero's classic Cumberland drama, a fiercely independent innkeeper widow in the rugged English Lake District must decide between two persistent suitors whose rivalry threatens her livelihood. |
+| `Authors_Playhouse_1944.mp3` <br>*Alt*: `The Widow Of Wasdale Head`, `Barbara Luddy Pinero 1944` | **"The Widow of Wasdale Head (1944 Revival Starring Barbara Luddy — NBC)"** | **NBC (WMAQ)**<br>1944-08-25<br>11:30 PM EWT | **Sustaining**<br>Literary Drama Anthology | **Barbara Luddy**, **Olan Soule**, **Willard Waterman** | **Sir Arthur Wing Pinero**, **Wynn Wright** | `["Drama", "Anthology", "British", "Classics", "Literature"]` | "Author's Playhouse!" In this re-staged 1944 revival of Pinero's English romantic drama, Barbara Luddy and Olan Soule star as the spirited Wasdale Head innkeeper and the proud local landowner who clash over traditional village rights. |
+| `Calling_All_Cars_1939.mp3` <br>*Alt*: `The 10th Commandment`, `Thou Shalt Not Covet LAPD` | **"The 10th Commandment (LAPD Chief James E. Davis — Rio Grande Gasoline)"** | **Don Lee (KHJ)**<br>1939-08-25<br>8:00 PM PST | **Rio Grande Petroleum**<br>Crack-Proof Gasoline | **Chief James E. Davis** (LAPD), **C.F. Lindsley** | **Kenneth Perkins**, **Sterling Tracy**, **John Conte** | `["Police", "Procedural", "True Crime", "Action", "Drama"]` | "Calling all cars... calling all cars! Rio Grande cracked gasoline presents real police cases from the confidential files!" LAPD Chief James E. Davis narrates 'The 10th Commandment', the true case of an envious business partner whose obsession with his associate's wealth and social stature leads to a brazen daylight payroll robbery and homicide in downtown Los Angeles. |
+| `Jane_Boys_1951.mp3` <br>*Alt*: `Jane Mason Jose Bettancourt`, `Jane and the Boys 1951` | **"Latin Rhythms with José Bettancourt's Marimbas (Jane Mason — NBC)"** | **NBC (WNBC)**<br>1951-08-25<br>1:15 PM EDT | **Sustaining**<br>Latin Jazz Variety | **Jane Mason**, **José Bettancourt Marimba Band** | **NBC Music Department** | `["Music", "Latin", "Jazz", "Marimba", "Vocal"]` | "Jane and the Boys!" Charming songstress Jane Mason joins José Bettancourt and his world-renowned Latin Marimba Orchestra for an infectious broadcast of tropical rhythms, mambos, and American pop standards. |
+| `Duke_Ellington_1966.mp3` <br>*Alt*: `Hollywood Bowl`, `Duke Ellington Hollywood Bowl 1966` | **"Live at the Hollywood Bowl: Johnny Hodges & Paul Gonsalves (Duke Ellington — VOA)"** | **Voice of America**<br>1966-08-25<br>8:30 PM PDT | **Sustaining**<br>VOA Jazz Diplomacy | **Duke Ellington**, **Johnny Hodges**, **Paul Gonsalves** | **Willis Conover** (Producer/Emcee) | `["Music", "Jazz", "Big Band", "Concert", "Live"]` | "From the stage of the world-famous Hollywood Bowl in California, the Voice of America presents Duke Ellington and his Orchestra!" Maestro Duke Ellington leads his legendary band in an electrifying outdoor concert, featuring Johnny Hodges on 'Passion Flower', Paul Gonsalves blowing furious blues choruses, and iconic performances of 'Take the A Train' and 'Mood Indigo'. |
+| `Peter_Troy_1964.mp3` <br>*Alt*: `Wanda's Work Of Art`, `Guy Doleman Peter Troy 1964` | **"Wanda's Work of Art (Guy Doleman as Peter Troy — ABC Australia)"** | **ABC Australia**<br>1964-08-25<br>8:00 PM AEST | **Sustaining**<br>Australian Detective | **Guy Doleman** (Peter Troy), **Margo Lee** | **Colin Free** (Writer), **ABC Radio Drama** | `["Detective", "Hardboiled", "Mystery", "Australian", "Crime"]` | "Walk Softly, Peter Troy!" Cynical Sydney private investigator Peter Troy is hired to authenticate a supposedly priceless avant-garde painting titled 'Wanda's Work of Art', only to uncover an international art forgery ring and the suspicious poisoning of its bohemian creator. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 233
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

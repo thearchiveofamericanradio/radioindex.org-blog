@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 27 Calendar Walk — Official Detective, Sam Spade, and The Silver Theater</article-title>
+      <pub-date>2026-08-27</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 27, Calendar Walk, Official Detective, Craig McDonnell, Dan Britt, Sam Spade, Howard Duff, Lurene Tuttle, Dashiell Hammett, Rocky Jordan, Jack Moyles, Jay Novello, Cairo, The Silver Theater, Conrad Nagel, Virginia Bruce, 1847 Rogers Bros, Cecil and Sally, Johnny O'Brien, Helen Troy, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 27 Archival Metadata Enrichment (Increment 206)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American network radio, two police procedurals with Craig McDonnell as Detective Dan Britt on *Official Detective*, Howard Duff and Lurene Tuttle in Dashiell Hammett's *The Adventures of Sam Spade*, Jack Moyles in *The Adventures of Rocky Jordan*, Conrad Nagel hosting Virginia Bruce on *The Silver Theater* for 1847 Rogers Bros. Silverplate, and Johnny O'Brien & Helen Troy in early radio comedy *Cecil and Sally* (1930–1953):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 27 Archival Inventory (Increment 206)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Official_Detective_1947.mp3` <br>*Alt*: `Case of Counterfeit Coins`, `1947` | **"The Case of the Counterfeit Coins"** | **Mutual (WOR)**<br>1947-08-27<br>8:30 PM EDT | **Sustaining**<br>Police Procedural | **Craig McDonnell** (Dan Britt), **Doug Parkhirst** | **Official Detective Stories** | `["Police", "Procedural", "Detective", "Mystery", "Crime"]` | Detective Lieutenant Dan Britt tracks an illicit metal-casting operation manufacturing bogus half-dollars to a basement workshop behind an auto repair shop. |
+| `Official_Detective_1953.mp3` <br>*Alt*: `Case of the Missing Heiress`, `1953` | **"The Case of the Missing Heiress"** | **Mutual (WOR)**<br>1953-08-27<br>8:30 PM EDT | **Sustaining**<br>Police Procedural | **Craig McDonnell** (Dan Britt), **Tom Tully** | **Mutual Dramatic Staff** | `["Police", "Procedural", "Detective", "Mystery", "Crime"]` | Detectives investigate the disappearance of a wealthy socialite from her penthouse suite, uncovering an extortion plot orchestrated by her estranged chauffeur. |
+| `Sam_Spade_1950.mp3` <br>*Alt*: `The Too Many Clients Caper`, `Duff 1950` | **"The Too Many Clients Caper"** | **NBC (WNBC)**<br>1950-08-27<br>5:30 PM EDT | **Sustaining**<br>Hardboiled Mystery | **Howard Duff** (Spade), **Lurene Tuttle** (Effie) | **Bob Tallman**, **William Spier** | `["Detective", "Hardboiled", "Mystery", "Noir", "Crime"]` | Private investigator Sam Spade is hired simultaneously by three different jealous heirs to shadow the same eccentric millionaire, only to discover the man dead in a hotel elevator. |
+| `Rocky_Jordan_1950_Alt.mp3` <br>*Alt*: `Dr. Markoff's Discovery`, `Cairo` | **"Dr. Markoff's Discovery"** | **CBS (KNX)**<br>1950-08-27<br>6:30 PM EDT | **Sustaining**<br>Exotic Mystery | **Jack Moyles** (Rocky), **Jay Novello** (Sabaaya) | **Larry Roman**, **Cliff Howell** | `["Noir", "Detective", "Exotic", "Crime", "Hardboiled"]` | Cafe proprietor Rocky Jordan is drawn into danger in Cairo when an archaeologist carrying an ancient papyrus map is stabbed in the alley behind the Cafe Tambourine. |
+| `Silver_Theater_1944.mp3` <br>*Alt*: `Lucy Is a Lady`, `Rogers Bros 1944` | **"Lucy Is a Lady"** | **CBS (WABC)**<br>1944-08-27<br>6:00 PM EWT | **International Silver**<br>1847 Rogers Bros. | **Conrad Nagel** (Host), **Virginia Bruce** | **CBS Dramatic Staff** | `["Comedy", "Drama", "Romance", "Society", "Anthology"]` | A free-spirited chorus girl attempts to master high-society etiquette to impress her wealthy fiancé's aristocratic Boston family. |
+| `Cecil_and_Sally_1930.mp3` <br>*Alt*: `Preparing for Uncle Thomas's Visit` | **"Preparing for Uncle Thomas's Visit"** | **Syndicated (KPO)**<br>1930-08-27 | **Commercial**<br>Transcription Sponsors | **Johnny O'Brien** (Cecil), **Helen Troy** (Sally) | **KPO San Francisco Staff** | `["Comedy", "Domestic", "Short Form", "Americana", "Vaudeville"]` | Cecil and Sally clean their apartment and debate etiquette rules as they prepare for a visit from Sally's wealthy and eccentric Uncle Thomas. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 149
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Duke Ellington, Jack Benny &amp; Calling All Cars</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, Duke Ellington, Hurricane Restaurant, Big Band, Mutual, The Jello Program, Jack Benny, Jell-O, Calling All Cars, James E Davis, Rio Grande Oil, Rudy Vallee, Shirley Ross, Xavier Cugat, Sealtest, You Dont Say, The Navy Lark, BBC, Serenade in Blue, US Air Force Band, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 821)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across Duke Ellington live from Broadway's Hurricane Restaurant (1943), Jack Benny's satirical Labor Day broadcast on *The Jell-O Program* (1932), true-crime LAPD dispatches on *Calling All Cars* for Rio Grande Oil (1934), Latin swing on *The Rudy Vallee Show* with Shirley Ross and Xavier Cugat (1940), the pilot of *You Don't Say!* featuring the BBC *Navy Lark* troupe (1970), and patriotic airs by the USAF Concert Band on *Serenade in Blue* (1954), Jack Benny (1932), James E. Davis (1934), Rudy Vallee (1940), and Duke Ellington (1943):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 821)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `CallingAllCars_1934_BedroomScreen.mp3` <br>*Alt*: `Marks on the Bedroom Screen Calling All Cars` | **"Marks on the Bedroom Screen with Chief James E. Davis"** | **CBS Pacific (KNX)**<br>1934-09-05<br>8:00 PM PST | **Rio Grande Oil Co.**<br>Cracked Gasoline | **Chief Davis & Lindsley** | **Warren Lewis (Director)** | `["Police Procedural", "Crime", "Calling All Cars", "James E Davis", "Rio Grande"]` | LAPD radio patrolmen examine slashed window screens and telltale footprint casts to capture a nocturnal residential burglar in Glendale. |
+| `RudyVallee_1940_ShirleyRoss_Alt.mp3` <br>*Alt*: `Guest Shirley Ross Rudy Vallee Varieties` | **"Guest Shirley Ross and Xavier Cugat with Rudy Vallee"** | **NBC Red (WEAF)**<br>1940-09-05<br>9:30 PM EDST | **National Dairy Products**<br>Sealtest Dairy & Ice Cream | **Vallee, Ross & Cugat** | **Xavier Cugat Orchestra** | `["Variety", "Comedy", "Rudy Vallee", "Shirley Ross", "Sealtest"]` | Rudy Vallee welcomes singing star Shirley Ross and Xavier Cugat's Latin rhythms for an hour of musical romance and satirical skits. |
+| `YouDontSay_1970_PilotNavyLark.mp3` <br>*Alt*: `Pilot Show Produced By The Navy Lark Team You Dont Say` | **"Pilot Episode with The Navy Lark Team"** | **BBC Radio 4**<br>1970-09-05 | **Sustaining**<br>British Comedy Panel | **Phillips, Pertwee & Murray** | **Alastair Scott Johnston** | `["Comedy", "Panel", "You Dont Say", "Leslie Phillips", "BBC"]` | Cast members from The Navy Lark test their comedic wits against studio celebrity contestants in a fast-paced word association game. |
+| `Ellington_1943_HurricaneClub.mp3` <br>*Alt*: `From The Hurricane Restaurant, NYC Duke Ellington` | **"Live from the Hurricane Restaurant, NYC with Duke Ellington"** | **Mutual (WOR)**<br>1943-09-05<br>11:30 PM EWT | **Sustaining**<br>Big Band Swing Remote | **Ellington, Hodges & Nance** | **Mutual Remote Unit** | `["Music", "Jazz", "Big Band", "Duke Ellington", "Mutual"]` | Duke Ellington leads his orchestra in live performances of 'Take the A Train', 'Don't Get Around Much Anymore', and virtuosic swing solos from Broadway's Hurricane Club. |
+| `JackBenny_1932_LaborLeader.mp3` <br>*Alt*: `Labor Leader Meyer Walker Interview The Jello Program` | **"Jack Benny Interviews Labor Leader Meyer Walker"** | **NBC Red / Blue**<br>1932-09-05<br>8:00 PM EDST | **General Foods Corp.**<br>Jell-O Gelatin Dessert | **Jack Benny & Livingstone** | **Harry Conn (Writer)** | `["Comedy", "Variety", "The Jello Program", "Jack Benny", "Jell-O"]` | Jack Benny satirizes Labor Day parades and conducts a farcical radio interview with a fictitious union organizer. |
+| `SerenadeBlue_1954_SingingSergeants.mp3` <br>*Alt*: `First Song: (15) Serenade in Blue` | **"US Air Force Band and The Singing Sergeants"** | **Syndicated Radio**<br>1954-09-05 | **US Air Force**<br>Recruiting Service | **USAF Band & Sergeants** | **Col. George S. Howard** | `["Music", "Concert", "Serenade in Blue", "US Air Force", "Military"]` | The USAF Concert Band and vocal ensemble The Singing Sergeants perform patriotic marches, popular standards, and military hymns. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 240 / 401 (161 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

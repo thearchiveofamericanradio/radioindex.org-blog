@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 29 Calendar Walk — W.C. Fields Farewell, The Beatles, and Meet the Press</article-title>
+      <pub-date>2026-08-29</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 29, Calendar Walk, Charlie McCarthy, Edgar Bergen, WC Fields, Chase &amp; Sanborn, The Beatles, John Lennon, Paul McCartney, Capitol Records, Meet the Press, Martha Rountree, Lawrence Spivak, Joseph C OMahoney, Chandu the Magician, Beech-Nut, AFVN, Vietnam War, Big City Serenade, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 29 Archival Metadata Enrichment (Increment 339)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 29** across American network radio, military field recordings, and news syndication, W.C. Fields trading his final barbs with Charlie McCarthy on *The Chase and Sanborn Hour* (1937), The Beatles' final US tour press conference at Capitol Tower in Hollywood (1966), Martha Rountree & Lawrence Spivak interviewing Senator Joseph C. O'Mahoney on *Meet the Press* (1947), Gayne Whitman in *Chandu the Magician* for Beech-Nut, live combat audio from AFVN Da Nang, and *Big City Serenade* (1932–1968):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 29 Archival Inventory (Increment 339)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Big_City_1953.mp3` <br>*Alt*: `Salute Edinburgh Scotland` | **"A Salute to Edinburgh, Scotland"** | **NBC (WNBC)**<br>1953-08-29<br>6:30 PM EDT | **Sustaining**<br>Musical Broadcast | **Skip Farrell**, **Honey Dreamers** | **Roy Shield Orchestra** | `["Music", "Vocal", "Orchestral", "Scottish", "Pop Standard"]` | The Roy Shield Orchestra and vocal soloists perform lush arrangements of traditional Scottish ballads honoring Edinburgh's international festival. |
+| `Charlie_McCarthy_1937.mp3` <br>*Alt*: `WC Fields Final Episode` | **"W.C. Fields' Farewell as Regular Cast Member"** | **NBC Red (WEAF)**<br>1937-08-29<br>8:00 PM EDST | **Standard Brands**<br>Chase & Sanborn Coffee | **Edgar Bergen**, **W.C. Fields** | **Don Ameche & Lamour** | `["Comedy", "Variety", "Ventriloquism", "Vaudeville", "Hollywood"]` | W.C. Fields trades his final series of hilarious barbs and insults with Charlie McCarthy before concluding his regular show run. |
+| `AFVN_1968_DaNang.mp3` <br>*Alt*: `Attack Camp Brooks Da Nang` | **"Rocket and Mortar Attack on Camp Brooks, Red Beach Da Nang"** | **AFVN Da Nang**<br>1968-08-29 | **AFRTS Military**<br>Combat Broadcast | **AFVN Correspondents** | **Military Radio Staff** | `["Documentary", "Military", "Vietnam War", "Combat Audio", "History"]` | Live combat audio and emergency tactical alerts recorded during an intense enemy rocket and mortar bombardment of Camp Brooks. |
+| `Beatles_1966_LA.mp3` <br>*Alt*: `Beatles LA Press Conference` | **"The Beatles Final US Tour Press Conference in Los Angeles"** | **Radio News Pool**<br>1966-08-29 | **Sustaining**<br>Music History | **The Beatles** | **Capitol Records Tower** | `["Interview", "Music History", "Pop", "Rock", "Documentary"]` | The Beatles field pointed press inquiries at Capitol Records headquarters in Hollywood hours before their historic final concert at Candlestick Park. |
+| `Chandu_1932_110.mp3` <br>*Alt*: `Temple Sacred Scarab (110)` | **"The Temple of the Sacred Scarab (Episode 110)"** | **KHJ / Don Lee**<br>1932-08-29 | **Beech-Nut Packing**<br>Beech-Nut Chewing Gum | **Gayne Whitman** (Chandu) | **Vera Oldham (Author)** | `["Adventure", "Occult", "Fantasy", "Mystery", "Serial"]` | Chandu uses ancient astral projection and occult illusion to navigate a secret Egyptian pyramid chamber guarded by poison darts. |
+| `Meet_Press_1947.mp3` <br>*Alt*: `Senator Joseph C OMahoney` | **"Senator Joseph C. O'Mahoney on Price Controls and Monopoly Investigations"** | **Mutual (WOR)**<br>1947-08-29<br>10:00 PM EDT | **Sustaining**<br>Public Affairs | **Martha Rountree**, **Spivak** | **Senator J.C. O'Mahoney** | `["Public Affairs", "Interview", "Journalism", "Politics", "Economics"]` | Wyoming Senator Joseph C. O'Mahoney fields sharp questions from top Washington correspondents regarding antitrust enforcement and rising living costs. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 29
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 29**: 102
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

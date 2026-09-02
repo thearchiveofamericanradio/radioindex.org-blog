@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 25 Calendar Walk — Bing Crosby &amp; Rosemary Clooney, Father Knows Best (2 Eras), and Sir Ralph Richardson</article-title>
+      <pub-date>2026-08-25</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 25, Calendar Walk, The Bing Crosby Rosemary Clooney Show, Bing Crosby, Rosemary Clooney, Buddy Cole, CBS, Father Knows Best, Robert Young, June Whitley, Jean Vander Pyl, Maxwell House, Post Bran Flakes, NBC, Theatre Royal, Ralph Richardson, Arnold Bennett, Towers of London, The Flying Doctor, Royal Flying Doctor Service, BBC Light Programme, The Royal Gelatin Hour, Rudy Vallee, Ethel Merman, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 25 Exhaustive Archival Metadata Enrichment (Increment 101)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, Bing Crosby & Rosemary Clooney's breezy morning vocal duets, two eras of domestic comedy on *Father Knows Best* starring Robert Young (Maxwell House & Post Bran Flakes), Sir Ralph Richardson in Arnold Bennett's *The Judgement*, outback aviation on *The Flying Doctor*, and Broadway belter Ethel Merman on *The Royal Gelatin Hour* (1938–1961):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 25 Archival Inventory (Increment 101)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Bing_Rosemary_1961.mp3` <br>*Alt*: `I Feel A Song Coming On`, `Bing and Rosie 1961` | **"I Feel a Song Coming On (Bing Crosby & Rosemary Clooney — CBS)"** | **CBS (WCBS)**<br>1961-08-25<br>10:45 AM EDT | **Sustaining**<br>Morning Pop Variety | **Bing Crosby**, **Rosemary Clooney**, **Buddy Cole** | **Bill Morrow**, **Murdo MacKenzie**, **George Walsh** | `["Music", "Pop", "Vocal", "Easy Listening", "Variety"]` | "The Bing Crosby-Rosemary Clooney Show!" Pop music titans Bing Crosby and Rosemary Clooney trade effortless vocal duets and witty banter, performing 'I Feel a Song Coming On', 'Fancy Meeting You Here', and 'Love Is Here to Stay' with the Buddy Cole Trio for CBS. |
+| `Flying_Doctor_1959.mp3` <br>*Alt*: `Episode`, `Outback Flood Rescue` | **"The Outback Flood Rescue (James McKechnie as Dr. Halliday — BBC)"** | **BBC Light**<br>1959-08-25<br>7:30 PM BST | **Sustaining**<br>Outback Aviation Drama | **James McKechnie** (Dr. Halliday), **Bill Kerr** | **Ernest Dudley**, **Charles Chilton**, **Sidney Torch** | `["Adventure", "Medical", "Aviation", "Australian", "Action"]` | "The Flying Doctor, based on the real-life work of the Royal Flying Doctor Service of Australia!" Dr. Greg Halliday pilots his medical biplane through blinding monsoon rains to parachute emergency surgical supplies to an isolated sheep station cut off by outback floodwaters. |
+| `Royal_Gelatin_1938_2.mp3` <br>*Alt*: `Royal Gelatin Hour Rudy Vallee`, `Ethel Merman Royal Gelatin` | **"Guest Broadway Star Ethel Merman (Rudy Vallee — Royal Gelatin)"** | **NBC Red (WEAF)**<br>1938-08-25<br>8:00 PM EDST | **Standard Brands Inc.**<br>Royal Gelatin & Puddings | **Rudy Vallee**, **Ethel Merman**, **Eric Blore** | **Joe Bigelow** (Dir.), **Jimmy Wallington** | `["Variety", "Music", "Broadway", "Comedy", "Vocal"]` | "The Royal Gelatin Hour, starring Rudy Vallee!" Broadway's brassy superstar Ethel Merman belts showstopping Broadway anthems, while dry British comic Eric Blore trades hilarious high-society barbs with Rudy for Royal Gelatin Desserts. |
+| `Theatre_Royal_1954.mp3` <br>*Alt*: `Theatreroyal54 08 2547thejudgement`, `Ralph Richardson The Judgement` | **"The Judgement by Arnold Bennett (Starring Sir Ralph Richardson — Mutual)"** | **Mutual (Towers)**<br>1954-08-25<br>9:30 PM EDT | **Sustaining**<br>British Classic Drama | **Sir Ralph Richardson**, **Laurence Payne** | **Arnold Bennett**, **Harry Alan Towers**, **Sidney Torch** | `["Drama", "British", "Classics", "Victorian", "Anthology"]` | "From London, Theatre Royal, starring Sir Ralph Richardson!" Sir Ralph Richardson stars in Arnold Bennett's poignant Edwardian drama *The Judgement*, portraying an inflexible magistrate whose harsh public moral pronouncements are challenged when his own son is brought before the bench. |
+| `Father_Knows_Best_1949.mp3` <br>*Alt*: `Father Knows Best 1949-08-25`, `Jim Takes Over Cooking` | **"Jim Takes Over the Family Cooking (Robert Young — Maxwell House)"** | **NBC (WNBC)**<br>1949-08-25<br>8:30 PM EDT | **General Foods**<br>Maxwell House Coffee | **Robert Young** (Jim), **June Whitley** (Margaret) | **Ed James**, **Kenneth MacGregor**, **Bill Goodwin** | `["Comedy", "Sitcom", "Domestic", "Family", "Americana"]` | "Father Knows Best, starring Robert Young, brought to you by Maxwell House Coffee!" When Margaret is bedridden with a summer cold, Jim proudly insists that running a household and cooking three square meals a day is simple, turning the Anderson kitchen into a smoke-filled disaster area for Maxwell House. |
+| `Father_Knows_Best_1952.mp3` <br>*Alt*: `Skates On The Stairs`, `Father Knows Best Post Bran` | **"Roller Skates on the Stairs (Robert Young — Post 40% Bran Flakes)"** | **NBC (WNBC)**<br>1952-08-25<br>8:30 PM EDT | **General Foods**<br>Post's 40% Bran Flakes | **Robert Young** (Jim), **Jean Vander Pyl** | **Ed James**, **Kenneth MacGregor**, **Bill Goodwin** | `["Comedy", "Sitcom", "Domestic", "Family", "Americana"]` | "Post 40% Bran Flakes presents Father Knows Best!" Jim Anderson launches a household safety campaign after nearly breaking his neck tripping over Bud's roller skates on the front stairs, only for his elaborate safety rules to trap the family inside their own house for Post Cereals. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 221
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

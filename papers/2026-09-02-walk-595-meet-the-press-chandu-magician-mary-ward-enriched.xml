@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 2 Calendar Walk — Meet the Press, Chandu the Magician &amp; Mary Ward</article-title>
+      <pub-date>2026-09-02</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 2, Calendar Walk, Meet the Press, Martha Rountree, Lawrence E Spivak, Lycurgus Spinks, James P Mitchell, Chandu the Magician, Gayne Whitman, White King Soap, The Travels of Mary Ward, BBC Regional, Foy Willing, Purple Sage, OHara, Springbok Radio, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 2 Archival Metadata Enrichment (Increment 595)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across landmark public affairs press confrontations, mystical occult adventure serials, historical British biographical dramas, western harmony remotes, and African action serials, Martha Rountree and Lawrence Spivak interrogating newsmakers on *Meet the Press* (1949, 1956), Gayne Whitman in *Chandu the Magician* for White King Soap (1932), *The Travels of Mary Ward* on the BBC (1936), Foy Willing (1946), and *O'Hara* (1932–1956):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 2 Archival Inventory (Increment 595)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Press_1949_LycurgusSpinks.mp3` <br>*Alt*: `Lycurgus Spinks Meet the Press` | **"Ku Klux Klan Imperial Emperor Lycurgus Spinks Questioned"** | **Mutual (WOR)**<br>1949-09-02<br>10:00 PM EDT | **Sustaining**<br>Press Interview | **Martha Rountree (Mod)** | **Inquiring Journalists** | `["Interview", "Public Affairs", "News", "Meet The Press", "Mutual"]` | Reporters aggressively challenge self-proclaimed Ku Klux Klan leader Lycurgus Spinks regarding racial violence and cross-burning rallies in the South. |
+| `Press_1956_JamesMitchell.mp3` <br>*Alt*: `James E Mitchell Meet the Press` | **"U.S. Secretary of Labor James P. Mitchell with Lawrence E. Spivak"** | **NBC (WNBC)**<br>1956-09-02<br>6:00 PM EDT | **Pan American Airways**<br>Air Travel | **Lawrence E. Spivak** | **Ned Brooks (Moderator)** | `["Interview", "Public Affairs", "News", "Meet The Press", "NBC"]` | Secretary of Labor James P. Mitchell fields sharp questions regarding Eisenhower administration employment policies and upcoming election labor endorsements. |
+| `Chandu_1932_EgyptianTombs.mp3` <br>*Alt*: `Chandu the Magician 1932 Episode` | **"The Egyptian Tombs of Roxor with White King Soap"** | **Don Lee (KHJ)**<br>1932-09-02<br>8:00 PM PST | **Los Angeles Soap Co.**<br>White King Soap | **Gayne Whitman (Chandu)** | **Margaret MacDonald** | `["Fantasy", "Adventure", "Magic", "Chandu The Magician", "White King"]` | Chandu uses occult telepathic arts to penetrate an underground Egyptian tomb where the sinister villain Roxor guards stolen electrical death rays. |
+| `Mary_Ward_1936_Alps.mp3` <br>*Alt*: `Travels of Mary Ward 1936 Episode` | **"Crossing the Alps with BBC Regional Programme"** | **BBC Regional**<br>1936-09-02 | **Sustaining**<br>Historical Drama | **BBC Repertory Co.** | **BBC Radio Drama Staff** | `["Drama", "History", "Biography", "Mary Ward", "BBC Regional"]` | Pioneering seventeenth-century Catholic educator Mary Ward braves treacherous Alpine mountain blizzards on foot to petition the Pope in Rome. |
+| `Foy_1946_TrailHerding.mp3` <br>*Alt*: `Trail Herding Cowboy Foy Willing` | **"Trail Herding Cowboy with Western Melody"** | **Syndication**<br>1946-09-02 | **Sustaining**<br>Western Music | **Foy Willing & Troupe** | **Purple Sage Ensemble** | `["Music", "Western", "Country", "Foy Willing", "Purple Sage"]` | Foy Willing leads his western singing troupe in harmonious cowboy ballads celebrating dusty cattle drives across the open prairie. |
+| `OHara_1951_TerrorOrientale.mp3` <br>*Alt*: `Terror Orientale O'Hara` | **"Terror Orientale with Dramatic Action Cast"** | **Springbok Radio (SABC)**<br>1951-09-02 | **Commercial Sponsors**<br>Adventure Drama | **Dramatic Cast** | **Michael Silver (Producer)** | `["Adventure", "Action", "OHara", "Springbok Radio", "South Africa"]` | Adventurer O'Hara travels to an ancient temple in the Far East where a ruthless warlord holds an international archaeological expedition hostage. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 182 / 480 (298 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>
