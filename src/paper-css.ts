@@ -72,6 +72,15 @@ body {
   font-size: 21px;
   font-weight: 600;
 }
+.paper-status {
+  margin: 28px 0 0;
+  padding: 14px 18px;
+  border: 1px solid var(--paper-accent);
+  border-radius: 6px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--paper-ink);
+}
 .paper-abstract {
   margin: 32px 0;
   padding: 20px 24px;
