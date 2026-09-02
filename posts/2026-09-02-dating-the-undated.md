@@ -232,32 +232,52 @@ a later repeat, a later copy, or an Armed Forces Radio Service reissue of the sa
 
 ## 4. The method
 
-Ignore the date that came with the file. A file name is a claim by a stranger. Start from a
-stranger's claim and the search stops being a search for the date, and becomes a search for
-agreement.
+The whole method is one sentence. Ignore the date on the file, work out roughly which week
+the recording is from, look that week up in the newspaper radio listings, and count how many
+of the four newspapers list it. The count is how sure you get to be.
 
-Work out roughly when the recording was made. Listen for news, for an advertising campaign,
-for the announcer, for a station identification. A war report or an election result often
-fixes the week.
+The rest of this section is why each step is there.
 
-Look that week up in the radio listings of the four newspapers.
+**Ignore the date on the file.** The date on a file name was put there by someone you cannot
+ask. Start from that date and the work quietly changes shape: instead of asking what night
+the show went out, you start looking for a reason to keep the date you were handed. And you
+will find one, because a plausible date usually has a plausible story around it. So write the
+date down, mark where it came from, and set it aside. Do not use it again until the end.
 
-Count how many of the four newspapers list the program at the same hour. The count is the
-strength of the date:
+**Work out roughly when the recording was made.** Listen to it. A war report, an election
+result, a sports score, a joke about the news — any of these can fix the week. The advertising
+helps too, because campaigns ran in seasons. So does the announcer, and so does the wording of
+the station identification, which changed over the years. None of this gives a day. It gives a
+window, and a window is enough to go looking.
+
+**Look that week up in the newspaper radio listings.** Every big American daily printed the
+next day's radio schedule: station, time, show. Four papers matter here — the *New York
+Times*, the *Washington Post*, the *Chicago Daily Tribune*, the *Los Angeles Times*. Read the
+listings for each candidate date, in each paper.
+
+**Count the newspapers that list the show at the same hour.** The count is the answer, and it
+becomes the mark on the record:
 
 - **A** — two or more newspapers list the broadcast
 - **B** — one newspaper lists the broadcast
-- **C** — no newspaper lists the broadcast, but the recording and the program's known
-  schedule agree on a date
+- **C** — no newspaper lists the broadcast, but the recording and the show's known schedule
+  point to the same date
 - **D** — an estimate, given as a range, with the reasoning written down
-- **E** — the date came with the file, and nobody has checked the date yet
+- **E** — the date came with the file and nobody has checked it
 
-Mark E carries the weight. A catalog with no way to say "nobody has checked this" will turn
-a stranger's guess into a fact, which is how 13 February 1955 got authority in section 5.4.
+Counting works because the four papers are separate. Each built its listings in its own city,
+in its own time zone, from copy the networks sent to each paper on its own. Four papers
+agreeing is four people who never spoke to each other saying the same thing. That is why two
+is the line for Mark A.
 
-Two cautions. Two newspapers printing the same network schedule are one source, and not two.
-And a recording that agrees with a listing may still be a later repeat, so check whether the
-advertising was removed, which is what the Armed Forces Radio Service did.
+**Mark E is the one that matters.** A catalog with no way to write down "nobody has checked
+this" will turn a stranger's guess into a fact, and will do it silently. Section 5.4 is exactly
+that: 13 February 1955 never had evidence behind it. It had repetition behind it.
+
+Two things to watch. Two papers printing the same network schedule are one source, not two —
+the network wrote it once. And a recording that fits a listing may still be a later repeat, so
+check whether the advertising has been cut out, because that is what the Armed Forces Radio
+Service did when it reissued a show.
 
 ## 5. Examples
 

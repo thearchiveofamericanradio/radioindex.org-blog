@@ -259,34 +259,53 @@ Forces Radio Service reissue of the same program.
 
 ## 4. The method
 
-Set aside the date supplied with the file. A file name constitutes a claim advanced by an
-unknown party, and a procedure that adopts an unverified claim as a starting point ceases to
-be an inquiry into the date and becomes an inquiry into agreement.
+The method is one sentence. Ignore the date on the file, work out roughly which week the
+recording is from, look that week up in the newspaper radio listings, and count how many of
+the four newspapers list it. The count is the strength of the date.
 
-Establish the approximate period of the recording from internal evidence: references to
-current events, an identifiable advertising campaign, the announcer, or the wording of a
-station identification. A war report or an election result frequently fixes the week.
+The rest of this section explains why each step is needed.
 
-Consult the radio listings of the four newspapers for the week so established.
+**Ignore the date on the file.** A date in a file name was written by someone the cataloguer
+cannot question. Beginning from that date changes the shape of the work: the question stops
+being which night the broadcast went out, and becomes whether the handed-down date can be
+kept. A cataloguer who asks the second question will nearly always find an answer, because a
+plausible date carries a plausible story with it. Write the date down, record where it came
+from, and set it aside until the end.
 
-Count the newspapers listing the program at the corresponding hour. The resulting count
-constitutes the strength of the date:
+**Work out roughly when the recording was made.** Listen to the recording. A war report, an
+election result, a sports score, or a joke about the news will often fix the week. Advertising
+helps, because campaigns ran in seasons. The announcer helps, and so does the wording of the
+station identification, which changed across the years. None of this yields a single day. It
+yields a window, and a window is enough to begin searching.
+
+**Look that week up in the newspaper radio listings.** Every large American daily printed the
+next day's radio schedule: station, time, and programme. Four papers carry the method — the
+*New York Times*, the *Washington Post*, the *Chicago Daily Tribune*, and the *Los Angeles
+Times*. Read the listings for each candidate date in each of the four papers.
+
+**Count the papers that list the programme at the same hour.** The count is the answer, and
+the count becomes the mark on the record:
 
 - **A** — two or more newspapers list the broadcast
-- **B** — a single newspaper lists the broadcast
-- **C** — no newspaper lists the broadcast, but internal evidence and the program's
-  established schedule are consistent with a date
-- **D** — an estimate, expressed as a range, with the reasoning made explicit
-- **E** — the date arrived with the file and remains unverified
+- **B** — one newspaper lists the broadcast
+- **C** — no newspaper lists the broadcast, but the recording and the programme's known
+  schedule point to the same date
+- **D** — an estimate, given as a range, with the reasoning written down
+- **E** — the date came with the file and nobody has checked it
 
-Mark E bears the analytical weight. A catalog lacking an explicit category for unverified
-material will invariably convert an unknown party's estimate into an apparent fact, which is
-the sequence by which 13 February 1955 acquired authority in section 5.4.
+Counting works because the four papers are independent. Each built its listings in its own
+city and its own time zone, from copy the networks supplied to each paper separately. Four
+papers in agreement are four compilers who never spoke to each other reaching the same result.
+That independence is why two listings, and not one, is the threshold for Mark A.
 
-Two cautions apply. Two newspapers reproducing an identical network schedule constitute a
-single source rather than two independent sources. And a recording corresponding to a listing
-may nonetheless be a subsequent repeat, so establish whether the advertising has been
-removed, as the Armed Forces Radio Service removed advertising from reissued material.
+**Mark E carries the argument.** A catalogue with no way to record "nobody has checked this"
+will turn a stranger's guess into a fact, and will do so silently. Section 5.4 is exactly that
+case: 13 February 1955 never had evidence behind it. It had repetition behind it.
+
+Two cautions. Two papers printing the same network schedule are one source and not two,
+because the network wrote the schedule once. And a recording that fits a listing may still be
+a later repeat, so check whether the advertising has been cut out, which is what the Armed
+Forces Radio Service did when it reissued a programme.
 
 ## 5. Examples
 
