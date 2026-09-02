@@ -47,6 +47,7 @@ export function renderLayout({
     <div class="wrap site-nav">
       <a href="/" class="brand">radioindex.org <span class="brand-tag">Blog</span></a>
       <nav class="nav-links">
+        <a href="/papers">Read paper</a>
         <a href="https://radioindex.org">Catalog</a>
         <a href="/rss.xml">RSS</a>
         <a href="/llms.txt">llms.txt</a>

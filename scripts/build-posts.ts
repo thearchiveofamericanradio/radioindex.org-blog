@@ -119,8 +119,21 @@ function generateSitemap(posts: BlogPost[], meta: SiteMeta): string {
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>`,
+    `  <url>
+    <loc>${meta.url}/papers</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>`,
     ...posts.map((p) => `  <url>
     <loc>${meta.url}/posts/${p.slug}</loc>
+    <lastmod>${p.date}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>`),
+    // Google Scholar crawls the paper pages, so each needs its own sitemap entry
+    // and a browse index it can reach in plain links.
+    ...posts.map((p) => `  <url>
+    <loc>${meta.url}/paper/${p.slug}</loc>
     <lastmod>${p.date}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

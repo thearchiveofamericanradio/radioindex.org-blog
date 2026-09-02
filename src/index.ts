@@ -3,6 +3,7 @@ import { POSTS, SITE_META, RSS_XML, SITEMAP_XML, JSON_FEED, LLMS_TXT } from "./g
 import { renderHome } from "./render-home";
 import { renderPost } from "./render-post";
 import { renderPaper } from "./render-paper";
+import { renderPapers } from "./render-papers";
 
 const app = new Hono();
 
@@ -59,6 +60,10 @@ app.get("/posts/:slug", (c) => {
   const html = renderPost(post, SITE_META);
   return c.html(html, 200, CACHE_HEADERS);
 });
+
+// Browse index of every paper. Google Scholar requires one, reachable in plain
+// links, and it is what makes the paper pages crawlable at all.
+app.get("/papers", (c) => c.html(renderPapers(POSTS, SITE_META), 200, CACHE_HEADERS));
 
 // Paper view. Registered before the catch-all `/:slug` so Hono matches it first.
 // An unknown slug hands off to the post route, which already owns the 404 body.
