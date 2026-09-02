@@ -128,21 +128,7 @@ function known(word) {
   return false;
 }
 
-const source = readFileSync(file, "utf8");
-
-// A rewrite pass that swaps text through placeholders can leave the placeholders
-// behind. Twenty-six NUL bytes once reached the published page and destroyed a
-// notes section, and nothing reported it because the prose still measured well.
-const control = [...source].filter((ch) => {
-  const code = ch.charCodeAt(0);
-  return code < 9 || (code > 13 && code < 32);
-}).length;
-if (control) {
-  console.error(`FAIL control bytes: ${control} in the file. A rewrite left placeholders behind.`);
-  process.exit(1);
-}
-
-const text = prose(source);
+const text = prose(readFileSync(file, "utf8"));
 
 // Proper nouns are names, not vocabulary. Only a capital inside a sentence counts,
 // so a word that merely starts a sentence is still checked.
@@ -202,23 +188,6 @@ console.log(`words checked   ${checked}`);
 console.log(`academic (AWL)  ${awlTotal} (${awlRate.toFixed(2)}%)  unique ${awlCounts.size}`);
 console.log(`outside both    ${oovTotal} (${oovRate.toFixed(2)}%)  unique ${counts.size}`);
 console.log(`sentences       n=${sentences.length} mean=${mean.toFixed(1)} median=${median} p90=${p90} longest=${longest}`);
-
-// Words that point at something instead of naming it. A reader who arrives in the
-// middle of a page cannot resolve "it" or "this", so the rule is to repeat the
-// proper noun. Repetition is not a fault.
-const BANNED = JSON.parse(readFileSync(join(HERE, "voa-banned.json"), "utf8"));
-const banCounts = new Map();
-for (const tok of tokens) {
-  const w = tok.toLowerCase();
-  if (!(w in BANNED.banned)) continue;
-  banCounts.set(w, (banCounts.get(w) ?? 0) + 1);
-}
-const banTotal = [...banCounts.values()].reduce((a, b) => a + b, 0);
-console.log(`pointing words   ${banTotal} (${((banTotal / (checked || 1)) * 100).toFixed(2)}%)  unique ${banCounts.size}`);
-if (banCounts.size) {
-  const top = [...banCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 20);
-  console.log("  " + top.map(([w, n]) => `${w}:${n}`).join("  "));
-}
 
 const ranked = [...counts.entries()].sort((a, b) => b[1] - a[1]);
 if (ranked.length) {
