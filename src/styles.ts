@@ -116,6 +116,8 @@ main { flex: 1; margin-bottom: 64px; }
 .entry-log-item strong { color: var(--color-fg-default); font-weight: 600; }
 .entry-raw-link { color: var(--color-accent-fg); text-decoration: none; padding: 2px 8px; border: 1px solid var(--color-border-default); border-radius: 4px; background: var(--color-canvas-default); font-size: 0.78rem; }
 .entry-raw-link:hover { border-color: var(--color-accent-fg); }
+.entry-paper-link { color: var(--color-canvas-default); text-decoration: none; padding: 2px 8px; border: 1px solid var(--color-accent-fg); border-radius: 4px; background: var(--color-accent-fg); font-size: 0.78rem; margin-right: 6px; }
+.entry-paper-link:hover { filter: brightness(1.15); }
 
 /* Footer */
 footer.site-footer { border-top: 1px solid var(--color-border-muted); padding: 28px 0; font-family: var(--font-mono); font-size: 0.8rem; color: var(--color-fg-subtle); text-align: center; background: var(--color-canvas-subtle); }

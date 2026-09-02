@@ -14,6 +14,7 @@ export function renderPost(post: BlogPost, meta: SiteMeta): string {
             <div class="entry-log-item"><strong>Reading:</strong> ${post.readingTimeMinutes} min</div>
             <div class="entry-log-item"><strong>Tags:</strong> ${post.tags.join(", ")}</div>
           </div>
+          <a href="/paper/${post.slug}" class="entry-paper-link">Read paper</a>
           <a href="/posts/${post.slug}.md" class="entry-raw-link" target="_blank" rel="noopener">Raw Markdown</a>
         </div>
       </header>

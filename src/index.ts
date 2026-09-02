@@ -2,6 +2,7 @@ import { Hono } from "hono";
 import { POSTS, SITE_META, RSS_XML, SITEMAP_XML, JSON_FEED, LLMS_TXT } from "./generated/posts";
 import { renderHome } from "./render-home";
 import { renderPost } from "./render-post";
+import { renderPaper } from "./render-paper";
 
 const app = new Hono();
 
@@ -57,6 +58,17 @@ app.get("/posts/:slug", (c) => {
   }
   const html = renderPost(post, SITE_META);
   return c.html(html, 200, CACHE_HEADERS);
+});
+
+// Paper view. Registered before the catch-all `/:slug` so Hono matches it first.
+// An unknown slug hands off to the post route, which already owns the 404 body.
+app.get("/paper/:slug", (c) => {
+  const slug = c.req.param("slug");
+  const post = POSTS.find((p) => p.slug === slug);
+  if (!post) {
+    return c.redirect(`/posts/${slug}`, 302);
+  }
+  return c.html(renderPaper(post, SITE_META), 200, CACHE_HEADERS);
 });
 
 // Short URL redirect or direct serve
