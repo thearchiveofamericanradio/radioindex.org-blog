@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 28 Calendar Walk — Meet the Press, Guiding Light, and Kirk Douglas</article-title>
+      <pub-date>2026-08-28</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 28, Calendar Walk, Meet the Press, Ned Brooks, Edwin Newman, Lawrence E Spivak, George Meany, AFL-CIO, Arthur S Flemming, The Guiding Light, Meta Bauer, Irna Phillips, Ivory Soap, CBS World News Today, Bob Trout, William L Shirer, The Prudential Family Hour, Kirk Douglas, Benvenuto Cellini, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 28 Archival Metadata Enrichment (Increment 274)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 28** across American network radio, three landmark *Meet the Press* interviews (1955 Soviet agriculture with Dr. W.V. Lambert, 1960 Eisenhower HEW Secretary Arthur Flemming, and 1966 AFL-CIO President George Meany), Irna Phillips' *The Guiding Light* for Ivory Soap, Bob Trout & William L. Shirer reporting on the Axis Vienna pact, and Kirk Douglas swashbuckling as Renaissance artist Benvenuto Cellini on *The Prudential Family Hour of Stars* (1940–1966):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 28 Archival Inventory (Increment 274)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Meet_Press_1955.mp3` <br>*Alt*: `Dr. W V Lambert` | **"Dr. W.V. Lambert"** | **NBC (WNBC)**<br>1955-08-28<br>6:00 PM EDT | **Sustaining**<br>Public Affairs Interview | **Ned Brooks**, **Lawrence Spivak** | **Dr. W.V. Lambert** | `["News", "Interview", "Public Affairs", "Agriculture", "Cold War"]` | Dr. W.V. Lambert faces press interrogation regarding Soviet agricultural conditions and collective farm productivity following a groundbreaking visit to the USSR. |
+| `Meet_Press_1960.mp3` <br>*Alt*: `Arthur S Flemming` | **"Arthur S. Flemming"** | **NBC (WNBC)**<br>1960-08-28<br>6:00 PM EDT | **Sustaining**<br>Public Affairs Interview | **Ned Brooks**, **Lawrence Spivak** | **Arthur S. Flemming** | `["News", "Interview", "Public Affairs", "Politics", "Government"]` | HEW Secretary Arthur S. Flemming is questioned on medical care legislation for the elderly, federal school construction aid, and public health safeguards. |
+| `Meet_Press_1966.mp3` <br>*Alt*: `George Meary`, `George Meany` | **"George Meany"** | **NBC (WNBC)**<br>1966-08-28<br>12:30 PM EDT | **Sustaining**<br>Public Affairs Interview | **Edwin Newman**, **Lawrence Spivak** | **George Meany** (AFL-CIO) | `["News", "Interview", "Public Affairs", "Labor", "Economics"]` | AFL-CIO President George Meany defends organized labor's collective bargaining rights, airline strike settlements, and wage guideline resistance. |
+| `Guiding_Light_1950.mp3` <br>*Alt*: `Meta Finds Allies` | **"Meta Finds Allies"** | **CBS (WABC)**<br>1950-08-28<br>1:45 PM EDT | **Procter & Gamble**<br>Ivory Soap / Duz | **Jone Allison**, **Lyle Sudrow** | **Irna Phillips** (Creator) | `["Soap Opera", "Drama", "Family", "Serial", "Domestic"]` | Meta Bauer seeks support from family members as legal pressures mount regarding custody arrangements and her volatile marriage to Ted White. |
+| `CBS_News_1940.mp3` <br>*Alt*: `CBS News Axis Foreign Ministers Meet` | **"Axis Foreign Ministers Meet"** | **CBS (WABC)**<br>1940-08-28<br>8:00 AM EDST | **Sustaining**<br>Wartime News | **Bob Trout**, **William L. Shirer** | **Eric Sevareid** | `["News", "Broadcast Journalism", "Wartime", "Historical", "World War II"]` | CBS correspondents report on Axis foreign ministers meeting in Vienna to partition Romanian territory and the escalating London air raids. |
+| `Prudential_1949.mp3` <br>*Alt*: `The Firebrand`, `Kirk Douglas` | **"The Firebrand"** | **CBS (WABC)**<br>1949-08-28<br>6:00 PM EDT | **Prudential Co.**<br>"Strength of Gibraltar" | **Kirk Douglas** | **Carmen Dragon Orchestra** | `["Drama", "Historical", "Adventure", "Romance", "Anthology"]` | Renaissance Florentine goldsmith and adventurer Benvenuto Cellini schemes his way out of prison and courts the Duchess of Florence. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 28
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 28**: 114
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

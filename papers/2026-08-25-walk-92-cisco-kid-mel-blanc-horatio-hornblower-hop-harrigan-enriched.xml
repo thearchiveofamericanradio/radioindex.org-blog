@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 25 Calendar Walk — The Cisco Kid (Mel Blanc), Horatio Hornblower (Michael Redgrave), and Hop Harrigan</article-title>
+      <pub-date>2026-08-25</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 25, Calendar Walk, The Cisco Kid, Jack Mather, Mel Blanc, Harry Lang, Webers Bread, Horatio Hornblower, Michael Redgrave, CS Forester, CBS, Claudia and David, Patricia Ryan, Richard Kollmar, Coca-Cola, Hop Harrigan, Chester Stratton, Post Cereals, Jerry of the Circus, Hal Peary, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 25 Exhaustive Archival Metadata Enrichment (Increment 92)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, the classic Old West Robin Hood adventures of The Cisco Kid featuring voice acting legend Mel Blanc, British naval maritime dramas starring Michael Redgrave, comic marital excursions to Coney Island, juvenile circus thrills, and high-altitude aviation dogfights (1937–1955):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 25 Archival Inventory (Increment 92)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Cisco_Kid_1953.mp3` <br>*Alt*: `Cisco Kid 1953-08-25`, `Silver Spur Ambush` | **"The Silver Spur Ambush (Jack Mather & Harry Lang — Weber's Bread)"** | **Mutual (WOR)**<br>1953-08-25<br>5:00 PM EDT | **Interstate Bakeries**<br>Weber's Bread & Cakes | **Jack Mather** (Cisco), **Harry Lang** (Pancho) | **Frederic W. ZIV**, **Jeanne Yount**, **Marvin Miller** | `["Western", "Juvenile", "Adventure", "Action", "Frontier"]` | "Here's adventure! Here's romance! Here's the famous Robin Hood of the Old West... The Cisco Kid!" Cisco and Pancho foil an ambush by a ruthless band of cattle rustlers attempting to hijack a silver mining payroll shipment for Weber's Bread. |
+| `Cisco_Kid_1955.mp3` <br>*Alt*: `Lightning on the Draw`, `Cisco Kid Mel Blanc 1955` | **"Lightning on the Draw (Jack Mather & Mel Blanc — Weber's Bread)"** | **Mutual (WOR)**<br>1955-08-25<br>5:00 PM EDT | **Interstate Bakeries**<br>Weber's Bread & Cakes | **Jack Mather** (Cisco), **Mel Blanc** (Pancho) | **Frederic W. ZIV**, **Jeanne Yount**, **Marvin Miller** | `["Western", "Juvenile", "Adventure", "Action", "Frontier"]` | "Oh Pancho! Oh Cisco!" The Cisco Kid confronts an arrogant young outlaw boasting a lightning-fast draw who terrorizes a border town, using clever trick marksmanship to disarm him without bloodshed for Weber's Bread. |
+| `Jerry_Circus_1937.mp3` <br>*Alt*: `Jerry Walks The Wire`, `Jerry Circus Escaped Lion` | **"Jerry Walks the High Wire (Loren Gage & Hal Peary — Syndicated)"** | **KFI Los Angeles**<br>1937-08-25<br>5:30 PM PST | **Sustaining**<br>Circus Adventure | **Loren Gage** (Jerry), **Hal Peary**, **Lou Marcelle** | **Walter Biddick Company**, **Ken Niles** | `["Juvenile", "Adventure", "Circus", "Action", "Children"]` | "Jerry of the Circus!" Young circus acrobat Jerry bravely attempts a high-wire routine across the big top when pandemonium erupts as a caged lion escapes into the main tent, prompting a thrilling rescue. |
+| `Claudia_David_1948.mp3` <br>*Alt*: `A Visit To Coney Island`, `Claudia and David Coca-Cola` | **"A Visit to Coney Island (Patricia Ryan & Richard Kollmar — Coca-Cola)"** | **CBS (WCBS)**<br>1948-08-25<br>8:30 PM EDT | **Coca-Cola Co.**<br>Coca-Cola — "Refreshment!" | **Patricia Ryan** (Claudia), **Richard Kollmar** | **Rose Franken**, **Dodd Harris**, **Frank Waldecker** | `["Comedy", "Sitcom", "Domestic", "Marriage", "Romance"]` | "Claudia and David, based on the celebrated stories by Rose Franken, brought to you by Coca-Cola!" Sophisticated young married couple Claudia and David spend an uproarious, chaotic summer evening navigating the rollercoasters and carnival games of Coney Island. |
+| `Hornblower_1952.mp3` <br>*Alt*: `Return To The Sea`, `Horatio Hornblower Michael Redgrave` | **"Return to the Sea (Michael Redgrave as Captain Hornblower — CBS)"** | **CBS / BBC**<br>1952-08-25<br>8:00 PM EDT | **Sustaining**<br>Maritime Adventure | **Michael Redgrave** (Hornblower), **Alan Hewitt** | **C.S. Forester**, **Harry Alan Towers**, **Sidney Torch** | `["Adventure", "Historical", "Maritime", "Military", "Action"]` | "Captain Horatio Hornblower, R.N., created by C.S. Forester, starring Michael Redgrave!" Captain Hornblower returns to command of HMS *Lydia* following a brief shore leave, sailing into perilous French-patrolled Mediterranean waters to enforce the British naval blockade. |
+| `Hop_Harrigan_1947.mp3` <br>*Alt*: `Ghostly Avengers Part 18`, `Hop Harrigan Post Cereals` | **"The Riddle of the Ghostly Avengers: Aerial Dogfight (Part 18 — Post Cereals)"** | **Mutual (WOR)**<br>1947-08-25<br>5:00 PM EDT | **General Foods**<br>Post's Grape-Nuts Flakes | **Chester Stratton** (Hop), **Ken Lynch** (Tank) | **Jon L. Blummer**, **Jessica Maxwell**, **Glenn Riggs** | `["Aviation", "Adventure", "Juvenile", "Action", "Mystery"]` | "CX4 to control tower, CX4 to control tower... this is Hop Harrigan, coming in!" In Part 18 of *The Riddle of the Ghostly Avengers*, ace aviator Hop Harrigan and co-pilot Tank Tinker dogfight mystery aircraft over the Caribbean to uncover a hidden aerial smuggling base for Post Cereals. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 167
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

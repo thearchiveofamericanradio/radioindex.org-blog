@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 25 Calendar Walk — The Green Hornet (2 Decades), Frankie Carle, and Dr. Christian</article-title>
+      <pub-date>2026-08-25</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 25, Calendar Walk, The Green Hornet, Britt Reid, Kato, Al Hodge, Jack McCarthy, George W Trendle, Fran Striker, Dr Christian, Jean Hersholt, Rosemary DeCamp, Vaseline, One Night Stand, Frankie Carle, Hotel Pennsylvania, Frankie Masters, Hollywood Palladium, AFRS, General Motors on Safari, Springbok Radio, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 25 Exhaustive Archival Metadata Enrichment (Increment 69)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 25** across American network, masked vigilante action, big band ballroom remotes, small-town medicine, and African safari adventure radio history (1938–1967):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 25 Archival Inventory (Increment 69)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Dr_Christian_1948.mp3` <br>*Alt*: `Night Time`, `Night Time Rivers End` | **"Night Time in River's End (Jean Hersholt as Dr. Christian — Vaseline)"** | **CBS (WCBS)**<br>1948-08-25<br>8:30 PM EDT | **Chesebrough Mfg.**<br>Vaseline Petroleum Jelly | **Jean Hersholt** (Dr. Christian), **Rosemary DeCamp** | **Ruth Adams Knight**, **Neil Reagan**, **Art Gilmore** | `["Drama", "Medical", "Americana", "Small Town", "Human Interest"]` | A midnight emergency calls Dr. Paul Christian to a remote farmhouse on a stormy night, where he delivers a critically ill baby and reconciles an estranged young couple before sunrise for Vaseline. |
+| `Green_Hornet_1938.mp3` <br>*Alt*: `Jumbled Words`, `Green Hornet 1938` | **"The Jumbled Words (Al Hodge as The Green Hornet — WXYZ/Mutual)"** | **Mutual (WXYZ)**<br>1938-08-25<br>8:00 PM EDST | **Sustaining**<br>Vigilante Crime Fighter | **Al Hodge** (Britt Reid), **Raymond Hayashi** (Kato) | **George W. Trendle & Fran Striker**, **James Jewell** | `["Action", "Superhero", "Detective", "Vigilante", "Crime"]` | "Ride with the Green Hornet! He hunts the biggest of all game: public enemies even the G-men cannot catch!" Publisher Britt Reid and faithful valet Kato decode a jumbled newspaper cryptogram to smash a corrupt city contracting syndicate rigging municipal bids. |
+| `Green_Hornet_1950.mp3` <br>*Alt*: `Unwelcome Visitor`, `Green Hornet ABC 1950` | **"The Unwelcome Blackmailer (Jack McCarthy as The Green Hornet — ABC)"** | **ABC (WJZ)**<br>1950-08-25<br>8:00 PM EDT | **Sustaining**<br>Crime Fighter Drama | **Jack McCarthy** (Britt Reid), **Rollon Parker** (Kato) | **George W. Trendle**, **Dan Beattie**, **Hal Neal** | `["Action", "Superhero", "Detective", "Vigilante", "Crime"]` | When a vicious blackmailer infiltrates the Daily Sentinel offices threatening to frame a crusading judge, Britt Reid dons the mask of the Green Hornet to corner the extortionist in a waterfront warehouse trap. |
+| `One_Night_Stand_1944.mp3` <br>*Alt*: `Frankie Carle Hotel Penn`, `AFRS One Night Stand 340` | **"Live from the Hotel Pennsylvania: Frankie Carle & His Orchestra (AFRS)"** | **AFRS**<br>1944-08-25<br>(No. 340) | **Sustaining**<br>Armed Forces Radio | **Frankie Carle and his Orchestra**, **Phyllis Lynne** | **AFRS Hollywood**, **Jack McElroy** | `["Music", "Big Band", "Swing", "Jazz", "Concert"]` | "One Night Stand! Music for the armed forces overseas!" Pianist Frankie Carle and his orchestra light up the Cafe Rouge of the Hotel Pennsylvania in Manhattan with high-energy swing numbers including 'Shine' and 'Sunrise Serenade' for Allied servicemen worldwide. |
+| `One_Night_Stand_1949.mp3` <br>*Alt*: `Frankie Masters Palladium`, `AFRS One Night Stand 1949` | **"Live from the Hollywood Palladium: Frankie Masters & His Orchestra (AFRS)"** | **AFRS**<br>1949-08-25<br>(Palladium) | **Sustaining**<br>Armed Forces Radio | **Frankie Masters and his Orchestra**, **Phyllis Miles** | **AFRS Military Radio Unit**, **Don Wilson** | `["Music", "Big Band", "Swing", "Jazz", "Concert"]` | Frankie Masters and his orchestra deliver a sensational live ballroom remote from the Hollywood Palladium, performing 'It's a Great Feeling', 'Room Full of Roses', and sweet dance orchestrations for American military personnel across the globe. |
+| `GM_Safari_1967.mp3` <br>*Alt*: `Harrys Diamond`, `GM on Safari 1967` | **"The Kalahari Diamond Smugglers (General Motors on Safari — Springbok)"** | **Springbok Radio**<br>1967-08-25<br>8:00 PM SAST | **General Motors**<br>Chevrolet & Opel South Africa | **Harry** (Safari Guide), **Peter Lotis**, **Hugh Rouse** | **Springbok Radio Drama Unit**, **David Davies** | `["Adventure", "Action", "African", "Safari", "Crime"]` | Veteran safari guide Harry and his expedition team cross the rugged terrain of the Kalahari desert, encountering dangerous wildlife and diamond smugglers attempting to traffic uncut gems across the border for General Motors. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 25
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 25**: 29
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

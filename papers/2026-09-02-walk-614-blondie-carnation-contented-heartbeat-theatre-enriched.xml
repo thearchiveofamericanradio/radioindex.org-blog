@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 2 Calendar Walk — Blondie, Carnation Contented &amp; Heartbeat Theatre</article-title>
+      <pub-date>2026-09-02</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 2, Calendar Walk, Blondie, Penny Singleton, Arthur Lake, Camel Cigarettes, Carnation Contented Hour, Percy Faith, Carnation Milk, Al Pearce and His Gang, Elmer Blurt, Abie's Irish Rose, Drene Shampoo, Heartbeat Theatre, Salvation Army, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 2 Archival Metadata Enrichment (Increment 614)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across classic comic strip domestic sitcoms, lush orchestral concert hours, door-to-door salesman comedy sketches, generational in-law domestic humor, and spiritual public service audio drama, Penny Singleton and Arthur Lake in *Blondie* for Camel Cigarettes (1940), Percy Faith on *The Carnation Contented Hour* (1946), Al Pearce as Elmer Blurt (1951), *Abie's Irish Rose* (1944), and *Heartbeat Theatre* (1940–1962):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 2 Archival Inventory (Increment 614)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Blondie_1940_Barbecue.mp3` <br>*Alt*: `Blondie 1940 Episode` | **"Dagwood's Labor Day Backyard Barbecue with Penny Singleton"** | **CBS (WABC)**<br>1940-09-02<br>7:30 PM EDST | **R.J. Reynolds**<br>Camel Cigarettes | **Penny Singleton (Blondie)** | **Arthur Lake & Stafford** | `["Comedy", "Sitcom", "Blondie", "Penny Singleton", "Camel"]` | Dagwood attempts to build a backyard barbecue pit for a Labor Day party but accidentally traps Mr. Dithers inside the masonry. |
+| `Carnation_1946_LaborDay.mp3` <br>*Alt*: `Episode Carnation Contented Hour` | **"Labor Day Folk Melodies with Percy Faith"** | **NBC (WEAF)**<br>1946-09-02<br>10:00 PM EDT | **Carnation Milk Co.**<br>Evaporated Milk | **Percy Faith and Orch.** | **Josephine Antoine** | `["Music", "Classical", "Carnation Contented Hour", "Percy Faith", "NBC"]` | Percy Faith conducts lush orchestral arrangements of traditional American folk tunes and light classical melodies for Labor Day. |
+| `Pearce_1951_PagingLeander.mp3` <br>*Alt*: `Paging Leander Al Pearce and His Gang` | **"Paging Leander with Elmer Blurt"** | **CBS (WCBS)**<br>1951-09-02<br>4:30 PM EDT | **Sustaining**<br>Comedy Variety | **Al Pearce (Elmer Blurt)** | **Martha Mears & Hoff** | `["Comedy", "Variety", "Al Pearce", "Elmer Blurt", "CBS"]` | The bashful door-to-door salesman Elmer Blurt attempts to peddle vacuum cleaner attachments while searching for a lost hotel guest. |
+| `Abie_1944_PorchArguments.mp3` <br>*Alt*: `Abie's Irish Rose 1944 Episode` | **"Family Arguments on the Porch with Drene Shampoo"** | **NBC (WEAF)**<br>1944-09-02<br>8:00 PM EWT | **Procter & Gamble**<br>Special Drene Shampoo | **Sydney Smith**, **Rosemary** | **Charlie Cantor & Kinsella** | `["Comedy", "Sitcom", "Abies Irish Rose", "Drene Shampoo", "NBC"]` | Solomon Levy and Patrick Murphy feud loudly over baby names while Abie and Rosemary try to keep household peace. |
+| `Heartbeat_1956_MeetingRain.mp3` <br>*Alt*: `Meeting in the Rain Heartbeat Theatre` | **"Meeting in the Rain with The Salvation Army"** | **Syndication**<br>1956-09-02 | **The Salvation Army**<br>Public Service Drama | **Dramatic Voice Cast** | **Major Don Barry (Prod)** | `["Drama", "Anthology", "Heartbeat Theatre", "Salvation Army", "Syndicated"]` | A cynical stranded commuter shares an umbrella and life reflections with a compassionate stranger during a sudden city downpour. |
+| `Heartbeat_1962_ApplesGold.mp3` <br>*Alt*: `Apples of Gold Heartbeat Theatre` | **"Apples of Gold with The Salvation Army"** | **Syndication**<br>1962-09-02 | **The Salvation Army**<br>Public Service Drama | **Dramatic Voice Cast** | **Salvation Army Radio** | `["Drama", "Anthology", "Heartbeat Theatre", "Salvation Army", "Syndicated"]` | An elderly orchard grower helps a troubled runaway teenager find self-worth and purpose through honest seasonal harvesting work. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 296 / 480 (184 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 23 Calendar Walk — Gertrude Lawrence, The Shadow (Australia), and Amos 'n' Andy</article-title>
+      <pub-date>2026-08-23</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 23, Calendar Walk, Romance, Gertrude Lawrence, Arnold Moss, Bernard Herrmann, Lady Hamilton, Lord Nelson, The Shadow, Australian Radio, Moray Powell, Grace Bros, Grace Gibson, CBS News, Edward R Murrow, London Blitz, The Enchanting World of Hinge and Bracket, Patrick Fyffe, George Logan, BBC Radio 4, The Adventures of Tarzan, Lamont Johnson, The Amos 'n' Andy Music Hall, Freeman Gosden, Charles Correll, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 23 Exhaustive Archival Metadata Enrichment (Increment 38)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 23** across American, British, and Australian broadcasting history (1940–1976):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 23 Archival Inventory (Increment 38)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Romance_1943_08_23.mp3` <br>*Alt*: `Lady Hamilton`, `Gertrude Lawrence Nelson` | **"Emma, Lady Hamilton (Starring Gertrude Lawrence & Arnold Moss)"** | **CBS (WABC)**<br>1943-08-23<br>11:30 PM EWT | **Sustaining**<br>CBS Radio Presentation | **Gertrude Lawrence**, **Arnold Moss** (Lord Nelson) | **Margaret Lewerth** (Writer), **William N. Robson**, **Bernard Herrmann** | `["Drama", "Romance", "Historical", "Biographical"]` | Stage star Gertrude Lawrence portrays Emma, Lady Hamilton, chronicling her passionate, scandalous romance with British naval hero Admiral Horatio Lord Nelson amidst the turbulent backdrop of the Napoleonic Wars. |
+| `Shadow_AU_1951_08_23.mp3` <br>*Alt*: `Bcast Return To Life`, `The Shadow Return to Life` | **"The Shadow: Return to Life (Starring Moray Powell — Grace Bros.)"** | **2GB Sydney**<br>1951-08-23<br>8:00 PM | **Grace Bros.**<br>Sydney Department Store | **Moray Powell** (Lamont Cranston), **Lynette Foster** | **Grace Gibson Radio Productions**, **John Dease** | `["Superhero", "Mystery", "Detective", "Thriller", "Australian"]` | The Shadow uses his occult hypnotic powers to cloud men's minds and expose an unscrupulous surgeon operating a secret clinic that provides altered plastic surgery identities and forged death certificates to hunted underworld criminals. |
+| `CBS_News_1940_08_23_2.mp3` <br>*Alt*: `Nighttime Blitzkrieg London`, `Murrow Rooftop 1940` | **"CBS World News Tonight: Nighttime Blitzkrieg Opens on London (Edward R. Murrow)"** | **CBS (WABC)**<br>1940-08-23<br>6:45 PM EDST | **Sustaining**<br>CBS News Presentation | **Elmer Davis** (New York), **Edward R. Murrow** (London), **William L. Shirer** | **Paul White** (News Director), CBS News | `["News", "War", "Historical", "Documentary"]` | Anchor Elmer Davis coordinates live CBS shortwave reports as Edward R. Murrow reports live from a London rooftop amidst air raid sirens during the first nighttime German Luftwaffe bombing incendiary raids over central London. |
+| `Hinge_Bracket_1976_08_23.mp3` <br>*Alt*: `Pilot Episode`, `Hinge and Bracket Pilot` | **"The Enchanting World of Hinge and Bracket: Pilot Special (BBC Radio 4)"** | **BBC Radio 4**<br>1976-08-23<br>7:30 PM | **Non-commercial**<br>BBC Radio Comedy | **Patrick Fyffe** (Dame Hilda Bracket), **George Logan** | **Patrick Fyffe & George Logan** (Writers), **John Browell** | `["Comedy", "Music", "Vaudeville", "British", "Satire"]` | Elderly genteel music hall spinsters Dame Hilda Bracket and Dr. Evadne Hinge host an eccentric musical evening in their parlour at Stackton Tressel, singing classic Gilbert and Sullivan and Ivor Novello operetta duets while squabbling over the piano stool. |
+| `Tarzan_1951_08_23_2.mp3` <br>*Alt*: `Tarzans Mistake`, `Tarzan Lamont Johnson 1951` | **"The Adventures of Tarzan: Poachers in the Forbidden Valley (Starring Lamont Johnson)"** | **Commodore Syndication**<br>1951-08-23<br>(Transcribed) | **Local Commercials**<br>Commodore Advertisers | **Lamont Johnson** (Tarzan), **Cy Kendall**, **Gerald Mohr** | **Walter White Jr.** (Producer), **Bud Ernest** | `["Adventure", "Jungle", "Action", "Pulp"]` | Tarzan, Lord of the Jungle, pursues ruthless ivory poachers who tricked an innocent scientific safari expedition into dangerous forbidden cannibal territory, battling a stampeding herd of elephants to rescue the survivors. |
+| `Amos_Andy_1959_08_23.mp3` <br>*Alt*: `30th Anniversary Exerpts`, `Amos Andy 30th` | **"The Amos 'n' Andy Music Hall: 30th Anniversary Retrospective (1929–1959)"** | **CBS (KNX)**<br>1959-08-23<br>7:05 PM EDT | **Sustaining**<br>Multiple CBS Sponsors | **Freeman Gosden** (Amos / Kingfish), **Charles Correll** (Andy) | **Freeman Gosden & Charles Correll** (Creators), **Del Sharbutt** | `["Comedy", "Music", "Variety", "Historical"]` | Freeman Gosden and Charles Correll celebrate thirty historic years of broadcasting as Amos and Andy, spinning popular records while reflecting on legendary sketches, classic Kingfish lodge hall escapades, and three decades of radio history. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 23
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 23**: 228
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

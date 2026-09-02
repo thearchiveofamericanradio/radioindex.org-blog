@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Grand Ole Opry, The Lineup &amp; Mr. Chameleon</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, Grand Ole Opry, Marty Robbins, Hank Snow, Minnie Pearl, The Jordanaires, Prince Albert Tobacco, The Lineup, Bill Johnstone, Wally Maher, Pabst Blue Ribbon, Mr Chameleon, Karl Swenson, Pepto Bismol, The Minds Eye, Bob Peck, BBC, Aunt Mary, Jane Morgan, Safeway, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 818)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across two legendary live performances on the *Grand Ole Opry* (Hank Snow & Minnie Pearl; Marty Robbins & The Jordanaires for Prince Albert Tobacco in 1959), San Francisco police interrogation drama on *The Lineup* for Pabst Blue Ribbon, master-of-disguise investigations on *Mr. Chameleon* for Pepto-Bismol, Honoré de Balzac's French gothic mystery *La Grande Bretèche* on *The Mind's Eye*, and heartland counseling on *Aunt Mary*, Jane Morgan (1945), Karl Swenson (1951), Bill Johnstone (1951), and Marty Robbins & Hank Snow (1959):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 818)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Lineup_1951_PiersonPolemic.mp3` <br>*Alt*: `The Pointless Pierson Polemic Palarity Case Line Up` | **"The Pointless Pierson Polemic Palarity Case"** | **CBS (KNX)**<br>1951-09-05<br>10:00 PM EDT | **Pabst Brewing Co.**<br>Pabst Blue Ribbon Beer | **Bill Johnstone & Maher** | **Jaime del Valle (Director)** | `["Police Procedural", "Crime", "The Lineup", "Bill Johnstone", "Pabst"]` | San Francisco police detectives interrogate eccentric waterfront suspects after an enigmatic scholarly professor is found poisoned in his library. |
+| `MindsEye_1984_GrandeBreteche.mp3` <br>*Alt*: `La Grande Breteche Mind's Eye, The` | **"La Grande Bretèche with Bob Peck"** | **BBC Radio 4**<br>1984-09-05 | **Sustaining**<br>Literary Mystery | **Bob Peck & BBC Cast** | **Honoré de Balzac (Author)** | `["Drama", "Anthology", "The Minds Eye", "Bob Peck", "BBC"]` | A French notary uncovers the sinister secret behind a ruined Loire Valley chateau walled up after an act of jealous spousal vengeance. |
+| `Opry_1959_HankSnow.mp3` <br>*Alt*: `Grand Ole Opry 1959 Episode` | **"Hank Snow and Minnie Pearl"** | **WSM / NBC**<br>1959-09-05<br>8:30 PM CST | **R.J. Reynolds Tobacco**<br>Prince Albert Smoking Tobacco | **Hank Snow & Minnie Pearl** | **WSM Opry Production** | `["Country", "Music", "Grand Ole Opry", "Hank Snow", "Minnie Pearl"]` | Hank Snow performs western swing favorites from the Ryman Auditorium stage while Minnie Pearl delivers folksy Grinders Switch gossip. |
+| `Opry_1959_MartyRobbins.mp3` <br>*Alt*: `Starring Marty Robbins Grand Ole Opry` | **"Starring Marty Robbins and The Jordanaires"** | **WSM / NBC**<br>1959-09-05<br>9:00 PM CST | **R.J. Reynolds Tobacco**<br>Prince Albert Smoking Tobacco | **Robbins & Jordanaires** | **WSM Opry Production** | `["Country", "Music", "Grand Ole Opry", "Marty Robbins", "Prince Albert"]` | Marty Robbins sings his signature cowboy ballads including 'El Paso' and harmonizes with gospel vocal quartet The Jordanaires. |
+| `MrChameleon_1951_FalseWitness.mp3` <br>*Alt*: `The False Witness Murder Case Mr Chameleon` | **"The False Witness Murder Case with Karl Swenson"** | **CBS (WABC)**<br>1951-09-05<br>9:00 PM EDT | **Norwich Pharmacal Co.**<br>Pepto-Bismol Relief | **Karl Swenson & Cordner** | **Frank and Anne Hummert** | `["Detective", "Mystery", "Mr Chameleon", "Karl Swenson", "Pepto Bismol"]` | Master of disguises Mr. Chameleon poses as a private investigator to expose a paid courtroom witness framing an innocent man for murder. |
+| `AuntMary_1945_RefusesBaby.mp3` <br>*Alt*: `Refuses To See Baby Aunt Mary` | **"Refuses to See Baby with Jane Morgan"** | **NBC Pacific**<br>1945-09-05<br>3:30 PM PWT | **Safeway Stores Inc.**<br>Kitchen Craft Flour | **Jane Morgan & McGeehan** | **Gil Doud (Writer)** | `["Soap Opera", "Drama", "Aunt Mary", "Jane Morgan", "Safeway"]` | Aunt Mary counsels a despondent young mother struggling with postpartum grief following news of wartime tragedy overseas. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 222 / 401 (179 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

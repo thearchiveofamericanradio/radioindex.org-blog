@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 24 Calendar Walk — Chandu the Magician, Meet the Press, and The Guiding Light</article-title>
+      <pub-date>2026-08-24</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 24, Calendar Walk, Chandu the Magician, Gayne Whitman, White King Soap, Meet the Press, Lawrence Spivak, Martha Rountree, William Benton, Joseph Curran, The Guiding Light, Lyle Bauer, Charita Bauer, Irna Phillips, Duz Soap, The Travels of Mary Ward, Peggy Allenby, CBS News, Bob Trout, Edward R Murrow, Battle of Britain, Dover Artillery, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 24 Exhaustive Archival Metadata Enrichment (Increment 20)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 24** across American network, syndication, and daytime drama broadcasting history (1932–1958):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 24 Archival Inventory (Increment 20)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Mary_Ward_1936_08_24.mp3` <br>*Alt*: `Amazon River Expedition`, `Mary Ward Travels 1936` | **"The Amazon River Expedition (Starring Peggy Allenby as Mary Ward)"** | **World Synd.**<br>1936-08-24<br>(Show #18) | **Regional Advertisers**<br>Department Stores | **Peggy Allenby** (Mary Ward), **John Kane** | **World Broadcasting System**, **Alois Havrilla** | `["Adventure", "Travel", "Juvenile", "Geography", "Educational"]` | Young explorer Mary Ward journeys deep into the Amazon basin by river steamer, encountering native wildlife, treacherous river rapids, and navigating uncharted tributaries with the help of a friendly jungle guide. |
+| `Chandu_1932_08_24.mp3` <br>*Alt*: `Temple of Black Arts`, `Gayne Whitman Chandu 1932` | **"The Temple of the Black Arts (Starring Gayne Whitman as Chandu — White King Soap)"** | **Don Lee / Mutual**<br>1932-08-24<br>8:00 PM PST | **Los Angeles Soap Co.**<br>White King Soap | **Gayne Whitman** (Chandu), **Margaret MacDonald** | **Harry A. Earnshaw & Vera M. Oldham**, **Howard Culver** | `["Adventure", "Fantasy", "Occult", "Exotic", "Action"]` | Frank Chandler (Chandu the Magician) harnesses ancient Eastern mystic arts, astral projection, and the crystal of perception to shield Princess Nadji from the hypnotic sorcery of the villainous warlock Roxor in an Egyptian subterranean temple. |
+| `Meet_Press_1952_08_24.mp3` <br>*Alt*: `Sen William Benton`, `Benton McCarthy Expulsion` | **"Meet the Press: Senator William Benton (Lawrence Spivak & Martha Rountree)"** | **NBC Radio & TV**<br>1952-08-24<br>10:30 PM EDT | **Revere Copper**<br>Revere Copper & Brass | **Martha Rountree**, **Lawrence Spivak**, **Sen. William Benton** | **Martha Rountree & Lawrence Spivak** (Producers) | `["Interview", "Public Affairs", "Political", "Journalism", "Debate"]` | Connecticut Senator William Benton faces incisive questioning from Lawrence Spivak and Washington correspondents regarding his Senate resolution to expel Senator Joseph McCarthy, congressional ethics, and the 1952 presidential campaign. |
+| `Meet_Press_1958_08_24.mp3` <br>*Alt*: `Joseph E Curran`, `Joseph Curran NMU 1958` | **"Meet the Press: Joseph E. Curran, National Maritime Union President (NBC)"** | **NBC Radio & TV**<br>1958-08-24<br>6:30 PM EDT | **Pan American**<br>Pan American Airways | **Ned Brooks** (Moderator), **Lawrence Spivak**, **Joseph Curran** | **Lawrence E. Spivak** (Producer) | `["Interview", "Public Affairs", "Political", "Journalism", "Labor"]` | National Maritime Union President Joseph E. Curran defends maritime labor policies, union autonomy, and AFL-CIO internal racketeering clean-up efforts under aggressive cross-examination from labor reporters. |
+| `Guiding_Light_1950_08_24.mp3` <br>*Alt*: `Bill Refuses Ted Loan`, `Lyle Charita Bauer Duz` | **"Bill Refuses Ted's Loan (Starring Lyle & Charita Bauer — Duz Soap)"** | **CBS (WCBS)**<br>1950-08-24<br>1:45 PM EDT | **Procter & Gamble**<br>Duz - "Duz Does Everything!" | **Lyle Sudrow** (Bill Bauer), **Charita Bauer** (Bert) | **Irna Phillips** (Creator), **Walter Gorman**, **Bud Collyer** | `["Soap Opera", "Drama", "Family", "Romance", "Domestic"]` | In Five Points, Bill Bauer staunchly refuses to accept financial assistance from Ted White for his struggling business, creating profound tension with his devoted wife Bert as the family faces looming insolvency. |
+| `CBS_News_1940_08_24.mp3` <br>*Alt*: `German Batteries Shell London`, `Dover Artillery Blitz` | **"Cross-Channel Artillery Shells Dover (Bob Trout & Edward R. Murrow — CBS News)"** | **CBS (WABC)**<br>1940-08-24<br>8:00 AM EDST | **Sustaining**<br>CBS News European Roundup | **Bob Trout** (Anchor), **Edward R. Murrow**, **William L. Shirer** | **CBS News Special Events Unit Live Transmission** | `["News", "Historical", "Public Affairs", "World War II", "Journalism"]` | Bob Trout anchors live reports from European correspondents as Nazi cross-channel long-range coastal artillery batteries bombard Dover and the English coastline, escalating the ferocious opening stages of the Battle of Britain. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 24
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 24**: 120
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

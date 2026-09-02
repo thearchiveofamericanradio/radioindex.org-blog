@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 1 Calendar Walk — Nick Carter &amp; The First Nighter Program</article-title>
+      <pub-date>2026-09-01</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 1, Calendar Walk, Nick Carter Master Detective, Lon Clark, Charlotte Manson, Acme Quality Paints, Old Dutch Cleanser, The First Nighter Program, Don Ameche, June Meredith, Barbara Luddy, Les Tremayne, Olan Soule, Campana Italian Balm, Little Theater off Times Square, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 1 Archival Metadata Enrichment (Increment 567)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 1** across classic pulp detective mysteries and the glamorous Broadway footlights of the *Little Theater off Times Square*, Lon Clark in *Nick Carter, Master Detective* (1944, 1946), alongside a four-decade retrospective of *The First Nighter Program* starring Don Ameche, June Meredith, Barbara Luddy, Les Tremayne, and Olan Soule for Campana Italian Balm (1933, 1939, 1949, 1953):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 1 Archival Inventory (Increment 567)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Carter_1944_Drums5.mp3` <br>*Alt*: `The Drums of Death, Part 5 Nick Carter` | **"The Drums of Death (Part 5) with Lon Clark and Acme Paints"** | **Mutual (WOR)**<br>1944-09-01<br>8:30 PM EWT | **Acme Quality Paints**<br>Lin-X Wax & Kem-Tone | **Lon Clark**, **Choate** | **Jock MacGregor (Director)** | `["Detective", "Mystery", "Nick Carter", "Lon Clark", "Acme"]` | Nick Carter confronts a Caribbean cult priestess whose hypnotic voodoo drumming drove a plantation heiress into trance-like terror. |
+| `Carter_1946_RedGoose.mp3` <br>*Alt*: `Nick Carter 251 The Case Of The Red Goose Murder` | **"The Case of the Red Goose Murder with Lon Clark and Cudahy Packing"** | **Mutual (WOR)**<br>1946-09-01<br>5:30 PM EDT | **Cudahy Packing Co.**<br>Old Dutch Cleanser | **Lon Clark**, **Manson** | **Jock MacGregor (Director)** | `["Detective", "Mystery", "Nick Carter", "Lon Clark", "Old Dutch Cleanser"]` | Nick Carter investigates the fatal poisoning of a toy manufacturer found clutching a painted porcelain red goose figurine. |
+| `First_Nighter_1933_Attraction.mp3` <br>*Alt*: `The Main Attraction First Nighter` | **"The Main Attraction with Don Ameche, June Meredith, and Campana Italian Balm"** | **NBC Red (WMAQ)**<br>1933-09-01<br>10:00 PM EDST | **Campana Corporation**<br>Campana Italian Balm | **Don Ameche**, **Meredith** | **Charles Hughes (Host)** | `["Drama", "Romance", "First Nighter", "Don Ameche", "Campana"]` | A carnival sideshow barker risks everything to promote his talented aerialist sweetheart to headlining status on the Broadway stage. |
+| `First_Nighter_1939_BroadwayStar.mp3` <br>*Alt*: `First Nighter Program 1939 Episode` | **"The Star of Broadway with Barbara Luddy, Les Tremayne, and Campana Italian Balm"** | **CBS (WBBM)**<br>1939-09-01<br>8:00 PM EDST | **Campana Corporation**<br>Italian Balm & Dreskin | **Barbara Luddy**, **Tremayne** | **Bret Morrison (Host)** | `["Drama", "Romance", "First Nighter", "Barbara Luddy", "Les Tremayne"]` | An understudy steps into the lead theatrical role on opening night and must navigate jealous backstage sabotage to triumph. |
+| `First_Nighter_1949_DollarSecond.mp3` <br>*Alt*: `A Dollar a Second (Repeat) First Nighter` | **"A Dollar a Second (Repeat) with Barbara Luddy, Olan Soule, and Campana"** | **CBS (WBBM)**<br>1949-09-01<br>10:30 PM EDT | **Campana Sales Co.**<br>Campana Italian Balm | **Barbara Luddy**, **Soule** | **Marvin Miller (Host)** | `["Drama", "Comedy", "First Nighter", "Barbara Luddy", "Olan Soule"]` | A desperate clerk agrees to endure a bizarre endurance challenge for a thousand dollars only to discover it masks a diamond heist. |
+| `First_Nighter_1953_HonestDope.mp3` <br>*Alt*: `The Honest Dope First Nighter` | **"The Honest Dope with Barbara Luddy and Olan Soule"** | **CBS (WBBM)**<br>1953-09-01<br>8:30 PM EDT | **Sustaining**<br>Times Square Theater | **Barbara Luddy**, **Soule** | **Rye Billsbury (Host)** | `["Comedy", "Romance", "First Nighter", "Barbara Luddy", "Olan Soule"]` | An honest racetrack bettor inadvertently intercepts a bookmaker's coded wager and tries to return the winnings. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 1
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 1**: 324 / 389
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

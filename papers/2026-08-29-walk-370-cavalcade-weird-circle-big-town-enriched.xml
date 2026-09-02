@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 29 Calendar Walk — Cavalcade of America, The Weird Circle, and Big Town</article-title>
+      <pub-date>2026-08-29</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 29, Calendar Walk, Cavalcade of America, Robert Montgomery, John Adams, DuPont, The Weird Circle, Edgar Allan Poe, The Mysterious Traveler, Maurice Tarplin, Robert A Arthur, David Kogan, Big Town, Edward Pawley, Fran Carlon, Jerry Devine, Ironized Yeast, Lifebuoy, Bill Sterns Sports Newsreel, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 29 Archival Metadata Enrichment (Increment 370)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 29** across American network radio and syndication, Robert Montgomery starring as John Adams defending the Boston Massacre on DuPont's *Cavalcade of America* (1950), Edgar Allan Poe's gothic masterpiece *The Fall of the House of Usher* on *The Weird Circle* (1943), Maurice Tarplin hosting *The Mysterious Traveler* (1950), Edward Pawley & Fran Carlon in two investigative newspaper crusades on *Big Town* (1944–1950), and Bill Stern's sports highlights for Colgate (1942–1950):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 29 Archival Inventory (Increment 370)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Weird_Circle_1943.mp3` <br>*Alt*: `House of Usher 32 22` | **"The Fall of the House of Usher"** | **NBC / Mutual Synd**<br>1943-08-29 | **Sustaining**<br>Gothic Horror | **Dramatic Repertory** | **Edgar Allan Poe (Author)** | `["Horror", "Gothic", "Mystery", "Supernatural", "Adaptation"]` | A traveler visits the decaying ancestral mansion of Roderick Usher and witnesses the terrifying resurrection of his entombed sister. |
+| `Myst_Traveler_1950.mp3` <br>*Alt*: `Murder Has a Price` | **"Murder Has a Price"** | **Mutual (WOR)**<br>1950-08-29<br>8:00 PM EDT | **Sustaining**<br>Suspense Drama | **Maurice Tarplin** (Host) | **Arthur & Kogan (Writers)** | `["Suspense", "Mystery", "Horror", "Thriller", "Crime"]` | A desperate embezzler hires an underworld assassin to eliminate a blackmailer, only to become the target of escalating extortion demands. |
+| `Big_Town_1944.mp3` <br>*Alt*: `Voice From the Pit` | **"The Voice From the Pit"** | **CBS (WABC)**<br>1944-08-29<br>8:00 PM EWT | **Sterling Drug**<br>Ironized Yeast | **Edward Pawley**, **Carlon** | **Jerry Devine (Director)** | `["Newspaper", "Drama", "Crime", "Detective", "Investigative"]` | Illustrated Press editor Steve Wilson investigates an abandoned quarry pit where trapped construction workers uncover a hidden bootlegging vault. |
+| `Big_Town_1950.mp3` <br>*Alt*: `Murder Takes Joyride` | **"Murder Takes a Joyride (National Safety Council Special)"** | **NBC (WNBC)**<br>1950-08-29<br>8:00 PM EDT | **Lever Brothers**<br>Lifebuoy Soap / Rinso | **Edward Pawley**, **Carlon** | **Jerry Devine (Director)** | `["Newspaper", "Drama", "Crime", "Detective", "Docudrama"]` | Steve Wilson launches a crusading newspaper campaign to shut down reckless hot-rod drag-racing rings endangering city pedestrians. |
+| `Cavalcade_1950.mp3` <br>*Alt*: `John Yankee Montgomery` | **"John Yankee with Robert Montgomery"** | **NBC (WNBC)**<br>1950-08-29<br>8:00 PM EDT | **DuPont**<br>Better Things for Better Living | **Robert Montgomery** (Adams) | **Russell Hughes (Writer)** | `["Historical", "Biography", "American Revolution", "Legal Drama", "Anthology"]` | John Adams risks his political career and public standing to defend British soldiers on trial for the Boston Massacre in 1770. |
+| `Bill_Stern_1942.mp3` <br>*Alt*: `Sports Newsreel 1942` | **"Guest Ted Williams and Joe DiMaggio Highlights"** | **NBC Red (WEAF)**<br>1942-08-29<br>10:00 PM EWT | **Colgate-Palmolive**<br>Colgate Shave Cream | **Bill Stern** (Host) | **Sports Newsreel Staff** | `["Sports", "Newsreel", "Baseball", "Biography", "Interview"]` | Bill Stern recounts legendary baseball pennant race dramatic finishes and interviews prominent wartime major league athletes. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 29
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 29**: 288
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

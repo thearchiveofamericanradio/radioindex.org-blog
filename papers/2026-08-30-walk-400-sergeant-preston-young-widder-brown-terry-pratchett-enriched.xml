@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — Sergeant Preston of the Yukon, Young Widder Brown, and Terry Pratchett</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, Challenge of the Yukon, Sergeant Preston, Paul Sutton, King the Wonder Dog, Fran Striker, Quaker Oats, Young Widder Brown, Frank and Anne Hummert, Wendy Drew, Ned Wever, Haley's M-O, Two on a Clue, John Steele Adventurer, Atlanta Radio Theatre Company, Terry Pratchett, Guards Guards, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 400)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network radio, syndicated transcription services, and modern audio theatre, Paul Sutton as Sergeant Preston of the Yukon tracking murderers and claim jumpers for Quaker Oats (1947–1950), Frank and Anne Hummert's daytime serial *Young Widder Brown* for Haley's M-O (1950), husband-and-wife sleuths in *Two on a Clue* for Post's Bran Flakes (1945), international intrigue on *John Steele, Adventurer* (1955), and Terry Pratchett's Discworld classic *Guards! Guards!* by the Atlanta Radio Theatre Company (1945–2007):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 400)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Widder_Brown_1950.mp3` <br>*Alt*: `Norine Meets Jim` | **"Norine Meets with Dr. Jim Brent"** | **NBC (WNBC)**<br>1950-08-30<br>4:45 PM EDT | **Sterling Drug**<br>Haley's M-O / Phillips | **Wendy Drew**, **Wever** | **Frank & Anne Hummert** | `["Soap Opera", "Drama", "Serial", "Daytime", "Hummert"]` | Norine seeks a secret medical consultation with Dr. Jim Brent to discuss her worsening health without alerting Ellen. |
+| `John_Steele_1955.mp3` <br>*Alt*: `Moroccan Smuggling` | **"The Moroccan Smuggling Ring"** | **Mutual (WOR)**<br>1955-08-30<br>8:00 PM EDT | **Sustaining**<br>International Espionage | **Ted Mallie** (Narrator) | **John Steele Staff** | `["Espionage", "Adventure", "International", "Action", "Drama"]` | Government agent John Steele tracks illicit munitions shipments across the Moroccan desert to prevent an uprising. |
+| `Two_Clue_1945_13.mp3` <br>*Alt*: `Noisy Corpse 13` | **"The Case of the Noisy Corpse (Part 13)"** | **CBS (WABC)**<br>1945-08-30<br>2:00 PM EWT | **General Foods**<br>Post's 40% Bran Flakes | **Ned Wever**, **Fitch** | **Two on a Clue Staff** | `["Detective", "Mystery", "Comedy-Mystery", "Serial", "Daytime"]` | Husband-and-wife sleuths Jeff and Penny Spencer search a creaky Victorian attic for the source of unexplained nighttime tapping sounds. |
+| `Yukon_1947_Killer.mp3` <br>*Alt*: `Clue To A Killer` | **"Clue to a Killer"** | **ABC (WJZ)**<br>1947-08-30<br>5:00 PM EDT | **Sustaining / Quaker**<br>Puffed Wheat | **Paul Sutton**, **King** | **Fran Striker (Writer)** | `["Western", "Adventure", "Northwest", "Juvenile", "Mountie"]` | Sergeant Preston and King track a gold claim jumper who murdered a prospector and fled into the mountain wilderness. |
+| `Yukon_1950_Luck.mp3` <br>*Alt*: `Logans Luck` | **"Logan's Luck"** | **Mutual (WOR)**<br>1950-08-30<br>5:00 PM EDT | **Quaker Oats Co.**<br>Quaker Puffed Rice & Wheat | **Paul Sutton**, **King** | **Fran Striker (Writer)** | `["Western", "Adventure", "Northwest", "Juvenile", "Mountie"]` | Sergeant Preston investigates a suspicious mining claim dispute after an unlucky prospector strikes gold and receives violent threats. |
+| `ARTC_2007_Guards.mp3` <br>*Alt*: `Guards Guards 1` | **"Guards! Guards! (Part 1)"** | **ARTC Syndication**<br>2007-08-30 | **Sustaining**<br>Audio Drama | **ARTC Repertory Cast** | **Terry Pratchett (Author)** | `["Fantasy", "Comedy", "Satire", "Audio Drama", "Adaptation"]` | Captain Sam Vimes and the underdog Ankh-Morpork City Night Watch investigate a secret brotherhood attempting to summon a dragon. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 72 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>
