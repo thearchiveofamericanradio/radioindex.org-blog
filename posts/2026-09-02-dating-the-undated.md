@@ -9,9 +9,8 @@
 ## Abstract
 
 Many old American radio recordings survive today. Collectors trade them as sound files.
-But a large number of these recordings carry no date. Often the only information about a
-recording is its file name. File names do not last. People write them again at every copy.
-Computers cut them short. When a name is hard to read, someone chooses one. So the date is
+But a large number of these recordings carry no date. The file name is often the only information about a recording. File names do not last. People write them again at every copy.
+Computers cut them short. Someone chooses a date when a name is hard to read. So the date is
 lost, and many of the dates that remain are wrong.
 
 This paper describes a method for finding the true date of such a recording. The main
@@ -30,8 +29,7 @@ One example shows the method at work. Six independent listings move one recordin
 by almost seven years. The day of the week cannot settle the question, because both
 possible dates fall on a Sunday, and the program aired on Sundays.
 
-The paper reports one limit as well. In the sample studied, the number of listings
-available for a broadcast rises sharply with the year across the 1930s. The measure of
+The paper reports one limit as well. The number of listings available for a broadcast rises sharply with the year across the 1930s in the sample studied. The measure of
 this rise is a correlation of 0.899 across fourteen records. Evidence is not equally
 thick across the whole period. Any dating system must show this, and not hide it behind a
 flat claim of fact.
@@ -44,10 +42,9 @@ audio archives, metadata
 ## 1. The problem: a body of evidence that lost its dates
 
 Old American radio survives mainly because collectors saved it. People recorded the
-programs on transcription discs and later on tape. Then they copied the copies. They
+programs on transcription discs and later on tape. People copied the copies. They
 traded them, and in time they made them into computer files. This went on for about
-seventy years. During all that time, no library or archive set a rule for the
-information that traveled with each recording. The result is a large body of valuable
+seventy years. No library and no archive set a rule for the information that traveled with each recording. The result is a large body of valuable
 history with almost no reliable record keeping.
 
 The clearest failure is the date. A recording without a date is much weaker as evidence.
@@ -68,8 +65,7 @@ does not survive three.
 
 **Wrong dates are passed along.** When a date is present, it is often passed along rather
 than proved. A collector chooses a date that looks reasonable. Everyone who receives the
-file copies that date forward. Over time the date starts to look official, only because so
-many people repeat it. Nothing in a trading network ever removes a wrong date.
+file copies that date forward. The date starts to look official over time, only because so many people repeat it. Nothing in a trading network ever removes a wrong date.
 
 **Programs are dated, but recordings are not.** Many holdings carry only the years the
 program ran, such as 1952 to 1961. That is a fact about the program. It is not a fact
@@ -91,8 +87,7 @@ The field already has good note books. John Dunning's *On the Air: The Encyclope
 of Old-Time Radio* describes about 1,500 programs. It gives their broadcast histories,
 their times, their networks, their advertisers, and their main workers.<sup id="r2"><a href="#n2">2</a></sup> The
 *Handbook of Old-Time Radio*, by Jon Swartz and Robert Reinehr, serves collectors in a
-similar way.<sup id="r3"><a href="#n3">3</a></sup> Together they establish the record at the level of the
-*program*, and they do it well. The method described here depends on that work. Step 2 of
+similar way.<sup id="r3"><a href="#n3">3</a></sup> The two guide books establish the record at the level of the *program*, and establish it well. The method described here depends on that work. Step 2 of
 the procedure in section 4 uses exactly this kind of source to learn a program's usual
 day and hour.
 
@@ -100,13 +95,9 @@ But these books do not date a single surviving recording, and they never set out
 Their subject is the program and its run. The problem here is the single item — one sound
 file, in trading now, whose place inside that run is not known. A note book can tell
 a cataloger that *Greatest Story Ever Told* was a Sunday program, and that it ran in 1948
-and also in 1955. It cannot say which Sunday produced the recording they hold. In the case
-studied in section 5.4, the program-level record fits the correct date and the wrong date
-equally well.
+and also in 1955. It cannot say which Sunday produced the recording they hold. The program-level record in section 5.4 fits the correct date and the wrong date equally well.
 
-So the hole is built into the problem. It is not a failure of the existing books. To date a
-single item, you need evidence about that single item. For this period, the only published
-record that works at that level, day by day, is the newspaper radio log. This paper argues
+So the hole is built into the problem. It is not a failure of the existing books. A cataloger dating a single item needs evidence about that single item. The newspaper radio log is the only published record for this period that works at that level, day by day. This paper argues
 that the radio log should be treated as the primary source for dating these recordings. It
 also argues that each record should show which listings were consulted, and what they
 proved.
@@ -114,9 +105,8 @@ proved.
 ## 2. The collection
 
 The Archive of American Radio is a public, not for profit catalog of American broadcast
-recordings. In September 2026 it published 259,915 separate broadcast records across 6,114
-programs.<sup id="r4"><a href="#n4">4</a></sup> Every broadcast record has a fixed web address in the form
-`/series/{program}/episodes/{item}`. Where the evidence lets, each record also carries a
+recordings. The archive published 259,915 separate broadcast records across 6,114 programs in September 2026.<sup id="r4"><a href="#n4">4</a></sup> Every broadcast record has a fixed web address in the form
+`/series/{program}/episodes/{item}`. Each record, where the evidence allows, also carries a
 formal citation, a set of newspaper listings, and a set of trade magazine listings.
 
 The collection did not arrive all at once. It gathers material from the main old-time radio
@@ -126,32 +116,25 @@ proved against published evidence from the time.
 
 Two facts about the published catalog can be measured directly. Both matter for the method.
 
-**For the classic period, the evidence is nearly complete.** The archive holds sixty
+**The evidence is nearly complete for the classic period.** The archive holds sixty
 records, chosen at random, whose item name carries a date between 1930 and 1959.
 Fifty-nine of them — 98 percent — carry at least one newspaper or trade magazine page
-image.<sup id="r5"><a href="#n5">5</a></sup> For the years when the American radio log was a daily feature,
-the evidence this method needs is almost always there.
+image.<sup id="r5"><a href="#n5">5</a></sup> The evidence this method needs is almost always there for the years when the American radio log was a daily feature.
 
 **Old dates survive beside corrected ones.** Of the 259,915 records, 44,566 carry a date in
 the item name, in the form `YYYY-MM-DD`, passed along from the file name of a source
-collection. In a random sample of forty such records from the whole collection, two — 5
-percent — carry a name date that does not agree with the broadcast date the record itself
-states. Inside the 1930 to 1959 window, one record in sixty did not agree.<sup id="r6"><a href="#n6">6</a></sup>
-Both samples are small, and the numbers should be read only as a rough size. Together they
-suggest that one to two thousand records still carry an old date in the name after the
+collection. Two records in a random sample of forty from the whole collection — 5 percent — carry a name date that does not agree with the broadcast date the record itself
+states. One record in sixty did not agree inside the 1930 to 1959 window.<sup id="r6"><a href="#n6">6</a></sup>
+Both samples are small, and the numbers should be read only as a rough size. The two samples together suggest that one to two thousand records still carry an old date in the name after the
 catalog has corrected the date itself. Section 5.4 examines one of them closely.
 
 **More than a quarter of the collection has no date at all.** In a random sample of 150
 records from the whole catalog, 108 — 72 percent — carry a broadcast date. Forty-two — 28
-percent — carry none.<sup id="r7"><a href="#n7">7</a></sup> Across 259,915 records, that points to about
-seventy-two thousand items held with no date.
+percent — carry none.<sup id="r7"><a href="#n7">7</a></sup> Forty-two in 150 points to about seventy-two thousand items held with no date across 259,915 records.
 
-The link between dating and evidence in that sample is the more useful result. Of the 108
-records with dates, 101 — 93.5 percent — carry at least one page image. Of the 42 records
-without dates, **two** do. So records without dates are not, as a rule, records where
+The link between dating and evidence in that sample is the more useful result. 101 of the 108 records with dates — 93.5 percent — carry at least one page image. **Two** of the 42 records without dates carry one. So records without dates are not, as a rule, records where
 someone looked for evidence and failed to find it. They are records where no one has
-looked yet. In this collection, dating a record and gathering its evidence are nearly the
-same job. The forty records in the sample with no date and no evidence stand for work still
+looked yet. Dating a record and gathering its evidence are nearly the same job in this collection. The forty records in the sample with no date and no evidence stand for work still
 to be done, not for a limit on what the method can reach.
 
 ### 2.1 The same broadcast, held more than once
@@ -176,8 +159,7 @@ method that treats them as equal will produce sure wrong answers.
 
 ### 3.1 Newspaper radio logs
 
-This is the main kind. From the early 1930s, large American daily newspapers printed a
-day-by-day radio schedule, called the radio log. It listed the station, the time, and the
+This is the main kind. Large American daily newspapers printed a day-by-day radio schedule from the early 1930s, called the radio log. It listed the station, the time, and the
 program name for the coming day. These logs are the closest thing the period produced to a
 complete published record of what went on the air.
 
@@ -189,10 +171,9 @@ different time zone. A program name and hour that appears in all four is confirm
 that a single listing can never be.
 
 Radio logs have three weaknesses, and each one must be answered openly. First, a log records
-the *schedule* — what the network meant to broadcast — and not the *broadcast* itself. If a news bulletin went out instead, the two no longer agree. Second, the log went to the
+the *schedule* — what the network meant to broadcast — and not the *broadcast* itself. A news bulletin going out instead breaks the agreement. Second, the log went to the
 printer before the broadcast day began, so it shows an earlier deadline. Third, the logs
-are printed in very small kind in narrow columns. Computer computer reading reads them
-poorly, so mistakes enter easily.
+are printed in very small print in narrow columns. Computers read small print badly, so mistakes enter easily.
 
 ### 3.2 Trade magazines
 
@@ -208,9 +189,8 @@ a program aired, but not which episode aired.
 The recording itself contains information that can be dated. A note to the news sets an
 earliest possible date. An advertiser's words, and the special campaign named in them,
 can be placed inside a season. The announcer's name, the network's words, and the wording
-of station identification all changed over time, and those changes can be dated. When a
-broadcast names a current event. It may give an election result, a war report, or the
-result of a game. Then the recording can often be placed to the exact day from what it says. No outside listing is needed.
+of station identification all changed over time, and those changes can be dated. A broadcast sometimes names a current event. It may give an election result, a war report, or the
+result of a game. The recording can then often be placed to the exact day from what it says. No outside listing is needed.
 
 This is the only kind of evidence that speaks to the *broadcast* rather than the schedule.
 So it decides the question when the two do not agree. It is also the kind most easily mixed up
@@ -257,8 +237,7 @@ removed. A recording that agrees with a listing has not thereby been shown to be
 that listing describes.
 
 **Step 7 — Mark the strength, and cite the sources.** Give the record the strongest mark
-the evidence supports. Cite every listing you used. Where the date is an estimate, say so,
-explain your reasoning, and give a range instead of a single day.
+the evidence supports. Cite every listing you used. Say so where the date is an estimate, explain the reasoning, and give a range instead of a single day.
 
 **Step 8 — Compare with the other copies.** Where the collection holds other records of the
 same broadcast, settle them together. A record without a date takes the *evidence* of a
@@ -275,8 +254,7 @@ newspapers printing the same network schedule are one source, not two.
 inside the recording contradicts it.
 
 **Mark C — Reasoned.** No listing states the date directly. But it follows from evidence
-inside the recording together with the program's known schedule. For example, a note to
-the news fixes the week, and the program is known to have aired on Tuesday evenings.
+inside the recording together with the program's known schedule. For example, a word about the news fixes the week, and the program is known to have aired on Tuesday evenings.
 
 **Mark D — Estimated.** A limited estimate, given as a range and not as a single day, with
 the reasoning stated. As ARSC says, an explained estimate is better than no information.
@@ -360,9 +338,7 @@ described in section 1, now repeated inside a catalog that has otherwise correct
 ## 6. The evidence is not equally thick across the period
 
 The three examples above suggest a way, and the way can be measured. The archive
-holds fourteen cataloged broadcasts from one news program, covering 1932 to 1939. Across
-them, the number of separate page images attached to a record rises strongly with the year
-of the broadcast. The correlation is 0.899 across fourteen records.<sup id="r15"><a href="#n15">15</a></sup> The
+holds fourteen cataloged broadcasts from one news program, covering 1932 to 1939. The number of separate page images attached to a record rises strongly with the year of the broadcast. The correlation is 0.899 across fourteen records.<sup id="r15"><a href="#n15">15</a></sup> The
 average number of page images by year:
 
 | Broadcast year | Average page images | Records |
@@ -377,12 +353,10 @@ average number of page images by year:
 Two reasons are possible, and these measurements cannot separate them. The first is
 that newspaper radio logs really did grow across the 1930s, as radio became a mass medium
 and the log grew from a new thing into a fixed daily feature. The second is that the archive's
-own collecting of newspaper images is simply more complete for the later 1930s. If the
-second explanation is right, the way describes the archive and not the period.
+own collecting of newspaper images is simply more complete for the later 1930s. The shape describes the archive and not the period if the second explanation is right.
 
 The difference matters for how the marks should be read. Under the first explanation, a Mark
-B date from 1932 is as strong as the evidence of 1932 lets. Under the second, it is only a
-record the archive has not finished working on. Telling them from each other would require looking at a
+B date from 1932 is as strong as the evidence of 1932 lets. The same date is only a record the archive has not finished working on under the second. Telling them from each other would require looking at a
 newspaper index that is independent of the archive's own holdings. That has not been done.
 
 The finding is limited in another way as well. It rests on fourteen records, all from a
@@ -415,8 +389,7 @@ does not copy the pages.<sup id="r16"><a href="#n16">16</a></sup>
 
 A mark for the strength of evidence solves nothing if it lives only in a cataloger's private
 notes. The failure described in section 1 is exactly that careful decisions flatten into
-simple claims as they pass from person to person. If the mark is to survive the trading
-networks that will pass this material on, it must be published with the record and attached
+simple claims as they pass from person to person. The mark must be published with the record to survive the trading networks that will pass this material on, and attached
 to it firmly.
 
 Three rules follow. The archive described here follows all three.
@@ -436,7 +409,7 @@ records are in this state. Dates belong in fields, not in names.
 
 **Missing information must be recordable.** Twenty-eight percent of the collection has no
 date, and the catalog says so rather than supplying a likely year. This is the same
-rule ARSC asks of discographers in the passage quoted in section 1. For a date with no support, the other choice is not an empty space to fill in. It is a clear statement that
+rule ARSC asks of discographers in the passage quoted in section 1. The other choice, for a date with no support, is not an empty space to fill in. It is a clear statement that
 the question is still open. Mark E holds that statement. The number of two in forty-two —
 records without dates almost never carrying page images — is what makes it useful, because
 it identifies the undated records as work waiting to be done.
@@ -458,7 +431,23 @@ trading collection into one that scholars can cite.
 
 ## Notes
 
-1. <span id= 5 ></span> 19  *Radio News*; and  20  (two records), *Winston Churchill Speeches and Radio Broadcasts*. Radio Index, retrieved 1 September 2026. The first two carry the date Monday, 6 September 1943 and six page images each; the third carries neither date nor image. <a href="#r8 21 n9 6 #r9 23 n10 24 r17"><a href="#n17 25 #r10 26 n11 7 #r11 28 n12 8 #r12 30 n13 9 #r13 32 n14 33 Radio Highlights, 34 #r14 35 n15 36 #r15 37 n16"></span>On the copyright of the recordings themselves: United States law, at 17 U.S.C. section 1401, brought sound recordings made before 1972 under federal copyright. Recordings first published between 1926 and 1946 are protected for 100 years, and those from 1947 to 1956 for 110 years. Unpublished recordings made before 1972 are protected until 15 February 2067. There is no general rule that material from before 1972 is free of copyright. <a href="#r16 38 n17 39 #r17">&#8617;</a>
+1. <span id="n1"></span>Association for Recorded Sound Collections, *Guidelines for Discographies*. <a href="#r1">&#8617;</a>
+2. <span id="n2"></span>John Dunning, *On the Air: The Encyclopedia of Old-Time Radio* (Oxford University Press, 1998). <a href="#r2">&#8617;</a>
+3. <span id="n3"></span>Jon D. Swartz and Robert C. Reinehr, *Handbook of Old-Time Radio: A Comprehensive Guide to Golden Age Radio Listening and Collecting* (Scarecrow Press, 1993). <a href="#r3">&#8617;</a>
+4. <span id="n4"></span>Counted from the published sitemap of radioindex.org, 1 September 2026: 259,915 episode addresses across 123 sitemap files, and 6,114 series addresses. One file (episodes-96.xml) returns a valid but empty list; it is counted among the files and excluded from the record count. <a href="#r4">&#8617;</a>
+5. <span id="n5"></span>Random sample of sixty cataloged broadcasts drawn from the 40,727 item names carrying a date between 1930 and 1959; retrieved 1 September 2026. Fifty-nine carried one or more page images. <a href="#r5">&#8617;</a>
+6. <span id="n6"></span>Random samples of forty records from all 44,566 date-carrying item names, and sixty from the 1930 to 1959 group; retrieved 1 September 2026. A disagreement means the date in the item name differs from the broadcast date the catalog record states. <a href="#r6">&#8617;</a>
+7. <span id="n7"></span>Random sample of 150 records from the whole catalog; retrieved 1 September 2026. <a href="#r7">&#8617;</a>
+8. <span id="n8"></span>"Winston Churchill on Anglo-American Unity," *Radio News*; and "Anglo-American Unity" (two records), *Winston Churchill Speeches and Radio Broadcasts*. Radio Index, retrieved 1 September 2026. The first two carry the date Monday, 6 September 1943 and six page images each; the third carries neither date nor image. <a href="#r8">&#8617;</a>
+9. <span id="n9"></span>"Alvar Liddell Reports the German Invasion of Poland." *WWII News*. Radio broadcast, 1 September 1939. Radio Index. https://www.radioindex.org/series/wwii-news/episodes/alvar-liddell-reports-the-german-invasion-of-poland. <a href="#r9">&#8617;</a>
+10. <span id="n10"></span>Radio logs, *Chicago Daily Tribune*, *New York Times*, *Los Angeles Times*, and *Washington Post*, all Friday, 1 September 1939; and *Broadcasting*, 1 September 1939.<sup id="r17"><a href="#n17">17</a></sup> <a href="#r10">&#8617;</a>
+11. <span id="n11"></span>"Ignacy Jan Paderewski on the Nazi Invasion Looming over Poland." *WWII News*. Radio broadcast, 1 September 1939. Radio Index. https://www.radioindex.org/series/wwii-news/episodes/ignacy-jan-paderewski-on-the-nazi-invasion-looming-over-poland. <a href="#r11">&#8617;</a>
+12. <span id="n12"></span>"Chancellor Franz von Papen." *WWII News*. Radio broadcast, 13 August 1932. Radio Index. Supporting listings: *New York Times* and *Washington Post* radio logs, Saturday, 13 August 1932. <a href="#r12">&#8617;</a>
+13. <span id="n13"></span>"They Did Not Receive Him." *Greatest Story Ever Told*. Radio broadcast, 29 February 1948. Radio Index. https://www.radioindex.org/series/greatest-story-ever-told/episodes/they-did-not-receive-him. The item name keeps the wrong inherited date 1955-02-13. <a href="#r13">&#8617;</a>
+14. <span id="n14"></span>Radio logs, *New York Times*, *Washington Post*, *Los Angeles Times*, and *Chicago Daily Tribune*; "Radio Highlights," *Chicago Daily Tribune*; and *Broadcasting* — all Sunday, 29 February 1948. <a href="#r14">&#8617;</a>
+15. <span id="n15"></span>Sample of fourteen cataloged broadcasts from *WWII News*, retrieved 1 September 2026; page-image counts taken from each record's newspaper and periodical sections. <a href="#r15">&#8617;</a>
+16. <span id="n16"></span>On the copyright of the recordings themselves: United States law, at 17 U.S.C. section 1401, brought sound recordings made before 1972 under federal copyright. Recordings first published between 1926 and 1946 are protected for 100 years, and those from 1947 to 1956 for 110 years. Unpublished recordings made before 1972 are protected until 15 February 2067. There is no general rule that material from before 1972 is free of copyright. <a href="#r16">&#8617;</a>
+17. <span id="n17"></span>Following the Chicago Manual of Style, 18th edition, page numbers are left out of newspaper citations throughout this paper. A newspaper may print several editions in one day, and items move or disappear between them. The newspaper, the city, the date, and the kind of listing identify the item; the page number does not do so reliably. <a href="#r17">&#8617;</a>
 
 ---
 
@@ -469,27 +458,27 @@ in a bibliography. The Archive of American Radio holds these recordings. Each is
 permanent web address. The dates given are the broadcast dates established by the method in
 section 4, with the strength mark in parentheses.
 
- 40  *WWII News*. Radio broadcast, 1
+"Alvar Liddell Reports the German Invasion of Poland." *WWII News*. Radio broadcast, 1
 September 1939 (Mark A). Radio Index.
 https://www.radioindex.org/series/wwii-news/episodes/alvar-liddell-reports-the-german-invasion-of-poland.
 
- 41  *Winston Churchill Speeches and Radio Broadcasts*. Radio broadcast, 6
+"Anglo-American Unity." *Winston Churchill Speeches and Radio Broadcasts*. Radio broadcast, 6
 September 1943 (Mark A); and a second record of the same broadcast carrying neither a date
 nor a supporting listing (Mark E). Radio Index.
 
- 42  *WWII News*. Radio broadcast, 13 August 1932 (Mark A). Radio
+"Chancellor Franz von Papen." *WWII News*. Radio broadcast, 13 August 1932 (Mark A). Radio
 Index.
 
- 43  *WWII News*. Radio
+"Ignacy Jan Paderewski on the Nazi Invasion Looming over Poland." *WWII News*. Radio
 broadcast, 1 September 1939 (Mark A). Radio Index.
 https://www.radioindex.org/series/wwii-news/episodes/ignacy-jan-paderewski-on-the-nazi-invasion-looming-over-poland.
 
- 44  *Greatest Story Ever Told*. Radio broadcast, 29 February 1948
+"They Did Not Receive Him." *Greatest Story Ever Told*. Radio broadcast, 29 February 1948
 (Mark A). Radio Index.
 https://www.radioindex.org/series/greatest-story-ever-told/episodes/they-did-not-receive-him.
 Circulates under the wrong inherited date 13 February 1955; see section 5.4.
 
- 45  *Radio News*. Radio broadcast, 6 September 1943
+"Winston Churchill on Anglo-American Unity." *Radio News*. Radio broadcast, 6 September 1943
 (Mark A). Radio Index.
 
 The twenty *WWII News* records examined for section 6 appear with their supporting sources in
@@ -519,49 +508,44 @@ coverage fails, so that a reader can follow the same steps described in section 
 (New York), the *Washington Post* (Washington), the *Chicago Daily Tribune* (Chicago), and the
 *Los Angeles Times* (Los Angeles). Each built its log from information supplied for its own
 city and time zone. That is why agreement between them counts as confirmation rather than
-repetition. Where a newspaper printed both, two kinds of listing are counted separately: the
+repetition. Two kinds of listing are counted separately where a newspaper printed both: the
 daily *radio log*, which is a complete schedule, and *radio highlights*, which is a selected
 column written by an editor. The *Chicago Daily Tribune* record for 29 February 1948,
 discussed in section 5.4, provides one of each, and they count as two listings because they
 were produced separately.
 
-Coverage is not even. Within the archive's holdings, the number of listings available for a
-broadcast rises across the 1930s, from an average of 3.0 in 1932 to 7.8 in 1939 in the sample
-studied (section 6). For the years 1930 to 1959, 98 percent of the cataloged broadcasts
-sampled carry at least one page image. Across the whole collection the number is 68.7
-percent. Almost all of that difference comes from records with no date, of which only two in
+Coverage is not even. The number of listings available for a broadcast rises across the 1930s within the archive's holdings, from an average of 3.0 in 1932 to 7.8 in 1939 in the sample
+studied (section 6). Ninety-eight percent of the cataloged broadcasts sampled for 1930 to 1959 carry at least one page image. The number is 68.7 percent across the whole collection. Almost all of that difference comes from records with no date, of which only two in
 forty-two carry any page image at all.
 
-**Where the newspaper images came from.** The catalog presents each newspaper listing as a
+**The source of the newspaper images.** The catalog presents each newspaper listing as a
 page image, labeled with the newspaper, the city, the date, and the kind of listing. It does
 not record where the scan came from. The published version of this paper should name that
-source. It should say if each run was read in a library newspaper database, on
+source. It should say whether each run was read in a library newspaper database, on
 microfilm, or in a scan collection made by someone else. It should also say what is known
 about how complete that source is. Where the source is a private collection rather than a
-library, the paper should say so clearly. It should give what is known about the
+library, the paper should say so plainly. It should give what is known about the
 collection's history and about any rights it claims. A reader cannot follow steps whose
-starting point is not named, and recording it is the single most useful addition this system
+starting point is unnamed, and recording it is the single most useful addition this apparatus
 still needs.
 
 **Trade magazines.** *Broadcasting*, the industry weekly, is read through WorldRadioHistory,
 which the catalog names and cites as the source of the scan. Trade coverage is weekly rather
 than daily. It is used for schedule changes, advertiser assignments, network line-ups, and
 special events — that is, for separating one broadcast from another inside a run when the
-daily logs give only a program name. In the sample studied, *Broadcasting* appears for the
-better documented broadcasts and is missing for the less ones. It adds to the daily logs.
-It does not stand in for them.
+daily logs give only a program name. *Broadcasting* appears for the better documented broadcasts in the sample studied, and is missing for the thinner ones. It adds to the daily logs.
+It does not replace them.
 
 **Evidence inside the recordings.** The recordings are the archive's own holdings. Each has a
 permanent web address in the form `/series/{program}/episodes/{item}`, and each carries a
-formal citation. Where this paper cites evidence inside a recording, it means sound that can
-be heard in the archive's copy.
+formal citation. Evidence inside a recording, where this paper cites it, means sound that can be heard in the archive's copy.
 
-**Where coverage fails.** Three failures are known, and any reader following this work should
-expect them. Radio logs record the schedule and not the broadcast, so a program that was
-pulled breaks the link. That happens most often during news events, and news events are when
-this collection is richest. Logs went to press before the broadcast day began. And they are
-printed in dense, small kind that computers read badly, so mistakes in the evidence pass
-with no sign into the catalog. Adding more newspapers does not fix any of these, because all four
+**The points where coverage fails.** Three failures are known, and any reader following this work should
+expect them. Radio logs record the schedule and not the broadcast, so a replaced program
+breaks the match — and that happens most often during news events, which is when this
+collection is richest. Logs went to press before the broadcast day began. And they are
+printed in dense, small type that computers read badly, so mistakes in the evidence pass
+silently into the catalog. Adding more newspapers does not fix any of these, because all four
 newspapers share them.
 
 ---
@@ -569,13 +553,12 @@ newspapers share them.
 ## Appendix: Dated log
 
 The log below covers the *WWII News* recordings examined for this paper, in order of
-broadcast date. It follows the usual form for a discography: the date, the name, the running
+broadcast date. It follows the usual form for a discography: the date, the title, the running
 time, the number of separate supporting listings, those listings by short name, and the
 strength mark from section 4.
 
 Short names: **NYT** *New York Times*; **WP** *Washington Post*; **CDT** *Chicago Daily
-Tribune*; **LAT** *Los Angeles Times*; **Bcstg** *Broadcasting*. Where a newspaper printed
-both a radio log and a separate radio highlights item for the same date, both are counted,
+Tribune*; **LAT** *Los Angeles Times*; **Bcstg** *Broadcasting*. Both are counted where a newspaper printed a radio log and a separate radio highlights item for the same date,
 because they were produced separately.
 
 | Broadcast date | Title | Running time | Listings | Supporting sources | Mark |
@@ -604,6 +587,6 @@ because they were produced separately.
 Every record in this log carries Mark A. Each is supported by two or more separately produced
 listings from the time. That sameness is a feature of the program sampled, not of the whole
 collection. *WWII News* is international news, the kind of program most reliably printed in
-every city's radio log. A log taken from local daytime drama would show a very different
+every city's radio log. A log drawn from local daytime drama would show a very different
 spread of marks, and section 6 should be read with that in mind.
 
