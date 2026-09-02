@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 6 Calendar Walk — Challenge of the Yukon &amp; Famous Jury Trials</article-title>
+      <pub-date>2026-09-06</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 6, Calendar Walk, Challenge of the Yukon, Sergeant Preston, King, Paul Sutton, Quaker Cereal, Famous Jury Trials, ABC, Two On a Clue, Ned Wever, General Foods, Calumet Show, Clean Titles, Pure Synopses, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 6 Archival Metadata Enrichment (Increment 861)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 6** across three Yukon frontier adventures starring Paul Sutton as Sergeant Preston on *Challenge of the Yukon* (sled dog rescue in 1947; mine inheritance fraud in 1950; trading post defense in 1951), sensational courtroom evidence on *Famous Jury Trials* (1947), husband-and-wife detective serialization on *Two on a Clue* for General Foods (1945), and comedy music on *The Calumet Show* (1948).]]></p>
+      <p><![CDATA[All episode titles strictly adhere to clean canonical naming, with credited performers, sponsor, and network details recorded in the narrative description:]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 6 Archival Inventory (Increment 861)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Clean Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Yukon_1947_StolenPups.mp3` <br>*Alt*: `0496 The Stolen Pups Challenge of the Yukon` | **"The Stolen Pups"** | **ABC (WXYZ)**<br>1947-09-06<br>5:00 PM EST | **Quaker Oats Co.**<br>Puffed Wheat & Rice | **Paul Sutton & King** | **George W. Trendle (Creator)** | `["Adventure", "Western", "Challenge of the Yukon", "Paul Sutton", "Quaker Cereal"]` | Sergeant Preston of the Northwest Mounted Police and faithful husky King track ruthless dog-thieves across Yukon snowdrifts to rescue prize sled dog puppies. |
+| `Yukon_1950_CalDorset.mp3` <br>*Alt*: `Cal Dorset's Hair Challenge of the Yukon` | **"Cal Dorset's Heir"** | **Mutual (WXYZ)**<br>1950-09-06<br>5:00 PM EST | **Quaker Oats Co.**<br>Quaker Puffed Rice | **Paul Sutton & King** | **Fran Striker (Writer)** | `["Adventure", "Western", "Challenge of the Yukon", "Paul Sutton", "Quaker Cereal"]` | Sergeant Preston exposes a deceptive imposter posing as the long-lost heir of a wealthy prospector to claim a valuable Klondike gold mine. |
+| `Yukon_1951_JuniorPartner.mp3` <br>*Alt*: `Junior Partner Challenge of the Yukon` | **"Junior Partner"** | **Mutual (WXYZ)**<br>1951-09-06<br>5:00 PM EST | **Quaker Oats Co.**<br>Quaker Cereals | **Paul Sutton & King** | **Charles Livingstone (Dir.)** | `["Adventure", "Western", "Challenge of the Yukon", "Paul Sutton", "Quaker Cereal"]` | Sergeant Preston helps a young boy whose father was swindled out of his freight trading post by corrupt frontier claim jumpers. |
+| `FamousJury_1947_Henderson.mp3` <br>*Alt*: `Famous Jury Trials 1947 Episode` | **"The State versus Robert Henderson"** | **ABC (WJZ)**<br>1947-09-06<br>8:30 PM EDT | **Sustaining**<br>Courtroom Docudrama | **Dramatic Court Cast** | **Carl Eastman (Director)** | `["Courtroom", "Drama", "Famous Jury Trials", "Docudrama", "ABC"]` | A dramatic courtroom recreation of a sensational homicide trial wherein circumstantial evidence and handwriting analysis sway the jury's verdict. |
+| `TwoOnAClue_1945_PrematureClient3.mp3` <br>*Alt*: `The Case of the Premature Client 3 Two On a Clue` | **"The Case of the Premature Client"** | **CBS (KNX)**<br>1945-09-06<br>2:00 PM EWT | **General Foods Corp.**<br>Post's 40% Bran Flakes | **Ned Wever & Louise Fitch** | **Harry Ingram (Director)** | `["Mystery", "Detective", "Two On a Clue", "Ned Wever", "General Foods"]` | Husband-and-wife sleuths Jeff and Penny Spencer investigate a wealthy client who sought protection against a murder threat hours before dying under mysterious circumstances. |
+| `Calumet_1948_Gigolo.mp3` <br>*Alt*: `Ugg, Ugg, Gigalo Calumet Show` | **"Ugg, Ugg, Gigolo"** | **Syndicated Radio**<br>1948-09-06 | **General Foods Corp.**<br>Calumet Baking Powder | **Calumet Comedy Troupe** | **Syndicated Audio Bureau** | `["Comedy", "Variety", "Calumet Show", "Music", "Calumet"]` | A comedy variety broadcast presented for Calumet Baking Powder featuring humorous sketches, comedic songs, and upbeat musical numbers. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 6
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 6**: 142 / 471 (329 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

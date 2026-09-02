@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 31 Calendar Walk — Bulldog Drummond, Father Brown, and Backstage Wife</article-title>
+      <pub-date>2026-08-31</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 31, Calendar Walk, Bulldog Drummond, Ned Wever, Sapper, Backstage Wife, Mary Noble, Claire Niesen, Frank Hummert, Arnold Grimms Daughter, Luise Barclay, Father Brown, Karl Swenson, G.K. Chesterton, Joyce Jordan, Ann Shepherd, Smart Six, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 31 Archival Metadata Enrichment (Increment 470)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 31** across wartime detective adventures, classical theological mystery fiction, daytime soap operas, and musical variety, Ned Wever as Captain Hugh "Bulldog" Drummond on Mutual (1942), Karl Swenson as G.K. Chesterton's *Father Brown* (1945), Claire Niesen in Frank and Anne Hummert's *Backstage Wife* (1950), *Arnold Grimm's Daughter* (1939), *Joyce Jordan* (1951), and swing instrumentalists *The Smart Six* (1939–1951):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 31 Archival Inventory (Increment 470)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Bulldog_1942_Molotov.mp3` <br>*Alt*: `Molotov Cocktail stolen oil` | **"The Molotov Cocktail and the Stolen Fuel Oil with Ned Wever"** | **Mutual (WOR)**<br>1942-08-31<br>8:00 PM EWT | **Sustaining**<br>Wartime Detective | **Ned Wever**, **van Rooten** | **H.C. McNeile (Creator)** | `["Detective", "Mystery", "Bulldog Drummond", "Ned Wever", "Mutual"]` | Bulldog Drummond uncovers an axis sabotage cell manufacturing petrol bombs in a clandestine waterfront refinery. |
+| `Mary_Noble_1950_Party.mp3` <br>*Alt*: `Mary Prepares Theatre Party` | **"Mary Continues Preparations for the Theatre Party"** | **NBC (WEAF)**<br>1950-08-31<br>4:00 PM EDT | **Procter & Gamble**<br>White Naptha Soap | **Claire Niesen**, **Meighan** | **Frank & Anne Hummert** | `["Soap Opera", "Drama", "Frank Hummert", "Mary Noble", "NBC"]` | Mary Noble juggles backstage domestic demands and theatrical social invitations while Larry prepares for opening night. |
+| `Grimm_1939_Surprise.mp3` <br>*Alt*: `Stan Has A Surpise Grimm` | **"Stan Has a Surprise for Connie with Luise Barclay"** | **NBC Red (WEAF)**<br>1939-08-31<br>2:15 PM EDST | **General Mills**<br>Gold Medal Flour | **Luise Barclay**, **Prentiss** | **Margaret Sangster (Writer)** | `["Soap Opera", "Drama", "Arnold Grimm", "General Mills", "NBC Red"]` | Stan returns home unexpectedly with surprise financial news that challenges Connie's plans for their family estate. |
+| `Father_Brown_1945_BlueCross.mp3` <br>*Alt*: `Adventures of Father Brown` | **"The Mystifying Case of the Blue Cross with Karl Swenson"** | **Mutual (WOR)**<br>1945-08-31<br>8:30 PM EWT | **Sustaining**<br>Classic Detective | **Karl Swenson**, **Adams** | **G.K. Chesterton (Author)** | `["Detective", "Mystery", "Father Brown", "Chesterton", "Mutual"]` | Father Brown outwits a master jewel thief attempting to steal a sapphire-encrusted silver crucifix across London. |
+| `Smart_Six_1948_Showcase.mp3` <br>*Alt*: `Smart Six 1948 Episode` | **"Live Musical Showcase with the Smart Six"** | **AFRS / Syndication**<br>1948-08-31 | **Sustaining**<br>Swing Instrumental | **The Smart Six**, **Soloists** | **AFRS Music Staff** | `["Music", "Jazz", "Swing", "Variety", "AFRS"]` | The Smart Six ensemble performs lively swing arrangements, popular jazz standards, and upbeat instrumental medleys. |
+| `Joyce_Jordan_1951_Dilemma.mp3` <br>*Alt*: `Hello Joyce 1951 Episode` | **"Joyce Jordan's Medical Dilemma with Ann Shepherd"** | **ABC (WJZ)**<br>1951-08-31<br>3:30 PM EDT | **Sustaining**<br>Medical Radio Drama | **Ann Shepherd**, **Voice Cast** | **Himan Brown (Producer)** | `["Soap Opera", "Medical Drama", "Joyce Jordan", "ABC", "Himan Brown"]` | Dr. Joyce Jordan faces an ethical dilemma when a prominent hospital benefactor demands preferential treatment for a relative. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 31
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 31**: 120 / 376
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

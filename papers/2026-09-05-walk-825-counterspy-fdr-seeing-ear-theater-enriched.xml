@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Counterspy, FDR &amp; Seeing Ear Theater</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, Counterspy, Don MacLaughlin, Mandel Kramer, Phillips H Lord, Pepsi-Cola, Franklin D Roosevelt, FDR, Fireside Chat, Labor Day, Seeing Ear Theater, Brian Dennehy, Sci-Fi, Detective Galbraith, Bernard Brown, BBC, Radio Active, Angus Deayton, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 825)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across two thrilling espionage investigations on *Counterspy* starring Don MacLaughlin (1945, 1948 for Pepsi-Cola), President Franklin D. Roosevelt's historic Labor Day address at Denton, Maryland (1938), Brian Dennehy starring in *The Great Work* on *Seeing Ear Theater* (2000), British diamond heist investigation on *The Detective Galbraith Mysteries* (1975), and biting satire on *Radio Active* (1987), Franklin D. Roosevelt (1938), Don MacLaughlin (1945, 1948), and Brian Dennehy (2000):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 825)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Counterspy_1945_HamActor.mp3` <br>*Alt*: `The Case Of the Ham Actor Counterspy` | **"The Case of the Ham Actor with Don MacLaughlin"** | **Blue Network (WJZ)**<br>1945-09-05<br>8:30 PM EWT | **Sustaining**<br>Counter-Espionage | **Don MacLaughlin & Kramer** | **Phillips H. Lord (Creator)** | `["Espionage", "Drama", "Counterspy", "Don MacLaughlin", "Phillips H Lord"]` | United States Counterspies David Harding and Harry Peters expose an espionage ring using an egotistical Broadway actor to smuggle microfilms. |
+| `Counterspy_1948_SincereScientist.mp3` <br>*Alt*: `TCOT Sincere Scientist Counterspy` | **"The Case of the Sincere Scientist with Don MacLaughlin"** | **ABC (WJZ)**<br>1948-09-05<br>5:30 PM EDT | **Pepsi-Cola Company**<br>Pepsi-Cola Bottlers | **Don MacLaughlin & Kramer** | **Phillips H. Lord (Creator)** | `["Espionage", "Drama", "Counterspy", "Don MacLaughlin", "Pepsi-Cola"]` | David Harding protects a naive rocket propulsion physicist targeted by foreign agents attempting to blackmail his overseas relatives. |
+| `FDR_1938_DentonMD.mp3` <br>*Alt*: `Address at Denton, Maryland FDR Fireside Chat` | **"Labor Day Address at Denton, Maryland"** | **NBC / CBS / Mutual**<br>1938-09-05<br>2:30 PM EDST | **Sustaining**<br>Presidential Speech | **Franklin D. Roosevelt** | **White House Press Office** | `["Speech", "History", "Franklin D Roosevelt", "Fireside Chat", "Labor Day"]` | President Franklin D. Roosevelt addresses a Labor Day audience in Denton, Maryland, defending New Deal labor standards and fair wages. |
+| `SeeingEar_2000_GreatWork.mp3` <br>*Alt*: `MCSD 00121J Seeing Ear Theater` | **"The Great Work with Brian Dennehy"** | **SciFi.com Audio Drama**<br>2000-09-05 | **Sustaining**<br>Modern Audio Drama | **Brian Dennehy & Cast** | **Seeing Ear Repertory** | `["Sci-Fi", "Drama", "Seeing Ear Theater", "Brian Dennehy", "Audio Drama"]` | An obsessed medieval alchemist constructs an elaborate mechanical automaton that unexpectedly achieves sentience. |
+| `Galbraith_1975_7MillionTouch.mp3` <br>*Alt*: `The King of Diamonds - Episode 4 of 6 The Detective Galbraith Mysteries` | **"The 7 Million Pound Touch with Bernard Brown"** | **BBC Radio 4**<br>1975-09-05 | **Sustaining**<br>British Detective Drama | **Bernard Brown & Cast** | **Bill Morrison (Writer)** | `["Detective", "Mystery", "Detective Galbraith", "Bernard Brown", "BBC"]` | Inspector Galbraith pursues a trail of forged transit certificates across European diamond exchanges following a seven-million-pound vault theft. |
+| `RadioActive_1987_Programme.mp3` <br>*Alt*: `Radio Radio Programme Radio Active - Kytv` | **"The Radio Radio Programme with Angus Deayton"** | **BBC Radio 4**<br>1987-09-05 | **Sustaining**<br>British Satirical Comedy | **Deayton & Perkins** | **Geoffrey Perkins (Writer)** | `["Comedy", "Satire", "Radio Active", "Angus Deayton", "BBC"]` | The Radio Active comedy team parodies British local commercial radio with absurd call-in shows and satirical advertising jingles. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 264 / 401 (137 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

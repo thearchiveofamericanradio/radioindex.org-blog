@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Walter Winchell, Baby Snooks &amp; The Couple Next Door</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, Walter Winchell, Jergens Journal, Jergens Lotion, Baby Snooks, Fanny Brice, Hanley Stafford, Maxwell House, The Couple Next Door, Peg Lynch, Alan Bunce, CBS, Front Page Drama, Hearst, American Weekly, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 814)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across Walter Winchell's legendary Sunday night dispatches on *The Jergens Journal* (wartime 1943 Italian surrender alerts and 1947 postwar espionage headlines), Baby Snooks door-to-door scams with Fanny Brice and Hanley Stafford for Maxwell House, domestic comedy on Peg Lynch's *The Couple Next Door* (1958, 1960), and occult art mystery on *Front Page Drama* for The American Weekly, Fanny Brice (1940), Walter Winchell (1943, 1947), and Peg Lynch (1958, 1960):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 814)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `FrontPage_1935_GhostPainter.mp3` <br>*Alt*: `The Ghost Painter Front Page Drama` | **"The Ghost Painter with The American Weekly"** | **Syndicated Radio**<br>1935-09-05 | **Hearst Publications**<br>The American Weekly | **Front Page Troupe** | **Hearst Radio Unit** | `["Drama", "Mystery", "Front Page Drama", "Hearst", "American Weekly"]` | An art restorer discovers an unfinished Renaissance portrait that mysteriously alters each night to expose an ancestral poisoning. |
+| `BabySnooks_1940_MagazineScam.mp3` <br>*Alt*: `Magazine Scam Fanny Brice Frank Morgan Show` | **"Magazine Scam with Fanny Brice and Hanley Stafford"** | **NBC Red (WEAF)**<br>1940-09-05<br>8:00 PM EDST | **General Foods Corp.**<br>Maxwell House Coffee | **Fanny Brice & Stafford** | **Phil Rapp (Writer)** | `["Comedy", "Sitcom", "Baby Snooks", "Fanny Brice", "Maxwell House"]` | Snooks orders dozens of door-to-door magazine subscriptions using Daddy's signature and conceals the deliveries in the garage. |
+| `CoupleNextDoor_1958_CustomDesk.mp3` <br>*Alt*: `Price On Custom Made Desk The Couple Next Door` | **"Price on Custom-Made Desk with Peg Lynch and Alan Bunce"** | **CBS (WABC)**<br>1958-09-05<br>10:15 AM EDT | **Sustaining**<br>Daytime Comedy | **Peg Lynch & Alan Bunce** | **Peg Lynch (Writer)** | `["Comedy", "Sitcom", "The Couple Next Door", "Peg Lynch", "Alan Bunce"]` | Betsy receives an astronomical carpenter estimate for a custom mahogany desk and scrambles to conceal the bill from Joe. |
+| `CoupleNextDoor_1960_InvitedSailing.mp3` <br>*Alt*: `Invited To Go Sailing The Couple Next Door` | **"Invited to Go Sailing with Peg Lynch and Alan Bunce"** | **CBS (WABC)**<br>1960-09-05<br>10:15 AM EDT | **Sustaining**<br>Daytime Comedy | **Peg Lynch & Alan Bunce** | **Peg Lynch (Writer)** | `["Comedy", "Sitcom", "The Couple Next Door", "Peg Lynch", "Alan Bunce"]` | Joe and Betsy reluctantly accept an overenthusiastic neighbor's invitation for a stormy Labor Day yachting excursion. |
+| `Jergens_1943_ItalianSurrender.mp3` <br>*Alt*: `Jergens Journal 1943 Episode` | **"Italian Surrender Rumors with Walter Winchell"** | **Blue Network (WJZ)**<br>1943-09-05<br>9:00 PM EWT | **Andrew Jergens Co.**<br>Jergens Lotion | **Walter Winchell & Grauer** | **Thomas A. Velotta (Dir.)** | `["News", "Commentary", "Jergens Journal", "Walter Winchell", "Jergens"]` | Walter Winchell delivers rapid staccato reports on impending Italian military capitulation and Allied bombing raids over Nazi industrial centers. |
+| `Jergens_1947_PostwarEspionage.mp3` <br>*Alt*: `With Walter Winchell 1947 09 05 Jergens Journal` | **"Postwar Espionage and Washington Headlines with Walter Winchell"** | **ABC (WJZ)**<br>1947-09-05<br>9:00 PM EDT | **Andrew Jergens Co.**<br>Jergens Lotion & Woodbury | **Winchell & Richard Stark** | **ABC News Department** | `["News", "Commentary", "Jergens Journal", "Walter Winchell", "Jergens"]` | Winchell reports exclusive backstage intelligence on Soviet diplomatic maneuvering, Broadway gossip, and Congressional espionage hearings. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 198 / 401 (203 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 3 Calendar Walk — Leo Durocher, Your Hit Parade &amp; Jack Benny</article-title>
+      <pub-date>2026-09-03</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 3, Calendar Walk, The First Nighter Program, Barbara Luddy, Les Tremayne, Campana Italian Balm, Tom Duggan Sports, Leo Durocher, New York Giants, Baseball, Nightfall, CBC Radio Drama, Canadian Horror, CBS World News Today, Douglas Edwards, Liberation of Lyon, Chuck Schaden Interviews, Jack Benny, Mill Run Theatre, Your Hit Parade, Lucky Strike, Fredda Gibson, Georgia Gibbs, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 3 Archival Metadata Enrichment (Increment 702)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 3** across lively Chicago sports interviews with legendary Giants manager Leo Durocher, hit parade countdowns for Lucky Strike, full-length theatrical comedy-mysteries, chilling Canadian Okefenokee swamp horror, breaking wire news of the liberation of Lyon, and insightful backstage oral history interviews with Jack Benny, Leo Durocher on *Tom Duggan Sports* (1952), Fredda Gibson on *Your Hit Parade* (1938), Barbara Luddy and Les Tremayne (1940), *Nightfall* (1982), Douglas Edwards on CBS (1944), and Jack Benny with Chuck Schaden (1938–1982):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 3 Archival Inventory (Increment 702)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `TomDuggan_1952_LeoDurocher.mp3` <br>*Alt*: `Leo Durocher Tom Duggan Sports` | **"Interview with NY Giants Manager Leo Durocher with Tom Duggan"** | **WGN Chicago**<br>1952-09-03 | **Sustaining**<br>Sports Commentary | **Tom Duggan (Host)** | **Leo Durocher (Guest)** | `["Sports", "Interview", "Tom Duggan", "Leo Durocher", "Baseball"]` | Tom Duggan interviews fiery New York Giants manager Leo Durocher about pennant race pitching rotations and clubhouse disputes. |
+| `HitParade_1938_PocketfulDreams.mp3` <br>*Alt*: `First Song - I've Got A Pocket Full Of Dreams (#7) Your Hit Parade` | **"I've Got a Pocketful of Dreams (#7) with Fredda Gibson"** | **CBS (WABC)**<br>1938-09-03<br>10:00 PM EDST | **American Tobacco Co.**<br>Lucky Strike Cigarettes | **Fredda Gibson (Gibbs)** | **Buddy Clark & Goodman** | `["Music", "Countdown", "Your Hit Parade", "Lucky Strike", "Fredda Gibson"]` | The Lucky Strike orchestra and vocalists perform the nation's top hit songs of the week highlighted by I've Got a Pocketful of Dreams. |
+| `FirstNighter_1940_OneMystery.mp3` <br>*Alt*: `One Mystery, Coming Up First Nighter Program, The` | **"One Mystery, Coming Up with Barbara Luddy and Les Tremayne"** | **CBS (WABC)**<br>1940-09-03<br>8:30 PM EDST | **Campana Sales Co.**<br>Campana Italian Balm | **Barbara Luddy & Tremayne** | **Charles P. Hughes** | `["Comedy", "Mystery", "The First Nighter Program", "Barbara Luddy", "Campana"]` | A mystery novel ghostwriter is hired by an eccentric millionaire to stage a fake mansion murder that unexpectedly turns deadly. |
+| `Nightfall_1982_Okefenokee.mp3` <br>*Alt*: `Nightfall 1982 Episode` | **"The Alligators of the Okefenokee with CBC Radio Drama"** | **CBC Radio**<br>1982-09-03 | **Sustaining**<br>Canadian Horror | **CBC Drama Repertory** | **Bill Howell (Producer)** | `["Horror", "Anthology", "Nightfall", "CBC", "Canada"]` | Two poachers trespassing in a forbidden Georgia swamp find themselves stalked by giant, unnaturally aggressive prehistoric alligators. |
+| `CBSNews_1944_LyonLiberated.mp3` <br>*Alt*: `An Associated Press Report CBS World News Today` | **"Allied Liberation of Lyon on CBS World News Today"** | **CBS (WABC)**<br>1944-09-03<br>8:00 AM EWT | **Sustaining**<br>Wartime News Special | **Douglas Edwards (Anchor)** | **Associated Press Staff** | `["News", "WWII", "CBS News", "Douglas Edwards", "Lyon"]` | Douglas Edwards reads wire bulletins confirming the liberation of Lyon by French resistance forces and American mechanized armor. |
+| `ChuckSchaden_1970_JackBenny.mp3` <br>*Alt*: `Jack Benny Mill Run Theatre Chuck Schaden Interviews` | **"Jack Benny Live at the Mill Run Theatre with Chuck Schaden"** | **WNIB Chicago**<br>1970-09-03 | **Sustaining**<br>Oral History Interview | **Chuck Schaden (Host)** | **Jack Benny (Interviewee)** | `["Interview", "History", "Chuck Schaden", "Jack Benny", "Mill Run"]` | Jack Benny discusses the origins of his classic stingy character persona, his legendary violin routines, and the transition from radio to television. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 3
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 3**: 403 / 469 (66 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

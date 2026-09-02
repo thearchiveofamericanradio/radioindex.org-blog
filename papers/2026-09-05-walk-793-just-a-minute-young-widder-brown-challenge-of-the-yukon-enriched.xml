@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Just a Minute, Young Widder Brown &amp; Challenge of the Yukon</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, Just a Minute, Nicholas Parsons, Clement Freud, Kenneth Williams, BBC Radio 4, Freedom Forum, British Labour Party, Clement Attlee, BBC Overseas Service, Young Widder Brown, Florence Freeman, Bayer Aspirin, John Steele Adventurer, Ted Mallie, Don Douglas, Mutual, Two On a Clue, Ned Wever, Louise Fitch, Posts Bran Flakes, Challenge of the Yukon, Paul Sutton, Quaker Oats, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 793)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial story arcs, and pure narrative synopses for broadcasts transmitting on **September 5** across legendary radio panel humor on *Just a Minute* on BBC Radio 4, post-war British political debate on *Freedom Forum*, romantic turmoil on *Young Widder Brown* for Bayer Aspirin, alpine counter-espionage on *John Steele, Adventurer*, married detectives on *Two on a Clue*, and Yukon frontier justice on *Challenge of the Yukon* for Quaker Puffed Wheat, Paul Sutton (1940), Ned Wever (1945), and Nicholas Parsons (1972):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 793)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `JustAMinute_1972_HairyLegs.mp3` <br>*Alt*: `Hairy Legs Just a Minute` | **"Hairy Legs with Nicholas Parsons, Clement Freud, and Kenneth Williams"** | **BBC Radio 4**<br>1972-09-05<br>6:30 PM | **Sustaining**<br>British Panel Game | **Parsons, Freud & Williams** | **Ian Messiter (Creator)** | `["Comedy", "Panel Game", "Just a Minute", "Nicholas Parsons", "BBC Radio 4"]` | Panelists compete to speak for sixty seconds on topics including hairy legs without hesitation, repetition, or deviation. |
+| `FreedomForum_1945_LabourGovt.mp3` <br>*Alt*: `The British Labour Government in Office Freedom Forum` | **"The British Labour Government in Office"** | **BBC Overseas Service**<br>1945-09-05 | **Sustaining**<br>Public Affairs Panel | **Sir Frederick Whyte** | **BBC Overseas News Unit** | `["Public Affairs", "Discussion", "Freedom Forum", "BBC Overseas Service", "Politics"]` | British political correspondents analyze Clement Attlee's newly elected post-war Labour government and its proposed national industrial policies. |
+| `YoungWidderBrown_1950_JimConversation.mp3` <br>*Alt*: `Jim Has a Private Conversation with Dr. Anthony Young Widder Brown` | **"Jim Has a Private Conversation with Dr. Anthony with Florence Freeman"** | **NBC (WEAF)**<br>1950-09-05<br>4:45 PM EDT | **Sterling Drug Inc.**<br>Bayer Aspirin | **Florence Freeman & Drew** | **Frank and Anne Hummert** | `["Soap Opera", "Drama", "Young Widder Brown", "Florence Freeman", "Bayer"]` | Jim visits Dr. Anthony in confidence to discuss Ellen's emotional distress and seek advice regarding their complicated romantic future in Simpsonville. |
+| `JohnSteele_1950_StMoritzDecoy.mp3` <br>*Alt*: `John Steele Adventurer 1950 Episode` | **"The St. Moritz Decoy with Ted Mallie and Don Douglas"** | **Mutual (WOR)**<br>1950-09-05<br>8:30 PM EDT | **Sustaining**<br>Adventure Espionage | **Ted Mallie & Don Douglas** | **Jock MacGregor (Director)** | `["Adventure", "Espionage", "John Steele Adventurer", "Ted Mallie", "Mutual"]` | Globetrotting adventurer John Steele poses as a wealthy tourist at an alpine ski resort to intercept a courier delivering stolen espionage microfilm. |
+| `TwoOnAClue_1945_PrematureClient2.mp3` <br>*Alt*: `The Case of the Premature Client 2 Two On a Clue` | **"The Case of the Premature Client (Part 2) with Ned Wever and Louise Fitch"** | **CBS (WABC)**<br>1945-09-05<br>2:00 PM EWT | **General Foods Corp.**<br>Post's 40% Bran Flakes | **Ned Wever & Louise Fitch** | **Harry Ingram (Writer)** | `["Detective", "Comedy", "Two On a Clue", "Ned Wever", "Posts Bran"]` | Husband-and-wife private detectives Jeff and Penny Spencer discover their wealthy prospective client was murdered before she could sign their retainer. |
+| `ChallengeYukon_1940_DeadMansCreek.mp3` <br>*Alt*: `Challenge of the Yukon 1940 Episode` | **"The Gold of Dead Man's Creek with Paul Sutton"** | **WXYZ Detroit**<br>1940-09-05<br>5:30 PM EST | **Quaker Oats Co.**<br>Quaker Puffed Wheat | **Paul Sutton & King** | **Tom Dougall (Writer)** | `["Western", "Adventure", "Challenge of the Yukon", "Paul Sutton", "Quaker"]` | Sergeant Preston and his faithful lead dog King track a pair of gold jumpers who ambushed an elderly prospector along Dead Man's Creek. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 72 / 401 (329 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

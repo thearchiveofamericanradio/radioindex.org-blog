@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 30 Calendar Walk — Molle Mystery Theater, Dunninger, and Howard Miller</article-title>
+      <pub-date>2026-08-30</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 30, Calendar Walk, The Molle Mystery Theater, Richard Widmark, Bernard Lenrow, Geoffrey Barnes, Molle Shaving Cream, Dunninger the Mentalist, Joseph Dunninger, Bill Slater, Mind Reading, The Howard Miller Show, Tony Bennett, Wayside Theater, Mutual Radio Theater, NY World's Fair, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 30 Archival Metadata Enrichment (Increment 448)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 30** across American network mystery, mentalism, disc jockey broadcasts, and live reporting, Richard Widmark in *Nightmare* on *The Molle Mystery Theater* (1946), master mentalist Joseph Dunninger reading sealed envelopes on NBC Blue (1944), Howard Miller interviewing pop idol Tony Bennett (1955) and spinning top pop 45s (1957), *The Lighthouse Keeper's Daughter* on *Wayside Theater* (1943), and Mutual live at the 1940 New York World's Fair (1940–1957):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 30 Archival Inventory (Increment 448)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Miller_1955_Bennett_AM.mp3` <br>*Alt*: `Guest Tony Bennett 1045` | **"Guest Tony Bennett (Morning Edition)"** | **WBBM / CBS**<br>1955-08-30<br>10:45 AM CDT | **Sustaining**<br>Daytime Music | **Howard Miller**, **Bennett** | **Howard Miller Show Staff** | `["Music", "Talk", "Interview", "Tony Bennett", "Howard Miller"]` | Howard Miller interviews guest Tony Bennett about his hit ballad recordings and plays current chart-topping singles. |
+| `Miller_1957_TopPop.mp3` <br>*Alt*: `Howard Miller Show 1957` | **"Top Pop Records with Howard Miller"** | **WBBM / CBS**<br>1957-08-30<br>10:45 AM CDT | **Sustaining**<br>Daytime Music | **Howard Miller** (Host / DJ) | **Howard Miller Show Staff** | `["Music", "Pop", "Disc Jockey", "Howard Miller", "CBS"]` | Chicago disc jockey Howard Miller spins the week's best-selling 45 RPM pop records and shares music trade gossip. |
+| `Wayside_1943_Lighthouse.mp3` <br>*Alt*: `Wayside Theater Lighthouse` | **"The Lighthouse Keeper's Daughter"** | **Syndicated Drama**<br>1943-08-30 | **Sustaining**<br>Melodrama Anthology | **Dramatic Voice Cast** | **Wayside Theater Staff** | `["Drama", "Romance", "Melodrama", "Maritime", "Anthology"]` | A devoted young woman tends a storm-lashed coastal lighthouse to guide her shipwrecked sailor fiancé back to safety. |
+| `Molle_1946_Nightmare.mp3` <br>*Alt*: `Nightmare Molle Widmark` | **"Nightmare with Richard Widmark"** | **NBC (WEAF)**<br>1946-08-30<br>10:00 PM EDT | **Sterling Drug Inc.**<br>Mollé Shave Cream | **Richard Widmark**, **Lenrow** | **Frank Telford (Director)** | `["Mystery", "Psychological", "Noir", "Richard Widmark", "Molle"]` | A jazz musician awakens from a terrifying nightmare of committing a murder, only to discover physical evidence tying him to the crime. |
+| `Mutual_1940_WorldsFair.mp3` <br>*Alt*: `Mutual NY Worlds Fair 1940` | **"Broadcast Live from the 1940 New York World's Fair"** | **Mutual (WOR)**<br>1940-08-30<br>3:30 PM EDST | **Sustaining**<br>Special Event Broadcast | **Mutual Announcers** | **Mutual Special Events Staff** | `["Documentary", "News", "Special Event", "World's Fair", "Historical"]` | Network correspondents broadcast live exhibits, foreign pavilion sights, and tourist interviews from the New York World's Fair. |
+| `Dunninger_1944_Envelopes.mp3` <br>*Alt*: `Dunninger Mentalist Sealed` | **"Reading Sealed Studio Envelopes"** | **NBC Blue (WJZ)**<br>1944-08-30<br>9:00 PM EWT | **Sustaining**<br>Mentalism Showcase | **Joseph Dunninger**, **Slater** | **Dunninger Production Staff** | `["Mind Reading", "Magic", "Mentalism", "Joseph Dunninger", "NBC Blue"]` | Joseph Dunninger demonstrates thought transference by divining the contents of sealed messages written by guest studio judges. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 30
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 30**: 360 / 377
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

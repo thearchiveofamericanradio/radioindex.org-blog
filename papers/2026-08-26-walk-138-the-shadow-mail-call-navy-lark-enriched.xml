@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 26 Calendar Walk — The Shadow (blue coal), Groucho Marx (Mail Call), and The Navy Lark</article-title>
+      <pub-date>2026-08-26</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 26, Calendar Walk, The Shadow, Bret Morrison, Gertrude Warner, blue coal, Mutual, Little Old Hollywood, Ben Alexander, Laura La Plante, Silent Screen, NBC Blue, The Navy Lark, Stephen Murray, Jon Pertwee, Leslie Phillips, BBC Radio 4, Strange, Walter Tetley, Paul Frees, Captain Kidd, Ranger Bill, Milt Kelly, Moody Radio, Mail Call, Groucho Marx, Paulette Goddard, Tommy Dorsey, AFRS, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 26 Exhaustive Archival Metadata Enrichment (Increment 138)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American and British networks, Bret Morrison as *The Shadow* solving *The Lively Corpse* for 'blue coal', Groucho Marx emceeing wartime morale extravaganza *Mail Call #53* with Paulette Goddard and Tommy Dorsey, silent screen star Laura La Plante reminiscing on *Little Old Hollywood*, volcanic mayhem aboard HMS Troutbridge in *The Navy Lark*, Walter Tetley and Paul Frees in *Strange*, and Ranger Bill rescuing young Timmy from Mount Evergreen (1940–1973):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 26 Archival Inventory (Increment 138)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Little_Old_Hollywood_1940.mp3` <br>*Alt*: `Little Old Hollywood 1940-08-26`, `Laura La Plante Interview` | **"Memories of the Silent Screen with Laura La Plante (Ben Alexander — NBC Blue)"** | **NBC Blue (WJZ)**<br>1940-08-26<br>8:30 PM EDST | **Sustaining**<br>Hollywood History Showcase | **Ben Alexander** (Host), **Laura La Plante** | **Ben Alexander**, **Art Gilmore** | `["Talk", "Hollywood", "Historical", "Showbiz", "Interview"]` | "Little Old Hollywood, with your host Ben Alexander!" Former silent child prodigy Ben Alexander welcomes glamorous Universal silent screen queen Laura La Plante to reminisce about the slapstick comedy era of Mack Sennett, early Hollywood nickelodeons, and the turbulent transition to talking pictures. |
+| `Navy_Lark_1973.mp3` <br>*Alt*: `The Digital Isles Go Unstable`, `Digital Isles Navy Lark` | **"The Digital Isles Go Unstable (Stephen Murray & Jon Pertwee — BBC Radio 4)"** | **BBC Radio 4**<br>1973-08-26<br>1:30 PM BST | **Sustaining**<br>British Naval Comedy | **Stephen Murray**, **Leslie Phillips**, **Jon Pertwee** | **Lawrie Wyman**, **Alastair Scott Johnston**, **Robin Boyle** | `["Comedy", "British", "Military", "Satire", "Sitcom"]` | "The Navy Lark, starring Stephen Murray, Leslie Phillips, and Jon Pertwee!" Chaos erupts aboard HMS Troutbridge when Captain Povey sends the crew on a classified surveying mission to the volcanic Digital Isles, only for Chief Petty Officer Pertwee's illicit distillery to trigger an explosive geological tremor. |
+| `The_Shadow_1951.mp3` <br>*Alt*: `The Lively Corpse`, `Lively Corpse The Shadow` | **"The Lively Corpse (Bret Morrison as The Shadow — blue coal)"** | **Mutual (WOR)**<br>1951-08-26<br>5:00 PM EDT | **DL&W Coal Co.**<br>'blue coal' ("America's Finest") | **Bret Morrison** (The Shadow), **Gertrude Warner** | **John Cole**, **Harry Ingram**, **Carl Caruso** | `["Superheroes", "Mystery", "Detective", "Supernatural", "Crime"]` | "Who knows what evil lurks in the hearts of men? The Shadow knows!" Lamont Cranston and Margot Lane investigate a bizarre insurance fraud murder where a supposedly deceased businessman is spotted wandering the fog-bound docks of Manhattan, using the Shadow's power of hypnosis to shatter a ruthless blackmail ring for 'blue coal'. |
+| `Strange_1955.mp3` <br>*Alt*: `Strange 1955-08-26`, `The Ghost of Captain Kidd` | **"The Ghost of Captain Kidd (Walter Tetley & Paul Frees — Strange)"** | **Syndicated**<br>1955-08-26<br>(Transcription) | **Local Sponsors**<br>Supernatural Drama Anthology | **Walter Tetley** (Host), **Paul Frees**, **Byron Kane** | **Carl Webster Pierce** (Creator/Writer) | `["Supernatural", "Mystery", "Occult", "Anthology", "Macabre"]` | "Strange! Strange stories from the unexplained borders of human existence!" In 'The Ghost of Captain Kidd', two treasure hunters digging on Gardiner's Island unearth an antique iron chest, only to trigger a terrifying phantom gale and the spectral laughter of the executed 17th-century privateer. |
+| `Ranger_Bill_1960.mp3` <br>*Alt*: `Cliff Rescue Aka Clean Up Work Aka Timmy Climbs`, `Timmy Climbs` | **"Timmy Climbs Mount Evergreen (Milt Kelly as Ranger Bill — Moody Radio)"** | **Moody Radio (WMBI)**<br>1960-08-26<br>4:30 PM CST | **Sustaining**<br>Wilderness Juvenile Series | **Milt Kelly** (Ranger Bill), **Timmy Flannagan** | **Jim Weicher** (Writer/Dir.) | `["Juvenile", "Adventure", "Western", "Religious", "Outdoors"]` | "Ranger Bill, chief forest ranger of Knotty Pine, and his adventures in the great outdoors!" When young Timmy attempts an unauthorized climb up the sheer granite face of Mount Evergreen, a sudden rockslide traps him on a narrow ledge, forcing Ranger Bill to execute a daring cliffside rope rescue. |
+| `Mail_Call_1943.mp3` <br>*Alt*: `Groucho Marx, Irene Manning, Paulette Goddard`, `Mail Call 53` | **"Mail Call #53 (Groucho Marx & Paulette Goddard — AFRS War Department)"** | **AFRS**<br>1943-08-26<br>(Wartime Service) | **U.S. War Dept.**<br>Armed Forces Radio Worldwide | **Groucho Marx**, **Paulette Goddard**, **Tommy Dorsey** | **AFRS Hollywood**, **Don Wilson** | `["Comedy", "Variety", "Military", "Big Band", "Vaudeville"]` | "Mail Call! The Armed Forces Radio Service program sent overseas to our fighting men everywhere!" Emcee Groucho Marx dishes out rapid-fire wisecracks, trades flirtatious banter with glamorous movie star Paulette Goddard, and welcomes Irene Manning and the Tommy Dorsey Orchestra for swinging musical morale. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 53
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

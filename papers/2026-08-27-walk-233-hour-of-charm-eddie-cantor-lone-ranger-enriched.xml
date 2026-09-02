@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 27 Calendar Walk — Hour of Charm, Eddie Cantor, and The Lone Ranger</article-title>
+      <pub-date>2026-08-27</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 27, Calendar Walk, Hour of Charm, Phil Spitalny, All-Girl Orchestra, Evelyn, General Electric, Authors Studio, BBC, TC Thomas, The Eddie Cantor Show, Virginia Weidler, Proudly We Hail, Lone Ranger, George Seaton, Earle Graser, John Todd, Tonto, Fran Striker, Silvercup Bread, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 27 Archival Metadata Enrichment (Increment 233)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **August 27** across American and British radio, Phil Spitalny and his All-Girl Orchestra on *Hour of Charm* for General Electric, atmospheric Welsh drama on *Author's Studio*, Eddie Cantor welcoming Virginia Weidler, military cavalry drama on *Proudly We Hail*, and two legendary Fran Striker Western adventures on *The Lone Ranger* for Silvercup Bread (1934 George Seaton as the masked rider, 1937 Earle Graser foil of Red Rock ambush) (1934–1975):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 27 Archival Inventory (Increment 233)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Hour_of_Charm_1944.mp3` <br>*Alt*: `This Is the Army, Mr. Jones`, `GE` | **"This Is the Army, Mr. Jones"** | **NBC (WEAF)**<br>1944-08-27<br>10:00 PM EWT | **General Electric**<br>GE Mazda Lamps | **Phil Spitalny**, **Evelyn**, **Vivien**, **Jeanie** | **Phil Spitalny** (Leader) | `["Music", "Orchestral", "Big Band", "Vocal", "Wartime"]` | Phil Spitalny leads the all-female ensemble and vocal choir in inspirational wartime melodies, featuring Irving Berlin's 'This Is the Army, Mr. Jones'. |
+| `Authors_Studio_1975.mp3` <br>*Alt*: `The Strange Valley`, `BBC 1975` | **"The Strange Valley"** | **BBC Radio 4**<br>1975-08-27<br>8:00 PM | **Sustaining**<br>BBC Literary Drama | **BBC Dramatic Repertory** | **T.C. Thomas** (Writer) | `["Drama", "British", "Mystery", "Atmospheric", "Anthology"]` | A solitary traveler seeking shelter in a remote Welsh valley unearths ancient village secrets and a long-hidden family grievance. |
+| `Eddie_Cantor_1953.mp3` <br>*Alt*: `Guest - Virginia Weidler`, `1953` | **"Guest Virginia Weidler"** | **NBC (WNBC)**<br>1953-08-27<br>9:30 PM EDT | **Sustaining**<br>Comedy Showcase | **Eddie Cantor**, **Virginia Weidler**, **Jimmy Wallington** | **Cookie Fairchild Orchestra** | `["Comedy", "Variety", "Vaudeville", "Music", "Hollywood"]` | Eddie Cantor welcomes teenage screen star Virginia Weidler for energetic vaudeville banter, musical comedy sketches, and favorite Cantor songs. |
+| `Proudly_We_Hail_1950.mp3` <br>*Alt*: `A Fool on Horseback`, `1950` | **"A Fool on Horseback"** | **Syndicated Elec**<br>1950-08-27 | **US Armed Forces**<br>Army & Air Force Recruiting | **Kenneth Banghart** (Host) | **U.S. Military Dramatic Cast** | `["Military", "Drama", "Cavalry", "Historical", "Anthology"]` | A reckless young cavalry scout learns discipline and battlefield maturity when his reconnaissance squad is trapped behind enemy lines. |
+| `Lone_Ranger_1934.mp3` <br>*Alt*: `Rustlers of Dry Creek`, `Silvercup` | **"Rustlers of Dry Creek"** | **Mutual / WXYZ**<br>1934-08-27<br>7:30 PM EST | **Gordon Baking Co.**<br>Silvercup Bread | **George Seaton** (Ranger), **John Todd** (Tonto) | **Fran Striker** (Writer) | `["Western", "Adventure", "Frontier", "Juvenile", "Action"]` | The masked rider and Tonto track down a ruthless gang of cattle thieves who poisoned the water hole of an honest homesteader. |
+| `Lone_Ranger_1937.mp3` <br>*Alt*: `Badman's Ambush at Red Rock`, `1937` | **"Badman's Ambush at Red Rock"** | **Mutual / WXYZ**<br>1937-08-27<br>7:30 PM EDST | **Gordon Baking Co.**<br>Silvercup Bread | **Earle Graser** (Ranger), **John Todd** (Tonto) | **Fran Striker** (Writer) | `["Western", "Adventure", "Frontier", "Juvenile", "Action"]` | The Lone Ranger and Tonto foil an ambush planned by outlaw bushwhackers targeting a frontier territorial judge traveling to circuit court. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 27
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 27**: 311
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

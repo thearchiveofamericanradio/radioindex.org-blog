@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 5 Calendar Walk — Fitch Bandwagon, Morecambe &amp; Wise &amp; Harry Nile</article-title>
+      <pub-date>2026-09-05</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 5, Calendar Walk, The Fitch Bandwagon, Mack Gordon, Cass Daley, Fitch Shampoo, The Morecambe and Wise Show, Eric Morecambe, Ernie Wise, BBC, Imagination Theater, Harry Nile, Larry Albert, Louis LAmour, Chick Bowdrie, Twenty Years A Growing, Muiris O Suilleabhain, Your Symphony Scrapbook, Burnett Atkinson, Arthur Fiedler, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 5 Archival Metadata Enrichment (Increment 844)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 5** across Hollywood songwriter Mack Gordon on *The Fitch Bandwagon* for Fitch Shampoo (1943), British comedy legends Eric Morecambe and Ernie Wise on *The Morecambe and Wise Show* (1976), two modern radio dramas on Jim French's *Imagination Theatre* (Chick Bowdrie western in 2004; Harry Nile mystery in 2010), Irish island folklore on *Twenty Years A-Growing* (1977), and symphony woodwinds education on *Your Symphony Scrapbook* (1953), Mack Gordon (1943), Arthur Fiedler (1953), Eric Morecambe & Ernie Wise (1976), and Larry Albert (2010):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 5 Archival Inventory (Increment 844)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `FitchBandwagon_1943_MackGordon.mp3` <br>*Alt*: `Mack Grodon Fitch Bandwagon` | **"Guest Mack Gordon with Cass Daley and Henry Levine"** | **NBC Red (WEAF)**<br>1943-09-05<br>7:30 PM EWT | **F.W. Fitch Co.**<br>Fitch's Shampoo | **Mack Gordon & Cass Daley** | **Henry Levine Orchestra** | `["Music", "Variety", "Fitch Bandwagon", "Mack Gordon", "Fitch Shampoo"]` | Hollywood lyricist Mack Gordon performs his chart-topping film hits, exchanges comedic banter with Cass Daley, and introduces swing numbers. |
+| `MorecambeWise_1976_HowTickled.mp3` <br>*Alt*: `How Tickled Am I The Morecambe and Wise Show` | **"How Tickled Am I with Morecambe and Wise"** | **BBC Radio 2**<br>1976-09-05 | **BBC Sustaining**<br>British Comedy Variety | **Eric Morecambe & Wise** | **Peter Knight Orchestra** | `["Comedy", "Variety", "Morecambe and Wise", "BBC", "British Comedy"]` | Eric and Ernie perform classic vaudeville crosstalk routines, stage a ridiculous mock opera, and trade insults about Ernie's plays. |
+| `Imagination_2004_Bowdrie.mp3` <br>*Alt*: `Louis L'Amour Theater - Bowdrie Passes Through Imagination Theater` | **"Louis L'Amour Theater: Bowdrie Passes Through"** | **Syndicated Radio**<br>2004-09-05 | **Sustaining**<br>Western Audio Drama | **Jim French Troupe** | **Louis L'Amour (Author)** | `["Western", "Adventure", "Imagination Theater", "Louis LAmour", "Audio Drama"]` | Texas Ranger Chick Bowdrie rides into an isolated frontier territory to resolve a deadly boundary feud between rival cattle barons. |
+| `Imagination_2010_HarryNile.mp3` <br>*Alt*: `PR-Nothing is Forvever Imagination Theater` | **"The Adventures of Harry Nile: Nothing Is Forever"** | **Syndicated Radio**<br>2010-09-05 | **Sustaining**<br>Private Detective | **Larry Albert & Pat French** | **Jim French (Director)** | `["Detective", "Mystery", "Imagination Theater", "Harry Nile", "Larry Albert"]` | Seattle private eye Harry Nile investigates a string of jewel thefts targeting high-stakes poker players at an underground club. |
+| `TwentyYears_1977_Shipwrecks.mp3` <br>*Alt*: `Shipwrecks Twenty Years A-Growing` | **"Shipwrecks with BBC Radio Drama Troupe"** | **BBC Radio 4**<br>1977-09-05 | **BBC Sustaining**<br>Irish Literature Drama | **BBC Dramatic Troupe** | **Muiris Ó Súilleabháin** | `["Drama", "Anthology", "Twenty Years A Growing", "BBC", "Irish Literature"]` | A lyrical radio adaptation portraying islanders on the Great Blasket off Ireland's western coast salvaging timber from an Atlantic shipwreck. |
+| `SymphonyScrapbook_1953_Piccolo.mp3` <br>*Alt*: `Burnett Atkinson Piccolo Your Symphony Scrapbook` | **"Burnett Atkinson and the Piccolo with Arthur Fiedler"** | **Syndicated Radio**<br>1953-09-05 | **Standard Oil Co.**<br>School Broadcast | **Burnett Atkinson (Piccolo)** | **Arthur Fiedler (Host)** | `["Music", "Educational", "Symphony Scrapbook", "Burnett Atkinson", "Arthur Fiedler"]` | Piccolo virtuoso Burnett Atkinson demonstrates the range, tone, and orchestral role of woodwind instruments with musical examples. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 5
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 5**: 378 / 401 (23 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

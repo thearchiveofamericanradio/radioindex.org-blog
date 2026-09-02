@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: September 2 Calendar Walk — Casey Crime Photographer, Steve Canyon &amp; Mario Lanza</article-title>
+      <pub-date>2026-09-02</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>September 2, Calendar Walk, Casey Crime Photographer, Staats Cotsworth, Jan Miner, Anchor Hocking, Steve Canyon, Barry Sullivan, Milton Caniff, ABC, Straight Arrow, Howard Culver, Nabisco Shredded Wheat, Stand By for Adventure, Harry S Goodman, CBSRMT, EG Marshall, Marian Seldes, Mario Lanza, Coca Cola, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>September 2 Archival Metadata Enrichment (Increment 627)</title>
+      <p><![CDATA[This archival dispatch documents the historical provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and pure narrative synopses for broadcasts transmitting on **September 2** across gritty newspaper crime photographer mysteries, globe-trotting aviation adventures, western secret-identity frontier exploits, classic maritime mystery anthologies, Gothic radio horror, and operatic concert vocals, Staats Cotsworth in *Casey, Crime Photographer* for Anchor Hocking (1948), Barry Sullivan as *Steve Canyon* (1948), Howard Culver in *Straight Arrow* for Nabisco (1948), *Stand By for Adventure* (1946), *CBS Radio Mystery Theater* with E.G. Marshall and Marian Seldes (1998/1974), and Mario Lanza for Coca-Cola (1946–1998):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *September 2 Archival Inventory (Increment 627)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Casey_1948_FeatheredFriends.mp3` <br>*Alt*: `My Little Feathered Friends Casey Crime Photographer` | **"My Little Feathered Friends with Staats Cotsworth"** | **CBS (WCBS)**<br>1948-09-02<br>9:30 PM EDT | **Anchor Hocking**<br>Fire-King Ovenware | **Staats Cotsworth (Casey)** | **Jan Miner & Gibson** | `["Mystery", "Detective", "Crime Photographer", "Staats Cotsworth", "Anchor Hocking"]` | Casey and Ann investigate an eccentric ornithologist whose prized racing homing pigeons are used to smuggle stolen gems across state lines. |
+| `Canyon_1948_RubiesKali.mp3` <br>*Alt*: `The Rubies Of Kali Steve Canyon` | **"The Rubies of Kali with Barry Sullivan as Steve Canyon"** | **ABC (WJZ)**<br>1948-09-02<br>8:00 PM EDT | **Sustaining**<br>Aviation Adventure | **Barry Sullivan (Steve)** | **Milton Caniff (Creator)** | `["Aviation", "Adventure", "Steve Canyon", "Barry Sullivan", "ABC"]` | Air cargo charter pilot Steve Canyon flies into northern India to retrieve sacred temple rubies targeted by international mercenaries. |
+| `StandBy_1946_SargassoSea.mp3` <br>*Alt*: `Episode Stand By For Adventure` | **"The Ghost Ship of the Sargasso with Dramatic Cast"** | **Syndication**<br>1946-09-02 | **Sustaining**<br>Adventure Anthology | **Dramatic Voice Cast** | **Harry S. Goodman (Prod)** | `["Adventure", "Maritime", "Mystery", "Stand By For Adventure", "Syndicated"]` | Four worldly adventurers in a private club recount the discovery of a derelict Victorian sailing vessel adrift within the weed-choked Sargasso Sea. |
+| `Arrow_1948_TheRinger.mp3` <br>*Alt*: `The Ringer Straight Arrow` | **"The Ringer with Howard Culver as Straight Arrow"** | **Mutual / Don Lee**<br>1948-09-02<br>8:00 PM EDT | **National Biscuit Co.**<br>Nabisco Shredded Wheat | **Howard Culver (Steve)** | **Gwen Delano & Howard** | `["Western", "Adventure", "Straight Arrow", "Howard Culver", "Nabisco"]` | Rancher Steve Adams assumes his Comanche secret identity as Straight Arrow to expose crooked gamblers fixing a county horse race. |
+| `CBSRMT_1998_SpectralBride.mp3` <br>*Alt*: `The Spectral Bride CBS Radio Mystery Theater` | **"The Spectral Bride with E.G. Marshall and Marian Seldes"** | **CBS Radio Network**<br>1998-09-02 rebroadcast | **Sustaining**<br>Gothic Mystery | **E.G. Marshall (Host)** | **Marian Seldes & Brown** | `["Horror", "Mystery", "CBSRMT", "EG Marshall", "Himan Brown"]` | A wealthy widower remarrying in a secluded country mansion is tormented by phantom apparitions of his deceased first bride. |
+| `Lanza_1951_BecauseMine.mp3` <br>*Alt*: `The Mario Lanza Show 1951 Episode` | **"Because You're Mine with Mario Lanza and Coca-Cola"** | **CBS (WCBS)**<br>1951-09-02<br>8:00 PM EDT | **The Coca-Cola Co.**<br>Coca-Cola Refreshment | **Mario Lanza (Tenor)** | **Ray Sinatra Orchestra** | `["Music", "Pop", "Classical", "Mario Lanza", "Coca Cola"]` | Tenor Mario Lanza performs romantic Italian ballads and Broadway show tunes including Because You're Mine. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: September 2
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on September 2**: 374 / 480 (106 remaining)
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

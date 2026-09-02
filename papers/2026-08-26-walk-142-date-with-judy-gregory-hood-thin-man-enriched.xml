@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 26 Calendar Walk — A Date with Judy, Gregory Hood (Petri Wine), and The Thin Man</article-title>
+      <pub-date>2026-08-26</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 26, Calendar Walk, A Date with Judy, Dellie Ellis, Louise Erickson, Richard Crenna, Pepsodent, Swan Soap, Casebook of Gregory Hood, Gale Gordon, Anthony Boucher, Petri Wine, Earplay, James McLure, Lone Star, Powers Boothe, Randy Quaid, NPR, Mystery of the Week, The Thin Man, Les Tremayne, Claudia Morgan, Dashiell Hammett, Himan Brown, Ivory Snow, Crisco, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 26 Exhaustive Archival Metadata Enrichment (Increment 142)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, serial multi-part narrative arcs, and story synopses for historical broadcasts transmitting on **August 26** across American network and public radio, two classic *A Date with Judy* teenage sitcoms for Pepsodent and Swan Soap, Gale Gordon investigating an antique mortuary on *The Casebook of Gregory Hood* for Petri Wine, Powers Boothe and Randy Quaid in James McLure's *Lone Star* on NPR *Earplay*, and two Nick & Nora Charles 15-minute serial mysteries (*The Two-Cent Panama* and *The Formal Duck*) produced by Himan Brown for Procter & Gamble (1941–1981):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 26 Archival Inventory (Increment 142)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Date_With_Judy_1941.mp3` <br>*Alt*: `A Date with Judy 1941-08-26`, `Judy's Sorority Initiation` | **"Judy's Sorority Initiation (Dellie Ellis as Judy — Pepsodent)"** | **NBC Red (WEAF)**<br>1941-08-26<br>10:00 PM EDST | **The Pepsodent Co.**<br>Pepsodent with Irium | **Dellie Ellis** (Judy), **Paul McGrath**, **Harry Cheshire** | **Lawrence & Lee**, **Helen Mack**, **Ken Niles** | `["Comedy", "Sitcom", "Juvenile", "Teen", "Family"]` | "Pepsodent presents A Date with Judy!" 15-year-old high school sophomore Judy Foster schemes to pass an eccentric initiation ritual for the elite Alpha Beta sorority, recruiting bumbling boyfriend Oogie Pringle to serenade the sorority president in a clown costume for Pepsodent. |
+| `Date_With_Judy_1947.mp3` <br>*Alt*: `Episode`, `A Date with Judy 1947-08-26` | **"Oogie's Jalopy Breakdown (Louise Erickson & Richard Crenna — Swan Soap)"** | **NBC (WEAF)**<br>1947-08-26<br>8:30 PM EDT | **Lever Brothers**<br>Swan Floating Soap | **Louise Erickson** (Judy), **Richard Crenna** (Oogie) | **Aleen Leslie**, **Helen Mack**, **Ken Niles** | `["Comedy", "Sitcom", "Juvenile", "Teen", "Family"]` | "Lever Brothers presents A Date with Judy, brought to you by Swan Floating Soap!" Judy Foster and boyfriend Oogie Pringle plan an idyllic drive out to the lakeside country dance, but Oogie's dilapidated jalopy breaks down in front of a suspicious farmhouse, forcing Judy's frantic father Melvin to mount a midnight search party for Swan Soap. |
+| `Gregory_Hood_1946.mp3` <br>*Alt*: `The Ghost Town Mortuary`, `Ghost Town Mortuary Gregory Hood` | **"The Ghost Town Mortuary (Gale Gordon as Gregory Hood — Petri Wine)"** | **Mutual (WOR)**<br>1946-08-26<br>8:30 PM EDT | **Petri Wine Co.**<br>Petri California Wines | **Gale Gordon** (Gregory Hood), **Bill Johnstone** (Sandy) | **Anthony Boucher**, **Denis Green**, **Harry Bartell** | `["Detective", "Mystery", "Hardboiled", "Classics", "Adventure"]` | "Petri Wine brings you The Casebook of Gregory Hood!" San Francisco antique dealer Gregory Hood and sidekick Sandy Taylor explore an abandoned California Gold Rush ghost town in search of rare miner relics, only to discover fresh embalming fluid in an antique mortuary and a killer desperate to unearth a hidden vein of gold for Petri Wine. |
+| `Earplay_1981.mp3` <br>*Alt*: `Lone Star`, `Lone Star James McLure Earplay` | **"Lone Star by James McLure (Powers Boothe & Randy Quaid — NPR Earplay)"** | **NPR (WHA)**<br>1981-08-26<br>8:00 PM CDT | **CPB & NEA**<br>NPR Earplay Project | **Powers Boothe** (Roy), **Randy Quaid** (Ray) | **James McLure**, **Karl Schmidt**, **Tom Voegeli** | `["Drama", "Comedy", "Americana", "Contemporary", "Military"]` | "Earplay, the award-winning radio drama project of National Public Radio!" In James McLure's gritty Texas comedy *Lone Star*, Vietnam veteran Roy and his younger brother Ray drink beer behind an alley in Maynard, Texas, grappling with post-war disillusionment, brotherly rivalries, and the fate of Roy's beloved 1959 pink Thunderbird. |
+| `Mystery_Week_1946.mp3` <br>*Alt*: `COT Two-Cent Panama (Part 1)`, `Two-Cent Panama Part 1` | **"The Case of the Two-Cent Panama (Part 1 of 5 — Nick & Nora Charles — P&G)"** | **CBS (WABC)**<br>1946-08-26<br>7:00 PM EDT | **Procter & Gamble**<br>Ivory Snow & Dreft | **Les Tremayne** (Nick Charles), **Claudia Morgan** (Nora) | **Dashiell Hammett**, **Robert Newman**, **Himan Brown** | `["Detective", "Mystery", "Hardboiled", "Comedy", "Crime"]` | "Procter & Gamble presents The Mystery of the Week, starring Nick and Nora Charles in The Adventures of the Thin Man!" In Part 1 of 'The Case of the Two-Cent Panama', Nick and Nora Charles are approached by an eccentric antique straw hat collector who is targeted by jewel smugglers claiming a rare Panama hat conceals uncut diamonds. Note: Multi-part serial narrative arc *(The Case of the Two-Cent Panama — Part 1 of 5)*. |
+| `Mystery_Week_1947.mp3` <br>*Alt*: `COT Formal Duck (Part 2)`, `The Case of the Formal Duck Part 2` | **"The Case of the Formal Duck (Part 2 of 5 — The Thin Man — Crisco)"** | **CBS (WCBS)**<br>1947-08-26<br>7:00 PM EDT | **Procter & Gamble**<br>Ivory Soap & Crisco | **Les Tremayne** (Nick Charles), **Claudia Morgan** (Nora) | **Dashiell Hammett**, **Milton Lewis**, **Himan Brown** | `["Detective", "Mystery", "Hardboiled", "Comedy", "Crime"]` | "Procter & Gamble presents The Mystery of the Week, starring The Thin Man!" In Part 2 of 'The Case of the Formal Duck', Nick and Nora attend a high-society masquerade charity ball in Long Island, where a guest dressed in a white-tie tuxedo duck costume is fatally shot during the midnight unmasking. Note: Multi-part serial narrative arc *(The Case of the Formal Duck — Part 2 of 5)*. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 26
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 26**: 77
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>

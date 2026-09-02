@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- JATS-lite source. Blocks with no @audience are shared by every register. -->
+<article>
+  <front>
+    <article-meta>
+      <article-title>Archival Dispatch: August 24 Calendar Walk — Frank Sinatra (Ray Bolger), Art Van Damme, and Lincoln Highway</article-title>
+      <pub-date>2026-08-24</pub-date>
+      <contrib>radio index</contrib>
+      <kwd-group>August 24, Calendar Walk, The Ray Bolger Show, Frank Sinatra, Rexall, Roy Bargy, Gold Coast Rhythm Show, Art Van Damme, Connie Russell, WBBM Chicago, Lincoln Highway, William Gargan, Shinola Polish, Blevins Davis, Old-Fashioned Revival Hour, Charles E Fuller, Rudy Atwood, Long Beach, Squad Cars, Springbok Radio, Colin Fish, Police Headquarters, George Lowther, Alternate Titles, Original Filenames</kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec level="2">
+      <title>August 24 Exhaustive Archival Metadata Enrichment (Increment 19)</title>
+      <p><![CDATA[This archival dispatch documents the comprehensive provenance, broadcast scheduling, commercial sponsorship, credited cast, production personnel, alternate circulating titles, and story synopses for historical broadcasts transmitting on **August 24** across American network, South African Springbok Radio, and gospel syndication history (1940–1984):]]></p>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>1. *August 24 Archival Inventory (Increment 19)*</title>
+      <table><![CDATA[| Original Circulating Filename & Alternate Titles | Canonical Title | Network, Airdate & Showtime | Sponsor & Commercial Ads | Credited Cast & Performers | Director, Writers & Crew | Genres | Story-First Plot Synopsis |
+|---|---|---|---|---|---|---|---|
+| `Squad_Cars_1984_08_24.mp3` <br>*Alt*: `Number Sixty-Two`, `Springbok Squad Cars 1984` | **"Number Sixty-Two (Colin Fish Drama — Springbok Radio Squad Cars)"** | **Springbok Radio**<br>1984-08-24<br>8:00 PM SAST | **General Motors**<br>Chevrolet & AC Delco | **Adrian Steed**, **Douglas Bristow**, **Michael McCabe** | **Colin Fish** (Writer/Director), **Hugh Rouse** | `["Police", "Procedural", "True Crime", "Action", "Drama"]` | Flying Squad patrolmen in Durban respond to a suspicious disturbance at suburban bungalow Number Sixty-Two, uncovering a barricaded kidnapper holding an heiress at gunpoint after a botched jewel heist. |
+| `Ray_Bolger_1945_08_24.mp3` <br>*Alt*: `Guest Frank Sinatra`, `Ray Bolger Sinatra Rexall` | **"The Ray Bolger Show with Special Guest Frank Sinatra (Rexall)"** | **CBS (WABC)**<br>1945-08-24<br>10:00 PM EWT | **Rexall Drug Company**<br>"Good Health from Rexall" | **Ray Bolger**, **Frank Sinatra** (Guest), **Elvia Allman** | **Arthur Stander & Jack Douglas**, **Howard Petrie** | `["Comedy", "Variety", "Music", "Vocal", "Tap Dance"]` | Master tap dancer and comedian Ray Bolger welcomes bobby-soxer idol Frank Sinatra to his summer variety revue, trading comedic insults about dance technique and harmonizing on a showstopping duet of 'Saturday Night Is the Loneliest Night of the Week' for Rexall. |
+| `Gold_Coast_1949_08_24.mp3` <br>*Alt*: `College Catalogs Baby`, `Art Van Damme WBBM` | **"College Catalogs for the Baby (Art Van Damme Quintet — WBBM Chicago)"** | **WBBM / CBS**<br>1949-08-24<br>4:45 PM CDT | **Sustaining**<br>CBS Chicago Music | **Art Van Damme Quintet**, **Connie Russell**, **George Watson** | **WBBM Wrigley Building Studios Production** | `["Music", "Jazz", "Swing", "Accordion", "Vocal"]` | Host George Watson trades lighthearted fatherhood quips about reading college catalogs for his newborn infant between dazzling accordion jazz numbers by the Art Van Damme Quintet and vocal standards sung by Connie Russell. |
+| `Lincoln_Hwy_1940_08_24.mp3` <br>*Alt*: `Guest Bill Gargan`, `Lincoln Highway Shinola 1940` | **"Flash Flood on Route 30 (Guest Star William Gargan — Shinola Polish)"** | **NBC Red (WEAF)**<br>1940-08-24<br>10:00 AM EDST | **Hecker Products**<br>Shinola Shoe Polish | **William Gargan** (Guest), **John McIntire** (Narrator) | **Blevins Davis** (Writer), **Lester Vail**, **Bob Stanton** | `["Drama", "Anthology", "Americana", "Travel", "Adventure"]` | Screen and stage star William Gargan headlines a dramatic roadside tale along America's storied transcontinental highway, playing a cynical cross-country truck driver who risks his rig to rescue a stranded farm family trapped in a flash flood. |
+| `Revival_Hour_1952_08_24.mp3` <br>*Alt*: `Signs Of The Times`, `Charles E Fuller 1952` | **"Signs of the Times (Dr. Charles E. Fuller — Old-Fashioned Revival Hour)"** | **ABC & Mutual**<br>1952-08-24<br>8:00 AM PST | **Gospel Broadcasting**<br>Listener Supported | **Dr. Charles E. Fuller**, **Grace Fuller**, **Rudy Atwood** | **Leland Green** (Director), **Jack Albright** (Announcer) | `["Religious", "Gospel", "Sermon", "Hymns", "Inspirational"]` | Evangelist Dr. Charles E. Fuller preaches a stirring evangelical sermon titled 'Signs of the Times' from the Long Beach Municipal Auditorium, accompanied by Rudy Atwood's cascading piano arrangements of traditional revival hymns. |
+| `Police_HQ_1943_08_24.mp3` <br>*Alt*: `Episode 9`, `Blackmail Ring Murders` | **"The Blackmail Ring Murders (Mastertone Police Headquarters #9)"** | **Mastertone Trans.**<br>1943-08-24<br>(Feature #9) | **Regional Advertisers**<br>Automotive & Department | **Arthur Vinton**, **Frank Readick**, **Joseph Julian** | **George Lowther** (Writer), **Roger Krupp** | `["Police", "Procedural", "True Crime", "Detective", "Drama"]` | Precinct detectives race against the clock to dismantle a ruthless blackmail syndicate targeting prominent society figures after their chief blackmailer is found poisoned in his luxury high-rise penthouse. |]]></table>
+      <p><![CDATA[---]]></p>
+    </sec>
+    <sec level="2">
+      <title>2. *Archival Verification Summary*</title>
+      <list><![CDATA[- **Target Calendar Day**: August 24
+- **Broadcasts Resolved This Increment**: 6
+- **Cumulative Resolved on August 24**: 114
+- **Target Repositories Synchronized**: `radioindex.org-meta` and `radioindex.org-blog`]]></list>
+    </sec>
+  </body>
+</article>
