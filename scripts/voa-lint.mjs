@@ -24,6 +24,13 @@ const ALLOW = new Set(
 const GRAMMAR = JSON.parse(readFileSync(join(HERE, "voa-grammar.json"), "utf8"));
 const CLOSED = new Set([...GRAMMAR.function, ...GRAMMAR.numbers]);
 const IRREGULAR = GRAMMAR.irregular;
+// Academic register has its own controlled lexicon. Coxhead's Academic Word List
+// is 570 word families defined as the academic words NOT in the General Service
+// List, so it layers on top of a general vocabulary rather than competing with it.
+// GSL plus AWL covers about 90 percent of academic text. Counted as a second tier,
+// not as a fault: simple English can carry academic register, but only with this
+// list named and bounded.
+const AWL = new Set(JSON.parse(readFileSync(join(HERE, "awl-words.json"), "utf8")));
 
 const file = process.argv[2];
 if (!file) {
@@ -112,19 +119,31 @@ const text = prose(readFileSync(file, "utf8"));
 const proper = new Set();
 for (const m of text.matchAll(/(?<![.!?]\s|^)\b([A-Z][a-zA-Z']+)/gm)) proper.add(m[1].toLowerCase());
 
+/** Second tier: the academic list, tested through the same morphology. */
+function academic(word) {
+  if (AWL.has(word)) return true;
+  for (const form of lemmas(word)) if (AWL.has(form)) return true;
+  return false;
+}
+
 const tokens = [...text.matchAll(/\b[A-Za-z][A-Za-z'-]*\b/g)].map((m) => m[0]);
 const counts = new Map();
+const awlCounts = new Map();
 let checked = 0;
 for (const tok of tokens) {
   const w = tok.toLowerCase().replace(/^'+|'+$/g, "");
   if (w.length < 2) continue;
   if (proper.has(w)) continue;
   checked += 1;
-  if (!known(w)) counts.set(w, (counts.get(w) ?? 0) + 1);
+  if (known(w)) continue;
+  if (academic(w)) awlCounts.set(w, (awlCounts.get(w) ?? 0) + 1);
+  else counts.set(w, (counts.get(w) ?? 0) + 1);
 }
 
 const oovTotal = [...counts.values()].reduce((a, b) => a + b, 0);
+const awlTotal = [...awlCounts.values()].reduce((a, b) => a + b, 0);
 const oovRate = checked ? (oovTotal / checked) * 100 : 0;
+const awlRate = checked ? (awlTotal / checked) * 100 : 0;
 
 const sentences = text
   .replace(/\n+/g, " ")
@@ -139,12 +158,13 @@ const longest = sentences[sentences.length - 1] ?? 0;
 
 console.log(`file            ${file}`);
 console.log(`words checked   ${checked}`);
-console.log(`outside book    ${oovTotal} (${oovRate.toFixed(2)}%)  unique ${counts.size}`);
+console.log(`academic (AWL)  ${awlTotal} (${awlRate.toFixed(2)}%)  unique ${awlCounts.size}`);
+console.log(`outside both    ${oovTotal} (${oovRate.toFixed(2)}%)  unique ${counts.size}`);
 console.log(`sentences       n=${sentences.length} mean=${mean.toFixed(1)} median=${median} p90=${p90} longest=${longest}`);
 
 const ranked = [...counts.entries()].sort((a, b) => b[1] - a[1]);
 if (ranked.length) {
-  console.log("\ntop words outside the book:");
+  console.log("\ntop words outside both lists:");
   for (const [w, n] of ranked.slice(0, 40)) console.log(`  ${String(n).padStart(3)}  ${w}`);
 }
 
