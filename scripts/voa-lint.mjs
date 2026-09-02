@@ -189,6 +189,29 @@ console.log(`academic (AWL)  ${awlTotal} (${awlRate.toFixed(2)}%)  unique ${awlC
 console.log(`outside both    ${oovTotal} (${oovRate.toFixed(2)}%)  unique ${counts.size}`);
 console.log(`sentences       n=${sentences.length} mean=${mean.toFixed(1)} median=${median} p90=${p90} longest=${longest}`);
 
+// VOA writing puts the subject first. A sentence that opens with a preposition or
+// an adverbial makes the reader hold a phrase in mind before learning what the
+// sentence is about, which is the cost simple English exists to avoid.
+const FRONTED = new Set(
+  ("about above across after against along among around at before behind below beneath " +
+    "beside besides between beyond by despite down during except for from in inside into " +
+    "near of off on onto out outside over past since through throughout to toward towards " +
+    "under underneath until up upon with within without " +
+    "often sometimes usually always never rarely typically generally normally occasionally " +
+    "frequently recently currently now then later finally first second third however " +
+    "therefore thus meanwhile instead moreover furthermore nevertheless nonetheless " +
+    "together where when while although though because if unless once").split(" "),
+);
+const fronted = [];
+for (const s of text.replace(/\n+/g, " ").split(/(?<=[.!?])\s+/)) {
+  const words = s.replace(/^[^A-Za-z]+/, "").split(/\s+/).filter(Boolean);
+  if (words.length < 4) continue;
+  const first = words[0].toLowerCase().replace(/[*_,]/g, "");
+  if (FRONTED.has(first)) fronted.push(first);
+}
+const frontedPct = sentences.length ? (fronted.length / sentences.length) * 100 : 0;
+console.log(`fronted openers ${fronted.length} (${frontedPct.toFixed(2)}%)`);
+
 const ranked = [...counts.entries()].sort((a, b) => b[1] - a[1]);
 if (ranked.length) {
   console.log("\ntop words outside both lists:");
