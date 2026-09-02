@@ -1,0 +1,26 @@
+{
+  "note": "Words that point at something instead of naming it. Repeating a proper noun is always allowed and usually better: a reader who arrives mid-page still knows what is being discussed. Repetition is not a fault here.",
+  "banned": {
+    "this": "name the thing",
+    "that": "name the thing (allowed as a conjunction: 'the log that survives')",
+    "these": "name the things",
+    "those": "name the things",
+    "it": "name the thing",
+    "its": "name the thing's",
+    "they": "name them",
+    "them": "name them",
+    "their": "name theirs",
+    "such": "name the kind",
+    "some": "give the number or the name",
+    "whatever": "name the cases",
+    "i": "no first person",
+    "we": "no first person",
+    "our": "no first person",
+    "us": "no first person",
+    "one": "name the thing (allowed in counting: 'one listing')",
+    "former": "repeat the name",
+    "latter": "repeat the name"
+  },
+  "conjunctionOk": ["that"],
+  "countingOk": ["one"]
+}

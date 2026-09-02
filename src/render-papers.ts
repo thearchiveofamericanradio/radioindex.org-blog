@@ -1,13 +1,17 @@
 import { BlogPost, SiteMeta } from "./types";
 import { renderLayout } from "./render-layout";
 import { reportNumber } from "./render-paper";
+import { paperFor } from "./paper-registry";
 
 /** Google Scholar requires a browse index of the papers, reachable in plain
  * `<a href>` links and no more than ten hops from the site root. Every paper is
  * listed here in one page so the crawler reaches all of them in two hops, and
  * every entry is a static link -- no JavaScript, no form navigation. */
 export function renderPapers(posts: BlogPost[], meta: SiteMeta): string {
-  const sorted = [...posts].sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+  // The index lists papers, not every post. Scholar reads this page as the
+  // browsable index of the series, so a dispatch listed here is a claim that the
+  // dispatch is a paper.
+  const sorted = [...posts].filter((p) => paperFor(p.slug)).sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
 
   const groups = new Map<string, BlogPost[]>();
   for (const post of sorted) {
