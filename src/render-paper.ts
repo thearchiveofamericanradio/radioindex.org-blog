@@ -86,10 +86,12 @@ export function renderPaper(post: BlogPost, meta: SiteMeta): string {
     </header>
 
     <aside class="paper-status" role="note">
-      Stuff hasn't been dated on many sites for decades. This doesn't exist in books — we
-      have periodicals and newspaper highlights and newspaper listings. Those listings are
+      Broadcast dates, networks, sponsors and credits stated in this report are catalogue
+      assertions. The newspaper radio logs and trade-periodical listings that attest them are
       held against each broadcast record at
-      <a href="https://radioindex.org">radioindex.org</a>.
+      <a href="https://radioindex.org">radioindex.org</a> and should be consulted before the
+      assertions are relied upon. This report is issued by the archive that produced the
+      catalogue and has not been peer reviewed.
     </aside>
 
     ${hasOwnAbstract(post) ? "" : `<section class="paper-abstract">

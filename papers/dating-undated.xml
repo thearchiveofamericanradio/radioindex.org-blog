@@ -4,12 +4,11 @@
   <front>
     <article-meta>
       <article-title audience="voa">Dating the Undated: Newspaper Radio Logs as Primary Evidence for a Quarter-Million Broadcast Recordings</article-title>
-      <article-title audience="awl">Dating the Undated (Academic Word List register)</article-title>
+      <article-title audience="awl">Dating the Undated: Newspaper Radio Logs as Primary Evidence for a Quarter-Million Broadcast Recordings</article-title>
       <pub-date>2026-09-02</pub-date>
       <contrib>radio index</contrib>
       <kwd-group audience="voa">Research Paper, Discography, Broadcast Dating, Newspaper Radio Logs, Sound Records, Audio Archives, ARSC</kwd-group>
-      <kwd-group audience="awl">Register Sample, Academic Word List, Research Paper, Broadcast Dating</kwd-group>
-      <register-note audience="awl">*Register: the full Academic Word List version of the paper, complete from the abstract through the appendix, for comparison against the VOA Learning English version of the same text.*</register-note>
+      <kwd-group audience="awl">Research Paper, Discography, Broadcast Dating, Newspaper Radio Logs, Sound Records, Audio Archives, ARSC</kwd-group>
       <fact-list>
         <fact id="records" value="259,915"/>
         <fact id="programs" value="6,114"/>
@@ -25,26 +24,34 @@
     <sec level="2">
       <title audience="voa">Abstract</title>
       <title audience="awl">Abstract</title>
-      <p audience="voa"><![CDATA[Many old American radio recordings survive today. Collectors trade them as sound files.
-But a large number of these recordings carry no date. The file name is often the only information about a recording. File names do not last. People write them again at every copy.
-Computers cut them short. Someone chooses a date when a name is hard to read. So the date is
-lost, and many of the dates that remain are wrong.]]></p>
-      <p audience="voa"><![CDATA[This paper describes a method for finding the true date of such a recording. The main
-evidence is the newspaper radio log — the daily list of radio programs that American
-newspapers printed. The method compares logs from several separate newspapers. It also
-uses trade magazines and evidence inside the recording itself.]]></p>
-      <p audience="voa"><![CDATA[The paper reports the results of this method at The Archive of American Radio. The archive
-holds 259,915 broadcast records across 6,114 programs. Twenty-eight percent of them still
-have no date.]]></p>
-      <p audience="voa"><![CDATA[The paper also proposes a way to mark how strong the evidence is for each date. This
-separates a date proved by several independent listings from a date that was only chosen, or one that arrived from another collection and was never tested.]]></p>
-      <p audience="voa"><![CDATA[One example shows the method at work. Six independent listings move one recording's date
-by almost seven years. The day of the week cannot settle the question, because both
-possible dates fall on a Sunday, and the program aired on Sundays.]]></p>
-      <p audience="voa"><![CDATA[The paper reports one limit as well. The number of listings available for a broadcast rises sharply with the year across the 1930s in the sample studied. The measure of
-this rise is a correlation of 0.899 across fourteen records. Evidence is not equally
-thick across the whole period. Any dating system must show this, and not hide it behind a
-flat claim of fact.]]></p>
+      <p audience="voa"><![CDATA[A considerable body of American radio broadcasting survives as sound recordings, and the
+surviving material circulates among private collectors as digital audio files. A significant
+proportion of the surviving material carries no broadcast date, and in many instances the
+only documentation accompanying a recording is the file name. File names are inherently
+unstable: file names are rewritten at each transfer, shortened by the operating systems
+responsible for storage, and, where the text can no longer be read, replaced by a cataloger's
+estimate. The date is therefore lost, and a significant share of the surviving dates are
+demonstrably erroneous.]]></p>
+      <p audience="voa"><![CDATA[The present paper specifies a method for establishing the true broadcast date of an undated
+recording. The primary evidence is the newspaper radio log, the day-by-day schedule of radio
+programs printed in American daily newspapers, and the method derives authority from the
+comparison of newspaper radio logs published independently in several cities. Trade press
+listings and evidence internal to the recording itself supplement the newspaper radio log.]]></p>
+      <p audience="voa"><![CDATA[The paper reports the results obtained through the application of the method at The
+Archive of American Radio, a published catalog of 259,915 broadcast records distributed across 6,114 programs.
+Twenty-eight percent of the 259,915 broadcast records remain undated.]]></p>
+      <p audience="voa"><![CDATA[The paper further proposes a framework for making the strength of the evidence behind each
+date explicit, whereby a date confirmed by several independent contemporary listings is no
+longer recorded in the same form as an estimate, or in the same form as a date transmitted
+from another collection and never subsequently validated.]]></p>
+      <p audience="voa"><![CDATA[A single case demonstrates the method in operation. Six independent contemporary listings
+displace the recording's accepted date by almost seven years, and the day of the week
+cannot resolve the question, because both candidate dates fall on a Sunday and the program
+was broadcast on Sundays.]]></p>
+      <p audience="voa"><![CDATA[The paper also reports a single significant limitation. The number of listings available for a broadcast increases sharply within the sample analyzed, with the year across the 1930s, a
+trend measured as a correlation of 0.899 across fourteen records. The evidence is
+not uniformly distributed across the period, and any dating framework must indicate the
+variation in evidence rather than obscure the variation behind a uniform claim of fact.]]></p>
       <p audience="voa"><![CDATA[**Keywords:** old-time radio, discography, broadcast dating, newspaper radio logs, provenance,
 audio archives, metadata]]></p>
       <p audience="voa"><![CDATA[---]]></p>
@@ -81,40 +88,49 @@ audio archives, metadata]]></p>
       <p audience="awl"><![CDATA[---]]></p>
     </sec>
     <sec level="2">
-      <title audience="voa">1. The problem: a body of evidence that lost its dates</title>
+      <title audience="voa">1. The problem: a body of evidence whose dates are lost</title>
       <title audience="awl">1. The problem: a body of evidence whose dates are lost</title>
-      <p audience="voa"><![CDATA[Old American radio survives mainly because collectors saved it. People recorded the
-programs on transcription discs and later on tape. People copied the copies. They
-traded them, and in time they made them into computer files. This went on for about
-seventy years. No library and no archive set a rule for the information that traveled with each recording. The result is a large body of valuable
-history with almost no reliable record keeping.]]></p>
-      <p audience="voa"><![CDATA[The clearest failure is the date. A recording without a date is much weaker as evidence.
-You cannot place it against the news of its week. You cannot connect it to an
-advertiser's campaign. You cannot say where it falls inside a program's run. You cannot
-use it to show what a network really broadcast on a given night. Radio was live and
-scheduled, and then it was gone. So the date is not one detail among many. The date is
-what turns a sound file into a historical document.]]></p>
-      <p audience="voa"><![CDATA[Dates disappear in several different ways. It helps to separate them, because each one
-needs a different answer.]]></p>
-      <p audience="voa"><![CDATA[**File names break down.** In trading networks, the file name carries the information.
-People write the name again at every transfer to fit their own system. Computers cut long
-names short. Some letters are not legal on some systems, so people remove them.
-Computer programs for cataloging change others. A date written as `xx-xx-xx` may survive one copy. It
-does not survive three.]]></p>
-      <p audience="voa"><![CDATA[**Wrong dates are passed along.** When a date is present, it is often passed along rather
-than proved. A collector chooses a date that looks reasonable. Everyone who receives the
-file copies that date forward. The date starts to look official over time, only because so many people repeat it. Nothing in a trading network ever removes a wrong date.]]></p>
-      <p audience="voa"><![CDATA[**Programs are dated, but recordings are not.** Many holdings carry only the years the
-program ran, such as 1952 to 1961. That is a fact about the program. It is not a fact
-about the recording.]]></p>
-      <p audience="voa"><![CDATA[**Guesses are stored as facts.** When a cataloger is not sure, the chosen date goes into the same field, in the same form, as a proved date. Nothing marks the difference. So the
-difference disappears at the first copy.]]></p>
-      <p audience="voa"><![CDATA[This paper treats the last of these as the main problem, because a careful method can
-repair it. The Association for Recorded Sound Collections states the principle clearly in
-its *Guidelines for Discographies*: "estimates are preferable to omitting the information.
-Discographers should explain the rationale behind estimates, and clearly distinguish them
-from 'solid' data."<sup id="r1"><a href="#n1">1</a></sup> The rule is not that every date must be sure. The rule is
-that the reader must be able to see which dates are sure, and why.]]></p>
+      <p audience="voa"><![CDATA[American radio survives principally because private collectors retained the recordings. The
+programs were recorded on transcription discs and subsequently on tape, the copies were
+themselves copied, the copies were traded, and the traded copies were eventually converted into
+digital files. The sequence of copying and trading continued for approximately seventy years,
+and throughout seven decades no library or archive imposed a uniform convention on the
+documentation accompanying each recording. The result is a large body of historically
+significant material carrying almost no reliable documentation.]]></p>
+      <p audience="voa"><![CDATA[The most significant failure is the loss of the date. An undated recording is
+significantly weaker as evidence, because an undated recording cannot be assessed against the
+news of a particular week, linked to an advertiser's campaign, or located within the run of the
+program responsible for generating the recording. Nor can an undated recording demonstrate
+what a network in fact transmitted on a given evening. Radio was live and scheduled, and then
+radio was gone; the date is therefore not an attribute among many, but the attribute
+converting a sound file into a historical document.]]></p>
+      <p audience="voa"><![CDATA[Dates are lost through several distinct mechanisms, and separating the mechanisms is useful,
+because each mechanism requires a different response.]]></p>
+      <p audience="voa"><![CDATA[**File names break down.** Within trading networks the file name carries the documentation.
+Participants revise the name at each transfer to conform to local convention,
+operating systems reduce names exceeding a length limit, and characters illegal
+on a given platform are removed by the person transferring the file. Cataloging software alters
+the remaining characters. A date written as `xx-xx-xx` may survive a single transfer; a date
+written as `xx-xx-xx` does not survive three.]]></p>
+      <p audience="voa"><![CDATA[**Erroneous dates are transmitted forward.** Where a date is present the date has more often been
+transmitted than validated. A collector assigns a plausible date, and every
+subsequent recipient of the file copies the assigned date forward. The assigned date acquires
+an appearance of authority in direct proportion to the number of repetitions, and no
+mechanism within a trading network ever eliminates an erroneous date.]]></p>
+      <p audience="voa"><![CDATA[**Programs are dated; recordings are not.** Many holdings record only the years across
+which the program ran, for example 1952 to 1961. A range of years is a fact about the program,
+and a range of years is not a fact about the recording.]]></p>
+      <p audience="voa"><![CDATA[**Estimates are stored as facts.** When a cataloger estimates a date, the estimate is
+written into the same field, in the same format, as a validated date. Nothing marks the
+difference, and the difference is therefore lost at the first transfer.]]></p>
+      <p audience="voa"><![CDATA[The present paper treats the storage of estimates as facts as the principal problem, because
+a careful method can correct the storage of estimates as facts. The Association for Recorded
+Sound Collections states the principle explicitly in the association's *Guidelines for
+Discographies*: "estimates are preferable to omitting the
+information. Discographers should explain the rationale behind estimates, and clearly
+distinguish them from 'solid' data."<sup id="r1"><a href="#n1">1</a></sup> The requirement is
+not conclusiveness in every date; the requirement is the reader's capacity to identify
+which dates are secure, and on what grounds.]]></p>
       <p audience="awl"><![CDATA[American radio survives principally because private collectors retained the recordings. The
 programs were recorded on transcription discs and subsequently on tape, the copies were
 themselves copied, the copies were traded, and the traded copies were eventually converted into
@@ -158,24 +174,33 @@ not conclusiveness in every date; the requirement is the reader's capacity to id
 which dates are secure, and on what grounds.]]></p>
     </sec>
     <sec level="3">
-      <title audience="voa">1.1 What existing note books do, and what they cannot do</title>
+      <title audience="voa">1.1 What the existing reference works do, and what the reference works cannot do</title>
       <title audience="awl">1.1 What the existing reference works do, and what the reference works cannot do</title>
-      <p audience="voa"><![CDATA[The field already has good note books. John Dunning's *On the Air: The Encyclopedia
-of Old-Time Radio* describes about 1,500 programs. It gives their broadcast histories,
-their times, their networks, their advertisers, and their main workers.<sup id="r2"><a href="#n2">2</a></sup> The
-*Handbook of Old-Time Radio*, by Jon Swartz and Robert Reinehr, serves collectors in a
-similar way.<sup id="r3"><a href="#n3">3</a></sup> The two guide books establish the record at the level of the *program*, and establish it well. The method described here depends on that work. Step 2 of
-the procedure in section 4 uses exactly this kind of source to learn a program's usual
-day and hour.]]></p>
-      <p audience="voa"><![CDATA[But these books do not date a single surviving recording, and they never set out to do so.
-Their subject is the program and its run. The problem here is the single item — one sound
-file, in trading now, whose place inside that run is not known. A note book can tell
-a cataloger that *Greatest Story Ever Told* was a Sunday program, and that it ran in 1948
-and also in 1955. It cannot say which Sunday produced the recording they hold. The program-level record in section 5.4 fits the correct date and the wrong date equally well.]]></p>
-      <p audience="voa"><![CDATA[So the hole is built into the problem. It is not a failure of the existing books. A cataloger dating a single item needs evidence about that single item. The newspaper radio log is the only published record for this period that works at that level, day by day. This paper argues
-that the radio log should be treated as the primary source for dating these recordings. It
-also argues that each record should show which listings were consulted, and what they
-proved.]]></p>
+      <p audience="voa"><![CDATA[The field already possesses authoritative reference works. John Dunning's *On the Air: The
+Encyclopedia of Old-Time Radio* documents approximately 1,500 programs, together with the
+broadcast histories, the scheduled times, the networks, the sponsors, and the principal
+contributors of the 1,500 programs.<sup id="r2"><a href="#n2">2</a></sup> The *Handbook of Old-Time Radio*,
+by Jon Swartz and Robert Reinehr, serves the collecting community in a comparable
+capacity.<sup id="r3"><a href="#n3">3</a></sup> Dunning and Swartz and Reinehr together establish the
+record at the level of the *program*, and Dunning and Swartz and Reinehr establish the record
+authoritatively. The method specified here depends on the work of Dunning and of Swartz and
+Reinehr: step 2 of the procedure in section 4 consults precisely the encyclopedic category of
+source in order to obtain a program's scheduled day and hour.]]></p>
+      <p audience="voa"><![CDATA[Dunning and Swartz and Reinehr do not, however, date an individual surviving recording, and the
+reference works were never designed to do so. The subject of Dunning and of Swartz and Reinehr
+is the program and the program's run, whereas the problem addressed here is the individual item
+— a single sound file, currently in distribution, whose position within the program's run is
+unknown. A reference work can indicate to a cataloger the status of *Greatest Story Ever Told*
+as a Sunday program broadcast in 1948 and again in 1955, but a reference work cannot
+specify which Sunday generated the recording in hand. The program-level record analyzed in section 5.4 is equally consistent with the correct date and with the erroneous
+date.]]></p>
+      <p audience="voa"><![CDATA[The limitation of the reference works is therefore structural, and the limitation does not
+constitute a failure of the existing literature. Dating an individual item requires evidence
+about the individual item, and for the classic period of American radio the only published
+record operating at the level of the individual item, day by day, is the newspaper
+radio log. The present paper argues for treating the newspaper radio log as the primary source
+for dating undated recordings, and for making explicit in each record which listings were
+consulted and what the consulted listings establish.]]></p>
       <p audience="awl"><![CDATA[The field already possesses authoritative reference works. John Dunning's *On the Air: The
 Encyclopedia of Old-Time Radio* documents approximately 1,500 programs, together with the
 broadcast histories, the scheduled times, the networks, the sponsors, and the principal
@@ -205,32 +230,42 @@ consulted and what the consulted listings establish.]]></p>
     <sec level="2">
       <title audience="voa">2. The collection</title>
       <title audience="awl">2. The collection</title>
-      <p audience="voa"><![CDATA[The Archive of American Radio is a public, not for profit catalog of American broadcast
-recordings. The archive published 259,915 separate broadcast records across 6,114 programs in September 2026.<sup id="r4"><a href="#n4">4</a></sup> Every broadcast record has a fixed web address in the form
-`/series/{program}/episodes/{item}`. Each record, where the evidence allows, also carries a
-formal citation, a set of newspaper listings, and a set of trade magazine listings.]]></p>
-      <p audience="voa"><![CDATA[The collection did not arrive all at once. It gathers material from the main old-time radio
-distribution channels, so it carries every dating problem described above, at full
-strength. Much of the cataloging work replaces a date that was passed along and never tested with a date
-proved against published evidence from the time.]]></p>
-      <p audience="voa"><![CDATA[Two facts about the published catalog can be measured directly. Both matter for the method.]]></p>
-      <p audience="voa"><![CDATA[**The evidence is nearly complete for the classic period.** The archive holds sixty
-records, chosen at random, whose item name carries a date between 1930 and 1959.
-Fifty-nine of them — 98 percent — carry at least one newspaper or trade magazine page
-image.<sup id="r5"><a href="#n5">5</a></sup> The evidence this method needs is almost always there for the years when the American radio log was a daily feature.]]></p>
-      <p audience="voa"><![CDATA[**Old dates survive beside corrected ones.** Of the 259,915 records, 44,566 carry a date in
-the item name, in the form `YYYY-MM-DD`, passed along from the file name of a source
-collection. Two records in a random sample of forty from the whole collection — 5 percent — carry a name date that does not agree with the broadcast date the record itself
-states. One record in sixty did not agree inside the 1930 to 1959 window.<sup id="r6"><a href="#n6">6</a></sup>
-Both samples are small, and the numbers should be read only as a rough size. The two samples together suggest that one to two thousand records still carry an old date in the name after the
-catalog has corrected the date itself. Section 5.4 examines one of them closely.]]></p>
-      <p audience="voa"><![CDATA[**More than a quarter of the collection has no date at all.** In a random sample of 150
-records from the whole catalog, 108 — 72 percent — carry a broadcast date. Forty-two — 28
-percent — carry none.<sup id="r7"><a href="#n7">7</a></sup> Forty-two in 150 points to about seventy-two thousand items held with no date across 259,915 records.]]></p>
-      <p audience="voa"><![CDATA[The link between dating and evidence in that sample is the more useful result. 101 of the 108 records with dates — 93.5 percent — carry at least one page image. **Two** of the 42 records without dates carry one. So records without dates are not, as a rule, records where
-someone looked for evidence and failed to find it. They are records where no one has
-looked yet. Dating a record and gathering its evidence are nearly the same job in this collection. The forty records in the sample with no date and no evidence stand for work still
-to be done, not for a limit on what the method can reach.]]></p>
+      <p audience="voa"><![CDATA[The Archive of American Radio is a public, not-for-profit catalog of American broadcast
+recordings. The Archive of American Radio published, in September 2026, 259,915 discrete broadcast records distributed across 6,114
+programs.<sup id="r4"><a href="#n4">4</a></sup> Every broadcast record occupies
+a persistent address of the form `/series/{program}/episodes/{item}`, and, where the
+evidence permits, each record also carries a formatted citation, a set of newspaper
+listings, and a set of trade press listings.]]></p>
+      <p audience="voa"><![CDATA[The collection was not assembled at a single time. The Archive of American Radio aggregates
+material from the principal old-time radio distribution channels, and The Archive of American
+Radio consequently exhibits every dating failure specified above, at full strength. A
+significant proportion of the cataloging effort consists of replacing a transmitted,
+unvalidated date with a date established against contemporary published evidence.]]></p>
+      <p audience="voa"><![CDATA[Two properties of the published catalog can be measured directly, and both are significant
+for the method.]]></p>
+      <p audience="voa"><![CDATA[**The available evidence is nearly complete for the classic period.** The archive holds
+sixty records, selected at random, whose item name carries a date between 1930 and 1959.
+Fifty-nine of the sixty records — 98 percent — carry at least one newspaper or trade press page
+image.<sup id="r5"><a href="#n5">5</a></sup> The evidence required is nearly always present for the years in which the American newspaper radio log was a daily feature, the evidence the method requires is almost invariably available.]]></p>
+      <p audience="voa"><![CDATA[**Earlier dates persist alongside corrected dates.** Of the 259,915 records, 44,566 carry a
+date in the item name, in the form `YYYY-MM-DD`, transmitted from the file name of a source
+collection. Two records in a random sample of forty date-carrying names taken from the whole collection —
+5 percent — carry a name date inconsistent with the broadcast date the record itself
+specifies. One record in sixty was inconsistent within the 1930 to 1959 interval.<sup id="r6"><a href="#n6">6</a></sup> Both samples are small, and the
+proportions should be read only as approximate. Taken together the two samples indicate a
+residue of one to two thousand records still carrying an earlier date in the name after the
+catalog has corrected the broadcast date, and section 5.4 analyzes a single inconsistent
+record in detail.]]></p>
+      <p audience="voa"><![CDATA[**More than a quarter of the collection is undated.** In a random sample of 150 records
+taken from the whole catalog, 108 — 72 percent — carry a broadcast date, and forty-two — 28
+percent — carry none.<sup id="r7"><a href="#n7">7</a></sup> A 28 percent proportion across 259,915 records indicates approximately seventy-two thousand items held without a date.]]></p>
+      <p audience="voa"><![CDATA[The correspondence between dating and evidence within the sample of 150 records is the more
+useful result. 101 of the 108 dated records — 93.5 percent — carry at least one page image, whereas of
+the 42 undated records, **two** carry a page image. Undated records are not, as a category, records in
+which evidence was sought and not found; undated records are records no cataloger has yet
+examined. Dating a record and assembling the record's evidence, in The Archive of American Radio, constitute very nearly the same operation. The forty records in the sample carrying
+neither a date nor any evidence therefore represent work still to be undertaken, and not a
+limit on the reach of the method.]]></p>
       <p audience="awl"><![CDATA[The Archive of American Radio is a public, not-for-profit catalog of American broadcast
 recordings. The Archive of American Radio published, in September 2026, 259,915 discrete broadcast records distributed across 6,114
 programs.<sup id="r4"><a href="#n4">4</a></sup> Every broadcast record occupies
@@ -271,16 +306,18 @@ limit on the reach of the method.]]></p>
     <sec level="3">
       <title audience="voa">2.1 The same broadcast, held more than once</title>
       <title audience="awl">2.1 The same broadcast, held more than once</title>
-      <p audience="voa"><![CDATA[The published catalog shows a connected problem. The archive holds three separate records for
-Winston Churchill's speech on Anglo-American unity, which he gave at Harvard on 6 September
-1943. Two of them carry the date Monday, 6 September 1943, and six page images each. The
-third carries no date and no evidence at all.<sup id="r8"><a href="#n8">8</a></sup>]]></p>
-      <p audience="voa"><![CDATA[This is normal for a collection built from trading. The same broadcast arrives by several
-routes, and each copy carries a different amount of information. Removing the copies is
-itself a dating problem. The record without a date is a weak record whose answer the
-archive already holds, completely proved, in records it cataloged separately. Sorting out these
-groups is among the most useful work a cataloger can do, because the evidence has already
-been found.]]></p>
+      <p audience="voa"><![CDATA[The published catalog exhibits an analogous problem. The archive holds three discrete
+records for Winston Churchill's speech on Anglo-American unity, delivered at Harvard on 6 September
+1943. Two of the three records carry the date Monday, 6 September 1943, together with six page images
+each, whereas the third record carries neither a date nor any supporting
+evidence.<sup id="r8"><a href="#n8">8</a></sup>]]></p>
+      <p audience="voa"><![CDATA[Duplication of a single broadcast is normal in a collection aggregated from trading networks.
+The same broadcast arrives by several routes, and each copy carries a different volume of
+supporting documentation, so resolving the copies against each other is itself a dating
+problem. The undated Churchill record is an impoverished record whose answer The Archive of
+American Radio already holds, fully validated, in the two Churchill records cataloged
+separately. Resolving a duplicated group of records is among the most productive tasks
+available to a cataloger, precisely because the underlying evidence has already been obtained.]]></p>
       <p audience="awl"><![CDATA[The published catalog exhibits an analogous problem. The archive holds three discrete
 records for Winston Churchill's speech on Anglo-American unity, delivered at Harvard on 6 September
 1943. Two of the three records carry the date Monday, 6 September 1943, together with six page images
@@ -297,9 +334,10 @@ available to a cataloger, precisely because the underlying evidence has already 
     <sec level="2">
       <title audience="voa">3. Kinds of evidence</title>
       <title audience="awl">3. Kinds of evidence</title>
-      <p audience="voa"><![CDATA[Three kinds of evidence can fix the date of a surviving broadcast recording. They are different in
-how often they exist, in how exact they are, and in the kind of mistake each one invites. A
-method that treats them as equal will produce sure wrong answers.]]></p>
+      <p audience="voa"><![CDATA[Three categories of evidence are capable of establishing the date of a surviving broadcast
+recording. The three categories differ in frequency of survival, in precision, and in the
+characteristic error each category invites. A method treating the three categories as
+equivalent will generate erroneous conclusions carrying an appearance of certainty.]]></p>
       <p audience="awl"><![CDATA[Three categories of evidence are capable of establishing the date of a surviving broadcast
 recording. The three categories differ in frequency of survival, in precision, and in the
 characteristic error each category invites. A method treating the three categories as
@@ -308,19 +346,23 @@ equivalent will generate erroneous conclusions carrying an appearance of certain
     <sec level="3">
       <title audience="voa">3.1 Newspaper radio logs</title>
       <title audience="awl">3.1 Newspaper radio logs</title>
-      <p audience="voa"><![CDATA[This is the main kind. Large American daily newspapers printed a day-by-day radio schedule from the early 1930s, called the radio log. It listed the station, the time, and the
-program name for the coming day. These logs are the closest thing the period produced to a
-complete published record of what went on the air.]]></p>
-      <p audience="voa"><![CDATA[Four newspapers carry this method: the *New York Times*, the *Washington Post*, the
-*Chicago Daily Tribune*, and the *Los Angeles Times*. Their value comes less from any one
-of them than from the fact that they are separate. Each paper built its own log, from
-information supplied separately by networks and stations, for a different city and a
-different time zone. A program name and hour that appears in all four is confirmed in a way
-that a single listing can never be.]]></p>
-      <p audience="voa"><![CDATA[Radio logs have three weaknesses, and each one must be answered openly. First, a log records
-the *schedule* — what the network meant to broadcast — and not the *broadcast* itself. A news bulletin going out instead breaks the agreement. Second, the log went to the
-printer before the broadcast day began, so it shows an earlier deadline. Third, the logs
-are printed in very small print in narrow columns. Computers read small print badly, so mistakes enter easily.]]></p>
+      <p audience="voa"><![CDATA[The newspaper radio log constitutes the primary category. The major American daily newspapers printed, from the early 1930s onward, a day-by-day radio schedule, designated the radio
+log. The radio log specified the station, the hour, and the program name for the subsequent
+broadcast day. Newspaper radio logs approximate, more closely than any other published
+series, a complete contemporary record of American broadcast transmission.]]></p>
+      <p audience="voa"><![CDATA[Four newspapers sustain the method: the *New York Times*, the *Washington Post*, the *Chicago
+Daily Tribune*, and the *Los Angeles Times*. The value of the four newspapers derives less
+from the authority of any individual newspaper than from the mutual independence of the four
+newspapers. Each newspaper compiled a radio log from information supplied separately by
+networks and stations, for a distinct city within a distinct time zone. A program name and
+hour printed in all four newspapers is corroborated in a manner no individual listing can
+achieve.]]></p>
+      <p audience="voa"><![CDATA[Newspaper radio logs exhibit three weaknesses, and each weakness requires an explicit
+response. First, a radio log documents the *schedule* — the transmission a network intended —
+and not the *broadcast*. A news bulletin displacing the scheduled program separates the radio log and the broadcast diverge. Second, the radio log went to press before the broadcast day
+commenced, so the radio log reflects an earlier deadline. Third, newspaper radio logs were
+printed in very small type within narrow columns. Automated text recognition performs poorly
+on small type, so transcription errors enter the evidence readily.]]></p>
       <p audience="awl"><![CDATA[The newspaper radio log constitutes the primary category. The major American daily newspapers printed, from the early 1930s onward, a day-by-day radio schedule, designated the radio
 log. The radio log specified the station, the hour, and the program name for the subsequent
 broadcast day. Newspaper radio logs approximate, more closely than any other published
@@ -342,12 +384,15 @@ on small type, so transcription errors enter the evidence readily.]]></p>
     <sec level="3">
       <title audience="voa">3.2 Trade magazines</title>
       <title audience="awl">3.2 Trade magazines</title>
-      <p audience="voa"><![CDATA[*Broadcasting*, the industry's weekly magazine, and magazines like it, recorded changes to
-schedules, advertiser assignments, network line-ups, and special events. They give a kind
-of detail the daily newspapers never tried to give. Trade coverage is weekly, not daily, so
-it covers fewer dates. But it is much richer in the detail that separates one broadcast
-from another inside a run. It is the natural second source when a newspaper log proves that
-a program aired, but not which episode aired.]]></p>
+      <p audience="voa"><![CDATA[*Broadcasting*, the weekly periodical of the American broadcasting industry, together with
+comparable weekly periodicals, documented schedule alterations, advertiser assignments,
+network line-ups, and special events. Trade periodicals supply a category of detail the daily
+newspapers never attempted to supply. Trade coverage appears weekly rather than daily, and
+trade coverage therefore addresses a smaller proportion of individual dates. Trade coverage
+is, however, substantially richer in precisely the detail distinguishing a single broadcast
+from an adjacent broadcast within a program's run. Trade coverage constitutes the natural
+secondary source wherever a newspaper radio log establishes the transmission of a program
+without establishing which episode was transmitted.]]></p>
       <p audience="awl"><![CDATA[*Broadcasting*, the weekly periodical of the American broadcasting industry, together with
 comparable weekly periodicals, documented schedule alterations, advertiser assignments,
 network line-ups, and special events. Trade periodicals supply a category of detail the daily
@@ -361,15 +406,18 @@ without establishing which episode was transmitted.]]></p>
     <sec level="3">
       <title audience="voa">3.3 Evidence inside the recording</title>
       <title audience="awl">3.3 Evidence inside the recording</title>
-      <p audience="voa"><![CDATA[The recording itself contains information that can be dated. A note to the news sets an
-earliest possible date. An advertiser's words, and the special campaign named in them,
-can be placed inside a season. The announcer's name, the network's words, and the wording
-of station identification all changed over time, and those changes can be dated. A broadcast sometimes names a current event. It may give an election result, a war report, or the
-result of a game. The recording can then often be placed to the exact day from what it says. No outside listing is needed.]]></p>
-      <p audience="voa"><![CDATA[This is the only kind of evidence that speaks to the *broadcast* rather than the schedule.
-So it decides the question when the two do not agree. It is also the kind most easily mixed up
-by a later repeat, a later copy, or an Armed Forces Radio Service reissue of the same
-program.]]></p>
+      <p audience="voa"><![CDATA[A recording contains internal information capable of supporting a date. A reference to the
+news establishes an earliest possible date. An advertiser's copy, together with the campaign
+identified in the copy, can be located within a commercial season. The announcer's name, the
+network's formal wording, and the wording of station identification all altered over time,
+and every alteration is datable. A broadcast occasionally names a current event, reporting an
+election result, a war dispatch, or the outcome of a sporting contest. A named current event frequently locates the recording to the exact day from the recording's own
+content, and no external listing is required.]]></p>
+      <p audience="voa"><![CDATA[Evidence internal to a recording is the only category speaking to the *broadcast* rather than
+to the schedule. Evidence internal to a recording therefore adjudicates the question wherever
+a newspaper radio log and a recording diverge. Evidence internal to a recording is also the
+category most readily confounded by a subsequent repeat, a subsequent copy, or an Armed
+Forces Radio Service reissue of the same program.]]></p>
       <p audience="awl"><![CDATA[A recording contains internal information capable of supporting a date. A reference to the
 news establishes an earliest possible date. An advertiser's copy, together with the campaign
 identified in the copy, can be located within a commercial season. The announcer's name, the
@@ -384,62 +432,46 @@ category most readily confounded by a subsequent repeat, a subsequent copy, or a
 Forces Radio Service reissue of the same program.]]></p>
     </sec>
     <sec level="2">
-      <title audience="voa">4. The procedure, and the strength of evidence</title>
+      <title audience="voa">4. The method</title>
       <title audience="awl">4. The method</title>
-      <p audience="voa"><![CDATA[The procedure below is written so a reader can follow the same steps. It begins with a
-recording and whatever information arrived with it. It ends with a date, a mark showing how
-strong the evidence is, and the citations that support both.]]></p>
-      <p audience="voa"><![CDATA[**Step 1 — Set the date that came with it aside.** Write down the date that arrived with the item.
-Note where it came from: the file name, an index from the source collection, or an earlier
-catalog. Mark it as not tested. Do not use it as evidence at any later step. People leave out this
-step more than any other, and leaving out it is what turns a chosen date into a seeming fact. A
-cataloger who starts from the passed-along date will find support for it, because the search
-has become a search for support.]]></p>
-      <p audience="voa"><![CDATA[**Step 2 — Identify the program and its usual time.** Find the program, and from published
-schedules across its run, find its usual day and hour. This narrows the possible dates. It
-never proves one by itself. Section 5.4 shows two possible dates, seven years from each other, that
-both fit the program's usual time.]]></p>
-      <p audience="voa"><![CDATA[**Step 3 — Get possible dates from the recording itself.** Listen for content that can be
-dated: notes to the news, advertising campaigns, the announcer's name, network
-words, station identification, and any spoken date. References to the news give the
-strongest limit, often to the exact week. Record each one as a range, not as a single date.]]></p>
-      <p audience="voa"><![CDATA[**Step 4 — Test each possible date against the radio logs.** For every possible date, read
-the radio log of each of the four newspapers for that date and city. Write down each agree with
-as the newspaper, the date, and the kind of listing. A date that survives in two or more
-separately produced logs is confirmed. A date that survives in only one is supported.]]></p>
-      <p audience="voa"><![CDATA[**Step 5 — Check the trade magazines.** Read *Broadcasting* for the same week, for
-schedule changes, advertiser assignments, and special events. Trade evidence is what
-separates one broadcast from another inside a run, when the daily logs give only the
-program name.]]></p>
-      <p audience="voa"><![CDATA[**Step 6 — Test for a repeat or a reissue.** Before you assign the date, ask if the
-recording is an Armed Forces Radio Service reissue, a regional repeat, or a later copy of
-the same program. Evidence inside the recording decides this. Whether advertising is there or not is often enough, because reissues for the armed forces had the advertising
-removed. A recording that agrees with a listing has not thereby been shown to be the broadcast
-that listing describes.]]></p>
-      <p audience="voa"><![CDATA[**Step 7 — Mark the strength, and cite the sources.** Give the record the strongest mark
-the evidence supports. Cite every listing you used. Say so where the date is an estimate, explain the reasoning, and give a range instead of a single day.]]></p>
-      <p audience="voa"><![CDATA[**Step 8 — Compare with the other copies.** Where the collection holds other records of the
-same broadcast, settle them together. A record without a date takes the *evidence* of a
-confirmed record, not simply its answer. See section 2.1.]]></p>
-      <p audience="voa"><![CDATA[The procedure produces a date together with a mark for the strength of its evidence. The
-marks are:]]></p>
-      <p audience="voa"><![CDATA[**Mark A — Confirmed.** Two or more separate published listings from the time support the
-date, and nothing inside the recording contradicts them. The listings must be separate: two
-newspapers printing the same network schedule are one source, not two.]]></p>
-      <p audience="voa"><![CDATA[**Mark B — Supported.** One published listing from the time supports the date, and nothing
-inside the recording contradicts it.]]></p>
-      <p audience="voa"><![CDATA[**Mark C — Reasoned.** No listing states the date directly. But it follows from evidence
-inside the recording together with the program's known schedule. For example, a word about the news fixes the week, and the program is known to have aired on Tuesday evenings.]]></p>
-      <p audience="voa"><![CDATA[**Mark D — Estimated.** A limited estimate, given as a range and not as a single day, with
-the reasoning stated. As ARSC says, an explained estimate is better than no information.]]></p>
-      <p audience="voa"><![CDATA[**Mark E — Inherited, not tested.** A date carried forward from a source collection that the
-archive has not yet tested against published evidence. This mark exists so that not tested
-dates stay visible as not tested, instead of quietly becoming facts. It is the mark that
-cataloging work moves records up from.]]></p>
-      <p audience="voa"><![CDATA[The most important feature of this system is simply that Mark E can be recorded at all. A
-system in which every date is only a date cannot show the difference between a date the
-archive has proved and a date it has only received. Such a system will give a false picture of its
-own evidence, no matter how careful the work behind it has been.]]></p>
+      <p audience="voa"><![CDATA[The method is one sentence. Ignore the date on the file, work out roughly which week the
+recording is from, look that week up in the newspaper radio listings, and count how many of
+the four newspapers list it. The count is the strength of the date.]]></p>
+      <p audience="voa"><![CDATA[The rest of this section explains why each step is needed.]]></p>
+      <p audience="voa"><![CDATA[**Ignore the date on the file.** A date in a file name was written by someone the cataloguer
+cannot question. Beginning from that date changes the shape of the work: the question stops
+being which night the broadcast went out, and becomes whether the handed-down date can be
+kept. A cataloguer who asks the second question will nearly always find an answer, because a
+plausible date carries a plausible story with it. Write the date down, record where it came
+from, and set it aside until the end.]]></p>
+      <p audience="voa"><![CDATA[**Work out roughly when the recording was made.** Listen to the recording. A war report, an
+election result, a sports score, or a joke about the news will often fix the week. Advertising
+helps, because campaigns ran in seasons. The announcer helps, and so does the wording of the
+station identification, which changed across the years. None of this yields a single day. It
+yields a window, and a window is enough to begin searching.]]></p>
+      <p audience="voa"><![CDATA[**Look that week up in the newspaper radio listings.** Every large American daily printed the
+next day's radio schedule: station, time, and programme. Four papers carry the method — the
+*New York Times*, the *Washington Post*, the *Chicago Daily Tribune*, and the *Los Angeles
+Times*. Read the listings for each candidate date in each of the four papers.]]></p>
+      <p audience="voa"><![CDATA[**Count the papers that list the programme at the same hour.** The count is the answer, and
+the count becomes the mark on the record:]]></p>
+      <list audience="voa"><![CDATA[- **A** — two or more newspapers list the broadcast
+- **B** — one newspaper lists the broadcast
+- **C** — no newspaper lists the broadcast, but the recording and the programme's known
+  schedule point to the same date
+- **D** — an estimate, given as a range, with the reasoning written down
+- **E** — the date came with the file and nobody has checked it]]></list>
+      <p audience="voa"><![CDATA[Counting works because the four papers are independent. Each built its listings in its own
+city and its own time zone, from copy the networks supplied to each paper separately. Four
+papers in agreement are four compilers who never spoke to each other reaching the same result.
+That independence is why two listings, and not one, is the threshold for Mark A.]]></p>
+      <p audience="voa"><![CDATA[**Mark E carries the argument.** A catalogue with no way to record "nobody has checked this"
+will turn a stranger's guess into a fact, and will do so silently. Section 5.4 is exactly that
+case: 13 February 1955 never had evidence behind it. It had repetition behind it.]]></p>
+      <p audience="voa"><![CDATA[Two cautions. Two papers printing the same network schedule are one source and not two,
+because the network wrote the schedule once. And a recording that fits a listing may still be
+a later repeat, so check whether the advertising has been cut out, which is what the Armed
+Forces Radio Service did when it reissued a programme.]]></p>
       <p audience="awl"><![CDATA[The method is one sentence. Ignore the date on the file, work out roughly which week the
 recording is from, look that week up in the newspaper radio listings, and count how many of
 the four newspapers list it. The count is the strength of the date.]]></p>
@@ -484,17 +516,20 @@ Forces Radio Service did when it reissued a programme.]]></p>
       <title audience="awl">5. Examples</title>
     </sec>
     <sec level="3">
-      <title audience="voa">5.1 A broadcast with a great deal of evidence: 1 September 1939</title>
+      <title audience="voa">5.1 A broadcast supported by abundant evidence: 1 September 1939</title>
       <title audience="awl">5.1 A broadcast supported by abundant evidence: 1 September 1939</title>
-      <p audience="voa"><![CDATA[The BBC announcer Alvar Lidell reported the German invasion of Poland. The archive holds
-the report as a recording of forty-five seconds.<sup id="r9"><a href="#n9">9</a></sup> The catalog record
-carries ten separate page images. They include radio logs from the *Chicago Daily Tribune*,
-the *New York Times*, and the *Los Angeles Times*. They also include two different listings
-from the *Washington Post*. All of these are for Friday 1 September 1939. The matching issue
-of *Broadcasting* completes the set.<sup id="r10"><a href="#n10">10</a></sup>]]></p>
-      <p audience="voa"><![CDATA[This is a Mark A date by a wide margin. It shows the best the method can do. A broadcast
-that mattered around the world, on a day that mattered around the world, is listed
-everywhere, and confirming it is easy.]]></p>
+      <p audience="voa"><![CDATA[The BBC announcer Alvar Lidell reported the German invasion of Poland. The Archive of
+American Radio holds the Alvar Lidell report as a recording of forty-five
+seconds.<sup id="r9"><a href="#n9">9</a></sup> The catalog record for the Alvar Lidell report
+carries ten separate page images. The ten page images comprise newspaper radio logs from the
+*Chicago Daily Tribune*, the *New York Times*, and the *Los Angeles Times*, together with two
+distinct listings from the *Washington Post*. Every listing is dated Friday, 1 September
+1939. The corresponding issue of *Broadcasting* completes the
+set.<sup id="r10"><a href="#n10">10</a></sup>]]></p>
+      <p audience="voa"><![CDATA[The Alvar Lidell date constitutes a Mark A date by a wide margin. The Alvar Lidell record
+demonstrates the maximum the method is able to achieve. A broadcast of global significance,
+transmitted on a day of global significance, is listed universally, and confirmation of the
+date is correspondingly straightforward.]]></p>
       <p audience="awl"><![CDATA[The BBC announcer Alvar Lidell reported the German invasion of Poland. The Archive of
 American Radio holds the Alvar Lidell report as a recording of forty-five
 seconds.<sup id="r9"><a href="#n9">9</a></sup> The catalog record for the Alvar Lidell report
@@ -511,12 +546,14 @@ date is correspondingly straightforward.]]></p>
     <sec level="3">
       <title audience="voa">5.2 The same day, a different recording</title>
       <title audience="awl">5.2 The same day, a different recording</title>
-      <p audience="voa"><![CDATA[The archive catalogs Ignacy Jan Paderewski's speech about the coming German invasion
-separately, on the same day. It rests on the same group of evidence: a *Chicago Daily
-Tribune* radio log for Friday 1 September 1939, and the same issue of
-*Broadcasting*.<sup id="r11"><a href="#n11">11</a></sup> The two is useful for what it shows about method.
-One group of listings for one day can support several separate broadcast records. The part
-of evidence is the printed page, not the recording.]]></p>
+      <p audience="voa"><![CDATA[The Archive of American Radio catalogs Ignacy Jan Paderewski's speech concerning the
+impending German invasion separately, on the identical day. The Paderewski record rests on
+the same aggregate of evidence: a *Chicago Daily Tribune* radio log for Friday, 1 September
+1939, together with the corresponding issue of
+*Broadcasting*.<sup id="r11"><a href="#n11">11</a></sup> The Alvar Lidell record and the
+Paderewski record are instructive in combination for what the two records demonstrate about
+method. A single aggregate of listings for a single day is capable of supporting several
+distinct broadcast records. The unit of evidence is the printed page, and not the recording.]]></p>
       <p audience="awl"><![CDATA[The Archive of American Radio catalogs Ignacy Jan Paderewski's speech concerning the
 impending German invasion separately, on the identical day. The Paderewski record rests on
 the same aggregate of evidence: a *Chicago Daily Tribune* radio log for Friday, 1 September
@@ -527,14 +564,16 @@ method. A single aggregate of listings for a single day is capable of supporting
 distinct broadcast records. The unit of evidence is the printed page, and not the recording.]]></p>
     </sec>
     <sec level="3">
-      <title audience="voa">5.3 A broadcast with little evidence: 1932</title>
+      <title audience="voa">5.3 A broadcast supported by sparse evidence: 1932</title>
       <title audience="awl">5.3 A broadcast supported by sparse evidence: 1932</title>
-      <p audience="voa"><![CDATA[Now compare a recording from 1932. The archive's record for Franz von Papen's speech as
-chancellor, on 13 August 1932, carries three page images. They come from the *New York
-Times* and the *Washington Post* only.<sup id="r12"><a href="#n12">12</a></sup> The *Chicago Daily Tribune*
-and *Los Angeles Times* listings that support the 1939 records are missing. The date is
-supported, but the confirmation behind it is much less. A system that reported both
-records the same way would give a false picture of the second one.]]></p>
+      <p audience="voa"><![CDATA[Consider, by contrast, a recording from 1932. The record for Franz von Papen's speech as
+chancellor, delivered on 13 August 1932, carries three page images, and the three page images
+derive from the *New York Times* and the *Washington Post*
+alone.<sup id="r12"><a href="#n12">12</a></sup> The *Chicago Daily Tribune* listing and the
+*Los Angeles Times* listing supporting the 1939 records are absent. The von Papen date is
+supported, but the corroboration behind the von Papen date is substantially weaker. A
+framework reporting the Alvar Lidell record and the von Papen record in an identical form
+would misrepresent the von Papen record.]]></p>
       <p audience="awl"><![CDATA[Consider, by contrast, a recording from 1932. The record for Franz von Papen's speech as
 chancellor, delivered on 13 August 1932, carries three page images, and the three page images
 derive from the *New York Times* and the *Washington Post*
@@ -545,32 +584,40 @@ framework reporting the Alvar Lidell record and the von Papen record in an ident
 would misrepresent the von Papen record.]]></p>
     </sec>
     <sec level="3">
-      <title audience="voa">5.4 A case that corrects a passed-along date by seven years</title>
+      <title audience="voa">5.4 A case correcting a transmitted date by seven years</title>
       <title audience="awl">5.4 A case correcting a transmitted date by seven years</title>
-      <p audience="voa"><![CDATA[The value of the method lies in correction, not in repetition. A clear case is the
-*Greatest Story Ever Told* episode "They Did Not Receive Him."]]></p>
-      <p audience="voa"><![CDATA[The recording is traded under a file name holding the date 13 February 1955. That date also
-survives in the archive's own item name, passed along from the source collection. But the
-archive's catalog record gives the broadcast date as **Sunday, 29 February 1948** — an error
-of almost seven years in the traded date.<sup id="r13"><a href="#n13">13</a></sup>]]></p>
-      <p audience="voa"><![CDATA[Six separate listings from the time support the 1948 date. They are radio logs in the *New
-York Times*, the *Washington Post*, the *Los Angeles Times*, and the *Chicago Daily Tribune*.
-A separate "Radio Highlights" item in the *Chicago Daily Tribune* is the fifth. The matching
-issue of *Broadcasting* is the sixth. All are for Sunday, 29 February 1948.<sup id="r14"><a href="#n14">14</a></sup>
-This is a Mark A date.]]></p>
-      <p audience="voa"><![CDATA[Two features make the case worth studying.]]></p>
-      <p audience="voa"><![CDATA[First, **the day of the week cannot settle it.** *Greatest Story Ever Told* was a Sunday
-program, and both possible dates fall on a Sunday. Both 13 February 1955 and 29 February
-1948 were Sundays. A method that relied on the program's known day would have accepted the passed-along date without trouble. Only the supporting listings separate the two. This is the
-reason for requiring published evidence instead of reasoning from the schedule.]]></p>
+      <p audience="voa"><![CDATA[The value of the method resides in correction, and not in the confirmation of an already
+accepted answer. A clear instance is the *Greatest Story Ever Told* episode "They Did Not
+Receive Him."]]></p>
+      <p audience="voa"><![CDATA[The recording circulates under a file name carrying the date 13 February 1955. The 1955 date
+also survives in the item name within The Archive of American Radio, transmitted from the
+source collection. The catalog record, however, specifies the broadcast date as **Sunday, 29
+February 1948** — an error of almost seven years in the traded
+date.<sup id="r13"><a href="#n13">13</a></sup>]]></p>
+      <p audience="voa"><![CDATA[Six independent contemporary listings support the 1948 date. The six listings comprise
+newspaper radio logs in the *New York Times*, the *Washington Post*, the *Los Angeles Times*,
+and the *Chicago Daily Tribune*. A separate "Radio Highlights" item in the *Chicago Daily
+Tribune* constitutes the fifth listing, and the corresponding issue of *Broadcasting*
+constitutes the sixth listing. All six listings are dated Sunday, 29 February
+1948.<sup id="r14"><a href="#n14">14</a></sup> The date for the episode is therefore a Mark A
+date.]]></p>
+      <p audience="voa"><![CDATA[Two features render the *Greatest Story Ever Told* case worth extended analysis.]]></p>
+      <p audience="voa"><![CDATA[First, **the day of the week cannot resolve the case.** *Greatest Story Ever Told* was a
+Sunday program, and both candidate dates fall on a Sunday. 13 February 1955 and 29 February
+1948 were both Sundays. A method resting on a program's established weekday would have
+accepted the transmitted date without difficulty. Only the six supporting listings
+discriminate between the two candidate dates. The *Greatest Story Ever Told* case therefore
+constitutes the argument for requiring published evidence in place of inference from a
+schedule.]]></p>
       <p audience="voa"><![CDATA[Second, **the correct date is a leap day.** 29 February 1948 exists only because 1948 was a
-leap year. Leap days are a known source of passed along error. A cataloger putting a date back together from a damaged or partial file name will usually to change an strange 02-29 into a date
-that looks usual. The error here runs in exactly the direction that explanation
-predicts.]]></p>
-      <p audience="voa"><![CDATA[The archive's own citation for this record already points to a web address without the wrong
-date in it. So the corrected date is what the catalog states and cites. The old 1955 text
-survives only in the item name — which is itself an example of the file-name problem
-described in section 1, now repeated inside a catalog that has otherwise corrected it.]]></p>
+leap year. Leap days are an established source of transmitted error. A cataloger
+reconstructing a date from a damaged or partial file name will ordinarily convert an
+anomalous 02-29 into a date of conventional appearance. The error within the *Greatest Story
+Ever Told* record runs in exactly the direction a leap day predicts.]]></p>
+      <p audience="voa"><![CDATA[The citation within The Archive of American Radio already resolves to an address free of the
+erroneous date, so the corrected date is the date the catalog states and cites. The 1955 text
+survives only within the item name — an instance of the file name problem specified in
+section 1, now reproduced inside a catalog having otherwise corrected the broadcast date.]]></p>
       <p audience="awl"><![CDATA[The value of the method resides in correction, and not in the confirmation of an already
 accepted answer. A clear instance is the *Greatest Story Ever Told* episode "They Did Not
 Receive Him."]]></p>
@@ -605,12 +652,15 @@ survives only within the item name — an instance of the file name problem spec
 section 1, now reproduced inside a catalog having otherwise corrected the broadcast date.]]></p>
     </sec>
     <sec level="2">
-      <title audience="voa">6. The evidence is not equally thick across the period</title>
+      <title audience="voa">6. Evidence density across the period</title>
       <title audience="awl">6. Evidence density across the period</title>
-      <p audience="voa"><![CDATA[The three examples above suggest a way, and the way can be measured. The archive
-holds fourteen cataloged broadcasts from one news program, covering 1932 to 1939. The number of separate page images attached to a record rises strongly with the year of the broadcast. The correlation is 0.899 across fourteen records.<sup id="r15"><a href="#n15">15</a></sup> The
-average number of page images by year:]]></p>
-      <table audience="voa"><![CDATA[| Broadcast year | Average page images | Records |
+      <p audience="voa"><![CDATA[The three examples analyzed above suggest a distribution, and the distribution is measurable.
+The Archive of American Radio holds fourteen cataloged broadcasts drawn from a single news
+program, covering 1932 to 1939. The number of distinct page images attached to a record, across the fourteen broadcasts, increases strongly with the year of the broadcast, and the
+correlation is 0.899 across fourteen
+records.<sup id="r15"><a href="#n15">15</a></sup> The mean number of page images by year is
+set out below.]]></p>
+      <table audience="voa"><![CDATA[| Broadcast year | Mean page images | Records |
 |---:|---:|---:|
 | 1932 | 3.0 | 3 |
 | 1933 | 4.0 | 3 |
@@ -618,17 +668,21 @@ average number of page images by year:]]></p>
 | 1936 | 6.0 | 1 |
 | 1937 | 5.0 | 1 |
 | 1939 | 7.8 | 5 |]]></table>
-      <p audience="voa"><![CDATA[Two reasons are possible, and these measurements cannot separate them. The first is
-that newspaper radio logs really did grow across the 1930s, as radio became a mass medium
-and the log grew from a new thing into a fixed daily feature. The second is that the archive's
-own collecting of newspaper images is simply more complete for the later 1930s. The shape describes the archive and not the period if the second explanation is right.]]></p>
-      <p audience="voa"><![CDATA[The difference matters for how the marks should be read. Under the first explanation, a Mark
-B date from 1932 is as strong as the evidence of 1932 lets. The same date is only a record the archive has not finished working on under the second. Telling them from each other would require looking at a
-newspaper index that is independent of the archive's own holdings. That has not been done.]]></p>
-      <p audience="voa"><![CDATA[The finding is limited in another way as well. It rests on fourteen records, all from a
-single program of international news. That is exactly the kind of program most likely to
-appear in every city's radio log. A general statement about the whole collection would need
-a sample spread across program kinds and networks.]]></p>
+      <p audience="voa"><![CDATA[Two explanations are available, and the measurements are not capable of discriminating
+between the two explanations. The first explanation is that newspaper radio logs genuinely
+expanded across the 1930s, as radio became a mass medium and the radio log developed from a
+novelty into an established daily feature. The second explanation is that the collection of
+newspaper page images by The Archive of American Radio is simply more complete for the later
+1930s. The distribution describes the archive rather than the period under the second explanation.]]></p>
+      <p audience="voa"><![CDATA[The distinction between the two explanations is significant for the interpretation of the
+marks. A Mark B date from 1932 is, under the first explanation, as strong as the evidence
+surviving from 1932 permits. A Mark B date from 1932 is, under the second explanation, merely a record The Archive of American Radio has not finished processing. Discriminating between
+the two explanations would require a newspaper index independent of the archive's own
+holdings, and no independent index has been consulted.]]></p>
+      <p audience="voa"><![CDATA[The finding is limited in a further respect. The finding rests on fourteen records, all drawn
+from a single program of international news, and international news is precisely the category
+of program most likely to appear in every city's radio log. A general claim about the whole
+collection would require a sample distributed across program categories and networks.]]></p>
       <p audience="awl"><![CDATA[The three examples analyzed above suggest a distribution, and the distribution is measurable.
 The Archive of American Radio holds fourteen cataloged broadcasts drawn from a single news
 program, covering 1932 to 1939. The number of distinct page images attached to a record, across the fourteen broadcasts, increases strongly with the year of the broadcast, and the
@@ -662,20 +716,25 @@ collection would require a sample distributed across program categories and netw
     <sec level="2">
       <title audience="voa">7. Limits</title>
       <title audience="awl">7. Limits</title>
-      <p audience="voa"><![CDATA[**A schedule is not a broadcast.** Every date this method takes from a newspaper proves what
-was scheduled. Programs were pulled, above all during news events — and news events are
-exactly when this collection is richest and this reasoning is weakest.]]></p>
-      <p audience="voa"><![CDATA[**Repeats and reissues.** A recording that agrees with a listing may be an Armed Forces Radio
-Service reissue, a regional repeat, or a later copy of the same program. Only evidence
-inside the recording can tell the difference, and it is not always present.]]></p>
-      <p audience="voa"><![CDATA[**Text reading errors.** Radio logs are printed in dense, small kind. Computers read
-them badly. A mistake in the evidence passes with no sign into the catalog.]]></p>
-      <p audience="voa"><![CDATA[**Small samples.** The finding in section 6 rests on fourteen records from one program. The
-collection-wide numbers in section 2 come from the published catalog, and completing them
-needs the archive's own cataloging history.]]></p>
-      <p audience="voa"><![CDATA[**Copying the evidence.** For this period, the newspaper pages that provide the evidence are
-still under copyright. This paper cites listings by newspaper, date, and kind of listing. It
-does not copy the pages.<sup id="r16"><a href="#n16">16</a></sup>]]></p>
+      <p audience="voa"><![CDATA[**A schedule is not a broadcast.** Every date the method derives from a newspaper establishes
+the scheduled transmission. Programs were displaced, above all during news events, and news
+events are precisely the occasions on which the collection is richest and the inference
+weakest.]]></p>
+      <p audience="voa"><![CDATA[**Repeats and reissues.** A recording consistent with a listing may constitute an Armed
+Forces Radio Service reissue, a regional repeat, or a subsequent copy of the same program.
+Only evidence internal to the recording is capable of distinguishing a reissue from an
+original transmission, and evidence internal to the recording is not invariably present.]]></p>
+      <p audience="voa"><![CDATA[**Automated transcription errors.** Newspaper radio logs were printed in dense, small type,
+and automated text recognition performs poorly on dense, small type. An error within the
+evidence passes into the catalog without any indication.]]></p>
+      <p audience="voa"><![CDATA[**Small samples.** The finding in section 6 rests on fourteen records drawn from a single
+program. The collection-wide proportions in section 2 derive from the published catalog, and
+completing the proportions requires the cataloging history held internally by The Archive of
+American Radio.]]></p>
+      <p audience="voa"><![CDATA[**Reproduction of the evidence.** For the classic period of American radio, the newspaper
+pages supplying the evidence remain under copyright. The present paper cites listings by
+newspaper, date, and category of listing, and the present paper does not reproduce the
+newspaper pages.<sup id="r16"><a href="#n16">16</a></sup>]]></p>
       <p audience="awl"><![CDATA[**A schedule is not a broadcast.** Every date the method derives from a newspaper establishes
 the scheduled transmission. Programs were displaced, above all during news events, and news
 events are precisely the occasions on which the collection is richest and the inference
@@ -699,28 +758,33 @@ newspaper pages.<sup id="r16"><a href="#n16">16</a></sup>]]></p>
     <sec level="2">
       <title audience="voa">8. Publishing the reasoning, not only the answer</title>
       <title audience="awl">8. Publishing the reasoning, not only the answer</title>
-      <p audience="voa"><![CDATA[A mark for the strength of evidence solves nothing if it lives only in a cataloger's private
-notes. The failure described in section 1 is exactly that careful decisions flatten into
-simple claims as they pass from person to person. The mark must be published with the record to survive the trading networks that will pass this material on, and attached
-to it firmly.]]></p>
-      <p audience="voa"><![CDATA[Three rules follow. The archive described here follows all three.]]></p>
-      <p audience="voa"><![CDATA[**The citation belongs to the record, not to a report.** Each broadcast record carries its
-formatted citation and its list of supporting listings beside the date itself, at the same
-address. A reader who reaches the record reaches its evidence. This is what makes the
-undated copy in section 2.1 visible as a problem instead of invisible: two records state a
-date with six listings each, a third states nothing, and anyone can see the difference.]]></p>
-      <p audience="voa"><![CDATA[**The name must not carry a competing claim.** Section 5.4 is a warning. The catalog holds
-the corrected date, cites six listings for it, and points its citation at an address without
-the wrong date. Yet the item name still reads `1955-02-13`, and that text is what another
-system reading web addresses will collect. A name that contains a date makes a claim,
-if or not anyone meant it to. The estimate in section 2 suggests one to two thousand
-records are in this state. Dates belong in fields, not in names.]]></p>
-      <p audience="voa"><![CDATA[**Missing information must be recordable.** Twenty-eight percent of the collection has no
-date, and the catalog says so rather than supplying a likely year. This is the same
-rule ARSC asks of discographers in the passage quoted in section 1. The other choice, for a date with no support, is not an empty space to fill in. It is a clear statement that
-the question is still open. Mark E holds that statement. The number of two in forty-two —
-records without dates almost never carrying page images — is what makes it useful, because
-it identifies the undated records as work waiting to be done.]]></p>
+      <p audience="voa"><![CDATA[A mark for the strength of evidence resolves nothing while the mark resides only in a
+cataloger's private notes. The failure specified in section 1 is precisely the flattening of
+careful decisions into bare assertions as recordings pass from collector to collector. A mark must be published with the record to survive the trading networks destined to carry American radio recordings forward, the
+mark must be published alongside the record and attached to the record durably.]]></p>
+      <p audience="voa"><![CDATA[Three requirements follow, and The Archive of American Radio implements all three
+requirements.]]></p>
+      <p audience="voa"><![CDATA[**The citation belongs to the record, and not to a report.** Each broadcast record carries a
+formatted citation and a list of supporting listings beside the date, at the identical web
+address. A reader reaching a broadcast record reaches the evidence for the broadcast record.
+Publishing the citation beside the date is the mechanism rendering the undated copy in
+section 2.1 immediately visible. Two records state a date supported by six page images each,
+whereas a third record states nothing, and any reader is able to perceive the difference.]]></p>
+      <p audience="voa"><![CDATA[**The item name must not carry a competing claim.** Section 5.4 constitutes a warning. The
+catalog holds the corrected date, cites six listings for the corrected date, and directs the
+citation at an address free of the erroneous date. The item name nevertheless still reads
+`1955-02-13`, and the item name is the text an automated agent reading web addresses will
+aggregate. An item name containing a date advances a claim, irrespective of the cataloger's
+intention. The estimate in section 2 indicates a residue of one to two thousand records in an
+identical state. Dates belong in fields, and not in names.]]></p>
+      <p audience="voa"><![CDATA[**Absent information must be recordable.** Twenty-eight percent of the collection carries no
+date, and the catalog states the absence rather than supplying a plausible year. The explicit
+statement of absence is the requirement the Association for Recorded Sound Collections
+imposes on discographers in the passage quoted in section 1. The alternative, for a date lacking support, is not an empty space awaiting completion. The alternative is an explicit
+statement that the question remains open, and Mark E carries the statement. The proportion of
+two in forty-two — undated records almost never carrying page images — is the measurement
+rendering Mark E useful, because the proportion identifies undated records as work awaiting
+completion.]]></p>
       <p audience="awl"><![CDATA[A mark for the strength of evidence resolves nothing while the mark resides only in a
 cataloger's private notes. The failure specified in section 1 is precisely the flattening of
 careful decisions into bare assertions as recordings pass from collector to collector. A mark must be published with the record to survive the trading networks destined to carry American radio recordings forward, the
@@ -752,15 +816,17 @@ completion.]]></p>
     <sec level="2">
       <title audience="voa">9. Conclusion</title>
       <title audience="awl">9. Conclusion</title>
-      <p audience="voa"><![CDATA[The dating problem in old-time radio is not mainly a problem of missing evidence. The
-evidence largely exists. It sits in the radio logs of four large daily newspapers and in the
-trade press, and most of it is now on computers. The problem is that the information kept
-with these recordings has no way to show the difference between a date proved against that
-evidence and a date passed along without it. So the two can no longer be told from each other.]]></p>
-      <p audience="voa"><![CDATA[The answer offered here is simple. Attach a mark for the strength of evidence to every date.
-Keep a visible category for dates that were passed along and never tested. Cite the exact
-published listing behind every confirmed date. Applied across 259,915 records, this turns a
-trading collection into one that scholars can cite.]]></p>
+      <p audience="voa"><![CDATA[The dating problem in American radio is not principally a problem of absent evidence, because
+the evidence largely survives. The evidence resides in the newspaper radio logs of four major
+daily newspapers and in the trade press, and the greater proportion of the evidence is now
+available in digital form. The problem is that the documentation accompanying American radio
+recordings possesses no mechanism for expressing the difference between a date validated
+against contemporary published evidence and a date transmitted without evidence. A validated
+date and a transmitted date are consequently no longer distinguishable from each other.]]></p>
+      <p audience="voa"><![CDATA[The remedy proposed here is straightforward. Attach a mark for the strength of evidence to
+every date. Maintain a visible category for dates transmitted and never validated. Cite the
+exact published listing behind every confirmed date. Applied across 259,915 records, the
+marking framework converts a trading collection into a collection scholars are able to cite.]]></p>
       <p audience="voa"><![CDATA[---]]></p>
       <p audience="awl"><![CDATA[The dating problem in American radio is not principally a problem of absent evidence, because
 the evidence largely survives. The evidence resides in the newspaper radio logs of four major
@@ -818,10 +884,11 @@ marking framework converts a trading collection into a collection scholars are a
     <sec level="2">
       <title audience="voa">Discography</title>
       <title audience="awl">Discography</title>
-      <p audience="voa"><![CDATA[Following the Chicago Manual of Style, 18th edition, sound recordings are listed here and not
-in a bibliography. The Archive of American Radio holds these recordings. Each is cited by its
-permanent web address. The dates given are the broadcast dates established by the method in
-section 4, with the strength mark in parentheses.]]></p>
+      <p audience="voa"><![CDATA[Following the Chicago Manual of Style, 18th edition, sound recordings are listed here rather
+than in a bibliography. The Archive of American Radio holds the recordings listed below, and
+each recording is cited by the recording's permanent web address. The dates supplied are the
+broadcast dates established by the method in section 4, with the strength mark in
+parentheses.]]></p>
       <p audience="voa"><![CDATA["Alvar Liddell Reports the German Invasion of Poland." *WWII News*. Radio broadcast, 1
 September 1939 (Mark A). Radio Index.
 https://www.radioindex.org/series/wwii-news/episodes/alvar-liddell-reports-the-german-invasion-of-poland.]]></p>
@@ -836,11 +903,11 @@ https://www.radioindex.org/series/wwii-news/episodes/ignacy-jan-paderewski-on-th
       <p audience="voa"><![CDATA["They Did Not Receive Him." *Greatest Story Ever Told*. Radio broadcast, 29 February 1948
 (Mark A). Radio Index.
 https://www.radioindex.org/series/greatest-story-ever-told/episodes/they-did-not-receive-him.
-Circulates under the wrong inherited date 13 February 1955; see section 5.4.]]></p>
+Circulates under the erroneous inherited date 13 February 1955; see section 5.4.]]></p>
       <p audience="voa"><![CDATA["Winston Churchill on Anglo-American Unity." *Radio News*. Radio broadcast, 6 September 1943
 (Mark A). Radio Index.]]></p>
-      <p audience="voa"><![CDATA[The twenty *WWII News* records examined for section 6 appear with their supporting sources in
-the Appendix, and are not repeated here.]]></p>
+      <p audience="voa"><![CDATA[The twenty *WWII News* records examined for section 6 appear with the corresponding
+supporting sources in the Appendix, and are not repeated here.]]></p>
       <p audience="voa"><![CDATA[---]]></p>
       <p audience="awl"><![CDATA[Following the Chicago Manual of Style, 18th edition, sound recordings are listed here rather
 than in a bibliography. The Archive of American Radio holds the recordings listed below, and
@@ -889,46 +956,51 @@ of the bibliography.]]></p>
     <sec level="2">
       <title audience="voa">Sources for the discography</title>
       <title audience="awl">Sources for the discography</title>
-      <p audience="voa"><![CDATA[This section states the sources the method rests on, what each one covers, and where the
-coverage fails, so that a reader can follow the same steps described in section 4.]]></p>
-      <p audience="voa"><![CDATA[**Newspaper radio logs.** Four large daily newspapers carry this method: the *New York Times*
-(New York), the *Washington Post* (Washington), the *Chicago Daily Tribune* (Chicago), and the
-*Los Angeles Times* (Los Angeles). Each built its log from information supplied for its own
-city and time zone. That is why agreement between them counts as confirmation rather than
-repetition. Two kinds of listing are counted separately where a newspaper printed both: the
-daily *radio log*, which is a complete schedule, and *radio highlights*, which is a selected
-column written by an editor. The *Chicago Daily Tribune* record for 29 February 1948,
-discussed in section 5.4, provides one of each, and they count as two listings because they
-were produced separately.]]></p>
-      <p audience="voa"><![CDATA[Coverage is not even. The number of listings available for a broadcast rises across the 1930s within the archive's holdings, from an average of 3.0 in 1932 to 7.8 in 1939 in the sample
-studied (section 6). Ninety-eight percent of the cataloged broadcasts sampled for 1930 to 1959 carry at least one page image. The number is 68.7 percent across the whole collection. Almost all of that difference comes from records with no date, of which only two in
-forty-two carry any page image at all.]]></p>
-      <p audience="voa"><![CDATA[**The source of the newspaper images.** The catalog presents each newspaper listing as a
-page image, labeled with the newspaper, the city, the date, and the kind of listing. It does
-not record where the scan came from. The published version of this paper should name that
-source. It should say whether each run was read in a library newspaper database, on
-microfilm, or in a scan collection made by someone else. It should also say what is known
-about how complete that source is. Where the source is a private collection rather than a
-library, the paper should say so plainly. It should give what is known about the
-collection's history and about any rights it claims. A reader cannot follow steps whose
-starting point is unnamed, and recording it is the single most useful addition this apparatus
-still needs.]]></p>
-      <p audience="voa"><![CDATA[**Trade magazines.** *Broadcasting*, the industry weekly, is read through WorldRadioHistory,
-which the catalog names and cites as the source of the scan. Trade coverage is weekly rather
-than daily. It is used for schedule changes, advertiser assignments, network line-ups, and
-special events — that is, for separating one broadcast from another inside a run when the
-daily logs give only a program name. *Broadcasting* appears for the better documented broadcasts in the sample studied, and is missing for the thinner ones. It adds to the daily logs.
-It does not replace them.]]></p>
-      <p audience="voa"><![CDATA[**Evidence inside the recordings.** The recordings are the archive's own holdings. Each has a
-permanent web address in the form `/series/{program}/episodes/{item}`, and each carries a
-formal citation. Evidence inside a recording, where this paper cites it, means sound that can be heard in the archive's copy.]]></p>
-      <p audience="voa"><![CDATA[**The points where coverage fails.** Three failures are known, and any reader following this work should
-expect them. Radio logs record the schedule and not the broadcast, so a replaced program
-breaks the match — and that happens most often during news events, which is when this
-collection is richest. Logs went to press before the broadcast day began. And they are
-printed in dense, small type that computers read badly, so mistakes in the evidence pass
-silently into the catalog. Adding more newspapers does not fix any of these, because all four
-newspapers share them.]]></p>
+      <p audience="voa"><![CDATA[The present section specifies the sources the method depends upon, the coverage each source
+provides, and the points at which the coverage fails, so a reader is able to replicate the
+sequence of steps described in section 4.]]></p>
+      <p audience="voa"><![CDATA[**Newspaper radio logs.** Four major daily newspapers sustain the method: the *New York
+Times* (New York), the *Washington Post* (Washington), the *Chicago Daily Tribune* (Chicago),
+and the *Los Angeles Times* (Los Angeles). Each newspaper compiled a radio log from
+information supplied for the newspaper's own city and time zone. The independence of
+compilation is the reason agreement among the four newspapers constitutes corroboration
+rather than repetition. Two categories of listing are counted separately where a newspaper printed both: the daily *radio log*, a complete schedule, and *radio highlights*, a selected
+column composed by an editor. The *Chicago Daily Tribune* record for 29 February 1948,
+analyzed in section 5.4, supplies a single instance of each category, and the two items count
+as two listings because the two items were produced independently.]]></p>
+      <p audience="voa"><![CDATA[Coverage is not uniform. The number of listings available for a broadcast increases, within the archive's holdings, across the 1930s, from a mean of 3.0 in 1932 to a mean of 7.8 in 1939
+within the sample analyzed in section 6. Ninety-eight percent of the cataloged broadcasts sampled for 1930 to 1959 carry at least one page image, whereas across the whole
+collection the corresponding proportion is 68.7 percent. Almost the entire difference derives
+from records carrying no date, of which only two in forty-two carry any page image at all.]]></p>
+      <p audience="voa"><![CDATA[**The provenance of the newspaper images.** The catalog presents each newspaper listing as a
+page image, labeled with the newspaper, the city, the date, and the category of listing, and
+the catalog does not record the provenance of the scan. The published version of the present
+paper should name the provenance explicitly. The published version should specify whether
+each run was consulted in a library newspaper database, on microfilm, or within a scan
+collection assembled by a third party, and the published version should specify what is
+established about the completeness of the source. The paper should, where the source constitutes a private collection rather than a library, state the fact plainly, together with what
+is established about the collection's history and about any rights the collection asserts. A
+reader cannot replicate a sequence of steps whose starting point is unnamed, and recording
+the provenance is the single most useful addition the apparatus still requires.]]></p>
+      <p audience="voa"><![CDATA[**Trade magazines.** *Broadcasting*, the weekly periodical of the industry, is consulted
+through WorldRadioHistory, which the catalog names and cites as the source of the scan. Trade
+coverage is weekly rather than daily. Trade coverage supports schedule alterations, advertiser
+assignments, network line-ups, and special events — the category of detail distinguishing a
+single broadcast from an adjacent broadcast within a run wherever the daily newspaper radio
+logs supply only a program name. *Broadcasting* appears within the sample analyzed for the better documented broadcasts, and is absent for the sparsely documented broadcasts. Trade
+coverage supplements the daily newspaper radio logs, and trade coverage does not replace the
+daily newspaper radio logs.]]></p>
+      <p audience="voa"><![CDATA[**Evidence inside the recordings.** The recordings constitute the archive's own holdings.
+Each recording occupies a persistent address of the form `/series/{program}/episodes/{item}`,
+and each recording carries a formal citation. The citation, where the present paper cites evidence internal to a recording, refers to sound audible within the archive's copy.]]></p>
+      <p audience="voa"><![CDATA[**The points at which coverage fails.** Three failures are established, and any reader replicating the
+present work should anticipate all three failures. Newspaper radio logs document the schedule
+rather than the broadcast, so a displaced program breaks the correspondence, and displacement
+occurs most frequently during news events, precisely when the collection is richest.
+Newspaper radio logs went to press before the broadcast day commenced. And newspaper radio
+logs were printed in dense, small type, which automated text recognition reads badly, so
+errors within the evidence pass silently into the catalog. Adding further newspapers corrects
+none of the three failures, because all four newspapers share all three failures.]]></p>
       <p audience="voa"><![CDATA[---]]></p>
       <p audience="awl"><![CDATA[The present section specifies the sources the method depends upon, the coverage each source
 provides, and the points at which the coverage fails, so a reader is able to replicate the
@@ -980,13 +1052,13 @@ none of the three failures, because all four newspapers share all three failures
     <sec level="2">
       <title audience="voa">Appendix: Dated log</title>
       <title audience="awl">Appendix: Dated log</title>
-      <p audience="voa"><![CDATA[The log below covers the *WWII News* recordings examined for this paper, in order of
-broadcast date. It follows the usual form for a discography: the date, the title, the running
-time, the number of separate supporting listings, those listings by short name, and the
-strength mark from section 4.]]></p>
+      <p audience="voa"><![CDATA[The log below covers the *WWII News* recordings analyzed for the present paper, in order of
+broadcast date. The log follows the conventional form for a discography: the date, the title,
+the running time, the number of distinct supporting listings, the supporting listings by
+short name, and the strength mark from section 4.]]></p>
       <p audience="voa"><![CDATA[Short names: **NYT** *New York Times*; **WP** *Washington Post*; **CDT** *Chicago Daily
-Tribune*; **LAT** *Los Angeles Times*; **Bcstg** *Broadcasting*. Both are counted where a newspaper printed a radio log and a separate radio highlights item for the same date,
-because they were produced separately.]]></p>
+Tribune*; **LAT** *Los Angeles Times*; **Bcstg** *Broadcasting*. Both are counted where a newspaper printed a radio log and a separate radio highlights item for the identical date, both items are
+counted, because the two items were produced independently.]]></p>
       <table audience="voa"><![CDATA[| Broadcast date | Title | Running time | Listings | Supporting sources | Mark |
 |---|---|---:|---:|---|:--:|
 | 20 July 1932 | Chancellor Franz Von Papen | 4:27 | 3 | NYT, WP, LAT | A |
@@ -1009,11 +1081,12 @@ because they were produced separately.]]></p>
 | 27 Aug 1939 | Czech Ambassador Jan Masaryk in London on Polish Crisis | 3:17 | 6 | NYT, WP, CDT, LAT | A |
 | 31 Aug 1939 | Alvar Lidell Reports on German 16-Point Polish Ultimatum | 1:52 | 7 | NYT, WP, CDT, LAT | A |
 | 1 Sept 1939 | Alvar Liddell Reports the German Invasion of Poland | 0:45 | 10 | NYT, WP, CDT, LAT, Bcstg | A |]]></table>
-      <p audience="voa"><![CDATA[Every record in this log carries Mark A. Each is supported by two or more separately produced
-listings from the time. That sameness is a feature of the program sampled, not of the whole
-collection. *WWII News* is international news, the kind of program most reliably printed in
-every city's radio log. A log drawn from local daytime drama would show a very different
-spread of marks, and section 6 should be read with that in mind.]]></p>
+      <p audience="voa"><![CDATA[Every record within the log carries Mark A, and each record is supported by two or more
+independently produced contemporary listings. The uniformity is a property of the program
+sampled rather than a property of the whole collection. *WWII News* is international news,
+the category of program most reliably printed in every city's radio log. A log drawn from
+local daytime drama would exhibit a very different distribution of marks, and section 6
+should be read accordingly.]]></p>
       <p audience="awl"><![CDATA[The log below covers the *WWII News* recordings analyzed for the present paper, in order of
 broadcast date. The log follows the conventional form for a discography: the date, the title,
 the running time, the number of distinct supporting listings, the supporting listings by
