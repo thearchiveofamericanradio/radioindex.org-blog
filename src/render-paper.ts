@@ -18,6 +18,7 @@ function scholarTags(post: BlogPost, canonical: string): string {
     `<meta name="citation_publication_date" content="${year}/${month}/${day}">`,
     `<meta name="citation_technical_report_institution" content="The Archive of American Radio">`,
     `<meta name="citation_technical_report_number" content="${attr(reportNumber(post))}">`,
+    `<meta name="citation_pdf_url" content="${canonical}.pdf">`,
     `<meta name="citation_abstract_html_url" content="${canonical}">`,
     `<meta name="citation_language" content="en">`,
     `<meta name="citation_keywords" content="${attr(post.tags.join("; "))}">`,

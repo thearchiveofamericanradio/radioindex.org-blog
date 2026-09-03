@@ -5,6 +5,7 @@ import { renderPost } from "./render-post";
 import { renderPaper } from "./render-paper";
 import { renderPapers } from "./render-papers";
 import { paperFor } from "./paper-registry";
+import { PAPER_PDFS } from "./generated/paper-pdfs";
 
 const app = new Hono();
 
@@ -65,6 +66,21 @@ app.get("/posts/:slug", (c) => {
 // Browse index of every paper. Google Scholar requires one, reachable in plain
 // links, and it is what makes the paper pages crawlable at all.
 app.get("/papers", (c) => c.html(renderPapers(POSTS, SITE_META), 200, CACHE_HEADERS));
+
+// The PDF sits at the same address as the paper plus .pdf, because Scholar
+// requires citation_pdf_url to name a file in the same subdirectory as the HTML.
+// Registered before /paper/:slug so the .pdf suffix is not swallowed as a slug.
+app.get("/paper/:slug{.+\\.pdf}", (c) => {
+  const slug = c.req.param("slug").replace(/\.pdf$/, "");
+  const b64 = PAPER_PDFS[slug];
+  if (!b64 || !paperFor(slug)) return c.redirect(`/paper/${slug}`, 302);
+  const bytes = Uint8Array.from(atob(b64), (ch) => ch.charCodeAt(0));
+  return c.body(bytes, 200, {
+    "Content-Type": "application/pdf",
+    "Content-Disposition": `inline; filename="${slug}.pdf"`,
+    ...CACHE_HEADERS,
+  });
+});
 
 // Paper view. Registered before the catch-all `/:slug` so Hono matches it first.
 // An unknown slug hands off to the post route, which already owns the 404 body.
