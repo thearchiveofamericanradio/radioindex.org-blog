@@ -13,7 +13,7 @@ export type PaperEntry = {
   /** Stable identifier, assigned once. See papers/NAMING.md. */
   id: string;
   /** The register this rendering is in. */
-  register: "voa" | "awl";
+  register: "academic";
   /** Slug of the paper of record. A register variant points at the canonical
    * rendering, because Scholar wants one paper per URL and two URLs carrying full
    * metadata for the same work is a duplicate, not two papers. */
@@ -23,12 +23,7 @@ export type PaperEntry = {
 export const PAPERS: Record<string, PaperEntry> = {
   "2026-09-02-dating-the-undated": {
     id: "AAR-TR-2026-0001",
-    register: "voa",
-    canonicalSlug: "2026-09-02-dating-the-undated",
-  },
-  "2026-09-02-register-awl": {
-    id: "AAR-TR-2026-0001",
-    register: "awl",
+    register: "academic",
     canonicalSlug: "2026-09-02-dating-the-undated",
   },
 };
