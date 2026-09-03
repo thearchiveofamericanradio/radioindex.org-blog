@@ -589,4 +589,3 @@ listings from the time. That sameness is a feature of the program sampled, not o
 collection. *WWII News* is international news, the kind of program most reliably printed in
 every city's radio log. A log drawn from local daytime drama would show a very different
 spread of marks, and section 6 should be read with that in mind.
-
