@@ -4,16 +4,17 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "tsx scripts/build-posts.ts && tsc --noEmit",
+    "build": "npm run papers && npm run papers:pdf && tsx scripts/build-posts.ts && tsc --noEmit",
     "dev": "tsx scripts/build-posts.ts && wrangler dev",
-    "deploy": "tsx scripts/build-posts.ts && wrangler deploy",
+    "deploy": "npm run papers && npm run papers:pdf && tsx scripts/build-posts.ts && wrangler deploy",
     "typecheck": "tsc --noEmit",
     "voa": "node scripts/voa-lint.mjs",
     "paper:ingest": "node scripts/paper-ingest.mjs",
     "paper:build": "node scripts/paper-build.mjs",
     "papers": "node scripts/paper-build.mjs papers/dating-undated.xml voa posts/2026-09-02-dating-the-undated.md && node scripts/paper-build.mjs papers/dating-undated.xml awl posts/2026-09-02-register-awl.md",
     "papers:all": "node scripts/paper-all.mjs ingest",
-    "papers:verify": "node scripts/paper-all.mjs verify"
+    "papers:verify": "node scripts/paper-all.mjs verify",
+    "papers:pdf": "node scripts/paper-pdf-embed.mjs"
   },
   "dependencies": {
     "hono": "^4.7.0"
