@@ -20,7 +20,7 @@
     "hono": "^4.7.0"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250214.0",
+    "@cloudflare/workers-types": "^5.20260820.1",
     "@types/node": "^22.13.4",
     "marked": "^18.0.10",
     "tsx": "^4.19.3",
