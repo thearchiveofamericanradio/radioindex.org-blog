@@ -28,4 +28,8 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          # Must track the wrangler devDependency in package.json. Left unset the
+          # action installs its own default wrangler, whose workers-types peer
+          # range contradicts ours and aborts the deploy with ERESOLVE.
+          wranglerVersion: "4.125.0"
           command: deploy
