@@ -14,7 +14,9 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          # wrangler and miniflare both declare engines.node >=22.0.0, and wrangler
+          # refuses to run on anything lower. Node 20 is also deprecated on the runners.
+          node-version: 22
           cache: npm
 
       - name: Install dependencies
