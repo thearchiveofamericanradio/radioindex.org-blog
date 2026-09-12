@@ -1,4 +1,5 @@
 import { Hono } from "hono";
+import { trimTrailingSlash } from "hono/trailing-slash";
 import { POSTS, SITE_META, RSS_XML, SITEMAP_XML, JSON_FEED, LLMS_TXT } from "./generated/posts";
 import { renderHome } from "./render-home";
 import { renderPost } from "./render-post";
@@ -8,6 +9,7 @@ import { paperFor } from "./paper-registry";
 import { PAPER_PDFS } from "./generated/paper-pdfs";
 
 const app = new Hono();
+app.use(trimTrailingSlash());
 
 const CACHE_HEADERS = {
   "Cache-Control": "public, max-age=300, s-maxage=86400, stale-while-revalidate=86400",
