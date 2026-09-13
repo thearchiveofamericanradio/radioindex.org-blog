@@ -40,7 +40,7 @@ export function renderPapers(posts: BlogPost[], meta: SiteMeta): string {
   const body = `
     <div class="papers">
       <h1 class="papers-heading">Technical Report</h1>
-      <p class="papers-count">${posts.length}</p>
+      <p class="papers-count">${sorted.length}</p>
       ${sections}
     </div>
   `;
