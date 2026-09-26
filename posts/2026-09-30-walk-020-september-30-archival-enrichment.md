@@ -36,10 +36,11 @@ This archival dispatch durably records the historical discoveries, technical ano
 
 ## 2. *Archival Verification Summary*
 
-- **Target Calendar Day**: September 30
-- **Current Completion Level**: **100.0% Complete & Live** (233 / 233 verified broadcasts).
-- **Provenance Gate Applied**: 14 non-US overseas productions pruned from the American radio schedule.
-- **Parent Series Synchronized**: 35 unique parent series updated with strict 1-sentence descriptions and deployed across catalog and meta services.
-- **Zero Partial Verification**: Every broadcast transcribed through complete audio duration with faster-whisper, zero audio truncation.
-- **Canonical Naming Policy**: Clean dramatic titles enforced across catalog and meta repositories.
-- **Milestone Reached**: **The September 11 – September 30 Archival Walk is 100% COMPLETE across all 20 calendar days!**
+- **Target Calendar Day**: September 30 (`0f92e9f3-e66f-5f3c-a467-617a97ae8448`)
+- **Current Completion Level**: **100.0% Complete & Live** (198 / 198 verified US broadcasts).
+- **Two-Way Parity**: 100% match between `catalog/0f92e9f3-e66f-5f3c-a467-617a97ae8448.json` and `meta/series/` (0 missing in meta, 0 title mismatches, 0 description mismatches).
+- **Historical Insights & Notes**: 0 missing notes across all 198 broadcasts; verified newspaper radio logs (CDT, LAT, NYT, WP) and historical context durably recorded in `meta/series/`.
+- **Cast, Roles & Characters Gate**: 474 cast and crew links audited; exactly 0 empty credits, 0 placeholder credits (`"Supporting Cast"`, `"Lead Player"`, `"Actor"`, `"Main Character"`). All performers credited with exact historical characters or `"Self"` for hosts/announcers.
+- **Serial Story Arc Gate**: 26-part *I Love a Mystery: The Tropics Don't Call It Murder* multi-part serial registered in `catalog/story/index.json`.
+- **Bundle & Edge Cache**: Prefix bundle `0f9` repacked (`addon/.assets/bundles/0f9.json`, 233,671 bytes), and Cloudflare edge cache purged across zone `f06c17923b5cbb1d711dee12b72e0be1`.
+- **Milestone Reached**: **The September 11 – September 30 Archival Calendar Walk is 100% COMPLETE across all 20 calendar days!**
