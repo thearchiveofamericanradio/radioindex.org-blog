@@ -62,4 +62,4 @@ The War Department receives the program's sponsor credit. The full surviving rec
 
 The full recording and captions were reviewed through the closing sign-off. The audio returned HTTP 200, and its measured duration of 5,338.625 seconds differs from the stored 5,338 seconds by less than 0.02%. The existing MP3 was preserved. Speaker evidence, crew attribution, newspaper sources, and the missing disc sides are recorded in the episode's metadata notes.
 
-The [metadata change](https://github.com/thearchiveofamericanradio/radioindex.org-meta/pull/875) contains the speaker links and research notes. This dispatch covers the single recording listed above.
+The metadata change contains the speaker links and research notes. This dispatch covers the single recording listed above.
