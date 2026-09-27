@@ -44,7 +44,7 @@ The September report names Van Ausdall as the Indianapolis representative delive
 
 Gambling introduces Witten at about 25:43 in the luncheon recording, and Witten thanks Gambling. The closing identifies WOR as owned and operated by L. Bamberger and Company. That announcement establishes ownership; the reviewed evidence supplies no separate commercial sponsor credit. [Elizabeth McLeod's recording history](https://www.otrr.org/FILES/Articles/Elizabeth%20McLeod/Documenting%20Early%20Radio.htm) corroborates both announcers, WOR, and Dave Kaplan's Melodists in its August 12 entry.
 
-The orchestra receives its own group credit. The primary report names Dave Kaplan's Melodists as luncheon entertainers, and the recording repeatedly announces Kaplan's orchestra. Thomas Edison's portrait is selected for the prepared metadata's primary credit image. [The Talking Machine World, page 27](https://archive.org/download/talkingmachinew23bill/page/n424.jpg).
+The orchestra receives its own group credit. The primary report names Dave Kaplan's Melodists as luncheon entertainers, and the recording repeatedly announces Kaplan's orchestra. Thomas Edison's portrait is selected as the metadata's primary credit image. [The Talking Machine World, page 27](https://archive.org/download/talkingmachinew23bill/page/n424.jpg).
 
 Near the end, an announcer reads from *The Marvels of the Edison Age*. The search-indexed text of [Queensland Radio News, December 1, 1928, page 11](https://www.worldradiohistory.com/AUSTRALIA/Archive-Queensland-Radio-News/1928/Qld-Radio-News-Vol-4-No-11-1928-12-01.pdf) attributes the matching passage to Herbert N. Casson. Direct access to the scan was unavailable during this review, so the byline has not been checked against the page image. Casson's credit is limited to the excerpt's authorship; no evidence places him at the microphone.
 
@@ -80,4 +80,4 @@ The luncheon file ends after another orchestral number is announced. Complete re
 
 ## Publication status
 
-As of September 27, the Internet Archive item has both original MP3s, the revised title and synopsis, WOR, and the nine credited names. **The RadioIndex metadata and catalog release remains pending.** The metadata change preserves the role assignments, transcript provenance, transfer checks, and research gaps. Prepared catalog projections passed their scoped parity checks; existing repository validation failures still block the application release.
+As of September 27, The Archive of American Radio publishes the revised title, synopsis, WOR attribution, and all ten credits, with the role assignments, transcript provenance, transfer checks, and research gaps described above. Its stream records label the Glenmont and luncheon files as Part 1 and Part 2. The Internet Archive item holds both original MP3s with the revised title and synopsis, WOR, and the nine credited names.
