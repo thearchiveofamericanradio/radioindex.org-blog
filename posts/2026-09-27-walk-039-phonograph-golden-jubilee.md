@@ -80,4 +80,4 @@ The luncheon file ends after another orchestral number is announced. Complete re
 
 ## Publication status
 
-As of September 27, the Internet Archive item has both original MP3s, the revised title and synopsis, WOR, and the nine credited names. **The RadioIndex metadata and catalog release remains pending.** The [metadata change](https://github.com/thearchiveofamericanradio/radioindex.org-meta/pull/876) preserves the role assignments, transcript provenance, transfer checks, and research gaps. Prepared catalog projections passed their scoped parity checks; existing repository validation failures still block the application release.
+As of September 27, the Internet Archive item has both original MP3s, the revised title and synopsis, WOR, and the nine credited names. **The RadioIndex metadata and catalog release remains pending.** The metadata change preserves the role assignments, transcript provenance, transfer checks, and research gaps. Prepared catalog projections passed their scoped parity checks; existing repository validation failures still block the application release.
