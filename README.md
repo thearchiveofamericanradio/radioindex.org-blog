@@ -2,8 +2,34 @@
 
 The Archive of American Radio's blog and technical report series.
 
-- Live: https://blog.radioindex.org
+- Live: https://blog.radioindex.org (and `https://www.archiveofamericanradio.org/blog`)
 - Papers index: https://blog.radioindex.org/papers
+
+## Production (OVH Docker Container)
+
+`blog.radioindex.org` runs on OVH (`40.160.150.108`) as a multi-stage Docker container (`radioindex-blog` listening on `127.0.0.1:8891`, reverse-proxied by host Caddy).
+
+### Automatic Deploy (`ri-sync.timer`)
+
+On OVH, `/usr/local/sbin/ri-sync` (`ri-sync.timer`, every 60s) fetches `origin/main` into `/srv/radioindex/blog-src`, builds `radioindex-blog:<sha>`, runs `/usr/local/sbin/ri-smoke blog`, and swaps the live `radioindex-blog` container on `127.0.0.1:8891` automatically whenever `main` advances.
+
+### Manual Build and Start on OVH
+
+```sh
+cd /srv/radioindex/blog-src
+git fetch origin main && git checkout -f origin/main
+TAG=$(git rev-parse --short=12 HEAD)
+
+sudo docker build -t "radioindex-blog:${TAG}" .
+sudo docker rm -f radioindex-blog 2>/dev/null || true
+sudo docker run -d \
+  --name radioindex-blog \
+  --restart always \
+  -p 127.0.0.1:8891:8891 \
+  "radioindex-blog:${TAG}"
+
+sudo /usr/local/sbin/ri-smoke blog
+```
 
 ## Publication venues
 
